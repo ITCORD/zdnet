@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 
 [news_broadcast]
 title = "지디넷코리아 ─ 뉴스 ─ 방송/통신"
-url = "https://zdnet.co.kr/news/?lstcode=0000&page=1"
+url = "https://zdnet.co.kr/news/?lstcode=0010&page=1"
 entrySelector = "div:nth-child(4) div.newsPost"
 titleSelector = "div.assetText a h3"
 linkSelector = "div.assetThumb a"
