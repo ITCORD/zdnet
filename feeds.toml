@@ -58,4 +58,22 @@ contentSelector = "div.assetText a p"
 imageSelector = "div.assetThumb a figure.img img"
 waitUntil = "networkidle"
 
+[news_cartech]
+title = "지디넷코리아 ─ 뉴스 ─ 카테크"
+url = "https://zdnet.co.kr/news/?lstcode=0057&page=1"
+entrySelector = "div:nth-child(4) div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetThumb a"
+contentSelector = "div.assetText a p"
+imageSelector = "div.assetThumb a figure.img img"
+waitUntil = "networkidle"
 
+[news_healthcare]
+title = "지디넷코리아 ─ 뉴스 ─ 헬스케어"
+url = "https://zdnet.co.kr/news/?lstcode=0058&page=1"
+entrySelector = "div:nth-child(4) div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetThumb a"
+contentSelector = "div.assetText a p"
+imageSelector = "div.assetThumb a figure.img img"
+waitUntil = "networkidle"
