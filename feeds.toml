@@ -1,9 +1,0 @@
-[zdnet_news]
-title = "지디넷코리아 ─ 뉴스 ─ 최신 뉴스"
-url = "https://zdnet.co.kr/news/?lstcode=0000&page=1"
-entrySelector = "div.news_box div.newsPost"
-titleSelector = "div.assetText a h3"
-linkSelector = "div.assetThumb a"
-contentSelector = "div.assetText a p"
-imageSelector = "div.assetThumb a figure.img img"
-waitUntil = "networkidle"
