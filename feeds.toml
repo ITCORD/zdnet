@@ -38,9 +38,9 @@ contentSelector = "div.assetText a p"
 imageSelector = "div.assetThumb a figure.img img"
 waitUntil = "networkidle"
 
-[news_computing]
-title = "지디넷코리아 ─ 뉴스 ─ 컴퓨팅"
-url = "https://zdnet.co.kr/news/?lstcode=0020&page=1"
+[news_internet]
+title = "지디넷코리아 ─ 뉴스 ─ 인터넷"
+url = "https://zdnet.co.kr/news/?lstcode=0040&page=1"
 entrySelector = "div:nth-child(4) div.newsPost"
 titleSelector = "div.assetText a h3"
 linkSelector = "div.assetThumb a"
@@ -48,5 +48,14 @@ contentSelector = "div.assetText a p"
 imageSelector = "div.assetThumb a figure.img img"
 waitUntil = "networkidle"
 
+[news_display]
+title = "지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이"
+url = "https://zdnet.co.kr/news/?lstcode=0050&page=1"
+entrySelector = "div:nth-child(4) div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetThumb a"
+contentSelector = "div.assetText a p"
+imageSelector = "div.assetThumb a figure.img img"
+waitUntil = "networkidle"
 
 
