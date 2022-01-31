@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 00:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 01:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규확진 1만7085명…3일 연속 1만7천명대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220131103004</link>
+            <guid>https://zdnet.co.kr/view/?no=20220131103004</guid>
+            <pubDate>Mon, 31 Jan 2022 01:53:25 GMT</pubDate>
+            <content:encoded><![CDATA[설 연휴 3일 연속 코로나19 신규 확진자가 1만7천명대를 기록했다. 1만명대를 넘은 것은 6일 연속이다. 중앙방역대책본부에 따르면 1월 31일 0시 기준 코로나19 신규 확진...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[설 연휴 응급실 내원, 소화기·근골격계질환·화상 사고 많아]]></title>
             <link>https://zdnet.co.kr/view/?no=20220127161234</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220127153853</guid>
             <pubDate>Sun, 30 Jan 2022 18:41:48 GMT</pubDate>
             <content:encoded><![CDATA[다음달 3일부터 코로나19 고위험군은 PCR 검사를 실시하되, 나머지 인원은 신속항원검사를 실시하는 진단검사체계 전환이 이뤄진다. 중앙방역대책본부(방대본)에 따르면, 검사체계개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 감염 예방법은 접종·마스크·대면접촉 자제·이상 시 검사]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220127151709</link>
-            <guid>https://zdnet.co.kr/view/?no=20220127151709</guid>
-            <pubDate>Sun, 30 Jan 2022 18:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[국내에서 오미크론 변이바이러스의 우세화에 따라 확진자 발생이 급증하고 있다. 방역당국은 접종·마스크·외출자제·이상 시 검사 등을 통한 오미크론 변이 예방을 권고했다. 중앙방역대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
