@@ -77,3 +77,23 @@ linkSelector = "div.assetThumb a"
 contentSelector = "div.assetText a p"
 imageSelector = "div.assetThumb a figure.img img"
 waitUntil = "networkidle"
+
+[issueplus]
+title = "지디넷코리아 ─ 이슈진단+"
+url = "https://zdnet.co.kr/special/issueplus.asp"
+entrySelector = "div.left_cont.special section.news_box.special_box div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetText a"
+contentSelector = "div.assetText a p.summary"
+imageSelector = "div.assetThumb a figure.img img"
+waitUntil = "networkidle"
+
+[metaverse]
+title = "지디넷코리아 ─ 메타버스"
+url = "https://zdnet.co.kr/newskey/?lstcode=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4"
+entrySelector = "div.news_box div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetThumb a"
+contentSelector = "div.assetText a p"
+imageSelector = "div.assetThumb a figure.img img"
+waitUntil = "networkidle"
