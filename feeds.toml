@@ -6,7 +6,7 @@ titleSelector = "div.assetText a h3"
 linkSelector = "div.assetThumb a"
 contentSelector = "div.assetText a p"
 imageSelector = "div.assetThumb a figure.img img"
-waitUntil = "networkidle"
+waitForSelector = "div.newsPost"
 
 [news_broadcast]
 title = "지디넷코리아 ─ 뉴스 ─ 방송/통신"
@@ -90,6 +90,16 @@ waitUntil = "networkidle"
 
 [metaverse]
 title = "지디넷코리아 ─ 메타버스"
+url = "https://zdnet.co.kr/newskey/?lstcode=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4"
+entrySelector = "div.news_box div.newsPost"
+titleSelector = "div.assetText a h3"
+linkSelector = "div.assetThumb a"
+contentSelector = "div.assetText a p"
+imageSelector = "div.assetThumb a figure.img img"
+waitUntil = "networkidle"
+
+[governance]
+title = "지디넷코리아 ─ 거버넌스"
 url = "https://zdnet.co.kr/newskey/?lstcode=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4"
 entrySelector = "div.news_box div.newsPost"
 titleSelector = "div.assetText a h3"
