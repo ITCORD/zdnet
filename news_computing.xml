@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 23:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 00:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['로그4j' 사태 후 50일.."몇 년은 지켜봐야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220130124524</link>
+            <guid>https://zdnet.co.kr/view/?no=20220130124524</guid>
+            <pubDate>Mon, 31 Jan 2022 00:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[역사상 가장 치명적인 취약점이라는 평가를 받았던 '로그4j' 보안 취약점이 지난 12월10일 발견된 뒤 50여 일이 지났다. 해킹 공격을 우려해 전세계 IT 업계가 긴급 대응에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[명절 단골 '해킹 공격' 유형 5선…방어법은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220128151534</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220127135322</guid>
             <pubDate>Sun, 30 Jan 2022 18:37:59 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 27일 현대자동차․기아 남양기술연구소 연구개발 현장을 방문해 개인정보 처리 기술 현황과 보호 대책 등에 대한 간담회를 갖고, '이용자 신뢰 기반의 자율주행 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 글로벌 온라인 해커톤 시상식 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220127163524</link>
-            <guid>https://zdnet.co.kr/view/?no=20220127163524</guid>
-            <pubDate>Sun, 30 Jan 2022 18:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(이하 KOSA, 대표 조준희)는 중소벤처기업부, 대·중소기업·농어업협력재단, 네이버클라우드주식회사와 공동으로 개최한 '글로벌 온라인 해커톤–애피타이저 해커...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
