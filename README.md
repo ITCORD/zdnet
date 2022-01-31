@@ -1,34 +1,12 @@
-# CI setup for Feed me up, Scotty!
+# 지디넷코리아 
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+https://itcord.github.io/zdnet/all.xml
 
-# Automatically generate feeds
-
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+- 최신뉴스: https://itcord.github.io/zdnet/news.xml
+- 방송/통신: https://itcord.github.io/zdnet/news_broadcast.xml
+- 컴퓨팅: https://itcord.github.io/zdnet/news_computing.xml
+- 홈&모바일: https://itcord.github.io/zdnet/news_mobile.xml
+- 인터넷: https://itcord.github.io/zdnet/news_internet.xml
+- 반도체/디스플레이: https://itcord.github.io/zdnet/news_display.xml
+- 카테크: https://itcord.github.io/zdnet/news_cartech.xml
+- 헬스케어: https://itcord.github.io/zdnet/news_healthcare.xml
