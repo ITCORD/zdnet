@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 04:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 05:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 카페는 IT를 입는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220131103820</link>
+            <guid>https://zdnet.co.kr/view/?no=20220131103820</guid>
+            <pubDate>Mon, 31 Jan 2022 05:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[카페 산업에 IT 바람이 거세다. 프랜차이즈 기업들은 차별력을 위해 앱 강화, 클라우드, 메타버스 등 다양한 기술 접목 시도를 하고 있다. MZ세대 공략이 중요해지고 비대면 트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['초거대 AI' 기술 상용화 성큼…네이버 '하이퍼클로바'로 초격차 벌린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220128154803</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220128084549</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:27 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰 '지금 우리 학교는'이 28일 오후 5시 넷플릭스 시리즈로 영상화 돼 190여 개국에서 동시 공개된다. 웹툰 '지금 우리 학교는'(주동근)은 평범한 학교에 좀비 바이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배민, '단건 배달' 수수료 조정한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220127184053</link>
-            <guid>https://zdnet.co.kr/view/?no=20220127184053</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족(배민) 운영사 우아한형제들이 단건 배달 서비스 배민1(원)의 중개 수수료를 개편하고, 새로운 요금제를 도입한다고 27일 밝혔다. 우아한형제들은 배민원 중개이용료를 인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
