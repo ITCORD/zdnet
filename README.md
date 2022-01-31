@@ -1,4 +1,6 @@
-# 지디넷코리아 
+# 지디넷코리아
+
+https://feeds.feedburner.com/zdkorea  
 
 https://itcord.github.io/zdnet/all.xml
 
