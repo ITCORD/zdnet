@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 22:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 02:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진자 2만명 돌파했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220202095543</link>
+            <guid>https://zdnet.co.kr/view/?no=20220202095543</guid>
+            <pubDate>Wed, 02 Feb 2022 02:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규 확진자 수가 2만 명을 돌파했다. 중앙방역대책본부에 따르면, 2일 0시 기준 국내 지역사회 확진자는 2만111명, 해외유입 사례는 159명 등 신규 확진자...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[설에 과음했다면 아세트아미노펜 함유 감기약 피해야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220201111448</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220128130140</guid>
             <pubDate>Sun, 30 Jan 2022 18:41:48 GMT</pubDate>
             <content:encoded><![CDATA[한국보건산업진흥원이 '국제입찰 컨설팅 지원사업' 참여기업을 모집한다. 해당 사업은 보건의료 분야에 특화해 해외조달시장 진출을 지원하는 진흥원의 국제입찰 지원사업이다. 모집 대상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK플라즈마, 혈액제제 남미 8개국과 384억 원 규모 수출 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220128114927</link>
-            <guid>https://zdnet.co.kr/view/?no=20220128114927</guid>
-            <pubDate>Sun, 30 Jan 2022 18:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[SK플라즈마가 아르헨티나 등 남미 8개국과 384억 원 규모의 혈액제제 수출 계약을 체결했다고 28일 밝혔다. 회사가 남미 소재 의약품 판매기업인 카이리와 수출 계약을 맺음에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
