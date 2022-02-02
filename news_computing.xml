@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 06:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 07:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글클라우드, 4분기 매출 45% 성장...적자폭 줄여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220202135149</link>
+            <guid>https://zdnet.co.kr/view/?no=20220202135149</guid>
+            <pubDate>Wed, 02 Feb 2022 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 3위 클라우드 서비스 구글 클라우드가 지난해 4분기 매출액을 전년 동기보다 45% 키우며, 고속성장 기조를 이어갔다. 구글 모회사 알파벳은 1일(현지시간) 2021년 4...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다크웹도 살피는 '털린 내 정보 찾기' 서비스 써보니]]></title>
             <link>https://zdnet.co.kr/view/?no=20220131052501</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220128104433</guid>
             <pubDate>Sun, 30 Jan 2022 18:37:59 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 가상화 선도 기업 틸론(대표 최백준)은 파이오링크(대표 조영철)와 가상데스크톱(VDI) 원격접속 게이트웨이 장비 개발과 구축 사업을 위한 전략적 업무 협약을 27일 체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[센골드, 2021년 거래액 1,000억 돌파하며 대안 투자처로 각광]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220128100627</link>
-            <guid>https://zdnet.co.kr/view/?no=20220128100627</guid>
-            <pubDate>Sun, 30 Jan 2022 18:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센(대표 박정재, 윤석형)그룹 계열사인 한국금거래소디지털에셋(대표 김현모, 김종인)의 센골드가 2021년 거래금액 1천억 원을 돌파했다고 28일 밝혔다. 최근 부진을 면치...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
