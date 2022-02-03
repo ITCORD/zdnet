@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 12:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타로 바꾼 페북, '메타버스 사업' 12조 손실]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220203213915</link>
+            <guid>https://zdnet.co.kr/view/?no=20220203213915</guid>
+            <pubDate>Thu, 03 Feb 2022 13:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[메타로 이름을 바꾼 페이스북이 메타버스 사업으로 지난 해 12조원 이상 손실을 기록한 것으로 나타났다. CNBC에 따르면 메타는 2일(현지시간) 리얼리티 랩스 부문이 2021년...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성폰, 작년 유럽 시장서 나홀로 성장세 '제자리걸음']]></title>
             <link>https://zdnet.co.kr/view/?no=20220203153625</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220129225304</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:13 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 독자 설계한 그래픽칩셋 '아크 알케미스트'가 올 1분기 출시를 앞두고 있다. 정식 출시를 앞두고 성능을 가늠할 수 있는 벤치마크 수치가 공개되어 눈길을 끈다. 가장 최근...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 전세계 스마트폰 출하량, 5년 만에 첫 증가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220129195359</link>
-            <guid>https://zdnet.co.kr/view/?no=20220129195359</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 스마트폰 출하량이 5년 만에 처음으로 증가했다. 2017년 이후 감소세를 면치 못했던 전 세계 스마트폰 출하량이 지난 해에는 5% 가량 늘어난 것으로 집계됐다고 테크크...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
