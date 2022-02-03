@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페북, 첫 이용자 감소…'아재 플랫폼'의 한계?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220203142733</link>
+            <guid>https://zdnet.co.kr/view/?no=20220203142733</guid>
+            <pubDate>Thu, 03 Feb 2022 06:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 16년 만에 처음으로 하루 이용자가 줄어드는 '낯선 경험'을 했다. 거침 없는 하이킥을 계속해 왔던 페이스북의 하루 이용자가 사상 처음 감소하면서 성장성이 한계에 달...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블랙베리, 휴대폰 사업 완전철수...모바일 특허 모두 매각]]></title>
             <link>https://zdnet.co.kr/view/?no=20220203134141</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220128224327</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:13 GMT</pubDate>
             <content:encoded><![CDATA[애플과의 앱스토어 소송 1심에서 패소한 에픽 게임즈가 든든한 후원군을 얻었다. 유타를 비롯한 미국 35개 주 법무부장관들은 애플이 앱스토어의 앱 배포 독점을 활용해 계속 경쟁을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 맥OS 몬터레이 12.3에 '유니버설 컨트롤' 탑재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220128095459</link>
-            <guid>https://zdnet.co.kr/view/?no=20220128095459</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 곧 공개할 맥OS 최신버전(몬터레이 12.3)과 아이패드OS 15.4에 유니버설 컨트롤과 한글 손글씨 입력 기능을 추가한다. 유니버설 컨트롤은 맥북에어·맥북프로 등 노트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
