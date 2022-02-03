@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 23:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 00:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[독, "반도체 기술 지키겠다"…글로벌웨이퍼스, 실트로닉스 인수 결렬]]></title>
+            <title><![CDATA[퀄컴, 4분기 매출 107억달러…전년比 30% 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220203081104</link>
+            <guid>https://zdnet.co.kr/view/?no=20220203081104</guid>
+            <pubDate>Thu, 03 Feb 2022 00:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 5G 스마트폰 보급률 증가에 힘입어 지난해 4분기 실적 호조를 기록했다. 퀄컴은 회계연도 2022년 1분기(2021년 10~12월) 실적에서 매출 107억달러(12조8천...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["반도체 기술 지키겠다"...獨, 글로벌웨이퍼스·실트로닉스 인수 불허]]></title>
             <link>https://zdnet.co.kr/view/?no=20220203070721</link>
             <guid>https://zdnet.co.kr/view/?no=20220203070721</guid>
             <pubDate>Wed, 02 Feb 2022 23:11:49 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220124163635</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 다음 달 열리는 반도체 학술행사 'ISSCC 2022'를 통해 비트코인 채굴 연산에 최적화된 ASIC(맞춤형 반도체) '보난자 마인'(Bonanza Mine)을 공개한다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·TSMC 경쟁에 인텔 가세...파운드리 3강 구도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220124160748</link>
-            <guid>https://zdnet.co.kr/view/?no=20220124160748</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[파운드리 시장에서 TSMC와 삼성전자가 경쟁을 펼치고 있는 가운데 인텔이 재진출을 선언하면서 본격적인 3강 구도가 전개될 전망이다. 3사는 파운드리 시장 선점을 위해 올해 대규...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
