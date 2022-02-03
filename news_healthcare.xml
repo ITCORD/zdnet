@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PCR검사, 고위험군 등 우선…자가검사키트 수급 문제 없어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220203161139</link>
+            <guid>https://zdnet.co.kr/view/?no=20220203161139</guid>
+            <pubDate>Thu, 03 Feb 2022 08:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[오늘부터 PCR검사는 고위험군 등 우선대상자를 중심으로 진행된다. 그 외에 검사를 희망하는 사람들은 선별진료소를 방문해 개인용 신속항원검사를 하거나, 약국 등에서 자가검사키트를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 확진자 관리 참여 동네 병·의원, 검사 391개소·진료 208개소]]></title>
             <link>https://zdnet.co.kr/view/?no=20220203153339</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220127161234</guid>
             <pubDate>Sun, 30 Jan 2022 20:12:54 GMT</pubDate>
             <content:encoded><![CDATA[설 연휴 기간동안 소화기·근골격계 질환·기름 화상이 빈발하는 것으로 나타나 주의가 요구된다. 과식으로 생기는 소화불량과 급체는 연휴 기간 동안 응급실 내원 빈도가 높은 질환이다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 항바이러스제, 오미크론 변이에 델타변이와 효과 동등]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220130234315</link>
-            <guid>https://zdnet.co.kr/view/?no=20220130234315</guid>
-            <pubDate>Sun, 30 Jan 2022 20:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[코로나바이러스19 치료에 사용되는 항바이러스제가 오미크론 변이에서 델타 변이와 동등한 효과를 보인다는 연구결과가 발표됐다. 일본 도쿄대학 의과학연구소의 카와오카 요시히로 특임교...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
