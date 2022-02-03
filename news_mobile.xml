@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙베리, 휴대폰 사업 완전철수...모바일 특허 모두 매각]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220203134141</link>
+            <guid>https://zdnet.co.kr/view/?no=20220203134141</guid>
+            <pubDate>Thu, 03 Feb 2022 05:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[쿼티(QWERTY) 자판으로 스마트폰 시장에서 인기를 끌었던 블랙베리가 모바일 사업에서 완전 철수했다. 3일 씨넷재팬에 따르면 블랙베리는 모바일 디바이스에 관련된 모든 특허 자...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반도체 공급망 이슈로 '갤S22 시리즈' 모델별 출시 지연 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20220203123121</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220128095459</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:13 GMT</pubDate>
             <content:encoded><![CDATA[애플이 곧 공개할 맥OS 최신버전(몬터레이 12.3)과 아이패드OS 15.4에 유니버설 컨트롤과 한글 손글씨 입력 기능을 추가한다. 유니버설 컨트롤은 맥북에어·맥북프로 등 노트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IDC "지난해 세계 스마트폰 출하량 13.5억대...5.7% 증가"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220128092236</link>
-            <guid>https://zdnet.co.kr/view/?no=20220128092236</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[지난 해 전 세계 스마트폰 출하량은 13억 5천만대로 2020년 대비 5.7% 늘었다. 27일(미국 현지시간) 시장조사업체 IDC에 따르면 지난 해 스마트폰 출하량은 3분기부터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
