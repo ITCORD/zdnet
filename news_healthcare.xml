@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 00:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 01:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2만명 돌파 사흘만에 최다 신규확진 '2만7443명']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220204100723</link>
+            <guid>https://zdnet.co.kr/view/?no=20220204100723</guid>
+            <pubDate>Fri, 04 Feb 2022 01:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[오미크론 변이바이러스 확산에 따른 국내 코로나19 확진자 수가 기하급수적으로 늘고 있다. 2만명을 넘어선지 3일만에 2만 명대 후반에 접어들고 있다. 중앙방역대책본부에 따르면,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[터키, SK바사 GMP 인증…"동유럽 두번째 큰 시장 수출 기대”]]></title>
             <link>https://zdnet.co.kr/view/?no=20220204092529</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220201110104</guid>
             <pubDate>Tue, 01 Feb 2022 02:29:51 GMT</pubDate>
             <content:encoded><![CDATA[3일부터 전국 선별진료소에서 코로나19 진단검사 방식에서 자가검사키트가 활용된다. 정확한 사용법을 안내한다. 자가검사키트는 보건소 선별진료소 방문 시 무료로 제공받을 수 있다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[설날 국내 신규 확진 '1만8343명']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220201094603</link>
-            <guid>https://zdnet.co.kr/view/?no=20220201094603</guid>
-            <pubDate>Tue, 01 Feb 2022 02:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[1일 0시 기준 국내 코로나19 신규 확진자 수는 1만8천343명으로 집계됐다. 중앙방역대책본부에 따르면, 전날 지역사회 확진자는 1만8천123명, 해외유입 사례는 220명이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
