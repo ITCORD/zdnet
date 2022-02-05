@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 00:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 01:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오, 뉴스 서비스 확 달라진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220204172420</link>
+            <guid>https://zdnet.co.kr/view/?no=20220204172420</guid>
+            <pubDate>Sat, 05 Feb 2022 01:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[올해부터 네이버와 카카오의 뉴스 서비스 운영 방안에 큰 차이가 있을 예정이다. 네이버는 언론사 구독을 중심으로 하지만, 뉴스 서비스 알고리즘을 계속 검증하면서 고도화하겠다는 계...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위기의 메타, 메타버스로 명성 되찾을까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220204162957</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220203090747</guid>
             <pubDate>Thu, 03 Feb 2022 00:34:12 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)의 민간우주기업 스페이스X가 인공위성 인터넷 서비스 '스타링크' 프리미엄 버전을 출시했다고 CNBC 등 복수 외신은 2일(현지시간) 보도했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, 세븐 페이츠: 착호 OST 'Stay Alive' 공개한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220203091418</link>
-            <guid>https://zdnet.co.kr/view/?no=20220203091418</guid>
-            <pubDate>Thu, 03 Feb 2022 00:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰은 하이브 오리지널 스토리 '7FATES: CHAKHO'(세븐 페이츠: 착호)의 OST인 'Stay Alive'(Prod. SUGA of BTS)가 5일 11시(이하 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
