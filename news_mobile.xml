@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 21:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 22:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 아크 알케미스트 그래픽카드 실물 사진 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220205233045</link>
+            <guid>https://zdnet.co.kr/view/?no=20220205233045</guid>
+            <pubDate>Sat, 05 Feb 2022 22:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 올 1분기 출시할 아크 알케미스트 그래픽카드 실물 사진이 공개됐다. IT매체 비디오카즈는 4일(미국 현지시간) 입수한 아크 알케미스트 그래픽카드 엔지니어링 샘플 사진을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰 OLED 채택 속도 늦춘다...칩 가격 인상 때문]]></title>
             <link>https://zdnet.co.kr/view/?no=20220204163142</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220203094525</guid>
             <pubDate>Thu, 03 Feb 2022 01:50:52 GMT</pubDate>
             <content:encoded><![CDATA[일본 파나소닉이 4월부터 일본에서 생산하는 냉장고·세탁기 등 가전제품 가격을 인상한다. 해외에서 일부 제품을 대상으로 가격을 올린 파나소닉은 생산 효율화 등으로 흡수하지 못한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[니콘이미징코리아, 2월 니콘스쿨 프로그램 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220203094203</link>
-            <guid>https://zdnet.co.kr/view/?no=20220203094203</guid>
-            <pubDate>Thu, 03 Feb 2022 01:50:52 GMT</pubDate>
-            <content:encoded><![CDATA[니콘이미징코리아가 2월 진행될 온라인 니콘스쿨 프로그램을 공개했다. 온라인 니콘스쿨은 카메라 조작 방법과 소프트웨어 활용법, 사진 촬영 테크닉 등을 비대면으로 배울 수 있는 온...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
