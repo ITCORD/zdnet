@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 03:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 04:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, OLED 소재 특성 평가망 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220206120921</link>
+            <guid>https://zdnet.co.kr/view/?no=20220206120921</guid>
+            <pubDate>Sun, 06 Feb 2022 04:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이가 유기발광다이오드(OLED) 패널 소재 특성을 평가하는 체계를 만들었다. 삼성디스플레이는 7일 OLED 소재의 특성을 사전 평가하는 '싱크(Sync)-OLED'를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[300조·50조…삼성전자·SK하이닉스가 올해 쓸 새로운 숫자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220204153022</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220126071118</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
             <content:encoded><![CDATA[미국 상무부가 비정상적인 반도체 가격을 조사하겠다고 예고했다. 지난해 세계 주요 반도체 회사로부터 얻은 정보로 내린 결론이다. 상무부는 25일(현지시간) 반도체 공급망 정보 요...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 반도체로 카드 위조 막는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220125152950</link>
-            <guid>https://zdnet.co.kr/view/?no=20220125152950</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 25일 지문 인증과 보안 칩을 하나로 만든 생체 인증 카드용 집적회로(IC)를 선보였다. 생체 인증 카드는 사용자의 지문 정보를 읽고 인증하는 IC가 들어간 카드다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
