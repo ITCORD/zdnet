@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진앤현시큐리티, 주한 미국대사관 주최 보안 세미나 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220207110136</link>
+            <guid>https://zdnet.co.kr/view/?no=20220207110136</guid>
+            <pubDate>Mon, 07 Feb 2022 02:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[진앤현시큐리티(대표 김병익)가 미국 현지 보안기업들을 대상으로 한 보안세미나에서 대한민국 방산/공공시장의 사이버 보안현황에 대해 발표를 진행했다고 7일 밝혔다. 이번 발표는 주...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[레드햇, '오픈시프트 플랫폼 플러스'에 데이터 서비스 통합]]></title>
             <link>https://zdnet.co.kr/view/?no=20220207100857</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220204094212</guid>
             <pubDate>Fri, 04 Feb 2022 01:43:46 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)가 차세대 혼합현실(MR) 헤드셋 홀로렌즈3 개발을 중단했다고 IT매체 비즈니스인사이더가 3일(현지시간) 내부 소식통을 인용해 보도했다. 소식통에 따르면 차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트, '바이낸스 스마트 체인' 오입금 사전 방지한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220204090117</link>
-            <guid>https://zdnet.co.kr/view/?no=20220204090117</guid>
-            <pubDate>Fri, 04 Feb 2022 01:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[암호화폐 거래소 업비트는 투자자들의 오입금 방지를 위해 바이낸스와의 협조를 진행했다고 4일 밝혔다. 업비트는 오입금 복구 지원 가능한 유형을 지속 확대해왔으며, 그 결과 오입금...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
