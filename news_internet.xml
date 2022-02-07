@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인앱결제 강제금지' 비웃은 애플의 '27% 수수료']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220207142855</link>
+            <guid>https://zdnet.co.kr/view/?no=20220207142855</guid>
+            <pubDate>Mon, 07 Feb 2022 06:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 앱스토어 독점이 전 세계적인 쟁점으로 떠오르고 있다. 앱 배포 및 결제 방식 독점이 핵심 이슈다. 특히 인앱결제 시스템을 독점 제공하면서 '30% 수수료'를 떼 가는 관...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우티, 직접 결제 기능 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220207104232</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220204084801</guid>
             <pubDate>Fri, 04 Feb 2022 00:35:23 GMT</pubDate>
             <content:encoded><![CDATA[디지털경제연합(이하 디경연)에서 안철수 대선후보와 함께 디지털경제 성장을 위한 정책간담회를 개최한다. 7일 오전 11시에 여의도에서 개최되는 이번 간담회는 'G3 디지털경제 강...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['페북 쇼크' 메타, 주가 26.4% 폭락…시총 284조 증발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220204083704</link>
-            <guid>https://zdnet.co.kr/view/?no=20220204083704</guid>
-            <pubDate>Fri, 04 Feb 2022 00:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북 모회사인 메타의 시가총액이 하루 만에 284조원이 사라졌다. 하루 낙폭으로는 미국 증시 사상 최대 규모다. 3일(현지시간) 나스닥에서 메타 주가는 사상 최대폭인 26....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
