@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 06:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 07:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT스카이라이프, 작년 매출 9.2%↑…HCN 인수 효과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220207150854</link>
+            <guid>https://zdnet.co.kr/view/?no=20220207150854</guid>
+            <pubDate>Mon, 07 Feb 2022 07:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[HCN을 품은 KT스카이라이프가 지난해 연간 매출이 9.2% 뛰어오른 실적을 내놨다. KT스카이라이프는 2021년 한 해 연결 기준 매출액이 7천632억원으로 전년대비 9.2%...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["美, 2.1조 든다던 중국산 통신장비 교체에 6.7조 필요할 수도"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220207140203</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220204001937</guid>
             <pubDate>Fri, 04 Feb 2022 02:11:52 GMT</pubDate>
             <content:encoded><![CDATA[정부가 홈쇼핑사의 과중한 정액수수료로 중소기업이 피해를 보지 않도록 하기 위해 수수료 부담방식을 개선한다. 과학기술정보통신부는 홈쇼핑사와 중소기업 납품업체 간 합리적인 거래 환...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[돌비, 밀리캐스트 인수...스트리밍 개발자 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220204094325</link>
-            <guid>https://zdnet.co.kr/view/?no=20220204094325</guid>
-            <pubDate>Fri, 04 Feb 2022 01:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[돌비가 웹RTC 기반의 스트리밍 솔루션 회사인 밀리캐스트(Millicast)를 인수했다. 3일(현지시간) 테크크런치 보도에 따르면, 돌비는 웹 스트리밍 환경에서 오디오와 비디오...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
