@@ -4,14 +4,22 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NBC유니버설, 베이징 동계 올림픽 VR 스트리밍 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220207093233</link>
+            <guid>https://zdnet.co.kr/view/?no=20220207093233</guid>
+            <pubDate>Mon, 07 Feb 2022 09:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[NBC유니버설이 베이징 동계 올림픽 가상현실(VR) 콘텐츠 스트리밍 서비스를 제공한다. 미국 IT매체 엔가젯은 4일(현지시간) NBC유니버설이 8K 해상도 베이징 동계올림픽 V...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기자협회, 대선 후보 초청 합동토론회 11일 밤 8시 개최]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Mon, 07 Feb 2022 08:12:58 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 09:11:05 GMT</pubDate>
             <content:encoded><![CDATA[한국기자협회는 종합편성채널 4개사(MBN·JTBC·채널A·TV조선)와 보도전문채널(연합뉴스TV·YTN 이상 한글 가나다 순) 2개사 등 6개 방송사 공동 주관으로 대선 후보 합...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220206104711</guid>
             <pubDate>Sun, 06 Feb 2022 02:05:41 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스(대표 황현식)가 중소 알뜰폰 사업자와 상생하기 위해 아동 고객을 대상으로 한 프로모션을 실시한다고 6일 밝혔다. LG유플러스는 키즈 고객이 부모의 스마트폰을 물려받...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 협력사 사업제안 프로세스 개편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220206104252</link>
-            <guid>https://zdnet.co.kr/view/?no=20220206104252</guid>
-            <pubDate>Sun, 06 Feb 2022 02:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[KT(대표 구현모)가 파트너사와 사업 기회를 적극적으로 발굴하기 위해 사업제안 프로세스를 개편한다고 6일 밝혔다. KT는 파트너사가 우수한 아이디어와 서비스 제안을 손쉽게 할 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
