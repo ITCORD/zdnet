@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 06:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 07:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아-소프트뱅크, ARM 인수 공식 철회 선언]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220208155948</link>
+            <guid>https://zdnet.co.kr/view/?no=20220208155948</guid>
+            <pubDate>Tue, 08 Feb 2022 07:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 2020년 9월부터 일본 소프트뱅크 그룹과 추진하던 ARM 인수작업 중단을 공식 선언했다. 엔비디아와 소프트뱅크 그룹은 8일 공동 보도자료를 통해 이같이 밝혔다. 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울바이오시스 "마이크로LED, 4분기째 매출 성장"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220208145938</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220127112636</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 미국 인텔을 제치고 3년 만에 반도체 매출 세계 1위를 되찾았다. 삼성전자는 27일 연결 재무제표 기준으로 지난해 반도체 부문 매출이 94조1천600억원이라고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 메모리사업부에 인센티브 300% 지급…반도체 1위 보상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220126173451</link>
-            <guid>https://zdnet.co.kr/view/?no=20220126173451</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 지난해 전세계 반도체 매출 1위 달성에 기여한 메모리사업부 임직원들에게 기본급(상여기초금) 300%의 추가 인센티브를 지급한다. 경계현 삼성전자 대표이사 사장 겸 D...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
