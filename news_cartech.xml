@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 02:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 03:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[철도예매 앱으로 버스 등 환승 정보도 한 눈에 확인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220208112826</link>
+            <guid>https://zdnet.co.kr/view/?no=20220208112826</guid>
+            <pubDate>Tue, 08 Feb 2022 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[철도예매 앱 '코레일톡'으로 열차 예매는 물론 버스 등 대중교통정보와 지역 관광정보도 확인할 수 있게 된다. 국토교통부와 한국철도공사(대표 나희승)는 철도 이용 편의 개선을 위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마그나, 통합 운전자·탑승자 모니터링 시스템 獨 완성차에 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20220208101303</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220203090518</guid>
             <pubDate>Thu, 03 Feb 2022 00:34:55 GMT</pubDate>
             <content:encoded><![CDATA[미국 테슬라가 중국에서 인기 인플루언서를 상대로 소송을 제기했다. 2일 중국 언론 타이핑양뎬나오왕에 따르면 테슬라가 중국에서 모델3에 대한 허위정보를 유포한 혐의로 인기 영상 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 터치 한번에 해킹완료. 더욱 중요한 전기차 보안]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220121103443</link>
-            <guid>https://zdnet.co.kr/view/?no=20220121103443</guid>
-            <pubDate>Thu, 03 Feb 2022 00:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[친환경 정책, 빅테크 기업들의 진출 등으로 주목 받고있는 전기차. 최근 전기차의 시스템 해킹 위험이 큰 문제로 제기되고 있습니다. 이번 영상에서는 전기차의 보안 문제에 관해 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
