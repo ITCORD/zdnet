@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 08:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 09:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW, 온라인서 'M440i x드라이브 쿠페' 판매]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220208174324</link>
+            <guid>https://zdnet.co.kr/view/?no=20220208174324</guid>
+            <pubDate>Tue, 08 Feb 2022 09:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[BMW코리아는 15일부터 온라인 샵에서 'M440i x드라이브 쿠페'를 판매한다고 밝혔다. M440i x드라이브 쿠페는 알파인화이트·블랙사파이어·아틱레이스블루·산레모그린 등 네...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신비의 테슬라 사이버트럭, 드론이 잡아냈다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220208140506</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220204092515</guid>
             <pubDate>Fri, 04 Feb 2022 01:46:05 GMT</pubDate>
             <content:encoded><![CDATA[테슬라가 안전벨트 경고음 기능 오류로 차량 81만대 이상을 리콜한다고 CNBC 등 복수 외신들이 3일(이하 현지시간) 보도했다. 보도에 따르면, 지난해와 새해 출시된 테슬라 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['완전 충전하면 307km 주행'…쌍용차, 코란도 이모션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220203110435</link>
-            <guid>https://zdnet.co.kr/view/?no=20220203110435</guid>
-            <pubDate>Thu, 03 Feb 2022 02:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[쌍용자동차가 4일 준중형 전기 SUV '코란도 이모션'을 출시한다. 코란도 이모션은 코란도 플랫폼을 활용한 전기 SUV다. 모터는 190마력, 36.7kg.m를 낸다. 배터리 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
