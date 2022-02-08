@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작년 가상자산 거래액 1경9천조…불법 거래액은 0.15%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220208111915</link>
+            <guid>https://zdnet.co.kr/view/?no=20220208111915</guid>
+            <pubDate>Tue, 08 Feb 2022 02:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[불법 가상자산(암호화폐) 거래 금액이 사상 최고치를 기록했지만, 가상자산 이용률이 범죄률보다 훨씬 크게 증가하면서 전체 거래 금액에 대한 비중으로 보면 최저치를 기록했다. 블록...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[호스트웨이, IDC 핵심 서비스 패키지 51% 할인 프로모션]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220208110432</link>
+            <guid>https://zdnet.co.kr/view/?no=20220208110432</guid>
+            <pubDate>Tue, 08 Feb 2022 02:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[호스트웨이는(대표 남성주) IT 인프라에 필수적인 데이터센터 서비스를 패키지로 묶은 단독 Colo패키지를 51% 할인된 가격에 제공하는 프로모션을 진행한다고 8일 밝혔다. 단독...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제네시스, 한국필립모리스에 제네시스 클라우드 CX 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20220208104748</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220207141444</guid>
             <pubDate>Mon, 07 Feb 2022 06:13:17 GMT</pubDate>
             <content:encoded><![CDATA[이재명 더불어민주당 대선후보선거대책위원회는 오는 3월9일 대한민국 제20대 대통령 선거 자금을 위한 '이재명 펀드'를 출시할 예정이라고 밝혔다. 해당 펀드는 대체불가토큰(NFT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아르고CD, 경로 탐색 취약점 발견…긴급 패치 배포]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220207112548</link>
-            <guid>https://zdnet.co.kr/view/?no=20220207112548</guid>
-            <pubDate>Mon, 07 Feb 2022 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[쿠버네티스 기반 환경에서 데브옵스 플랫폼으로 많이 쓰이는 아르고CD에서 비밀번호와 API 키에 우회 접근하는 보안취약점이 발견됐다. 이에 아르고CD 프로젝트 개발팀은 긴급 패치...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진앤현시큐리티, 주한 미국대사관 주최 보안 세미나 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220207110136</link>
-            <guid>https://zdnet.co.kr/view/?no=20220207110136</guid>
-            <pubDate>Mon, 07 Feb 2022 02:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[진앤현시큐리티(대표 김병익)가 미국 현지 보안기업들을 대상으로 한 보안세미나에서 대한민국 방산/공공시장의 사이버 보안현황에 대해 발표를 진행했다고 7일 밝혔다. 이번 발표는 주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
