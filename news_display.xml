@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 04:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKC "올해 반도체·동박에 1.6조 투자"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220208121907</link>
+            <guid>https://zdnet.co.kr/view/?no=20220208121907</guid>
+            <pubDate>Tue, 08 Feb 2022 05:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[SKC는 8일 연결 재무제표 기준 지난해 영업이익이 2020년보다 130% 늘어난 4천645억원으로 잠정 집계됐다고 공시했다. 매출액은 3조3천961억원으로 37.7% 증가했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, ARM 인수 결국 좌절..."경쟁방해 우려 때문"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220208092910</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220126175603</guid>
             <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이가 대세로 자리잡은 유기발광다이오드(OLED) TV 수요에 힘입어 사상 최고 매출액을 기록하면서 흑자전환에 성공했다. LG디스플레이는 26일 연결 재무제표 기준 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 작년 영업익 1조2642억원…사상 최대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220126164425</link>
-            <guid>https://zdnet.co.kr/view/?no=20220126164425</guid>
-            <pubDate>Sun, 30 Jan 2022 18:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[LG이노텍 연간 영업이익이 처음으로 1조원을 넘었다. LG이노텍은 26일 연결 재무제표 기준 지난해 영업이익이 2020년보다 85.64% 늘어난 1조2천642억원으로 잠정 집계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
