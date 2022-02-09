@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공기관, 개인정보관리 관리수준 살펴보니..."접근권한 관리 미흡"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220209170533</link>
+            <guid>https://zdnet.co.kr/view/?no=20220209170533</guid>
+            <pubDate>Wed, 09 Feb 2022 08:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원화가 공공기관의 개인정보 관리수준을 진단한 결과, 개인정보 관리체계와 보호대책 수준은 양호했으나, 침해 대책은 다소 미흡한 것으로 나타났다. 특히 개인정보 유출 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시청자 개인정보로 보험 영업...EBS·키움에셋에 과징금 2억]]></title>
             <link>https://zdnet.co.kr/view/?no=20220209154824</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220208172446</guid>
             <pubDate>Tue, 08 Feb 2022 23:11:40 GMT</pubDate>
             <content:encoded><![CDATA[2022년이 시작된 지 두 달째지만 대기업이 참여할 수 있는 대형 공공SW 사업 관련 정보가 아직 공개되고 있지 않다. 이에 따라 IT서비스 기업들은 사업 수주를 위한 입찰 준...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파수·스패로우, 고용부 '2022년 청년친화강소기업'에 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220208173635</link>
-            <guid>https://zdnet.co.kr/view/?no=20220208173635</guid>
-            <pubDate>Tue, 08 Feb 2022 09:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[파수와 자회사 스패로우는 고용노동부가 선정한 '2022년 청년친화 강소기업'에 이름을 올렸다고 8일 밝혔다. 청년친화 강소기업은 ▲임금 ▲일생활균형 ▲고용안정을 각각 부문별로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
