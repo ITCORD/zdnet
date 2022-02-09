@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 21:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 22:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['갤럭시S22' 발열 잡았다...새 냉각 기술 적용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220210023607</link>
+            <guid>https://zdnet.co.kr/view/?no=20220210023607</guid>
+            <pubDate>Wed, 09 Feb 2022 22:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자는 갤럭시S22 시리즈에 발열을 줄일 수 있는 새로운 냉각 기술들을 적용했다고 10일 온라인으로 개최된 '갤럭시 언팩 2022'에 밝혔다. 지난해 출시된 갤럭시S21 시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "갤S21도 OS 업데이트 최대 4회 보장"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220210013843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220209071331</guid>
             <pubDate>Tue, 08 Feb 2022 23:12:20 GMT</pubDate>
             <content:encoded><![CDATA[애플이 8일(미국 현지시간) 아이폰을 이용해 결제를 받을 수 있는 '탭투페이' 기능을 공개했다. 애플페이는 현재 비접촉 결제 국제 표준 'EMV'를 지원하는 단말기에서만 작동한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모토로라 엣지 시리즈 차기 모델, 24일 美서 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220208164243</link>
-            <guid>https://zdnet.co.kr/view/?no=20220208164243</guid>
-            <pubDate>Tue, 08 Feb 2022 08:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[모토로라 엣지 시리즈의 다음 모델이 미국에서 오는 24일 공개된다고 IT 전문 매체 폰아레나가 보도했다. 이번 신제품도 통신사 버라이즌을 통해 출시될 예정이다. 공개될 모델의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
