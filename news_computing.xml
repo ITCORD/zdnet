@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행정안전부, 올해 전자정부 지원사업 11개 과제 총 694억 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220209123926</link>
+            <guid>https://zdnet.co.kr/view/?no=20220209123926</guid>
+            <pubDate>Wed, 09 Feb 2022 04:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부가 올해 전자정부 지원 사업 11개 과제에 총 694억 원을 투자한다고 9일 밝혔다. 행정안전부는 정보기술(IT) 기업을 대상으로 2022년 전자정부지원사업 사업설명회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인젠트 엑스퍼DB, LF 신규 DBMS 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20220209120313</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220208150913</guid>
             <pubDate>Tue, 08 Feb 2022 06:13:57 GMT</pubDate>
             <content:encoded><![CDATA[쿠콘(대표 김종현)은 대출 한도 및 금리 조회 API로 구현되는 대출 비교 서비스가 다양한 업권에서 활용되고 있다고 8일 밝혔다. 쿠콘은 키움증권과 하나카드의 마이데이터 서비스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 클라우드, 암호화폐 채굴 공격 감지 기능 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220208143147</link>
-            <guid>https://zdnet.co.kr/view/?no=20220208143147</guid>
-            <pubDate>Tue, 08 Feb 2022 06:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[구글 클라우드가 암호화폐 채굴공격(크립토재킹)을 감지하는 보안기능 '가상머신 위협감지(VMTD)'를 8일(현지시간) 발표했다. 보안 명령 센터(SCC)에 추가된 VMTD는 구글...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
