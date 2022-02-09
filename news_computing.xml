@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인젠트 엑스퍼DB, LF 신규 DBMS 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220209120313</link>
+            <guid>https://zdnet.co.kr/view/?no=20220209120313</guid>
+            <pubDate>Wed, 09 Feb 2022 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[인젠트(대표 남석우)는 프리미엄 패션기업 LF의 온라인 사업확장 및 구조변화를 위해 오픈소스 DBMS 데이터 플랫폼 '엑스퍼DB(eXperDB)'를 구축했다고 9일 밝혔다. L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오피스365, 신뢰할 수 없는 VBA 매크로 기본 차단]]></title>
             <link>https://zdnet.co.kr/view/?no=20220209110357</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220208143147</guid>
             <pubDate>Tue, 08 Feb 2022 06:13:57 GMT</pubDate>
             <content:encoded><![CDATA[구글 클라우드가 암호화폐 채굴공격(크립토재킹)을 감지하는 보안기능 '가상머신 위협감지(VMTD)'를 8일(현지시간) 발표했다. 보안 명령 센터(SCC)에 추가된 VMTD는 구글...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에스넷시스템, 구글 워크스페이스 파트너 자격 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220208134710</link>
-            <guid>https://zdnet.co.kr/view/?no=20220208134710</guid>
-            <pubDate>Tue, 08 Feb 2022 05:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[에스넷시스템(대표 박효대, 장병강)은 구글 워크스페이스(Google Workspace) 파트너 자격을 취득했다고 8일 밝혔다. 코로나19 장기화로 하이브리드 업무 환경에 대한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권덕철 장관 "의학 사유 2·3차 미접종자 노바백스 백신으로 교차접종 고려”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220209114325</link>
+            <guid>https://zdnet.co.kr/view/?no=20220209114325</guid>
+            <pubDate>Wed, 09 Feb 2022 03:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[권덕철 보건복지부 장관이 국내 첫 합성항원 방식의 노바백스 코로나19 백신을 교차접종에 사용할 수 있도록 준비 중이라고 말했다. 권 장관은 9일 오전 경북 안동 SK바이오사이언...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK바사, 노바백스 백신 200만 회분 9일 첫 출하]]></title>
             <link>https://zdnet.co.kr/view/?no=20220209111838</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220208150120</guid>
             <pubDate>Tue, 08 Feb 2022 06:15:47 GMT</pubDate>
             <content:encoded><![CDATA[노바백스 코로나19 백신 접종이 가능해진다. 식품의약품안전처(식약처)는 SK바이오사이언스가 국내에서 제조한 '뉴백소비드 프리필드시린지' 84만 회분에 대해 2월8일 국가출하를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[또 최다 확진자 '3만6719명' 발생]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220208102053</link>
-            <guid>https://zdnet.co.kr/view/?no=20220208102053</guid>
-            <pubDate>Tue, 08 Feb 2022 01:57:09 GMT</pubDate>
-            <content:encoded><![CDATA[8일 0시 기준 국내 코로나19 확진자가 3만6천719명으로 집계됐다. 중앙방역대책본부에 따르면, 전날 지역사회 확진자는 3만6천619명, 해외유입 사례는 100명으로 확인됐다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
