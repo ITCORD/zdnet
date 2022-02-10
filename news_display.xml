@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍원정밀 "OLED 마스크 국산화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220210164358</link>
+            <guid>https://zdnet.co.kr/view/?no=20220210164358</guid>
+            <pubDate>Thu, 10 Feb 2022 08:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[“풍원정밀이 국내에서 처음으로 파인메탈마스크(FMM)를 국산화했습니다. 국책 과제에 뽑혀 개발해온 결실을 맺었습니다.” 유명훈 풍원정밀 대표이사는 10일 온라인에서 열린 기업설...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["車 업계, 반도체 수요 잘못 예측해 작년 세계 생산량 1000만대 줄어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220210130050</link>
             <guid>https://zdnet.co.kr/view/?no=20220210130050</guid>
             <pubDate>Thu, 10 Feb 2022 05:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[조성환 현대모비스 사장이 10일 온라인으로 열린 반도체 전시회 '세미콘 코리아'에서 "자동차 업계가 반도체 수요를 잘못 예측해 지난해 국내외 자동차 생산량이 1천만대 넘게 줄었...]]></content:encoded>
+            <content:encoded><![CDATA[조성환 현대모비스 사장이 10일 온라인으로 열린 반도체 전시회 '세미콘 코리아'에서 “자동차 업계가 반도체 수요를 잘못 예측해 지난해 국내외 자동차 생산량이 1천만대 넘게 줄었...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220206120921</guid>
             <pubDate>Sun, 06 Feb 2022 04:14:37 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 유기발광다이오드(OLED) 패널 소재 특성을 평가하는 체계를 만들었다. 삼성디스플레이는 7일 OLED 소재의 특성을 사전 평가하는 '싱크(Sync)-OLED'를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[300조·50조…삼성전자·SK하이닉스가 올해 쓸 새로운 숫자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220204153022</link>
-            <guid>https://zdnet.co.kr/view/?no=20220204153022</guid>
-            <pubDate>Fri, 04 Feb 2022 07:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[300조원과 50조원. 삼성전자와 SK하이닉스가 각각 올해 달성할 매출액 추정치다. 메모리 반도체 업황이 빠르게 나아지면서 이들 회사가 올해도 신기록을 세울 것으로 보인다. 4...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
