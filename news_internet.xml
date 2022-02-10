@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[남궁훈 카카오 "주가 15만원 될때까지 최저시급 받겠다"]]></title>
+            <title><![CDATA[류긍선 카카오모빌리티 "이동 수단 넘어 일상생활 변화 가져올 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220210143307</link>
+            <guid>https://zdnet.co.kr/view/?no=20220210143307</guid>
+            <pubDate>Thu, 10 Feb 2022 06:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[“카카오모빌리티는 그간 이동 생활에 혁신을 불어넣었다. 앞으로 이동의 다음, 즉 '넥스트 모빌리티(NEXT Mobility)'를 구현하고자 한다. 이동 수단을 넘어 일상생활에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[남궁훈 카카오 "주가 15만원 될때까지 최저임금 받겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220210102253</link>
             <guid>https://zdnet.co.kr/view/?no=20220210102253</guid>
             <pubDate>Thu, 10 Feb 2022 01:54:43 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220209093624</guid>
             <pubDate>Wed, 09 Feb 2022 02:10:38 GMT</pubDate>
             <content:encoded><![CDATA[페이스북을 운영하고 있는 메타의 시가총액 6천억 달러가 붕괴됐다. 8일(현지시간) 나스닥 시장에서 메타 주가는 전날보다 2.1% 하락한 224.91달러로 마감됐다. 이날 주가가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, 게시물 한꺼번에 지울 수 있게 한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220209072835</link>
-            <guid>https://zdnet.co.kr/view/?no=20220209072835</guid>
-            <pubDate>Wed, 09 Feb 2022 00:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 게시물, 댓글 등을 대량으로 삭제할 수 있는 기능을 도입한다. 미국 IT매체 엔가젯은 8일(현지시간) 인스타그램이 사용자 프로필 '내 활동'에서 게시물, 댓글, 좋...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
