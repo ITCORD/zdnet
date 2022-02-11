@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[람다256, 시리즈B 투자 유치 완료…누적 1055억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211152703</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211152703</guid>
+            <pubDate>Fri, 11 Feb 2022 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 클라우드 서비스 플랫폼 '루니버스' 운영사 람다256(대표 박재현)은 지난해 12월 시리즈B 투자 1차 유치에 이어 신규 투자사로 하이브, 와이지엔터테인먼트, NH투자...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS·구글, Log4j 등 오픈소스 보안개선 앞장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211144343</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210110742</guid>
             <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
             <content:encoded><![CDATA[범용업무지향언어 '코볼'이 예상보다 더 많이 쓰이고 있는 것으로 조사됐다. 전세계 코볼 사용자들은 향후에도 활용을 유지할 계획이라고 답했다. 오히려 코볼의 중요성과 양은 더 증...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 자율주행·스마트시티 등 공공데이터 21개 분야 연내 추가 개방]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210110829</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210110829</guid>
-            <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부가 자율주행, 스마트시티 등 국민 생활과 밀접한 공공 데이터를 21개 분야를 추가 개방한다. 행정안전부는 공공데이터전략위원회(이하 전략위) 영상회의를 개최했다고 10일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

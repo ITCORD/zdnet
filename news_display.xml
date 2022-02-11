@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 07:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이온큐 "양자컴퓨터, 반도체 산업 폭풍 일으킨다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211154032</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211154032</guid>
+            <pubDate>Fri, 11 Feb 2022 07:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[아이온큐는 양자컴퓨터가 반도체 산업에 큰 바람을 일으킬 것이라고 기대했다. 미국 듀크대 교수인 김정상 아이온큐 공동창업자(CTO·최고기술경영자)는 11일 온라인으로 열린 반도체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['점유율 9%' 유럽, 반도체법 효과 볼까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211091106</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220207162705</guid>
             <pubDate>Mon, 07 Feb 2022 08:13:45 GMT</pubDate>
             <content:encoded><![CDATA[“자율주행 자동차 센서 제조부터 검사까지 아우르겠습니다. 센싱 카메라에 라이다(LiDar)까지 영역을 넓히려고 합니다.” 배상신 퓨런티어 대표이사는 7일 온라인에서 열린 기업설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 전원 IC 부하 응답 속도·안정도 향상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220207150339</link>
-            <guid>https://zdnet.co.kr/view/?no=20220207150339</guid>
-            <pubDate>Mon, 07 Feb 2022 07:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 7일 전원 집적회로(IC)의 부하(전기 에너지 소비) 응답 특성을 개선한 기술 '퀵커(QuiCur™)'를 선보였다. 부하 응답 속도와 전압 안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
