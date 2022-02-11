@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑셈, 클라우드상 PostgreSQL DB도 모니터링···"화장품 대기업에 설치중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211105920</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211105920</guid>
+            <pubDate>Fri, 11 Feb 2022 02:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[엑셈이 클라우드 DB 모니터링 시장 공략에 드라이브를 건다. 11일 엑셈(대표 조종암)은 국내 최다 DB 기종을 지원하는 자사의 '맥스게이지(MaxGauge)' 제품에 SaaS...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[안랩, 작년 영업익 229억…전년 대비 15% ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211102159</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210103402</guid>
             <pubDate>Thu, 10 Feb 2022 01:53:53 GMT</pubDate>
             <content:encoded><![CDATA[포스코ICT(대표 정덕균)가 모든 직원들이 즐겁게 일하는 행복한 조직문화 조성을 위해 5데이즈(5 Days) 프로그램을 올해부터 운영한다고 10일 밝혔다. 5 데이즈는 땡스 데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 "일류 보안기업 키운다"...올해 2100억 집중투입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210100031</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210100031</guid>
-            <pubDate>Thu, 10 Feb 2022 01:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 정보보호 산업을 차세대 전략 산업으로 육성하기 위해 올해 2천100억원의 예산을 투입한다. '인공지능(AI) 기반 보안' 같은 신(新)보안 시장을 창출해 산업의 성장 동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
