@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 00:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['점유율 9%' 유럽, 반도체법 효과 볼까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211091106</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211091106</guid>
+            <pubDate>Fri, 11 Feb 2022 01:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU)이 반도체 주권 확립을 목표로 반도체법을 만든다고 미국 정보기술(IT) 전문 매체 HPC와이어가 10일(현지시간) 보도했다. HPC와이어는 유럽이 주요 반도체 생...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[풍원정밀 "OLED 마스크 국산화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220210164358</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220207150339</guid>
             <pubDate>Mon, 07 Feb 2022 07:12:03 GMT</pubDate>
             <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 7일 전원 집적회로(IC)의 부하(전기 에너지 소비) 응답 특성을 개선한 기술 '퀵커(QuiCur™)'를 선보였다. 부하 응답 속도와 전압 안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, OLED 소재 특성 평가망 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220206120921</link>
-            <guid>https://zdnet.co.kr/view/?no=20220206120921</guid>
-            <pubDate>Sun, 06 Feb 2022 04:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 유기발광다이오드(OLED) 패널 소재 특성을 평가하는 체계를 만들었다. 삼성디스플레이는 7일 OLED 소재의 특성을 사전 평가하는 '싱크(Sync)-OLED'를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
