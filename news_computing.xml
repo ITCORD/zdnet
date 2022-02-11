@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가짜 윈도11 설치프로그램 주의...개인정보·암호화폐 노려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211120113</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211120113</guid>
+            <pubDate>Fri, 11 Feb 2022 04:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[윈도11 설치프로그램으로 위장한 사이트와 악성코드가 발견돼 주의가 요구된다. 10일(현지시간) 미국 지디넷에 따르면 HP 보안 연구원 패트릭 슐래퍼는 윈도11 설치프로그램으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑셈, 클라우드상 PostgreSQL DB도 모니터링···"화장품 대기업에 설치중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211105920</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210103533</guid>
             <pubDate>Thu, 10 Feb 2022 01:53:53 GMT</pubDate>
             <content:encoded><![CDATA[오라클은 제록스의 신규 비즈니스 출시를 지원하기 위해 오라클 클라우드 인프라스트럭처(OCI)를 제공했다고 10일 밝혔다. 제록스는 오라클 클라우드 솔루션을 활용해 제조용 3D ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코ICT, 행복한 조직문화 조성 프로그램 운영]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210103402</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210103402</guid>
-            <pubDate>Thu, 10 Feb 2022 01:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[포스코ICT(대표 정덕균)가 모든 직원들이 즐겁게 일하는 행복한 조직문화 조성을 위해 5데이즈(5 Days) 프로그램을 올해부터 운영한다고 10일 밝혔다. 5 데이즈는 땡스 데...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

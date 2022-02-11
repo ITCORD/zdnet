@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버웹툰 '모럴센스', 넷플릭스 영화로 오늘 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211121041</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211121041</guid>
+            <pubDate>Fri, 11 Feb 2022 04:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰 '모럴센스'가 넷플릭스 영화로 11일 오후 5시 190여 개국에서 동시 공개된다. 웹툰 모럴센스(겨울)는 남다른 성적 취향을 가진 주인공 '지후'와 그의 비밀을 알게...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틴더, 상대방 프로필 확인 전 대화 기능 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211110126</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220209232626</guid>
             <pubDate>Wed, 09 Feb 2022 15:14:16 GMT</pubDate>
             <content:encoded><![CDATA[홍콩 증시에서 거래되고 있는 중국 전기차업체 샤오펑이 선강통(深港通)에 포함되면서 중국 투자자 공략의 기반을 마련했다. 선강통이란 선전 증시와 홍콩 증시를 연결하는 국경간 투자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN페이코, 오프라인 거래 확대 집중...커머스 경쟁력도 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220209161751</link>
-            <guid>https://zdnet.co.kr/view/?no=20220209161751</guid>
-            <pubDate>Wed, 09 Feb 2022 09:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[NHN페이코가 지난해 4분기 거래규모 2조1천억원을 기록하며 전년 동기 대비 14% 성장한 모습을 보였다. 페이코는 앞으로도 오프라인 거래 규모 확대에 집중하면서 커머스 사업도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
