@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 06:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS·구글, Log4j 등 오픈소스 보안개선 앞장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211144343</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211144343</guid>
+            <pubDate>Fri, 11 Feb 2022 06:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)와 구글이 전세계 사이버 보안 위협으로 떠오른 오픈소스 소프트웨어 공급망(이하 공급망) 보안 문제 개선에 앞장선다. 최근 오픈소스 보안재단(OpenSSF)은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가짜 윈도11 설치프로그램 주의...개인정보·암호화폐 노려]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211120113</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210110829</guid>
             <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부가 자율주행, 스마트시티 등 국민 생활과 밀접한 공공 데이터를 21개 분야를 추가 개방한다. 행정안전부는 공공데이터전략위원회(이하 전략위) 영상회의를 개최했다고 10일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제록스, 신규 비즈니스에 오라클 클라우드 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210103533</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210103533</guid>
-            <pubDate>Thu, 10 Feb 2022 01:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[오라클은 제록스의 신규 비즈니스 출시를 지원하기 위해 오라클 클라우드 인프라스트럭처(OCI)를 제공했다고 10일 밝혔다. 제록스는 오라클 클라우드 솔루션을 활용해 제조용 3D ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
