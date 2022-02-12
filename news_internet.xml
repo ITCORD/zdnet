@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 23:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 00:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지디의 네웹소설] 궁중 판타지 로맨스 '더 캐슬']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220211152155</link>
+            <guid>https://zdnet.co.kr/view/?no=20220211152155</guid>
+            <pubDate>Sat, 12 Feb 2022 00:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[궁중 판타지 로맨스 웹소설 '더 캐슬'(글 꽃제이)은 수천 년 전부터 내려온 귀멸(鬼滅)의 힘으로 그림에서 튀어나오는 도깨비를 뜻하는 '이매'를 소탕하는 내용을 담은 작품이다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[연매출 6조원 네이버·카카오…"주주가치 제고 노력"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211190318</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210092958</guid>
             <pubDate>Thu, 10 Feb 2022 00:52:06 GMT</pubDate>
             <content:encoded><![CDATA[메타가 미국 이용자를 대상으로 메신저 내에 '정산(Split Payments)' 기능을 적용했다. 메타는 9일(현지시간) 자사 뉴스룸에서 페이스북메신저 정산하기 기능을 미국 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 동영상 속도 조절 기능 테스트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210092031</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210092031</guid>
-            <pubDate>Thu, 10 Feb 2022 00:52:06 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 동영상 재생 속도를 조절할 수 있는 기능을 테스트하고 있다. 9일(현지시간) 매셔블 등 외신은 트위터가 안드로이드와 웹에서 동영상과 음성 메모 재생 속도 조절 기능을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
