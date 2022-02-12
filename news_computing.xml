@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 00:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 02:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 주식 동반하락…러·우크라이나 분쟁 직격탄]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220212094752</link>
+            <guid>https://zdnet.co.kr/view/?no=20220212094752</guid>
+            <pubDate>Sat, 12 Feb 2022 01:59:25 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 팬데믹으로 수요가 증가하면서 양호한 실적을 기록했던 반도체 관련 기업들이 러시아-우크라이나 간 갈등에 발목을 잡혔다. 퀄컴, AMD를 비롯한 주요 반도체 관련주들이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[람다256, 시리즈B 투자 유치 완료…누적 1055억원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211152703</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210111556</guid>
             <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
             <content:encoded><![CDATA[웹케시(대표 강원주)가 이달 중 자금관리 시스템 '브랜치4.0'에 횡령방지를 위한 'AI안심자금보고서' 및 'FDS시스템'을 추가 장착하고 ERP 연계를 확장해서 새롭게 출시한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코볼 코드 3배 증가…전세계에 8천500억 라인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210110742</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210110742</guid>
-            <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[범용업무지향언어 '코볼'이 예상보다 더 많이 쓰이고 있는 것으로 조사됐다. 전세계 코볼 사용자들은 향후에도 활용을 유지할 계획이라고 답했다. 오히려 코볼의 중요성과 양은 더 증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
