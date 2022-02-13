@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20만명 넘은 코로나 재택치료 확진자···자동문진 SW 등장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220213153139</link>
+            <guid>https://zdnet.co.kr/view/?no=20220213153139</guid>
+            <pubDate>Sun, 13 Feb 2022 07:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[신종 코로나바이러스 감염증(코로나19) 오미크론 변이 확산으로 국내 재택치료 중인 확진자 수가 20만명이 넘은 가운데 소프트일레븐(대표 정영민)이 재택치료 관련 자동 문진 소프...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국민 21%만 "맞춤 서비스에 온라인 활동정보 제공 의향"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220213104245</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210112319</guid>
             <pubDate>Thu, 10 Feb 2022 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[네이버클라우드(대표 박원기)는 스톰게임즈의 다중접속온라인역할수행게임(MMORPG) '사신'이 자사의 글로벌 리전과 게임팟, 게임챗 등을 활용해 올 상반기 글로벌 출시한다고 10...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN 클라우드, CNCF 쿠버네티스 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210111759</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210111759</guid>
-            <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[NHN(대표 정우진)은 NHN쿠버네티스 서비스가 클라우드네이티브컴퓨팅파운데이션(CNCF)의 '쿠버네티스 인증(Certified Kubernetes)'을 획득했다고 10일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
