@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 04:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민 21%만 "맞춤 서비스에 온라인 활동정보 제공 의향"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220213104245</link>
+            <guid>https://zdnet.co.kr/view/?no=20220213104245</guid>
+            <pubDate>Sun, 13 Feb 2022 04:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호 실태조사 결과 맞춤형 서비스 이용을 위해 자신의 온라인 활동 정보를 제공할 의향이 있다는 응답은 단 21%에 그쳤다. 개인정보를 가명처리 하더라도 활용을 허용하겠다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반도체 주식 동반하락…러·우크라이나 분쟁 직격탄]]></title>
             <link>https://zdnet.co.kr/view/?no=20220212094752</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210111759</guid>
             <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
             <content:encoded><![CDATA[NHN(대표 정우진)은 NHN쿠버네티스 서비스가 클라우드네이티브컴퓨팅파운데이션(CNCF)의 '쿠버네티스 인증(Certified Kubernetes)'을 획득했다고 10일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹케시, '브랜치4.0' 횡령방지 및 이상거래감지시스템 이달 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220210111556</link>
-            <guid>https://zdnet.co.kr/view/?no=20220210111556</guid>
-            <pubDate>Thu, 10 Feb 2022 02:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[웹케시(대표 강원주)가 이달 중 자금관리 시스템 '브랜치4.0'에 횡령방지를 위한 'AI안심자금보고서' 및 'FDS시스템'을 추가 장착하고 ERP 연계를 확장해서 새롭게 출시한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
