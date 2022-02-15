@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 09:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 10:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일부 아이폰 케이스, 충전 시 과열로 배터리 수명 줄인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215174441</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215174441</guid>
+            <pubDate>Tue, 15 Feb 2022 10:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[아이폰 케이스를 씌운 상태에서 충전할 경우 과열 때문에 배터리 수명을 줄어드는 경우가 있다는 지적이 제기됐다. 미국 지디넷은 일부 아이폰 케이스를 착용한 채 충전한 결과 과열이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털 자산 금융 서비스 '업파이', 코인플러그 DID 인증 탑재]]></title>
             <link>https://zdnet.co.kr/view/?no=20220215180542</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220215094326</guid>
             <pubDate>Tue, 15 Feb 2022 02:05:36 GMT</pubDate>
             <content:encoded><![CDATA[GS네오텍(지에스네오텍, 대표 남기정)이 이달 28일까지 2022년 상반기 신입 및 경력사원 채용을 실시한다고 15일 밝혔다. 채용은 클라우드, CDN, 컨택센터 3개 분야에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루시큐리티, 데이터·통합보안관제 특허 3건 취득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215092055</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215092055</guid>
-            <pubDate>Tue, 15 Feb 2022 02:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[정보보호 업체 이글루시큐리티(대표 이득춘)는 데이터와 통합보안관제(SIEM) 분야에서 3건의 특허 등록을 완료했다고 15일 밝혔다. 이번에 등록한 3건의 특허는 대용량 데이터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
