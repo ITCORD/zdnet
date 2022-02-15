@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 06:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 온실가스 저감 과학 인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215142212</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215142212</guid>
+            <pubDate>Tue, 15 Feb 2022 06:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 15일 '과학 기반 감축 목표 이니셔티브(SBTi·Science Based Targets initiative)' 인증을 받았다고 밝혔다. 파리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[키오스크코리아 "LED 제품 다양화로 시장 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220215105052</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220209122321</guid>
             <pubDate>Wed, 09 Feb 2022 05:11:18 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 반도체 없으면 모든 것이 연결되는 초연결 시대를 맞을 수 없다고 밝혔다. 김형섭 삼성전자 반도체연구소장(부사장)은 9일 온라인으로 열린 반도체 전시회 '세미콘 코리아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최대 반도체 전시회 '세미콘코리아' 개막]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220209101208</link>
-            <guid>https://zdnet.co.kr/view/?no=20220209101208</guid>
-            <pubDate>Wed, 09 Feb 2022 02:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내에서 가장 큰 반도체 전시회 '세미콘 코리아'가 막을 올렸다. 500개사가 9일부터 11일까지 서울 삼성동 코엑스에서 최신 반도체 기술을 선보인다. 신종 코로나바이러스 감염...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
