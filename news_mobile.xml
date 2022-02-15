@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 06:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 07:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플의 인앱결제 꼼수와 '전용차로 위반 과태료']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215151134</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215151134</guid>
+            <pubDate>Tue, 15 Feb 2022 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[고속도로에서 버스 전용차로를 무단 주행하면 과태료가 부과된다. 승용차는 5만원, 승합차는 6만원이다. 과태료는 단속 카메라에 적발된 횟수만큼 부과된다. 승용차로 서울에서 대전까...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["미니LED 갖춘 신형 아이맥 프로, 6월에 나온다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220215145257</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220213102712</guid>
             <pubDate>Sun, 13 Feb 2022 01:58:48 GMT</pubDate>
             <content:encoded><![CDATA[LG전자 고화질과 편의성을 모두 갖춘 LG 시네빔 레이저 4K 신제품 2종을 국내시장에 출시한다. LG 시네빔 레이저 4K 신제품(시리즈명: HU715Q)은 초단초점 방식을 적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 갤럭시S22 시리즈 사전 판매 실시…자급제 전용 색상 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220213094600</link>
-            <guid>https://zdnet.co.kr/view/?no=20220213094600</guid>
-            <pubDate>Sun, 13 Feb 2022 01:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 갤럭시S22 시리즈 사전 판매를 14일부터 21일까지 8일간 진행한다. 국내 공식 출시는 25일이다. 갤럭시S22 시리즈는 ▲갤럭시S22(6.1형) ▲갤럭시S22+(...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
