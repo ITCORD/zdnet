@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 04:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 폴더블 아이폰 콘셉트 등장…이름은 '아이폰 에어']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215105121</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215105121</guid>
+            <pubDate>Tue, 15 Feb 2022 05:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 2024년 출시할 것으로 전망되는 폴더블 아이폰의 모습을 예상한 새로운 콘셉트 영상이 공개됐다고 IT매체 폰아레나가 14일(현지시간) 보도했다. 최근 공개된 콘셉트 영상...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠하이저, 이어폰·헤드폰 최대 45% 할인 행사]]></title>
             <link>https://zdnet.co.kr/view/?no=20220215113443</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220211162142</guid>
             <pubDate>Fri, 11 Feb 2022 08:11:54 GMT</pubDate>
             <content:encoded><![CDATA[애플이 에어태그의 원치 않는 추적을 알려주는 경고음을 개선하는 등 보안을 강화한다. 에어태그는 애플 기기의 블루투스 기능으로 다른 물품의 위치를 알려주는 기기다. 최근 미국에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 와이파이6E 지원 넷기어 나이트호크 'RAXE500']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220211161415</link>
-            <guid>https://zdnet.co.kr/view/?no=20220211161415</guid>
-            <pubDate>Fri, 11 Feb 2022 08:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[넷기어 나이트호크 RAXE500(이하 RAXE500)은 2.4/5/6GHz 주파수 대역을 모두 지원하는 와이파이6E 기반 유무선공유기다. 통합 대역폭은 최대 10.8Gbps이며...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
