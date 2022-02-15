@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 00:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, 올해 최장거리 우주여행에 도전한다 [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215093851</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215093851</guid>
+            <pubDate>Tue, 15 Feb 2022 02:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크의 우주 탐사 기업 스페이스X가 올해 역사상 가장 멀리 우주인을 우주로 보낼 예정이다. 온라인 지불업체 시프트4페이먼트의 창업자이자 작년 9월에 진행된 민간 우주여행...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/15/013f028d8e35934026e824a73f9d61b6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[썩은 고기만 찾아다니는 독수리, 그들이 꼭 필요한 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20220214151039</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220214142938</guid>
             <pubDate>Mon, 14 Feb 2022 06:18:17 GMT</pubDate>
             <content:encoded><![CDATA[화성 탐사선 엑소마스(ExoMars)의 가스추적 궤도선(TGO, Trace Gas Orbiter)이 고양이가 지표면에 발톱 자국을 남긴 듯한 화성 사진을 촬영해 공개했다고 IT...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/14/a7b2c47fd5ee776e6c407a83fe9da4a1-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["코로나19 널리 퍼질수록 위중증 환자는 감소"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220209093145</guid>
             <pubDate>Wed, 09 Feb 2022 02:16:23 GMT</pubDate>
             <content:encoded><![CDATA[한국전자통신연구원(ETRI, 원장 김명준)은 근로자의 생체 데이터를 기반으로 스트레스를 측정 및 분석하고 솔루션을 제공하는 인공지능(AI) 플랫폼을 국제공동 연구로 개발 중이라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA 탐사로버, 화성서 하루 최장주행 기록 깼다 [여기는 화성]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220209084401</link>
-            <guid>https://zdnet.co.kr/view/?no=20220209084401</guid>
-            <pubDate>Wed, 09 Feb 2022 00:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[미국 항공우주국(NASA)의 화성탐사 로버 '퍼시비어런스'가 화성에서 하루 주행거리 기록을 경신했다고 IT매체 씨넷이 8일(이하 현지시간) 보도했다. NASA JPL은 트위터를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
