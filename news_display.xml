@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 23:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 00:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 공급난, 진짜로 10~20년 지속될까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215163120</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215163120</guid>
+            <pubDate>Wed, 16 Feb 2022 00:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[“2030년에 인터넷 연결기기가 2020년보다 10배로 늘어날 것으로 추산된다. 10~20년 뒤에도 반도체가 여전히 부족할 수 있다.”(피터 베닝크 ASML 회장) 피터 베닝크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 타워 세미컨덕터 54억 달러에 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220216014116</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220210005559</guid>
             <pubDate>Wed, 09 Feb 2022 17:16:03 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴은 9일(미국 현지시간) 삼성전자가 '갤럭시 언팩 2022'를 통해 공개한 갤럭시S22와 갤럭시탭S8에 스냅드래곤 8 1세대 AP(애플리케이션 프로세서)를 공급했다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ASML 회장 "10~20년 뒤에도 반도체 부족할 수 있어"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220209162045</link>
-            <guid>https://zdnet.co.kr/view/?no=20220209162045</guid>
-            <pubDate>Wed, 09 Feb 2022 08:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 반도체 장비회사 ASML의 피터 베닝크 회장이 "10~20년 뒤에도 수요 증가로 반도체가 부족할 수 있다"며 "ASML은 반도체 산업에서 중요한 한국과 힘을 합쳐 생태...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
