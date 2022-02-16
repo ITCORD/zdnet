@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 06:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 07:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저장·연산 한번에…SK하이닉스, 지능형 메모리 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220216160017</link>
+            <guid>https://zdnet.co.kr/view/?no=20220216160017</guid>
+            <pubDate>Wed, 16 Feb 2022 07:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 16일 연산 기능을 갖춘 차세대 메모리 반도체 PIM(Processing-In-Memory)을 개발했다고 밝혔다. 정보를 담는 메모리 반도체에 연산 기능을 더했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["반도체=속도전…3년 뒤 도와주면 늦어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220216142816</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220211172035</guid>
             <pubDate>Fri, 11 Feb 2022 09:12:07 GMT</pubDate>
             <content:encoded><![CDATA[시스템 반도체 디자인 솔루션 기업 코아시아가 지난해 연결 매출액 3922억원, 영업손실 125억원을 기록했다고 11일 밝혔다. 같은 기간 순손실은 96억원이다. 코아시아 측은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이온큐 "양자컴퓨터, 반도체 산업 폭풍 일으킨다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220211154032</link>
-            <guid>https://zdnet.co.kr/view/?no=20220211154032</guid>
-            <pubDate>Fri, 11 Feb 2022 07:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[아이온큐는 양자컴퓨터가 반도체 산업에 큰 바람을 일으킬 것이라고 기대했다. 미국 듀크대 교수인 김정상 아이온큐 공동창업자(CTO·최고기술경영자)는 11일 온라인으로 열린 반도체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
