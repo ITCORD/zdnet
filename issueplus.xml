@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 00:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 02:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 공급난, 진짜로 10~20년 지속될까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220215163120</link>
+            <guid>https://zdnet.co.kr/view/?no=20220215163120</guid>
+            <pubDate>Wed, 16 Feb 2022 02:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 가열되는 반도체 공급망 주도권 경쟁]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/06/03/4c84914926f56cdf6b15283e3c507b65-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도전받는 글로벌 1위 삼성폰...갤럭시S22에 사활]]></title>
             <link>https://zdnet.co.kr/view/?no=20220211155420</link>
@@ -182,14 +190,6 @@
             <pubDate>Mon, 31 Jan 2022 09:55:06 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 플랫폼 전방위 규제 시작됐나-上]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2021/09/09/99a66633f60e039fe133ebefa9c1ce70-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버와 쿠팡이 '나중에 결제' 도입한 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20210903153323</link>
-            <guid>https://zdnet.co.kr/view/?no=20210903153323</guid>
-            <pubDate>Mon, 31 Jan 2022 09:55:06 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 국내서도 부는 BNPL 바람...소비자 '락인 효과' 기대]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/09/03/eb753e3c5db7a18443a1dd22dd630afd-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
