@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 14:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 15:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["메타버스 입학식은 처음"…서강대, 메타버스 인재 양성 나선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220216210116</link>
+            <guid>https://zdnet.co.kr/view/?no=20220216210116</guid>
+            <pubDate>Wed, 16 Feb 2022 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[“흥미롭네요. 메타버스에서 입학식 해보긴 처음입니다.” 16일 서울 마포구 서강대학교 가브리엘관 스튜디오. 이곳에 있는 모든 사람은 메타의 가상현실(VR) 헤드셋 오큘러스 퀘스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/16/18777099e1d8fe52fcd79cb57bece9c1.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[모더나 CEO "코로나 팬데믹, 막바지라 보는 게 합리적"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220216222545</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220216194558</guid>
             <pubDate>Wed, 16 Feb 2022 11:09:41 GMT</pubDate>
             <content:encoded><![CDATA[워게이밍(대표 빅터 키슬리)은 해상 전투 MMO 게임 '월드 오브 워쉽(World of Warships)' 0.11.1 업데이트를 통해 새로운 군함과 전투 유형을 선보였다고 1...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/16/721e0113aad55298dae26ab6e6ff6933-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[티몬 "웹예능 '게임부록', 콘텐츠 커머스 결합해 구매 전환 꾀한다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216170605</guid>
             <pubDate>Wed, 16 Feb 2022 08:11:49 GMT</pubDate>
             <content:encoded><![CDATA['시퀴러스코리아'가 공식 출범했다. 시퀴러스코리아는 16일 온라인 간담회를 통해 한국 법인의 출범을 알렸다. 시퀴러스는 글로벌 최대 인플루엔자 백신 기업으로, CSL의 자회사다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중기 제품 공공 진입 효자 '혁신제품 지정' 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216170601</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216170601</guid>
-            <pubDate>Wed, 16 Feb 2022 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부(중기부)는 중소기업이 개발한 혁신제품을 공공조달과 연계해 지원하기 위해 중소기업의 혁신성과 공공성이 있는 제품을 16일부터 다음달 15일까지 모집한다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
