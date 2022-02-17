@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니포인트, 상반기 공개 채용 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220217151247</link>
+            <guid>https://zdnet.co.kr/view/?no=20220217151247</guid>
+            <pubDate>Thu, 17 Feb 2022 06:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[유니포인트(대표 권은영)가 2022년 상반기 공개 채용 모집을 진행한다고 17일 밝혔다. 채용 일정은 3월 8일까지며, 채용 규모는 두 자리 수가 될 예정이다. 이번 상반기 공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌, 프레시웍스와 파트너십 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20220217135123</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216174705</guid>
             <pubDate>Wed, 16 Feb 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[전사적자원관리(ERP) 시스템 전문업체 영림원소프트랩은 한국삼공에 ERP 'K-시스템 에이스'를 공급한다고 16일 밝혔다. 영림원의 K-시스템 에이스는 산업별 표준 프로세스를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, IoT 진단 가이드 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216173545</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216173545</guid>
-            <pubDate>Wed, 16 Feb 2022 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표 박진효)는 자사 화이트 해커그룹 EQST가 사물인터넷(IoT) 기기와 서비스에 대한 보안 위협에 대응할 수 있는 'IoT 진단 가이드'를 발간했다고 16일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
