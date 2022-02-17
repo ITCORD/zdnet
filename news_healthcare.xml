@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 9만3135명…이틀연속 9만명대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220217101202</link>
+            <guid>https://zdnet.co.kr/view/?no=20220217101202</guid>
+            <pubDate>Thu, 17 Feb 2022 01:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[17일 0시 기준 국내 코로나19 신규 확진자가 9만3천135명으로, 이틀연속 9만명대가 발생했다. 중앙방역대책본부에 따르면, 전날 국내 지역사회 확진자는 9만3천45명이며, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모더나 CEO "코로나 팬데믹, 막바지라 보는 게 합리적"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220216222545</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220215103608</guid>
             <pubDate>Tue, 15 Feb 2022 02:08:31 GMT</pubDate>
             <content:encoded><![CDATA[다음달 코스닥 상장을 앞둔 차세대 진단검사 플랫폼 기업 노을(대표이사 임찬양‧이동영)이 자체 개발 플랫폼 'miLab'으로 탈중앙화 진단 체계 구축에 나선다. 14일 열린 온라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 5만7177명…역대 최대 발생]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215102218</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215102218</guid>
-            <pubDate>Tue, 15 Feb 2022 02:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[국내 코로나19 신규 확진자 수가 5만 명대 후반을 기록했다. 중앙방역대책본부에 따르면, 15일 0시 기준 국내 지역사회 확진자는 5만7천12명, 해외유입 사례는 165명으로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
