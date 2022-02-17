@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니, 만화 같은 대규모 주거 공동체 짓는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220217173739</link>
+            <guid>https://zdnet.co.kr/view/?no=20220217173739</guid>
+            <pubDate>Thu, 17 Feb 2022 10:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 테마파크·리조트 사업을 전개하는 디즈니 파크 익스피리언스 프로덕트가 1천900채 주택과 주거 공동체로 이뤄진 '스토리리빙 바이 디즈니'를 공개했다. 디즈니 파크 익스피리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서강대, 랩씨드와 메타버스 플랫폼 구축 업무협약]]></title>
             <link>https://zdnet.co.kr/view/?no=20220217162850</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216101021</guid>
             <pubDate>Wed, 16 Feb 2022 03:12:11 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티는 지난 10일 개최한 첫 테크 컨퍼런스 'NEXT MOBILITY: NEMO 2022'(네모 2022) 홈페이지 누적 방문자 수가 23만명, 온오프라인 사전 등록...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 개인정보보호 집단소송에 1천억원 지급하기로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216094922</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216094922</guid>
-            <pubDate>Wed, 16 Feb 2022 03:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북 운영사 메타가 로그아웃 이후에도 이용자 인터넷 활동을 추적한다는 혐의 관련 집단소송을 해결하고자, 9천만달러(약 1천77억원)를 지급하기로 합의했다고 CNN, 더버지 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
