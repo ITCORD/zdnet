@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 03:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 04:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3.4GHz 대역 5G 주파수 추가할당 연기됐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220217125907</link>
+            <guid>https://zdnet.co.kr/view/?no=20220217125907</guid>
+            <pubDate>Thu, 17 Feb 2022 04:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[5G 주파수 3.4GHz 대역의 20MHz 폭 추가할당 계획이 연기됐다. 정부는 지난달 공청회를 열어 관련 주파수 할당계획을 확정하고, 2월 중 할당신청 접수와 경매를 진행키로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구현모 KT "통신 넘어 콘텐츠, 금융, AI·DX 등 디지코로 변신 중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220217094106</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220215180956</guid>
             <pubDate>Tue, 15 Feb 2022 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[4차산업혁명위원회가 노동 시장의 변화에 대비해 일자리 데이터를 늘리는 방안을 강조하고 나섰다. 15일 4차위는 서울중앙우체국에서 데이터특별위원회를 열고 이와 같은 내용을 담은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 집중육성 택한 KT..."주주보호 모범선례 내놨다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215175246</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215175246</guid>
-            <pubDate>Tue, 15 Feb 2022 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 클라우드와 인터넷데이터센터(IDC) 사업을 현물출자 방식으로 분리해 신설법인 'KT클라우드'를 설립한다. 성장 사업에 대한 역량을 집중하는 동시에 최근 사회적 논란을 빚...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
