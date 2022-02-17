@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 CDC, 실내 마스크 착용 지침 완화할 듯]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220217113623</link>
+            <guid>https://zdnet.co.kr/view/?no=20220217113623</guid>
+            <pubDate>Thu, 17 Feb 2022 03:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 실내 마스크 착용에 대한 지침을 완화할 것으로 알려졌다. 미국 질병통제예방센터(CDC)는 코로나19 환자와 입원 건수가 계속 감소함에 따라 백악관이 대유행 극복을 위한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 9만3135명…이틀연속 9만명대]]></title>
             <link>https://zdnet.co.kr/view/?no=20220217101202</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220215153644</guid>
             <pubDate>Tue, 15 Feb 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 확진자와 격리자는 대선 당일 오후 6시부터 7시30분까지 별도의 투표 시간이 확보된다. 투표 당일 발열 등 이상증세 발생 시 별도로 마련된 임시기표소에서 투표가 진행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노을, 3월 코스닥 상장…21일, 22일 일반 청약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215103608</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215103608</guid>
-            <pubDate>Tue, 15 Feb 2022 02:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[다음달 코스닥 상장을 앞둔 차세대 진단검사 플랫폼 기업 노을(대표이사 임찬양‧이동영)이 자체 개발 플랫폼 'miLab'으로 탈중앙화 진단 체계 구축에 나선다. 14일 열린 온라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 비스포크 프리미엄 '인피니트' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220217105420</link>
+            <guid>https://zdnet.co.kr/view/?no=20220217105420</guid>
+            <pubDate>Thu, 17 Feb 2022 03:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 공간 디자인 가전 '비스포크 홈'에서 프리미엄 소비자를 겨냥한 '인피니트' 라인을 출시한다. 또 가전제품과 모바일의 연결성을 확장한 '스마트싱스' 6대 서비스를 새롭...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국IDC "지난 해 국내 완제PC 출하량 600만 대 돌파"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220217104534</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216100140</guid>
             <pubDate>Wed, 16 Feb 2022 02:03:38 GMT</pubDate>
             <content:encoded><![CDATA[소니코리아가 링 디자인의 완전 무선 오픈형 이어폰 '링크버즈(LinkBuds)'를 공개하며, 국내 정식 출시에 앞서 16일 오전 9시부터 예약 판매를 진행한다. 이번 신제품은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK매직, 2년 연속 매출 '1조 클럽' 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216094300</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216094300</guid>
-            <pubDate>Wed, 16 Feb 2022 02:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK매직이 작년 연결기준 매출 1조 788억원, 영업이익 712억원, 렌탈 누적계정 222만을 기록했다고 16일 밝혔다. SK매직은 2016년 11월 말 SK네트웍스로 편입 후...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
