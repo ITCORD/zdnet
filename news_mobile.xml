@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 06:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세 살 로봇 '리쿠', 어르신 디지털 정보격차 줄인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220218145020</link>
+            <guid>https://zdnet.co.kr/view/?no=20220218145020</guid>
+            <pubDate>Fri, 18 Feb 2022 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA["리쿠야, 카톡 사용법 알려줘~" 나이 세 살, 키 44cm, 몸무게 2.5kg. 어린아이 보다 조금 작은 앙증맞은 로봇 '리쿠(LIKU)'가 윙크를 하며 아이들에게 동화책을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데하이마트, 세탁 가전 최대 50% 할인판매 행사]]></title>
             <link>https://zdnet.co.kr/view/?no=20220218141210</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220217085533</guid>
             <pubDate>Thu, 17 Feb 2022 00:35:30 GMT</pubDate>
             <content:encoded><![CDATA[“애플이 올해 출시할 아이패드 프로에 어떤 새로운 기능을 추가할까?” IT매체 맥루머스는 16일(현지시간) 그 동안 나온 소식들을 종합해 2022년형 아이패드 프로에 대해 전망...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, MWC서 차세대 '갤럭시북' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220217083233</link>
-            <guid>https://zdnet.co.kr/view/?no=20220217083233</guid>
-            <pubDate>Thu, 17 Feb 2022 00:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 오는 28일 '삼성 갤럭시 MWC 이벤트 2022'를 온라인을 통해 개최하고, 차세대 '갤럭시북'을 선보인다. '삼성 갤럭시 MWC 이벤트 2022'는 이달 28일(...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
