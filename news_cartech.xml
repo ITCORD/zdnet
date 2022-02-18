@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르쉐·람보르기니 선적 상선 대서양서 화재…승무원은 모두 구조]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220218112720</link>
+            <guid>https://zdnet.co.kr/view/?no=20220218112720</guid>
+            <pubDate>Fri, 18 Feb 2022 05:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[미국으로 향하는 대형 화물선에서 화재가 발생했다. 이 선박에는 포르쉐·람보르기니 등 폭스바겐그룹 자회사 차량 수 천대가 선적해 있는 것으로 알려졌다. 17일(현지시간) 카 앤 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포드 머스탱 마하-E, 최고 전기차 선정…"테슬라 모델3 제쳐"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220218110927</link>
             <guid>https://zdnet.co.kr/view/?no=20220218110927</guid>
             <pubDate>Fri, 18 Feb 2022 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[포드의 전기 SUV '머스탱 마하-E'이 미국 소비자전문지 컨슈머리포트의 2022년 최고의 전기차로 선정됐다고 CNBC 등 외신들이 17일(현지시간) 보도했다. 컨슈머리포트는 ...]]></content:encoded>
+            <content:encoded><![CDATA[포드의 전기 SUV '머스탱 마하-E'가 테슬라를 제치고 2022년 최고 전기차로 선정됐다고 CNBC 등 외신들이 17일(현지시간) 보도했다. 미국 소비자전문지 컨슈머리포트는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220215094619</guid>
             <pubDate>Tue, 15 Feb 2022 02:07:52 GMT</pubDate>
             <content:encoded><![CDATA[볼보가 완전 충전하면 356km를 이동할 수 있는 쿠페형 전기 SUV를 선보였다. 볼보는 15일 서울시 중구 소재 동대문디자인플라자(DDP)에서 쿠페형 전기 SUV 'C40 리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰 만들던 中 럭스쉐어, 전기차 ODM 사업 진출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215090832</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215090832</guid>
-            <pubDate>Tue, 15 Feb 2022 00:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 아이폰을 생산하는 주문자상표부착생산(OEM) 기업 럭스쉐어가 자동차 위탁 생산 사업에 진출한다. 중국 자동차 기업 체리(Chery)와 손잡았다. 14일 중국 언론 지웨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
