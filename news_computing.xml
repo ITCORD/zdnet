@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 02:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클클라우드에서 몽고DB 워크로드 돌린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220218113340</link>
+            <guid>https://zdnet.co.kr/view/?no=20220218113340</guid>
+            <pubDate>Fri, 18 Feb 2022 02:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[오라클 클라우드 인프라스트럭처(OCI)에서 몽고DB 워크로드를 구동할 수 있게 됐다. 최근 외신에 따르면, 오라클은 자율운영 JSON 데이터베이스를 위한 새로운 범용 API인 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[델테크놀로지스, 보상 강화한 새 파트너 프로그램 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220218111241</link>
+            <guid>https://zdnet.co.kr/view/?no=20220218111241</guid>
+            <pubDate>Fri, 18 Feb 2022 02:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[델테크놀로지스는 파트너 보상을 강화한 '2022 델테크놀로지스 파트너 프로그램'을 18일 발표했다. 델의 채널 비즈니스는 지난 5년동안 이 프로그램을 통해 70% 성장했으며, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 초저전력 제온 '시에라포레스트' 2024년 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220218104145</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220217105822</guid>
             <pubDate>Thu, 17 Feb 2022 02:20:37 GMT</pubDate>
             <content:encoded><![CDATA[애그테크(농업기술) 전문 기업 이지팜(대표 진교문)은 축산 분야의 피그컬처 사업본부, 블록체인 사업본부가 분사했다고 17일 밝혔다. 이번 분사로 피그컬처 사업본부가 '와이즈레이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, SAP 솔루션 워크로드 클라우드 이전 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220217091133</link>
-            <guid>https://zdnet.co.kr/view/?no=20220217091133</guid>
-            <pubDate>Thu, 17 Feb 2022 02:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 SAP와 협력해 규제 및 비규제 산업의 기업 고객이 하이브리드 클라우드 방식을 도입하고 SAP 솔루션 미션 크리티컬 워크로드를 손쉽게 클라우드로 이전하도록 지원할 계획...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클립소프트, '리포팅툴-이폼 솔루션' KOLAS 시험성적서 취득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220217105051</link>
-            <guid>https://zdnet.co.kr/view/?no=20220217105051</guid>
-            <pubDate>Thu, 17 Feb 2022 01:53:17 GMT</pubDate>
-            <content:encoded><![CDATA[클립소프트(대표 김양수)는 HTML5 기반 솔루션 클립리포트(CLIP report)와 클립이폼(CLIP e-Form)이 한국인정기구(KOLAS)의 국제공인시험성적서를 취득했다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
