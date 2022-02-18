@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 22:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 23:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원격근무도 '장비빨'…시스코 웹엑스 살펴보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220219040407</link>
+            <guid>https://zdnet.co.kr/view/?no=20220219040407</guid>
+            <pubDate>Fri, 18 Feb 2022 23:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 유행이 더 이상 비상 사태가 아닌, 일상적인 상황으로 인식되면서 대부분의 기업이 원격근무용 IT 인프라를 상시 사용하고 있다. 격리된 상황에서도 협업할 수 있게 지원...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, 다중시설 출입기록 파기 집중점검]]></title>
             <link>https://zdnet.co.kr/view/?no=20220218183138</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220217111327</guid>
             <pubDate>Thu, 17 Feb 2022 04:13:49 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터가 임베디드 솔루션 전문 자회사 한컴MDS 매각을 추진한다. 17일 한컴 관계자는 "한컴MDS 지분 매각을 위한 주간사를 선정한 게 맞다"고 말했다. 한컴MDS는 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 연간 라이선스 기반 보안 솔루션 패키지 SBP 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220217122658</link>
-            <guid>https://zdnet.co.kr/view/?no=20220217122658</guid>
-            <pubDate>Thu, 17 Feb 2022 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[정보보호 업체 파수는 사용자 100인 이하 소규모 기업과 기관들의 보안 강화를 위한 보안 솔루션 패키지 'SBP'를 출시했다고 17일 밝혔다. 파수 SBP는 연간 라이선스를 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
