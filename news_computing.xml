@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 02:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 02:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["모자이크한 텍스트, 이렇게 쉽게 원상복구된다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220220111106</link>
+            <guid>https://zdnet.co.kr/view/?no=20220220111106</guid>
+            <pubDate>Sun, 20 Feb 2022 02:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[한 보안업체가 모자이크한 텍스트를 원상복구하는 기술을 공개했다. 영상과 사진에서 실명, 차량 번호판, 신용카드 번호 같이 민감한 정보를 숨기기 위해 해당 영역을 픽셀화해 모자이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[원격근무도 '장비빨'…시스코 웹엑스 살펴보니]]></title>
             <link>https://zdnet.co.kr/view/?no=20220219040407</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220217135123</guid>
             <pubDate>Thu, 17 Feb 2022 05:11:23 GMT</pubDate>
             <content:encoded><![CDATA[베스핀글로벌(대표 이한주)이 프레시웍스와 파트너십을 맺었다고 17일 밝혔다. 프레시웍스는 작년 9월 나스닥에 상장한 스타트업으로써, SaaS 기반의 고객 및 사내 지원 소프트웨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴, 임베디드 자회사 'MDS' 매각 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220217111327</link>
-            <guid>https://zdnet.co.kr/view/?no=20220217111327</guid>
-            <pubDate>Thu, 17 Feb 2022 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터가 임베디드 솔루션 전문 자회사 한컴MDS 매각을 추진한다. 17일 한컴 관계자는 "한컴MDS 지분 매각을 위한 주간사를 선정한 게 맞다"고 말했다. 한컴MDS는 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
