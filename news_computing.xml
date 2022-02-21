@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 02:00:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 직업 어디에 있나…헤매다 만난 '메타버스']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220220180447</link>
+            <guid>https://zdnet.co.kr/view/?no=20220220180447</guid>
+            <pubDate>Mon, 21 Feb 2022 02:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스는 인류가 기술로 확보한 새로운 시공간이다. 그곳을 유익하거나 재미있는 내용물로 채워 이용자 시간을 점유하기 위한 기업 간 전쟁이 시작됐다. 그 한편에서는 그곳을 놀이터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윈도11에서 안드로이드 앱 쓰려면 RAM 16GB 추천]]></title>
             <link>https://zdnet.co.kr/view/?no=20220221092023</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220218104145</guid>
             <pubDate>Fri, 18 Feb 2022 02:01:32 GMT</pubDate>
             <content:encoded><![CDATA[인텔의 서버 프로세서 전략이 투트랙으로 바뀐다. 2024년부터 제온의 코어는 성능과 전력 효율성에 각각 초점을 맞춘 라인업으로 분화된다. 17일(현지시간) 미국지디넷에 따르면,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미 법무부, '암호화폐' 전담팀에 한국계 초대 국장 임명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220218090253</link>
-            <guid>https://zdnet.co.kr/view/?no=20220218090253</guid>
-            <pubDate>Fri, 18 Feb 2022 00:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[미국 법무부는 17일(현지시간) 국가암호화폐법률집행팀(NCET) 초대 국장으로 리사 모나코 법무부 차관의 선임자문관인 한국계 검사 최은영을 임명했다고 발표했다. NCET는 암호...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
