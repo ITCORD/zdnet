@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 02:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 03:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공지능이 합금 신소재 원소 조합 찾아준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220221095940</link>
+            <guid>https://zdnet.co.kr/view/?no=20220221095940</guid>
+            <pubDate>Mon, 21 Feb 2022 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)을 활용, 새로 만들고자 하는 합금의 원소 조합을 찾아내고 제작 공정을 설계하는 기술이 나왔다. UNIST(총장 이용훈)는 기계공학과 정임두 교수 연구팀이 AI ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/21/c16d6fa46bd2694a19c8bc6789448299-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전기차 시대에 '마력'은 왜 여태 널리 쓰일까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220221105120</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220218135917</guid>
             <pubDate>Sun, 20 Feb 2022 03:19:07 GMT</pubDate>
             <content:encoded><![CDATA[태양광을 접목해 차세대 배터리로 주목받는 아연공기전지의 성능을 높이는 기술이 나왔다. 한국과학기술연구원(KIST, 원장 윤석진)은 에너지저장연구센터 이중기 박사 연구팀이 태양에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/18/ce8b793f9864394d773b821392c5fd96-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사냥꾼이 오히려 사슴 숫자 더 늘리고 있다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220215130536</guid>
             <pubDate>Tue, 15 Feb 2022 05:19:30 GMT</pubDate>
             <content:encoded><![CDATA[환경부 소속 국립생물자원관은 최근 국세청 주류면허지원센터와 공동연구를 거쳐 수입 효모를 대체할 주류 전용 자생 효모 6균주를 찾아냈다고 15일 밝혔다. 지리산 산수유 열매에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스X, 올해 최장거리 우주여행에 도전한다 [우주로 간다]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215093851</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215093851</guid>
-            <pubDate>Tue, 15 Feb 2022 02:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크의 우주 탐사 기업 스페이스X가 올해 역사상 가장 멀리 우주인을 우주로 보낼 예정이다. 온라인 지불업체 시프트4페이먼트의 창업자이자 작년 9월에 진행된 민간 우주여행...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
