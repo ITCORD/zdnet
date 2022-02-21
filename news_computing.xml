@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 대기업 'AI·메타버스·NFT' 집중 투자 계획 밝혀]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220221155007</link>
+            <guid>https://zdnet.co.kr/view/?no=20220221155007</guid>
+            <pubDate>Mon, 21 Feb 2022 07:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[포스트-코로나 시대의 생존과 성장을 위해 디지털 트랜스포메이션이 가속화되는 가운데, 국내 대기업이 인공지능(AI), 메타버스, 대체불가토큰(NFT) 분야에 투자 의지를 보이며 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[금융데이터거래소, 데이터 종합 플랫폼으로 진화한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220221093827</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221041445</guid>
             <pubDate>Mon, 21 Feb 2022 00:38:39 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 대체불가토큰(NFT) 거래 플랫폼 오픈씨 이용자들이 해커의 피싱 공격으로 NFT를 도난당하는 사건이 발생했다. 이번 사건으로 탈취된 NFT는 254개에 이른다. 공격...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국과수, '디지털증거 인증 기술'로 불법선거운동 적발 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220220144950</link>
-            <guid>https://zdnet.co.kr/view/?no=20220220144950</guid>
-            <pubDate>Sun, 20 Feb 2022 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부 소속 국립과학수사연구원(국과수)은 다음달 9일 실시되는 '제20대 대통령 선거'와 오는 6월 1일 예정된 '제8회 전국동시지방선거'를 앞두고, 불법선거운동 현장 적발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
