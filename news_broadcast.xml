@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 경기지역 새 라디오 사업자 선정 보류]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220221173958</link>
+            <guid>https://zdnet.co.kr/view/?no=20220221173958</guid>
+            <pubDate>Mon, 21 Feb 2022 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[경기지역 신규 라디오방송사업자 심사에서 최고점을 획득한 사업자가 나왔지만, 방송통신위원회가 선정 작업을 보류키로 했다. 최고점을 획득한 도로교통공단이 보도를 포함한 종합편성방송...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["수평규제 없는 미디어 거버넌스 개편 毒 된다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220221102701</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220217212608</guid>
             <pubDate>Thu, 17 Feb 2022 13:14:01 GMT</pubDate>
             <content:encoded><![CDATA[방송법과 IPTV법으로 분리된 낡은 법제도를 개편하기 위한 사회적 논의가 시작됐다. 과거의 법으로 새로운 미디어 환경을 담아내지 못한다는 오랜 지적에 불구하고 지연된 논의다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[황현식 LGU+ "국민편익 아닌 논리로 지연돼 안타깝다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220217140823</link>
-            <guid>https://zdnet.co.kr/view/?no=20220217140823</guid>
-            <pubDate>Thu, 17 Feb 2022 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[황현식 LG유플러스 사장이 “국민 편익 관점에서 의사결정이 조속히 내려져야 하는데 자꾸 다른 논리로 지연돼 안타깝다”고 밝혔다. 황현식 사장은 17일 임혜숙 과학기술정보통신부 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
