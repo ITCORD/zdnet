@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 22:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 23:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["TSMC 3나노 공정, 수율 문제로 생산 차질"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222071447</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222071447</guid>
+            <pubDate>Mon, 21 Feb 2022 23:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 회사 TSMC의 3나노 공정이 차질을 빚고 있으며 주요 고객사들이 올해 3나노 대신 5나노 공정을 선택할 것이라는 보도가 나왔다. TSMC는 지난해 3나노 공정 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인피니언, 말레이시아 증설…2.7조 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220221172232</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216095406</guid>
             <pubDate>Wed, 16 Feb 2022 02:03:59 GMT</pubDate>
             <content:encoded><![CDATA[지난해 세계 반도체 매출이 사상 처음으로 5천억 달러(약 600조원)를 넘어섰다고 미국 경제 방송 CNBC가 15일(현지시간) 보도했다. 미국 반도체산업협회(SIA)는 지난해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 공급난, 진짜로 10~20년 지속될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215163120</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215163120</guid>
-            <pubDate>Wed, 16 Feb 2022 00:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[“2030년에 인터넷 연결기기가 2020년보다 10배로 늘어날 것으로 추산된다. 10~20년 뒤에도 반도체가 여전히 부족할 수 있다.”(피터 베닝크 ASML 회장) 피터 베닝크...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
