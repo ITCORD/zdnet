@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 11:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 12:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아태 모바일 이용자 급증…"기업, 디지털 경험 개선 투자 강화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222204300</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222204300</guid>
+            <pubDate>Tue, 22 Feb 2022 12:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[아시아태평양 지역에서 모바일 기기 보급이 확대되면서 온라인 소비자 수가 급증했다는 조사가 나왔다. 이런 추세에 맞춰 현지 기업들이 고객의 디지털 경험을 개선하고자 투자를 확대하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/22/c2483b5451ad4b1253724363d8c42f06-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG이노텍, FC-BGA 만든다…4130억 첫 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222185419</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220222182647</guid>
             <pubDate>Tue, 22 Feb 2022 11:09:38 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)가 전 세계를 연결하는 인공지능(AI) 클라우드 인프라 서비스 구축을 준비 중인 것으로 확인됐다. 22일(현지시간) 미국 지디넷에 따르면 마이크로소프트는 A...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/22/d4c813f46067aad024f843f24e644087-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아프리카TV, 대한야구위원회와 업무협약]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220222172042</guid>
             <pubDate>Tue, 22 Feb 2022 09:10:57 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 전문 기업 블로코XYZ는 KB국민카드, BHC와 협력해 쿠폰형 대체불가토큰(NFT) 기술 지원을 한다고 22일 밝혔다. KB국민카드와 는 BHC 22일부터 6일간, 자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나무기술, 솔루션사업 총괄로 박열경 부사장 영입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220222171754</link>
-            <guid>https://zdnet.co.kr/view/?no=20220222171754</guid>
-            <pubDate>Tue, 22 Feb 2022 09:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[나무기술(대표 정철)은 클라우드 솔루션 사업 총괄부사장으로 IBM, 씨플랫폼 출신 박열경 전무를 신규 영입했다고 22일 밝혔다. 솔루션 사업본부는 클라우드 수요에 적극 대응하고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
