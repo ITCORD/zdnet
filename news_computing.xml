@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 06:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN-피씨엘, 디지털 헬스케어 분야서 사업 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222151227</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222151227</guid>
+            <pubDate>Tue, 22 Feb 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[NHN은 피씨엘과 '바이오 데이터 관리 및 디지털 헬스케어' 분야 업무 협약을 체결했다고 22일 밝혔다. 양사는 이번 업무 협약에 따라, 스마트시티 데이터 관리, 디지털 헬스케...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글클라우드, LG 초거대 AI 에 클라우드 TPU 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222144542</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222144542</guid>
+            <pubDate>Tue, 22 Feb 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[구글 클라우드는 LG AI연구원애 맞춤형 머신러닝 하드웨어(ASIC) '클라우드 TPU'를 공급해 초거대 AI 모델 '엑사원(EXAONE)' 고도화를 지원했다고 22일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS의 러스트 투자 이유 '성능보다 이것']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222132457</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222132457</guid>
+            <pubDate>Tue, 22 Feb 2022 06:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)의 소프트웨어 엔지니어가 러스트 언어를 자바나 파이썬보다 훨씬 더 환경 친화적 언어라며, 아마존의 친환경 데이터센터 전략을 뒷받침하는 방안이라고 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엠로, 현대제뉴인·현대오일뱅크 차세대 통합 구매시스템 구축 프로젝트 수행]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222135355</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221155007</guid>
             <pubDate>Mon, 21 Feb 2022 07:11:10 GMT</pubDate>
             <content:encoded><![CDATA[포스트-코로나 시대의 생존과 성장을 위해 디지털 트랜스포메이션이 가속화되는 가운데, 국내 대기업이 인공지능(AI), 메타버스, 대체불가토큰(NFT) 분야에 투자 의지를 보이며 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융데이터거래소, 데이터 종합 플랫폼으로 진화한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221093827</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221093827</guid>
-            <pubDate>Mon, 21 Feb 2022 06:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[금융보안원은 운영 2년차를 맞은 금융데이터거래소(FinDX)의 역할을 '데이터 유통‧활용 종합 플랫폼'으로 확대할 계획이라고 21일 밝혔다. 이에 따라, 금융보안원은 올해 ▲금...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로봇 개, 이번엔 미·멕시코 국경에 배치돼 논란]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221142828</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221142828</guid>
-            <pubDate>Mon, 21 Feb 2022 06:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[미국과 멕시코 국경에 로봇개가 배치됐다고 알려져 논란이 되고 있다. IT매체 비즈니스인사이더는 미국 국토안보부(DHS)가 이번 달 초 미국 멕시코 국경 지역에 순찰을 목적으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스구름, 구름3.0 모듈 업데이트..."호환성·보안성 높였다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221135605</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221135605</guid>
-            <pubDate>Mon, 21 Feb 2022 06:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[운영체제(OS) 전문업체 티맥스오에스는 구름 3.0 모듈에 티맥스 기술을 적용해 업데이트한 개방형OS 티맥스구름를 출시했다고 21일 밝혔다. 티맥스구름은 국가보안기술연구소의 '...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
