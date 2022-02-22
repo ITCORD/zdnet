@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 06:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 07:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 메티버스 이용자 보호 방안 컨퍼런스 연다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222160312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222160312</guid>
+            <pubDate>Tue, 22 Feb 2022 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 23일 '메타시대 디지털 시민사회 성장전략' 컨퍼런스를 개최한다. 컨퍼런스는 메타버스 플랫폼에서 열린다. 인공지능, 데이터 등 정보통신기술의 집합체인 메타버스의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, AI로 통신 장애 막는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222102954</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221084549</guid>
             <pubDate>Mon, 21 Feb 2022 00:38:27 GMT</pubDate>
             <content:encoded><![CDATA[중국의 제4 이동통신사 중국광전(CBN)이 192 통신 식별번호를 부여받고 오는 5월부터 공식 서비스를 시작한다. 20일(현지시간) IT즈자에 따르면, CBN은 지난 17일 구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[통신 3사 CEO, MWC 무대 3년 만에 총출동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220220094512</link>
-            <guid>https://zdnet.co.kr/view/?no=20220220094512</guid>
-            <pubDate>Sun, 20 Feb 2022 02:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤·KT·LG유플러스 등 통신 3사 CEO가 28일(현지시간) 스페인 바르셀로나에서 열리는 'MWC 2022'에 모두 참석한다. 유영상 SK텔레콤 사장, 구현모 KT 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
