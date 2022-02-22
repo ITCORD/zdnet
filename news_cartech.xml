@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 22:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 23:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GM, 차량 내 주문 기능 '마켓플레이스' 서비스 종료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220223074233</link>
+            <guid>https://zdnet.co.kr/view/?no=20220223074233</guid>
+            <pubDate>Tue, 22 Feb 2022 23:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[제네럴모터스(GM)가 자동차 대시보드 화면으로 음식 주문, 레스토랑 예약 등을 할 수 있는 '마켓플레이스' 서비스를 종료한다. 미국 IT매체 엔가젯은 22일(현지시간) GM이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지난해 등록 전기차 10대 중 7대가 국내 생산차]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222174937</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216121015</guid>
             <pubDate>Wed, 16 Feb 2022 04:15:46 GMT</pubDate>
             <content:encoded><![CDATA[볼보가 16일 서울시 동대문디자인플라자에서 쿠페형 전기 SUV 'C40 라차지'를 선보였다. C40 리차지는 브랜드 전동화 전략의 시작을 알리는 핵심 모델이자 볼보 95년 역사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자 참여 가능한 국내 유일 '전기차 어워즈' 신설]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216101859</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216101859</guid>
-            <pubDate>Wed, 16 Feb 2022 02:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대표 친환경자동차 전시회인 xEV 트렌드 코리아는 16일 국내 유일 전기차 어워즈 'EV 어워즈 2022'를 신설하고, 후보 모델 9종을 공개한다고 밝혔다. EV 어워...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
