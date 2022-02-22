@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 08:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로칩, 오토모티브 인증 4세대 PCIe 스위치 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222163322</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222163322</guid>
+            <pubDate>Tue, 22 Feb 2022 08:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[미국 마이크로칩테크놀로지는 22일 오토모티브 인증 4세대 PCI익스프레스(PCIe) 스위치를 선보였다. PCIe는 메인 기판에 그래픽·사운드카드 등을 사용하고자 만들어진 규격이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["일본, 러시아 반도체 수출 규제 참여할 수도"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222094939</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216110018</guid>
             <pubDate>Wed, 16 Feb 2022 03:12:28 GMT</pubDate>
             <content:encoded><![CDATA[정부가 소재·부품·장비 특화 산업단지에 2천억원 지원한다. 산업통상자원부는 16일 전북 전주시 탄소소재 특화단지에 있는 한국탄소산업진흥원에서 제1회 소부장 특화단지 추진단 협의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 삼성, 3년만에 인텔 꺾고 반도체 1위 탈환]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216111019</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216111019</guid>
-            <pubDate>Wed, 16 Feb 2022 03:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 세계 반도체 1위 자리를 되찾습니다. 2018년 이후 3년 만의 일입니다. 재택근무와 원격 수업, 온라인 쇼핑 등으로 기업들이 서버를 늘리며 메모리 수요가 급증해 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
