@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 00:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:00:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["일본, 러시아 반도체 수출 규제 참여할 수도"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222094939</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222094939</guid>
+            <pubDate>Tue, 22 Feb 2022 01:57:13 GMT</pubDate>
+            <content:encoded><![CDATA[러시아가 우크라이나를 침공하면 미국이 주도하는 반도체 수출 규제에 일본 정부가 참여할 수 있다고 일본 요미우리신문이 22일(현지시간) 보도했다. 러시아가 긴장을 풀지 않으면 미...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["TSMC 3나노 공정, 수율 문제로 생산 차질"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222071447</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220216111019</guid>
             <pubDate>Wed, 16 Feb 2022 03:12:28 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 세계 반도체 1위 자리를 되찾습니다. 2018년 이후 3년 만의 일입니다. 재택근무와 원격 수업, 온라인 쇼핑 등으로 기업들이 서버를 늘리며 메모리 수요가 급증해 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 세계 반도체 매출 666조…역대 최대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220216095406</link>
-            <guid>https://zdnet.co.kr/view/?no=20220216095406</guid>
-            <pubDate>Wed, 16 Feb 2022 02:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 세계 반도체 매출이 사상 처음으로 5천억 달러(약 600조원)를 넘어섰다고 미국 경제 방송 CNBC가 15일(현지시간) 보도했다. 미국 반도체산업협회(SIA)는 지난해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

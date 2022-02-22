@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 00:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:00:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플래티어, '멀티 클라우드' 환경서 주목할 보안 관련 리포트 발행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222101008</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222101008</guid>
+            <pubDate>Tue, 22 Feb 2022 01:57:03 GMT</pubDate>
+            <content:encoded><![CDATA['디지털 전환' 시대에 부상하고 있는 '멀티 클라우드' 환경에서 변화하는 보안 패러다임과 이에 따라 기업에 요구되는 보안기술을 분석한 리포트가 발행됐다. 디지털 플랫폼 전문 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 라이브 방송 더 찾기 쉽게 해준다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222090002</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221091152</guid>
             <pubDate>Mon, 21 Feb 2022 00:39:03 GMT</pubDate>
             <content:encoded><![CDATA[NHN DATA(대표 이진수)는 한국데이터산업진흥원이 주관하는 '2022년 데이터바우처 지원사업'에 공급기업으로 참여해 강화된 데이터 상품 라인업을 선보인다고 21일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배민 서빙 로봇, SK쉴더스 영업망 타고 전국 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221084443</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221084443</guid>
-            <pubDate>Mon, 21 Feb 2022 00:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족의 서빙 로봇 '딜리 플레이트'가 SK그룹의 계열사 SK쉴더스의 영업 및 마케팅 인프라를 타고 전국으로 확산된다. 배민을 운영하는 우아한형제들(대표 김범준)은 SK쉴더...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
