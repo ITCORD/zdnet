@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 10:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 11:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왓챠, 콘텐츠 경계 허문 '왓챠 2.0' 선언]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220222121411</link>
+            <guid>https://zdnet.co.kr/view/?no=20220222121411</guid>
+            <pubDate>Tue, 22 Feb 2022 11:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 동영상 서비스(OTT) 왓챠가 음악과 웹툰 구독을 추가해 종합 엔터테인먼트 플랫폼 '왓챠 2.0'으로 도약한다고 선언했다. 영상 콘텐츠 플랫폼에서 음악, 웹툰으로 영역을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 메티버스 이용자 보호 방안 컨퍼런스 연다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220222160312</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221085828</guid>
             <pubDate>Mon, 21 Feb 2022 00:38:27 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤(대표 유영상)이 MWC22에서 삼성전자, 에릭슨, 노키아와 5G 무선 네트워크 기반의 클라우드 가상화기지국(vRAN) 개발과 시연 내용을 선보일 계획이라고 21일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 제4이통 CBN, 5월 5G 서비스 개시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221084549</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221084549</guid>
-            <pubDate>Mon, 21 Feb 2022 00:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 제4 이동통신사 중국광전(CBN)이 192 통신 식별번호를 부여받고 오는 5월부터 공식 서비스를 시작한다. 20일(현지시간) IT즈자에 따르면, CBN은 지난 17일 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
