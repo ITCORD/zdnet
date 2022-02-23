@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터 슈퍼IP '사내맞선' 28일 드라마로 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220223173745</link>
+            <guid>https://zdnet.co.kr/view/?no=20220223173745</guid>
+            <pubDate>Wed, 23 Feb 2022 10:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터테인먼트가 자사 대표 지식재산(IP) '사내 맞선' 드라마를 오는 28일 SBS, 넷플릭스에서 공개한다고 23일 알렸다. 드라마 사내맞선은 카카오엔터 자회사인 크로스픽...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타버스 호랑이, 하남 스타필드 수놓다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220223170843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220222101008</guid>
             <pubDate>Tue, 22 Feb 2022 01:57:03 GMT</pubDate>
             <content:encoded><![CDATA['디지털 전환' 시대에 부상하고 있는 '멀티 클라우드' 환경에서 변화하는 보안 패러다임과 이에 따라 기업에 요구되는 보안기술을 분석한 리포트가 발행됐다. 디지털 플랫폼 전문 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, 라이브 방송 더 찾기 쉽게 해준다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220222090002</link>
-            <guid>https://zdnet.co.kr/view/?no=20220222090002</guid>
-            <pubDate>Tue, 22 Feb 2022 00:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 유튜브 이용자들은 실시간 방송을 진행 중인 유튜버를 쉽게 확인할 수 있게 된다. 유튜브가 라이브 스트리밍 채널을 신속히 파악하도록, 새로운 기능을 도입했다고 더버지는 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
