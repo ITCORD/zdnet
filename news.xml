@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 20:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 21:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원자재 수입 막히면 동맹국과 교환…우크라 사태 대비]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220223164031</link>
+            <guid>https://zdnet.co.kr/view/?no=20220223164031</guid>
+            <pubDate>Wed, 23 Feb 2022 21:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 러시아·우크라이나 사태로 국내에 원자재를 수입하기 어려워지면 자원이 풍부한 동맹국과 교환(Swap)하기로 했다. 산업통상자원부는 24일 서울 명동 롯데호텔에서 베트남·필...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/07/6bed0304c679af98e5ce99cbf5a027a2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["개 키우는 노인, 장애 겪을 위험 절반으로 줄어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220223020214</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220223185503</guid>
             <pubDate>Wed, 23 Feb 2022 12:17:59 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 플랫폼 솔루션 전문 업체 시그마체인(대표 곽진영)은 블록체인 기반 핀테크 전문 기업 민트플렉스와 블록체인 기반 디지털 금융 서비스 사업을 위한 전략적 협약을 체결했다고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/23/d5b0e80573e1a5446014a8f3b1f48045-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하나카드 등 4개 관계사 대표 후보 추천]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220223173745</guid>
             <pubDate>Wed, 23 Feb 2022 10:11:11 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터테인먼트가 자사 대표 지식재산(IP) '사내 맞선' 드라마를 오는 28일 SBS, 넷플릭스에서 공개한다고 23일 알렸다. 드라마 사내맞선은 카카오엔터 자회사인 크로스픽...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[투명페트병, 식품 용기로 재활용한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220223182515</link>
-            <guid>https://zdnet.co.kr/view/?no=20220223182515</guid>
-            <pubDate>Wed, 23 Feb 2022 10:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[분리 배출한 투명페트병을 세척·분쇄·용융해 식품용기로 재활용하는 제도가 국내에서도 시행된다. 환경부는 투명페트병을 재활용해 식음료를 담을 수 있는 새로운 용기로 만드는 과정에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
