@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 호랑이, 하남 스타필드 수놓다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220223170843</link>
+            <guid>https://zdnet.co.kr/view/?no=20220223170843</guid>
+            <pubDate>Wed, 23 Feb 2022 09:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[22일 경기 하남 스타필드 1층. 방문객 대다수 눈길이 한곳에 쏠렸다. 거무스름한 게 마치 강아지와 비슷해 보였는데, 알고 보니 호랑이가 활개 치고 있었다. 물론 실제 호랑이는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[야놀자·여기어때, 불공정 광고계약서 등 자율 개선]]></title>
             <link>https://zdnet.co.kr/view/?no=20220223161240</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220222090002</guid>
             <pubDate>Tue, 22 Feb 2022 00:39:25 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 유튜브 이용자들은 실시간 방송을 진행 중인 유튜버를 쉽게 확인할 수 있게 된다. 유튜브가 라이브 스트리밍 채널을 신속히 파악하도록, 새로운 기능을 도입했다고 더버지는 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사내 지정석 vs 자율좌석, 선호도 알아보니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220222084108</link>
-            <guid>https://zdnet.co.kr/view/?no=20220222084108</guid>
-            <pubDate>Tue, 22 Feb 2022 00:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[최근 수직적 조직문화를 타파하고 업무 효율성을 높이기 위해 자율좌석제와 스마트오피스를 도입하는 기업이 늘고 있지만 10명 중 약 8명은 지정석을 선호했다. HR테크 기업 인크루...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
