@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 06:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스텔스' 오미크론 확산…전파력 30% 더 강력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220223141633</link>
+            <guid>https://zdnet.co.kr/view/?no=20220223141633</guid>
+            <pubDate>Wed, 23 Feb 2022 06:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 오미크론 바이러스의 하위 변이인 스텔스 오미크론(BA.2)이 전 세계에서 꾸준히 확산되고 있다고 아스테크니카를 비롯한 외신들이 22일(현지시간) 보도했다. 특히 스텔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[식약처, 5~11세 접종 코로나19 백신허가…3주 간격 2회 접종]]></title>
             <link>https://zdnet.co.kr/view/?no=20220223110304</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221142510</guid>
             <pubDate>Mon, 21 Feb 2022 06:15:48 GMT</pubDate>
             <content:encoded><![CDATA[한국보건산업진흥원이 중소 의료기기업체에 1천만원의 정부 지원금을 지급한다. 진흥원은 다음달 11일까지 '중소 의료기기기업 시장진입 단계별 규제 극복 지원' 사업 참여기업을 모집...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[32개 기관·단체 참여 보건의료 혁신 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221141936</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221141936</guid>
-            <pubDate>Mon, 21 Feb 2022 06:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[한국보건산업진흥원이 23일 오후 '보건의료 R&amp;D 연합포럼'을 온라인 개최한다. 포럼은 28개 관련 기관·단체가 연합해 주관하고 보건복지부·식품의약품안전처·질병관리청 국립보건연...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
