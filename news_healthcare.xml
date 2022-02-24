@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 00:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이틀연속 17만명대 확진…'17만16명']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220224095945</link>
+            <guid>https://zdnet.co.kr/view/?no=20220224095945</guid>
+            <pubDate>Thu, 24 Feb 2022 02:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[24일 0시 기준 국내 코로나19 신규 확진자는 17만16명으로 이틀 연속 17만명대를 기록했다. 중앙방역대책본부에 따르면, 국내 발생 신규 확진자는 16만9천846명, 해외유...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[미래의료] EU서 처음 방역 푼 덴마크 "오미크론, 사회 개방 운영 위협 안돼"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220223164546</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221161933</guid>
             <pubDate>Mon, 21 Feb 2022 08:14:54 GMT</pubDate>
             <content:encoded><![CDATA[셀트리온헬스케어의 '램시마SC(성분명 인플릭시맙)'의 임상시험 결과가 공개됐다. 램시마SC로 유지 치료 시 혈중 약물 농도가 안정적으로 유지되는 것으로 나타났다. '2022년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 헬스케어 서비스, 활용 효과 높이려면 법·제도 마련이 전부 아냐]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221143949</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221143949</guid>
-            <pubDate>Mon, 21 Feb 2022 06:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 영상분석 시스템 등 디지털 헬스케어 서비스의 활용과 효과 향상을 위해 법·제도 지원 뿐만 아니라 보상체계·안전성·유효성 등 실증 근거도 필요하다는 제안이 나와 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

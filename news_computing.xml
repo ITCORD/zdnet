@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 00:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔코아 플레이데이터, 채용 협력 프로그램 기업과 수료생 연계]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220224104852</link>
+            <guid>https://zdnet.co.kr/view/?no=20220224104852</guid>
+            <pubDate>Thu, 24 Feb 2022 02:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[엔코아(대표, 이화식)의 인공지능(AI),데이터 교육센터인 플레이데이터가 코딩 부트캠프 수료생의 취업 확대를 위하여 다수의 국내 기업들과 채용 협약을 체결하였다고 24일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DDoS 공격으로 우크라이나 정부 사이트 마비]]></title>
             <link>https://zdnet.co.kr/view/?no=20220224091740</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220223160458</guid>
             <pubDate>Wed, 23 Feb 2022 07:12:09 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 닷넷7의 첫번째 프리뷰를 공개했다. 올해 20년을 맞은 닷넷은 컨테이너와 클라우드 네이티브 환경 대응이란 숙제 해결에 첫발을 내디뎠다. 최근 외신에 따르면, 마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["최정예 융합보안 인력 키우자"...정부, 정보보호 인력양성방안 마련]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220223152608</link>
-            <guid>https://zdnet.co.kr/view/?no=20220223152608</guid>
-            <pubDate>Wed, 23 Feb 2022 07:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 디지털뉴딜을 뒷받침할 '정보보호 인력양성 강화방안'을 마련하기 위해, 업계와 학계의 의견 청취에 나섰다. 업계에서는 산업에서 필요로 하는 융합보안 인재를 양성하기 위해,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
