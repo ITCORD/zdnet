@@ -4,14 +4,22 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 13:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 14:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아, 우크라이나 침공 쇼크…비트코인 6% 폭락]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220224223820</link>
+            <guid>https://zdnet.co.kr/view/?no=20220224223820</guid>
+            <pubDate>Thu, 24 Feb 2022 14:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[러시아가 우크라이나를 침공한 직후 비트코인을 비롯한 암호화폐 거래 가격이 폭락했다. 대표적인 암호화폐 비트코인은 24일 오전 8시(미국 동부시간 기준, 한국시간 오후 10시) ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/08/29/ea3e759111128013ab2df3674f60d8ca-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 과학기술정보통신부]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Thu, 24 Feb 2022 13:18:27 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 14:10:32 GMT</pubDate>
             <content:encoded><![CDATA[◇ 실장급 ▲ 네트워크정책실장 홍진배 ▲ 국립중앙과학관장 이석래 ◇ 국장급 ▲ 우정사업본부 강원지방우정청장 오기호 ▲ 정보보호네트워크정책관 김정삼 ▲ 국제과학비즈니스벨트조성추진...]]></content:encoded>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220224194939</guid>
             <pubDate>Thu, 24 Feb 2022 11:09:10 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부와 고용노동부는 24일 현대중공업 군산조선소에서 현대중공업·전라북도·군산시와 함께 군산조선소 재가동을 위한 협력 협약을 체결했다고 밝혔다. 현대중공업은 2008년 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/24/7386b929a50761968b179e072615a160-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK온, 케이카 중고 전기차 배터리 가격 인증]]></title>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220224172525</guid>
             <pubDate>Thu, 24 Feb 2022 09:11:22 GMT</pubDate>
             <content:encoded><![CDATA[한국암연구재단(이사장 방영주)과 보령제약(대표 장두현)이 제21회 보령암학술상 수상 지원자를 모집한다. 공모기간은 3월31일(목)까지며, 수상 자격은 5년 이상 종양학 분야의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[키오시아 낸드 플래시 오염 파장...SSD 가격 오르나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224165606</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224165606</guid>
-            <pubDate>Thu, 24 Feb 2022 09:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[일본 키오시아(옛 도시바메모리) 발 낸드 플래시 오염으로 SSD 물량 부족과 가격 상승 우려가 커지고 있다. 시장조사업체 트렌드포스는 지난 10일 3D 낸드 플래시 메모리 원재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
