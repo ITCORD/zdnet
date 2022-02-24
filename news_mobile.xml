@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OLED TV 공급 본격화…올해 800만대 규모]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220224171810</link>
+            <guid>https://zdnet.co.kr/view/?no=20220224171810</guid>
+            <pubDate>Thu, 24 Feb 2022 09:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[프리미엄 TV 시장을 중심으로 올해 OLED(유기발광다이오드) TV 공급이 본격적으로 확대될 전망이다. 선두주자인 LG전자에 이어 삼성전자가 시장 진출에 시동을 걸었고, 소니는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[키오시아 낸드 플래시 오염 파장...SSD 가격 오르나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220224165606</link>
+            <guid>https://zdnet.co.kr/view/?no=20220224165606</guid>
+            <pubDate>Thu, 24 Feb 2022 09:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[일본 키오시아(옛 도시바메모리) 발 낸드 플래시 오염으로 SSD 물량 부족과 가격 상승 우려가 커지고 있다. 시장조사업체 트렌드포스는 지난 10일 3D 낸드 플래시 메모리 원재...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[노태문 삼성 사장 "MWC서 폐어망 재활용한 소재로 혁신 선보일 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220224145947</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220223110110</guid>
             <pubDate>Wed, 23 Feb 2022 03:12:29 GMT</pubDate>
             <content:encoded><![CDATA[에이수스가 생산해 판매하는 '아수스토어' NAS(네트워크 저장장치)를 노린 랜섬웨어 공격이 활발히 일어나고 있어 주의가 요구된다. 22일(미국 현지시간) 아수스토어 이용자 게시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 혁신 스타트업 육성 'C랩 아웃사이드' 4기 발대식 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220223084628</link>
-            <guid>https://zdnet.co.kr/view/?no=20220223084628</guid>
-            <pubDate>Wed, 23 Feb 2022 02:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 'C랩 아웃사이드 4기'를 통해 메타버스, AI, 로봇, 디지털 헬스, 친환경 등 다양한 분야의 혁신 스타트업을 지원한다. 삼성전자는 23일 서울 서초구 '삼성전자 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소니코리아, 무선 이어폰 '링크버즈' 국내 공식 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220223104300</link>
-            <guid>https://zdnet.co.kr/view/?no=20220223104300</guid>
-            <pubDate>Wed, 23 Feb 2022 02:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[소니코리아가 23일 링 디자인 무선 이어폰 링크버즈(LinkBuds)를 국내 출시했다. 링크버즈는 가운데가 비어 있는 12mm 링형 드라이버를 탑재해 재생하는 음악과 주변 소리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
