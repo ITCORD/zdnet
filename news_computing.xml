@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 06:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 자동으로 코딩하는 AI 등장, 개발자의 위기일까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220225145625</link>
+            <guid>https://zdnet.co.kr/view/?no=20220225145625</guid>
+            <pubDate>Fri, 25 Feb 2022 06:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[바둑 인공지능(AI) 알파고로 우리에게 잘 알려진 딥마인드가 '알파코드'를 공개했습니다. 알파코드는 자동으로 코드를 작성하는 AI인데요. 딥마인드는 알파코드로 코딩 대회에 참가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["기업, 비트코인 투자한다면 5~22% 자산 배분이 적정"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220225130431</link>
+            <guid>https://zdnet.co.kr/view/?no=20220225130431</guid>
+            <pubDate>Fri, 25 Feb 2022 06:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[법인의 암호화폐(가상자산) 투자에 대해, 적정한 자산 배분율이 제시됐다. 위험 회피 성향일 경우 5%, 위험 선호 성향일 경우 최대 22%까지 투자하는 것이 바람직하다는 분석이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[깃허브 코드스페이스, 클릭 한번으로 개발환경 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220225142951</link>
+            <guid>https://zdnet.co.kr/view/?no=20220225142951</guid>
+            <pubDate>Fri, 25 Feb 2022 06:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브가 클릭 한번으로 프로젝트 개발환경을 구축하는 원클릭 솔루션을 깃허브 코드스페이스에 도입했다. 25일(현지시간) 레지스터 등 외신에 따르면 깃허브가 사전구축(prebuil...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[머니투데이, 메타버스 플랫폼 '메타시티' 입점한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220225101851</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220224160843</guid>
             <pubDate>Thu, 24 Feb 2022 08:13:39 GMT</pubDate>
             <content:encoded><![CDATA[자바스크립트에서 개발자가 가장 사용하고 싶은 기능으로 정적 타이핑(Static Typing)이 선정됐다. 22일(현지시간) 레지스터 등 외신에 따르면 자바스크립트 개발자 설문 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전자정부서비스, 10명 중 9명 이용...만족도 97.8%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224163218</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224163218</guid>
-            <pubDate>Thu, 24 Feb 2022 08:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 국민 10명 중 9명 정도가 전자정부서비스를 이용했고, 97.8%가 만족한 것으로 나타났다. 행정안전부는 한국지능정보사회진흥원과 함께 전자정부서비스 이용실태 조사결과를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 악성메일 모의훈련 서비스 '마인드 셋' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224160121</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224160121</guid>
-            <pubDate>Thu, 24 Feb 2022 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[정보보호 업체 파수는 악성메일 모의훈련 서비스 '마인드 셋(Mind-SAT)'을 출시했다고 24일 밝혔다. 마인드 셋은 최근 해킹 공격의 주요 통로가 된 이메일 사용과 관련한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, '포스트그레SQL' 서비스  출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224155428</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224155428</guid>
-            <pubDate>Thu, 24 Feb 2022 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[네이버클라우드는 오픈소스 데이터베이스관리시스템(DBMS) 포스트그레SQL을 완전 관리형 클라우드 제품으로 출시했다고 24일 밝혔다. 네이버클라우드는 포스트그레SQL을 손쉽게 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
