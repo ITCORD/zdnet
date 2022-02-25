@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 07:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 08:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줌, 고객센터용 소통 솔루션 '줌 컨택트 센터' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220225164019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220225164019</guid>
+            <pubDate>Fri, 25 Feb 2022 08:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 화상회의 솔루션 기업 줌은 옴니채널 컨택트 센터 솔루션 '줌 컨택트 센터'를 출시했다고 25일 밝혔다. 줌 컨택트 센터는 통합 소통, 컨택트 센터 기능을 줌 플랫폼의 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 자동으로 코딩하는 AI 등장, 개발자의 위기일까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220225145625</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220224160435</guid>
             <pubDate>Thu, 24 Feb 2022 08:13:39 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 통합보안 업체 포티넷이 지난해 전년 대비 매출액을 29% 가까이 끌어올렸다. 지난해 전반적으로 사이버보안 솔루션 수요가 늘어난 시장 상황이 긍정적으로 작용했고, 회사가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개발자가 가장 원하는 자바스크립트 기능은 정적 타이핑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224160843</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224160843</guid>
-            <pubDate>Thu, 24 Feb 2022 08:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[자바스크립트에서 개발자가 가장 사용하고 싶은 기능으로 정적 타이핑(Static Typing)이 선정됐다. 22일(현지시간) 레지스터 등 외신에 따르면 자바스크립트 개발자 설문 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
