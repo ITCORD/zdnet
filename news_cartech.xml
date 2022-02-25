@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美, 러시아 고강도 제재…현대차그룹 "상황 예의주시"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220225171245</link>
+            <guid>https://zdnet.co.kr/view/?no=20220225171245</guid>
+            <pubDate>Fri, 25 Feb 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 24일(현지시간) 우크라이나 사태와 관련해 반도체 등 과학기술제품 러시아 수출을 금지하는 제재 방안을 발표했다. 국내 기업 타격도 불가피할 전망이다. 미국은 중국 정보통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자동차 넘어 항공·기계도 수소 충전한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220225163709</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220223074233</guid>
             <pubDate>Tue, 22 Feb 2022 23:14:08 GMT</pubDate>
             <content:encoded><![CDATA[제네럴모터스(GM)가 자동차 대시보드 화면으로 음식 주문, 레스토랑 예약 등을 할 수 있는 '마켓플레이스' 서비스를 종료한다. 미국 IT매체 엔가젯은 22일(현지시간) GM이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 등록 전기차 10대 중 7대가 국내 생산차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220222174937</link>
-            <guid>https://zdnet.co.kr/view/?no=20220222174937</guid>
-            <pubDate>Tue, 22 Feb 2022 09:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 신규등록한 전기자동차 10대 중 7대 이상이 국내에서 생산한 자동차인 것으로 나타났다. 환경부는 지난해 전기자동차 등록대수는 전체 자동차 등록대수의 6%인 10만338대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
