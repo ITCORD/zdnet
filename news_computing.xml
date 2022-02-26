@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 05:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 06:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해커집단 어나니머스, 러시아 국방부 웹사이트 해킹 주장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220226151119</link>
+            <guid>https://zdnet.co.kr/view/?no=20220226151119</guid>
+            <pubDate>Sat, 26 Feb 2022 06:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[익명의 해커 그룹 어나니머스가 우크라이나를 침공한 러시아 블라디미르 푸틴 정부에 사이버 전쟁을 선포했다. 이들은 대(對) 러시아 사이버전을 시작한 지 하루만에 공격 타깃으로 삼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[VM웨어, 연간 매출 128억5천만 달러...전년比 9% ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20220225214145</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220225091535</guid>
             <pubDate>Fri, 25 Feb 2022 00:42:26 GMT</pubDate>
             <content:encoded><![CDATA[모바일 기기의 크롬 브라우저로 웹사이트 이용 시 데이터 트래픽을 줄여주는 '크롬 라이트 모드'가 사라진다. 최근 외신에 따르면, 구글은 3월29일 크롬 M100 버전 출시 이후...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 옴니채널·AI·데이터 전략으로 리테일 혁신 이어가야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224175814</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224175814</guid>
-            <pubDate>Fri, 25 Feb 2022 00:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[리테일 업계는 지난 2년간 다른 어떤 산업보다 더욱 적극적으로 디지털 기술을 도입해 왔다. 오프라인 매장의 폐업과 영업 제한으로 인한 수익 손실 등 리테일 산업은 팬데믹의 영향...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
