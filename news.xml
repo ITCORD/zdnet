@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 15:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 16:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOTRA, 북미·CIS 연결 우크라이나 사태 등 수출 현안 긴급 대응]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220227001356</link>
+            <guid>https://zdnet.co.kr/view/?no=20220227001356</guid>
+            <pubDate>Sat, 26 Feb 2022 16:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 사태 악화로 불확실성이 커지는 가운데, KOTRA가 북미지역 현장에서 러시아 등 독립국가연합(CIS) 지역과 서울 본사를 연결해 긴급 대책 마련에 나섰다. KOTRA...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/27/85589827c1c3815d33bad90a0df11fb1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한미 양국, 우크라이나 사태 대응 글로벌 에너지 안보 공조]]></title>
             <link>https://zdnet.co.kr/view/?no=20220227000731</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220226195303</guid>
             <pubDate>Sat, 26 Feb 2022 11:15:08 GMT</pubDate>
             <content:encoded><![CDATA[경찰이 인공지능・빅데이터・자율주행 등 새로운 기술을 활용한 ICT 및 과학치안 구현을 강화한다. 이를 위해 이광형 KAIST 총장을 위원장으로 하는 '미래비전위원회'를 25일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/26/179ec311af47afb78f693d3787b2c419-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 GPU 업체 엔비디아, 사이버 공격 받았다..."사건 조사 중"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220225202022</guid>
             <pubDate>Fri, 25 Feb 2022 12:16:46 GMT</pubDate>
             <content:encoded><![CDATA[지난해 국민건강보험 재정 당기수지가 2조8천229억 원 흑자로 집계된 가운데, 문재인 대통령은 “문재인케어에도 불구 건강보험 재정수지가 흑자가 됐다”며 그간 제기됐던 건보재정 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터스트림즈, 빅 데이터 교육 아카데미 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220225201124</link>
-            <guid>https://zdnet.co.kr/view/?no=20220225201124</guid>
-            <pubDate>Fri, 25 Feb 2022 12:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)는 24일 'DS(DataStreams) 아카데미' 추진단을 발족했다. 이날 발족식은 DS 아카데미 추진경과 발표와 사내 교수임명장 수여식으로 진행됐...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

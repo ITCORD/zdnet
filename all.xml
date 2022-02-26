@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 15:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 16:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOTRA, 북미·CIS 연결 우크라이나 사태 등 수출 현안 긴급 대응 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220227001356</link>
+            <guid>https://zdnet.co.kr/view/?no=20220227001356</guid>
+            <pubDate>Sat, 26 Feb 2022 16:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 사태 악화로 불확실성이 커지는 가운데, KOTRA가 북미지역 현장에서 러시아 등 독립국가연합(CIS) 지역과 서울 본사를 연결해 긴급 대책 마련에 나섰다. KOTRA...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/27/85589827c1c3815d33bad90a0df11fb1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한미 양국, 우크라이나 사태 대응 글로벌 에너지 안보 공조 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220227000731</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220226195303</guid>
             <pubDate>Sat, 26 Feb 2022 11:15:08 GMT</pubDate>
             <content:encoded><![CDATA[경찰이 인공지능・빅데이터・자율주행 등 새로운 기술을 활용한 ICT 및 과학치안 구현을 강화한다. 이를 위해 이광형 KAIST 총장을 위원장으로 하는 '미래비전위원회'를 25일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/26/179ec311af47afb78f693d3787b2c419-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 GPU 업체 엔비디아, 사이버 공격 받았다..."사건 조사 중" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,14 +168,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[데이터스트림즈, 빅 데이터 교육 아카데미 만든다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220225201124</link>
-            <guid>https://zdnet.co.kr/view/?no=20220225201124</guid>
-            <pubDate>Fri, 25 Feb 2022 12:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)는 24일 'DS(DataStreams) 아카데미' 추진단을 발족했다. 이날 발족식은 DS 아카데미 추진경과 발표와 사내 교수임명장 수여식으로 진행됐...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 ICT코리아 추진본부, 창업생태계 간담회 가져 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220225190258</link>
             <guid>https://zdnet.co.kr/view/?no=20220225190258</guid>
@@ -179,7 +179,7 @@
             <title><![CDATA[과기정통부, GS홈쇼핑·CJ오쇼핑 5년 재승인 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Sat, 26 Feb 2022 15:10:29 GMT</pubDate>
+            <pubDate>Sat, 26 Feb 2022 16:17:15 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 TV홈쇼핑 재승인 심사위원회 심사결과 지에스리테일과 씨제이이엔엠에 대해 재승인 5년을 결정했다고 25일 밝혔다. 외부 전문가로 구성된 TV홈쇼핑 재승인 심사...]]></content:encoded>
         </item>
         <item>
@@ -2298,7 +2298,7 @@
             <title><![CDATA[[속보] 한국은행 기준금리 동결…연 1.25% (지디넷코리아 ─ 금융)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Sat, 26 Feb 2022 15:15:44 GMT</pubDate>
+            <pubDate>Sat, 26 Feb 2022 16:19:44 GMT</pubDate>
             <content:encoded><![CDATA[한국은행이 24일 연 금융통화위원회에서 기준금리를 종전과 같은 수준인 연 1.25%로 운용하기로 결정했다고 밝혔다....]]></content:encoded>
         </item>
         <item>
