@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 20:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 21:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시북2 프로, 전작과 무엇이 달라졌나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220228052007</link>
+            <guid>https://zdnet.co.kr/view/?no=20220228052007</guid>
+            <pubDate>Sun, 27 Feb 2022 21:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 28일(한국시간) 공개한 새 노트북, 갤럭시북2 프로는 프로세서를 비롯해 디스플레이와 웹캠, 와이파이 등 전작인 갤럭시북 프로 대비 모든 면에서 업그레이드 됐다. 프...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 기업용 노트북 '갤럭시북2 비즈니스' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220228035806</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220225095855</guid>
             <pubDate>Fri, 25 Feb 2022 02:05:07 GMT</pubDate>
             <content:encoded><![CDATA[한국레노버가 신학기를 앞두고 미국 패션 브랜드 '이벳필드'와 콜라보레이션을 진행한다. 오는 3월 2일부터 온라인 패션 플랫폼 무신사에서 이벳필드 제품 구매자 대상으로 추첨을 통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 한전 데이터 연계해 '스마트싱스 에너지' 서비스 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220225093927</link>
-            <guid>https://zdnet.co.kr/view/?no=20220225093927</guid>
-            <pubDate>Fri, 25 Feb 2022 00:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 한국전력공사와 함께 에너지 서비스 시범사업 컨소시엄 추진을 위한 업무협약(MOA)'을 24일 체결했다. 이를 통해 '아파트 AMI(지능형 원격 검침 장치) 데이터를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
