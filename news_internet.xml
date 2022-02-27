@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 22:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 23:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 우크라이나에서 위성인터넷 서비스 개시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220228075000</link>
+            <guid>https://zdnet.co.kr/view/?no=20220228075000</guid>
+            <pubDate>Sun, 27 Feb 2022 23:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[우주개발기업 스페이스X를 이끄는 일론 머스크가 26일(현지시간) 우크라이나 정부 요청을 받아 인터넷 통신위성 '스타링크(Starlink)' 서비스를 우크라이나에서 시작했다고 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 러시아 국영 미디어 수익 창출 중지]]></title>
             <link>https://zdnet.co.kr/view/?no=20220227115130</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220224154410</guid>
             <pubDate>Thu, 24 Feb 2022 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA['메타버스 퍼스트'를 선언한 마크 저커버그가 인류를 가로막고 있는 언어장벽을 허물어버리겠다고 선언했다. 전 세계 모든 언어를 실시간으로 번역해주는 시스템을 구축해 자유롭게 소통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 "밴드, 학급 운영 필수툴로 자리매김”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224162247</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224162247</guid>
-            <pubDate>Thu, 24 Feb 2022 08:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022학년도 새 학기를 앞두고 네이버 밴드가 정상 등교와 원격 수업의 병행을 준비하고 있는 교육 현장에서 유용한 학급 운영 툴로 주목받고 있다. 24일 네이버에 따르면 코로나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
