@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 11:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 12:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["내 폰번호로 스팸이 발송됐다고?"...스패머, 수법 진화한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220227090921</link>
+            <guid>https://zdnet.co.kr/view/?no=20220227090921</guid>
+            <pubDate>Sun, 27 Feb 2022 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[최근 다른 사람의 전화번호를 도용해 대량의 스팸을 발송하는 사례가 증가했다. 전화번호 도용 피해자는 사전에 스미싱, 악성코드 주입, 개인정보 탈취 등 사이버공격을 받았을 가능성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리누스 토발즈, '리눅스 커널' 최신 C언어 표준 업그레이드 결정]]></title>
             <link>https://zdnet.co.kr/view/?no=20220227145019</link>
@@ -59,7 +67,7 @@
             <title><![CDATA[[부음] 최영진 개인정보위원회 부위원장 모친상]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Sun, 27 Feb 2022 11:10:12 GMT</pubDate>
+            <pubDate>Sun, 27 Feb 2022 12:16:09 GMT</pubDate>
             <content:encoded><![CDATA[▲심권순 씨 별세, 최영진(개인정보보호위원회 부위원장)씨 모친상 = 27일 오전 3시 가톨릭대학교 서울성모병원 장례식장 3호실, 발인 3월 1일 오전 10시 30분. ☎02-2...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220225130431</guid>
             <pubDate>Fri, 25 Feb 2022 06:13:08 GMT</pubDate>
             <content:encoded><![CDATA[법인의 암호화폐(가상자산) 투자에 대해, 적정한 자산 배분율이 제시됐다. 위험 회피 성향일 경우 5%, 위험 선호 성향일 경우 최대 22%까지 투자하는 것이 바람직하다는 분석이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브 코드스페이스, 클릭 한번으로 개발환경 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220225142951</link>
-            <guid>https://zdnet.co.kr/view/?no=20220225142951</guid>
-            <pubDate>Fri, 25 Feb 2022 06:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[깃허브가 클릭 한번으로 프로젝트 개발환경을 구축하는 원클릭 솔루션을 깃허브 코드스페이스에 도입했다. 25일(현지시간) 레지스터 등 외신에 따르면 깃허브가 사전구축(prebuil...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
