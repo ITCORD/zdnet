@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 23:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 00:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차 수소전기버스, 오스트리아 빈 도심 달린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220227092357</link>
+            <guid>https://zdnet.co.kr/view/?no=20220227092357</guid>
+            <pubDate>Sun, 27 Feb 2022 00:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차 수소전기버스가 오스트리아 빈 시내를 달린다. 현대차는 수소전기버스 '일렉시티 FCEV'가 오스트리아 수도 빈 시내버스 정규노선에서 운행을 시작했다고 27일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 러시아 고강도 제재…현대차그룹 "상황 예의주시"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220225171245</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220223083231</guid>
             <pubDate>Wed, 23 Feb 2022 00:46:37 GMT</pubDate>
             <content:encoded><![CDATA[중국 전기차 기업 샤오펑이 자율주행 기술 개발과 상업화를 맡을 전문 자회사를 세웠다. 중국 언론 IT즈자는 기업 정보 플랫폼 치차차를 인용해 샤오펑이 광저우에 자회사인 '펑쉬오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GM, 차량 내 주문 기능 '마켓플레이스' 서비스 종료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220223074233</link>
-            <guid>https://zdnet.co.kr/view/?no=20220223074233</guid>
-            <pubDate>Tue, 22 Feb 2022 23:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[제네럴모터스(GM)가 자동차 대시보드 화면으로 음식 주문, 레스토랑 예약 등을 할 수 있는 '마켓플레이스' 서비스를 종료한다. 미국 IT매체 엔가젯은 22일(현지시간) GM이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
