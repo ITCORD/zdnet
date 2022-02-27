@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 19:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 20:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 기업용 노트북 '갤럭시북2 비즈니스' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220228035806</link>
+            <guid>https://zdnet.co.kr/view/?no=20220228035806</guid>
+            <pubDate>Sun, 27 Feb 2022 20:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 기업용 노트북 제품 '갤럭시북2 비즈니스'를 올해 글로벌 시장에 출시한다. 삼성전자가 28일(한국시간) 갤럭시 MWC 이벤트 2022를 통해 이와 같이 밝혔다. 갤럭...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 "갤럭시북2 프로, 삼성전자와 협업 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220228033006</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220225093927</guid>
             <pubDate>Fri, 25 Feb 2022 00:43:07 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 한국전력공사와 함께 에너지 서비스 시범사업 컨소시엄 추진을 위한 업무협약(MOA)'을 24일 체결했다. 이를 통해 '아파트 AMI(지능형 원격 검침 장치) 데이터를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 당국 "샤오미, 거짓 광고"....또 벌금 매겨]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220225090819</link>
-            <guid>https://zdnet.co.kr/view/?no=20220225090819</guid>
-            <pubDate>Fri, 25 Feb 2022 00:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[중국 샤오미가 상품에 대한 부정확한 설명으로 또 정부 당국에 벌금을 내게 됐다. 24일 중국 언론 중국품질신문망이 인용한 국가기업신용정보공시시스템에 따르면 샤오미가 광고법 위반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
