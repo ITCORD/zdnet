@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 08:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 3일 한-EU 적정성결정 설명회]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220301163333</link>
+            <guid>https://zdnet.co.kr/view/?no=20220301163333</guid>
+            <pubDate>Tue, 01 Mar 2022 08:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회는 한국인터넷진흥원(KISA)과 함께 오는 3일 온라인을 통해 '우리 기업을 위한 한-EU 적정성결정 활용 설명회'를 개최한다고 1일 밝혔다. 이번 설명회는 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아 해커 "회로도 포함 1TB 데이터 빼냈다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220301110902</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228093123</guid>
             <pubDate>Mon, 28 Feb 2022 00:42:27 GMT</pubDate>
             <content:encoded><![CDATA[다쏘시스템은 한국세라믹기술원, 메타바이오메드와 바이오산업 발전 및 신소재 개발을 위한 업무 협약을 체결했다고 28일 밝혔다. 협약식은 지난 23일 충북 오송 소재의 메타바이오메...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KPMG 아이디어톤, 파인애플팀 우승 '태양광 설치·투자 플랫폼 제안']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228092542</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228092542</guid>
-            <pubDate>Mon, 28 Feb 2022 00:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[삼정KPMG(대표 김교태)가 대학생을 대상으로 개최한 '제3회 KPMG 아이디어톤(Ideathon)'에서 파인애플팀(서울대, 한국외대, 연세대, 명지대)이 우승했다고 28일 밝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
