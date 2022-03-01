@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 16:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임혜숙 장관, MWC 현장서 중소기업 따로 챙겼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302014151</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302014151</guid>
+            <pubDate>Tue, 01 Mar 2022 17:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[임혜숙 과학기술정보통신부 장관이 스페인 바르셀로나에서 열린 MWC에서 국내 중소기업과 따로 만나는 자리를 마련하고, 이들을 격려하면서 업계 건의를 직접 듣고 나섰다. 글로벌 I...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/02/0121e1debb741d7c0769d162181ed00c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정헌 넥슨 "김정주 창업주의 뜻 이어가겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220301224823</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220301214953</guid>
             <pubDate>Tue, 01 Mar 2022 14:10:32 GMT</pubDate>
             <content:encoded><![CDATA[국내 주요 게임사 중 하나인 넥슨을 창업한 故김정주 넥슨 창업자의 사망 소식이 전해지며 게임업계가 큰 충격을 받고 있다. MMORPG라는 단어가 통용되기도 이전인 1996년에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/01/c087bf4a5515afadc4dddf94cf2e6296-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이주연 아주대 교수, 산업융합기술협회 신임회장 취임]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220301090947</guid>
             <pubDate>Tue, 01 Mar 2022 02:13:25 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 채널1, NTV, 스파스 등 20개 러시아 국영 채널에 의무적으로 콘텐츠를 보급해야 하는 러시아법을 따르지 않을 것이라고 버라이티, 더버지 등 복수 외신은 지난달 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 신규 확진 13만8993명…4명 중 1명은 18세 이하]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220301103137</link>
-            <guid>https://zdnet.co.kr/view/?no=20220301103137</guid>
-            <pubDate>Tue, 01 Mar 2022 02:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 신규 확진자 4명 중 1명 이상이 18세 이하로 나타났다. 또 이틀 연속 100명을 넘고 있는 사망자의 경우 30·40대에서도 지속적으로 발생하고 있다. 중앙방역대책...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
