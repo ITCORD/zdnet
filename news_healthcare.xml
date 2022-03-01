@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 00:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 02:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 13만8993명…4명 중 1명은 18세 이하]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220301103137</link>
+            <guid>https://zdnet.co.kr/view/?no=20220301103137</guid>
+            <pubDate>Tue, 01 Mar 2022 02:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 신규 확진자 4명 중 1명 이상이 18세 이하로 나타났다. 또 이틀 연속 100명을 넘고 있는 사망자의 경우 30·40대에서도 지속적으로 발생하고 있다. 중앙방역대책...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디오, 연간 매출액 1500억원 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20220228173243</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228095133</guid>
             <pubDate>Mon, 28 Feb 2022 02:05:46 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 의료제품 업계 현장의 목소리를 들어 애로사항을 해소하고, 관련 제도 개선에도 적극 활용하기 위한 '2022년 의료제품 분야 민·관 소통 채널 운영 계획'을 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[식약처, '한약재 관능검사 해설서' 개정본 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228092457</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228092457</guid>
-            <pubDate>Mon, 28 Feb 2022 00:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처는 한약재 관능검사 판정 결과의 일관성과 정확성을 높이기 위해 한약재별 정보, 사진 등을 담은 '한약재 관능검사 해설서'를 개정해 발간·배포한다. 관능검사는 기원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
