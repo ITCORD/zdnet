@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 09:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 10:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM "아시아, 지난해 사이버 공격 가장 많이 받았다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220301173228</link>
+            <guid>https://zdnet.co.kr/view/?no=20220301173228</guid>
+            <pubDate>Tue, 01 Mar 2022 10:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 발생한 사이버 공격 4건 중 1건은 아시아에서 발생한 것으로 나타났다. 산업군별로는 제조업에 대한 사이버 공격 약 23%를 차지해 가장 많았다. IBM은 이 같은 내용이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, 3일 한-EU 적정성결정 설명회]]></title>
             <link>https://zdnet.co.kr/view/?no=20220301163333</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228092645</guid>
             <pubDate>Mon, 28 Feb 2022 00:42:27 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)은 글로벌 클라우드 플랫폼 아마존웹서비스(AWS)의 '어드밴스드 티어 서비스 파트너'로 선정됐다고 28일 밝혔다. 안랩은 보안 특화 클라우드 관리 서비스인 안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다쏘시스템-세라믹기술원-메타바이오메드, 바이오·신소재 개발 업무협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228093123</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228093123</guid>
-            <pubDate>Mon, 28 Feb 2022 00:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[다쏘시스템은 한국세라믹기술원, 메타바이오메드와 바이오산업 발전 및 신소재 개발을 위한 업무 협약을 체결했다고 28일 밝혔다. 협약식은 지난 23일 충북 오송 소재의 메타바이오메...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
