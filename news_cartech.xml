@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알리바바 합작사가 만든 전기차 'L7' 내달 인도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302085640</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302085640</guid>
+            <pubDate>Wed, 02 Mar 2022 01:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[중국 전통 자동차 기업과 알리바바가 함께 만든 전기차가 올 봄 소비자들에게 인도된다. 1일 중국 언론 IT즈자에 따르면 상하이자동차그룹(SAIC)은 IM모터스의 'L7'을 린강...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미래차 전환 자동차부품 기업에 1700억 자금 대출]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302055327</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220224185425</guid>
             <pubDate>Thu, 24 Feb 2022 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[SK온이 중고 전기자동차 배터리 수명과 잔존 가치를 평가한다. 전기차 중고 거래 가격 기준이 생길 것으로 기대했다. SK온은 24일 서울 종로구 SK서린빌딩에서 직영 중고차 판...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경유 승용차 폐차 후 또 경유차 사면 보조금 줄인다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220224145730</link>
-            <guid>https://zdnet.co.kr/view/?no=20220224145730</guid>
-            <pubDate>Thu, 24 Feb 2022 06:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[올해 소형 경유 승용차를 폐차한 후 다시 경유차를 구매하면 보조금이 기존 차량 잔존가액의 70%에서 50%로 축소된다. 반면에 경유차를 폐차하고 전기·수소차를 구매하면 보조금이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

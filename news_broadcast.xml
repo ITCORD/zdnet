@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 맵 사이트, 디도스 공격 받아 18시간 마비]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302083404</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302083404</guid>
+            <pubDate>Wed, 02 Mar 2022 01:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[지도 서비스를 바탕으로 우크라이나 전쟁 상황을 실시간 전달하는 독립매체 '리브아맵(Liveuamap)'이 디도스 공격을 받아 약 18시간 동안 마비됐다. 뉴욕타임스 등 주요 외...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구현모 사장 "화웨이 협력, 디지털 전환 분야부터"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302073952</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302073952</guid>
+            <pubDate>Wed, 02 Mar 2022 01:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[구현모 KT 사장이 화웨이와 협력 방안을 두고 IDC와 클라우드 영역의 디지털 전환을 우선 분야로 꼽았다. KT와 화웨이와 협력 방안을 검토하는 이야기가 나오면서 무선 기지국 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구현모 "KT, 텔레콤 대신 코리아테크놀로지로 불리고 싶다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302065405</link>
@@ -75,7 +91,7 @@
             <title><![CDATA[유영상 "삼성 최고 ESG 파트너"…노태문 "협력 가능" 화답]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 01 Mar 2022 23:11:23 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 01:00:42 GMT</pubDate>
             <content:encoded><![CDATA[유영상 SK텔레콤 사장이 노태문 삼성전자 사장에 "최고의 ESG 파트너"라고 치켜세웠다. 노태문 사장은 이에 친한경 ESG 경영이 가능한 사례를 들며 화답했다. 28일(현지시간...]]></content:encoded>
         </item>
         <item>
@@ -148,21 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228085800</guid>
             <pubDate>Mon, 28 Feb 2022 00:41:45 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 모바일 전시회 MWC22에서 중국 제조사의 플래그십 스마트폰이 대거 공개된다. 27일(현지시간) 더버지에 따르면, 아너·오포·TCL·포코 등 중국 스마트폰 브랜드들이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 K팝댄스 배워보세요]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 01 Mar 2022 23:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 MWC에서 인공지능(AI)을 통해 K팝 춤을 즐기고 동작을 배울 수 있는 'KT 리얼 댄스' 서비스를 28일 공개했다. KT 리얼 댄스 서비스는 사용자의 춤 동작이 강사...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SKT, MWC에서 블록체인 기술 경험 공유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228060326</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228060326</guid>
-            <pubDate>Mon, 28 Feb 2022 00:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 블록체인과 탈중앙식별자(DID) 기술의 사업화 경험을 글로벌 ICT 업계와 공유한다. SK텔레콤이 스페인 바르셀로나에서 열린 MWC22 시큐리티 서밋에서 'DID를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
