@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 스마트폰 AP 점유율 또 감소…5위로 밀려나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302112943</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302112943</guid>
+            <pubDate>Wed, 02 Mar 2022 04:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 스마트폰 시장 1위인 삼성전자가 모바일 애플리케이션 프로세서(AP) 시장에서는 입지가 좁아지고 있다. 삼성전자 AP 브랜드인 엑시노스가 두자릿수를 기록하던 점유율이 5%...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위니아딤채, 15년 이상 사용한 김치냉장고 재구매 보상 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302101903</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228101427</guid>
             <pubDate>Mon, 28 Feb 2022 02:04:35 GMT</pubDate>
             <content:encoded><![CDATA[아이폰14 프로의 노치가 없어지고 새로운 펀치홀 디스플레이가 적용될 것이라는 전망이 최근 잇따라 나오고 있는 가운데, 아이폰14 프로 설계도면이 유출됐다고 나인투파이브맥 등 외...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전자랜드 "늦겨울 한파로 2월 난방 가전 판매량 급증"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228102855</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228102855</guid>
-            <pubDate>Mon, 28 Feb 2022 02:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[전자랜드가 이달 늦은 한파로 난방 가전 판매량이 급증했다고 28일 밝혔다. 전자랜드가 지난 1일부터 23일까지 난방 가전 판매량을 조사한 결과, 온풍기는 전년 동기 대비 86%...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
