@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미래의료]"지금이 원격의료 도입을 위한 골든타임"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302135606</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302135606</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[혹자는 미래의료가 정보통신 기술과 결합해 개인·맞춤·예측의 방향으로 발전하리라 전망하지만, 이것만으론 설명이 부족하다. 신종 감염병·기후 위기·4차 산업혁명 등 급격한, 혹은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[레드힐 'RHB-107', 비입원 코로나19 환자 61명 대상 2상서 안정성‧내약성 확인]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302131144</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228114131</guid>
             <pubDate>Mon, 28 Feb 2022 03:15:07 GMT</pubDate>
             <content:encoded><![CDATA[디엠바이오(대표이사 사장 최경은)는 다음 달 3월1일부터 'STGEN BIO(에스티젠바이오)'로 사명을 변경한다고 28일 밝혔다. 이번 사명 변경은 디엠바이오의 사업 다각화 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전자의무기록시스템 인증 의료기관 3886개소로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228100950</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228100950</guid>
-            <pubDate>Mon, 28 Feb 2022 03:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[전자의무기록시스템 인증 의료기관에 631개소가 추가 인증 받으며 총 3천886개소로 늘었다 . 보건복지부는 2월28일 2022년 제1차 전자의무기록 인증위원회를 열고 경북대학교...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

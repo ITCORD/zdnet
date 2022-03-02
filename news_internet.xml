@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브, 유럽서 러시아 국영 언론사 채널 차단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302145601</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302145601</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 유럽에서 러시아 국영방송인 러시아투데이(RT)와 뉴스 통신사 스푸트니크 채널을 차단했다. 구글이 운영하는 유튜브는 1일(현지시간) 러시아의 우크라이나 침공 제재 조치의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[물에 떠 공중으로 다니는 미래형 전기보트 등장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302144823</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302144823</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[스웨덴의 한 기업이 선체 밑에 날개가 있어 속도를 높이면 선체가 물 위로 떠오르는 선박 '수중익선'(水中翼船, hydrofoil boat)을 미래형 전기 보트로 변신시켰다 IT...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해커집단 어나니머스, '러시아 공격' 어떻게 하고 있나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302103313</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228103748</guid>
             <pubDate>Mon, 28 Feb 2022 02:04:45 GMT</pubDate>
             <content:encoded><![CDATA[의료 인공지능(AI) 소프트웨어 기업 프리베노틱스가 카카오벤처스로부터 시드 투자를 유치했다고 28일 밝혔다. 프리베노틱스는 내시경 데이터와 AI를 기반으로 암과 암 전(前) 단...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인기협, 메타버스 정책 세미나 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228100936</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228100936</guid>
-            <pubDate>Mon, 28 Feb 2022 02:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷기업협회가 조승래 더불어민주당 의원, 김영식 국민의힘 의원과 공동으로 메타버스 정책 세미나 '또 하나의 삶, 메타버스가 여는 새로운 디지털 세상'을 개최한다고 28일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, '창구 프로그램 4기' 개발사 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228104201</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228104201</guid>
-            <pubDate>Mon, 28 Feb 2022 02:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[구글플레이가 창구 프로그램 4기 개발사를 모집한다고 28일 밝혔다. '창'업과 '구'글플레이의 각각 앞자(창+구)를 따온 '창구' 프로그램은 구글과 중소벤처기업부, 창업진흥원이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
