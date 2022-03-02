@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원스토어 앱, '안드로이드 오토'서 바로 실행된다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302131509</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302131509</guid>
+            <pubDate>Wed, 02 Mar 2022 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 원스토어에서 다운로드한 앱도 구글 차량용 운영체제(OS) '안드로이드 오토'를 통해 이용할 수 있게 된다. 방송통신위원회는 최근 구글과 원스토어가 안드로이드 오토의 호환...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나서 스페이스X 인터넷 써 봤더니…"10초 만에 연결"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302103547</link>
@@ -107,7 +115,7 @@
             <title><![CDATA[유영상 "삼성 최고 ESG 파트너"…노태문 "협력 가능" 화답]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Wed, 02 Mar 2022 04:13:10 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 05:18:23 GMT</pubDate>
             <content:encoded><![CDATA[유영상 SK텔레콤 사장이 노태문 삼성전자 사장에 "최고의 ESG 파트너"라고 치켜세웠다. 노태문 사장은 이에 친한경 ESG 경영이 가능한 사례를 들며 화답했다. 28일(현지시간...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228092035</guid>
             <pubDate>Mon, 28 Feb 2022 04:22:54 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)는 가게로 전화를 걸면 인공지능(AI) 통화비서가 문의·예약·주문을 대신 받아주고, 통화 후 가게 정보를 문자로 안내해주는 소상공인 서비스 '사장님 AI비서팩...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, WTSA-20 참가...글로벌 ICT 표준화 주도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228103628</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228103628</guid>
-            <pubDate>Mon, 28 Feb 2022 04:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부가 정보통신분야(ICT) 글로벌 표준화 리더십 강화를 위해 3월 1일 스위스 제네바에서 개최되는 국제전기통신연합(ITU) 세계전기통신표준화총회(WTSA-20)에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
