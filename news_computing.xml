@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 08:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비트코인' 최고점 구매자 절반은 손절했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302160659</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302160659</guid>
+            <pubDate>Wed, 02 Mar 2022 08:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[비트코인이 역대 최고가(6만9천달러)를 기록했던 지난해 11월을 전후해 구매했던 투자자 상당수가 그 이후 손절했다는 분석이 나왔다. 블록체인 전문 매체 디크립트는 2일(미국시간...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 전자문서 기반 디지털전환 서비스 발굴 나선다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302151335</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220302102001</guid>
             <pubDate>Wed, 02 Mar 2022 02:09:44 GMT</pubDate>
             <content:encoded><![CDATA[엔코아(대표 이화식)는 네오4j(Neo4j)와 파트너 협약을 체결했다고 2일 밝혔다. 네오4j는 그래프 DB 중 글로벌 레퍼런스 관련 시장 점유율 1위를 기록하고 있다. 엔코아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, 클라우드 연동 백업 서비스 CJ BaaS 론칭]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220302101455</link>
-            <guid>https://zdnet.co.kr/view/?no=20220302101455</guid>
-            <pubDate>Wed, 02 Mar 2022 02:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[CJ올리브네트웍스(대표 차인혁)가 퍼블릭 클라우드와 연동 가능한 혁신적인 백업 플랫폼 서비스 CJ BaaS(Backup as a Service)를 선보인다고 2일 밝혔다. CJ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
