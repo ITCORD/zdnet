@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["연내 글로벌 5G 가입자 10억 넘는다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302172321</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302172321</guid>
+            <pubDate>Wed, 02 Mar 2022 09:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[5G 이동통신 가입 회선이 연내 글로벌 10억 회선을 돌파할 것이란 전망이 나왔다. 올해 10억 회선에 이어 2025년 20억 회선까지 증가세를 이어갈 것이란 보고서가 발간됐다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 김유열 EBS 사장 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302170440</link>
@@ -158,13 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 23:16:05 GMT</pubDate>
             <content:encoded><![CDATA[유영상 SK텔레콤 사장이 "2022년은 5G 상용화 이후 3년간 결집된 노하우로 탄생한 SK텔레콤의 넥스트 빅 테크가 본격적으로 글로벌 시장에 진출하는 원년이 될 것"이라고 말...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유영상 "삼성 최고 ESG 파트너"…노태문 "협력 가능" 화답]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Wed, 02 Mar 2022 08:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[유영상 SK텔레콤 사장이 노태문 삼성전자 사장에 "최고의 ESG 파트너"라고 치켜세웠다. 노태문 사장은 이에 친한경 ESG 경영이 가능한 사례를 들며 화답했다. 28일(현지시간...]]></content:encoded>
         </item>
     </channel>
 </rss>
