@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온세미, 미국 반도체 공장 매각한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220302151617</link>
+            <guid>https://zdnet.co.kr/view/?no=20220302151617</guid>
+            <pubDate>Wed, 02 Mar 2022 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 전력반도체 회사 온세미가 벨기에 공장에 이어 미국 공장도 팔기로 했다. 온세미는 지난주 미국 메인주 사우스포틀랜드에 있는 반도체 기판(웨이퍼) 생산라인을 미국 반도체 기업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[캐나다, 반도체에 2300억원 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302095854</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220221172232</guid>
             <pubDate>Mon, 21 Feb 2022 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[독일 반도체 회사 인피니언테크놀로지스는 21일 말레이시아 쿨림공장에 20억 유로(약 2조7천100억원)를 투자해 세번째 생산라인을 건설한다고 밝혔다. 탄화규소(SiC·실리콘카바...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 자동차 반도체 시장 진출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220221093240</link>
-            <guid>https://zdnet.co.kr/view/?no=20220221093240</guid>
-            <pubDate>Mon, 21 Feb 2022 02:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[미국 인텔이 차량용 반도체 시장에 진출한다. 인텔은 17일(현지시간) 투자설명회를 열고 인텔 반도체 위탁생산(파운드리) 부문에 자동차 전담 조직을 만든다고 밝혔다. 인텔은 차량...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
