@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 18:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 19:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람이 의견 바꿀 때 뇌에선 무슨 일 벌어지나?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303164942</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303164942</guid>
+            <pubDate>Thu, 03 Mar 2022 19:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[사람은 언제, 어떻게 의견을 바꿀까? 새로운 정보를 얻은 경우에, 또는 사회적으로 받아들여지고 싶다는 기대로 인해 의견을 바꾸는 것이 보통이다. 독일 프라이부르크대학 연구진은 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/28/6b5c397a8e1a4b8be9e90030a650b3cf-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 21만명 첫 돌파…오후 6시 21만3677명 확진(종합)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303203541</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220303193419</guid>
             <pubDate>Thu, 03 Mar 2022 11:10:25 GMT</pubDate>
             <content:encoded><![CDATA[경기 파주시 월롱면 LG디스플레이 신규 생산 라인 건설 현장에서 감전 사고가 발생해 근로자 4명이 다쳤다. 3일 오후 2시30분께 LG디스플레이 P9공장에서 전기 작업을 하던 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/03/79e65d80b4c24779e78f1a8601cf8043-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디라이트 "공익인권단체에 예산·법률 지원"···다음달 8일까지 접수]]></title>
@@ -43,7 +51,7 @@
             <title><![CDATA[[인사] 환경부]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Thu, 03 Mar 2022 18:13:37 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 19:09:20 GMT</pubDate>
             <content:encoded><![CDATA[◆환경부 ◇부장급(국장급) 승진 ▲국립환경과학원 환경자원연구부장 전태완...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220303155700</guid>
             <pubDate>Thu, 03 Mar 2022 08:13:07 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자 최신 스마트폰 갤럭시S22 시리즈의 '게임 옵티마이징 서비스(GOS)' 기능에 대한 소비자 불만이 커지고 있다. GOS는 고사양·고화질의 게임을 갤럭시 스마트폰에서 구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹젠 R2M, 길드 콘텐츠 강화한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220303164521</link>
-            <guid>https://zdnet.co.kr/view/?no=20220303164521</guid>
-            <pubDate>Thu, 03 Mar 2022 08:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[웹젠(대표 김태영)은 모바일 MMORPG 'R2M'의 길드 콘텐츠를 강화한다고 3일 밝혔다. 웹젠을 대표하는 프렌차이즈인 'R2'는 2006년 출시된 후 국내 게임 중 최초로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
