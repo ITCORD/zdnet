@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에퀴닉스, CSP·통신사 전용 대규모 데이터센터 2개 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303170323</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303170323</guid>
+            <pubDate>Thu, 03 Mar 2022 08:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[에퀴닉스가 아마존웹서비스(AWS)와 국내 통신사 등 하이퍼스케일 기업을 위한 대규모 데이터센터를 구축한다. 장혜덕 에퀴닉스 코리아 대표는 3일 온라인으로 진행된 기자간담회에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스누아이랩, 독자 연구 논문 글로벌 학회 CVPR 2022 채택]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303153200</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220302202920</guid>
             <pubDate>Wed, 02 Mar 2022 12:17:38 GMT</pubDate>
             <content:encoded><![CDATA[지난해 10월, 우리나라는 민간 데이터 활용을 통한 산업 및 국가경쟁력 향상을 위해 '데이터 산업진흥 및 이용촉진에 관한 법(데이터 산업법)'을 제정, 시행했다. 당시 정부는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소 고팍스, 러시아 계정 동결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220302185643</link>
-            <guid>https://zdnet.co.kr/view/?no=20220302185643</guid>
-            <pubDate>Wed, 02 Mar 2022 11:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 고팍스는 2일 미국 재무부 산하 해외재산관리국(OFAC) 및 유럽연합(EU) 제재에 따라 러시아 IP에 대한 접속을 차단하고, 러시아 국적자의 모든 계정에 대한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
