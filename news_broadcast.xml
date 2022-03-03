@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 07:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 러시아 오리지널 시리즈 제작 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303144103</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303144103</guid>
+            <pubDate>Thu, 03 Mar 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 우크라이나 침공에 반대해 러시아에서 진행하고 있던 오리지널 시리즈 제작을 전면 중단했다. 이에 따라 톨스토이 소설을 원작으로 한 넷플릭스 오리지널 시리즈 야심작 '안...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, 게임 제작사 '넥스트 게임즈' 868억원에 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303132811</link>
@@ -24,19 +32,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[드론 비행 20km까지 가능해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220303113209</link>
-            <guid>https://zdnet.co.kr/view/?no=20220303113209</guid>
-            <pubDate>Thu, 03 Mar 2022 03:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[현재 저고도에서 통신상 이유로 1km 내외만 비행 가능한 드론을, 비가시권인 최대 20km까지 비행 가능할 수 있도록 저주파수(433MHz) 대역에 기반 한 드론용 통신기술을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[韓 5G·디지털뉴딜..."해외서 배우고 싶어한다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303115427</link>
             <guid>https://zdnet.co.kr/view/?no=20220303115427</guid>
             <pubDate>Thu, 03 Mar 2022 03:14:01 GMT</pubDate>
             <content:encoded><![CDATA["한국만큼 앞서가는 나라가 없으니 본받아야 한다는 말이 잇따라 나왔다." 임혜숙 과학기술정보통신부 장관은 2일(현지시간) 스페인 바르셀로나에서 열린 MWC 현장에서 국내 기자들...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드론 비행 20km까지 가능해진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303113209</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303113209</guid>
+            <pubDate>Thu, 03 Mar 2022 03:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[현재 저고도에서 통신상 이유로 1km 내외만 비행 가능한 드론을, 비가시권인 최대 20km까지 비행 가능할 수 있도록 저주파수(433MHz) 대역에 기반 한 드론용 통신기술을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220302172321</guid>
             <pubDate>Wed, 02 Mar 2022 09:11:10 GMT</pubDate>
             <content:encoded><![CDATA[5G 이동통신 가입 회선이 연내 글로벌 10억 회선을 돌파할 것이란 전망이 나왔다. 올해 10억 회선에 이어 2025년 20억 회선까지 증가세를 이어갈 것이란 보고서가 발간됐다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 김유열 EBS 사장 선임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220302170440</link>
-            <guid>https://zdnet.co.kr/view/?no=20220302170440</guid>
-            <pubDate>Wed, 02 Mar 2022 08:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회가 2일 전체회의를 열고 신임 한국교육방송공사(EBS) 사장으로 김유열 부사장을 선임했다. 김 신임 사장은 서울대 동양사학과를 졸업한 후 1992년 EBS PD로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
