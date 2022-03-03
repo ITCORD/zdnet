@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 10:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 11:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이 파주공장 감전 사고…LS전선 4명 다쳐]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303193419</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303193419</guid>
+            <pubDate>Thu, 03 Mar 2022 11:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[경기 파주시 월롱면 LG디스플레이 신규 생산 라인 건설 현장에서 감전 사고가 발생해 근로자 4명이 다쳤다. 3일 오후 2시30분께 LG디스플레이 P9공장에서 전기 작업을 하던 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 올해 소부장 연구개발에 2.3조 투입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303101143</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220222185419</guid>
             <pubDate>Tue, 22 Feb 2022 11:12:28 GMT</pubDate>
             <content:encoded><![CDATA[LG이노텍은 22일 서울 마곡동 LG사이언스파크 본사에서 이사회를 열고 플립칩 볼그리드 어레이(FC-BGA) 시설·설비에 4천130억원 투자하기로 결의했다. 자기자본의 17%에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로칩, 오토모티브 인증 4세대 PCIe 스위치 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220222163322</link>
-            <guid>https://zdnet.co.kr/view/?no=20220222163322</guid>
-            <pubDate>Tue, 22 Feb 2022 08:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[미국 마이크로칩테크놀로지는 22일 오토모티브 인증 4세대 PCI익스프레스(PCIe) 스위치를 선보였다. PCIe는 메인 기판에 그래픽·사운드카드 등을 사용하고자 만들어진 규격이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
