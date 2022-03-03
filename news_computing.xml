@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스노우플레이크, 데이터 앱 개발 플랫폼 '스트림릿' 인수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303141052</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303141052</guid>
+            <pubDate>Thu, 03 Mar 2022 06:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 클라우드 기업 스노우플레이크가 스트림릿(Streamlit)을 8억 달러(약 9천600억 원)에 인수했다. 테크크런치 등 외신에 따르면 스노우플레이크는 스트림릿을 인수하기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SAP·오라클도 러시아 제재 동참...영업 중단]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303112435</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220302175802</guid>
             <pubDate>Wed, 02 Mar 2022 09:11:52 GMT</pubDate>
             <content:encoded><![CDATA[소만사(대표 김대환)는 지난해 주요 악성코드·랜섬웨어 분석 및 대응방안을 담은 '악성코드 분석리포트 2022'를 발간했다고 2일 밝혔다. 이번 보고서는 지난해 전 세계 기업과 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재능기부로 뭉친 우크라이나 IT 민병대 "러 주요 웹 셧다운"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220302170932</link>
-            <guid>https://zdnet.co.kr/view/?no=20220302170932</guid>
-            <pubDate>Wed, 02 Mar 2022 09:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 침공에 맞서 항전 중인 우크라이나에서 재능기부 기반 IT 민병대인 '우크라이나 IT아미'가 조직돼 사이버전을 치르고 있다. 우크라이나 IT아미 측에 따르면 러시아 주요 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

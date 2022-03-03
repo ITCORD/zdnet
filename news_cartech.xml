@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["강력한 오프로더"…포드, 신형 브롱코 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303120221</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303120221</guid>
+            <pubDate>Thu, 03 Mar 2022 06:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[포드코리아는 3일 오프로드 SUV '신형 브롱코'를 출시한다고 밝혔다. 신형 브롱코는 전 세계적으로 여가 활동 인구가 급증함에 따라 24년 만에 생산이 재개된 모델이다. 포드가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기아, 2030년 전기차 120만대 판매 목표…친환경차 비중 52%↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303112616</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228101923</guid>
             <pubDate>Mon, 28 Feb 2022 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[미니코리아가 브랜드 첫 전기차 '미니 일렉트릭'을 출시한다고 28일 밝혔다. 미니 일렉트릭은 최고 출력 184마력, 최대 토크 27.5kg·m를 내고 정지 상태에서 시속 100...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국, 세계 車 생산 5위…346만대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228094914</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228094914</guid>
-            <pubDate>Mon, 28 Feb 2022 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 우리나라 자동차 생산은 반도체 공급난으로 인한 생산 차질에도 재고관리·생산조정 등을 통해 전년과 같은 세계 5위를 유지한 것으로 나타났다. 28일 한국자동차산업협회(KA...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
