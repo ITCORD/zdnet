@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 11:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 12:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 21만명 첫 돌파…오후 6시 21만3677명 확진(종합)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303203541</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303203541</guid>
+            <pubDate>Thu, 03 Mar 2022 12:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내 신종 코로나바이러스 감염증(코로나19) 신규 확진자가 3일 0시부터 오후 6시까지 전국 17개 시·도에서 최소 21만3677명 발생한 것으로 잠정 집계됐다. 이는 전날(2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공정위 플랫폼 심사지침에 업계 "산업 성장 제동 우려"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220303164352</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220302192643</guid>
             <pubDate>Wed, 02 Mar 2022 12:18:28 GMT</pubDate>
             <content:encoded><![CDATA[지난달 정부 주도로 처음 시행한 '배달비 공시제'가 시작부터 조사 과정 오류가 발생하는 등 업계 혼란을 부추기고 있다. 당초 배달 현장 추세를 반영하지 못한 제도란 의견이 잇따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김정주 넥슨 창업자 별세에 인터넷업계 애도..."도전과 성과 기억"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220302163225</link>
-            <guid>https://zdnet.co.kr/view/?no=20220302163225</guid>
-            <pubDate>Wed, 02 Mar 2022 08:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[“그의 끊임없는 도전과 성과는 대한민국 인터넷 역사에 모범으로 길이 기억될 것이다.” 한국인터넷기업협회(인기협)는 넥슨의 김정주 창업자 별세에 인터넷 업계를 대표해 삼가 고인의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
