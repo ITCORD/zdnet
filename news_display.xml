@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 00:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 고성능·저전력 D램 7.5Gbps 동작 검증]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220303103549</link>
+            <guid>https://zdnet.co.kr/view/?no=20220303103549</guid>
+            <pubDate>Thu, 03 Mar 2022 02:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 지난해 11월 개발한 14나노 기반 'LPDDR5X' D램 성능을 미국 퀄컴 최신 모바일 플랫폼에서 검증했다. LPDDR5X는 Low Power Double Data...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NXP, 컴팔 5G 통신 솔루션 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220302172844</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220222094939</guid>
             <pubDate>Tue, 22 Feb 2022 01:57:13 GMT</pubDate>
             <content:encoded><![CDATA[러시아가 우크라이나를 침공하면 미국이 주도하는 반도체 수출 규제에 일본 정부가 참여할 수 있다고 일본 요미우리신문이 22일(현지시간) 보도했다. 러시아가 긴장을 풀지 않으면 미...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["TSMC 3나노 공정, 수율 문제로 생산 차질"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220222071447</link>
-            <guid>https://zdnet.co.kr/view/?no=20220222071447</guid>
-            <pubDate>Mon, 21 Feb 2022 23:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리 회사 TSMC의 3나노 공정이 차질을 빚고 있으며 주요 고객사들이 올해 3나노 대신 5나노 공정을 선택할 것이라는 보도가 나왔다. TSMC는 지난해 3나노 공정 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
