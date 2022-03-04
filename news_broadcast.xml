@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 04:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] "OTT 모아보고 노래방도 되네"...OTT 셋톱 플레이제트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220304095907</link>
+            <guid>https://zdnet.co.kr/view/?no=20220304095907</guid>
+            <pubDate>Fri, 04 Mar 2022 04:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[“작고 가볍지만 다재다능하다.” SK브로드밴드의 플레이제트를 한 마디로 표현하면 이렇다. 온라인 동영상 서비스(OTT) 플랫폼이 넘쳐나는 현재, 수많은 콘텐츠 중 나한테 어떤 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 전국KT대리점협회와 '우수 대리점' 육성한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220304093007</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220303101758</guid>
             <pubDate>Thu, 03 Mar 2022 02:10:46 GMT</pubDate>
             <content:encoded><![CDATA[백팩을 메고 운동화를 신고 MWC 현장을 바쁘게 다닌 황현식 LG유플러스 대표가 XR 콘텐츠 수출 성과 세 건을 일궜다. 5G 통신 서비스를 본격 앞둔 중동 지역에 특화 서비스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 터키 1위 통신사와 DX 사업개발 제휴 파트너십 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220303095758</link>
-            <guid>https://zdnet.co.kr/view/?no=20220303095758</guid>
-            <pubDate>Thu, 03 Mar 2022 02:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 터키 1위 통신사업자 투르크텔레콤과 손을 잡고 5G, AI, 클라우드, 빅데이터를 기반으로 사업 개발 협력을 확대한다. KT는 터키에 다양한 디지털전환 서비스를 제공하기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
