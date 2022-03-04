@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 07:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 08:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍남기 부총리, 더존비즈온 방문...중기 디지털전환 지원 요청]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220304165856</link>
+            <guid>https://zdnet.co.kr/view/?no=20220304165856</guid>
+            <pubDate>Fri, 04 Mar 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[더존비즈온(대표 김용우)은 홍남기 부총리 겸 기획재정부 장관이 강원권 주요 신기술 산업현장 시찰의 일환으로 강원도 춘천시 소재 더존ICT그룹 강촌캠퍼스를 방문했다고 4일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[11번가 라이브커머스 플랫폼, AWS로 어떻게 바뀌었나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220304150723</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220303170323</guid>
             <pubDate>Thu, 03 Mar 2022 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA[에퀴닉스가 아마존웹서비스(AWS)와 국내 통신사 등 하이퍼스케일 기업을 위한 대규모 데이터센터를 구축한다. 장혜덕 에퀴닉스 코리아 대표는 3일 온라인으로 진행된 기자간담회에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스누아이랩, 독자 연구 논문 글로벌 학회 CVPR 2022 채택]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220303153200</link>
-            <guid>https://zdnet.co.kr/view/?no=20220303153200</guid>
-            <pubDate>Thu, 03 Mar 2022 07:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[스누아이랩(대표 유명호)는 독자 개발한 준지도 학습법 논문이 2022년 컴퓨터 비전 및 패턴인식 학회(CVPR) 채택됐다고 3일 밝혔다. CVPR는 국제 전기전자공학회(IEEE...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
