@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 02:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 하루 사망자 216명…재택치료 100만명 넘어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220305120000</link>
+            <guid>https://zdnet.co.kr/view/?no=20220305120000</guid>
+            <pubDate>Sat, 05 Mar 2022 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 하루 사망자가 20‧30대를 포함해 역대 최다인 216명으로 집계됐다. 중앙방역대책본부에 따르면 3월5일 0시 기준 코로나9 신규 확진자는 국내발생 25만4천250명...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 신규확진, 사망자 역대 최다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220304105359</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220228173243</guid>
             <pubDate>Mon, 28 Feb 2022 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[디오(039840)가 지난해 회사 설립 후 최초로 연간 매출액 1천500억원을 넘어섰다. 28일 디오 실적공시에 따르면 연결기준 매출액은 1500억원으로 전년 동기대비 24.9...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하이, KMI한국의학연구소 건강검진자 대상 '마음검진' 서비스 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228172935</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228172935</guid>
-            <pubDate>Mon, 28 Feb 2022 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[디지털치료제 전문기업 하이(HAII)는 3월부터 국내 최대 검진기관인 KMI한국의학연구소 전국 7개(광화문‧여의도‧강남‧수원‧대구‧부산‧광주) 건강검진센터의 전체 검진자를 대상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
