@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 04:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발로란트, e스포츠 리그 효과로 PC방 9위...모바일 출시작도 선전]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220305140245</link>
+            <guid>https://zdnet.co.kr/view/?no=20220305140245</guid>
+            <pubDate>Sat, 05 Mar 2022 05:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[PC방 통계서비스 더로그가 2월 28일부터 3월 4일까지 PC방 이용량 통계를 공개했다. 라이엇게임즈의 MOBA 게임 리그오브레전드는 PC방 점유율 46.88%로 확고한 1위를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/05/11352e61dc8b95f747aaccd16b0b1f8e-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 하루 사망자 216명…재택치료 100만명 넘어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220305120000</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220305105537</guid>
             <pubDate>Sat, 05 Mar 2022 02:03:57 GMT</pubDate>
             <content:encoded><![CDATA[과도한 트래픽을 일으켜 타깃 시스템을 마비시키는 분산서비스거부(DDoS) 공격이 진화하고 있다. 이번에는 특정 콘텐츠를 필터링하는 데 널리 쓰이는 미들박스를 악용해 TCP 패킷...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/05/68bc1b246b9639c1c1b4bc0f276dd53a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[라인스튜디오, 쿠킹 게임 라인셰프X스누피 콜라보]]></title>
@@ -139,7 +147,7 @@
             <title><![CDATA[[부음] 김남철 과학기술정보통신부 비서실장 모친상]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Sat, 05 Mar 2022 04:12:45 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 05:09:29 GMT</pubDate>
             <content:encoded><![CDATA[▲ 김남철 과학기술정보통신부 비서실장 모친상 = 4일, 전북 부안 호남장례식장, 발인 6일...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304165832</guid>
             <pubDate>Fri, 04 Mar 2022 09:11:15 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자·LG에 이어 SK까지 거물급 인사를 대외 협력 담당자로 영입했다. 재계는 미주내 고위급 핫라인을 확보하고 미국 의회를 중심으로 관계망 형성에 총력전을 예고하고 있다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 ICT코리아 추진본부, 메타버스 업계와 간담회]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304171833</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304171833</guid>
-            <pubDate>Fri, 04 Mar 2022 09:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 선거대책위원회가 메타버스 산업 활성화 방안을 찾기 위해 산학연 전문가들의 목소리를 청취했다. 윤석열 국민의힘 선대위 ICT코리아 추진본부는 4일 서울 상암동 누리꿈스퀘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
