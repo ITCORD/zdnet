@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 04:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건국대 김양미 교수팀, 패혈증 치료 원리 규명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220306133051</link>
+            <guid>https://zdnet.co.kr/view/?no=20220306133051</guid>
+            <pubDate>Sun, 06 Mar 2022 05:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[건국대학교는 KU융합과학기술원 김양미 교수(시스템생명공학과) 연구팀이 곤충 항균 펩타이드의 패혈증 치료 원리를 규명해 치료제를 개발할 수 있는 가능성을 높였다고 6일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/06/135bbb16b5ff753614a6bb9b361f32f0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크, 러시아 뉴스 차단 요청 거절]]></title>
             <link>https://zdnet.co.kr/view/?no=20220306123620</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220306114709</guid>
             <pubDate>Sun, 06 Mar 2022 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 동해안 지역 산불에 긴급 대응, 피해 지역의 통신 서비스 안정화에 나섰다. SK텔레콤은 피해가 발생한 울진·삼척·강릉 지역에 200명 이상의 인력을 투입해 산불의 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/06/fb83b3f59101ac9e86393e1af30dc38c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[레이싱 게임 그란 투리스모7, 업데이트 계획 공개...온라인 품질 강화]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220306092719</guid>
             <pubDate>Sun, 06 Mar 2022 00:40:43 GMT</pubDate>
             <content:encoded><![CDATA[연일 25만명 이상의 코로나19 확진자가 쏟아지면서 누적 감염자가 이달 중하순 1000만명을 넘을 것으로 관측된다. 이는 전국민 감염률 20%에 육박한 규모로, 앞서 이 수준에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 한의원에 첨단 ICT 입힌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220306092217</link>
-            <guid>https://zdnet.co.kr/view/?no=20220306092217</guid>
-            <pubDate>Sun, 06 Mar 2022 00:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[KT(대표 구현모)가 정보통신기술(ICT)을 활용해 한의원의 치료 환경을 개선한다. KT는 지난 6일 대한한의사협회와 서울시 강서구에 위치한 대한한의사협회 5층 대강당에서 '디...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
