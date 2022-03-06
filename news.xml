@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 03:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 04:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 러시아 뉴스 차단 요청 거절]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220306123620</link>
+            <guid>https://zdnet.co.kr/view/?no=20220306123620</guid>
+            <pubDate>Sun, 06 Mar 2022 04:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[민간우주기업 스페이스X를 운영하는 일론 머스크 테슬라 최고경영자(CEO)가 러시아 뉴스 차단을 요구한 이용자 의견을 거절했다. 표현의 자유에 위배된단 이유에서다. 월스트리트저널...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/04/25/760bff040e90ce4eed986ea6a0525e6e-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["사람 신경처럼" 감각 신호 처리하는 인공 뉴런 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220304112212</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220306113708</guid>
             <pubDate>Sun, 06 Mar 2022 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[폴리포니디지털은 지난 4일 플레이스테이션4와 5로 출시된 레이싱 게임 그란 투리스모7의 업데이트 계획을 공개했다. 폴리포니디지털은 그란 투리스모7에 월드서킷 레이스이벤트, 미션...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/06/321c871cee47fe39b5464805c544367a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산업 디지털 전환 국가 전략 세운다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220306092217</guid>
             <pubDate>Sun, 06 Mar 2022 00:40:43 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)가 정보통신기술(ICT)을 활용해 한의원의 치료 환경을 개선한다. KT는 지난 6일 대한한의사협회와 서울시 강서구에 위치한 대한한의사협회 5층 대강당에서 '디...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 16일 주주총회 앞두고 전자투표 시스템 오픈]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220306092056</link>
-            <guid>https://zdnet.co.kr/view/?no=20220306092056</guid>
-            <pubDate>Sun, 06 Mar 2022 00:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 16일 경기도 수원컨벤션센터에서 열리는 제53기 정기 주주총회를 앞두고 주주들이 온라인으로 의결권을 행사할 수 있는 전자투표 시스템을 6일 오픈했다. 주주들은 6일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 03:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 04:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 러시아 뉴스 차단 요청 거절]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220306123620</link>
+            <guid>https://zdnet.co.kr/view/?no=20220306123620</guid>
+            <pubDate>Sun, 06 Mar 2022 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[민간우주기업 스페이스X를 운영하는 일론 머스크 테슬라 최고경영자(CEO)가 러시아 뉴스 차단을 요구한 이용자 의견을 거절했다. 표현의 자유에 위배된단 이유에서다. 월스트리트저널...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[페이스북, 러시아 업체 광고 운영 차단]]></title>
             <link>https://zdnet.co.kr/view/?no=20220306110315</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304163143</guid>
             <pubDate>Fri, 04 Mar 2022 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[국제인터넷주소관리기구(ICANN)가 러시아를 국제 인터넷망에서 퇴출시켜달라는 우크라이나의 요청을 받아들이지 않았다. CNN에 따르면 고란 마비 ICANN 회장은 3일(현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 우크라이나 아동 위해 암호화폐 42억원 기부]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304160007</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304160007</guid>
-            <pubDate>Fri, 04 Mar 2022 08:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 분쟁으로 어려움을 겪는 우크라이나를 지원하고자, 42억원 규모의 기부를 진행하고, 동시에 사회공헌 플랫폼 '카카오같이가치'를 통해 이용자가 쉽게 기부에 참여할 수 있도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
