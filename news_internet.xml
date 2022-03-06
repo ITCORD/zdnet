@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바구니 투표' 논란…"투표용지 감염 우려 적은데 이런 절차 왜 하나"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220306150515</link>
+            <guid>https://zdnet.co.kr/view/?no=20220306150515</guid>
+            <pubDate>Sun, 06 Mar 2022 06:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[신종 코로나바이러스 감염증(코로나19) 확진자도 투표가 가능하도록 한 20대 대통령 선거 사전투표 이튿날(5일) 확진자의 투표지를 투표함이 아닌 바구니·상자·쇼핑백 등에 담아 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크, 러시아 뉴스 차단 요청 거절]]></title>
             <link>https://zdnet.co.kr/view/?no=20220306123620</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304170036</guid>
             <pubDate>Fri, 04 Mar 2022 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[빌 게이츠와 이혼한 멜린다 프렌치 게이츠가 1년 만에 방송에 출연해 고통스러웠던 결혼 생활에 대해 털어놨다. 멜린다 게이츠는 3일(현지시간) CBS 뉴스의 게일 킹과 인터뷰를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ICANN "인터넷서 러시아 퇴출 안된다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304163143</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304163143</guid>
-            <pubDate>Fri, 04 Mar 2022 08:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[국제인터넷주소관리기구(ICANN)가 러시아를 국제 인터넷망에서 퇴출시켜달라는 우크라이나의 요청을 받아들이지 않았다. CNN에 따르면 고란 마비 ICANN 회장은 3일(현지시간)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
