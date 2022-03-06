@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 00:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 02:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털리얼티 "2025년까지 데이터센터 3곳 구축"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220304191627</link>
+            <guid>https://zdnet.co.kr/view/?no=20220304191627</guid>
+            <pubDate>Sun, 06 Mar 2022 02:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[26개 국가에 290개 이상 데이터센터를 제공 중인 디지털리얼티가 첫 국내 데이터센터를 오픈하며 국내 진출했다. 김재원 디지털리얼티 코리아 지사장은 “2025년까지 3개 디지털...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아 털어간 해커, 이번엔 "삼성 기밀 소스코드 190GB 유출"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220305185946</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220303002946</guid>
             <pubDate>Fri, 04 Mar 2022 00:46:26 GMT</pubDate>
             <content:encoded><![CDATA["요즘 같이 IT인재를 구하기 어려운 시대일 수록 기업 인프라 운영에 있어 사람에 대한 의존도를 줄여야 한다. 클라우드 담당하는 핵심 직원이 나간다고 인프라 운영에 문제가 생기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블루커스, 캐릭터 활용 NFT 판매한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304000719</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304000719</guid>
-            <pubDate>Thu, 03 Mar 2022 23:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[대체불가토큰(NFT) 거래 플랫폼 블루커스는 매스씨앤지와 캐릭터 콘텐츠 개발을 위한 업무협약(MOU)을 체결했다고 4일 밝혔다. 매스씨앤지는 디자인과 콘텐츠를 기반으로 고객에게...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 00:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 02:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 24만3628명…18세 이하 5만6366명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220306110310</link>
+            <guid>https://zdnet.co.kr/view/?no=20220306110310</guid>
+            <pubDate>Sun, 06 Mar 2022 02:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 신규 확진자가 3일 연속 20만명을 넘고 있는 가운데 위중증환자가 40대 이하에서 증가한 것으로 나타났다. 중앙방역대책본부에 따르면 3월 6일 0시 기준 코로나19 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 하루 사망자 216명…재택치료 100만명 넘어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220305120000</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220301103137</guid>
             <pubDate>Tue, 01 Mar 2022 02:17:14 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 신규 확진자 4명 중 1명 이상이 18세 이하로 나타났다. 또 이틀 연속 100명을 넘고 있는 사망자의 경우 30·40대에서도 지속적으로 발생하고 있다. 중앙방역대책...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디오, 연간 매출액 1500억원 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220228173243</link>
-            <guid>https://zdnet.co.kr/view/?no=20220228173243</guid>
-            <pubDate>Mon, 28 Feb 2022 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[디오(039840)가 지난해 회사 설립 후 최초로 연간 매출액 1천500억원을 넘어섰다. 28일 디오 실적공시에 따르면 연결기준 매출액은 1500억원으로 전년 동기대비 24.9...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
