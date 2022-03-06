@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 07:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 08:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 경제 제재, 가상자산 앞에서 삐걱대나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220306163055</link>
+            <guid>https://zdnet.co.kr/view/?no=20220306163055</guid>
+            <pubDate>Sun, 06 Mar 2022 08:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나를 침공한 러시아에 대한 세계 각국의 경제 제재가 이어지는 가운데, 암호화폐가 이런 제재 사각지대로 기능할 가능성이 제기되고 있다. 이에 미국, 유럽연합(EU) 등 경...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털리얼티 "2025년까지 데이터센터 3곳 구축"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220304191627</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304103903</guid>
             <pubDate>Fri, 04 Mar 2022 02:15:34 GMT</pubDate>
             <content:encoded><![CDATA[블루프리즘이 로민과 인공지능(AI) 기술을 활용한 업무 프로세스 자동화 확대를 위한 업무협약(MOU)을 체결했다고 4일 밝혔다. 이번 협약에 따라 블루프리즘과 로민은 양 사가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["핵심 클라우드 인력 나가도 인프라 운영 문제 없어야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220303002946</link>
-            <guid>https://zdnet.co.kr/view/?no=20220303002946</guid>
-            <pubDate>Fri, 04 Mar 2022 00:46:26 GMT</pubDate>
-            <content:encoded><![CDATA["요즘 같이 IT인재를 구하기 어려운 시대일 수록 기업 인프라 운영에 있어 사람에 대한 의존도를 줄여야 한다. 클라우드 담당하는 핵심 직원이 나간다고 인프라 운영에 문제가 생기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
