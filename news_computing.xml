@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[액션파워, AI 음성 받아쓰기 서비스 '다글로' 전면 개편]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307185816</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307185816</guid>
+            <pubDate>Mon, 07 Mar 2022 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[액션파워(대표 조홍식)는 최근 AI 음성 받아쓰기 서비스인 '다글로'를 전면 개편했다고 7일 밝혔다. 다글로는 국내 최초로 자체 기술을 활용한 음성인식 서비스다. 이번 개편에는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[라온피플, 연세의대와 '인공지능 융복합의료 시스템' 공동 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307185349</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307185349</guid>
+            <pubDate>Mon, 07 Mar 2022 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[라온메디(대표 이석중)는 연세의료원 융복합의료기술센터에 인공지능(AI) 융합의료 공동연구를 위한 연구소를 열고 '의료용 AI 솔루션' 개발에 나선다고 7일 밝혔다. 4일 열린 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국정원 "유출된 삼성 데이터, 국가핵심기술은 아니다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307180403</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307180403</guid>
+            <pubDate>Mon, 07 Mar 2022 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[국정원이 7일 삼성전자 데이터 유출 사고에 대해 "해당 기업과 협조해 보도 내용 및 국가핵심기술 유출 여부 등을 확인한 결과, 산업기술보호법상 국가핵심기술에는 해당되지 않는 것...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "갤럭시 소스코드 유출"...KISA에 침해 신고]]></title>
             <link>https://zdnet.co.kr/view/?no=20220307172456</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220305185946</guid>
             <pubDate>Sat, 05 Mar 2022 12:16:09 GMT</pubDate>
             <content:encoded><![CDATA[최근 엔비디아에서 기밀 데이터를 탈취해 악명을 높인 남미 기반 해커집단 랩서스(Lapsus$)가 이번엔 삼성전자의 기밀 소스코드라고 주장하는 190기가바이트(GB) 규모의 데이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더 강력하게 진화한 'DDoS 공격' 포착됐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220305105537</link>
-            <guid>https://zdnet.co.kr/view/?no=20220305105537</guid>
-            <pubDate>Sat, 05 Mar 2022 02:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[과도한 트래픽을 일으켜 타깃 시스템을 마비시키는 분산서비스거부(DDoS) 공격이 진화하고 있다. 이번에는 특정 콘텐츠를 필터링하는 데 널리 쓰이는 미들박스를 악용해 TCP 패킷...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홍남기 부총리, 더존비즈온 방문...중기 디지털전환 지원 요청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304165856</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304165856</guid>
-            <pubDate>Fri, 04 Mar 2022 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[더존비즈온(대표 김용우)은 홍남기 부총리 겸 기획재정부 장관이 강원권 주요 신기술 산업현장 시찰의 일환으로 강원도 춘천시 소재 더존ICT그룹 강촌캠퍼스를 방문했다고 4일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가 라이브커머스 플랫폼, AWS로 어떻게 바뀌었나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304150723</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304150723</guid>
-            <pubDate>Fri, 04 Mar 2022 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[“외부 솔루션으로 만들었던 라이브커머스 플랫폼을 작년 8월 아마존웹서비스(AWS) 기반의 자체 플랫폼으로 변경한 뒤 라이브방송 중 최고 거래액을 기록하는 등 폭발적으로 성장했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
