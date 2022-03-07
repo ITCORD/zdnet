@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 "갤럭시 소스코드 유출"...KISA에 침해 신고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307172456</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307172456</guid>
+            <pubDate>Mon, 07 Mar 2022 09:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 사이버범죄 조직 랩서스(Lapsus$)의 갤럭시 데이터 유출과 관련해 "최근 외부의 정보 탈취 시도를 인지해 즉시 대응 체제를 가동했다"며 침해 사실을 공식 확인했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아톤, 매출 400억 돌파..."금융권 비대면 서비스 확대 수혜"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220307152119</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304150723</guid>
             <pubDate>Fri, 04 Mar 2022 06:15:11 GMT</pubDate>
             <content:encoded><![CDATA[“외부 솔루션으로 만들었던 라이브커머스 플랫폼을 작년 8월 아마존웹서비스(AWS) 기반의 자체 플랫폼으로 변경한 뒤 라이브방송 중 최고 거래액을 기록하는 등 폭발적으로 성장했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저데이터, 고객 여정 통합 관리 CDP 기능 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304141853</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304141853</guid>
-            <pubDate>Fri, 04 Mar 2022 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[트레저데이터는 기업의 디지털 마케터와 고격경험(CX) 관리자를 위한 옴니채널 고객 여정 통합 관리 CDP '트레저데이터 고객 여정 오케스트레이션'을 4일 발표해다. 이 기능은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
