@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폰 카메라로 손바닥 정맥 인증, 신기술 한국 상륙]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307112644</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307112644</guid>
+            <pubDate>Mon, 07 Mar 2022 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[전용 카메라 없이 스마트폰 카메라로 손바닥의 정맥을 인식해 인증할 수 있는 생체인증 솔루션이 한국에 출시된다. 7일 업계에 따르면, 생체인증기술 전문업체 노르미의 '손바닥 정맥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파이오링크 "웹방화벽 고도화로 API 보안 가능"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220307100848</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304112629</guid>
             <pubDate>Fri, 04 Mar 2022 03:16:48 GMT</pubDate>
             <content:encoded><![CDATA[애플이 앱 추적 투명성(ATT) 정책을 도입하면서, 지난해 iOS 게임 앱 설치 수가 6% 감소한 것으로 나타났다. ATT 도입 이후 제한된 데이터로 인해 게임 업체들이 맞춤형...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[필라넷, '복합 인증 솔루션 v1.0' GS인증 1등급 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304110307</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304110307</guid>
-            <pubDate>Fri, 04 Mar 2022 02:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[필라넷(대표 김상규)은 '복합 인증 솔루션 v1.0(이하 art.StrongID v1.0)'이 한국정보통신기술협회 (TTA)로부터 GS 인증 1등급을 획득했다고 4일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
