@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아톤, 매출 400억 돌파..."금융권 비대면 서비스 확대 수혜"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307152119</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307152119</guid>
+            <pubDate>Mon, 07 Mar 2022 07:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[핀테크 보안 업체 아톤(대표 김종서)은 7일 공시를 통해 지난해 연결기준 매출액 433억 원, 영업이익 91억 원을 기록했다고 밝혔다. 이는 전년대비 매출액은 49%, 영업이익...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시큐아이, 작년 영업익 59%↑..."올해도 질적 성장에 집중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220307110011</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304141853</guid>
             <pubDate>Fri, 04 Mar 2022 06:15:11 GMT</pubDate>
             <content:encoded><![CDATA[트레저데이터는 기업의 디지털 마케터와 고격경험(CX) 관리자를 위한 옴니채널 고객 여정 통합 관리 CDP '트레저데이터 고객 여정 오케스트레이션'을 4일 발표해다. 이 기능은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 랜섬웨어 대응력 높인 차세대 플래시 스토리지 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304140815</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304140815</guid>
-            <pubDate>Fri, 04 Mar 2022 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 기업이 랜섬웨어를 비롯한 사이버 공격을 더 빠르게 탐지하고 정상 상태로 복구하도록 지원하는 'IBM 플래시시스템 사이버 볼트'를 출시했다고 4일 밝혔다. IBM 플래시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

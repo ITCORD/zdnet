@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고의로 성능 제한?...삼성 스마트폰 무너진 신뢰도 어쩌나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220307142358</link>
+            <guid>https://zdnet.co.kr/view/?no=20220307142358</guid>
+            <pubDate>Mon, 07 Mar 2022 07:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 신형 갤럭시S22 시리즈가 '게임 최적화 서비스(GOS)'로 인한 고의 성능 제한 논란으로 인해 흥행에 적신호가 켜졌다. 기기 성능을 강제로 떨어뜨리는 갤럭시 스마트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[출시 앞둔 아이폰SE3, 색상·저장용량 공개됐다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220307132653</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220304092255</guid>
             <pubDate>Fri, 04 Mar 2022 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA[폴더블폰이 올해를 기점으로 출하량 1천만대 시대를 열 것으로 관측되면서 시장 개화 단계에 본격 진입할 전망이다. 그러나 폴더블폰 대중화에 앞서, 일반 바(Bar)형 스마트폰 보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 러시아 제재, 왜 中 샤오미가 긴장할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220304092202</link>
-            <guid>https://zdnet.co.kr/view/?no=20220304092202</guid>
-            <pubDate>Fri, 04 Mar 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 침공으로 촉발된 미국의 대(對)러시아 제재에 중국 대륙 IT 기업들 역시 영향을 받을 것이란 전망이 나오면서 샤오미를 비롯한 일부 기업이 촉각을 곤두세우고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
