@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계 코로나19 사망 공식 집계 600만명 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220308155023</link>
+            <guid>https://zdnet.co.kr/view/?no=20220308155023</guid>
+            <pubDate>Tue, 08 Mar 2022 07:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 코로나바이러스감염증-19(코로나19) 사망자가 600만명을 넘어섰다. 미국 존스 홉킨스 대학의 자료에 따르면 전세계 코로나19 사망자 수가 7일 600만명을 넘어섰다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[88만명 추정 확진자·격리자, 투표 외출 시간 오후 5시50분으로 변경]]></title>
             <link>https://zdnet.co.kr/view/?no=20220308150649</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220307085647</guid>
             <pubDate>Mon, 07 Mar 2022 00:46:05 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 일일 확진자가 20만명을 넘어서고 재택치료 환자가 100만명을 돌파하며, 비대면 진료 수요가 급증하고 있다. 라이프시맨틱스는 비대면 진료 플랫폼 '닥터콜(Dr. Ca...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 신규 확진 24만3628명…18세 이하 5만6366명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220306110310</link>
-            <guid>https://zdnet.co.kr/view/?no=20220306110310</guid>
-            <pubDate>Sun, 06 Mar 2022 02:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 신규 확진자가 3일 연속 20만명을 넘고 있는 가운데 위중증환자가 40대 이하에서 증가한 것으로 나타났다. 중앙방역대책본부에 따르면 3월 6일 0시 기준 코로나19 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
