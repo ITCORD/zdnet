@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 00:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 02:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 34만2446명…18세 이하 27%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220309100611</link>
+            <guid>https://zdnet.co.kr/view/?no=20220309100611</guid>
+            <pubDate>Wed, 09 Mar 2022 02:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규 확진자 수가 34만2446명으로 집계됐다. 중앙방역대책본부에 따르면, 9일 0시 기준 국내 지역사회 확진자 34만2천388명, 해외유입 사례는 58명 등으...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국아스트라제네카, 중간관리자 이상 리더 중 여성 비율 절반 이상]]></title>
             <link>https://zdnet.co.kr/view/?no=20220308175029</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220307100841</guid>
             <pubDate>Mon, 07 Mar 2022 02:15:08 GMT</pubDate>
             <content:encoded><![CDATA[국내 코로나19 신규 확진자 수가 21만716명으로 집계된 가운데, 사망자도 139명 발생했다. 중앙방역대책본부에 따르면, 7일 0시 기준 국내 지역사회 확진자는 21만628명...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비트컴퓨터, KIMES 2022 참가…"의료정보시스템 정수 선뵐 것”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220307093143</link>
-            <guid>https://zdnet.co.kr/view/?no=20220307093143</guid>
-            <pubDate>Mon, 07 Mar 2022 00:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[비트컴퓨터가 10일~13일까지 4일간 코엑스에서 열리는 '국제 의료기기 &amp; 병원설비 전시회(KIMES)'에 참석해 비대면 의료서비스와 클라우드 기반의 EMR 등 회사의 의료정보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
