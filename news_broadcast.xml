@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 10:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 11:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC 출구조사...이재명 48.4%, 윤석열 47.7%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220309195044</link>
+            <guid>https://zdnet.co.kr/view/?no=20220309195044</guid>
+            <pubDate>Wed, 09 Mar 2022 11:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[종합편성채널 JTBC가 단독으로 20대 대통령 선거 출구조사를 진행한 결과 더불어민주당 이재명 후보가 48.4%, 국민의힘 윤석열 후보가 47.7%의 표를 획득한 것으로 예측됐...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지상파 출구조사...윤석열 48.4%, 이재명 47.8% '초접전']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220309190029</link>
+            <guid>https://zdnet.co.kr/view/?no=20220309190029</guid>
+            <pubDate>Wed, 09 Mar 2022 11:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[KBS MBC SBS 등 지상파방송 3사가 20대 대통령 선거 출구조사를 진행한 결과 더불어민주당 이재명 후보가 47.8%, 국민의힘 윤석열 후보가 48.4%의 표를 획득한 것...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알뜰폰 업계, 도매대가 고시+의무사업자 일몰연장 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20220308170317</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220308090050</guid>
             <pubDate>Tue, 08 Mar 2022 00:39:58 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)가 컴퓨터에 연결해 직접 실습할 수 있는 AI, IoT, 로봇 융합교구인 KT AI 코딩블록 IoT 키트를 출시했다고 8일 밝혔다. KT AI 코딩블록은 학생...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 해외 인터넷 차단..."러시아 시민들 전쟁 모를 수 있다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220308085413</link>
-            <guid>https://zdnet.co.kr/view/?no=20220308085413</guid>
-            <pubDate>Tue, 08 Mar 2022 00:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 안에서 해외로 연결되는 인터넷이 대부분 차단된 것으로 나타났다. 한국으로 따지면 해외 인터넷 트래픽이 전송되는 해저케이블에 해당하는 국제회선이 상당 부분 연결이 끊겼기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 윤석열 후보, ICT업계 건의 22개 공약 채택]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220307180814</link>
-            <guid>https://zdnet.co.kr/view/?no=20220307180814</guid>
-            <pubDate>Mon, 07 Mar 2022 09:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 윤석열 후보 선거대책본부가 ICT업계에 디지털공약을 설명하고, 추가적인 의견을 수렴하는 자리를 마련했다. 특히 업계가 건의한 정책 중 디지털 R&amp;D 확대, 디지털 핵심...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
