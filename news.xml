@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 13:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 14:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 갤S22 SW 업데이트 시작...GOS 선택권 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220310225035</link>
+            <guid>https://zdnet.co.kr/view/?no=20220310225035</guid>
+            <pubDate>Thu, 10 Mar 2022 14:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 갤럭시S22 성능 제한 논란을 일으킨 '게임 옵티마이징 서비스(GOS)' 기능 업데이트를 10일 오후부터 단행했다. 지난 4일 삼성 멤버스 공지사항을 통해 GOS 업...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/10/fd26b0c827ac23038c315db273cd172a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사우디 국부펀드, 넥슨 이어 엔씨 주식 추가 매수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220310181046</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220310174455</guid>
             <pubDate>Thu, 10 Mar 2022 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[스누아이랩(대표 유명호)과 패리티(대표 김사순)가 전략적 사업협력을 위한 MOU를 체결했다. 이번 MOU는 양사가 각자 경쟁력있는 분야에서 상호협력하여 AI관련 사업 및 수소모...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/10/2d351fee61c99240d446374e93433810-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크래프톤, 인도 오디오 플랫폼 쿠쿠FM에 전략적 투자]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310155847</guid>
             <pubDate>Thu, 10 Mar 2022 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[싱가포르에서 판매되는 애완동물 사료를 조사했더니 상어 DNA가 발견됐다. 이 DNA 속에는 멸종 위기종의 것도 포함돼 있던 것으로 확인됐다. 라이브사이언스, 기가진 등 외신에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PC 전원공급장치 새 규격 'ATX 3.0' 온다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310152819</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310152819</guid>
-            <pubDate>Thu, 10 Mar 2022 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 PC 전원공급장치용 새 규격인 ATX 3.0을 최종 확정했다. 이를 적용한 제품들이 이르면 올 하반기부터 본격적으로 시장에 공급된다. 새 규격에서는 정격출력이 450W ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
