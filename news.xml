@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 10:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사우디 국부펀드, 넥슨 이어 엔씨 주식 추가 매수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220310181046</link>
+            <guid>https://zdnet.co.kr/view/?no=20220310181046</guid>
+            <pubDate>Thu, 10 Mar 2022 10:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[사우디아라비아 국부펀드(PIF)가 넥슨에 이어 엔씨소프트의 주식을 추가로 매수해 2대 주주에 올라서게 됐다. 10일 금융감독원 전자공시시스템에 따르면 PIF가 엔씨소프트의 주식...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/02/05/4d0d99e44f98fd14ca06751e0d39a090-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔씨소프트 블소2, 희생의무덤: 네 개의 기둥 업데이트 사전예약]]></title>
             <link>https://zdnet.co.kr/view/?no=20220310173319</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220310173055</guid>
             <pubDate>Thu, 10 Mar 2022 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤(대표 김창한)은 인도 최대 오디오 콘텐츠 플랫폼 '쿠쿠FM(KukuFM)'의 시리즈 B 라운드 투자에 참여했다고 10일 밝혔다. 크래프톤은 지난해부터 인도를 비롯한 신...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/10/ec95da6af3071c66319114a0488be4e5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코스포 "새 정부, 사후 규제 방식으로 창업 생태계 혁신해야"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310152819</guid>
             <pubDate>Thu, 10 Mar 2022 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 PC 전원공급장치용 새 규격인 ATX 3.0을 최종 확정했다. 이를 적용한 제품들이 이르면 올 하반기부터 본격적으로 시장에 공급된다. 새 규격에서는 정격출력이 450W ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HK이노엔, 주당 320원 현금배당]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310161538</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310161538</guid>
-            <pubDate>Thu, 10 Mar 2022 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[HK이노엔이 최근 자사주 매입에 이어 상장 후 첫 현금배당을 진행하며 주주가치 제고에 박차를 가한다. HK이노엔(HK inno.N)은 10일 이사회를 열고 주당 320원의 결산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
