@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 02:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신호등 정보 실시간으로 확인하세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220311112258</link>
+            <guid>https://zdnet.co.kr/view/?no=20220311112258</guid>
+            <pubDate>Fri, 11 Mar 2022 03:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[티맵모빌리티가 다음 주부터 티맵 플랫폼을 통해 서울시 신호등 정보를 실시간으로 제공한다고 11일 밝혔다. 운전자들은 서비스를 통해 신호등에 점등된 색상과 잔여 시간을 실시간으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[콘텐츠 '넷플릭스' vs 저렴한 '디즈니+'…승자는]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311083618</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220309195044</guid>
             <pubDate>Wed, 09 Mar 2022 11:10:28 GMT</pubDate>
             <content:encoded><![CDATA[종합편성채널 JTBC가 단독으로 20대 대통령 선거 출구조사를 진행한 결과 더불어민주당 이재명 후보가 48.4%, 국민의힘 윤석열 후보가 47.7%의 표를 획득한 것으로 예측됐...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지상파 출구조사...윤석열 48.4%, 이재명 47.8% '초접전']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220309190029</link>
-            <guid>https://zdnet.co.kr/view/?no=20220309190029</guid>
-            <pubDate>Wed, 09 Mar 2022 11:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[KBS MBC SBS 등 지상파방송 3사가 20대 대통령 선거 출구조사를 진행한 결과 더불어민주당 이재명 후보가 47.8%, 국민의힘 윤석열 후보가 48.4%의 표를 획득한 것...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
