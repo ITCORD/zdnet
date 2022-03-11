@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에버스핀, 중국발 '로그 4j' 해킹 공격 탐지 차단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220311131505</link>
+            <guid>https://zdnet.co.kr/view/?no=20220311131505</guid>
+            <pubDate>Fri, 11 Mar 2022 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[엔드포인트 보안솔루션 기업 에버스핀(대표 하영빈)은 '에버세이프웹'으로 중국발 로그 4j 해킹 공격을 탐지하고 차단했다고 11일 밝혔다. 이번에 탐지·차단한 중국발 공격은 중국...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온, 21년 법인세 신고 온라인 세미나 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311093637</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310100702</guid>
             <pubDate>Thu, 10 Mar 2022 02:19:02 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인은 후보 시절 국내에서 금지된 코인발행(ICO)을 단계적으로 허용하고, 대체불가토큰(NFT) 거래의 제도적 기반을 마련하는 등 가상자산 시장을 활성화하겠다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인협회 "윤 당선인 가상자산 공약 이행 기대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310102139</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310102139</guid>
-            <pubDate>Thu, 10 Mar 2022 02:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[한국블록체인협회(대표 오갑수)는 윤석열 국민의힘 후보의 20대 대통령 당선을 축하한다고 10일 밝혔다. 협회는 "윤석열 대통령 당선인이 대한민국과 한국 블록체인 생태계의 희망찬...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
