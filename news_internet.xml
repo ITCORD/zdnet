@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 06:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOSA, 상반기 회원사·구직자 맞춤형 연결지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220311155807</link>
+            <guid>https://zdnet.co.kr/view/?no=20220311155807</guid>
+            <pubDate>Fri, 11 Mar 2022 07:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국소프트웨어산업협회(이하 KOSA, 대표 조준희)가 소프트웨어 회원사와 구직자의 '미스매치' 해소에 나섰다고 11일 밝혔다. KOSA는 회원사와 채용확정 확약을 체결하고, 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 때 플랫폼 업계 봄은 오는가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311113256</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310102646</guid>
             <pubDate>Thu, 10 Mar 2022 02:19:51 GMT</pubDate>
             <content:encoded><![CDATA[틱톡(TikTok)은 크리에이터를 위한 위한 음악 배포 및 마케팅 플랫폼 사운드온(SoundOn)을 선보였다고 9일(현지시간) 씨넷 등 외신이 보도했다. 보도에 따르면 사운드온...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 사진 설명 도구 '알트텍스트 뱃지' 시범 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310095341</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310095341</guid>
-            <pubDate>Thu, 10 Mar 2022 02:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 시각장애인의 서비스 접근성을 높이기 위한 '알트(alt)텍스트 뱃지' 기능을 시범 도입했다. 트위터는 9일(현지시간) 이미지를 문구로 설명해주는 알트 텍스트 뱃지 기능...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
