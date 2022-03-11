@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 03:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 04:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 갤S22 이어 '갤탭S8'도 GOS 업데이트 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220311120718</link>
+            <guid>https://zdnet.co.kr/view/?no=20220311120718</guid>
+            <pubDate>Fri, 11 Mar 2022 04:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 갤럭시S22 시리즈에 이어 갤럭시탭S8도 '게임 옵티마이징 서비스(GOS)' 기능을 선택할 수 있도록 소프트웨어 업데이트를 단행한다. 삼성전자는 지난 10일 오후 갤...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위니아딤채, 울진 산불 피해 지역에 1억원 상당 구호 물품 전달]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311102232</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310074209</guid>
             <pubDate>Thu, 10 Mar 2022 00:44:26 GMT</pubDate>
             <content:encoded><![CDATA[애플이 자체 개발한 네 번째 프로세서 'M1 울트라'를 갖춘 맥 스튜디오의 성능이 28코어 인텔 맥 프로보다 뛰어나다는 테스트 결과가 나왔다. IT매체 맥루머스는 8일(현지시간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 협력사에 자가진단키트 3만개 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220309083533</link>
-            <guid>https://zdnet.co.kr/view/?no=20220309083533</guid>
-            <pubDate>Wed, 09 Mar 2022 00:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 협력사 245곳에 코로나19 자가진단키트 3만여 개를 전달했다고 9일 밝혔다. 이번 지원은 코로나19 확진자가 급속히 증가하는 가운데 협력사가 생산에 차질을 빚지 않...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
