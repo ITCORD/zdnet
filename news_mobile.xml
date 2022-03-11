@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 06:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 우크라이나 안드로이드폰에 공습 경보 알림 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220311140952</link>
+            <guid>https://zdnet.co.kr/view/?no=20220311140952</guid>
+            <pubDate>Fri, 11 Mar 2022 06:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 우크라이나의 안드로이드폰 이용자를 대상으로 공습 경보 알림 시스템을 도입한다고 더버지 등 외신들이 10일(현지시간) 보도했다. 보도에 따르면 구글은 우크라이나 안드로이드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 지난해 TV 평균가격 32% 인상...원자재 가격 인상 탓]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311134958</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310091844</guid>
             <pubDate>Thu, 10 Mar 2022 00:44:26 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 지난 1월 CES 2022에서 공개한 지포스 RTX 3090 Ti 그래픽칩셋 출시 일자를 오는 29일로 확정했다. 엔비디아는 CES 2022 기조연설에서 지포스 RT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 유럽 폰 시장 상위 5위 중 삼성만 점유율 줄어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310084709</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310084709</guid>
-            <pubDate>Thu, 10 Mar 2022 00:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 유럽 스마트폰 시장에서 삼성전자의 기세가 위축된 반면 중국 기업의 점유율 성장세가 가팔랐던 것으로 나타났다. 9일 중국 언론 IT즈자가 인용보도한 스트래티지애널리틱스의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
