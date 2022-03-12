@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 00:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 02:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 총 사망자 1만명 넘어…대선 이후 첫 주말 역대최다 사망·확진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220312095349</link>
+            <guid>https://zdnet.co.kr/view/?no=20220312095349</guid>
+            <pubDate>Sat, 12 Mar 2022 02:01:03 GMT</pubDate>
+            <content:encoded><![CDATA[대선 이후 코로나19로 인한 사망자와 확진자가 최대로 나왔다. 중앙방역대책본부에 따르면, 12일 0시 기준 국내 지역사회 확진자는 38만3천590명, 해외유입 사례는 75명 등...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[21일부터 국내·외 접종 완료자는 입국 시 7일 격리 면제]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311141047</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310111306</guid>
             <pubDate>Thu, 10 Mar 2022 02:20:50 GMT</pubDate>
             <content:encoded><![CDATA[대한의사협회가 윤석열 대통령 당선인에게 의사의 의견을 반영한 보건의료정책을 펴달라는 바람을 내비쳤다. 의협은 10일 오전 논평을 통해 윤석열 당선인에 대한 협회 차원의 요청사항...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제약협회 "제약바이오강국 도약하려면 과감한 정부 지원 필요해”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310104846</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310104846</guid>
-            <pubDate>Thu, 10 Mar 2022 02:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[한국제약바이오협회가 윤석열 대통령 당선인에게 향후 제약바이오 강국 도약을 위한 정부 지원 등의 요구사항을 공개했다. 제약협회는 10일 오전 논평을 통해 “제약바이오산업계는 품질...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
