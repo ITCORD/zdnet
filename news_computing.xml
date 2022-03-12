@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 07:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 게임사 '유비소프트'도 뚫렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220312142052</link>
+            <guid>https://zdnet.co.kr/view/?no=20220312142052</guid>
+            <pubDate>Sat, 12 Mar 2022 07:11:08 GMT</pubDate>
+            <content:encoded><![CDATA['어쌔신 크리드'로 유명함 프랑스 게임회사 유비소프트가 11일(현지시간) 공지를 통해 "지난주 일부 게임, 서비스, 시스템에 일시적인 지장을 준 사이버보안 사고를 겪었다"고 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑스플리트, NX프로덕션 분야 인재채용 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220312124518</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310160316</guid>
             <pubDate>Thu, 10 Mar 2022 07:11:57 GMT</pubDate>
             <content:encoded><![CDATA[라임라이트 네트웍스는 야후의 CDN 사업부 '에지캐스트'를 인수한다고 10일 밝혔다. 라임라이트네트웍스는 에지캐스트 전체 주식 거래방식으로 최종 계약을 체결했다. 에지캐스트의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알테어, 전력전자시스템 시뮬레이션 기업 '파워심' 인수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310155703</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310155703</guid>
-            <pubDate>Thu, 10 Mar 2022 07:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 기반 시뮬레이션 기업 알테어는 전력 전자 시스템 시뮬레이션 전문 업체 파워심을 인수했다고 10일 밝혔다. 파워심은 전력 변환과 모터 제어를 위한 솔루션을 개발하는 기업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
