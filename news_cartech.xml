@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 15:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기차 충전요금 QR코드로 결제한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220314003918</link>
+            <guid>https://zdnet.co.kr/view/?no=20220314003918</guid>
+            <pubDate>Sun, 13 Mar 2022 16:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[14일부터 신용카드 없이 QR코드로 전기자동차 충전요금을 결제할 수 있게 됐다. 환경부는 티맵·카카오모빌리티 등 민간 플랫폼사업자와 협력해 14일부터 스마트폰 카메라를 이용한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[샤오펑, 유럽서 P5 전기차 세단 판매 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20220311090938</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220306094354</guid>
             <pubDate>Sun, 06 Mar 2022 02:05:00 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹이 울진·삼척 산불 피해 복구를 위한 성금을 전달하고 다양한 긴급 복구 지원 활동에 나선다. 현대차그룹은 경북 울진과 강원 삼척 지역에서 발생한 산불 피해 현장 복...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['스마트한 전기차'…제네시스, GV60 OTA 범위 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220306092907</link>
-            <guid>https://zdnet.co.kr/view/?no=20220306092907</guid>
-            <pubDate>Sun, 06 Mar 2022 02:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[제네시스가 GV60 무선 소프트웨어 업데이트(OTA) 범위를 확대한다. 제네시스는 6일 GV60 첨단 운전자 보조(ADAS) 기능 강화를 위해 OTA 범위를 늘린다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
