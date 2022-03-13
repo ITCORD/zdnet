@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 00:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 02:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진 35만190명…20대 2명 등 사망 251명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220313100503</link>
+            <guid>https://zdnet.co.kr/view/?no=20220313100503</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 신규 확진 30만명대, 일일 사망자가 4일 연속 200명대를 기록하는 등 정점을 향해 가는 모양새다. 중앙방역대책본부에 따르면 3월 13일 0시 기준 코로나19 신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[확진 38만3665명 최다…누적사망자 1만명 넘어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220312095349</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310112857</guid>
             <pubDate>Thu, 10 Mar 2022 03:18:05 GMT</pubDate>
             <content:encoded><![CDATA[대한한의사협회가 윤석열 대통령 당선인에게 한의진료에 대한 국민 선택권을 넓혀달라고 요청했다. 한의협은 이날 오전 논평을 통해 “모든 국민이 경제적 부담 없이 최상의 한의진료서비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[의협, 尹 향해 "의사 의견 반영한 보건의료정책 펴달라”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310111306</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310111306</guid>
-            <pubDate>Thu, 10 Mar 2022 02:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[대한의사협회가 윤석열 대통령 당선인에게 의사의 의견을 반영한 보건의료정책을 펴달라는 바람을 내비쳤다. 의협은 10일 오전 논평을 통해 윤석열 당선인에 대한 협회 차원의 요청사항...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
