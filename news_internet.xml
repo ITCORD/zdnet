@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, 라이브 방송 사회자 기능 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220314080705</link>
+            <guid>https://zdnet.co.kr/view/?no=20220314080705</guid>
+            <pubDate>Sun, 13 Mar 2022 23:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[미국 메타(구 페이스북) 산하의 인스타그램은 라이브 방송에서 사회자를 지명할 수 있는 기능을 제공한다고 IT미디어 등 외신이 12일(현지시간) 보도했다. 보도에 따르면 사회자로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[러시아, 인스타그램 차단 예정...이유 살펴보니]]></title>
             <link>https://zdnet.co.kr/view/?no=20220313110909</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220310162044</guid>
             <pubDate>Thu, 10 Mar 2022 08:15:34 GMT</pubDate>
             <content:encoded><![CDATA["팬들은 '포토카드'를 모으기 위해 앨범을 여러 장 구매한다. 하지만 이 과정에서 엄청난 쓰레기가 발생한다. 10대 20대 친구들이 앞으로 계속 살아가야 하는 지구가 파괴되는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이블런-지디넷 "업무 스킬과 트렌드 스킬 한 번에 끝내세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220310131911</link>
-            <guid>https://zdnet.co.kr/view/?no=20220310131911</guid>
-            <pubDate>Thu, 10 Mar 2022 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[비전공자를 위한 데이터 활용 교육 기업 에이블런이 지디넷과 공동 교육 과정 '일잘러 직장인을 위한 필수스킬 톱4 과정'을 모집하고 있다. 지난해 인기를 끌었던 'NO코드 빅데이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
