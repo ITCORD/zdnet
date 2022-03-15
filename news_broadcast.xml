@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 04:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커넥티드 카, 통신 3사 미래먹거리로 떠올라]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220315103426</link>
+            <guid>https://zdnet.co.kr/view/?no=20220315103426</guid>
+            <pubDate>Tue, 15 Mar 2022 05:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[커넥티드 카가 통신 3사의 미래먹거리로 떠오르고 있다. 커넥티드 카의 시스템을 구축하는 데 통신망을 필수적으로 탑재하고 전기차 보급으로 관련 시장이 매년 성장하면서다. 15일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT-텔레컨스, HUD 서비스에 AI 심는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220315093311</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220314091249</guid>
             <pubDate>Mon, 14 Mar 2022 00:43:38 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스(대표 황현식)가 중·고등학생의 자기 관리와 학습을 돕는 전용 스마트폰 'U+Z플랜폰'을 출시했다고 14일 밝혔다. 초등학생용 스마트폰인 U+키즈폰에 이어 청소년 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[훌루, 라이브TV에 '무제한 DVR 기능' 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220314072809</link>
-            <guid>https://zdnet.co.kr/view/?no=20220314072809</guid>
-            <pubDate>Mon, 14 Mar 2022 00:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[훌루가 라이브스트리밍 플랫폼 '훌루+라이브TV'에서 추가 비용 없는 '무제한 DVR' 서비스를 시작한다고 테크크런치 등 외신이 12일(현지시간) 보도했다. DVR 기능이란 영상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
