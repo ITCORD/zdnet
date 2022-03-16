@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 00:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 02:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔은 왜 독일에 새 반도체 공장 지을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220316022147</link>
+            <guid>https://zdnet.co.kr/view/?no=20220316022147</guid>
+            <pubDate>Wed, 16 Mar 2022 02:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 인텔 유럽 대규모 투자 배경과 파장]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/15/2cba99db048e6c939da1530161385ea9-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이틀 앞 다가온 배터리 신기술 경연장 '인터배터리 2022']]></title>
             <link>https://zdnet.co.kr/view/?no=20220314162540</link>
@@ -166,14 +174,6 @@
             <pubDate>Mon, 31 Jan 2022 09:55:06 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 주요 대선후보 과학기술‧ICT 공약 비교]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/01/24/4a538caeee633cdc73460864c2f6afef-300x300.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 싹 바꾸는 네이버·카카오...'초심 찾기' 주력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220114161218</link>
-            <guid>https://zdnet.co.kr/view/?no=20220114161218</guid>
-            <pubDate>Mon, 31 Jan 2022 09:55:06 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 국내 대표 인터넷 기업, 변해야 산다]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/01/14/fc3d71e5addc5a105c039768b839cf31-300x300.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
