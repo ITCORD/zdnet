@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 23:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 00:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 비야디 생산 도요타 전기차 테스트 사진 유출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220316091451</link>
+            <guid>https://zdnet.co.kr/view/?no=20220316091451</guid>
+            <pubDate>Wed, 16 Mar 2022 00:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[중국 전기차 기업 비야디가 생산한 일본 도요타의 신형 전기차의 도로 테스트 사진이 유출됐다. 15일 중국 언론 여우스치처에 따르면, 이 모델은 도요타의 'bZ SDN'으로, 도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['잘 만들어진 전기차'…볼보 C40 리차지 트윈 얼티밋]]></title>
             <link>https://zdnet.co.kr/view/?no=20220315175034</link>
             <guid>https://zdnet.co.kr/view/?no=20220315175034</guid>
             <pubDate>Tue, 15 Mar 2022 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[C40 리차지는 볼보 95년 역사상 처음으로 전기차로만 설계된 모델이다. 플랫폼은 전기차 전용이 아닌 CMA(Compact Modular Architecture)다. XC40·...]]></content:encoded>
+            <content:encoded><![CDATA[C40 리차지는 볼보 95년 역사상 처음으로 전기차로만 설계된 모델이다. 플랫폼은 전기차 전용이 아닌 CMA(Compact Modular Architecture). XC40·폴...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220308111729</guid>
             <pubDate>Tue, 08 Mar 2022 04:16:03 GMT</pubDate>
             <content:encoded><![CDATA[국토부가 올해 56개 지자체를 지능형교통체계 구축에 1천330억원을 지원한다. 국토교통부는 전국 지자체를 대상으로 올해 ITS 공모사업 선정 방향과 선정대상, 지원 규모·절차 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐, 독일 전기차 공장에 20억유로 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220308101743</link>
-            <guid>https://zdnet.co.kr/view/?no=20220308101743</guid>
-            <pubDate>Tue, 08 Mar 2022 02:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[폭스바겐이 플래그십 전기차 생산을 위해 신규공장을 건립한다. 7일(현지시간) 오토카 등 주요 외신에 따르면 폭스바겐은 2026년 출시 예정인 플래그십 전기자동차 '트리니티'를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
