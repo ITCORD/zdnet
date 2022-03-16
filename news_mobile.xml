@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 12:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 13:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭스콘, 中 선전공장 이틀만에 일부 생산 재개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220316214623</link>
+            <guid>https://zdnet.co.kr/view/?no=20220316214623</guid>
+            <pubDate>Wed, 16 Mar 2022 13:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[중국 선전시의 도시 봉쇄 조치 때문에 중단됐던 폭스콘 공장의 생산이 일부 재개됐다. CNBC에 따르면 폭스콘은 16일 중국 선전 공장을 일부 재가동하기 시작했다고 발표했다. 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 고객 구매상담 전용 '실시간 코디매칭 서비스' 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20220316165644</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220315103227</guid>
             <pubDate>Tue, 15 Mar 2022 02:14:35 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자 스마트폰 갤럭시 S22 시리즈에 이어 태블릿 갤럭시탭S8도 성능측정(벤치마크) 전문사이트인 긱벤치에서 퇴출됐다. 게임 옵티마이징 서비스(GOS) 성능을 조작했다는 이유...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시워치5, 배터리 용량 늘리고...체온측정 기능 탑재 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220315093307</link>
-            <guid>https://zdnet.co.kr/view/?no=20220315093307</guid>
-            <pubDate>Tue, 15 Mar 2022 02:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[올해 출시되는 삼성전자의 스마트워치 '갤럭시워치5'의 배터리 용량이 전작 보다 늘어나고, 체온 측정 센서가 탑재된다는 전망이 나왔다. 15일 IT 매체 샘모바일에 따르면 "갤럭...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
