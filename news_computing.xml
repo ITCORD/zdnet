@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["랜섬웨어, 몸값 협상 없이 복구할 수 있다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220317162833</link>
+            <guid>https://zdnet.co.kr/view/?no=20220317162833</guid>
+            <pubDate>Thu, 17 Mar 2022 08:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[금전 갈취를 목적으로 사용자 시스템을 잠그거나 데이터를 암호화하는 랜섬웨어 공격으로 인한 피해가 커지면서, 국제사회에서는 랜섬웨어 복구 도구를 개발·배포해 공격자를 무력화하려는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["유니콘 나온 '가상자산' 산업, 금융위 지배 체제 끝나야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220317140747</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220316151827</guid>
             <pubDate>Wed, 16 Mar 2022 07:13:23 GMT</pubDate>
             <content:encoded><![CDATA[베스핀글로벌(대표 이한주)이 클라우드 관리 플랫폼(CMP) '옵스나우(OpsNow)' 고객이 2천 곳을 넘어섰다고 16일 밝혔다. 옵스나우는 베스핀글로벌이 자체 개발한 멀티 클...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[킨드릴-클라우데라, 클라우드 전환 지원 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220316151102</link>
-            <guid>https://zdnet.co.kr/view/?no=20220316151102</guid>
-            <pubDate>Wed, 16 Mar 2022 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[킨드릴과 클라우데라는 고객의 미션 크리티컬 하이브리드 클라우드, 멀티클라우드, 에지 컴퓨팅 데이터를 지원하고 추진할 수 있도록 글로벌 파트너십을 체결했다고 16일 밝혔다. 킨드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
