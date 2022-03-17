@@ -4,14 +4,22 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 08:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트, 안드로이드 앱으로도 NFT 거래 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220317165120</link>
+            <guid>https://zdnet.co.kr/view/?no=20220317165120</guid>
+            <pubDate>Thu, 17 Mar 2022 09:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 업비트 안드로이드 앱에 대체불가토큰(NFT) 거래 플랫폼인 '업비트 NFT' 기능을 추가한다고 17일 밝혔다. iOS 앱에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["랜섬웨어, 몸값 협상 없이 복구할 수 있다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220317162833</link>
             <guid>https://zdnet.co.kr/view/?no=20220317162833</guid>
-            <pubDate>Thu, 17 Mar 2022 08:15:08 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 09:11:26 GMT</pubDate>
             <content:encoded><![CDATA[금전 갈취를 목적으로 사용자 시스템을 잠그거나 데이터를 암호화하는 랜섬웨어 공격으로 인한 피해가 커지면서, 국제사회에서는 랜섬웨어 복구 도구를 개발·배포해 공격자를 무력화하려는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220316151325</guid>
             <pubDate>Wed, 16 Mar 2022 07:13:23 GMT</pubDate>
             <content:encoded><![CDATA[IT통합보안·인증 업체 라온시큐어(대표 이순형)는 히타치에 블록체인 기반 디지털 신원 인증 플랫폼(DTX)을 공급하고, 일본 오텔에 시범 적용하는 프로젝트를 진행했다고 16일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, 옵스나우 국내외 고객사 2천곳 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220316151827</link>
-            <guid>https://zdnet.co.kr/view/?no=20220316151827</guid>
-            <pubDate>Wed, 16 Mar 2022 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[베스핀글로벌(대표 이한주)이 클라우드 관리 플랫폼(CMP) '옵스나우(OpsNow)' 고객이 2천 곳을 넘어섰다고 16일 밝혔다. 옵스나우는 베스핀글로벌이 자체 개발한 멀티 클...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
