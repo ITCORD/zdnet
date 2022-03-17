@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 23:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 럭스쉐어, 애플 에어팟 'SiP'도 맡았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318000347</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318000347</guid>
+            <pubDate>Thu, 17 Mar 2022 22:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 두 주요 조립 협력사인 럭스쉐어와 고어텍스가 애플의 칩 패키징 서비스를 시작했다고 17일 중국 언론 신랑커지가 보도했다. 이 보도에 따르면, 럭스쉐어는 애플의 에어팟 무...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['갤럭시A53·A33' 첫 5나노 AP 탑재…성능 얼마나 좋아졌나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318012959</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220316165644</guid>
             <pubDate>Wed, 16 Mar 2022 08:19:27 GMT</pubDate>
             <content:encoded><![CDATA[코웨이가 신속하게 맞춤형 제품 설명과 구매 상담을 제공하는 '실시간 코디매칭 서비스'를 도입했다고 16일 밝혔다. 코웨이 실시간 코디매칭 서비스는 고객이 코웨이 제품 구매에 관...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 폴더블폰 갤럭시Z3 'GOS 업데이트' 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220316164758</link>
-            <guid>https://zdnet.co.kr/view/?no=20220316164758</guid>
-            <pubDate>Wed, 16 Mar 2022 08:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 갤럭시S22 시리즈, 갤럭시탭S8에 이어 폴더블폰 갤럭시Z폴드3·플립3에 '게임옵티마이징 서비스'(GOS) 기능 관련 소프트웨어 업데이트를 16일부터 실시했다. 이날...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
