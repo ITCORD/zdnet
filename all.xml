@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:57:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['통일부 남북관계 주요일지' 위장한 北 연계 사이버공격 발견 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318145656</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318145656</guid>
+            <pubDate>Fri, 18 Mar 2022 10:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 통일부 남북관계 주요일지 2월호 내용처럼 위장한 북한 연계 해킹 공격이 연이어 발견됐다고 18일 밝혔다. 이번 공격은 통일부에서 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/18/37380ee8be82c86f529b3b1530563ffc-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 사내 복지 방안 발표..."3년 근속시 6개월 휴가" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318181239</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220318181632</guid>
             <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[서울창조경제혁신센터(센터장 황윤경)는 미국계 세계적 액셀러레이터인 Y컴비네이터(Y-Combinator)에 도전하고 싶은 스타트업을 이달 28일까지 모집한다고 밝혔다. 업력 7년...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/18/b843f38357f21fd16d2aae12ace50b37-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['S급 카메라' 갤럭시A53 써보니...'다재다능 하네' (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,18 +168,10 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[크래프톤 뉴스테이트모바일, 시즌2 오픈...3월 업데이트 실시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220318153509</link>
-            <guid>https://zdnet.co.kr/view/?no=20220318153509</guid>
-            <pubDate>Fri, 18 Mar 2022 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤(대표 김창한)은 모바일 배틀로얄 '뉴스테이트 모바일'이 시즌 2를 오픈하고, 에란겔 맵 리뉴얼 등 신규 콘텐츠를 공개하는 3월 업데이트를 실시했다고 18일 밝혔다. 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA["미디어 빠르게 변해…'독임부처' 필요하다" (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318162805</link>
             <guid>https://zdnet.co.kr/view/?no=20220318162805</guid>
-            <pubDate>Fri, 18 Mar 2022 09:45:00 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA["언론과 미디어 지형은 빠르게 변하고 있다. 미디어 자체가 조금 더 포괄적으로 접근이 되어야 하며, 이런 상황에 맞춰 다양한 형태의 전략과 거버넌스가 필요하다." 국민의힘 미디...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -283,7 +283,7 @@
             <title><![CDATA[우정사업본부·우체국공익재단, 산불 피해지역 지원 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 09:45:00 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 10:49:01 GMT</pubDate>
             <content:encoded><![CDATA[우정사업본부는 우체국공익재단과 강원 경북지역 주민들의 산불 피해 복구를 위해 4천만원의 성금과 2천만원 상당의 물품을 기부했다. 성금은 희망브리지 전국재해구호협회를 통해 전달된...]]></content:encoded>
         </item>
         <item>
@@ -324,6 +324,14 @@
             <guid>https://zdnet.co.kr/view/?no=20220317091831</guid>
             <pubDate>Thu, 17 Mar 2022 02:16:10 GMT</pubDate>
             <content:encoded><![CDATA[문화체육관광부와 웨이브, 왓챠, 티빙 등이 참여하는 OTT음악저작권대책협의체가 음악저작물 사용료율 산정을 두고 합의점을 찾지 못한 채 법적 공방을 이어가고 있다. 소송에 '시즌...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['통일부 남북관계 주요일지' 위장한 北 연계 사이버공격 발견 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318145656</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318145656</guid>
+            <pubDate>Fri, 18 Mar 2022 10:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 통일부 남북관계 주요일지 2월호 내용처럼 위장한 북한 연계 해킹 공격이 연이어 발견됐다고 18일 밝혔다. 이번 공격은 통일부에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -479,18 +487,10 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[게임스탑, 7월말 NFT마켓플레이스 연다 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220318091518</link>
-            <guid>https://zdnet.co.kr/view/?no=20220318091518</guid>
-            <pubDate>Fri, 18 Mar 2022 01:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[비디오게임 소매유통업체 게임스탑이 NFT마켓플레이스를 7월말 출시한다. 18일 코인데스크에 따르면, 게임스탑은 이뮤터블X와 협력해 구축중인 대체불가능토큰(NFT) 마켓플레이스를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['S급 카메라' 갤럭시A53 써보니...'다재다능 하네' (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318154859</link>
             <guid>https://zdnet.co.kr/view/?no=20220318154859</guid>
-            <pubDate>Fri, 18 Mar 2022 09:45:22 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[18일 오후 1시 서울 삼성디지털프라자 홍대본점은 평소와 다를 게 없는 분위기였다. 2층 한 켠에 갤럭시A53 5G가 조용히 모습을 드러냈다. 지난 2월 플래그십 스마트폰 갤럭...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -498,7 +498,7 @@
             <title><![CDATA[역대급 가성비폰 갤럭시A53·A33, 유럽서 승부 본다 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318154305</link>
             <guid>https://zdnet.co.kr/view/?no=20220318154305</guid>
-            <pubDate>Fri, 18 Mar 2022 09:45:22 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 17일 저녁 '삼성 갤럭시A 이벤트 2022'를 통해 공개한 중저가 스마트폰 갤럭시A53과 갤럭시A33이 유럽 시장을 집중 공략할 것으로 전망된다. 지난해 유럽 시장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -650,7 +650,7 @@
             <title><![CDATA[네이버, 사내 복지 방안 발표..."3년 근속시 6개월 휴가" (지디넷코리아 ─ 뉴스 ─ 인터넷)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318181239</link>
             <guid>https://zdnet.co.kr/view/?no=20220318181239</guid>
-            <pubDate>Fri, 18 Mar 2022 09:46:03 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 3년 근속 시 6개월 휴가 제공 등 사내복지 강화 방안을 발표했다. 최수연 신임 대표가 취임 후 처음 내놓은 사내 복지 제도다. 네이버는 18일 ▲유연하게 일할 수 있...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -658,7 +658,7 @@
             <title><![CDATA[싸이월드제트 "베타랩스서 제기한 가처분 소송 법원서 기각" (지디넷코리아 ─ 뉴스 ─ 인터넷)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318183006</link>
             <guid>https://zdnet.co.kr/view/?no=20220318183006</guid>
-            <pubDate>Fri, 18 Mar 2022 09:46:03 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[싸이월드제트는 베타랩스가 자사를 상대로 제기한 가처분 소송이 기각됐다고 18일 밝혔다. 서울중앙지방법원민사합의50부는 이날 싸이월드제트와 베타랩스 관련 “이 사건 신청 모두를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -1898,7 +1898,7 @@
             <title><![CDATA[서울혁신센터, Y컴비네이터 도전 스타트업 모집 (지디넷코리아 ─ 중기&스타트업)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318181632</link>
             <guid>https://zdnet.co.kr/view/?no=20220318181632</guid>
-            <pubDate>Fri, 18 Mar 2022 09:48:29 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[서울창조경제혁신센터(센터장 황윤경)는 미국계 세계적 액셀러레이터인 Y컴비네이터(Y-Combinator)에 도전하고 싶은 스타트업을 이달 28일까지 모집한다고 밝혔다. 업력 7년...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/03/18/b843f38357f21fd16d2aae12ace50b37-290x182.png" length="0" type="image/png"/>
         </item>
@@ -1922,7 +1922,7 @@
             <title><![CDATA[국내 최대 스타트업 축제 '컴업' 주관기관에 코스포 선정 (지디넷코리아 ─ 중기&스타트업)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 09:48:29 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 10:57:20 GMT</pubDate>
             <content:encoded><![CDATA[중소벤처기업부(중기부)는 올해 열리는 '컴업(COMEUP) 2022'를 기획하고 운영할 민간 주관기관으로 코리아스타트업포럼(코스포)을 선정했다고 밝혔다. 이번 선정으로 국내 최...]]></content:encoded>
         </item>
         <item>
@@ -2521,7 +2521,7 @@
             <title><![CDATA[AI가 지목한 코로나19 후유증 원인은? (지디넷코리아 ─ 과학)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Fri, 18 Mar 2022 09:49:15 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 10:57:53 GMT</pubDate>
             <content:encoded><![CDATA[인공지능이 코로나19 후유증의 원인으로 자가면역반응을 지목했다. 지스트(총장 김기선)는 생명과학부 박지환 교수 연구팀이 머신러닝 기술을 활용, 코로나19 완치자의 상당수에서 나...]]></content:encoded>
         </item>
         <item>

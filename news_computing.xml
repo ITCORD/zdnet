@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:57:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['통일부 남북관계 주요일지' 위장한 北 연계 사이버공격 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318145656</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318145656</guid>
+            <pubDate>Fri, 18 Mar 2022 10:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 통일부 남북관계 주요일지 2월호 내용처럼 위장한 북한 연계 해킹 공격이 연이어 발견됐다고 18일 밝혔다. 이번 공격은 통일부에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코어닥스 "블록체인관리사 획득 인력 1년새 2배 ↑"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318160134</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220318093436</guid>
             <pubDate>Fri, 18 Mar 2022 01:24:19 GMT</pubDate>
             <content:encoded><![CDATA[지난해 민간의 인공지능(AI) 분야 투자액이 세계적으로 935억달러(111조 6000억원)에 달했다. 전년보다 두배 이상 늘었다. 하지만 투자유치를 받은 AI 기업 수는 감소했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[게임스탑, 7월말 NFT마켓플레이스 연다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220318091518</link>
-            <guid>https://zdnet.co.kr/view/?no=20220318091518</guid>
-            <pubDate>Fri, 18 Mar 2022 01:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[비디오게임 소매유통업체 게임스탑이 NFT마켓플레이스를 7월말 출시한다. 18일 코인데스크에 따르면, 게임스탑은 이뮤터블X와 협력해 구축중인 대체불가능토큰(NFT) 마켓플레이스를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

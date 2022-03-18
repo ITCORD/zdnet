@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:57:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['통일부 남북관계 주요일지' 위장한 北 연계 사이버공격 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318145656</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318145656</guid>
+            <pubDate>Fri, 18 Mar 2022 10:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 통일부 남북관계 주요일지 2월호 내용처럼 위장한 북한 연계 해킹 공격이 연이어 발견됐다고 18일 밝혔다. 이번 공격은 통일부에서 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/18/37380ee8be82c86f529b3b1530563ffc-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 사내 복지 방안 발표..."3년 근속시 6개월 휴가"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318181239</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220318181632</guid>
             <pubDate>Fri, 18 Mar 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[서울창조경제혁신센터(센터장 황윤경)는 미국계 세계적 액셀러레이터인 Y컴비네이터(Y-Combinator)에 도전하고 싶은 스타트업을 이달 28일까지 모집한다고 밝혔다. 업력 7년...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/18/b843f38357f21fd16d2aae12ace50b37-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['S급 카메라' 갤럭시A53 써보니...'다재다능 하네']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220318152506</guid>
             <pubDate>Fri, 18 Mar 2022 07:11:32 GMT</pubDate>
             <content:encoded><![CDATA[카카오픽코마의 종합 디지털만화 플랫폼 픽코마가 17일(현지시간) 프랑스에서 정식 서비스를 시작했다. 카카오픽코마는 현지 문화와 콘텐츠 이용 방식 등을 분석해 최적화한 플랫폼 구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 뉴스테이트모바일, 시즌2 오픈...3월 업데이트 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220318153509</link>
-            <guid>https://zdnet.co.kr/view/?no=20220318153509</guid>
-            <pubDate>Fri, 18 Mar 2022 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤(대표 김창한)은 모바일 배틀로얄 '뉴스테이트 모바일'이 시즌 2를 오픈하고, 에란겔 맵 리뉴얼 등 신규 콘텐츠를 공개하는 3월 업데이트를 실시했다고 18일 밝혔다. 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
