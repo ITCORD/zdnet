@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 1억 화소 '갤럭시A73'도 출시...언팩 아닌 웹사이트서 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318101756</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318101756</guid>
+            <pubDate>Fri, 18 Mar 2022 03:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 어제(17일) '삼성 갤럭시A 이벤트 2022'에서 갤럭시A53과 갤럭시A33만 공개한 가운데, 최고 사양인 갤럭시A73은 웹사이트를 통해 조용히 공개했다. 갤럭시A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데하이마트, 디지털 체험 중심 메가스토어 광교롯데아울렛점 개장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318111017</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220317110408</guid>
             <pubDate>Thu, 17 Mar 2022 03:15:06 GMT</pubDate>
             <content:encoded><![CDATA[소니가 링 디자인 무선 이어폰 링크버즈(LinkBuds)를 출시했다. 링크버즈는 가운데가 뚫린 도넛 모양 링 드라이버에서 소리를 낸다. 특이한 모양 덕분에 자연스레 주변 소리를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 안방에 차린 애플 세 번째 매장 '애플 명동']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220317110427</link>
-            <guid>https://zdnet.co.kr/view/?no=20220317110427</guid>
-            <pubDate>Thu, 17 Mar 2022 02:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 17일 서울 중구 '센터포인트 명동' 1층에 국내 세 번째 직영 매장 '애플 명동'을 개장 채비를 서두르고 있다. 센터포인트 명동은 2019년부터 건설이 시작된 지하 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

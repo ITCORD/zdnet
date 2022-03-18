@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 6시간 만에 독성 화학물질 4만개 만들었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318111450</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318111450</guid>
+            <pubDate>Fri, 18 Mar 2022 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[“인간에 도움이 되는 약물을 찾아주던 AI(인공지능)에게 독성 화학물질을 개발해 달라고 하면 어떻게 될까?” AI가 인간에게 치명적인 화학물질을 개발하는 데 단 6시간도 걸리지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국금거래소디지털에셋, 팔라듐 거래 급증]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318110201</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220317101610</guid>
             <pubDate>Thu, 17 Mar 2022 02:16:22 GMT</pubDate>
             <content:encoded><![CDATA[암호화폐 대장주 비트코인 가격이 5천만원을 회복했다. 미국 연방공개시장위원회(FOMC) 정례회의 후 예상 가능한 범위 이내의 기준금리 인상이 발표되면서, 위험자산 시장 전체가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이티센, 2021년 역대 최대 실적…계열사 고른 성장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220317101017</link>
-            <guid>https://zdnet.co.kr/view/?no=20220317101017</guid>
-            <pubDate>Thu, 17 Mar 2022 02:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센(대표 박정재)은 2021년 연결기준 매출액이 3조 2천826억 원으로 44.29% 늘어난 역대 최대 수치를 달성했다고 16일 공시를 통해 밝혔다. 영업이익과 당기순이익...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

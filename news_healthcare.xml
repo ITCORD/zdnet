@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사적모임 8명 확대 2주간 시행…"본격적 완화는 아냐”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220318112726</link>
+            <guid>https://zdnet.co.kr/view/?no=20220318112726</guid>
+            <pubDate>Fri, 18 Mar 2022 03:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[방역당국이 오는 21일부터 다음달 3일까지 2주 동안 현행 접종여부 관계없이 6인까지 가능한 사적모임 인원기준을 8인까지 확대한다. 운영시간은 기존처럼 오후 11시로 유지되며,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 기초연금 어떻게 바뀌나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220318105111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220317104101</guid>
             <pubDate>Thu, 17 Mar 2022 02:18:53 GMT</pubDate>
             <content:encoded><![CDATA[신종 코로나 바이러스(코로나19) 확진자가 하루새 60만명 이상 나오며, 코로나19와 관련된 국가 지원 체계에 대한 관심이 늘고 있다. 17일 질병관리청에 따르면 코로나19로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미사이언스 자회사 JVM, '파마고라 플러스 2022' 참가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220317105542</link>
-            <guid>https://zdnet.co.kr/view/?no=20220317105542</guid>
-            <pubDate>Thu, 17 Mar 2022 02:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[한미사이언스 자회사 제이브이엠이 지난 12일~13일 프랑스에서 열린 국제약국용품박람회 '파마고라 플러스 2022'에 참가해 전자동 정제 분류 및 포장시스템 'ATDPS'와 전자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
