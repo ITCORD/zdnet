@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 18:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 19:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올림푸스한국 '엔도브레인 아이' 출시…대장내시경 검사 보조 AI시스템]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220320222557</link>
+            <guid>https://zdnet.co.kr/view/?no=20220320222557</guid>
+            <pubDate>Sun, 20 Mar 2022 19:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[올림푸스한국의 첫 AI 제품 '엔도브레인 아이'가 출시됐다. 올림푸스한국은 대장내시경 검사 후 진단을 보조하는 소프트웨어 '엔도브레인 아이'(EndoBRAIN-EYE)를 20일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/20/976f863ba27b5ebbefabbafcb565acdd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한수원, 체코 신규원전사업 수주 총력…한·미·프 경합]]></title>
             <link>https://zdnet.co.kr/view/?no=20220321011429</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220321005644</guid>
             <pubDate>Sun, 20 Mar 2022 16:22:31 GMT</pubDate>
             <content:encoded><![CDATA[한국광해광업공단(대표 황규연)이 보유한 마다가스카르 암바토비 니켈 프로젝트가 16일(현지시간) 영국 금융지 아이제이글로벌(IJGlobal)이 수여하는 재무구조조정 부문 '올해의...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/21/53e6e56ae648ce128d5c7bf46204f932-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[동아ST-메쥬, 고신대복음병원, 심장진단센터 설립을 위한 업무협약]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220320104842</guid>
             <pubDate>Sun, 20 Mar 2022 03:11:26 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 안드로이드 이용자도 구글 앱에서 15분 이내 검색한 기록을 삭제할 수 있게 됐다. 지난해 7월 iOS 사용자를 대상으로만 해당 기능을 도입한 구글이 8개월 만에 적용 범...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, 22~24일 산업기반구축 공청회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220318175734</link>
-            <guid>https://zdnet.co.kr/view/?no=20220318175734</guid>
-            <pubDate>Sun, 20 Mar 2022 02:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 2023~2025년 산업혁신 기반 구축 지역별 공청회를 개최한다고 20일 밝혔다. 22일 서울 한국기술센터, 23일 대구 무역회관, 24일 광주 테크노파크에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
