@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 13:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 14:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭스콘, 코로나19로 폐쇄됐던 선전공장 재가동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220321230124</link>
+            <guid>https://zdnet.co.kr/view/?no=20220321230124</guid>
+            <pubDate>Mon, 21 Mar 2022 14:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[대만업체 폭스콘이 코로나19로 폐쇄됐던 선전 공장을 정상 가동하기 시작했다고 CNBC가 21일 보도했다. 이에 앞서 중국 선전시는 지난 14일 시 전역의 대중 교통이 일시 중단...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/08/02/hjyoo_KAx6UIfyeHzgsB-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아, 키이우 강공 우려…"23일까지 통행금지"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220321214110</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220321213658</guid>
             <pubDate>Mon, 21 Mar 2022 13:21:59 GMT</pubDate>
             <content:encoded><![CDATA[승객 132명이 탑승한 중국 동방항공 소속 보잉 737-800NG가 21일 오후 중국 남부 광시장족자치구 우저우 텅현에 있는 산에 추락하는 사고가 발생했다. 중국 국영방송 CC...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/21/3ffcea2d44941cc2cfbbc25e0f4cb781-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['주총 시즌' 통신 3사, 탈통신 속도 높인다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220321170448</guid>
             <pubDate>Mon, 21 Mar 2022 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[지난달 24일 러시아의 우크라이나 침공 이후 전쟁이 4주차로 접어들고 있는 가운데 애당초 러시아는 '전격전'(lightning war)을 통해 현 우크라이나 지도부를 빠르게 몰...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["부동산 투자용 암호화폐, 제도권 편입해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220321153656</link>
-            <guid>https://zdnet.co.kr/view/?no=20220321153656</guid>
-            <pubDate>Mon, 21 Mar 2022 08:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[수익 증권을 암호화폐와 연계한 '증권형토큰발행(STO)' 기반 부동산 투자를 제도권으로 편입해야 한다는 주장이 제기됐다. 부동산 디지털유동화증권(DABS) 플랫폼 서비스를 합법...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
