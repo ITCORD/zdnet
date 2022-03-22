@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공도 주행 가능한 레이싱카'…람보르기니 우라칸 STO 타보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220322151913</link>
+            <guid>https://zdnet.co.kr/view/?no=20220322151913</guid>
+            <pubDate>Tue, 22 Mar 2022 07:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[STO(Super Trofeo Omolagata)는 우라칸 모델 라인업 정점에 자리한 슈퍼 스포츠카다. 트랙에 초점을 맞춰 개발했다. 모터스포츠에 필요한 공기역학·경량기술을 적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[속도 제한 잘 지키면 위반자 벌금으로 상금 준다고?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220322092200</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220315221446</guid>
             <pubDate>Wed, 16 Mar 2022 02:21:22 GMT</pubDate>
             <content:encoded><![CDATA[자동차 생산·내수·수출 모두 코로나19 발생 이전 수준을 넘어섰다. 16일 산업통상자원부가 발표한 '2월 자동차산업 동향'에 따르면 생산은 지난해 같은 기간보다 1.2% 증가한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 완전자율주행 베타 버전 리뷰 공개한 직원 해고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220316093422</link>
-            <guid>https://zdnet.co.kr/view/?no=20220316093422</guid>
-            <pubDate>Wed, 16 Mar 2022 02:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 개인 유튜브 채널에 완전자율주행(FSD) 베타 버전 작동 후기 영상을 올린 직원을 해고했다고 미국 CNBC는 15일(현지시간) 보도했다. 재작년부터 테슬라에 적을 둔 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
