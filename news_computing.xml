@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔라윈즈 "복잡해지는 네트워크 모니터링, 한눈에 제공”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220322144910</link>
+            <guid>https://zdnet.co.kr/view/?no=20220322144910</guid>
+            <pubDate>Tue, 22 Mar 2022 06:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[“많은 기업이 클라우드 도입을 고려하지만 이면의 수많은 장비와 시스템으로 뒤섞인 네트워크 모니터링에서 많은 어려움을 겪고 있다. 솔라윈즈는 전체 네트워크 정보를 시각화해 한눈에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[맥스트, 노키아와 '메타버스' 사업 맞손…5G 특화망 활용]]></title>
             <link>https://zdnet.co.kr/view/?no=20220322141235</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220321162016</guid>
             <pubDate>Mon, 21 Mar 2022 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어(SW) 개발보안 전문 업체 트리니티소프트는 자사 솔루션 '코드레이가 클라우드'가 클라우드 서비스 보안인증(CSAP)을 획득했다고 21일 밝혔다. CSAP는 과학기술정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코어닥스, '블록체인산업협회' 인증 4개 분야 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220321164754</link>
-            <guid>https://zdnet.co.kr/view/?no=20220321164754</guid>
-            <pubDate>Mon, 21 Mar 2022 08:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 코어닥스는 한국블록체인산업협회의 블록체인 인증 심의위원회에서 평가하는 블록체인 인증 4개 분야 ▲블록체인 기술 ▲기술제품 확인 ▲사업인증 ▲전문기업 확인 인증을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
