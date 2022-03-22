@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 애플은 친환경 기업이다 '이왜진?']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220321175249</link>
+            <guid>https://zdnet.co.kr/view/?no=20220321175249</guid>
+            <pubDate>Tue, 22 Mar 2022 05:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[이게 왜 진짜? 라는 의미의 '이왜진?'은 믿기 어렵거나 놀라운 사실에 대해 이야기해보는 직쏘뉴스의 새로운 코너입니다. 애플은 다양한 친환경 정책을 주도하는 기업입니다. 제품 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대법원은 왜 특허사용 법인세 소송서 삼성전자 손을 들어줬나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220322123118</link>
@@ -155,16 +163,8 @@
             <title><![CDATA[LG전자, '레드닷 디자인 어워드'서 최고상 3개 포함 총 25개 수상]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0030&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0030&amp;page=1</guid>
-            <pubDate>Tue, 22 Mar 2022 04:16:07 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 05:13:50 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 '레드닷 디자인 어워드'에서 최고상 3개를 포함해 총 25개 상을 받으며 디자인 경쟁력을 인정받았다. 공간 인테리어 가전인 '트롬 세탁기 오브제컬렉션', LG 올레드...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["새 맥북 에어, 올 하반기로 출시 연기"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220321092417</link>
-            <guid>https://zdnet.co.kr/view/?no=20220321092417</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 디자인을 확 바꾼 차기 맥북 에어 출시를 올해 말까지 연기했다는 전망이 나왔다. 블룸버그 통신은 20일(현지시간) 파워온 뉴스레터를 통해 이 같이 보도했다. 블룸버그 마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
