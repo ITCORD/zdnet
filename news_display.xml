@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 00:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASML 회장 "2년간 반도체 EUV 장비 부족"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220322100846</link>
+            <guid>https://zdnet.co.kr/view/?no=20220322100846</guid>
+            <pubDate>Tue, 22 Mar 2022 02:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 장비 회사 ASML의 피터 베닝크 회장이 앞으로 2년 동안 극자외선(EUV) 노광 장비를 비롯한 반도체 제조 장비가 부족할 것으로 내다봤다. 베닝크 회장은 20...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[핵심 제조기술 OLED, 새 정부의 강력한 지원책 필요]]></title>
             <link>https://zdnet.co.kr/view/?no=20220321160812</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220315234805</guid>
             <pubDate>Tue, 15 Mar 2022 23:14:14 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 오는 2032년까지 총 800억 유로(약 109조 6천억원)를 투자해 유럽 전역에 반도체 생태계를 새로 구축하겠다고 15일(이하 미국 현지시간) 밝혔다. 그동안 대만 T...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IAR시스템즈 "한국 자동차 IoT 보안 시장 잡겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220315150653</link>
-            <guid>https://zdnet.co.kr/view/?no=20220315150653</guid>
-            <pubDate>Tue, 15 Mar 2022 06:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[사물인터넷(IoT) 보안 업체 IAR시스템즈가 한국 자동차 시장을 잡겠다고 나섰다. 이현도 IAR시스템즈 세일즈매니저(영업 관리)는 15일 온라인 기자간담회에서 “전기차와 자율...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
