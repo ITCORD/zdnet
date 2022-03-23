@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OECD "세금 계산에 암호화폐 거래 정보 반영돼야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220323112553</link>
+            <guid>https://zdnet.co.kr/view/?no=20220323112553</guid>
+            <pubDate>Wed, 23 Mar 2022 04:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[경제협력개발기구(OECD)가 암호화폐 거래 내역을 조세 당국이 수집해 세금 계산에 반영토록 하는 국제 표준안 초안을 제시했다. 블록체인 전문 매체 크립토브리핑에 따르면 OECD...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 사이버보안 취약점 정보포털 개설]]></title>
             <link>https://zdnet.co.kr/view/?no=20220323094014</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220322175341</guid>
             <pubDate>Tue, 22 Mar 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[가비아CNS는 강원더몰(구 강원마트) 플랫폼 고도화 및 기능개선 개발 사업을 완료했다고 22일 밝혔다. 이를 통해 강원더몰과 강원도 시·군 쇼핑몰 15개, 강원혁신도시몰, 강원...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·LG·엔비디아 턴 '그놈들'...랩서스는 누구]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220322160125</link>
-            <guid>https://zdnet.co.kr/view/?no=20220322160125</guid>
-            <pubDate>Tue, 22 Mar 2022 09:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자, LG전자, 엔비디아가 동일 해커조직에 뚫렸다. 글로벌 IT 대기업들의 철통 보안을 무력화시킨 이들은 신흥 해커조직 랩서스(Lapsus$)다. 남미 기반으로 활동한다는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
