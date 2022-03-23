@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["미디어 거버넌스 개편, PP 전담 부서도 필요하다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220323140053</link>
+            <guid>https://zdnet.co.kr/view/?no=20220323140053</guid>
+            <pubDate>Wed, 23 Mar 2022 08:15:23 GMT</pubDate>
+            <content:encoded><![CDATA["새 정부에서는 방송콘텐츠 산업 진흥을 위한 미디어 거버넌스 개편이 반드시 이뤄지기를 바란다. 미디어 거버넌스 개편 정책이 후순위로 밀리게 되더라도 적어도 방송채널사업자(PP)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로봇 점찍은 KT, 서빙·방역으로 활용범위 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20220323095843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220322085900</guid>
             <pubDate>Tue, 22 Mar 2022 00:46:53 GMT</pubDate>
             <content:encoded><![CDATA[통신 3사는 디지털 공인 신분증인 '패스'(PASS) 앱의 모바일운전면허 확인 서비스를 전국 공항에서 사용할 수 있다고 22일 밝혔다. 사용자는 전국 공항 국내선 탑승 수속 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플TV, 안드로이드TV서 서비스 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220322080836</link>
-            <guid>https://zdnet.co.kr/view/?no=20220322080836</guid>
-            <pubDate>Tue, 22 Mar 2022 00:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[애플TV가 안드로이드TV에서 영화 대여·구매 등 서비스를 종료했다. 21일(현지시간) 더버지에 따르면, 애플은 크롬캐스트, TCL 등 안드로이드TV에서 애플TV 서비스를 중단했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
