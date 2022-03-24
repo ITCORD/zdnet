@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기업서 인턴하며 학점도 딴다"···ICT 인턴십 345명 참여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220324102954</link>
+            <guid>https://zdnet.co.kr/view/?no=20220324102954</guid>
+            <pubDate>Thu, 24 Mar 2022 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신기술(ICT) 전공 대학생들이 기업에서 본인 전공과 관련한 인턴십을 하면서 동시에 학점도 인정받을 수 있는 'ICT학점연계프로젝트 인턴십' 사업이 시행된다. ICT 분야...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알리바바클라우드, 라라스테이션에 실시간 스트리밍  제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20220324111735</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220323162344</guid>
             <pubDate>Wed, 23 Mar 2022 08:15:33 GMT</pubDate>
             <content:encoded><![CDATA[오라클은 기업 클라우드의 유연성을 향상시키는 신규 오라클 클라우드 인프라스트럭처(OCI) 서비스 포트폴리오를 23일 발표했다. 11개의 새로운 컴퓨팅, 네트워킹, 스토리지, 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[회사의 RPA가 구석에서만 소용돌이 치는 까닭은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220323161122</link>
-            <guid>https://zdnet.co.kr/view/?no=20220323161122</guid>
-            <pubDate>Wed, 23 Mar 2022 07:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[“RPA 프로젝트 3년 정도 한 기업이면 느끼는 어려움이 있다. 가장 큰 어려움은 변경과 수정이 어렵다는 것이다. 유지보수에 개발비용에 준하는 비용이 끝없이 들어간다. 인수인계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
