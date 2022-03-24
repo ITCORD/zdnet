@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 00:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HBO맥스, 콘텐츠 셔플 기능 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220324075518</link>
+            <guid>https://zdnet.co.kr/view/?no=20220324075518</guid>
+            <pubDate>Thu, 24 Mar 2022 00:47:39 GMT</pubDate>
+            <content:encoded><![CDATA[미국 온라인동영상서비스(OTT) HBO맥스가 콘텐츠를 무작위로 재생하는 '셔플' 기능을 추가했다. 23일(현지시간) 더버지에 따르면, HBO맥스는 데스크톱용 셔플 기능을 출시했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ICT·과학기술 분야 인수위 업무보고 시작된다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220323165047</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220322091042</guid>
             <pubDate>Tue, 22 Mar 2022 00:46:53 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)와 신한은행이 인공지능(AI) 인재양성 분야에서 협력을 강화한다. KT와 신한은행은 지난 1월 미래 성장 디지털 전환(DX) 사업을 위해 전략적 파트너십을 맺...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[U+스마트홈 '구글패키지' 가입자 10만명 육박]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220322091452</link>
-            <guid>https://zdnet.co.kr/view/?no=20220322091452</guid>
-            <pubDate>Tue, 22 Mar 2022 00:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 구글과 협업해 내놓은 U+스마트홈 '구글패키지' 가입자가 10만명에 임박했다고 22일 밝혔다. 패키지 상품 출시 약 1년 반 만에 거둔 성과다. 2020년 출시된...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
