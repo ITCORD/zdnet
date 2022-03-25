@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 03:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 04:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC '넘사벽' 1위 굳히나...반도체 수주 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220325123152</link>
+            <guid>https://zdnet.co.kr/view/?no=20220325123152</guid>
+            <pubDate>Fri, 25 Mar 2022 04:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[대만 반도체 파운드리(위탁생산) 업체 TSMC가 올해 칩 수주량을 대폭 늘리면서 점유율 1위를 이어갈 전망이다. 반도체 공급부족이 지속되고 있는 가운데, TSMC는 올해 7나노...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 서강대에 시스템반도체공학과 만든다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220325100523</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220321150406</guid>
             <pubDate>Mon, 21 Mar 2022 06:25:54 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기는 21일 부산사업장의 반도체 패키지 기판(FCBGA·플립칩 볼그리드 어레이) 공장을 증축하고 생산 설비를 구축하는 데 3천억원을 투자한다고 밝혔다. 이를 포함해 패키지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 600V 내압 저손실전력 모스펫 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220321142424</link>
-            <guid>https://zdnet.co.kr/view/?no=20220321142424</guid>
-            <pubDate>Mon, 21 Mar 2022 06:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 21일 600V 전압을 견디는 저손실 파워 반도체(Super Junction MOSFET)를 선보였다. 로옴은 '금속 산화막 반도체 전계 효과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
