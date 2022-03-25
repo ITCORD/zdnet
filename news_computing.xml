@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이부진·이서현, 삼성SDS 주식 301만주 매각]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220325193026</link>
+            <guid>https://zdnet.co.kr/view/?no=20220325193026</guid>
+            <pubDate>Fri, 25 Mar 2022 11:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[삼성그룹 오너 일가가 삼성SDS 지분을 처분했다. 25일 삼성SDS는 이부진 사장과 이서현 이사장이 삼성SDS 주식 총 301만8천860주를 처분했다고 공시를 통해 밝혔다. 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[英 경찰, 해커그룹 랩서스 연루 의심 7명 체포]]></title>
             <link>https://zdnet.co.kr/view/?no=20220325182326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220325095415</guid>
             <pubDate>Fri, 25 Mar 2022 02:19:41 GMT</pubDate>
             <content:encoded><![CDATA[사이버보안 업체 포티넷은 프랑스 통신사 오렌지그룹과 협력해 엔드-투-엔드 시큐어 액세스 서비스 에지(SASE) 솔루션인 '플렉서블 SD-WAN'을 출시했다고 25일 밝혔다. 포...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 중국 클라우드 인프라 시장 33조원 규모...전년비 45%↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220325092931</link>
-            <guid>https://zdnet.co.kr/view/?no=20220325092931</guid>
-            <pubDate>Fri, 25 Mar 2022 00:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[중국 클라우드 인프라 시장이 지난해 큰 폭의 성장세를 거둔데 이어 5년 내 100조 원 규모를 넘어설 것이란 전망이 나왔다. 24일 시장조사업체 캐널리스의 '2021 중국 클라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
