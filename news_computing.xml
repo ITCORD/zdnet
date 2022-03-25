@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영림원-경영정보학회, ERP 학술활동 증진 맞손]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220325111407</link>
+            <guid>https://zdnet.co.kr/view/?no=20220325111407</guid>
+            <pubDate>Fri, 25 Mar 2022 03:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[전사적자원관리(ERP) 시스템 전문업체 영림원소프트랩은 한국경영정보학회와 ERP 학술활동 증진과 인재양송을 위한 업무협약을 체결했다고 25일 밝혔다. 이번 협약의 일환으로 양 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IBM, 멀티클라우드 통합 암호화 키 관리 서비스 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220325103117</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220324165800</guid>
             <pubDate>Thu, 24 Mar 2022 08:16:17 GMT</pubDate>
             <content:encoded><![CDATA[LG CNS는 주주총회를 열고 정관 사업 목적에 '데이터 관련 사업'과 '기간통신사업(회선설비 보유 무선사업)'을 추가했다고 24일 밝혔다. 데이터를 활용한 새로운 디지털전환(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 온프레미스를 활용하는 새로운 전략, 클라우드 인접성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220324163801</link>
-            <guid>https://zdnet.co.kr/view/?no=20220324163801</guid>
-            <pubDate>Thu, 24 Mar 2022 08:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[기업들은 워크로드를 가장 효율적으로 확장하고 관리할 수 있는 지점에 워크로드를 배치하는 등 하이브리드 멀티클라우드 전략을 채택하고 있다. 기업은 이를 통해, 퍼블릭 클라우드가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
