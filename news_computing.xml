@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 00:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 02:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국정원, 주요기관 특별 사이버보안 점검...우크라 사태 계기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220326094050</link>
+            <guid>https://zdnet.co.kr/view/?no=20220326094050</guid>
+            <pubDate>Sat, 26 Mar 2022 02:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원은 외교·안보 부처와 원전·가스공사 등 핵심 기반시설을 대상으로 사이버 취약요인 및 대비태세를 점검한다고 26일 밝혔다. 이번 점검은 우크라이나 사태를 계기로 진행하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이부진·이서현, 삼성SDS 주식 301만주 매각]]></title>
             <link>https://zdnet.co.kr/view/?no=20220325193026</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220325095855</guid>
             <pubDate>Fri, 25 Mar 2022 02:19:41 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 침공에 대한 서방의 제재에 직면한 러시아가 원유 및 가스 수출 대금으로 비트코인을 받는 것을 고려하고 있다. 이 소식이 알려지면서 비트코인 등 주요 암호화폐 가격이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, 클라우드 보안에 힘 준다...SASE 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220325095415</link>
-            <guid>https://zdnet.co.kr/view/?no=20220325095415</guid>
-            <pubDate>Fri, 25 Mar 2022 02:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[사이버보안 업체 포티넷은 프랑스 통신사 오렌지그룹과 협력해 엔드-투-엔드 시큐어 액세스 서비스 에지(SASE) 솔루션인 '플렉서블 SD-WAN'을 출시했다고 25일 밝혔다. 포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
