@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 00:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 02:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드론이 삼성 온양 사업장 화재·시설물 안전 감시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220327095208</link>
+            <guid>https://zdnet.co.kr/view/?no=20220327095208</guid>
+            <pubDate>Sun, 27 Mar 2022 02:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 삼성전자 DS부문 온양 사업장에 환경안전 강화를 위한 드론 시스템을 구축했다고 27일 밝혔다. KT가 구축한 드론 시스템은 기업전용 LTE 무선 보안 네트워크에 기반을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["디지털 플랫폼정부 성공하려면 대통령 어젠다 돼야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220325140533</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220324132618</guid>
             <pubDate>Thu, 24 Mar 2022 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[ICT와 과학기술 분야 정부조직의 업무보고를 시작으로 새 정부의 관련 정책 추진방향 논의가 시작됐다. 윤석열 당선인이 혁신은 민간에서 주도하고 정부가 지원해야 한다는 구상에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["넷플릭스 안 보는 사람도 돈 내고 있다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220324112217</link>
-            <guid>https://zdnet.co.kr/view/?no=20220324112217</guid>
-            <pubDate>Thu, 24 Mar 2022 04:18:00 GMT</pubDate>
-            <content:encoded><![CDATA["망 사업자들이 넷플릭스 이용자 1인당 매달 12달러(약 1만2천원)씩 손해를 보고 있다." 로슬린 레이튼 덴마크 올보르대 박사는 23일 열린 SK브로드밴드의 '국내외 망 이용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
