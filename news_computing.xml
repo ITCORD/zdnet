@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나, '러시아 전쟁' NFT 박물관 개관]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220327130134</link>
+            <guid>https://zdnet.co.kr/view/?no=20220327130134</guid>
+            <pubDate>Sun, 27 Mar 2022 07:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나가 러시아와의 전쟁에서 나타난 사건들을 기록하는 대체불가토큰(NFT) 박물관을 개관했다. 디크립토·코인텔레그래프 등 외신은 우크라이나 디지털전환부가 지난 25일 이 박...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국정원, 주요기관 특별 사이버보안 점검...우크라 사태 계기]]></title>
             <link>https://zdnet.co.kr/view/?no=20220326094050</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220325101635</guid>
             <pubDate>Fri, 25 Mar 2022 02:19:41 GMT</pubDate>
             <content:encoded><![CDATA[나무기술(대표 정철)은 쿠버네티스 통합제품 '칵테일 클라우드 온 오픈시프트(CCO)'를 출시한다고 25일 밝혔다. CCO는 나무기술의 클라우드 네이티브 플랫폼인 '칵테일 클라우...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러, 비트코인 원유결제 지원...암호화폐 가격 상승]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220325095855</link>
-            <guid>https://zdnet.co.kr/view/?no=20220325095855</guid>
-            <pubDate>Fri, 25 Mar 2022 02:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 침공에 대한 서방의 제재에 직면한 러시아가 원유 및 가스 수출 대금으로 비트코인을 받는 것을 고려하고 있다. 이 소식이 알려지면서 비트코인 등 주요 암호화폐 가격이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
