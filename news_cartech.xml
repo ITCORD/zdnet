@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 20:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 21:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 세계 車 시장, 반도체 난 등 악재 뚫고 '회복세']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220327174217</link>
+            <guid>https://zdnet.co.kr/view/?no=20220327174217</guid>
+            <pubDate>Sun, 27 Mar 2022 21:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 세계 완성차 시장은 반도체 공급난과 원자재 가격 상승 등 여러 악재에도 불구하고 회복세로 돌아섰다. 공급자 우위 상황에서 고부가가치 차종 판매 확대와 비용 절감을 실현한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[결국 대금 못낸 에디슨모터스…쌍용차 인수 불발?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220327203311</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220321164637</guid>
             <pubDate>Mon, 21 Mar 2022 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[메르세데스벤츠코리아는 21일 부분 변경을 끝낸 'AMG GT 43 4매틱 플러스'를 출시한다고 밝혔다. AMG GT 43 4매틱 플러스는 48V 마일드 하이브리드 시스템을 얹은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나로 대도시권 대중교통 이용 26.8% 줄었다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220321112321</link>
-            <guid>https://zdnet.co.kr/view/?no=20220321112321</guid>
-            <pubDate>Mon, 21 Mar 2022 02:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19가 확산한 2020년 대도시권 광역교통 대중교통 이용이 2019년보다 26.8% 줄어든 것으로 나타났다. 전체 통행량은 2019년 보다 12.1% 감소했다. 국토교통부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
