@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 11:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 12:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결국 대금 못낸 에디슨모터스…쌍용차 인수 불발?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220327203311</link>
+            <guid>https://zdnet.co.kr/view/?no=20220327203311</guid>
+            <pubDate>Sun, 27 Mar 2022 12:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[에디슨모터스 컨소시엄이 쌍용자동차 인수대금 잔금을 기한 내에 납입하지 못하면서 인수가 무산될 위기에 처했다. 27일 자동차 업계에 따르면 에디슨모터스는 인수대금 잔금 납입 기한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/10/20/7a08e62dd76ca2e56149a0f9792cb09f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI로 심리분석 메이팜소프트, 마음의숲과 MOU]]></title>
             <link>https://zdnet.co.kr/view/?no=20220327160727</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220327130134</guid>
             <pubDate>Sun, 27 Mar 2022 07:10:54 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나가 러시아와의 전쟁에서 나타난 사건들을 기록하는 대체불가토큰(NFT) 박물관을 개관했다. 디크립토·코인텔레그래프 등 외신은 우크라이나 디지털전환부가 지난 25일 이 박...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/27/7986a12f23677807583a9c6c27eff1b3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[야놀자, 지구촌 전등 끄기 캠페인 '어스아워' 참여]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220327091506</guid>
             <pubDate>Sun, 27 Mar 2022 00:49:07 GMT</pubDate>
             <content:encoded><![CDATA[쏘카가 현대차그룹이 독자 개발한 커넥티드 카 소프트웨어 운영체제(ccOS·connected car Operating system) 생태계 협력을 위해 현대자동차와 손잡는다. 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지마켓 글로벌 샵, '인싸오빠 시즌6' 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220327090914</link>
-            <guid>https://zdnet.co.kr/view/?no=20220327090914</guid>
-            <pubDate>Sun, 27 Mar 2022 00:49:07 GMT</pubDate>
-            <content:encoded><![CDATA[역직구 플랫폼 지마켓 글로벌샵의 공식 유튜브 채널 '인싸오빠'가 27일 시즌6로 돌아온다. 이번 인싸오빠 시즌6에는 시즌5에서 맹활약한 K팝 아이돌그룹 '몬스타엑스'의 멤버 민...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
