@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 22:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 23:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 상하이 공장 가동 코로나로 일시 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220328075025</link>
+            <guid>https://zdnet.co.kr/view/?no=20220328075025</guid>
+            <pubDate>Sun, 27 Mar 2022 23:31:52 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 최소 하루 동안 중국 상하이 공장 가동을 중단한다고, 블룸버그통신 등 복수 외신이 27일(이하 현지시간) 보도했다. 상하이에서 코로나19 확진 사례가 급증해, 중국 정...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지난해 세계 車 시장, 반도체 난 등 악재 뚫고 '회복세']]></title>
             <link>https://zdnet.co.kr/view/?no=20220327174217</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220322085702</guid>
             <pubDate>Tue, 22 Mar 2022 00:50:16 GMT</pubDate>
             <content:encoded><![CDATA[기아 전기자동차 EV6가 2022 레드닷 어워드 제품 디자인 부문 최우수상을 수상했다. 22일 기아에 따르면 EV6는 레드닷 어워드 제품 디자인 최우수상을 수상한데 이어 혁신적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[벤츠, 부분 변경 끝낸 'AMG GT 4도어 쿠페' 출시…1억4310만원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220321164637</link>
-            <guid>https://zdnet.co.kr/view/?no=20220321164637</guid>
-            <pubDate>Mon, 21 Mar 2022 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[메르세데스벤츠코리아는 21일 부분 변경을 끝낸 'AMG GT 43 4매틱 플러스'를 출시한다고 밝혔다. AMG GT 43 4매틱 플러스는 48V 마일드 하이브리드 시스템을 얹은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
