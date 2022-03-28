@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 06:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 넷플릭스 제치고 사상 첫 아카데미 작품상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220328144136</link>
+            <guid>https://zdnet.co.kr/view/?no=20220328144136</guid>
+            <pubDate>Mon, 28 Mar 2022 06:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 OTT 작품 간의 각축으로 관심을 모았던 아카데미 최우수 작품상 경쟁에서 넷플릭스에 승리했다. 애플의 OTT 서비스인 애플TV 플러스 오리지널 영화 '코다'가 27일(현...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["선플로 악플을 이긴다"...배달 라이더 응원 '따말' 캠페인 열린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220328135538</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220326173325</guid>
             <pubDate>Sat, 26 Mar 2022 09:13:39 GMT</pubDate>
             <content:encoded><![CDATA[구글, 메타 등 미국 거대 IT 기업들이 촉각을 곤두세웠던 유럽과의 데이터 전송 협상이 한 고비를 넘겼다. 미국과 유럽연합(EU)이 유럽인들의 개인정보를 미국에 저장하는 것을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[지디의 네웹툰] 게임 속에 갇힌 전설의 게이머 '최종보스 공대장']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220326022738</link>
-            <guid>https://zdnet.co.kr/view/?no=20220326022738</guid>
-            <pubDate>Sat, 26 Mar 2022 00:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰 '최종보스 공대장'(글/그림: 김장훈/박수봉,하성신)은 VR게임계 전설로 불리는 주인공 '공대장'이 AI가 만든 VR 게임 속에 갇혀 플레이를 하게 되며 최종보스로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
