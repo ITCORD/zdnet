@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이, '코로나19 콘텐츠 주의보']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220329173113</link>
+            <guid>https://zdnet.co.kr/view/?no=20220329173113</guid>
+            <pubDate>Tue, 29 Mar 2022 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[음악 플랫폼 스포티파이가 팟캐스트에 코로나19 관련 콘텐츠 경고 탭을 도입했다고 CNBC, 더버지 등 복수 외신은 28일(현지시간) 보도했다. 이용자가 팟캐스트에서 코로나19가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크 "휴머노이드 로봇 시제품, 내년 말 생산 가능"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220329155250</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220328144136</guid>
             <pubDate>Mon, 28 Mar 2022 06:18:27 GMT</pubDate>
             <content:encoded><![CDATA[애플이 OTT 작품 간의 각축으로 관심을 모았던 아카데미 최우수 작품상 경쟁에서 넷플릭스에 승리했다. 애플의 OTT 서비스인 애플TV 플러스 오리지널 영화 '코다'가 27일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["선플로 악플을 이긴다"...배달 라이더 응원 '따말' 캠페인 열린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220328135538</link>
-            <guid>https://zdnet.co.kr/view/?no=20220328135538</guid>
-            <pubDate>Mon, 28 Mar 2022 05:12:22 GMT</pubDate>
-            <content:encoded><![CDATA["선플로 악플을 이긴다." 코로나19 대유행이 장기화 되는 가운데, 서로의 지친 마음을 '선플'로 달래줄 따뜻한 캠페인이 전개된다. IT 전문미디어인 지디넷코리아(대표 김경묵)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
