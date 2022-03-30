@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 05:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 웨스턴디지털과 차세대 스토리지 기술 표준 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220330134526</link>
+            <guid>https://zdnet.co.kr/view/?no=20220330134526</guid>
+            <pubDate>Wed, 30 Mar 2022 05:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 미국의 웨스턴디지털과 '존 스토리지' 기술 협력을 위한 양해각서(MOU)를 체결했다. '존 스토리지'는 데이터센터나 엔터프라이즈의 대용량 스토리지를 보다 효율적으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 상원, 63조원 규모 반도체 육성 법안 통과]]></title>
             <link>https://zdnet.co.kr/view/?no=20220330101254</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220323112430</guid>
             <pubDate>Wed, 23 Mar 2022 03:30:45 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회는 23일 불공정 거래를 한 신성이엔지와 시너스텍에 시정명령을 내렸다. 시너스텍에는 과징금 2천만원도 부과했다. 시너스텍은 2018년 신성이엔지에서 분할해 신설한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 대만 남동부 6.6 지진으로 생산 일시 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220323103744</link>
-            <guid>https://zdnet.co.kr/view/?no=20220323103744</guid>
-            <pubDate>Wed, 23 Mar 2022 02:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[대만 남동부에서 오늘(23일) 새벽에 진도 6.6 규모의 지진이 발생하면서 반도체 파운드리 업체 TSMC의 생산라인 일부가 가동을 중단했다. 23일 타이완뉴스는 중앙기상국(CW...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
