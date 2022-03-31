@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 02:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 03:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 5천만 달러 규모 협력업체 직원 개발 기금 출범]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331113730</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331113730</guid>
+            <pubDate>Thu, 31 Mar 2022 03:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 5천만달러(약 605억3천500만원) 규모의 협력업체 직원 개발 기금을 출범한다고 31일 밝혔다. 이 기금은 협력업체 직원의 교육 및 능력 개발을 지원하는데 활용된다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바디프랜드, 소외 계층 후원 '행복나눔상자' 전달]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331100200</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[다이슨, 공기정화 헤드폰 '다이슨 존' 최초 공개]]></title>
+            <title><![CDATA[다이슨, 새로운 공기정화 헤드폰 '다이슨 존' 최초 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220330155822</link>
             <guid>https://zdnet.co.kr/view/?no=20220330155822</guid>
             <pubDate>Wed, 30 Mar 2022 08:15:32 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220329161848</guid>
             <pubDate>Tue, 29 Mar 2022 08:15:42 GMT</pubDate>
             <content:encoded><![CDATA[지난해 미국 스마트폰 시장에서 모토로라가 처음으로 3위에 올랐다. 지난해 LG전자가 스마트폰 사업을 철수함에 따라 LG전자의 점유율을 흡수한데 따른 결과로 풀이된다. 29일 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 2억개 픽셀 마이크로 LED '더 월' 방콕서 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220329090157</link>
-            <guid>https://zdnet.co.kr/view/?no=20220329090157</guid>
-            <pubDate>Tue, 29 Mar 2022 06:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 2억개 픽셀을 적용한 마이크로 LED '더 월'을 태국 방콕에서 선보인다. 삼성전자는 태국 최대 부동산 개발 업체인 MQDC(Magnolia Quality Devel...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
