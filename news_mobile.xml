@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 00:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바디프랜드, 소외 계층 후원 '행복나눔상자' 전달]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331100200</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331100200</guid>
+            <pubDate>Thu, 31 Mar 2022 02:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[바디프랜드가 농협중앙회 서울지역본부와 함께 소외·취약계층을 위한 후원 활동에 나섰다고 31일 밝혔다. 양사는 지난 24일 오후 3시 강동구청에서 소외·취약계층을 위한 후원 물품...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대만 TSMC "스마트폰 수요 둔화되고 있다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331084628</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220329090157</guid>
             <pubDate>Tue, 29 Mar 2022 06:17:02 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 2억개 픽셀을 적용한 마이크로 LED '더 월'을 태국 방콕에서 선보인다. 삼성전자는 태국 최대 부동산 개발 업체인 MQDC(Magnolia Quality Devel...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 한정판 프로세서 '코어 i9-12900KS' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220329113111</link>
-            <guid>https://zdnet.co.kr/view/?no=20220329113111</guid>
-            <pubDate>Tue, 29 Mar 2022 02:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 한정판 12세대 코어 프로세서 '코어 i9-12900KS'를 출시하고 다음 달 5일부터 한국을 포함한 전 세계에 판매한다. 코어 i9-12900KS 프로세서는 지난 해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
