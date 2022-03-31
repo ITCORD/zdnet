@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["삼성전자, DDR3 D램 주문 올해까지 받는다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331125855</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331125855</guid>
+            <pubDate>Thu, 31 Mar 2022 05:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 고객사에게 DDR3 D램 주문을 올해까지 받는다고 공지한 것으로 알려졌다. 최근 DDR5 D램으로 세대 교체가 빠르게 진행되고 있는 가운데, 수익성이 더 높은 DDR...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한·미, 반도체 기술·인력·투자 협력 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331105653</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220323171514</guid>
             <pubDate>Wed, 23 Mar 2022 09:11:50 GMT</pubDate>
             <content:encoded><![CDATA[세계 반도체 장비 투자 규모가 올해 처음으로 1천억 달러를 넘을 것이라는 예측이 나왔다. 국제반도체장비재료협회(SEMI)는 올해 세계 반도체 장비 투자액이 지난해보다 14% 늘...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 1200억 규모 메타버스 펀드 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220323164256</link>
-            <guid>https://zdnet.co.kr/view/?no=20220323164256</guid>
-            <pubDate>Wed, 23 Mar 2022 08:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[미국 통신칩 회사 퀄컴이 1억 달러(약 1천200억원) 규모 '스냅드래곤 메타버스 펀드'를 조성했다고 23일 밝혔다. 퀄컴은 확장현실(XR)과 증강현실(AR), 인공지능(AI)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
