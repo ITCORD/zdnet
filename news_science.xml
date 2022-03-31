@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 03:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 04:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이아몬드 양자센서로 자기장과 온도 변화 동시에 감지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331112938</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331112938</guid>
+            <pubDate>Thu, 31 Mar 2022 04:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[한국표준과학연구원(KRISS, 원장 박현민)이 자기장과 온도를 정밀 측정할 수 있는 다이아몬드 양자센서를 개발했다고 31일 밝혔다. 저온이나 자기 차폐 환경이 아닌 일상 환경에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/31/8ea9465756331db53c6e9be08e5f0238-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허블 망원경, 지구에서 가장 멀리 있는 별 발견 [우주로 간다]]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331094811</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220330122758</guid>
             <pubDate>Wed, 30 Mar 2022 04:19:00 GMT</pubDate>
             <content:encoded><![CDATA[유전자 발현의 첫 단계인 RNA 전사의 종결 과정에 대한 학계의 30년 논쟁이 마무리될 수 있을까? 국내 연구진이 전사종결인자 단백질의 작동 원리를 종합적으로 설명하는 이론을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/30/25bc306798f28c4717ad7bfec101dbb3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[명왕성에서 거대 얼음화산 포착 [우주로 간다]]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220324092620</guid>
             <pubDate>Thu, 24 Mar 2022 00:54:38 GMT</pubDate>
             <content:encoded><![CDATA[한국원자력연구원(원장 박원석)은 광반도체 전문기업 포셈과 공동 연구로 5G 네트워크 핵심 부품인 25Gbps급 애벌런치 포토다이오드(APD)를 국내 최초로 개발, 하반기 양산에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김형준 ETRI 소장, IOT·스마트시티 국제표준화 그룹 의장 선출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220324092857</link>
-            <guid>https://zdnet.co.kr/view/?no=20220324092857</guid>
-            <pubDate>Thu, 24 Mar 2022 00:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 디지털 대전환 핵심기술인 사물인터넷(IoT) 및 스마트시티 분야 국제 표준화 그룹(ITU-T SG20) 의장에 선출됐다. 한국전자통신연구원(ETRI)은 지능화융합...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
