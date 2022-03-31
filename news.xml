@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 22:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 23:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상 부동산은 얼마나 가치가 있는 것일까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401080440</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401080440</guid>
+            <pubDate>Thu, 31 Mar 2022 23:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스가 인터넷 서비스의 시대적 흐름으로 인식되면서 '가상 부동산'에 대한 관심도 커지고 있다. 서비스 사업자가 생겨나고 거기에서 가상의 땅을 사는 사람도 늘고 있다. 그런데...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/10/20/c2c06ad282fe1272d16dd95baa0cccaa-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정식품-에프원소프트, AI로 유통기간 오류·병제품 이물칠 찾는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331173312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331173312</guid>
+            <pubDate>Thu, 31 Mar 2022 23:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[두유제품 베지밀로 유명한 정식품과 AI기반 데이터 플랫폼기업 에프원소프트가 함께 제품 불량과 이물질을 찾아내는 AI기술을 개발한다. 정식품과 에프원소프트 컨소시엄은 정보통신산업...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/31/4af6bb14d8e41a756f6649883eadb2e6-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[미장브리핑] 2020년 3월 이후 美 증시 최악]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401074106</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401074106</guid>
+            <pubDate>Thu, 31 Mar 2022 23:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[◆31일(현지시간) 미국 증시 ▲다우존스산업평균(다우)지수 1.56% 하락한 34678.35. ▲스탠다드앤푸어스(S&amp;P)500 지수 1.57% 떨어진 4530.41. ▲나스닥 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/08/0144bacb8eb733e825535888b8379167-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인간 유전체 정보, 남은 퍼즐 조각 모두 찾았다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331182019</link>
             <guid>https://zdnet.co.kr/view/?no=20220331182019</guid>
             <pubDate>Thu, 31 Mar 2022 22:10:53 GMT</pubDate>
             <content:encoded><![CDATA[인간 유전체 정보를 모두 해석하는 '인간 지놈 프로젝트'는 1990년 시작되어 13년 만인 2003년 마무리되었다. 하지만 당시 기술의 한계로 다 해독하지 못 하고 남은 염기 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/09/14/d18b2eeadb5ea0bb8812c65dac56f0d1-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[尹인수위, 부산엑스포 유치 힘 싣는다]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220331220120</guid>
             <pubDate>Thu, 31 Mar 2022 13:22:54 GMT</pubDate>
             <content:encoded><![CDATA[대통령직인수위원회가 2030년 부산엑스포 유치에 힘을 기울인다. 인수위 외교안보분과 산하 2030 부산엑스포 유치 TF는 31일 오후 첫 회의를 열었다. 인수위는 특정 현안에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/31/8e4b8935bd298f5cd491bf648bc62a99-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스프링프레임워크에 치명적 취약점 발견...스프링4셸로 명명]]></title>
@@ -29,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220331181050</guid>
             <pubDate>Thu, 31 Mar 2022 13:22:54 GMT</pubDate>
             <content:encoded><![CDATA[인기 자바 웹 애플리케이션 개발 프레임워크 '스프링'에 원격코드실행(RCE)이 가능한 제로데이 취약점이 발견됐다. 스프링으로 개발된 수 많은 애플리케이션들이 원격 공격 위험에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/31/9b6925f38a6f108b726ea879530ceb40-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, 5월 중 상장...희망 공모가 최대 3만8800원]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331175907</guid>
             <pubDate>Thu, 31 Mar 2022 10:13:10 GMT</pubDate>
             <content:encoded><![CDATA[“플랫폼 기업으로 기반을 든든히 한 4년이었다. 카카오가 현금흐름과 영업이익에서 안정감을 갖췄단 표현이다.” 2018년부터 카카오 공동 대표를 지낸 여민수 전 대표가 한 말이다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[토스 2021년 2160억 당기순손실…적자폭 전년比 137% 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331180406</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331180406</guid>
-            <pubDate>Thu, 31 Mar 2022 10:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 금융 서비스 '토스'를 운영하는 비바리퍼블리카가 2021년 2천160억원의 당기순손실(연결 기준)을 낸 것으로 나타났다. 31일 비바리퍼블리카는 공시를 통해 지난해 연결...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마켓컬리, 작년 매출 1조5614억·적자 2177억]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331174514</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331174514</guid>
-            <pubDate>Thu, 31 Mar 2022 10:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[마켓컬리가 지난해 거래액 2조원을 올린 가운데, 매출은 1조5천614억원, 영업적자는 2천177억원을 기록했다. 컬리는 지난해 매출이 전년 동기 대비 64% 증가한 1조5천61...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["국토교통 데이터 개방...국토 디지털트윈 구축”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331181930</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331181930</guid>
-            <pubDate>Thu, 31 Mar 2022 10:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부가 대통령직인수위원회에 '국토교통 디지털플랫폼', '디지털트윈 국토' 추진계획을 보고했다. 인수위 경제2분과는 31일 유웅환 인수위원과 백원국 전문위원이 참석한 자리에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
