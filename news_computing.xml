@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 12:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 13:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스프링프레임워크에 치명적 취약점 발견...스프링4셸로 명명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331181050</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331181050</guid>
+            <pubDate>Thu, 31 Mar 2022 13:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[인기 자바 웹 애플리케이션 개발 프레임워크 '스프링'에 원격코드실행(RCE)이 가능한 제로데이 취약점이 발견됐다. 스프링으로 개발된 수 많은 애플리케이션들이 원격 공격 위험에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스, 5월 중 상장...희망 공모가 최대 3만8800원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331201916</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331094450</guid>
             <pubDate>Thu, 31 Mar 2022 00:46:13 GMT</pubDate>
             <content:encoded><![CDATA[호스트웨이는(대표 남성주)는 '디지털 서비스 이용지원시스템'에 공공 보안기준을 만족하는 NHN 클라우드 공공기관용 IaaS를 등록 완료하고 공공기관의 클라우드 전환을 지원하기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셈, 한전 AMI 빅데이터 플랫폼 사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331092857</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331092857</guid>
-            <pubDate>Thu, 31 Mar 2022 00:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[엑셈(대표 조종암)이 한국전력공사(한전)가 발주한 총 사업비 272억 원(부가세 포함) 규모의 'MDMS 수용기반 마련 및 고도화 사업'을 한전KDN과 컨소시엄 형태로 수주했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
