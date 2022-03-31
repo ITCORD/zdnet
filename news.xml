@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 유전체 정보, 남은 퍼즐 조각 모두 찾았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331182019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331182019</guid>
+            <pubDate>Thu, 31 Mar 2022 22:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[인간 유전체 정보를 모두 해석하는 '인간 지놈 프로젝트'는 1990년 시작되어 13년 만인 2003년 마무리되었다. 하지만 당시 기술의 한계로 다 해독하지 못 하고 남은 염기 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/09/14/d18b2eeadb5ea0bb8812c65dac56f0d1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹인수위, 부산엑스포 유치 힘 싣는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331220120</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220331201916</guid>
             <pubDate>Thu, 31 Mar 2022 12:19:02 GMT</pubDate>
             <content:encoded><![CDATA[SK스퀘어 산하 라이프 케어 플랫폼 기업 SK쉴더스(대표 박진효)는 31일 금융위원회에 증권신고서를 제출하고 오는 5월 유가증권시장 상장을 목표로 공모 절차에 돌입한다고 이날 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/31/94f2abbe83fca76fa0a6c7fdb0e67d41-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빗썸, 작년 영업익 7821억…전년 대비 424% ↑]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331181930</guid>
             <pubDate>Thu, 31 Mar 2022 10:13:10 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부가 대통령직인수위원회에 '국토교통 디지털플랫폼', '디지털트윈 국토' 추진계획을 보고했다. 인수위 경제2분과는 31일 유웅환 인수위원과 백원국 전문위원이 참석한 자리에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨소프트 피버, 새 콘텐츠 저스트텐미닛 4월 1일 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331165250</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331165250</guid>
-            <pubDate>Thu, 31 Mar 2022 10:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[엔씨소프트(대표 김택진)는 문화 콘텐츠 브랜드 피버(FEVER)의 신규 오리지널 콘텐츠 '저스트텐미닛(JUST 10MINUTES)'을 다음 달 1일부터 공개한다고 밝혔다. '저...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

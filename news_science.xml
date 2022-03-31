@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 유전체 정보, 남은 퍼즐 조각 모두 찾았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220331182019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220331182019</guid>
+            <pubDate>Thu, 31 Mar 2022 22:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[인간 유전체 정보를 모두 해석하는 '인간 지놈 프로젝트'는 1990년 시작되어 13년 만인 2003년 마무리되었다. 하지만 당시 기술의 한계로 다 해독하지 못 하고 남은 염기 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/09/14/d18b2eeadb5ea0bb8812c65dac56f0d1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이아몬드 양자센서로 자기장과 온도 변화 동시에 감지]]></title>
             <link>https://zdnet.co.kr/view/?no=20220331112938</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220330132220</guid>
             <pubDate>Wed, 30 Mar 2022 05:27:11 GMT</pubDate>
             <content:encoded><![CDATA[바닷물에서 염분을 제거해 깨끗한 물로 만드는 해수 담수화에 필요한 막대한 에너지 소비량을 절반으로 줄이는 기술이 개발됐다. 한국에너지기술연구원(원장 김종남)은 제주글로벌연구센터...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/30/832602e7f3d6e0e878358e8e263cb07f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[RNA 합성 방식 30년 논쟁 종결되나]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220324132329</guid>
             <pubDate>Thu, 24 Mar 2022 06:21:51 GMT</pubDate>
             <content:encoded><![CDATA["과학기술 담당 부처의 형태는 중요하지 않다. 다만 과학기술이 업무에서 가장 중요한 부처라야 한다." 유욱준 한국과학기술한림원 신임 원장은 24일 취임 기자간담회에서 과기 정책...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원자력연, 5G 핵심부품 국산화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220324092620</link>
-            <guid>https://zdnet.co.kr/view/?no=20220324092620</guid>
-            <pubDate>Thu, 24 Mar 2022 00:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[한국원자력연구원(원장 박원석)은 광반도체 전문기업 포셈과 공동 연구로 5G 네트워크 핵심 부품인 25Gbps급 애벌런치 포토다이오드(APD)를 국내 최초로 개발, 하반기 양산에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
