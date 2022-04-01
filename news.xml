@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 17:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 18:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성중립 언어는 가능할까? 인공지능에 물었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401002248</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401002248</guid>
+            <pubDate>Fri, 01 Apr 2022 18:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[영어에선 '비즈니스맨(businessman)'이나 '대변인(spokeman)' 같이 직업을 부르는 단어에 남자를 뜻하는 'man'이 붙는 경우가 많다. 어떤 직업을 당연히 남성...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/01/8603219dda534c87ec6eac5dc6d83521-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 던파모바일, 구글 매출 1위 올랐다...대세작 인증]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401214143</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220401200946</guid>
             <pubDate>Fri, 01 Apr 2022 11:13:38 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 가품 논란으로 문제가 된 '피어 오브 갓 에센셜' 브랜드 제품을 구매한 고객에게 200% 환불을 결정했다. 피어 오브 갓 에센셜 브랜드가 무신사 부티크에서 판매된 제품...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/01/467e909e2adcd690b4f8f1022c408047-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인수위, 배달 노동자 이륜차보험 개발방안 논의]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220401163255</guid>
             <pubDate>Fri, 01 Apr 2022 08:14:48 GMT</pubDate>
             <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 3D TPS MOBA(진지점령) PC 게임 '오버프라임' 공식 홈페이지를 오픈했다고 1일 밝혔다. '오버프라임'은 3인칭 슈팅과 MOBA 장르가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, 만우절 이벤트 화제...590여개 썸네일로 큰 재미]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220401163303</link>
-            <guid>https://zdnet.co.kr/view/?no=20220401163303</guid>
-            <pubDate>Fri, 01 Apr 2022 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰의 만우절 이벤트가 5년째 화제다. 올해에는 작품과 관련된 가짜 굿즈로 약 590여개의 썸네일을 제작했다. 네이버웹툰의 만우절 이벤트는 분사 바로 다음해인 2018년부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
