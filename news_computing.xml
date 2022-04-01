@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG CNS, 매출 4조원 돌파…디지털전환 역량 과시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401151422</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401151422</guid>
+            <pubDate>Fri, 01 Apr 2022 06:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[LG CNS가 지난해 처음으로 매출 4조원을 돌파하며 '디지털전환(DX) 전문 기업'의 저력을 보였다. 31일 LG CNS가 공시한 2021년 사업보고서에 따르면 연결 기준으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 자바 프레임워크 '스프링', REC 취약점 패치 긴급배포]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401124537</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401124537</guid>
+            <pubDate>Fri, 01 Apr 2022 06:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[원격코드실행(REC) 취약점이 발견된 인기 자바 프레임워크 스프링이 긴급 패치를 배포했다. 31일(현지시간) 스프링은 공식 블로그를 통해 취약점 픽스가 포함된 스프링 프레임워크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[글루와, 서울옥션블루와 NFT 프로필 만든다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401134152</link>
@@ -24,11 +40,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유럽연합, 모든 암호화폐 거래 정보 확인한다]]></title>
+            <title><![CDATA[EU, 암호화폐도 익명거래 금지한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401112347</link>
             <guid>https://zdnet.co.kr/view/?no=20220401112347</guid>
             <pubDate>Fri, 01 Apr 2022 02:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU) 의회가 암호화폐 익명 결제 막고, 모든 거래 정보를 확인하는 조항을 통과시켰다. 코인데스크 등 외신에 따르면 EU위원회는 31일(현지시간) 자금세탁방지(AML)...]]></content:encoded>
+            <content:encoded><![CDATA[유럽연합(EU) 의회가 암호화폐 익명 결제 막고, 모든 거래 정보를 확인하는 조항을 통과시켰다. 코인데스크 등 외신에 따르면 유럽 의회 경제통화위원회 31일(현지시간) 1천 유...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331174236</guid>
             <pubDate>Thu, 31 Mar 2022 09:13:04 GMT</pubDate>
             <content:encoded><![CDATA["향후 10~20년을 내다보고 찾은 성장 모멘텀이 디지털 트윈이다. 우리의 역량을 집중해 차별화된 가치를 제공하려 한다" 코오롱베니트 신사업추진실을 이끄는 한현 상무는 위와 같...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 중소기업에 보안 취약점 무료 점검 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331155125</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331155125</guid>
-            <pubDate>Thu, 31 Mar 2022 07:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 다음 달 1일부터 중소기업을 대상으로 보안취약점을 원격 점검해주는 '내서버 돌보미' 서비스를 시작한다고 31일 밝혔다. 과기정통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠블, 암호화폐 지갑 '클러치' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331155953</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331155953</guid>
-            <pubDate>Thu, 31 Mar 2022 07:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[모빌리티 블록체인 프로젝트 기업 엠블은 자체 암호화폐 지갑 '클러치'를 31일 출시했다고 밝혔다. 동남아시아 이용자를 블록체인 생태계로 유인한다는 계획이다. 엠블은 자체 지갑에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
