@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스넷 "감염병 확산 주요 원인는 휴먼에러"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401174253</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401174253</guid>
+            <pubDate>Fri, 01 Apr 2022 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA["오미크론 이후에도 팬데믹이 유행할 가능성이 커지고 있다. 장기적으로 감염병 확산방지와 사람들의 안전을 도모하기 위해서 출입관리시스템이 마련되야 한다. 이 시스템 핵심은 휴먼 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지역정보개발원-한국섬진흥원, 섬 정보화 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401161933</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220401003135</guid>
             <pubDate>Fri, 01 Apr 2022 00:54:02 GMT</pubDate>
             <content:encoded><![CDATA[누구나 구매한 제품에 대해 문의하기 위해 하염없이 전화기를 붙들고 있었던 경험이 한 번쯤은 있을 것이다. 돌고 돌아 겨우 관계자와 연락이 닿았지만 다시 경위를 설명해야 하는 경...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스프링프레임워크에 치명적 취약점 발견...스프링4셸로 명명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331181050</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331181050</guid>
-            <pubDate>Thu, 31 Mar 2022 13:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[인기 자바 웹 애플리케이션 개발 프레임워크 '스프링'에 원격코드실행(RCE)이 가능한 제로데이 취약점이 발견됐다. 스프링으로 개발된 수 많은 애플리케이션들이 원격 공격 위험에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
