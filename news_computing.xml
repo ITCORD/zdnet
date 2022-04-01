@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지역정보개발원-한국섬진흥원, 섬 정보화 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220401161933</link>
+            <guid>https://zdnet.co.kr/view/?no=20220401161933</guid>
+            <pubDate>Fri, 01 Apr 2022 08:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[한국지역정보개발원(KLID, 개발원)과 한국섬진흥원(이하 섬진흥원)은 1일 오후 2시 서울 상암 소재 개발원 10층 전략회의실에서 지역균형발전을 위한 상호협력을 체결했다. 이번...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이데이터 서비스의 성공, 보안이 좌우한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401154552</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331181050</guid>
             <pubDate>Thu, 31 Mar 2022 13:23:46 GMT</pubDate>
             <content:encoded><![CDATA[인기 자바 웹 애플리케이션 개발 프레임워크 '스프링'에 원격코드실행(RCE)이 가능한 제로데이 취약점이 발견됐다. 스프링으로 개발된 수 많은 애플리케이션들이 원격 공격 위험에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 5월 중 상장...희망 공모가 최대 3만8800원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331201916</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331201916</guid>
-            <pubDate>Thu, 31 Mar 2022 12:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[SK스퀘어 산하 라이프 케어 플랫폼 기업 SK쉴더스(대표 박진효)는 31일 금융위원회에 증권신고서를 제출하고 오는 5월 유가증권시장 상장을 목표로 공모 절차에 돌입한다고 이날 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
