@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 07:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["환경오염 유발" 암호화폐 채굴 사라지게 될까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220402143446</link>
+            <guid>https://zdnet.co.kr/view/?no=20220402143446</guid>
+            <pubDate>Sat, 02 Apr 2022 07:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[환경오염을 유발한다고 비판받는 작업증명(PoW) 방식 암호화폐를 퇴출하려는 노력이 곳곳에서 나타나고 있다. PoW 방식은 컴퓨팅 연산 작업(채굴)에 따라 보상을 지급하는 것으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에스넷 "감염병 확산 주요 원인는 휴먼에러"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401174253</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220401085205</guid>
             <pubDate>Fri, 01 Apr 2022 00:54:02 GMT</pubDate>
             <content:encoded><![CDATA[NHN(대표 정우진)은 클라우드 전문 법인 'NHN 클라우드'가 공식 출범했다고 1일 밝혔다. 신규 법인은 사업 현장 속 신속한 의사결정 체계 구축을 위해 백도민·김동훈 공동대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 서비스의 환골탈태, 비용 부서에서 매출 창구로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220401003135</link>
-            <guid>https://zdnet.co.kr/view/?no=20220401003135</guid>
-            <pubDate>Fri, 01 Apr 2022 00:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 구매한 제품에 대해 문의하기 위해 하염없이 전화기를 붙들고 있었던 경험이 한 번쯤은 있을 것이다. 돌고 돌아 겨우 관계자와 연락이 닿았지만 다시 경위를 설명해야 하는 경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
