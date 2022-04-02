@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4말5초 국민 40% 감염?…집단면역 이룰까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220402143621</link>
+            <guid>https://zdnet.co.kr/view/?no=20220402143621</guid>
+            <pubDate>Sat, 02 Apr 2022 06:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[이르면 4월 말 또는 5월 초에는 신종 코로나바이러스 감염증(코로나19)에 걸릴 우리나라 국민이 누적 2000만명에 이를 것으로 예상되고 있다. 전 국민 약 40%가 코로나19...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[배민, 지난해 매출 2조원 돌파...전년 대비 94%↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401185448</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331162450</guid>
             <pubDate>Thu, 31 Mar 2022 10:14:24 GMT</pubDate>
             <content:encoded><![CDATA[네이버의 팬덤 방송 플랫폼 '브이라이브'가 이달 초 하이브 자회사 위버스컴퍼니로 영업 양도되면서, 위버스 소속이 된 네이버 전 직원들이 불만을 표했다. 30일 네이버 노동조합 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['공동 대표 체제' 4년 카카오, 실적·사업 모두 단단해졌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331175907</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331175907</guid>
-            <pubDate>Thu, 31 Mar 2022 10:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[“플랫폼 기업으로 기반을 든든히 한 4년이었다. 카카오가 현금흐름과 영업이익에서 안정감을 갖췄단 표현이다.” 2018년부터 카카오 공동 대표를 지낸 여민수 전 대표가 한 말이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

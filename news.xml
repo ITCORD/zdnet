@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4말5초 국민 40% 감염?…집단면역 이룰까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220402143621</link>
+            <guid>https://zdnet.co.kr/view/?no=20220402143621</guid>
+            <pubDate>Sat, 02 Apr 2022 06:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[이르면 4월 말 또는 5월 초에는 신종 코로나바이러스 감염증(코로나19)에 걸릴 우리나라 국민이 누적 2000만명에 이를 것으로 예상되고 있다. 전 국민 약 40%가 코로나19...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/02/603f0000a6338104737dbd3a60db77ca-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 신규 확진 26만4171명…9세 이하 2명 등 사망 339명]]></title>
             <link>https://zdnet.co.kr/view/?no=20220402100212</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220401002248</guid>
             <pubDate>Fri, 01 Apr 2022 18:14:09 GMT</pubDate>
             <content:encoded><![CDATA[영어에선 '비즈니스맨(businessman)'이나 '대변인(spokeman)' 같이 직업을 부르는 단어에 남자를 뜻하는 'man'이 붙는 경우가 많다. 어떤 직업을 당연히 남성...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/01/8603219dda534c87ec6eac5dc6d83521-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨 던파모바일, 구글 매출 1위 올랐다...대세작 인증]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220401114222</guid>
             <pubDate>Fri, 01 Apr 2022 08:14:48 GMT</pubDate>
             <content:encoded><![CDATA[KT 주가가 연일 상승세를 보이면서 자사주를 매입해둔 구현모 KT 사장과 임원들이 소위 대박이 났다. 특히 구 사장은 1천640주를 매입한 2020년 3월23일보다 주가는 10...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팹리스 '하이딥', 코스닥 간다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220401163914</link>
-            <guid>https://zdnet.co.kr/view/?no=20220401163914</guid>
-            <pubDate>Fri, 01 Apr 2022 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[“하이딥이 확보한 독자적인 기술은 사용자가 편리하도록 끊임없이 연구개발한 결과입니다. 모바일 기기 터치 솔루션에 들어가는 집적회로(IC)부터 센서, 알고리즘과 펜 제조까지 수직...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
