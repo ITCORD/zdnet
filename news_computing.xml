@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 04:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비트코인 90% 채굴…200만개 남았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220403120159</link>
+            <guid>https://zdnet.co.kr/view/?no=20220403120159</guid>
+            <pubDate>Sun, 03 Apr 2022 04:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[1천900만번째 비트코인이 채굴된 것으로 나타났다. 발행 총량이 2천100만개인 점을 감안하면 약 90% 가량의 비트코인이 채굴된 셈이다. 코인텔레그래프, 디크립트 등 블록체인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이주용 KCC정보통신 회장 300억 기부로 건립 종하이노베이션센터 기공식]]></title>
             <link>https://zdnet.co.kr/view/?no=20220402165952</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220401092048</guid>
             <pubDate>Fri, 01 Apr 2022 00:54:02 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 코빗(대표 오세진)은 4월 한 달간 SK텔레콤, 11번가 가입자 대상으로 비트코인(BTC)을 지급하는 행사를 진행한다고 1일 밝혔다. SK텔레콤 T멤버십 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인·이더리움 3%대 하락...지정학적 리스크 탓]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220401085929</link>
-            <guid>https://zdnet.co.kr/view/?no=20220401085929</guid>
-            <pubDate>Fri, 01 Apr 2022 00:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인이 8일 연속 상승을 마감하고 3%대 하락했다. 글로벌 암호화폐 평균 가격 집계 사이트 코인마켓캡에 따르면 비트코인은 1일 오전 9시 기준으로 전날에 비해 약 3% 하락...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
