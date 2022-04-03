@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 23:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 00:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 인텔 GPU '아크' 출시 신경전 "우리가 더 빨라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220403031312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220403031312</guid>
+            <pubDate>Sun, 03 Apr 2022 00:50:19 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 지난 해 출시한 라데온 그래픽칩셋과 최근 시장에 정식 출시된 인텔 아크 그래픽칩셋의 성능 비교 데이터를 공개하며 여론전에 나섰다. AMD 라데온 테크놀로지 그룹은 지난...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[르포] '전자동 커피머신 다 모였네'...서울 커피 엑스포 현장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220401163946</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220330162259</guid>
             <pubDate>Thu, 31 Mar 2022 00:46:26 GMT</pubDate>
             <content:encoded><![CDATA[애플이 이달 보급형 스마트폰 아이폰SE 3세대를 이전 세대 출시 이후 2년만에 내놓았다. 아이폰SE 3세대는 최신 프로세서 A15 바이오닉과 5G 통신을 지원한다는 점이 특징이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "데스크톱PC용 아크 그래픽카드 올 여름 출시"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331002710</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331002710</guid>
-            <pubDate>Wed, 30 Mar 2022 23:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 31일 0시(미국시간 30일 오전 8시)부터 온라인으로 진행된 아크(ARC) 그래픽칩셋 공개 행사를 통해 데스크톱PC용 아크 그래픽카드를 다음 분기에 출시하겠다고 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
