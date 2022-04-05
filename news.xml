@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 14:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해 진 후에도 열일하는 태양전지?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220404095722</link>
+            <guid>https://zdnet.co.kr/view/?no=20220404095722</guid>
+            <pubDate>Tue, 05 Apr 2022 15:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[밤에는 무용지물인 태양광 발전의 한계를 극복할 수 있을까? 미국 스탠포드대학 연구진은 복사 냉각 현상을 이용, 밤에도 에너지를 수확할 수 있는 태양광 발전 기술을 개발했다. 이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/12/10/fc6784c857f20872e4b72ee633de06e2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['최대 주주' 머스크, 트위터 이사로 활동한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220405221147</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220405192425</guid>
             <pubDate>Tue, 05 Apr 2022 11:13:43 GMT</pubDate>
             <content:encoded><![CDATA[에디슨모터스 컨소시엄이 쌍용자동차 인수 재추진에 나선다. 에디슨모터스는 5일 서울회생법원 쌍용차 회생계획안 배제 결정에 반발, 특별항고를 제기했다고 공시했다. 에디슨모터스는 지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/04/27/b52691454806cd9db4fb5721f6970ab8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[퀄컴, 자율주행 업체 '어라이버' 인수 완료]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220405170858</guid>
             <pubDate>Tue, 05 Apr 2022 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[건강기능식품 판매 방송에서 소비자가 제품의 단백질 섭취량을 잘못 인지하도록 한 홈쇼핑 5개 사가 방송통신심의위원회로부터 행정지도 권고를 의결 받았다. 방심위 광고심의소위원회는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국제약품 '세프미녹스주사' 中 일치성평가 통과]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220405175315</link>
-            <guid>https://zdnet.co.kr/view/?no=20220405175315</guid>
-            <pubDate>Tue, 05 Apr 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[국제약품은 '세프미녹스주사'(수출명: Melnox)가 중국 보건 당국(NMPA)으로부터 '일치성평가'를 통과했다고 5일 밝혔다. 일치성 평가란 중국 정부가 의약품 품질향상을 위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
