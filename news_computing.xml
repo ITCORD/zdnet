@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 06:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 07:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히타치 밴타라, 국내 하이엔드 스토리지 8년 연속 선두]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220405154751</link>
+            <guid>https://zdnet.co.kr/view/?no=20220405154751</guid>
+            <pubDate>Tue, 05 Apr 2022 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[효성인포메이션시스템(대표 양정규)은 한국 IDC '2021년 4분기 외장형 스토리지 시스템 시장 조사자료'에서 히타치 밴타라가 2021년 전체 하이엔드 스토리지 시장에서 매출액...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클 마이SQL, ETL 없이 머신러닝 돌린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220405154121</link>
+            <guid>https://zdnet.co.kr/view/?no=20220405154121</guid>
+            <pubDate>Tue, 05 Apr 2022 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[오라클 마이SQL에서 데이터 이동 없이 머신러닝(ML)을 다룰 수 있게 됐다. 현업 시스템과 AI용 시스템에서 두벌의 DB를 운영하는 부담을 없애고, 성능 향상도 기대할 수 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[더존-신한銀, 기업 DX 전환 지원 대출상품 만든다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220405150201</link>
@@ -149,21 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220404152228</guid>
             <pubDate>Mon, 04 Apr 2022 07:12:16 GMT</pubDate>
             <content:encoded><![CDATA[한국마이크로소프트는 오는 6일부터 한 달간 매주 수요일 오후 2시에 온라인 포럼 '마이크로소프트 에브리웨어 2022'를 개최한다고 4일 밝혔다. 팬데믹의 장기화로 비즈니스 환경...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 한국후지쯔]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Tue, 05 Apr 2022 06:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[◇임원승진 ▲범희영 Solution &amp; Service영업본부장 ◇임원전보 ▲방성우 CFO ▲박재형 Public &amp; Enterprise영업본부장 ▲백종도 system Platfo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3000억원 규모 '한전 차세대 ERP' 구축 사업 발주 뜬다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220404144637</link>
-            <guid>https://zdnet.co.kr/view/?no=20220404144637</guid>
-            <pubDate>Mon, 04 Apr 2022 06:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[총 사업 규모가 3천억 원에 이르는 한국전력의 '차세대전력정보 시스템 구축' 사업이 올해 9월 착수를 목표로 추진된다. 올해 발주금액은 119억원 규모 수준이고, 2025년까지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
