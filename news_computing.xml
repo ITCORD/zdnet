@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 08:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 개발자들이 많이 쓰는 '클라우드 빅3' 따로 있었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220405175932</link>
+            <guid>https://zdnet.co.kr/view/?no=20220405175932</guid>
+            <pubDate>Tue, 05 Apr 2022 09:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[국내 개발자들이 업무에 가장 많이 사용하는 상위 3개 클라우드 플랫폼은 아마존웹서비스(AWS), 구글클라우드플랫폼(GCP), 네이버클라우드로 나타났다. 네이버클라우드가 마이크로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[히타치 밴타라, 국내 하이엔드 스토리지 8년 연속 선두]]></title>
             <link>https://zdnet.co.kr/view/?no=20220405154751</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220404153654</guid>
             <pubDate>Mon, 04 Apr 2022 07:12:16 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 사이버보안 업체 포티넷은 글로벌 보안관제 서비스 공급사(MSSP) 5곳이 신규로 관리형 서비스 포트폴리오에 '포티넷 시큐어 SD-WAN'을 추가했다고 4일 밝혔다. 이번...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국MS, 한달간 디지털 혁신 사례 온라인 포럼 연다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220404152228</link>
-            <guid>https://zdnet.co.kr/view/?no=20220404152228</guid>
-            <pubDate>Mon, 04 Apr 2022 07:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국마이크로소프트는 오는 6일부터 한 달간 매주 수요일 오후 2시에 온라인 포럼 '마이크로소프트 에브리웨어 2022'를 개최한다고 4일 밝혔다. 팬데믹의 장기화로 비즈니스 환경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
