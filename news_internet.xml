@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 05:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 06:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 오픈채팅에 '음성 대화' 기능 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220405141218</link>
+            <guid>https://zdnet.co.kr/view/?no=20220405141218</guid>
+            <pubDate>Tue, 05 Apr 2022 06:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 카카오톡 오픈채팅에 음성 대화 기능인 '보이스룸'을 5일 선보였다. 2015년 8월 출시한 오픈채팅은 카카오톡 내에서 모르는 이용자와도 자유롭게 소통할 수 있는 서비스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타버스·NFT 발전 위해 산·학·언 뭉쳤다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220405133653</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220404105715</guid>
             <pubDate>Mon, 04 Apr 2022 02:42:31 GMT</pubDate>
             <content:encoded><![CDATA[당근마켓이 급부상한 개인간거래(C2C) 시장 속 이용자 보호에 대한 균형 있는 정책을 마련하고자. '프라이버시 정책 및 이용자 보호위원회'를 출범했다고 4일 밝혔다. 위원회는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 택시 배차 시스템 원리 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220404095816</link>
-            <guid>https://zdnet.co.kr/view/?no=20220404095816</guid>
-            <pubDate>Mon, 04 Apr 2022 02:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[카카오모빌리티가 4일 택시 인공지능(AI) 배차 시스템의 세부적인 동작 원리를 공개했다. 알고리즘 기술과 플랫폼 투명성에 대한 사회적 요구가 커지고 있는 만큼, 배차 체계를 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
