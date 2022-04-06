@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 04:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어도비 "소비자의 개인화된 '디지털 경험'에 마케팅 초점 맞춰야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220406120635</link>
+            <guid>https://zdnet.co.kr/view/?no=20220406120635</guid>
+            <pubDate>Wed, 06 Apr 2022 05:11:42 GMT</pubDate>
+            <content:encoded><![CDATA["메타버스와 같이 공유되는 몰입형 경험에서는 공유경제도 함께 지원된다. 고객이 이런 환경에서 접하는 마케팅 경험을 전달, 분석하는 새로운 혁신적 방식이 요구되는 시점이다." 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KOSA, 디지털 역량 강화 위해 전 직원 SW코딩교육]]></title>
             <link>https://zdnet.co.kr/view/?no=20220406104342</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220405134650</guid>
             <pubDate>Tue, 05 Apr 2022 06:15:10 GMT</pubDate>
             <content:encoded><![CDATA[에픽게임즈가 스마트폰 사진으로 고품질의 3D 모델을 생성할 수 있는 스마트폰 앱 리얼리티스캔을 출시했다. 해당 앱은 iOS 사용자 대상으로 1만명에게만 선착순으로 배포된다. 미...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드, 국제인공지능대전서 얼굴인식 출입 서비스 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220405130724</link>
-            <guid>https://zdnet.co.kr/view/?no=20220405130724</guid>
-            <pubDate>Tue, 05 Apr 2022 04:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드(공동 대표 백도민·김동훈)는 오는 13일부터 사흘간 서울 코엑스에서 열리는 국제인공지능대전에 참가해, 인공지능(AI) 얼굴인식 기술을 활용한 입장 서비스를 선보인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
