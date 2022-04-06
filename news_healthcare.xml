@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 트렌드로 본 '코로나 블루'는?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220406145642</link>
+            <guid>https://zdnet.co.kr/view/?no=20220406145642</guid>
+            <pubDate>Wed, 06 Apr 2022 06:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[고려대의대 학부생들이 네이버 검색어를 분석해 우리나라 사람들이 코로나19로 인한 우울감을 연구해 눈길을 끈다. 고려대의대를 졸업한 김지은·한주희씨는 고려대의대 예방의학교실 천병...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립암센터, '공예'로 암환자의 사회복귀 돕는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220406105023</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220405151700</guid>
             <pubDate>Tue, 05 Apr 2022 06:17:10 GMT</pubDate>
             <content:encoded><![CDATA[방역당국이 현재 코로나19 유행이 하강 국면에 돌입했지만, 사망 및 중증환자 수가 적지 않고 의료체계 부담이 상존하는 점 등을 들어 현 상황을 신중하게 바라봐야 한다는 입장을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 사망자, 장례 염습 과정에서 감염?…"증거없다”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220405143641</link>
-            <guid>https://zdnet.co.kr/view/?no=20220405143641</guid>
-            <pubDate>Tue, 05 Apr 2022 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[방역당국이 코로나19에 감염된 이후 사망한 이의 장례 중 염습(殮襲) 과정에서 추가 전파 가능성을 일축했다. 염습이란 우리나라의 장례 문화에서 죽은 사람의 몸을 씻기고 옷을 입...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
