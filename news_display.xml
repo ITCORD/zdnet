@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 05:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 06:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이 "OLED.EX, 자연 색 표현 디스플레이"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220407142116</link>
+            <guid>https://zdnet.co.kr/view/?no=20220407142116</guid>
+            <pubDate>Thu, 07 Apr 2022 06:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[LG디스플레이는 7일 유기발광다이오드(OLED) 패널 신제품 'OLED.EX'가 자연 색을 그대로 표현한 디스플레이라고 밝혔다. 이현우 LG디스플레이 라이프디스플레이그룹장(전무...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[씨게이트-파이슨, 기업용 SSD 위한 파트너십 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20220407104838</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220330150754</guid>
             <pubDate>Wed, 30 Mar 2022 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA['삼성 OLED'가 사용자 눈 건강까지 생각하는 '아이 프렌들리(Eye Friendly)' 디스플레이로 인정 받았다. 삼성디스플레이(대표 최주선)는 최신 IT용 OLED가 글로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 웨스턴디지털과 차세대 스토리지 기술 표준 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220330134526</link>
-            <guid>https://zdnet.co.kr/view/?no=20220330134526</guid>
-            <pubDate>Wed, 30 Mar 2022 05:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 미국의 웨스턴디지털과 '존 스토리지' 기술 협력을 위한 양해각서(MOU)를 체결했다. '존 스토리지'는 데이터센터나 엔터프라이즈의 대용량 스토리지를 보다 효율적으로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
