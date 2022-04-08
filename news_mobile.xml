@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 06:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 07:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ZD리뷰] 그래픽 성능 2배 향상...인텔 '아크' 첫 탑재 갤럭시북2]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220408140709</link>
+            <guid>https://zdnet.co.kr/view/?no=20220408140709</guid>
+            <pubDate>Fri, 08 Apr 2022 07:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난 1일 국내 정식 출시된 갤럭시북2 프로 15.6형은 인텔 12세대 코어 프로세서(엘더레이크)와 인텔 아크 A350M 그래픽칩셋을 탑재한 초경량 노트북이다. 디스플레이는 풀...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성·오포도 애플처럼 자체 AP 만들까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220408145636</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407103204</guid>
             <pubDate>Thu, 07 Apr 2022 02:25:39 GMT</pubDate>
             <content:encoded><![CDATA[캐논코리아가 7일 AI 자동 촬영 기능을 갖춘 카메라 '파워샷 픽'을 출시했다. 이 제품은 1/2.3인치, 1천170만 화소 CMOS 센서를 탑재했고 인물의 표정과 구도를 파악...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 명동, 9일 10시 개장...예약 후 방문 가능]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407101324</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407101324</guid>
-            <pubDate>Thu, 07 Apr 2022 02:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[애플 국내 세 번째 직영 매장, 애플 명동이 오는 9일 10시부터 영업을 시작한다. 애플 명동은 서울 중구 센터포인트 빌딩 1·2층에 입주했고 지금까지 개장한 국내 애플 직영 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
