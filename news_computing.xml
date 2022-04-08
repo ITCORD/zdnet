@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보스, 세일즈포스 '커스터머360' 도입...고객경험 향상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220408145946</link>
+            <guid>https://zdnet.co.kr/view/?no=20220408145946</guid>
+            <pubDate>Fri, 08 Apr 2022 06:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[세일즈포스는 음향 기기 전문기업 보스(Bose)가 세일즈포스의 커스터머 360(Customer 360) 도입을 기반으로 세일즈, 마케팅, 서비스, 커머스 영역에서 고객경험을 혁...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[케이사인, 블록체인 구축 솔루션 '위즈체인' 조달 등록]]></title>
             <link>https://zdnet.co.kr/view/?no=20220408111038</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407161413</guid>
             <pubDate>Thu, 07 Apr 2022 08:19:18 GMT</pubDate>
             <content:encoded><![CDATA[전례 없는 글로벌 팬데믹은 기업들이 클라우드로의 전환을 가속화하는 데 예상치 못한 촉매제가 되었다. 이러한 클라우드 채택 열풍은 직접 쇼핑몰이나 은행을 방문하지 못하는 소비자들...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신한은행, 법인 대상 가상자산 거래용 원화 계좌 발급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407135338</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407135338</guid>
-            <pubDate>Thu, 07 Apr 2022 08:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[신한은행이 법인 대상 가상자산(암호화폐) 거래용 원화 계좌를 발급했다. 지난해 9월 가상자산 관련 규정을 담은 개정 특정금융정보법 시행 이후, 국내 은행이 법인에 계좌를 발급한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
