@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 00:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 02:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마그나, 美 사우스 캐롤라이나에 신규 공장 설립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220408110307</link>
+            <guid>https://zdnet.co.kr/view/?no=20220408110307</guid>
+            <pubDate>Fri, 08 Apr 2022 02:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 자동차 부품업체인 마그나가 사우스 캐롤라이나 주의 던컨(Duncan) 지역에 신규 공장을 오픈했다. 이번 공장은 사우스 캐롤라이나의 6번째 마그나 공장이다. 오픈 기념식...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[도로교통공단, 법무보호대상자 운전면허 취득 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220407185224</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220404091552</guid>
             <pubDate>Mon, 04 Apr 2022 00:48:46 GMT</pubDate>
             <content:encoded><![CDATA[기아는 4일 커넥티드카 기반 안전운전 구매 프로그램 '세이프티 리워드'를 출시한다고 밝혔다. 세이프티 리워드는 기아 전용 리스·렌트 상품 '케이-설루션' 이용자가 커넥티드카 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 상하이 공장 재가동 지연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220404081938</link>
-            <guid>https://zdnet.co.kr/view/?no=20220404081938</guid>
-            <pubDate>Mon, 04 Apr 2022 00:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 상하이 공장 재개 일정을 연기하기로 했다. 더버지, 블룸버그통신 등 복수 외신은 테슬라 상하이 공장이 당초 4일(현지시간) 재가동 할 예정이었지만, 하루 더 지연됐다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
