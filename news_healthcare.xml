@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 00:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 02:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 18만5566명…사망자 338명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220409095203</link>
+            <guid>https://zdnet.co.kr/view/?no=20220409095203</guid>
+            <pubDate>Sat, 09 Apr 2022 02:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[9일 0시 기준 국내 발생 신규 확진자는 18만5천526명·해외유입 사례 40명 등 신규 확진자는 총 18만5천566명으로 집계됐다. 신규 사망자 수는 338명이다. 국내 발생...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국사회보장정보원, 강원도 산불피해 복구 위해 1000만원 쾌척]]></title>
             <link>https://zdnet.co.kr/view/?no=20220408164331</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407112833</guid>
             <pubDate>Thu, 07 Apr 2022 03:26:24 GMT</pubDate>
             <content:encoded><![CDATA[방역당국이 5세~11세의 소아에 대한 코로나19 기초접종을 진행 중이다. 접종대상은 2017년생 중 생일이 지난 소아부터 2010년생 중 생일이 지나지 않은 소아까지다. 이들은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[화이자 백신 206만4천회분, 7일 국내 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407110832</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407110832</guid>
-            <pubDate>Thu, 07 Apr 2022 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[화이자 백신 206만4천 회분이 7일 오후 4시35분 대한항곡 KE510편으로 인천국제공항에 도입된다. 이번에 도입되는 화이자 백신은 제조사와 개별 계약한 분량이다. 7일 기준...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
