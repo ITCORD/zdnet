@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 명동 9일 정식 오픈...소비자 '북적북적']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220409130206</link>
+            <guid>https://zdnet.co.kr/view/?no=20220409130206</guid>
+            <pubDate>Sat, 09 Apr 2022 04:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[국내 애플 세 번째 직영 매장인 애플 명동이 9일 오전 10시부터 영업을 시작했다. 애플 명동은 센터포인트 명동 건물 지상 1·2층, 지하 1층 등 총 3개 층을 쓰는 국내 최...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[ZD리뷰] 그래픽 성능 2배 향상...인텔 '아크' 첫 탑재 갤럭시북2]]></title>
             <link>https://zdnet.co.kr/view/?no=20220408140709</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407110056</guid>
             <pubDate>Thu, 07 Apr 2022 02:25:39 GMT</pubDate>
             <content:encoded><![CDATA[델테크놀로지스가 7일 올해 출시할 기업용 PC와 모니터 등 신제품 라인업을 공개했다. 래티튜드 7330 울트라라이트는 13.3인치 디스플레이와 인텔 12세대 코어 프로세서를 탑...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐논코리아, 와디즈 통해 '파워샷 픽' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407103204</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407103204</guid>
-            <pubDate>Thu, 07 Apr 2022 02:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[캐논코리아가 7일 AI 자동 촬영 기능을 갖춘 카메라 '파워샷 픽'을 출시했다. 이 제품은 1/2.3인치, 1천170만 화소 CMOS 센서를 탑재했고 인물의 표정과 구도를 파악...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

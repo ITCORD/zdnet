@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 명동 9일 정식 오픈...소비자 '북적북적']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220409130206</link>
+            <guid>https://zdnet.co.kr/view/?no=20220409130206</guid>
+            <pubDate>Sat, 09 Apr 2022 04:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[국내 애플 세 번째 직영 매장인 애플 명동이 9일 오전 10시부터 영업을 시작했다. 애플 명동은 센터포인트 명동 건물 지상 1·2층, 지하 1층 등 총 3개 층을 쓰는 국내 최...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/09/0464347acb574f98fee31ab045d0e436-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라인게임즈 엑소스히어로즈, 새 캐릭터 의상 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220409100505</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220409095203</guid>
             <pubDate>Sat, 09 Apr 2022 02:19:35 GMT</pubDate>
             <content:encoded><![CDATA[9일 0시 기준 국내 발생 신규 확진자는 18만5천526명·해외유입 사례 40명 등 신규 확진자는 총 18만5천566명으로 집계됐다. 신규 사망자 수는 338명이다. 국내 발생...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/09/295f6e32a5d1e72bb16c84aa38d3f8de-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테슬라 "전기픽업 사이버트럭, 내년부터 판매"]]></title>
@@ -123,7 +131,7 @@
             <title><![CDATA[[인사] ㈜두산 임원 인사]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Sat, 09 Apr 2022 03:20:03 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2022 04:13:25 GMT</pubDate>
             <content:encoded><![CDATA[◇상무 승진 ▲㈜두산 송석기(유통BU장)...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220408164421</guid>
             <pubDate>Fri, 08 Apr 2022 08:13:28 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 출입명부 의무화가 중단된 지 한달 반 이상이 지났지만, 수기 출입명부 폐기 여부에 대한 관리가 꼼꼼하게 이뤄지지 않아 개인정보 유출 사고에 대한 우려를 높이고 있다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울디지털재단, '스마트 시티 인덱스 2022 심포지엄' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220408162433</link>
-            <guid>https://zdnet.co.kr/view/?no=20220408162433</guid>
-            <pubDate>Fri, 08 Apr 2022 08:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[서울디지털재단이 8일 오전 서울 프레지던트 호텔에서 '스마트 시티 인덱스2022 심포지엄'을 개최했다. 이번 심포지엄에서 세계 31개 도시의 디지털 경쟁력을 종합 분석한 스마트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
