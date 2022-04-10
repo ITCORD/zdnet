@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스프링 프레임워크 취약점 악용한 봇넷 무기화 확인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220410142002</link>
+            <guid>https://zdnet.co.kr/view/?no=20220410142002</guid>
+            <pubDate>Sun, 10 Apr 2022 06:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[해커들이 최근 발견된 스프링프레임워크 내 원격코드실행(RCE) 취약점인 '스프링4셸'을 악용해, 봇넷 악성코드를 배포하고 감염시킨 것으로 확인됐다. 글로벌 사이버보안업체 트렌드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보 보호·활용 스타트업 키운다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220408200220</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407181215</guid>
             <pubDate>Thu, 07 Apr 2022 10:12:19 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 부산광역시, 한국인터넷진흥원(KISA), 부산테크노파크와 함께 연내 부산시에 가명정보 활용 지원센터 구축·운영을 위한 업무협약을 체결했다고 7일 밝혔다. 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 22년도 ISMS-P 인증심사원 자격검정 시행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407180216</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407180216</guid>
-            <pubDate>Thu, 07 Apr 2022 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 오는 18일 2022년도 '정보보호 및 개인정보보호 관리체계(ISMS-P)' 신규 인증심사원 자격검정의 서류전형 접수를 시작한다고 7일 밝혔다. I...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
