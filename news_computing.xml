@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인젠트, 오픈소스 DBMS 전환효과 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220411133615</link>
+            <guid>https://zdnet.co.kr/view/?no=20220411133615</guid>
+            <pubDate>Mon, 11 Apr 2022 05:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[인젠트(대표 남석우)가 '성능은 물론 비용까지 챙기는 현명한 오픈소스 DBMS의 선택'이라는 주제로 '인젠트 엑스퍼DB데이' 웨비나를 개최한다. 오는 14일 열리는 이번 웨비나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈-부산시교육청, 디지털 공교육 혁신 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20220411092512</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220408103304</guid>
             <pubDate>Fri, 08 Apr 2022 02:39:33 GMT</pubDate>
             <content:encoded><![CDATA[코오롱베니트(대표 이진용)가 디지털 트윈 및 메타버스를 주제로 '2022 IF(Into the Future) 사내벤처 아이디어 공모전'을 개최한다고 8일 밝혔다. 코오롱베니트 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어, 연례 컨퍼런스 'VM웨어 익스플로어'로 개편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220408103059</link>
-            <guid>https://zdnet.co.kr/view/?no=20220408103059</guid>
-            <pubDate>Fri, 08 Apr 2022 02:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[VM웨어는 자사의 연례 컨퍼런스 VM월드를 'VM웨어 익스플로어'로 변경하고, 올해 대면 행사로 개최한다고 8일 밝혔다. VM웨어 익스플로어는 기존의 VM월드보다 더 많은 기술...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
