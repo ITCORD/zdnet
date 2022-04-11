@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 00:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 02:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기, 150도 견디는 자동차용 MLCC 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220411111206</link>
+            <guid>https://zdnet.co.kr/view/?no=20220411111206</guid>
+            <pubDate>Mon, 11 Apr 2022 02:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기는 11일 사용 환경 150도를 보증하는 전기장치용 적층세라믹캐패시터(MLCC) 13가지를 개발했다고 밝혔다. MLCC는 전자제품 회로에 전류가 안정적으로 흐르도록 제어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 중소기업에 무상 기술 개방]]></title>
             <link>https://zdnet.co.kr/view/?no=20220408180245</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220331162752</guid>
             <pubDate>Thu, 31 Mar 2022 08:14:52 GMT</pubDate>
             <content:encoded><![CDATA[이엔에프테크놀로지 대표이사가 3명으로 늘었다. 이엔에프테크놀로지는 31일 경기 용인시 본사에서 제22기 정기 주주총회를 개최했다. 지용석 회장을 사내이사로 재선임했다. 박기수 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성전자, DDR3 D램 주문 올해까지 받는다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220331125855</link>
-            <guid>https://zdnet.co.kr/view/?no=20220331125855</guid>
-            <pubDate>Thu, 31 Mar 2022 05:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 고객사에게 DDR3 D램 주문을 올해까지 받는다고 공지한 것으로 알려졌다. 최근 DDR5 D램으로 세대 교체가 빠르게 진행되고 있는 가운데, 수익성이 더 높은 DDR...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
