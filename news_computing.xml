@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["쿠버네티스 도입 기업, 33%만 랜섬웨어 대비"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220411171714</link>
+            <guid>https://zdnet.co.kr/view/?no=20220411171714</guid>
+            <pubDate>Mon, 11 Apr 2022 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[인기 컨테이더 오케스트레이션인 쿠버네티스를 도입한 기업 중 3분의 1만이 랜섬웨어 같은 데이터 손실 위협에 대비하고 있는 것으로 나타났다. 멀티 클라우드 데이터 관리 솔루션 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[투라인코드, 클라우드 네이티브 서비스 구현 플랫폼 '냅' 론칭]]></title>
             <link>https://zdnet.co.kr/view/?no=20220411170114</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220410142002</guid>
             <pubDate>Sun, 10 Apr 2022 06:14:07 GMT</pubDate>
             <content:encoded><![CDATA[해커들이 최근 발견된 스프링프레임워크 내 원격코드실행(RCE) 취약점인 '스프링4셸'을 악용해, 봇넷 악성코드를 배포하고 감염시킨 것으로 확인됐다. 글로벌 사이버보안업체 트렌드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 보호·활용 스타트업 키운다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220408200220</link>
-            <guid>https://zdnet.co.kr/view/?no=20220408200220</guid>
-            <pubDate>Sun, 10 Apr 2022 03:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회와 한국인터넷진흥원(KISA)은 '제2회 개인정보 보호활용 기술개발 스타트업 챌린지'를 개최한다고 10일 밝혔다. 스타트업 챌린지는 개인정보에 관한 우수기술을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
