@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 11:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 12:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지역개발원, 정보통신기반시설 정보보호 안내서 발간]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220411201257</link>
+            <guid>https://zdnet.co.kr/view/?no=20220411201257</guid>
+            <pubDate>Mon, 11 Apr 2022 12:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[한국지역정보개발원(KLID, 원장 이재영)은 '2022년도 주요정보통신기반시설 정보보호 업무안내서' 책자를 발간, 행정안전부와 지자체 및 지자체 소관 101개 주요정보통신기반시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["쿠버네티스 도입 기업, 33%만 랜섬웨어 대비"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220411171714</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220411084055</guid>
             <pubDate>Mon, 11 Apr 2022 00:49:17 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스는 한국정보인증과 함께 제1금융권에 양자암호 기술을 적용한 일회용 비밀번호 생성기(OTP)를 구축했다고 11일 밝혔다. 이번 솔루션 구축으로 해당 금융권 임직원은 내부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스프링 프레임워크 취약점 악용한 봇넷 무기화 확인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220410142002</link>
-            <guid>https://zdnet.co.kr/view/?no=20220410142002</guid>
-            <pubDate>Sun, 10 Apr 2022 06:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[해커들이 최근 발견된 스프링프레임워크 내 원격코드실행(RCE) 취약점인 '스프링4셸'을 악용해, 봇넷 악성코드를 배포하고 감염시킨 것으로 확인됐다. 글로벌 사이버보안업체 트렌드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
