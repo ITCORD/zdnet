@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래와 소프트웨어, 재외 학생 300명 대상 SW교육 캠프 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220412140215</link>
+            <guid>https://zdnet.co.kr/view/?no=20220412140215</guid>
+            <pubDate>Tue, 12 Apr 2022 05:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[재단법인 미래와 소프트웨어(이주용 이사장)가 주최하고 이티에듀가 주관한 제 5회 '미래와 소프트웨어와 함께하는 꿈찾기 캠프'가 다음달 열린다. 5회째를 맞는 이번 캠프는 재외 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 마이데이터 표준화 사업 착수..."전 분야 확산 기반 다진다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412112244</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220411170114</guid>
             <pubDate>Mon, 11 Apr 2022 08:14:35 GMT</pubDate>
             <content:encoded><![CDATA[투라인코드(대표 현승엽)가 클라우드 네이티브 서비스를 구현 할 수 있는 플랫폼 '냅(napp)'을 론칭한다고 11일 밝혔다. 투라인코드는 아마존웹서비스(AWS), 구글(Goog...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔코아, 데이터 관리 플랫폼 '데이터웨어' 구독 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220411165448</link>
-            <guid>https://zdnet.co.kr/view/?no=20220411165448</guid>
-            <pubDate>Mon, 11 Apr 2022 08:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[엔코아(대표 이화식)가 데이터 통합관리 플랫폼 데이터웨어를 구독형으로 제공하는 '데이터웨어 서브스크립션 멤버십 서비스'를 선보인다고 11일 밝혔다. 데이터웨어 서브스크립션 멤버...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

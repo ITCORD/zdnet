@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 자체 게임 컨트롤러 만들까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220412131339</link>
+            <guid>https://zdnet.co.kr/view/?no=20220412131339</guid>
+            <pubDate>Tue, 12 Apr 2022 05:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[게임 투자를 확대하고 있는 애플이 게임 컨트롤러를 내놓을 수 있을 것으로 보인다. 특허 전문매체 페이턴틀리 애플은 최근 애플이 미국 특허청과 유럽 특허청에 게임 컨트롤러 특허를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미디어텍, 6나노 공정 중저가형 AP '디멘시티1300' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412104152</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220411092500</guid>
             <pubDate>Mon, 11 Apr 2022 02:46:18 GMT</pubDate>
             <content:encoded><![CDATA[전자랜드가 공식 온라인몰인 전자랜드쇼핑몰에서 어린이날을 맞아 플레이스테이션 등 인기 게임기 프로모션 '메이 비 해피(May Be Happy)'를 다음달 11일까지 진행한다. 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['전자파' 가장 많이 나오는 스마트폰은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220411092839</link>
-            <guid>https://zdnet.co.kr/view/?no=20220411092839</guid>
-            <pubDate>Mon, 11 Apr 2022 00:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰 단말기 하단에서 나오는 무선주파수(이하 RF) 방사선, 일명 전자파가 많이 나오는 스마트폰 명단이 공개됐다고 IT매체 안드로이드폴리스가 뱅크리스타임즈 자료를 인용해 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
