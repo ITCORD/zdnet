@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더존비즈온, 아마란스10에 회상회의 서비스 연동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220413075615</link>
+            <guid>https://zdnet.co.kr/view/?no=20220413075615</guid>
+            <pubDate>Tue, 12 Apr 2022 23:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[더존비즈온(대표 김용우)은 올인원 비즈니스 플랫폼 아마란스10에 고품질 화상회의 서비스를 오픈했다고 13일 밝혔다. 이번 화상회의 서비스 추가는 SK텔레콤 솔루션 미더스와 연동...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/13/b92e8ddfd34fba93a98ecb8f1cb1f38c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울디지털재단·마포농수산물시장, 전통시장 활성화  '맞손']]></title>
             <link>https://zdnet.co.kr/view/?no=20220412164455</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220412174419</guid>
             <pubDate>Tue, 12 Apr 2022 20:12:00 GMT</pubDate>
             <content:encoded><![CDATA[만성폐쇄성폐질환(COPD) 환자라면 적정 체중 이하로 살이 빠지지 않도록 주의해야 한다는 연구결과가 나왔다. 체중이 줄어들면 병이 악화할 위험이 상대적으로 커지기 때문이다. 삼...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/12/91c14d94dd7bc427f06237b678d5bd74-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["월트 디즈니는 원자력 발전 좋아했다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220412164302</guid>
             <pubDate>Tue, 12 Apr 2022 08:14:20 GMT</pubDate>
             <content:encoded><![CDATA[BMW 모터사이클 부문 BMW 모토라드는 12일 공식 인증 중고 모터사이클 서비스 'BMW 모토라드 프리미엄 셀렉션(BMPS)'을 시작한다고 밝혔다. BMPS는 출고 후 2년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리은행, 14일부터 전세대출 금리 인하]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220412140658</link>
-            <guid>https://zdnet.co.kr/view/?no=20220412140658</guid>
-            <pubDate>Tue, 12 Apr 2022 08:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[우리은행이 오는 14일부터 전세 자금 대출 금리를 인하한다. 12일 우리은행은 우리전세론 및 비대면 전세 자금 대출의 '신규 코픽스 6개월 기준금리' 선택 시 0.2%p의 금리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

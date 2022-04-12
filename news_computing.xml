@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더존비즈온, 아마란스10에 회상회의 서비스 연동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220413075615</link>
+            <guid>https://zdnet.co.kr/view/?no=20220413075615</guid>
+            <pubDate>Tue, 12 Apr 2022 23:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[더존비즈온(대표 김용우)은 올인원 비즈니스 플랫폼 아마란스10에 고품질 화상회의 서비스를 오픈했다고 13일 밝혔다. 이번 화상회의 서비스 추가는 SK텔레콤 솔루션 미더스와 연동...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['업비트 NFT' 최초 구매 시 이더리움 준다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412153621</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220412085444</guid>
             <pubDate>Tue, 12 Apr 2022 00:46:13 GMT</pubDate>
             <content:encoded><![CDATA[카카오의 블록체인 기술 계열사 그라운드X(대표 양주일)는 고객 편의성 향상을 위해 디지털 아트·대체불가토큰(NFT) 유통 서비스 '클립 드롭스'에 카드결제 기능을 도입한다고 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델리오, NFT 마켓 '블루베이' 개시…"콘텐츠 차별화 추구"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220412084049</link>
-            <guid>https://zdnet.co.kr/view/?no=20220412084049</guid>
-            <pubDate>Tue, 12 Apr 2022 00:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 핀테크 기업 델리오(대표 정상호)는 대체불가토큰(NFT) 마켓플레이스 '블루베이' 공식 홈페이지를 열었다고 11일 밝혔다. 델리오는 블루베이에서 차별화된 서비스를 제공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
