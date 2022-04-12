@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 03:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:29:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW, 온라인서 'M240i' 판매…6920만원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220412114123</link>
+            <guid>https://zdnet.co.kr/view/?no=20220412114123</guid>
+            <pubDate>Tue, 12 Apr 2022 04:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[BMW코리아가 20일 오후 3시 BMW샵온라인을 통해 M240i x드라이브 쿠페 퍼스트 에디션 등 4월 온라인 한정판 두 종을 출시한다. 4월 온라인 한정판을 통해 국내 처음 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰만 있으면 문 열려…제네시스, 디지털키2 서비스]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412095724</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407132919</guid>
             <pubDate>Thu, 07 Apr 2022 05:13:08 GMT</pubDate>
             <content:encoded><![CDATA[대통령직인수위원회 안철수 위원장과 인수위원들은 8일 오후 3시 화성 현대기아차 기술연구소를 방문한다. 인수위 경제1분과에서는 최상목 인수위원, 김소영 인수위원, 경제2분과에서는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 니오 "전기차 배터리 교체충전소 함께 쓰자"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407095048</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407095048</guid>
-            <pubDate>Thu, 07 Apr 2022 02:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[중국 전기차 기업 니오가 다른 경쟁 자동차 기업과 배터리 교체 기술 공유를 타진하고 있다. 배터리 교체식 충전소 건설 비용 부담을 덜면서 교체 기술 확산을 꾀하기 위함이다. 6...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
