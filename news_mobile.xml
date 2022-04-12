@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, 35W 듀얼 USB-C 충전기 개발 중"…제품 사진 유출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220412140724</link>
+            <guid>https://zdnet.co.kr/view/?no=20220412140724</guid>
+            <pubDate>Tue, 12 Apr 2022 06:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 개발 중인 35W 듀얼 USB-C 충전기 사진이 유출됐다. IT매체 맥루머스는 11일(현지시간) 스마트폰 충전 전문 블로그 차지랩(ChargerLAB)을 인용해 애플의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 자체 게임 컨트롤러 만들까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412131339</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220411090154</guid>
             <pubDate>Mon, 11 Apr 2022 02:46:18 GMT</pubDate>
             <content:encoded><![CDATA[LG전자의 차세대 올레드(OLED) TV 'LG 올레드 에보'가 해외 유력 매체들로부터 연이어 호평을 받았다. 영국 AV 전문매체 왓하이파이는 LG 올레드 에보 갤러리에디션(모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전자랜드쇼핑몰, 어린이날 맞이 인기 게임기 프로모션]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220411092500</link>
-            <guid>https://zdnet.co.kr/view/?no=20220411092500</guid>
-            <pubDate>Mon, 11 Apr 2022 02:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[전자랜드가 공식 온라인몰인 전자랜드쇼핑몰에서 어린이날을 맞아 플레이스테이션 등 인기 게임기 프로모션 '메이 비 해피(May Be Happy)'를 다음달 11일까지 진행한다. 전...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
