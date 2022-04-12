@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 초보자 위한 AI 개념 소개 국문 웹사이트 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220412153942</link>
+            <guid>https://zdnet.co.kr/view/?no=20220412153942</guid>
+            <pubDate>Tue, 12 Apr 2022 07:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 누구나 쉽게 인공지능에 대해 이해할 수 있도록 돕는 'AI의 모든 것: A에서 Z까지(A to Z of AI)' 웹사이트를 선보였다고 12일 밝혔다. AI의 모든 것: ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윌로그, '2022 월드 IT쇼' 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412133620</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[방심위, 보궐위원에 허연회 전 부산MBC 사장 위촉]]></title>
+            <title><![CDATA[방심위 보궐위원에 허연회 전 부산MBC 사장 위촉]]></title>
             <link>https://zdnet.co.kr/view/?no=20220412143045</link>
             <guid>https://zdnet.co.kr/view/?no=20220412143045</guid>
             <pubDate>Tue, 12 Apr 2022 06:15:37 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220411142336</guid>
             <pubDate>Mon, 11 Apr 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[네이버 제2사옥이 스마트도시협회로부터 로봇 친화형 건축물 인증을 받았다. 이번 인증은 스마트도시건축학회, 대한국토도시계획학회에 이어, 국회 세미나를 통해 공론화된 인증 지표를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중소 배달대행사 합작법인 출범…"전국 배달 공유망 구축"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220411135919</link>
-            <guid>https://zdnet.co.kr/view/?no=20220411135919</guid>
-            <pubDate>Mon, 11 Apr 2022 05:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[배달대행사 7곳이 합작법인 한국배달대행연합을 설립했다고 11일 밝혔다. 참여사는 예스런, 배달의전설, 슈퍼히어로, 런투유, 딜리온, 순간이동, 푸드딜리버리코리아다. 배달대행 산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
