@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 VR 패널 출하량 1580만대...메타가 80% 차지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220413160946</link>
+            <guid>https://zdnet.co.kr/view/?no=20220413160946</guid>
+            <pubDate>Wed, 13 Apr 2022 08:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 가상현실(VR) 헤드셋 시장이 급성장할 전망이다. 그 중 메타가 전체 VR 패널 사용량의 80%를 차지하며 성장을 이끌고, 소니는 OLED 패널 사용으로 전환할 것으로 보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 매년 새 공정 적용 선언...'틱톡' 사이클 되돌리나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220413152206</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407104838</guid>
             <pubDate>Thu, 07 Apr 2022 02:26:29 GMT</pubDate>
             <content:encoded><![CDATA[씨게이트와 파이슨은 7일 장기 파트너십을 맺고 기업용 고성능·고밀도 NVMe SSD 개발을 위해 협력한다고 밝혔다. 파이슨은 낸드 플래시 컨트롤러 전문 업체로 다양한 SSD 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[백악관, 중국 의식…"반도체 부족해 미국 경제 위험"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407102112</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407102112</guid>
-            <pubDate>Thu, 07 Apr 2022 02:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[미국 백악관이 반도체가 부족하면 미국 경제가 심각해진다고 밝혔다. 중국을 의식한 발언이다. 영국 로이터통신은 6일(현지시간) 백악관이 기밀 브리핑을 열고 의회에 반도체 생산 보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열화상 카메라에 영상 저장한 롯데호텔 등에 과태료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220413163359</link>
+            <guid>https://zdnet.co.kr/view/?no=20220413163359</guid>
+            <pubDate>Wed, 13 Apr 2022 08:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[동의 없이 열화상 카메라에 촬영된 영상을 저장한 롯데호텔과 아세아제지에 과태료 처분이 내려졌다. 개인정보보호위원회는 13일 정부서울청사에서 제6회 전체회의를 개최하고 2개 사업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세종대, 대학 최초로 SW코딩역량 평가 시험]]></title>
             <link>https://zdnet.co.kr/view/?no=20220413155121</link>
@@ -136,7 +144,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[더존비즈온, 아마란스10에 회상회의 서비스 연동]]></title>
+            <title><![CDATA[더존비즈온, 아마란스10에 화상회의 서비스 연동]]></title>
             <link>https://zdnet.co.kr/view/?no=20220413075615</link>
             <guid>https://zdnet.co.kr/view/?no=20220413075615</guid>
             <pubDate>Tue, 12 Apr 2022 23:11:55 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220412143136</guid>
             <pubDate>Tue, 12 Apr 2022 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 지난해 창립 이래 역대 최대 매출을 달성했다고 11일 밝혔다. 인스웨이브시스템즈의 지난 2021년 매출액 315억, 당기순이익 51억원을 달성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 범정부 공공데이터 활용 창업경진대회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220412142830</link>
-            <guid>https://zdnet.co.kr/view/?no=20220412142830</guid>
-            <pubDate>Tue, 12 Apr 2022 06:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 중앙부처, 지자체, 공공기관 등 36개 기관이 참여하는 '제10회 범정부 공공데이터 활용 창업경진대회'를 진행한다고 12일 밝혔다. 이번 창업경진대회는 대회개최 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
