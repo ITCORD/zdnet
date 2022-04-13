@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알약, 1분기 랜섬웨어 공격 약 18만 건 차단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220413145345</link>
+            <guid>https://zdnet.co.kr/view/?no=20220413145345</guid>
+            <pubDate>Wed, 13 Apr 2022 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[정보보안 전문 업체 이스트시큐리티(대표 정진일)는 자사 백신 프로그램 알약에 탑재된 '랜섬웨어 행위기반 사전 차단'기능을 통해, 올해 1분기 총 17만7천732건의 랜섬웨어 공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NHN클라우드, 국제인공지능대전서  AI 체험존 선보여]]></title>
             <link>https://zdnet.co.kr/view/?no=20220413133355</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220412112308</guid>
             <pubDate>Tue, 12 Apr 2022 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA["재닛 옐런 미국 재무장관이 최근 암호화폐 관련 연설에서 '책임 있는 혁신'을 지원하도록 규제 프레임워크가 설계돼야 한다고 했다. 우리나라는 이런 준비가 돼 있는지 따져보면, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미래와 소프트웨어, 재외 학생 300명 대상 SW교육 캠프 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220412140215</link>
-            <guid>https://zdnet.co.kr/view/?no=20220412140215</guid>
-            <pubDate>Tue, 12 Apr 2022 05:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[재단법인 미래와 소프트웨어(이주용 이사장)가 주최하고 이티에듀가 주관한 제 5회 '미래와 소프트웨어와 함께하는 꿈찾기 캠프'가 다음달 열린다. 5회째를 맞는 이번 캠프는 재외 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
