@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브릿지, '가상자산' 시황 확인 모바일웹 개시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220414165523</link>
+            <guid>https://zdnet.co.kr/view/?no=20220414165523</guid>
+            <pubDate>Thu, 14 Apr 2022 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[가상자산 핀테크 기업 웨이브릿지는 가상자산 시장의 흐름과 주요 지수를 확인할 수 있는 '웨이브릿지 인덱스' 모바일 페이지를 개시했다고 14일 밝혔다. 웨이브릿지 인덱스는 국내 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[5월 상장 SK쉴더스, 보안 대장株 예약...예상 시총 3.5조]]></title>
             <link>https://zdnet.co.kr/view/?no=20220414161351</link>
@@ -48,7 +56,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["티멕스티베로, 통합 DBMS 관리 기업으로 도약"]]></title>
+            <title><![CDATA["티맥스티베로, 통합 DBMS 관리 기업으로 도약"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220414110856</link>
             <guid>https://zdnet.co.kr/view/?no=20220414110856</guid>
             <pubDate>Thu, 14 Apr 2022 04:13:24 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220413220726</guid>
             <pubDate>Wed, 13 Apr 2022 13:24:30 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 기술 기업 헥슬란트는 디지털 자산 재테크 서비스 '헤이비트'와 기술 지원 협약을 맺고 멀티시그 지갑 시스템 '옥텟'을 지원한다고 밝혔다. 옥텟은 정보보호관리체계(ISM...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라인, 일본서 'NFT 마켓플레이스' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220413213823</link>
-            <guid>https://zdnet.co.kr/view/?no=20220413213823</guid>
-            <pubDate>Wed, 13 Apr 2022 13:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[라인 주식회사의 암호화폐 및 블록체인 사업 자회사 LVC 주식회사(대표 임인규)는 대체불가토큰(NFT) 마켓플레이스 '라인 NFT'를 13일 일본에서 공식 출시했다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
