@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스파이스웨어, CSAP 인증 획득...공공 클라우드 시장 진입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220414180620</link>
+            <guid>https://zdnet.co.kr/view/?no=20220414180620</guid>
+            <pubDate>Thu, 14 Apr 2022 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[스파이스웨어는 개인정보 보호 서비스 '스파이스웨어 원'과 개인정보 비식별 처리 서비스 '스파이스웨어 PII ANP'가 클라우드 서비스 보안인증(CSAP)을 획득했다고 14일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹케시, 횡령사고 막는 브랜치 4.0으로 재도약 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220414175602</link>
+            <guid>https://zdnet.co.kr/view/?no=20220414175602</guid>
+            <pubDate>Thu, 14 Apr 2022 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[웹케시가 경리나라에 이어 브랜치 4.0으로 재도약에 나선다. 최근 급증하는 횡령 사고를 막기 위해 자금관리 솔루션 '브랜치 4.0'에 대한 기업들의 문의가 늘고 있기 때문이다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웨이브릿지, '가상자산' 시황 확인 모바일웹 개시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220414165523</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220414112032</guid>
             <pubDate>Thu, 14 Apr 2022 02:43:28 GMT</pubDate>
             <content:encoded><![CDATA[애자일소다(대표 최대우)가 기업용 ML옵스 플랫폼 '스파클링소다(SparklingSoDA) v4.0'을 출시했다고 14일 밝혔다. 스파클링소다는 2016년 첫 출시 이후 현재까...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위키피디아 커뮤니티 "암호화폐 기부 받지 마라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220414103326</link>
-            <guid>https://zdnet.co.kr/view/?no=20220414103326</guid>
-            <pubDate>Thu, 14 Apr 2022 02:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[위키피디아 커뮤니티가 암호화폐를 이용한 기부에 반대 입장을 표했다. 재단 평판에 부정적이란 이유다. 13일(현지시간) 외신에 따르면, 위키미디어 커뮤니티는 위키미디어재단이 암호...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[헥슬란트, 디지털자산 재테크 서비스 '헤이비트'에 지갑 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220413220726</link>
-            <guid>https://zdnet.co.kr/view/?no=20220413220726</guid>
-            <pubDate>Wed, 13 Apr 2022 13:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 기술 기업 헥슬란트는 디지털 자산 재테크 서비스 '헤이비트'와 기술 지원 협약을 맺고 멀티시그 지갑 시스템 '옥텟'을 지원한다고 밝혔다. 옥텟은 정보보호관리체계(ISM...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
