@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람 뇌, 눈으로 본 정보 저해상도로 압축 저장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220414144155</link>
+            <guid>https://zdnet.co.kr/view/?no=20220414144155</guid>
+            <pubDate>Thu, 14 Apr 2022 07:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[PC나 스마트폰 대부분은 처리한 데이터를 여러 형식의 파일로 변환하고 저장소에 보관한다. 하지만 데이터를 그대로 보존할 경우 저장 용량이 금세 부족해지기 때문에 JPEG와 같은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/14/223f4a279c9b08b15880b6faea26013e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美中 과학패권, 싸움이냐 의존이냐?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220414112801</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220412101338</guid>
             <pubDate>Wed, 13 Apr 2022 16:20:34 GMT</pubDate>
             <content:encoded><![CDATA[대륙 빙하와 온실가스 농도, 천문학적 변화 등 기후변화가 과거 200만년 간 인간 종의 정착과 확산, 유전전 변이 등 인간의 진화와 적응에 영향을 미쳐 왔음을 실증적으로 보여주...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/12/9d703299e8a14c080d69a307b66933ec-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가난과 범죄, 태어나기 전부터 뇌에 영향 미친다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220407145100</guid>
             <pubDate>Thu, 07 Apr 2022 06:19:10 GMT</pubDate>
             <content:encoded><![CDATA[과일초파리의 뇌에서 특정 신경들이 발달하는 순서를 관장하는 원리가 규명됐다. 사람 뇌의 작동 원리를 이해하고, 문제가 있는 부분을 재생하는 치료법 개발의 실마리가 될 전망이다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈뢰딩거의 고양이가 되살아난다면?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220407115746</link>
-            <guid>https://zdnet.co.kr/view/?no=20220407115746</guid>
-            <pubDate>Thu, 07 Apr 2022 05:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[양자물리학 설명에 흔히 쓰이는 '슈뢰딩거의 고양이' 사고실험에서 상자 속 고양이는 살아있으면서 죽어있을 수 있고, 상자를 열어보는 순간에야 생사를 알 수 있다. 고양이가 살아있...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
