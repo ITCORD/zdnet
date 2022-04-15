@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 03:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 04:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파이오링크, 스토리지 업체 글루시스와 HCI 사업 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220415123317</link>
+            <guid>https://zdnet.co.kr/view/?no=20220415123317</guid>
+            <pubDate>Fri, 15 Apr 2022 04:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[파이오링크(대표 조영철)는 스토리지 전문업체 글루시스(대표 박성순)와 하이퍼 컨버지드 인프라(HCI) 사업 협력을 위한 전략적 업무 협약을 맺었다고 15일 밝혔다. 이번 협약을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포블게이트, 'ISMS' 사후 심사 통과…인증 유지]]></title>
             <link>https://zdnet.co.kr/view/?no=20220415112533</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220414110918</guid>
             <pubDate>Thu, 14 Apr 2022 03:35:47 GMT</pubDate>
             <content:encoded><![CDATA[정보보호 관련 투자·인력 현황을 의무적으로 공시해야 하는 '정보보호 공시 의무자' 대상 기업이 603곳으로 확정됐다. 과학기술정보통신부는 이의신청 접수 및 검토를 거쳐 '정보보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업에 '매우 심각한 피해' 주는 보안사고 크게 늘었다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220414101011</link>
-            <guid>https://zdnet.co.kr/view/?no=20220414101011</guid>
-            <pubDate>Thu, 14 Apr 2022 03:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 기업과 개인 모두 랜섬웨어, 악성코드 감염, 해킹 같은 침해사고에 대응하기 위한 활동을 강화한 것으로 조사됐다. 이러한 노력에도 불구하고 공격이 지능화되면서 기업의 '매...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
