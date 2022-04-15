@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 04:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오, 공공문서 전자증명서 서비스 잇따라 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220415093620</link>
+            <guid>https://zdnet.co.kr/view/?no=20220415093620</guid>
+            <pubDate>Fri, 15 Apr 2022 04:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[정보기술(IT) 플랫폼 기업 네이버, 카카오가 주민등록등본 등 공공문서 발급부터 열람, 제출까지 한 번에 가능한 원스톱 전자증명서 서비스를 내놨다. 주민 센터에서 대기하거나, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 최신 AI·검색 기술 공유한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220415120852</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220414141414</guid>
             <pubDate>Thu, 14 Apr 2022 06:23:07 GMT</pubDate>
             <content:encoded><![CDATA[테슬라가 최근 미국 특허청에 '사이버백팩'(CYBERBACKPACK)이라는 상표권을 신청했다고 자동차매체 일렉트렉이 13일(현지시간) 보도했다. 테슬라는 해당 상표권에 대해 “...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사람과 로봇 함께 일하는 네이버 최첨단 사옥 '1784' 가보니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220414113744</link>
-            <guid>https://zdnet.co.kr/view/?no=20220414113744</guid>
-            <pubDate>Thu, 14 Apr 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[“신사옥 1784에서 네이버 각 사업의 시너지를 만들어 나갈 것이고, 이곳을 새로운 기술 융합을 시도하는 테스트베드로 삼아 새 서비스를 계속해서 만들어 나가려 한다." 13일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
