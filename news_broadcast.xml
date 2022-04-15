@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사, 너나 없이 도심항공교통 기술 확보에 매진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220415131904</link>
+            <guid>https://zdnet.co.kr/view/?no=20220415131904</guid>
+            <pubDate>Fri, 15 Apr 2022 07:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[통신 3사가 도심항공교통(UAM) 관련 통신·플랫폼·관제 기술 확보에 총력을 기울이고 있다. SKT는 정부 주관 UAM 협의체에 참여해 실증 사업에 적극적으로 참여하는 등 발빠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[뭐볼래] 춘곤증 확 깨게 하는 OTT 추리·스릴러물 모음]]></title>
             <link>https://zdnet.co.kr/view/?no=20220415095845</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220414085716</guid>
             <pubDate>Thu, 14 Apr 2022 00:54:52 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스(대표 황현식)는 세종테크노파크, 한국교통연구원과 함께 모빌리티 기술 고도화와 신규 서비스 창출을 위한 업무협약을 체결했다고 14일 밝혔다. LG유플러스는 지난해 세...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 어린이용 코딩로봇 '알버트AI 홈' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220414090458</link>
-            <guid>https://zdnet.co.kr/view/?no=20220414090458</guid>
-            <pubDate>Thu, 14 Apr 2022 00:54:52 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 만 3세부터 초등학교 저학년까지 쉽고 재밌게 코딩을 배울 수 있는 '알버트AIx B tv 잼(ZEM)키즈 홈스쿨링팩'을 14일 출시한다고 밝혔다. 알버트AI 홈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
