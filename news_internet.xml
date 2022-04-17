@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 07:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 08:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['독도.com' 입력하면 '다케시마' 홈페이지로…한글 도메인 일본에 뺏겼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220417170532</link>
+            <guid>https://zdnet.co.kr/view/?no=20220417170532</guid>
+            <pubDate>Sun, 17 Apr 2022 08:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 주소창에 한글로 '독도'라고 쓴 이른바 닷컴 주소를 입력하면 일본 외무성 웹사이트로 연결된다. 17일 인터넷 주소창에 '독도닷컴'(독도.com)을 입력하면 독도가 일본 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터 편집, 이전 트윗 보존 형태로?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220417125146</link>
@@ -48,19 +56,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['타다vs카카오vs아이엠' 대형택시 삼파전 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220415164734</link>
-            <guid>https://zdnet.co.kr/view/?no=20220415164734</guid>
-            <pubDate>Sat, 16 Apr 2022 00:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[타다가 대형택시 호출 서비스 '타다 넥스트'를 공식 출시했다. 카카오모빌리티의 '카카오T 벤티'와 진모빌리티가 운영하는 '아이엠(I.M)'이 프리미엄 택시 시장을 선도하고 있는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[지디의 네웹소설] 로맨스 인생작으로 떠오른 '러브 어페어']]></title>
             <link>https://zdnet.co.kr/view/?no=20220416004301</link>
             <guid>https://zdnet.co.kr/view/?no=20220416004301</guid>
             <pubDate>Sat, 16 Apr 2022 00:49:30 GMT</pubDate>
             <content:encoded><![CDATA[봄의 한 가운데를 지금, 네이버시리즈의 '로맨스 인생작'으로 불리는 웹소설을 읽어 보면 어떨까. 웹소설 '러브 어페어'(이유진)는 막장 재벌가 서도그룹의 재벌 3세 '서문도'와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['타다vs카카오vs아이엠' 대형택시 삼파전 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220415164734</link>
+            <guid>https://zdnet.co.kr/view/?no=20220415164734</guid>
+            <pubDate>Sat, 16 Apr 2022 00:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[타다가 대형택시 호출 서비스 '타다 넥스트'를 공식 출시했다. 카카오모빌리티의 '카카오T 벤티'와 진모빌리티가 운영하는 '아이엠(I.M)'이 프리미엄 택시 시장을 선도하고 있는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220415092352</guid>
             <pubDate>Fri, 15 Apr 2022 00:51:50 GMT</pubDate>
             <content:encoded><![CDATA[네이버 웨일이 안랩과 함께 웹 환경 보안수준 고도화를 위한 업무협약을 체결했다고 15일 밝혔다. 양사는 보유 기술력과 서비스 노하우를 활용해, 웨일 사용자에게 안전한 인터넷 환...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유정범 메쉬코리아 "데이터 기반 예측 시스템으로 이익 극대화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220415090250</link>
-            <guid>https://zdnet.co.kr/view/?no=20220415090250</guid>
-            <pubDate>Fri, 15 Apr 2022 00:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[정보기술(IT) 기반 종합 유통물류 브랜드 부릉(VROONG)을 운영하는 메쉬코리아가 '2022 식음료(F&amp;B) 트렌드 컨퍼런스'에 참석해 데이터 기반의 예측 물류 통한 F&amp;B...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
