@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 00:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 9만3001명…사망 203명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220417094124</link>
+            <guid>https://zdnet.co.kr/view/?no=20220417094124</guid>
+            <pubDate>Sun, 17 Apr 2022 00:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[17일 0시 기준 국내 발생 코로나19 신규 확진자는 9만2천983명, 해외유입 사례 18명 등 신규 확진자는 총 9만3천1명이며, 총 누적 확진자 수는 1천630만5천752명...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["요양병원 부모님 뵙고 싶었는데"...면회·외출 계속 금지]]></title>
             <link>https://zdnet.co.kr/view/?no=20220416190813</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220414165515</guid>
             <pubDate>Thu, 14 Apr 2022 08:22:16 GMT</pubDate>
             <content:encoded><![CDATA[한국노인인력개발원이 14일 오후 전남 영암군 소재 현대삼호중공업 본관 1층 VIP 홍보관에서 회사 및 사내협력사협의회, 목포상공회의소 등과 노인일자리 창출 업무협약을 체결했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금, 공공기관 고객만족도 '우수'…3년 연속 최고 등급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220414164144</link>
-            <guid>https://zdnet.co.kr/view/?no=20220414164144</guid>
-            <pubDate>Thu, 14 Apr 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[국민연금공단이 기획재정부 주관 2021년 공공기관 고객만족도 조사에서 3년 연속 '우수' 등급을 받았다. 공공기관 고객만족도 조사는 공공기관의 서비스 품질 개선을 위해 서비스를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
