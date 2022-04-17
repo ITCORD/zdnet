@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 02:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 03:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 '클로바 케어콜', 인천 이어 서울 서비스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220417111153</link>
+            <guid>https://zdnet.co.kr/view/?no=20220417111153</guid>
+            <pubDate>Sun, 17 Apr 2022 03:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[독거 어르신을 위한 네이버 인공지능(AI) 콜 서비스 클로바 케어콜(CLOVA CareCall)이 부산, 대구, 인천에 이어 서울에 도입된다. 네이버는 서울시와 'AI를 활용한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 쇼츠, 타인 영상 리믹스 기능 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220417094511</link>
@@ -32,19 +40,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['타다vs카카오vs아이엠' 대형택시 삼파전 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220415164734</link>
-            <guid>https://zdnet.co.kr/view/?no=20220415164734</guid>
-            <pubDate>Sat, 16 Apr 2022 00:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[타다가 대형택시 호출 서비스 '타다 넥스트'를 공식 출시했다. 카카오모빌리티의 '카카오T 벤티'와 진모빌리티가 운영하는 '아이엠(I.M)'이 프리미엄 택시 시장을 선도하고 있는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[지디의 네웹소설] 로맨스 인생작으로 떠오른 '러브 어페어']]></title>
             <link>https://zdnet.co.kr/view/?no=20220416004301</link>
             <guid>https://zdnet.co.kr/view/?no=20220416004301</guid>
             <pubDate>Sat, 16 Apr 2022 00:49:30 GMT</pubDate>
             <content:encoded><![CDATA[봄의 한 가운데를 지금, 네이버시리즈의 '로맨스 인생작'으로 불리는 웹소설을 읽어 보면 어떨까. 웹소설 '러브 어페어'(이유진)는 막장 재벌가 서도그룹의 재벌 3세 '서문도'와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['타다vs카카오vs아이엠' 대형택시 삼파전 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220415164734</link>
+            <guid>https://zdnet.co.kr/view/?no=20220415164734</guid>
+            <pubDate>Sat, 16 Apr 2022 00:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[타다가 대형택시 호출 서비스 '타다 넥스트'를 공식 출시했다. 카카오모빌리티의 '카카오T 벤티'와 진모빌리티가 운영하는 '아이엠(I.M)'이 프리미엄 택시 시장을 선도하고 있는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220415091557</guid>
             <pubDate>Fri, 15 Apr 2022 00:51:50 GMT</pubDate>
             <content:encoded><![CDATA[메타가 메타버스 플랫폼 '호라이즌 월드'에서 거래되는 대체불가토큰(NFT) 거래가격의 47.5%을 수수료로 부과하겠다고 밝히자 애플이 위선적이라며 맹비난했다고 맥루머스 등 외신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN두레이-한컴, 협업툴로 달라진 업무 환경 알린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220415090310</link>
-            <guid>https://zdnet.co.kr/view/?no=20220415090310</guid>
-            <pubDate>Fri, 15 Apr 2022 00:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[NHN두레이(대표 백창열)가 한글과컴퓨터와 함께 협업의 표준을 제시하는 웨비나를 이달 20일에 개최한다. 오후 2시부터 2개의 세션으로 진행되는 웨비나는 올인원 협업 솔루션 두...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
