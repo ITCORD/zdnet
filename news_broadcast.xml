@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["디지털헬스케어, 우리도 한다"…통신 3사, 사업 확대 잰걸음]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220418140852</link>
+            <guid>https://zdnet.co.kr/view/?no=20220418140852</guid>
+            <pubDate>Mon, 18 Apr 2022 08:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[통신사들이 디지털헬스케어 사업에 관심을 보이며 시장 확대에 박차를 가하고 있다. 18일 업계에 따르면, 코로나19 이후 디지털헬스케어가 떠오른 가운데 통신3사도 인공지능(AI)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 국내 첫 블록체인 기반 공인전자문서센터 운영]]></title>
             <link>https://zdnet.co.kr/view/?no=20220418120212</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220415131904</guid>
             <pubDate>Fri, 15 Apr 2022 07:14:52 GMT</pubDate>
             <content:encoded><![CDATA[통신 3사가 도심항공교통(UAM) 관련 통신·플랫폼·관제 기술 확보에 총력을 기울이고 있다. SKT는 정부 주관 UAM 협의체에 참여해 실증 사업에 적극적으로 참여하는 등 발빠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뭐볼래] 춘곤증 확 깨게 하는 OTT 추리·스릴러물 모음]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220415095845</link>
-            <guid>https://zdnet.co.kr/view/?no=20220415095845</guid>
-            <pubDate>Fri, 15 Apr 2022 04:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[만개했던 벚꽃도 사라져가고 날씨는 점점 더 따뜻해진다. 완연한 봄날씨에 몸도 마음도 나른해지기 일쑤다. 자꾸만 노곤하다면, 이번 주말에는 집에서 온라인동영상서비스(OTT)와 함...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
