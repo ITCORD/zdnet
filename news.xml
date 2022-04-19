@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 04:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 두뇌 흉내내니 인공지능 전력 소모 줄었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220419103541</link>
+            <guid>https://zdnet.co.kr/view/?no=20220419103541</guid>
+            <pubDate>Tue, 19 Apr 2022 04:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[두뇌의 신경 조율 활동을 모방, 인공지능 기기의 전력 소모를 줄이는 기술이 나왔다. KAIST(총장 이광형)는 신소재공학과 김경민 교수 연구팀이 두뇌에서 일어나는 신경 조율 활...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/19/5208b7bee0e0734912670e1de56272f0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['집단면역' 코로나19에는 기존 개념 적용 안될수도]]></title>
             <link>https://zdnet.co.kr/view/?no=20220419102811</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220419114656</guid>
             <pubDate>Tue, 19 Apr 2022 02:59:28 GMT</pubDate>
             <content:encoded><![CDATA[메타플래넷(대표 신정엽)은 19일 성균관대학교 글로벌창업대학원과 업무협력협약을 체결했다고 밝혔다. 성균관대학교 글로벌창업대학원은 중소벤처기업부의 국책대학원으로 선정되어 운영을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/19/e634fa28a4115b62c404a98987e03364-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[김한준 기자의 e게임] 더하우스오브더데드, 닌텐도 스위치 만난 세기말 건슈팅]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419105347</guid>
             <pubDate>Tue, 19 Apr 2022 02:59:28 GMT</pubDate>
             <content:encoded><![CDATA[IT 통합보안·인증 업체 라온시큐어(대표 이순형)는 전 직군에서 50명 규모의 채용을 진행한다고 19일 밝혔다. 모집 분야는 블록체인 분산ID(DID) 사업 확대를 위한 블록체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["백신 미접종자, 오미크론 걸려도 면역력 형성 제대로 못 해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419105014</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419105014</guid>
-            <pubDate>Tue, 19 Apr 2022 02:59:28 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 백신 접종 후 오미크론 변이에 돌파감염된 경우 높은 수준의 중화 항체를 갖게 되지만, 애초 백신을 맞지 않은 사람의 감염 후 면역 형성 정도는 제한적이란 연구 결과가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
