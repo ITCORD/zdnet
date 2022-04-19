@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 01:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 디지털 대전환 시대, 통신 공공성 강화와 가계통신비 부담 완화 어떻게 할 것인가?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220419110843</link>
+            <guid>https://zdnet.co.kr/view/?no=20220419110843</guid>
+            <pubDate>Tue, 19 Apr 2022 02:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[지난주 시민단체들이 '통신공공성 강화 및 가계통신비 부담 완화를 위한 5대 정책 요구안'을 대통령직 인수위원회에 전달했다고 한다. 이런 제안은 언뜻 보기에 단기적으로 소비자 후...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT클라우드, 경력직원 채용…스톡옵션·웰컴팩 지급]]></title>
             <link>https://zdnet.co.kr/view/?no=20220419092840</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220417091837</guid>
             <pubDate>Sun, 17 Apr 2022 02:28:16 GMT</pubDate>
             <content:encoded><![CDATA[KT가 다음달 15일까지 '안다즈 서울 강남'에서 대체불가능토큰(NFT) 디지털 아트전 'Enter X: 몽환경(夢幻境)'을 진행한다. KT에스테이트가 개발한 호텔인 안다즈 호...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["세액공제 확대로 K-콘텐츠 투자재원 확충 필요하다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220417091536</link>
-            <guid>https://zdnet.co.kr/view/?no=20220417091536</guid>
-            <pubDate>Sun, 17 Apr 2022 02:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국세무학회가 지난 16일 부산에서 진행한 춘계학술대회에서 방송업계 관계자들이 K-콘텐츠 경쟁력 강화를 위해서는 제작비에 대한 세액공제 일몰을 연장하면서 공제율도 확대해야 한다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
