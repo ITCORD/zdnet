@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 12:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 13:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오브레인, 이미지 생성 모델 'RQ-트랜스포머' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220419192453</link>
+            <guid>https://zdnet.co.kr/view/?no=20220419192453</guid>
+            <pubDate>Tue, 19 Apr 2022 13:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[카카오브레인이 지난해 공개한 초거대 멀티모달 인공지능(AI) 민달리(minDALL-E) 업그레이드 버전의 이미지 생성 모델 'RQ-트랜스포머(Transformer)'를 오픈소스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/19/50b5836ba29c31c075e7e210f3121dca-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과방위 ICT 법안 소위 21일 열린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220419212134</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220419191220</guid>
             <pubDate>Tue, 19 Apr 2022 11:10:11 GMT</pubDate>
             <content:encoded><![CDATA[한국은행 이창용 총재 후보자가 인사청문회를 통과했다. 19일 국회 기획재정위원회(기재위)는 이창용 총재 후보자에 대한 인사청문회를 진행한 뒤 '적격' 의견을 담은 청문 보고서 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/19/ea4270e18a6088fdbb544c40cc076fb5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[어도비, 영상 편집자용 클라우드 협업 도구 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419174107</guid>
             <pubDate>Tue, 19 Apr 2022 09:11:20 GMT</pubDate>
             <content:encoded><![CDATA[한국남부발전(대표 이승우)은 한국에너지기술평가원 주관 '10MW 재생에너지 연계 대규모 그린수소 실증 기술 개발' 정부 지원 연구과제를 수주했다고 19일 밝혔다. 그린수소는 태...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방심위, 건기식 기능성 부풀린 롯데홈쇼핑·K쇼핑 '의견진술']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419165556</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419165556</guid>
-            <pubDate>Tue, 19 Apr 2022 08:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신심의위원회가 건강기능식품 판매 방송에서 식품의약품안전처가 기능성으로 인정하지도 않은 개선 효과가 제품에 포함된 것처럼 표현한 롯데홈쇼핑과 K쇼핑에 '의견진술' 청취를 결...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
