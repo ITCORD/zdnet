@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 01:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비트코인 3% 올라…다시 4만달러 회복]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220419084646</link>
+            <guid>https://zdnet.co.kr/view/?no=20220419084646</guid>
+            <pubDate>Tue, 19 Apr 2022 00:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[비트코인 가격이 다시 4만 달러를 회복했다. 글로벌 암호화폐 평균 가격 집계 사이트 코인마켓캡에 따르면 비트코인은 19일 오전 8시 기준으로 4만800 달러 대에서 거래되고 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 그래픽 카드 재포장 의혹, 믿고 사도 될까?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220418173452</link>
@@ -131,7 +139,7 @@
             <title><![CDATA[[기고] AI의 시대, 앞서는 자와 뒤처지는자(하)]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Mon, 18 Apr 2022 23:09:56 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 00:58:08 GMT</pubDate>
             <content:encoded><![CDATA[인터넷의 시대가 새롭게 열렸던 2000년 초반엔 인터넷 홈페이지를 만드는 프로그램인 html을 사용할 줄 아는 것만으로도 큰 기술을 가진 것으로 대접받았다. 너도 나도 홈페이지...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220417145757</guid>
             <pubDate>Sun, 17 Apr 2022 06:14:49 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)이 작성한 프로그래밍 코드는 완벽할까? 최근 데이터를 잘못 학습하거나 오류로 잘못된 결과를 내는 AI로 인해 이런 우려가 늘고 있다. 마이크로소프트(MS)는 사용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, '디지털 화폐' 관망하다 태도 급변...왜?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220417133431</link>
-            <guid>https://zdnet.co.kr/view/?no=20220417133431</guid>
-            <pubDate>Sun, 17 Apr 2022 06:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 그 동안 관망적 태도를 보이던 디지털 화폐(CBDC) 도입 검토에 최근 적극적으로 나서 그 배경에 관심이 쏠린다. 중국이 CBDC 도입을 적극 추진하자, 디지털 통...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
