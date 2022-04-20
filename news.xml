@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 20:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 21:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSG닷컴, 이마트·지마켓 등 6개사와 페트병 재활용 캠페인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220420204852</link>
+            <guid>https://zdnet.co.kr/view/?no=20220420204852</guid>
+            <pubDate>Wed, 20 Apr 2022 21:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[SSG닷컴은 이마트, 지마켓글로벌, 한국 코카콜라, 테라사이클, 세계자연기금 한국본부(WWF-Korea), 블랙야크 등 6개 회사와 '원더플(ONETHEPL) 캠페인 시즌 3'...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/20/b4badaba95a19cb99a04bf35186c88a4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['암' 완치율 늘었지만…'부작용' 조기발견 치료가 삶의 질 높여]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420175536</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220420153525</guid>
             <pubDate>Wed, 20 Apr 2022 15:12:54 GMT</pubDate>
             <content:encoded><![CDATA[우리 머리 속에 익룡은 매끄럽고 단단한 몸을 가진 거대한 비행 괴수 이미지로 박혀 있다. 하지만 익룡이 사실은 새처럼 깃털을 갖고 있었다는 주장이 제기돼 학계에서 논란이 되고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/20/4ed8a2ece0f576aa58b260dc41c6692f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['가입자 감소' 넷플릭스, 주가 37% 또 폭락]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420164045</guid>
             <pubDate>Wed, 20 Apr 2022 08:15:46 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 제조사들이 5G 특화망(이음5G) 진출 계획을 발표하고 있는 때 국내 기업 중 이 시장에 과감히 도전장을 내민 기업이 있다. 우리넷은 최근 '이음5G IoT 모듈' 개발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이언게임즈, 소울워커 러쉬 사전예약 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420164915</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420164915</guid>
-            <pubDate>Wed, 20 Apr 2022 08:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[라이언게임즈(대표 윤성준)는 20일 소울워커 IP를 활용한 새로운 모바일 게임 '소울워커 러쉬'의 사전 예약을 진행한다고 발표했다. 사전 예약은 '소울워커 러쉬'의 정식 서비스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
