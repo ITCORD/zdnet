@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 03:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터브릭스, 한국 진출…AI·빅데이터 지원 집중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220420123005</link>
+            <guid>https://zdnet.co.kr/view/?no=20220420123005</guid>
+            <pubDate>Wed, 20 Apr 2022 04:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 및 AI 기업 데이터브릭스가 한국 시장에 진출했다. 국내기업에서 도입 중인 빅데이터 분석 및 인공지능(AI)에 필수적인 데이터 저장소를 중심으로 사업을 확대할 예정이다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑셈, 디지털플랫폼정부 출범 앞두고 공공 수요 공략 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420112842</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419145807</guid>
             <pubDate>Tue, 19 Apr 2022 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[VM웨어코리아(대표 전인호)는 19일 온라인 기자간담회를 개최해 지난해 말 출시된 VM웨어 크로스클라우드 통합 서비스의 업데이트를 소개하고, 국내 전략을 발표했다. VM웨어 크...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아나IDT, OCR 인보이스 처리 자동화 시스템 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419113214</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419113214</guid>
-            <pubDate>Tue, 19 Apr 2022 03:00:09 GMT</pubDate>
-            <content:encoded><![CDATA[아시아나IDT(대표 서근식)가 '광학적 문자 판독 장치(OCR) 기반 인보이스 자동 입력 기술에 대한 PoC(성능검증)를 완료하고, 아시아나항공 해외 인보이스 처리 자동화 시스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
