@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 18:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구석기 시대 예술가의 화판을 엿보다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220415102314</link>
+            <guid>https://zdnet.co.kr/view/?no=20220415102314</guid>
+            <pubDate>Wed, 20 Apr 2022 18:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[1만 5천년 전 구석기 시대 우리 조상들은 어떻게 창작 활동을 했을까? 현대의 예술가처럼 밝은 조명이 비치는 스튜디오에서 작업하지는 않았을 것이다. 그 시절 사람들은 어두운 밤...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/15/01acac24eacd836d6e0412605357f0b5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익룡은 여러 색 깃털 갖고 있었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420153525</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220420214420</guid>
             <pubDate>Wed, 20 Apr 2022 13:31:05 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어저작권협회(회장 유병한)는 다음달 8일까지 오픈소스SW를 활용한 '서비스플랫폼 개발자 양성과정' 참여자를 모집한다고 20일 밝혔다. 서울시에 거주하는 만 18세~3...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/20/d2f1b14d87f80ac9f141153a74b20dd6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[골프시설 및 가격 비교 김캐디, 78억 시리즈A 투자 유치]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420163516</guid>
             <pubDate>Wed, 20 Apr 2022 08:15:46 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 지난 3월에 출시한 모바일 애플리케이션 프로세서(AP) '엑시노스 1280' 스펙을 처음으로 공개했다. 칩 출시 이후 약 두 달 만이다. 20일 삼성전자의 글로벌 반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이덴티티게임즈 '드래곤네스트', 서비스 12주년 맞아 설정집 출간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420164144</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420164144</guid>
-            <pubDate>Wed, 20 Apr 2022 08:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[아이덴티티게임즈(대표 천광)는 20일 PC 온라인 액션 RPG 드래곤네스트 서비스 12주년을 기념해 '드래곤네스트 설정집: 미스트랜드편'을 오는 27일 출간한다고 20일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
