@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전문가 "올해 11월 '재유행'…최대 2700명 사망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220420141232</link>
+            <guid>https://zdnet.co.kr/view/?no=20220420141232</guid>
+            <pubDate>Wed, 20 Apr 2022 05:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[수리전문가들이 올해 11월이나 내년 초에 코로나19의 '가을재유행'이 발생할 수 있고 이 기간 중 사망자가 700명에서 2700명에 달할 수 있다고 내다봤다. 정은옥 건국대학교...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[풀었다가 다시 조이기 힘든데…실외마스크 어쩌나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420102020</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419143156</guid>
             <pubDate>Tue, 19 Apr 2022 06:17:52 GMT</pubDate>
             <content:encoded><![CDATA[보령이 오는 7월 '제1회 CIS Challenge'를 개최한다고 19일 밝혔다. CIS 챌린지는 보령이 주최하고 미국의 우주 개발 전문기업 액시엄 스페이스와 글로벌 항공우주 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[동국제약, 위스콘신대와 약물전달체-펩타이드 복합체 공동개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419142116</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419142116</guid>
-            <pubDate>Tue, 19 Apr 2022 06:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[동국제약이 미국 위스콘신대학교-매디슨과 신약연구 및 제품개발을 위한 공동 연구협약을 체결했다고 19일 밝혔다. 업무협약에 따라 위스콘신대는 '약물전달체-펩타이드 복합체'(DKF...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
