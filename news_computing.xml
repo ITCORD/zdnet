@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 12:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SW저작권협회, 서비스 플랫폼 개발자 무료 교육]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220420214420</link>
+            <guid>https://zdnet.co.kr/view/?no=20220420214420</guid>
+            <pubDate>Wed, 20 Apr 2022 13:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[한국소프트웨어저작권협회(회장 유병한)는 다음달 8일까지 오픈소스SW를 활용한 '서비스플랫폼 개발자 양성과정' 참여자를 모집한다고 20일 밝혔다. 서울시에 거주하는 만 18세~3...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시큐아이, 베트남 보안 시장 진출]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420200630</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419180041</guid>
             <pubDate>Tue, 19 Apr 2022 10:13:16 GMT</pubDate>
             <content:encoded><![CDATA[한국디지털자산사업자연합회(KDA)와 한국핀테크학회는 과학기술정보통신부에서 신규 가상자산 사업자도 정보보호관리체계(ISMS) 인증을 받아 특정금융정보법(특금법)에 의해 사업자 신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 거래소, 개정 특금법이 희비 갈랐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419112209</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419112209</guid>
-            <pubDate>Tue, 19 Apr 2022 07:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[지난 해 9월부터 원화마켓 거래소 신고 요건으로 은행 실명계좌 확보를 명문화한 개정 특정금융정보법이 실시되면서 가상자산 거래소들의 양극화가 더 심해졌다. 은행과 계약을 맺고 원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
