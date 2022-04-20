@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시큐아이, 베트남 보안 시장 진출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220420200630</link>
+            <guid>https://zdnet.co.kr/view/?no=20220420200630</guid>
+            <pubDate>Wed, 20 Apr 2022 11:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[시큐아이가 베트남 보안 시장에 진출했다. 현지 ICT·핀테크 분야 기업들과 협력관계를 구축하고 시큐아이는 베트남 1위 ICT그룹인 FPT인포메이션시스템과 사업 협약을 체결했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/20/0503d1061ca4181b1d15ae14def2753c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 카운터사이드, 새 에피소드 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420180726</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220420180412</guid>
             <pubDate>Wed, 20 Apr 2022 09:11:43 GMT</pubDate>
             <content:encoded><![CDATA[넷마블(대표 권영식, 대표 도기욱)은 지난 14일 열린 '2022 장애인고용촉진대회'에서 개발자회사인 넷마블엔투의 이지현 파트장이 산업포장을 수상했다고 밝혔다. 고용노동부가 주...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/20/e8c596ada65d508d4f3c0f1c658f8a40-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에너지공단, 베트남 에너지효율향상·녹색성장계획 수립 돕는다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420163421</guid>
             <pubDate>Wed, 20 Apr 2022 08:15:46 GMT</pubDate>
             <content:encoded><![CDATA[모더나의 코로나19 변이 바이러스 예방 2가 부스터 백신이 접종 이후 6개월까지 예방효과를 보이는 것으로 나타났다. 모더나가 개발 중인 'mRNA-1273.211'은 첫 2가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배민, 발달장애인 위한 배달앱 사용법 책자 배포]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420160339</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420160339</guid>
-            <pubDate>Wed, 20 Apr 2022 07:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[우아한형제들은 20일 '장애인의 날'을 맞아 사회적기업 '소소한소통'과 함께 '쉬운 배달앱 사용법' 책자를 공동제작해 무료 배포한다고 밝혔다. 쉬운 배달앱 사용법 책자는 배달의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
