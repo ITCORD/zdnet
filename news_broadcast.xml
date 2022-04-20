@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리넷 "한국 첫 이음5G IoT 모듈로 국내 시장 공략"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220420164045</link>
+            <guid>https://zdnet.co.kr/view/?no=20220420164045</guid>
+            <pubDate>Wed, 20 Apr 2022 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 제조사들이 5G 특화망(이음5G) 진출 계획을 발표하고 있는 때 국내 기업 중 이 시장에 과감히 도전장을 내민 기업이 있다. 우리넷은 최근 '이음5G IoT 모듈' 개발...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[통신 3사 1분기 합산 영업이익 1조원 넘어설 듯]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420133952</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419090354</guid>
             <pubDate>Tue, 19 Apr 2022 00:57:56 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스(대표 황현식)는 알뜰폰 비교 서비스를 제공하는 '모요'와 제휴를 통해 알뜰폰 인터넷 결합 할인 정보를 제공한다고 19일 밝혔다. 모요는 이용자의 통신서비스 이용 패...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT 이어 LGU+도 '메타버스' 진출하나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220418145600</link>
-            <guid>https://zdnet.co.kr/view/?no=20220418145600</guid>
-            <pubDate>Mon, 18 Apr 2022 12:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 지난해 메타버스 플랫폼 '이프랜드'를 선보였고, KT가 지난 2월 MWC22에서 '디지코랜드'로 메타버스에 대한 비전을 선보인 가운데, LG유플러스도 메타버스 개발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
