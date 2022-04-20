@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 22:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 23:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 1Q 매출 1조8452억원·영업익 3018억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421074601</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421074601</guid>
+            <pubDate>Wed, 20 Apr 2022 23:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[네이버의 올해 1분기 서치·커머스·핀테크·콘텐츠·클라우드 부문 실적이 전년 동기 대비 모두 성장했다. 다만 계절적 요인 등의 영향으로 커머스를 제외한 부문 실적은 전 분기 대비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['가입자 감소' 넷플릭스, 주가 37% 또 폭락]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420232411</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420081200</guid>
             <pubDate>Wed, 20 Apr 2022 01:02:25 GMT</pubDate>
             <content:encoded><![CDATA[HR테크 기업 인크루트(대표 서미영)는 채용 홈페이지 개설부터 서류심사, 면접, 필기시험 감독, 인적성검사, 평판조회 그리고 최종 합격자 선발까지 모든 채용업무를 디지털화한 리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오브레인, 이미지 생성 모델 'RQ-트랜스포머' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419192453</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419192453</guid>
-            <pubDate>Tue, 19 Apr 2022 13:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[카카오브레인이 지난해 공개한 초거대 멀티모달 인공지능(AI) 민달리(minDALL-E) 업그레이드 버전의 이미지 생성 모델 'RQ-트랜스포머(Transformer)'를 오픈소스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
