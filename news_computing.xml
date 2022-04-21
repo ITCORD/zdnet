@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 냉·난방 가전 개발에 다쏘 'MBSE' 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421145940</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421145940</guid>
+            <pubDate>Thu, 21 Apr 2022 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[다쏘시스템은 모델 기반 시스템 엔지니어링(MBSE)을 통해 LG전자의 선행 개발 성능 목표 및 개발 프로세스의 혁신을 지원하는 협력 관계를 맺는다고 밝혔다. MBSE는 시스템 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[최수만 전 대전테크노파크 원장, 프로토콘 자문 맡아]]></title>
             <link>https://zdnet.co.kr/view/?no=20220421142111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420165713</guid>
             <pubDate>Wed, 20 Apr 2022 08:16:28 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드(대표 이주완)가 패스트파이브와 클라우드 비즈니스 협력을 위한 전략적 파트너십을 체결했다고 20일 밝혔다. 패스트파이브는 2만 5000여 명의 멤버와 40개 호점을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가트너 "올해 세계 퍼블릭 클라우드 지출 5천억 달러"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420160303</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420160303</guid>
-            <pubDate>Wed, 20 Apr 2022 07:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[가트너는 올해 전세계 퍼블릭 클라우드 서비스 지출액이 작년 4천109억 달러에서 20.4% 증가한 4천947억 달러에 이를 것으로 전망된다고 20일 밝혔다. 가트너는 2023년...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
