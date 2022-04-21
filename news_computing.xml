@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 12:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노드JS 18 출시…전역 API 가져오기 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421181628</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421181628</guid>
+            <pubDate>Thu, 21 Apr 2022 13:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[자바스크립트 런타임 노드JS(Node.js)18이 출시됐다. 자바스크립트 엔진을 업데이트하며 성능을 향상하고 테스트 중인 전역 API 가져오기 기능을 기본 제공한다. 19일(현...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[FIU, '고팍스' 원화마켓 개시 허가…'페이코인'은 관계사 추가 신고 요구]]></title>
             <link>https://zdnet.co.kr/view/?no=20220421165925</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220421095359</guid>
             <pubDate>Thu, 21 Apr 2022 00:54:09 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 스테이킹(가상자산 예치) 서비스 플랫폼 '코인원 플러스' 1분기 이용자 수가 7만6천869명을 기록, 전년 동기 대비 72% 증가했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[랜섬웨어 치료제 만드는 사람들..."해커도 사람, 허점 있다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220421063104</link>
-            <guid>https://zdnet.co.kr/view/?no=20220421063104</guid>
-            <pubDate>Thu, 21 Apr 2022 00:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[사용자 시스템을 잠그거나 데이터를 암호하는 악성코드인 랜섬웨어는 해커들이 가장 선호하는 공격이 됐다. 암호를 풀어주는 대가로 금전을 갈취하기가 용이하기 때문이다. 매년 100~...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
