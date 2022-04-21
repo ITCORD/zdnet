@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 11:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 12:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회, 망 이용계약 법안 추가 논의…공청회 간다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421184111</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421184111</guid>
+            <pubDate>Thu, 21 Apr 2022 12:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 사업자(CP)에 대한 망 이용대가 납부를 의무화하는 내용을 다룬 '망 이용계약' 관련 법안이 국회 과학기술정보방송통신위원회 법안심사에서 의결 보류됐다. 국회 과방위는 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["KT·LGU+도 알뜰폰 도매제공 지정돼야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220421165824</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420124805</guid>
             <pubDate>Wed, 20 Apr 2022 04:49:21 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 20일 전기통신사업자의 금지행위 여부를 판단하기 위한 사실조사 관련 자료, 물건의 재제출명령 제도를 시행한다. 또 사업자가 재제출명령을 이행하지 않을 경우 부과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, AI 기반 스마트레이더로 생물다양성 보전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420091846</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420091846</guid>
-            <pubDate>Wed, 20 Apr 2022 01:01:42 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스(대표 황현식)는 경북 봉화군에 위치한 야생식물종자 영구보존시설 '백두대간 글로벌 시드볼트(Seed Vault)'에 U+스마트레이더 서비스를 기증한다고 20일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
