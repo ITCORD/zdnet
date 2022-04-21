@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 09:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원스토어, 3월 우수베타게임에 '레일X레일' 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421180924</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421180924</guid>
+            <pubDate>Thu, 21 Apr 2022 10:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[원스토어(대표 이재환)는 21일 3월 우수베타게임에 엔디식스게임즈가 개발한 모바일게임 레일X레일을 선정했다고 밝혔다. 레일X레일은 열차를 목적지로 보내는 것을 목표로 하는 쉽고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/21/cf81029a2683335a0f6cd2b08dd209e5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로버게임즈 '로드오브히어로즈', 세 번째 OST 라이트업 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220421180728</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220421165925</guid>
             <pubDate>Thu, 21 Apr 2022 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 거래소 '고팍스'가 원화마켓 운영 가능한 가상자산 사업자가 되면서 국내 원화마켓 운영 가상자산 거래소가 5곳으로 늘어났다. 가상자산 결제 서비스에 사용되는 '페이코인'...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/08/19/d729db2d29decf998880ed6218a54fbb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버쇼핑, 커머스 시장 둔화에도 '우성장' 기록]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220421164739</guid>
             <pubDate>Thu, 21 Apr 2022 08:17:09 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인이 21일 “대한민국이 4차 산업혁명을 선도하는 '과학기술 중심국가'가 되기 위해서는 기초과학을 튼튼히 하면서 도전적인 기술혁신에 대한 과감한 투자가 필요하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, '2022 FIFA 월드컵' 공식 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220421164256</link>
-            <guid>https://zdnet.co.kr/view/?no=20220421164256</guid>
-            <pubDate>Thu, 21 Apr 2022 08:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[현대차는 오는 11월 21일부터 12월 18일까지 카타르에서 열리는 '2022 FIFA 월드컵(FIFA World Cup 2022™)' 공식 후원사로 활동한다고 21일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
