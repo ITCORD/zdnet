@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 00:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, 산불 이재민에 기부금 전달]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421091733</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421091733</guid>
+            <pubDate>Thu, 21 Apr 2022 02:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 SK나이츠와 함께 프로농구 4강 플레이오프 첫 경기에서 산불 피해 이재민들을 위한 기금 전달식을 가졌다고 21일 밝혔다. 전달된 환경·사회·지배구조(ESG) 기금은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업스테이지, 첨단 AI 정보 공유 장 마련한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220421094935</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419130107</guid>
             <pubDate>Tue, 19 Apr 2022 08:15:10 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드와 넷플릭스가 망(網)사용료를 두고 치열한 법적 공방을 벌이는 가운데 오는 20일 진행될 예정이었던 국회 과학기술정보방송통신위원회 정보통신방송법안심사소위원회(법안2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI로 영상 개선하는 AIPP 상용화 속도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419124409</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419124409</guid>
-            <pubDate>Tue, 19 Apr 2022 06:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 인공지능(AI) 기반 포스트 프로덕션(AIPP) 사업에 총력을 기울이고 있다. 19일 업계에 따르면, SK텔레콤은 최근 AIPP 솔루션 개발을 완료하고 상용화에 나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
