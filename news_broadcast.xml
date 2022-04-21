@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI로 사람 감정 읽는 서비스로봇 만든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421180134</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421180134</guid>
+            <pubDate>Thu, 21 Apr 2022 21:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[과거 로봇이 산업용 위주로 개발됐다면 현재는 호텔, 공항에서 안내를 하거나 식당에서 서빙을 해주는 서비스로봇이 주목받고 있다. 시장조사기관 스트래티지 애널리틱스는 전 세계 서비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국회, 망 이용계약 법안 추가 논의…공청회 간다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220421184111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420093159</guid>
             <pubDate>Wed, 20 Apr 2022 05:31:03 GMT</pubDate>
             <content:encoded><![CDATA[KT는 울산시의 도심 정체 해소와 화물차 교통사고 감축을 위해 차세대 지능형 교통체계(C-ITS) 구축을 완료했다고 20일 밝혔다. 울산시는 2019년 국토교통부에서 추진한 '...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위 사실조사 집행력 강해진다...이행강제금 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420124805</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420124805</guid>
-            <pubDate>Wed, 20 Apr 2022 04:49:21 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회가 20일 전기통신사업자의 금지행위 여부를 판단하기 위한 사실조사 관련 자료, 물건의 재제출명령 제도를 시행한다. 또 사업자가 재제출명령을 이행하지 않을 경우 부과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
