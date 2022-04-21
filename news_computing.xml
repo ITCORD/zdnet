@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 00:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원 "1분기 스테이킹 이용자 7.7만"…전년 대비 72% ↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421095359</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421095359</guid>
+            <pubDate>Thu, 21 Apr 2022 00:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 스테이킹(가상자산 예치) 서비스 플랫폼 '코인원 플러스' 1분기 이용자 수가 7만6천869명을 기록, 전년 동기 대비 72% 증가했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 치료제 만드는 사람들..."해커도 사람, 허점 있다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220421063104</link>
+            <guid>https://zdnet.co.kr/view/?no=20220421063104</guid>
+            <pubDate>Thu, 21 Apr 2022 00:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[사용자 시스템을 잠그거나 데이터를 암호하는 악성코드인 랜섬웨어는 해커들이 가장 선호하는 공격이 됐다. 암호를 풀어주는 대가로 금전을 갈취하기가 용의하기 때문이다. 매년 100~...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SW저작권협회, 서비스 플랫폼 개발자 무료 교육]]></title>
             <link>https://zdnet.co.kr/view/?no=20220420214420</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220419173211</guid>
             <pubDate>Tue, 19 Apr 2022 10:13:16 GMT</pubDate>
             <content:encoded><![CDATA[닷넷 프레임워크용 프로그래밍 언어 C#의 신규 프리뷰 버전이 공개됐다. 개발 생산성, 프로덕션 환경에서 애플리케이션의 탄력성, 성능 및 새로운 기능에 대한 지원을 개선했다. 최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 글로벌 1위 보안기업 됐다...연매출 10조 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419181538</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419181538</guid>
-            <pubDate>Tue, 19 Apr 2022 10:13:16 GMT</pubDate>
-            <content:encoded><![CDATA["지난해 마이크로소프트의 보안 매출이 10조 원을 넘었다. 매출 규모로 보면 전 세계에서 가장 큰 보안 회사다. 올해는 국내에서도 EDR(엔드포인트 탐지·대응), CWPP(클라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ISMS 인증 먼저? '가상자산' 사업 먼저? 규제 충돌 풀린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419180041</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419180041</guid>
-            <pubDate>Tue, 19 Apr 2022 10:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국디지털자산사업자연합회(KDA)와 한국핀테크학회는 과학기술정보통신부에서 신규 가상자산 사업자도 정보보호관리체계(ISMS) 인증을 받아 특정금융정보법(특금법)에 의해 사업자 신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
