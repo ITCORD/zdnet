@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 07:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루닛, 코스닥 상장예비심사 통과해]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220422171255</link>
+            <guid>https://zdnet.co.kr/view/?no=20220422171255</guid>
+            <pubDate>Fri, 22 Apr 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[루닛이 한국거래소로부터 코스닥 시장 상장을 위한 상장예비심사 승인을 받았다. 상장 주관은 NH투자증권이 맡았으며, 루닛은 상반기 내 증권신고서를 제출하고 상장에 박차를 가한다는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[미래의료] "비대면 의료의 핵심은 습관이다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220422151729</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220421132136</guid>
             <pubDate>Thu, 21 Apr 2022 04:49:32 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 접종 대상자가 노바백스 접종을 희망하면 3차 및 4차 접종이 가능해진다. 질병관리청은 기존에 접종 금기 및 연기 대상만 노바백스로 3·4차 백신을 허용한 것에서 실시 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[얀센 백신 49만2천회분, 21일 국내 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220421112247</link>
-            <guid>https://zdnet.co.kr/view/?no=20220421112247</guid>
-            <pubDate>Thu, 21 Apr 2022 03:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[얀센 백신 49만2천 회분이 21일 국내 도입된다. 얀센 백신은 KE252편으로 이날 오후 3시25분 인천국제공항으로 도입될 예정이다. 21일 기준 누적 1천854만 회분의 백...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
