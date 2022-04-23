@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["금리인상 공포, 美증시서 자금 이탈 시작됐다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220423185302</link>
+            <guid>https://zdnet.co.kr/view/?no=20220423185302</guid>
+            <pubDate>Sat, 23 Apr 2022 10:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 유명 투자은행인 뱅크오브아메리카(BoA)가 미국 증시에서 자금 이탈이 본격적으로 시작됐다고 밝혔다고 블룸버그통신이 22일(현지시간) 보도했다. BoA는 이날 보고서를 내...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/23/2445c8c4230441fafd95e4fe7b75075f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과기계, "과학기술 수석비서관 반드시 필요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220423172900</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220422171924</guid>
             <pubDate>Sat, 23 Apr 2022 05:10:01 GMT</pubDate>
             <content:encoded><![CDATA[“간단한 작업이라도 많은 사람이 사용하면 훨씬 효율적으로 업무시간을 줄일 수 있다. 단 5분을 단축해도 10만명이 사용하면 50만분을 절약하는 셈이다.” 농협중앙회 디지털혁신실...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/22/b0baeedba2cfaa4712fc86ea7235f344-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EU, 구글·메타 잡을 초강력규제법 승인]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220422163017</guid>
             <pubDate>Fri, 22 Apr 2022 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[농협금융그룹이 1분기 5천963억 원의 당기순익을 올렸다. 여기에 농업·농촌·농업인을 위해 지원하는 농업지원사업비 1천126억원을 포함하면 당기순이익은 총 6천728억 원이다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[尹정부 대통령실에 ICT 총괄은 없다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220422162818</link>
-            <guid>https://zdnet.co.kr/view/?no=20220422162818</guid>
-            <pubDate>Fri, 22 Apr 2022 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[새 정부 대통령실은 비서실과 국가안보실 등 2실장에 정무, 경제, 사회, 시민사회, 홍보 등 5수석을 비롯해 인사기획관으로 구성될 전망이다. 앞서 대통령비서실장의 인선이 이뤄졌...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
