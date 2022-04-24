@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한-미 항공 보안 협력 강화…항공 수요 회복 대비]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220424125109</link>
+            <guid>https://zdnet.co.kr/view/?no=20220424125109</guid>
+            <pubDate>Sun, 24 Apr 2022 04:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 지난 21일과 22일 영상회의로 진행한 '제10차 한-미 항공보안 협력회의'에서 미국 교통보안청(TSA)과 포스트 코로나 시대 항공 수요 회복에 대비해 항공보안 강...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/08/26/5d4ae17aca1534ab377a6a9aa17fcd7a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우정사업본부, 국가기관 첫 마이데이터 예비허가 신청]]></title>
             <link>https://zdnet.co.kr/view/?no=20220424122001</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220423234842</guid>
             <pubDate>Sun, 24 Apr 2022 03:23:57 GMT</pubDate>
             <content:encoded><![CDATA[방송통신심의위원회가 '2021 방송언어 조사자료집'을 발간, 배포했다고 24일 발표했다. 방심위는 텔레비전 예능 프로그램에서 영어 자막 사용이 해마다 급증해, 지난해 상반기에는...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/23/549898824be03363866da58f747a2a11-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트위터 창업주 잭 도시, CEO 대신 '헤드' 직함 달기로]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220423172900</guid>
             <pubDate>Sat, 23 Apr 2022 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부가 청와대 직제에서 과학기술보좌관 자리를 폐지할 것으로 알려진 가운데, 과학계가 당선인에 과학기술 관련 수석비서관 설치를 호소했다. 한국과학기술단체총연합회 등 국내 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스원, 코드클럽한국위원회 IT교육장비 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220423172826</link>
-            <guid>https://zdnet.co.kr/view/?no=20220423172826</guid>
-            <pubDate>Sat, 23 Apr 2022 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[시스원(대표 이상훈, 서일종)은 코드클럽한국위원회에 소프트웨어 교육 격차 해소 활동에 대한 후원을 위해 IT교육장비인 노트북을 기부했다고 23일 밝혔다. 지난해 12월 후원금과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
