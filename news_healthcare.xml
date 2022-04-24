@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 00:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 02:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 6만4725명…사망자는 109명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220424101308</link>
+            <guid>https://zdnet.co.kr/view/?no=20220424101308</guid>
+            <pubDate>Sun, 24 Apr 2022 02:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[24일 0시 기준 국내 발생 신규 확진자는 6만4천689명이며, 해외유입 사례 36명 등 신규 확진자는 총 6만4천725명으로 집계됐다. 국내 발생 신규 확진자 중 60세 이상...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 신규 7만5449명…사망자 10대 포함 151명]]></title>
             <link>https://zdnet.co.kr/view/?no=20220423111137</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220421135809</guid>
             <pubDate>Thu, 21 Apr 2022 05:36:52 GMT</pubDate>
             <content:encoded><![CDATA[큐라티스가 20일 인도네시아 보건부 장관 및 차관, 관계자들과 만나 현재 개발 중인 차세대 mRNA 코로나19 백신 'QTP104'에 대한 협력방안에 대한 의견을 나눴다. 큐라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금, 동반성장 평가 '최우수'…전년보다 두 등급 올라]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220421134402</link>
-            <guid>https://zdnet.co.kr/view/?no=20220421134402</guid>
-            <pubDate>Thu, 21 Apr 2022 04:49:32 GMT</pubDate>
-            <content:encoded><![CDATA[국민연금공단이 '2021년도 공공기관 동반성장 평가'에서 최우수 등급을 달성했다. 공공기관 동반성장 평가는 공공기관이 상생협력의 선도적 역할을 수행하도록 중소벤처기업부가 주관해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
