@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 08:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·엔비디아 뚫은 해커조직, T모바일 시스템도 침입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220424180322</link>
+            <guid>https://zdnet.co.kr/view/?no=20220424180322</guid>
+            <pubDate>Sun, 24 Apr 2022 09:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자, 엔비디아 등 글로벌 IT 기업을 해킹해 악명을 높인 해커 조직 랩서스가 지난달 글로벌 통신사 T모바일의 보안 시스템도 뚫고 들어가 소스코드를 탈취한 것으로 확인됐다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/08/29/leespot_A5uNaFepefUI-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK어스온, 말레이시아 'SK 427' 광구 낙찰…동남아 사업 확장 가속화]]></title>
             <link>https://zdnet.co.kr/view/?no=20220424152803</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220424145512</guid>
             <pubDate>Sun, 24 Apr 2022 07:10:46 GMT</pubDate>
             <content:encoded><![CDATA[안철수 대통령직인수위원회 위원장이 당선인측에 새정부 대통령실에 과학교육수석 직제 신설을 제안했다. 윤석열 당선인 측도 이를 검토키로 했다. 안철수 위원장은 24일 서울 통의동 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/24/bfc8a6c7d1923546de9fd71094bca77e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인수위, 25일 국정과제 최종안 선정...安 미래먹거리 직접 발표]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220424092201</guid>
             <pubDate>Sun, 24 Apr 2022 02:26:15 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차 아이오닉5와 기아 EV6가 독일 유력 자동차 전문지가 실시한 비교 평가에서 나란히 1, 2위를 차지했다. 24일 현대차그룹에 따르면 현대차 아이오닉5·기아 EV6는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI 인재양성 프로그램 '에이블스쿨' 2기 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220424094543</link>
-            <guid>https://zdnet.co.kr/view/?no=20220424094543</guid>
-            <pubDate>Sun, 24 Apr 2022 02:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 25일부터 청년 인공지능(AI) 인재양성 프로그램 'KT 에이블스쿨' 2기 교육생을 모집한다. 2기 신규 교육생은 총 750명 규모로 다음달 27일까지 모집한다. 만 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 08:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·엔비디아 뚫은 해커조직, T모바일 시스템도 침입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220424180322</link>
+            <guid>https://zdnet.co.kr/view/?no=20220424180322</guid>
+            <pubDate>Sun, 24 Apr 2022 09:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자, 엔비디아 등 글로벌 IT 기업을 해킹해 악명을 높인 해커 조직 랩서스가 지난달 글로벌 통신사 T모바일의 보안 시스템도 뚫고 들어가 소스코드를 탈취한 것으로 확인됐다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시스원, 코드클럽한국위원회 IT교육장비 후원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220423172826</link>
@@ -99,7 +107,7 @@
             <title><![CDATA[대학생 53%, 낙후된 학사 관리 시스템 불만]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Sun, 24 Apr 2022 08:14:28 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[대학교 내 학사 관리 시스템에 대한 학생들의 만족도는 47.2%에 불과한 것으로 나타났다. 솔트룩스(대표 이경일)는 자SNS를 통해 3주간 설문조사를 진행, 응답자 847명으로...]]></content:encoded>
         </item>
         <item>
@@ -122,7 +130,7 @@
             <title><![CDATA[베스핀글로벌, 라포랩스 CDN 비용 절반 절감]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Sun, 24 Apr 2022 08:14:28 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2022 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[베스핀글로벌(대표 이한주)이 모바일 패션 플랫폼 '퀸잇'을 운영하는 라포랩스의 콘텐츠 전송 네트워크(CDN) 등 클라우드 관련 서비스 운영 전반을 지원했다고 22일 밝혔다. 서...]]></content:encoded>
         </item>
         <item>
@@ -155,14 +163,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220421165925</guid>
             <pubDate>Thu, 21 Apr 2022 09:12:56 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 거래소 '고팍스'가 원화마켓 운영 가능한 가상자산 사업자가 되면서 국내 원화마켓 운영 가상자산 거래소가 5곳으로 늘어났다. 가상자산 결제 서비스에 사용되는 '페이코인'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅크웨어글로벌-킨드릴코리아, 국내기업 디지털 전환 선도 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220421155740</link>
-            <guid>https://zdnet.co.kr/view/?no=20220421155740</guid>
-            <pubDate>Thu, 21 Apr 2022 07:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[금융 코어뱅킹 솔루션 전문 기업 뱅크웨어글로벌은 세계 최대 IT 인프라 서비스 기업 킨드릴과 국내 기업의 디지털 전환 사업을 위한 공동 프로젝트를 진행하기로 업무협약을 맺었다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
