@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹 4개사, 'RE100' 가입 승인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220425093749</link>
+            <guid>https://zdnet.co.kr/view/?no=20220425093749</guid>
+            <pubDate>Mon, 25 Apr 2022 02:52:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차그룹은 현대자동차·기아 등 주요 4개사가 RE100 가입을 승인받았다고 25일 밝혔다. RE100은 '재생에너지(Renewable Energy) 100%'의 약자다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['MZ세대 위한 전기차'…미니, 'SE 젠 Z E 에디션' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220425092144</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220420140011</guid>
             <pubDate>Wed, 20 Apr 2022 07:28:21 GMT</pubDate>
             <content:encoded><![CDATA[르노코리아자동차는 XM3(수출명 르노 뉴 아르카나)가 차량용 반도체 수급난에도 불구하고 지난 1분기 동안 유럽 시장으로 1만8천583대가 선적되며 전년 같은 분기(5천120대)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, 2호 기술혁신펀드 3400억 결성…현대차·LG엔솔 출자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220420134642</link>
-            <guid>https://zdnet.co.kr/view/?no=20220420134642</guid>
-            <pubDate>Wed, 20 Apr 2022 05:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[3천400억원 규모 2호 기술혁신펀드가 결성됐다. 현대자동차·LG에너지솔루션·삼성SDI·SK온 등 수요기업인 대기업이 출자했다. 산업통상자원부는 20일 서울 삼성동 인터컨티넨탈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

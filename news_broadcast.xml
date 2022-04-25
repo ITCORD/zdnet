@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노키아, 5G 특화망 오픈랩 개설]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220425101940</link>
+            <guid>https://zdnet.co.kr/view/?no=20220425101940</guid>
+            <pubDate>Mon, 25 Apr 2022 02:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[노키아는 5G특화망 오픈랩을 개설했다고 25일 밝혔다. 국내서 운용하던 노키아 미래기술연구소의 부설 연구소로 회사 기술을 선보이고 한국의 5G 특화망의 발전을 장려하기 위해서다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어려운 '통신용어' 소비자가 직접 바꾼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220425092947</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220422095142</guid>
             <pubDate>Fri, 22 Apr 2022 00:55:03 GMT</pubDate>
             <content:encoded><![CDATA[국내 연구진이 북미 방송 표준에 맞춘 8K-UHD 미디어 서비스 기술을 세계에 공개한다. 한국전자통신연구원(ETRI, 원장 김명준)은 24일부터 나흘간 미국 라스베가스 컨벤션센...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 1년간 보이스피싱 1만5천건 사전 차단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220422085417</link>
-            <guid>https://zdnet.co.kr/view/?no=20220422085417</guid>
-            <pubDate>Fri, 22 Apr 2022 00:55:03 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 서울경찰청과 함께 선보인 '보이스피싱 번호차단 서비스'를 통해 지난 1년간 1만5천737개의 보이스피싱 전화연결을 차단했다고 22일 밝혔다. 보이스피싱 번호차단 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
