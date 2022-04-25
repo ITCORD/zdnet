@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 02:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버클라우드서 리스케일 고성능 컴퓨팅 쓴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220425123026</link>
+            <guid>https://zdnet.co.kr/view/?no=20220425123026</guid>
+            <pubDate>Mon, 25 Apr 2022 03:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 박원기)는 글로벌 고성능 컴퓨팅 (HPC) 플랫폼 기업 리스케일과 서비스형 고성능 컴퓨팅(HPCaaS) 제공을 위해 파트너십을 체결했다고 25일 밝혔다. 양...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어도비, 메타버스 시대 '콘텐츠 제작 도구' 왕좌 노린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220425093519</link>
@@ -147,7 +155,7 @@
             <title><![CDATA[대학생 53%, 낙후된 학사 관리 시스템 불만]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Mon, 25 Apr 2022 02:50:29 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 03:44:30 GMT</pubDate>
             <content:encoded><![CDATA[대학교 내 학사 관리 시스템에 대한 학생들의 만족도는 47.2%에 불과한 것으로 나타났다. 솔트룩스(대표 이경일)는 자SNS를 통해 3주간 설문조사를 진행, 응답자 847명으로...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220422095203</guid>
             <pubDate>Fri, 22 Apr 2022 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA["지금 보시는 화면은 2천200개 기업에 대한 사이버 공격 대시보드입니다. 우리 사이버보안관제센터는 365일 24시간 무중단 운영돼야 하기 때문에 총 근무자 35명이 4조 3교...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자금세탁방지전문가협회장에 플라이빗 설기환 상무]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220422101021</link>
-            <guid>https://zdnet.co.kr/view/?no=20220422101021</guid>
-            <pubDate>Fri, 22 Apr 2022 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 플라이빗 운영사 한국디지털거래소는 자금세탁방지(AML)부를 총괄하는 설기환 상무가 한국자금세탁방지전문가(KCAMS)협회 2대 회장에 선임됐다고 22일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
