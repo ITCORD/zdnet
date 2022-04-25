@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시큐리온 "모바일 안티바이러스 온백신, 종합탐지율 100% 달성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220425125039</link>
+            <guid>https://zdnet.co.kr/view/?no=20220425125039</guid>
+            <pubDate>Mon, 25 Apr 2022 04:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 기반 사이버 보안업체 시큐리온은 자사 모바일 안티바이러스 솔루션 '온백신(OnAV)'가 AV-TEST 인 테스트에서 종합 탐지율 100%를 달성했다고 25일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드서 리스케일 고성능 컴퓨팅 쓴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220425123026</link>
@@ -20,7 +28,7 @@
             <link>https://zdnet.co.kr/view/?no=20220425093519</link>
             <guid>https://zdnet.co.kr/view/?no=20220425093519</guid>
             <pubDate>Mon, 25 Apr 2022 02:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[어도비가 메타버스 구축을 위한 도구 제공 분야에서 리더십 확보를 위해 나섰다. 몰입형 3D 경험을 제공하는 메타버스가 기업들에게 과거 디지털 혁신 때처럼 새로운 비즈니스 기회를...]]></content:encoded>
+            <content:encoded><![CDATA[어도비가 메타버스 구축을 위한 도구 제공 분야에서 리더십 확보를 위해 나섰다. 기업들이 메타버스 시대를 준비해야 한다는 메시지를 전면에 내세우면서, 어도비가 메타버스 구축에 필...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -155,16 +163,8 @@
             <title><![CDATA[대학생 53%, 낙후된 학사 관리 시스템 불만]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Mon, 25 Apr 2022 03:44:30 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2022 04:18:23 GMT</pubDate>
             <content:encoded><![CDATA[대학교 내 학사 관리 시스템에 대한 학생들의 만족도는 47.2%에 불과한 것으로 나타났다. 솔트룩스(대표 이경일)는 자SNS를 통해 3주간 설문조사를 진행, 응답자 847명으로...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["최근 1주간 해킹 160만 건 막았다"...SK쉴더스 시큐디움센터 가보니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220422095203</link>
-            <guid>https://zdnet.co.kr/view/?no=20220422095203</guid>
-            <pubDate>Fri, 22 Apr 2022 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA["지금 보시는 화면은 2천200개 기업에 대한 사이버 공격 대시보드입니다. 우리 사이버보안관제센터는 365일 24시간 무중단 운영돼야 하기 때문에 총 근무자 35명이 4조 3교...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
