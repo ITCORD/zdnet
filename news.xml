@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 11:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 12:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, 카카오 택시 제재 착수…카카오모빌리티 "오해 소명할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220425200704</link>
+            <guid>https://zdnet.co.kr/view/?no=20220425200704</guid>
+            <pubDate>Mon, 25 Apr 2022 12:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회가 '카카오 택시 콜(승객 호출) 몰아주기' 의혹에 대한 조사를 마치고 제재 착수에 나선 데 대해 카카오모빌리티는 유감을 표했다. 회사는 배차 시스템과 관련한 오해...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/23/a72532d50e21e04f697c1160a041eef3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힐스톤파트너스, 메타79 지분 전부 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220425200949</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220425184707</guid>
             <pubDate>Mon, 25 Apr 2022 11:10:13 GMT</pubDate>
             <content:encoded><![CDATA[GS ITM(지에스아이티엠, 대표 변재철, 정보영)은 '투자정보 공유 및 이에 대한 보상을 위한 시스템 및 방법'에 대한 특허를 출원했다고 25일 밝혔다. 해당 특허는 우수한 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/13/ae6ef138b8310fc4c298cb59bb163cd3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인수위, 27일 '코로나 비상대응 100일 로드맵' 최종 발표]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220425162434</guid>
             <pubDate>Mon, 25 Apr 2022 08:14:46 GMT</pubDate>
             <content:encoded><![CDATA[비전AI 전문 기업 인텔리빅스(대표 장정훈)는 엔비디아가 운영하는 파트너 프로그램인 '메트로폴리스(Metropolis)'에 선정됐다고 25일 밝혔다. '엔비디아 메트로폴리스'는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조이시티, '크립토볼Z' NFT 프리세일 마무리]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220425162310</link>
-            <guid>https://zdnet.co.kr/view/?no=20220425162310</guid>
-            <pubDate>Mon, 25 Apr 2022 08:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[조이시티(대표 조성원)는 자회사 모히또게임즈(대표 한성현)가 개발한 P2E 게임 크립토볼Z on WEMIX(크립토볼Z)의 NFT 프리세일을 마쳤다고 25일 밝혔다. 크립토볼Z ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
