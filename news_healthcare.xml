@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 00:57:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 8만361명…사망 82명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220426094233</link>
+            <guid>https://zdnet.co.kr/view/?no=20220426094233</guid>
+            <pubDate>Tue, 26 Apr 2022 00:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[26일 0시 기준 국내 발생 확진자는 8만345명, 해외유입 사례 16명 등 신규 확진자는 총 8만361명으로 집계됐다. 국내 신규 확진자 가운데 60세 이상 고위험군은 1만6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인수위, 27일 '코로나 비상대응 100일 로드맵' 최종 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20220425181933</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220422171255</guid>
             <pubDate>Fri, 22 Apr 2022 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[루닛이 한국거래소로부터 코스닥 시장 상장을 위한 상장예비심사 승인을 받았다. 상장 주관은 NH투자증권이 맡았으며, 루닛은 상반기 내 증권신고서를 제출하고 상장에 박차를 가한다는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미래의료] "비대면 의료의 핵심은 습관이다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220422151729</link>
-            <guid>https://zdnet.co.kr/view/?no=20220422151729</guid>
-            <pubDate>Fri, 22 Apr 2022 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[혹자는 미래의료가 정보통신 기술과 결합해 개인·맞춤·예측의 방향으로 발전하리라 전망하지만, 이것만으론 설명이 부족하다. 신종 감염병·기후 위기·4차 산업혁명 등 급격한, 혹은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
