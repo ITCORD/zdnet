@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 09:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 10:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["메타버스, 10억명 이용 가능한 기술 수준 도달해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220426181924</link>
+            <guid>https://zdnet.co.kr/view/?no=20220426181924</guid>
+            <pubDate>Tue, 26 Apr 2022 10:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[“현실 세계와 같은 소통의 장으로 역할 하기엔, 메타버스는 아직 부족하다. 2억~3억명이 현재 메타버스를 이용하고 있는데, 10억명가량이 사용할 수 있는 기술 수준에 도달해야 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["청와대 관람신청, 카톡·네이버·토스 앱으로 하세요”]]></title>
             <link>https://zdnet.co.kr/view/?no=20220426172839</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220426060206</guid>
             <pubDate>Mon, 25 Apr 2022 21:10:36 GMT</pubDate>
             <content:encoded><![CDATA[세계 최고 부자인 일론 머스크가 트위터의 새 주인이 됐다. 트위터가 일론 머스크에게 주당 54.20달러에 회사를 매각하기로 했다고 CNBC를 비롯한 외신들이 25일(현지시간) ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["트위터, 머스크 인수제안 수용…곧 공식 발표"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220425224054</link>
-            <guid>https://zdnet.co.kr/view/?no=20220425224054</guid>
-            <pubDate>Mon, 25 Apr 2022 14:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 이사회와 일론 머스크 간의 지분 인수 협상이 급진전되고 있다. 25일(현지시간) 중 인수 사실을 공식 발표할 가능성이 있다는 보도까지 나왔다. 뉴욕타임스, 워싱턴포스트 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
