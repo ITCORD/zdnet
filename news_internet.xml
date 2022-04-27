@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["CI/CD 구축하면, 개발자 칼퇴근 가능해져"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220427155145</link>
+            <guid>https://zdnet.co.kr/view/?no=20220427155145</guid>
+            <pubDate>Wed, 27 Apr 2022 08:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[“구글, 아마존, 페이스북, 넷플릭스가 공통으로 지향하는 방향은 '무브 패스트(MOVE FAST)'다. 많이 움직여 시장 변화에 발 빠르게 대응하면서, 동시에 고객 요구사항을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마리우폴서 세 번째 집단 매장지 정황 포착]]></title>
             <link>https://zdnet.co.kr/view/?no=20220427154133</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220426141814</guid>
             <pubDate>Tue, 26 Apr 2022 06:16:11 GMT</pubDate>
             <content:encoded><![CDATA[잭 도시가 트위터 새 주인이 된 일론 머스크를 뜨겁게 환영했다. 엔가젯에 따르면 잭 도시는 25일(현지시간) “일론은 내가 신뢰하는 유일한 해결책”이라고 강조했다. 트위터 공동...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 돌아온 '배민신춘문예', 수상작 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220426134033</link>
-            <guid>https://zdnet.co.kr/view/?no=20220426134033</guid>
-            <pubDate>Tue, 26 Apr 2022 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족 '2022 배민신춘문예'가 당선작을 발표했다. 올 배민신춘문예에는 '역대 최다'인 53만 편이 응모됐다. 배달의민족(이하 배민)을 운영하는 우아한형제들(대표 김범준)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
