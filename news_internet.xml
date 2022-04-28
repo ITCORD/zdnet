@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 06:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융위, 조각투자 가이드라인 마련]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220428142903</link>
+            <guid>https://zdnet.co.kr/view/?no=20220428142903</guid>
+            <pubDate>Thu, 28 Apr 2022 06:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회가 조각투자에 대한 가이드라인을 마련했다. 조각투자는 2인 이상의 투자자가 실물이나 그 밖에 재산적 가치가 있는 권리를 분할한 청구권에 투자·거래하는 등의 신종 투자 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플래티어 마테크 솔루션 '그루비', 케이카 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220428133734</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220427111503</guid>
             <pubDate>Wed, 27 Apr 2022 03:16:52 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나와 전쟁하고 있는 러시아가 3차 세계대전이 일어날 가능성에 대해 경고했다고 AFP통신이 25일(현지시간) 보도했다. 세르게이 라브로프 러시아 외무장관은 이날 자국 매체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아, 폴란드·불가리아 가스 공급 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220427111100</link>
-            <guid>https://zdnet.co.kr/view/?no=20220427111100</guid>
-            <pubDate>Wed, 27 Apr 2022 03:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[러시아가 폴란드와 불가리아로 가스 공급을 중단한다고 통보했다. 26일(현지시간) BBC, 가디언 등에 따르면 폴란드 정부는 러시아 국영 가스회사 가스프롬이 27일부터 가스 공급...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
