@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 19:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 20:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VTW-아가도스, aPaaS 시장 선도 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220428231959</link>
+            <guid>https://zdnet.co.kr/view/?no=20220428231959</guid>
+            <pubDate>Thu, 28 Apr 2022 20:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[브이티더블유(VTW, 대표 조미리애)와 아가도스(대표 박용규)는 28일 오후 서울역 인근 브이티더블유 사무실에서 초자동화 기술 확대를 통한 애플리케이션 현대화를 위해 협력하기로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["가상자산 거래소 평가, 은행 아닌 전문 'FIU'가 맡아야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220428180057</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220428112905</guid>
             <pubDate>Thu, 28 Apr 2022 04:06:25 GMT</pubDate>
             <content:encoded><![CDATA[한국후지쯔는 레드햇 오픈시프트 컨테이너 플랫폼으로 쿠버네티스용 후지쯔 엔터프라이즈 포스트그레를 출시했다고 28일 밝혔다. 쿠버네티스용 후지쯔 엔터프라이즈 포스트그레는 하이브리드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팀뷰어, 한국 지사 설립…이혜영 전 IBM 전무 대표 선임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220427184709</link>
-            <guid>https://zdnet.co.kr/view/?no=20220427184709</guid>
-            <pubDate>Thu, 28 Apr 2022 04:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[원격 관리 솔루션 기업 팀뷰어는 이혜영 팀뷰어코리아 대표이사를 선임했다고 지난 27일 발표했다. 팀뷰어코리아는 아시아태평양지역 조직 구축의 일환으로 새롭게 설립됐다. 신임 이혜...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
