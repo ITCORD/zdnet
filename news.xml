@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 21:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 22:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 격리해제 후에도 후유증 지속…조기 관리 필요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220426114206</link>
+            <guid>https://zdnet.co.kr/view/?no=20220426114206</guid>
+            <pubDate>Fri, 29 Apr 2022 22:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[[사진설명] 자생한방병원 의료진이 코로나 후유증 환자에게 침을 놓고 있다. 코로나19가 감소세로 전환된 가운데 격리해제 후 후유증(Long COVID)을 겪는 확진자 사례가 곳...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/29/2565028efc5622f300adf5e48ff269c5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['엽산' '비타민 B12' 과잉섭취시 비만 위험 높이는 유전자 있다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220428161227</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220429172202</guid>
             <pubDate>Fri, 29 Apr 2022 15:13:13 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비가 자사 전 세계 직원을 대상으로 어디서든 근무하는 새 근무체계를 도입한다고 29일 알렸다. 브라이언 체스키 에어비앤비 최고경영자(CEO)는 이날 전 세계 직원에게 새...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/29/004539a14074b635b3b15ffc75490802-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오T, 지역 시티투어 예약 서비스]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220429161130</guid>
             <pubDate>Fri, 29 Apr 2022 08:15:09 GMT</pubDate>
             <content:encoded><![CDATA[두산에너빌리티(두산중공업)는 1분기에 매출액 1조4천275억원, 영업이익 727억원을 기록했다고 29일 공시했다. 1분기 매출액은 전년 동기 대비 27% 늘었다. 영업이익도 같...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[참여연대 "통신 3사, 중저가 5G 요금제 즉시 출시하라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220429155104</link>
-            <guid>https://zdnet.co.kr/view/?no=20220429155104</guid>
-            <pubDate>Fri, 29 Apr 2022 07:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[참여연대는 29일 성명을 통해 통신 3사에 "20~100GB 중저가 요금제를 출시해 소비자들의 통신비 부담을 완화할 수 있기를 기대한다"고 밝혔다. 참여연대는 전날 대통령직인수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
