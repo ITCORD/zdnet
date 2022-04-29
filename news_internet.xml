@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 04:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 테슬라 주식 5조원 어치 팔았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220429132310</link>
+            <guid>https://zdnet.co.kr/view/?no=20220429132310</guid>
+            <pubDate>Fri, 29 Apr 2022 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 보유하고 있던 테슬라 주식 440만 주, 약 40억 달러(약 5조 800억원)어치를 매도했다고 테크크런치 등 외신들이 보도했다. 일론 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[러시아군 탱크가 취약한 이유는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220429100309</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220428082308</guid>
             <pubDate>Thu, 28 Apr 2022 01:11:25 GMT</pubDate>
             <content:encoded><![CDATA[여기어때가 미래에셋캐피탈로부터 500억원 규모의 투자 유치에 성공, 기업 가치 1조2천억원을 인정받아 '유니콘(기업가치 1조 이상 비상장사)'에 올랐다고 28일 밝혔다. 이번 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 1분기 매출 예상 밑돌아…월간 이용자 29억4천만]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220428064037</link>
-            <guid>https://zdnet.co.kr/view/?no=20220428064037</guid>
-            <pubDate>Thu, 28 Apr 2022 01:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 1분기 매출액 279억달러(약 35조원), 순이익 75억달러(약 9조원)을 기록했다고 27일(현지시간) 공시했다. 매출액은 작년 같은 기간에 비해 7% 증가한 반면 순이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

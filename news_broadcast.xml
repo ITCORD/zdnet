@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 04:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뭐볼래] OTT 타고 떠나는 동심여행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220429103107</link>
+            <guid>https://zdnet.co.kr/view/?no=20220429103107</guid>
+            <pubDate>Fri, 29 Apr 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[TV 만화만 봐도 행복했던 시절이 있었다. 특히 MZ세대라면 학교를 마치고 집에 돌아와서 TV 속 주인공과 함께 악당을 물리치고 포켓몬을 잡으러 갔던 기억들이 있을 것이다. 당...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[화웨이 "2030년까지 디지털·물리 세계 매끄럽게 통합될 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220429093258</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220427150449</guid>
             <pubDate>Wed, 27 Apr 2022 08:15:04 GMT</pubDate>
             <content:encoded><![CDATA[웹툰을 원작으로 한 콘텐츠의 인기가 나날이 높아지고 있다. 마치 스마트폰을 뚫고 나온 것처럼 느껴지는 캐릭터들의 모습은 웹툰을 즐겁게 본 독자들의 팬심을 자극하고, 웹툰과 달라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 강화한 SKT '퀀텀3'…가성비·편의성도↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220427114253</link>
-            <guid>https://zdnet.co.kr/view/?no=20220427114253</guid>
-            <pubDate>Wed, 27 Apr 2022 08:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 삼성전자와 손잡고 양자난수생성(QRNG) 칩셋을 탑재한 5G폰 '갤럭시 퀀텀3'를 26일 출시했다. 2020년 첫 번째 양자암호폰 '갤럭시A 퀀텀'을 출시한 이후 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
