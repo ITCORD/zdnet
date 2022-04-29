@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페라리, SNS 캠페인 '한국속에서' 전개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220429165012</link>
+            <guid>https://zdnet.co.kr/view/?no=20220429165012</guid>
+            <pubDate>Fri, 29 Apr 2022 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[페라리는 새로운 SNS 캠페인 '한국속에서'를 전개한다고 29일 밝혔다. 페라리 전통·기술을 국내 여러 도시와 함께 담아낸 한국속에서는 총 네 편으로 제작된다. 첫 번째 편은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포드 직원 95% "재택-출근 하이브리드 근무 선호"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220429083040</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220425145922</guid>
             <pubDate>Mon, 25 Apr 2022 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 올해 1분기 경영 실적을 발표했다. 차량용 반도체 공급난 지속과 중국발 부품 수급 불균형으로 인한 판매 감소에도 불구하고 매출·영업이익은 늘었다. 현대차는 25일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[車 안전·편의기능도 '구독 서비스' 시대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220425110236</link>
-            <guid>https://zdnet.co.kr/view/?no=20220425110236</guid>
-            <pubDate>Mon, 25 Apr 2022 05:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[차량 내 안전·편의기능 구독 서비스가 증가하고 있는 것으로 조사됐다. 25일 한국자동차연구원이 발표한 산업 동향에 따르면 주요 완성차 제조사가 최근 차량 내 특정 기능을 구독하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
