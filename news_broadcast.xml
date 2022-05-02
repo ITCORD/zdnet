@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[증권가 "5G 중간요금제, 이통사 실적에 큰 영향 없을 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220502133449</link>
+            <guid>https://zdnet.co.kr/view/?no=20220502133449</guid>
+            <pubDate>Mon, 02 May 2022 06:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[대통령직인수위원회가 5G 요금제의 폭을 넓히겠다고 밝히자 업계에서는 부담스럽다는 목소리가 흘러나오고 있다. 다만 증권가는 크게 우려할 만한 상황은 아니라는 전망이다. 2일 업계...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LGU+, 소상공인 시장공략 박차…"5년 내 점유율 33% 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220502130406</link>
+            <guid>https://zdnet.co.kr/view/?no=20220502130406</guid>
+            <pubDate>Mon, 02 May 2022 06:14:46 GMT</pubDate>
+            <content:encoded><![CDATA["LG유플러스의 소호(Small Office Home Office) 통신 시장점유율은 9% 정도다. 하지만 5년 내로 매출 3천억원, 누적 점유율 33%를 달성하는 게 목표다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무선인터넷·상권분석 지원…LGU+, 소상공인 지원 상품 내놓는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220502090751</link>
@@ -83,7 +99,7 @@
             <title><![CDATA[방통위, 시청각장애인용 TV 1만5천대 무료 보급]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Mon, 02 May 2022 05:25:47 GMT</pubDate>
+            <pubDate>Mon, 02 May 2022 06:14:46 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 시청각장애인이 방송시청을 편리하게 할 수 있도록 도와줄 맞춤형TV 1만5천대를 보급한다. 이에 따라 2일부터 6월7일까지 시청자미디어재단 홈페이지와 주민등록지 ...]]></content:encoded>
         </item>
         <item>
@@ -149,21 +165,6 @@
             <pubDate>Fri, 29 Apr 2022 07:11:29 GMT</pubDate>
             <content:encoded><![CDATA[통신사들이 탈통신을 강화하며 인공지능(AI) 사업 영역을 늘리고 있다. 시장 확장에 제한이 있는 통신업의 한계를 극복하고 새로운 수익창출 모델을 발굴한다는 전략이다. 그중에서도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원게임루프 성과 눈에 띄어...원스토어 기업공개에 청신호]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220429152609</link>
-            <guid>https://zdnet.co.kr/view/?no=20220429152609</guid>
-            <pubDate>Fri, 29 Apr 2022 07:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[기업공개(IPO)를 앞둔 원스토어가 크로스 플랫폼 서비스인 '원게임루프'에서 괄목한 성과를 거두고 있어 업계의 이목을 끌고 있다. 29일 원스토어에 따르면, 지난해 9월 베타버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시청자미디어재단, 발달장애인용 콘텐츠 제작사 입찰 시행]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Mon, 02 May 2022 05:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[시청자미디어재단은 발달장애인의 미디어 접근권을 높이기 위해 생애주기, 생활연령을 고려한 '발달장애인용 신규 맞춤형 콘텐츠 제작사업' 업체 선정 입찰을 시행한다고 29일 밝혔다....]]></content:encoded>
         </item>
     </channel>
 </rss>

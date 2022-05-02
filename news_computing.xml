@@ -4,9 +4,16 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 플레이북, 어떻게 작성할까? (상)]]></title>
+            <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
+            <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
+            <pubDate>Mon, 02 May 2022 06:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[큰 대기업이든 중소기업이든, 혹은 자기의 가게를 운영하는 자영업자든 과연 AI라는 것을 어떻게 나의 비즈니스에 접목할 것일가에 대해서 전략을 가지고 있어야 한다. 마치 인터넷이...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[국가정보자원관리원, 2천억 규모 자원통합사업 발주]]></title>
             <link>https://zdnet.co.kr/view/?no=20220502141124</link>
@@ -157,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220429141107</guid>
             <pubDate>Fri, 29 Apr 2022 05:15:59 GMT</pubDate>
             <content:encoded><![CDATA[가상자산에 대한 제도권으로 편입될 것이란 기대가 높아지는 가운데, 증권법 적용 여부가 불확실한 상황이다. 이에 블록체인 기술 특성을 고려해 법 적용 여부 판단을 3년간 유예하는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포블게이트, 신임 대표에 어국선 경영 총괄 선임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220429134821</link>
-            <guid>https://zdnet.co.kr/view/?no=20220429134821</guid>
-            <pubDate>Fri, 29 Apr 2022 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 포블게이트는 어국선 신임 대표이사를 선임했다고 29일 밝혔다. 어국선 대표는 2017년부터 블록체인 산업에서 가상자산 프로젝트 컨설팅을 진행하고, 이후 가상자산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
