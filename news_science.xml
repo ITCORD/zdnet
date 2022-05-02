@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 00:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수명 긴 배터리 만들 때 좋은 소재만큼 중요한 것은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220502094445</link>
+            <guid>https://zdnet.co.kr/view/?no=20220502094445</guid>
+            <pubDate>Mon, 02 May 2022 03:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[이차전지의 수명을 늘이려면 전지 소재 자체의 특성뿐 아니라 소재 입자 간 구조와 상호작용이 중요하다는 사실이 드러났다. 미국 버지니아공과대학과 퍼듀대학, 미국 에너지부 공동 연...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/02/c694b4d75f6ef63303f866a2571a94bc-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[크래프톤 재직 KAIST 동문, 학부 후배에 1억원 기부]]></title>
             <link>https://zdnet.co.kr/view/?no=20220429110136</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220428172140</guid>
             <pubDate>Thu, 28 Apr 2022 09:18:51 GMT</pubDate>
             <content:encoded><![CDATA[차세대 에너지로 주목받는 소형모듈형원자로(SMR)를 선박에 적용하기 위해 정부출연연구기관 두 곳이 손을 잡았다. 한국원자력연구원(KAERI, 원장 박원석)과 선박해양플랜트연구소...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/28/7c845bdf917f0e59c0a3cc880cd4c929-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[화성 헬기, 탐사로버 장비 포착 "착륙, 장난 아니네?" [여기는 화성]]]></title>
@@ -48,14 +56,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2차원 반도체 만들 초박막 전극 소재 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220427183205</link>
-            <guid>https://zdnet.co.kr/view/?no=20220427183205</guid>
-            <pubDate>Thu, 28 Apr 2022 04:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[현재 컴퓨터 프로세서는 핵심 부품인 실리콘 기반 논리 소자의 미세화·집적화가 심화되면서 공정 비용과 전력 소모 증가라는 문제를 겪고 있다. 이러한 한계를 극복하기 위해 원자층 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[그래핀, 원하는대로 층수 조절해 합성한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220428103557</link>
             <guid>https://zdnet.co.kr/view/?no=20220428103557</guid>
@@ -69,6 +69,14 @@
             <guid>https://zdnet.co.kr/view/?no=20220428091028</guid>
             <pubDate>Thu, 28 Apr 2022 04:10:37 GMT</pubDate>
             <content:encoded><![CDATA[최근 주목받는 인공지능이나 자율주행, 사물인터넷(IoT), 빅데이터 등의 기술을 일상에 적용하려면 대량의 정보를 더욱 빠르고 효율적으로 처리하는 고성능 반도체가 필수다. 지금까...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2차원 반도체 만들 초박막 전극 소재 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220427183205</link>
+            <guid>https://zdnet.co.kr/view/?no=20220427183205</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[현재 컴퓨터 프로세서는 핵심 부품인 실리콘 기반 논리 소자의 미세화·집적화가 심화되면서 공정 비용과 전력 소모 증가라는 문제를 겪고 있다. 이러한 한계를 극복하기 위해 원자층 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220425112153</guid>
             <pubDate>Mon, 25 Apr 2022 04:22:57 GMT</pubDate>
             <content:encoded><![CDATA[거대한 목성에 목성에서 가장 큰 위성 '가니메데'의 그림자가 생긴 모습이 포착됐다. 우주 전문매체 스페이스닷컴은 24일(현지시간) 미국 항공우주국(NASA)이 최근 공개한 목성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PC 전원 꺼져도 모든 정보 복원 가능해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220425120851</link>
-            <guid>https://zdnet.co.kr/view/?no=20220425120851</guid>
-            <pubDate>Mon, 25 Apr 2022 04:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[전원 공급이 끊겨도 모든 정보가 그대로 남아 있는 비휘발성 컴퓨팅 플랫폼이 개발됐다. KAIST(총장 이광형)는 전기및전자공학부 정명수 교수 연구팀이 모든 정보가 전원 공급 여...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
