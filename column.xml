@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이정규 칼럼] 이어령의 눈물방울]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220503163014</link>
+            <guid>https://zdnet.co.kr/view/?no=20220503163014</guid>
+            <pubDate>Tue, 03 May 2022 08:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[컴퓨터 저장 용량에 대하여 말하던 중 동료가 말했다. “미국에서 엄청난 정보를 담을 수 있는 무한대의 저장장치가 나왔대요!” 내가 깜짝 놀라 물었다. “아니, 그런 저장장치가 있어요?” 그가 씩 웃으며 말했다. “그런데 아직 못쓰고 있대요. 지난 수개월 동안 포맷팅하고 있는데, 언제 끝날지 모른대요!” 아뿔싸! 낚였다. 무한의 개념세계와 구현기술의 유한함을 풍자한 유머로 생각된다.수십년이 지...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/03/eff98a4a2e2ee6c725fe744c2d1d2a1b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 스타트업, 이사회 열고 의사록 반드시 남겨야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220503105740</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Mar 2022 00:49:36 GMT</pubDate>
             <content:encoded><![CDATA[기어이 벌어졌다. 혹시나 하던 디지털 플랫폼정부가 그의 당선으로 현실이 됐다. 먹기는 쉽지만 소화하기 어려운 게 있다. 이는 덥석물어서는 안된다. 정보통신(ICT) 분야에서는 스마트시티가 그렇다. 누구나 스마트시티를 말한다. 하지만 이를 실현하는 건 정말 어렵다. 기술은 물론 여러 요소가 복합적으로 작용하기 때문이다. 먹기는 쉽지만 소화하기 힘든 것과 같다. 문재인 정부 초기 스마트시티는 요...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/03/24/cd31bcfa0758ac5be535293c92c9b0dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 온프레미스를 활용하는 새로운 전략, 클라우드 인접성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220324163801</link>
-            <guid>https://zdnet.co.kr/view/?no=20220324163801</guid>
-            <pubDate>Thu, 24 Mar 2022 08:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[기업들은 워크로드를 가장 효율적으로 확장하고 관리할 수 있는 지점에 워크로드를 배치하는 등 하이브리드 멀티클라우드 전략을 채택하고 있다.&nbsp;기업은 이를 통해, 퍼블릭 클라우드가 제공하는 성능과 민첩성을 활용함과 동시에 온프레미스가 제공하는 데이터 보안 기능을 활용한다.&nbsp;그러나 디지털 리더들은 고립된 IT 시스템이 가진 한계를 극복하기 위해 클라우드 인접성이라는 새로운 전략을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/25/1b4a282912a77938bea91da9911f798e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
