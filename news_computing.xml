@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 19:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 20:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[델테크놀로지스, 스토리지OS에 NVMe/TCP 지원 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220504040736</link>
+            <guid>https://zdnet.co.kr/view/?no=20220504040736</guid>
+            <pubDate>Tue, 03 May 2022 20:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 델테크놀로지스는 3일(현지시간) 미국 라스베이거스에서 개최한 델테크놀로지스월드(DTW) 2022의 2일차 행사에서 스토리지 포트폴리오 전반의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오지스, 폴리곤 기반 DEX '메시스왑' 개시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220503174205</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503075323</guid>
             <pubDate>Mon, 02 May 2022 23:19:56 GMT</pubDate>
             <content:encoded><![CDATA[자율주행 보안·모빌리티 플랫폼 업체 아우토크립트는 지난달 28일 서비스형 모빌리티(MaaS) 산업 중흥을 위한 모빌리티 기업 협의체 '모스트업 얼라이언스(MOSTUP Allia...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[추경호 "가상자산 소득 과세 2년 유예해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220502172041</link>
-            <guid>https://zdnet.co.kr/view/?no=20220502172041</guid>
-            <pubDate>Mon, 02 May 2022 14:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[추경호 부총리 겸 기획재정부 장관 후보자가 내년 시행 예정인 가상자산 거래 소득 과세를 2년 정도 더 유예해야 한다는 입장을 밝혔다. 추경호 후보자는 2일 국회 인사청문회에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
