@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 22:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 23:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지마켓·옥션, 가정의 달 상품 특가 판매]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220504080817</link>
+            <guid>https://zdnet.co.kr/view/?no=20220504080817</guid>
+            <pubDate>Tue, 03 May 2022 23:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[지마켓과 옥션이 5월을 맞아 다양한 가정의 달 행사를 연다. 특히 올해는 거리두기 해제 직후 맞이하는 가정의 달인만큼, 부모님과 자녀를 위한 대표 선물은 물론, 일상회복과 관련...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/04/345267fc1156a15a978cbd80a3c6153d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로지올, 인성데이타에 흡수 합병..."지배구조 개편 목적”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220503233152</link>
+            <guid>https://zdnet.co.kr/view/?no=20220503233152</guid>
+            <pubDate>Tue, 03 May 2022 23:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[라스트마일 딜리버리 플랫폼 로지올(서비스명 생각대로)은 지난 달 30일 모회사 인성데이타 주식회사로의 흡수합병을 완료했다고 4일 밝혔다. 금번 합병은 분할을 위한 일시적 통합이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/16/41ea97c4527bc4294572ef9fd262585b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[델테크놀로지스, 스토리지OS에 NVMe/TCP 지원 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220504040736</link>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220503233448</guid>
             <pubDate>Tue, 03 May 2022 15:12:27 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 미국 디시네트워크에 1조원대 규모의 5G 통신장비 공급 계약을 체결했다. 이번 수주는 삼성전자의 미국내 5G 통신장비 공급 중 역대 두번째 규모다. 이재용 삼성전자 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/03/7a41856fde12cd3dfeb0284802eba1c2-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오지스, 폴리곤 기반 DEX '메시스왑' 개시]]></title>
@@ -29,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220503174205</guid>
             <pubDate>Tue, 03 May 2022 13:34:02 GMT</pubDate>
             <content:encoded><![CDATA[국내 블록체인 기술 기업 오지스는 3일 '폴리곤' 체인에 신규 탈중앙화 자동 마켓 메이커(AMM DEX) '메시스왑'을 개시했다고 밝혔다. 오지스는 폴리곤과 파트너십을 체결하고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/03/fa36faf33320f86ffd2a09faa827e7c0-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포시에스, AWS 파트너 SW패스 획득...글로벌 진출 박차]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503181924</guid>
             <pubDate>Tue, 03 May 2022 10:15:52 GMT</pubDate>
             <content:encoded><![CDATA[환경부 소속 국립환경과학원은 사물인터넷(IoT)을 활용한 통합관리사업장 환경관리체계 구축을 위해 롯데케미칼 기초소재사업부(대표 황진구)와 4일 업무협약을 체결한다. 이번 협약은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 광고 속 '진짜 맛집' 찾는 비결은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503174857</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503174857</guid>
-            <pubDate>Tue, 03 May 2022 10:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[광고 게시물이 많은 맛집 정보 가운데, 네이버는 어떻게 이용자들이 원하는 숨은 맛집을 어떻게 찾아내고 추천할까. 네이버는 3일 진행된 검색 콜로키움 2022에서 사용자의 취향과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔미디어플랫폼, 닌텐도스위치 게임 가격 비교 '올마게' 앱 오픈]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503161025</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503161025</guid>
-            <pubDate>Tue, 03 May 2022 09:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[엔미디어플랫폼(대표 송재화)은 닌텐도 스위치게임 가격 비교 서비스 '올마게(allmage)'를 오픈했다고 3일 밝혔다. '올마게'는 국내 및 해외 닌텐도 e숍 내 게임 가격 정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
