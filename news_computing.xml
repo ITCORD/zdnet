@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 05:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 06:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해커가 숨긴 악성코드, 리버스엔지니어링 기술로 찾는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220504143726</link>
+            <guid>https://zdnet.co.kr/view/?no=20220504143726</guid>
+            <pubDate>Wed, 04 May 2022 06:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[세계적으로 사이버위협이 거세짐에 따라 사이버보안 수요가 크게 증가하고 있다. 급성장 중인 시장을 차지하기 위한 글로벌 기술 패권 경쟁도 치열하다. 지디넷코리아는 글로벌 기술 경...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 보바스어린이의원 환아와 인형 만들며 교감]]></title>
             <link>https://zdnet.co.kr/view/?no=20220504135132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503173008</guid>
             <pubDate>Tue, 03 May 2022 09:11:49 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 클라우드 서비스 업체 AWS(아마존웹서비스)는 전문 클라우드 인력 양성을 위해 교육기관과 연계된 AWS 아카데미, 경력 단절자를 위한 AWS 리스타트, 자기주도 학습으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유니네트워크, KT와 지자체 전기차 충전기 설치 사업 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503171950</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503171950</guid>
-            <pubDate>Tue, 03 May 2022 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 기반의 친환경 제품과 플랫폼 서비스를 제공하는 퓨리에버 프로젝트 운영사 유니네트워크는 전기차 충전기를 무상으로 설치하는 등 전기차 인프라 조기 확대를 위해 KT와 파트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
