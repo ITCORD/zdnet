@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 03:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 04:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, UFS 4.0 메모리 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220504113747</link>
+            <guid>https://zdnet.co.kr/view/?no=20220504113747</guid>
+            <pubDate>Wed, 04 May 2022 04:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자는 4일 유니버설 플래시 스토리지(UFS) 4.0 규격 플래시 메모리를 개발했다고 밝혔다. 국제 반도체 표준화 기구 JEDEC는 3일(현지시간) UFS 4.0 규격을 승...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 1분기 매출 71% 증가…PC 침체 우려 불식]]></title>
             <link>https://zdnet.co.kr/view/?no=20220504103252</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220427101028</guid>
             <pubDate>Wed, 27 Apr 2022 03:17:32 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 27일 휴대용 솔리드스테이트드라이브(SSD) 'T7 실드(Shield)'를 출시했다. 2020년 국제전자제품박람회(CES)에서 혁신상을 받은 'T7 터치(Touch)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 1분기 영업익 2.8조원...전년대비 115.9% ↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220427093325</link>
-            <guid>https://zdnet.co.kr/view/?no=20220427093325</guid>
-            <pubDate>Wed, 27 Apr 2022 01:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 27일 연결 재무제표 기준 1분기 매출액이 지난해 같은 기간보다 43.1% 늘어난 12조1천557억원으로 잠정 집계됐다고 공시했다. 1분기 실적 중 가장 많은 규...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
