@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美·日, 臺·日 '반도체 동맹'에 삼성 홀로 고군분투]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220504163902</link>
+            <guid>https://zdnet.co.kr/view/?no=20220504163902</guid>
+            <pubDate>Wed, 04 May 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 韓 'K-반도체 전략' 이대로 괜찮은가]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/07/23/5dbedae1f344dd0129e6393b46b74667-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털경제 패권국가·디지털플랫폼정부, 尹국정과제 전면배치]]></title>
             <link>https://zdnet.co.kr/view/?no=20220503115454</link>
@@ -174,14 +182,6 @@
             <pubDate>Fri, 18 Feb 2022 00:54:15 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 배달앱 단건배달 수수료 개편 논란]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2021/11/19/9797d8a4b225c6c1f35b58b4012f1166-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 공급난, 진짜로 10~20년 지속될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220215163120</link>
-            <guid>https://zdnet.co.kr/view/?no=20220215163120</guid>
-            <pubDate>Wed, 16 Feb 2022 02:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 가열되는 반도체 공급망 주도권 경쟁]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/06/03/4c84914926f56cdf6b15283e3c507b65-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
