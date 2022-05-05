@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 신규 채용 인원 줄인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220505132008</link>
+            <guid>https://zdnet.co.kr/view/?no=20220505132008</guid>
+            <pubDate>Thu, 05 May 2022 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[소셜네트워크서비스(SNS) 페이스북, 인스타그램 운영사 메타가 신규 채용 인원을 대폭 줄일 계획이라고 외신이 4일(현지시간) 보도했다. 보도에 따르면 메타는 신입 엔지니어 충원...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, 세로 전체화면으로 즐긴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220505083957</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503174857</guid>
             <pubDate>Tue, 03 May 2022 10:17:05 GMT</pubDate>
             <content:encoded><![CDATA[광고 게시물이 많은 맛집 정보 가운데, 네이버는 어떻게 이용자들이 원하는 숨은 맛집을 어떻게 찾아내고 추천할까. 네이버는 3일 진행된 검색 콜로키움 2022에서 사용자의 취향과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이정규 칼럼] 이어령의 눈물방울]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503163014</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503163014</guid>
-            <pubDate>Tue, 03 May 2022 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[컴퓨터 저장 용량에 대하여 말하던 중 동료가 말했다. “미국에서 엄청난 정보를 담을 수 있는 무한대의 저장장치가 나왔대요!” 내가 깜짝 놀라 물었다. “아니, 그런 저장장치가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
