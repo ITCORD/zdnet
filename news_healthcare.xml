@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 00:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 02:56:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 4만2천296명…사망 79명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220505095758</link>
+            <guid>https://zdnet.co.kr/view/?no=20220505095758</guid>
+            <pubDate>Thu, 05 May 2022 02:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[5일 0시 기준 국내 발생 신규 확진자 4만2천273명, 해외유입 사례 23명 등 신규 확진자는 총 4만2천296명으로 집계됐다. 중앙방역대책본부에 따르면, 국내 발생 신규 확...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[법·정책·과학의 혼종 혹은 공존…'규제과학'이 궁금하다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220504164507</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503102213</guid>
             <pubDate>Tue, 03 May 2022 03:01:10 GMT</pubDate>
             <content:encoded><![CDATA[지난해 장기요양기관 재가급여 수시평가 평균 점수는 직전보다 12.9점이 오른 78.0점으로 나타났다. 국민건강보험공단은 작년 10월부터 올해 1월까지 총 521개소의 장기요양기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 5만1131명…사망 49명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503100602</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503100602</guid>
-            <pubDate>Tue, 03 May 2022 03:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[2일 0시 기준 국내 발생 코로나19 신규 확진자는 5만1천86명, 해외유입 사례 45명 등 신규 확진자는 총 5만1천131명으로 집계됐다. 중앙방역대책본부에 따르면, 국내 발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
