@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 03:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 04:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS·구글·애플, 비밀번호 없는 로그인 기술 지원 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220506112159</link>
+            <guid>https://zdnet.co.kr/view/?no=20220506112159</guid>
+            <pubDate>Fri, 06 May 2022 04:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트, 구글, 애플 등 주요 IT기업들이 보다 편리하고 안전한 인터넷 환경을 조성하기 위해 비밀번호 없애기에 힘을 모았다. 5일(현지시간) 레지스터 등 외신에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코인 예치하면 개발도상국에 투자…이자 4% 추첨 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20220506100453</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220504134600</guid>
             <pubDate>Wed, 04 May 2022 05:16:25 GMT</pubDate>
             <content:encoded><![CDATA[한국마이크로소프트(MS)가 글로벌 유전체 분석 기업 마크로젠과 손잡고 유전체 분석환경 고도화를 위한 디지털 전환을 지원한다. 한국마이크로소프트는 마크로젠과 '4차 산업 혁신기술...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코드에프, LG CNS와 마이데이터 기반 서비스 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220504134005</link>
-            <guid>https://zdnet.co.kr/view/?no=20220504134005</guid>
-            <pubDate>Wed, 04 May 2022 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[코드에프(대표 서성권, 여용주)가 LG CNS (대표 김영섭)와 마이데이터 기반 맞춤형 서비스 공동개발 협약 체결을 맺었다고 4일 밝혔다. 양사는 이번 협약을 통해 보유한 마이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
