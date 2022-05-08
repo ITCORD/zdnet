@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 02:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 4만64명…재택치료 25만명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220508095841</link>
+            <guid>https://zdnet.co.kr/view/?no=20220508095841</guid>
+            <pubDate>Sun, 08 May 2022 02:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 신규 확진자가 5만명 아래에서 증감을 매일 반복하며 큰 변화를 보이지 않고 있다. 중앙방역대책본부에 따르면 5월8일 0시 기준 코로나19 신규 확진자는 국내발생 4만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 신규확진 3만9600명…사망 83명 늘어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220507173951</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503165423</guid>
             <pubDate>Tue, 03 May 2022 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[윤석열정부가 들어서면 국민연금 개혁이 본격화될 것으로 보인다. 제20대 대통령직인수위원회(이하 인수위)는 윤석열정부 110대 국정과제에 '지속 가능한 복지국가 개혁'을 포함하고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국정과제에 포함된 바이오헬스…통합지원할 컨트롤타워 빠져]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503163154</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503163154</guid>
-            <pubDate>Tue, 03 May 2022 08:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[“바이오헬스 산업을 수출 주력산업으로 육성하고, 디지털헬스케어와 빅데이터 기반 첨단·정밀의료 확산으로 국민건강 향상을 도모하겠다” 제20대 대통령직인수위원회(이하 인수위)가 발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
