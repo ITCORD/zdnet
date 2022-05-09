@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 05:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 06:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빗썸, '클레이' 한 달 예치하면 코인 준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220509151528</link>
+            <guid>https://zdnet.co.kr/view/?no=20220509151528</guid>
+            <pubDate>Mon, 09 May 2022 06:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 빗썸(대표 허백영)은 특정 가상자산을 일정 기간 예치하면 제3의 가상자산을 보상으로 지급하는 '빗썸드롭스' 서비스 페이지를 열었다고 9일 밝혔다. 첫 모집...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시큐레터, 10일 오프라인 고객행사 '시큐리티서밋' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220509135023</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220504171656</guid>
             <pubDate>Thu, 05 May 2022 00:56:08 GMT</pubDate>
             <content:encoded><![CDATA[새 정부가 국정과제로 암호화폐발행(ICO)을 허용하는 등 가상자산을 제도권으로 수용하는 법제를 도입할 것으로 알려지면서 업계가 산업 활성화에 대한 기대감을 나타냈다. 제20대 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, AI편향 해결 위한 언어모델 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220504185647</link>
-            <guid>https://zdnet.co.kr/view/?no=20220504185647</guid>
-            <pubDate>Wed, 04 May 2022 14:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 비편향적 인공지능(AI) 연구를 위한 대규모 언어모델 OPT-175B을 공개했다. 메타는 OPT-175B를 비상업적 라이선스로 출시한다고 공식 블로그를 통해 4일(현지시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
