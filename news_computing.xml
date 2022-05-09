@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 04:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시큐레터, 10일 오프라인 고객행사 '시큐리티서밋' 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220509135023</link>
+            <guid>https://zdnet.co.kr/view/?no=20220509135023</guid>
+            <pubDate>Mon, 09 May 2022 05:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[악성코드 탐지·차단 전문업체 시큐레터(대표 임차성)는 오는 10일 인터컨티넨탈 서울 코엑스에서 변화한 보안 환경에 필요한 비전과 전략을 제시하는 고객행사 '시큐레터 시큐리티 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美국무부, 랜섬웨어 그룹 콘티에 현상금 190억원 걸었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220509112515</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220504185647</guid>
             <pubDate>Wed, 04 May 2022 14:12:18 GMT</pubDate>
             <content:encoded><![CDATA[메타가 비편향적 인공지능(AI) 연구를 위한 대규모 언어모델 OPT-175B을 공개했다. 메타는 OPT-175B를 비상업적 라이선스로 출시한다고 공식 블로그를 통해 4일(현지시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윈스, 1분기 영업이익 19억원...전년比 480% 증가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220504212201</link>
-            <guid>https://zdnet.co.kr/view/?no=20220504212201</guid>
-            <pubDate>Wed, 04 May 2022 12:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[정보보안 업체 윈스(대표 김보연)는 4일 실적 발표를 통해 1분기 연결기준 매출액 174억 원, 영업이익 19억 원을 기록했다고 밝혔다. 이는 전년 동기 대비 매출액은 22%,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
