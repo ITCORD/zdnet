@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 09:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 10:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람들은 왜 아플 때도 일 멈추지 못할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220509163030</link>
+            <guid>https://zdnet.co.kr/view/?no=20220509163030</guid>
+            <pubDate>Mon, 09 May 2022 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[“요즘 몸도 아프고 컨디션도 엉망인데, 아무튼 난 출근...” 아프거나 컨디션이 나쁘면 업무 효율이 떨어지지만 그럼에도 쉬지 않고 일을 하는 이유는 무엇일까. 컨디션이 회복될 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/09/dc085bfeb123a4ebceaae0145d1b24f0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크가 우려한 트위터 '표현의 자유'...과학은 이렇게 답했다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220509164820</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220509084626</guid>
             <pubDate>Mon, 09 May 2022 00:59:38 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰이나 노트북PC를 쓰며 충전과 방전을 거듭하다 보면 배터리 발열이 심해지고 수명은 줄어드는 것을 경험적으로 느낀다. 하지만 장기간의 충방전 과정이 수명이나 발열에 미치는...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/09/504d97ea906d1d504edd00bf94dbdeb8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KAIST, 호르몬 조절 수용체 구조와 작용 메커니즘 규명]]></title>
@@ -72,19 +80,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코로나 바이러스 태워 죽이는 공기 정화 필터 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503104557</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503104557</guid>
-            <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[한국에너지기술연구원(원장 김종남)은 빛을 열로 바꾸는 광열 효과를 이용, 포집된 바이러스와 세균을 99.9% 사멸시키는 헤파필터를 개발했다고 3일 밝혔다. 공기정화시스템에 쓰이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[유연하게 움직이는 소프트로봇에 쓰일 '트렌스포머 배터리' 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220503085843</link>
             <guid>https://zdnet.co.kr/view/?no=20220503085843</guid>
             <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
             <content:encoded><![CDATA[빛을 받아 스스로 변형하고 이동하는 '트랜스포머 전지'가 국내 연구진에 의해 개발됐다. 유연한 소재를 사용, 생체를 모방해 움직이는 소프트 로봇의 전원으로 활용될 수 있으리라 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 바이러스 태워 죽이는 공기 정화 필터 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220503104557</link>
+            <guid>https://zdnet.co.kr/view/?no=20220503104557</guid>
+            <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[한국에너지기술연구원(원장 김종남)은 빛을 열로 바꾸는 광열 효과를 이용, 포집된 바이러스와 세균을 99.9% 사멸시키는 헤파필터를 개발했다고 3일 밝혔다. 공기정화시스템에 쓰이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220428134511</guid>
             <pubDate>Thu, 28 Apr 2022 05:43:14 GMT</pubDate>
             <content:encoded><![CDATA[미 항공우주국(NASA) 화성 헬리콥터가 작년 2월 탐사로버 '퍼시비어런스'가 화성에 착륙할 당시 사용됐던 장비들을 촬영해 공개했다고 IT매체 씨넷이 27일(이하 현지시간) 보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["한국형 사이언스미디어센터 설립해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220428110412</link>
-            <guid>https://zdnet.co.kr/view/?no=20220428110412</guid>
-            <pubDate>Thu, 28 Apr 2022 04:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[한국과학기자협회(회장 이영완)가 과학과 언론, 대중의 소통을 위한 '한국형 사이언스미디어센터 설립'을 주제로 과학언론이슈토론회를 29일 서울 한국과학기술회관에서 개최한다. 이번...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
