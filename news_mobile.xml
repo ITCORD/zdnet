@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 16:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이수스, 인텔·AMD 최신 CPU 탑재 노트북 대거 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220509164020</link>
+            <guid>https://zdnet.co.kr/view/?no=20220509164020</guid>
+            <pubDate>Mon, 09 May 2022 17:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[에이수스가 인텔·AMD 최신 CPU를 탑재한 노트북 신제품을 발표했다. 이번 신제품은 최대 엔비디아 지포스 RTX 3070 Ti를 탑재하고, 에이수스가 자체 개발한 스크린패드 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모토로라, 국내 스마트폰 시장 10년만에 재진출]]></title>
             <link>https://zdnet.co.kr/view/?no=20220509143728</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220506130945</guid>
             <pubDate>Fri, 06 May 2022 05:12:12 GMT</pubDate>
             <content:encoded><![CDATA[교원그룹이 다음달 24일까지 대학생, 사회초년생 대상 청년 지원 프로젝트 '실패전당포'를 진행한다. 교원그룹은 이번 행사에서 청년들이 실패를 극복하고 새로운 도전을 통해 성장할...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위닉스, 11번가서 전제품 20% 할인 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220506131343</link>
-            <guid>https://zdnet.co.kr/view/?no=20220506131343</guid>
-            <pubDate>Fri, 06 May 2022 05:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[종합생활가전 위닉스가 이달 11일까지 11번가 '쇼핑축제 블라썸 브랜드 TOP 100'에서 전제품을 20% 할인 판매한다고 6일 밝혔다. 위닉스는 이번 행사에서 여름에 제습기·...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
