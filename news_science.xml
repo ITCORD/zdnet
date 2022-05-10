@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X "10년 안에 화성에 사람 보낸다" [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220510140519</link>
+            <guid>https://zdnet.co.kr/view/?no=20220510140519</guid>
+            <pubDate>Tue, 10 May 2022 06:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크가 이끄는 우주탐사 기업 '스페이스X'의 사장이자 최고운영책임자(COO) 그윈 숏웰이 향후 10년 안에 화성에 사람을 보낼 것이라고 최근 미국 CNBC와의 인터뷰를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/11/18/bc35bce7be8d5bec783c6e5565582a7a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃향기가 보여요!]]></title>
             <link>https://zdnet.co.kr/view/?no=20220510105156</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220509164820</guid>
             <pubDate>Mon, 09 May 2022 08:19:30 GMT</pubDate>
             <content:encoded><![CDATA[일런 머스크 테슬라 CEO가 트위터를 인수한다. 트위터 플랫폼에서 거대한 1인 미디어를 일군 그가 이제는 아예 플랫폼의 주인이 되는 것이다. 머스크가 트위터 인수를 위해 들고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/25/bfab36d9c8bd2e96c923bfa066161243-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2031년 달 착륙 꿈 앞당긴다...차세대 발사체 사업 예타 진행 중]]></title>
@@ -88,19 +96,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유연하게 움직이는 소프트로봇에 쓰일 '트렌스포머 배터리' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503085843</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503085843</guid>
-            <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[빛을 받아 스스로 변형하고 이동하는 '트랜스포머 전지'가 국내 연구진에 의해 개발됐다. 유연한 소재를 사용, 생체를 모방해 움직이는 소프트 로봇의 전원으로 활용될 수 있으리라 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[코로나 바이러스 태워 죽이는 공기 정화 필터 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220503104557</link>
             <guid>https://zdnet.co.kr/view/?no=20220503104557</guid>
             <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
             <content:encoded><![CDATA[한국에너지기술연구원(원장 김종남)은 빛을 열로 바꾸는 광열 효과를 이용, 포집된 바이러스와 세균을 99.9% 사멸시키는 헤파필터를 개발했다고 3일 밝혔다. 공기정화시스템에 쓰이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유연하게 움직이는 소프트로봇에 쓰일 '트렌스포머 배터리' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220503085843</link>
+            <guid>https://zdnet.co.kr/view/?no=20220503085843</guid>
+            <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[빛을 받아 스스로 변형하고 이동하는 '트랜스포머 전지'가 국내 연구진에 의해 개발됐다. 유연한 소재를 사용, 생체를 모방해 움직이는 소프트 로봇의 전원으로 활용될 수 있으리라 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220429100908</guid>
             <pubDate>Fri, 29 Apr 2022 03:05:36 GMT</pubDate>
             <content:encoded><![CDATA[에너지 손실 없이 전자가 빠르게 이동하는 초전도체의 특성을 살린 컴퓨터를 만들 날이 올까? 초전도체 컴퓨팅을 가능하게 할 실마리가 풀렸다. 자기장 없이 전자가 한 방향으로 흐르...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소형 원자로로 움직이는 선박 나온다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220428172140</link>
-            <guid>https://zdnet.co.kr/view/?no=20220428172140</guid>
-            <pubDate>Thu, 28 Apr 2022 09:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 에너지로 주목받는 소형모듈형원자로(SMR)를 선박에 적용하기 위해 정부출연연구기관 두 곳이 손을 잡았다. 한국원자력연구원(KAERI, 원장 박원석)과 선박해양플랜트연구소...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
