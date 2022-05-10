@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 12:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 13:47:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 IoT기업 집결…2년 만에 활기 찾은 IOTSWC2022]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220510204221</link>
+            <guid>https://zdnet.co.kr/view/?no=20220510204221</guid>
+            <pubDate>Tue, 10 May 2022 13:42:07 GMT</pubDate>
+            <content:encoded><![CDATA["우리 회사를 알릴 수 있는 오프라인 행사가 열려서 기대돼요. 일반인뿐 아니라 기업인들도 많이 왔는데 이번 기회에 최대한 열심히 홍보할 생각입니다." 10일(현지시간) 스페인 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/10/0e704bf648a392e402fb9593ca3d8abc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오토메이션애니웨어, 국내 고객 선호도 RPA 1위]]></title>
             <link>https://zdnet.co.kr/view/?no=20220510190804</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220510185632</guid>
             <pubDate>Tue, 10 May 2022 10:12:27 GMT</pubDate>
             <content:encoded><![CDATA[슈나이더 일렉트릭(대표 김경록)이 배터리 제조 장비 혁신을 위한 솔루션을 제공한다고 10일 밝혔다. 전기차 및 자율 주행 자동차의 보급이 가속화되며, 전세계적으로 배터리 수요가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/10/c4696fd7214e6eb859f6aa4c5c75fde0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[맥스트, 전문 서적 특화 전자책 플랫폼 '북이오' 인수]]></title>
@@ -144,14 +152,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[금융위 MG손보 부실금융기관 효력 정지에 항소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510145140</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510145140</guid>
-            <pubDate>Tue, 10 May 2022 08:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회가 법원의 MG손해보험 부실금융기관 지정 효력 정지 판단에 10일 항고에 나섰다. 금융위 측은 "원 결정 내용 중 피신청인 패소 부분을 취소하고, 신청인들의 신청을 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[컴투스 미니게임천국, C2X 생태계 합류]]></title>
             <link>https://zdnet.co.kr/view/?no=20220510162929</link>
             <guid>https://zdnet.co.kr/view/?no=20220510162929</guid>
@@ -160,11 +160,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[알뜰교통카드 이용자, 1분기 6만5천명 늘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510165859</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510165859</guid>
+            <title><![CDATA[금융위 MG손보 부실금융기관 효력 정지에 항소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220510145140</link>
+            <guid>https://zdnet.co.kr/view/?no=20220510145140</guid>
             <pubDate>Tue, 10 May 2022 08:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[교통비를 깎아주는 알뜰교통카드 이용자가 올 1분기에만 6만5천656명이 늘어나 누계 35만6천명에 이른 것으로 나타났다. 10일 국토교통부 대도시권광역교통위원회와 한국교통안전공...]]></content:encoded>
+            <content:encoded><![CDATA[금융위원회가 법원의 MG손해보험 부실금융기관 지정 효력 정지 판단에 10일 항고에 나섰다. 금융위 측은 "원 결정 내용 중 피신청인 패소 부분을 취소하고, 신청인들의 신청을 모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
