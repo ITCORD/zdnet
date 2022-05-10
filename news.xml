@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 19:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 20:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹정부, 국민연금 보험료 최대 13% 인상할 수도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220510171514</link>
+            <guid>https://zdnet.co.kr/view/?no=20220510171514</guid>
+            <pubDate>Tue, 10 May 2022 20:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부에서 국민연금 보험료율이 최대 13%까지 인상될 수 있다는 전망이 나왔다. 사회공공연구원의 이재훈 연구실장은 윤석열 정부가 국회에 제출할 보험료 인상안을 12%~13...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/16/fd6323c1665f6fe821bd53bd8770e4ce-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성능·휴대성 강화한 레노버 게이밍 노트북 '리전 7세대' 라인업 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220510162111</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220510190804</guid>
             <pubDate>Tue, 10 May 2022 10:12:27 GMT</pubDate>
             <content:encoded><![CDATA[오토메이션애니웨어가 국내 로봇 프로세스 자동화(RPA) 시장에서 고객 선호도 1위로 선정되었다. 이는 한국IDG가 국내 클라우드 RPA 현황을 파악하기 위해 국내 기업 448명...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/10/58faab80d49cb43511ec0bc50def0b75-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유니버설 로봇, 1분기 영업익 1080억…역대 최대]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220510165017</guid>
             <pubDate>Tue, 10 May 2022 08:14:59 GMT</pubDate>
             <content:encoded><![CDATA[세탁 세제 판매 방송에서 언론 보도 취지를 잘못 해석해 소비자에게 부정확한 정보를 제공한 홈쇼핑 3사가 방송통신심의위원회로부터 '의견진술' 청취 결정을 받았다. 방심위는 10일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융위 MG손보 부실금융기관 효력 정지에 항소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510145140</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510145140</guid>
-            <pubDate>Tue, 10 May 2022 08:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회가 법원의 MG손해보험 부실금융기관 지정 효력 정지 판단에 10일 항고에 나섰다. 금융위 측은 "원 결정 내용 중 피신청인 패소 부분을 취소하고, 신청인들의 신청을 모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
