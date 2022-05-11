@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 03:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 04:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도커 데스크톱, 리눅스 버전 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511120019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511120019</guid>
+            <pubDate>Wed, 11 May 2022 04:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[컨테이너화된 애플리케이션 전용 통합 개발환경인 도커 데스크톱의 리눅스 버전이 공개됐다. 도커는 10일(현지시간) 개발자 컨퍼런스 도커콘 2022에서 도커 데스크톱 리눅스 버전을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 초개인화 시대, 한눈에 사로잡는 모바일 마케팅 전략]]></title>
             <link>https://zdnet.co.kr/view/?no=20220510141528</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220510150224</guid>
             <pubDate>Tue, 10 May 2022 06:22:17 GMT</pubDate>
             <content:encoded><![CDATA[2013년 개봉한 미국 영화 '허(Her)'는 인공지능(AI) 미래를 그려 주목받았다. 영화에는 음성AI 비서 '바네사'가 사람과 자연스럽게 소통한다. 사람의 음성 지시에 따라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 정보보호제품 성능평가·CC인증 컨설팅 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510145817</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510145817</guid>
-            <pubDate>Tue, 10 May 2022 06:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 국내 정보보호제품의 성능 향상 및 보안성 강화를 위해 '정보보호제품 성능평가·컨설팅'과 'CC인증 컨설팅'을 무료로 지원한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
