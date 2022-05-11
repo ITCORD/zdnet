@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 22:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 23:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔데믹 기대감에도 플랫폼 기업 여전히 '재택근무']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511172524</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511172524</guid>
+            <pubDate>Wed, 11 May 2022 23:12:36 GMT</pubDate>
+            <content:encoded><![CDATA["지난 3월 직원 대상 조사 결과, 전면 재택근무가 생산성과 업무 협업 측면에서 문제가 없다는 생각이 들었다. 개인에게 선택지를 주는 게 가장 최적의 업무 방식이라고 본다." ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[검찰, '로톡' 변호사법 위반 무혐의 처분]]></title>
             <link>https://zdnet.co.kr/view/?no=20220511180931</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220510165309</guid>
             <pubDate>Tue, 10 May 2022 09:16:35 GMT</pubDate>
             <content:encoded><![CDATA[한국조폐공사가 배달원(라이더)을 대상으로 한 모바일 면허 서비스 출시를 준비 중인 것으로 10일 확인됐다. 조폐공사는 올 중순부터 전국에 서비스되는 모바일 운전면허증을 활용해,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 대사 피범벅 된 듯…폴란드서 빨간 물감 세례]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510162738</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510162738</guid>
-            <pubDate>Tue, 10 May 2022 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[폴란드 주재 러시아 대사가 우크라이나 침공에 항의하는 시민들이 던진 빨간 물감에 맞는 봉변을 당했다. 9일(현지시간) 가디안 등 외신은 러시아 뉴스 통신사가 공개한 비디오를 게...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
