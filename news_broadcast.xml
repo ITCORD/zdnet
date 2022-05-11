@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 12:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 13:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 IoT 기술 탁월…IoTSWC에도 초청하고 싶다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511172143</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511172143</guid>
+            <pubDate>Wed, 11 May 2022 13:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[스페인 바르셀로나에서 개최된 IoT솔루션월드콩그레스2022(IoTSWC2022)는 글로벌 IoT기업들을 만날 수 있는 기회의 장이다. 특히 2년 만에 다시 방문객을 맞이하면서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[원스토어, 상장 철회.."경제 불확실성 심화 때문"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220511172715</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220509192317</guid>
             <pubDate>Mon, 09 May 2022 13:37:21 GMT</pubDate>
             <content:encoded><![CDATA[KT와 KT DS는 KMI한국의학연구소에 ICT기술과 모바일을 활용한 차세대 검진 시스템을 도입했다고 9일 밝혔다. 이를 토대로 KMI에서 건강 검진을 받는 사람들은 KT와 K...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT스카이라이프, 증자 진행 예정…채널 번호도 개편한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220509105159</link>
-            <guid>https://zdnet.co.kr/view/?no=20220509105159</guid>
-            <pubDate>Mon, 09 May 2022 02:55:00 GMT</pubDate>
-            <content:encoded><![CDATA[KT스카이라이프가 스카이TV 현금 확보를 위해 증자에 나설 계획이다. 다만 구체적인 방식과 일정에 대해서는 확정하지 못했다. 양춘식 스카이라이프 경영서비스본부장은 9일 KT스카...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

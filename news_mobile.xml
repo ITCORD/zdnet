@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 12:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 13:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, 내년 아이폰15부터 USB-C로 전환"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511221742</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511221742</guid>
+            <pubDate>Wed, 11 May 2022 13:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[애플은 그 동안 아이폰에서는 USB-C 대신 라이트닝 포트를 고집해 왔다. 하지만 이 같은 관행은 내년부터 달라질 것이란 전망이 제기됐다. 2023년 출시될 아이폰15에는 라이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK매직, 침대 렌탈·케어 서비스 '에코 휴' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220511163350</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220510111518</guid>
             <pubDate>Tue, 10 May 2022 03:23:29 GMT</pubDate>
             <content:encoded><![CDATA[롯데하이마트가 롯데푸드, LG전자와 손잡고 7월 31일까지 공동 프로모션을 펼친다고 10일 밝혔다. 전국 420여개 롯데하이마트 매장에서 LG 오브제 냉장고 행사 모델을 구매하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠쿠, 신세계백화점 강남점서 체험형 팝업스토어 운영]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510105850</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510105850</guid>
-            <pubDate>Tue, 10 May 2022 02:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[종합 건강 생활가전 기업 쿠쿠가 이달 22일까지 서울 신세계백화점 강남점에서 체험 콘텐츠를 강화한 팝업스토어를 연다고 10일 밝혔다. 쿠쿠는 가정의 달과 웨딩 시즌을 맞아 증가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
