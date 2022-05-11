@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 13:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 14:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 거래소, 시세 폭락한 '루나' 거래 유의 종목 지정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511230443</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511230443</guid>
+            <pubDate>Wed, 11 May 2022 14:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[스테이블코인 '테라(UST)'의 가치 유지 알고리즘이 정상적으로 작동하지 않으면서 알고리즘에 연계된 네이티브 토큰 '루나(LUNA)' 시세가 급락하고 있다. 이에 국내 거래소들...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/11/7eadc139de1e8f669121fc1eb5f150c4-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["한국 IoT 기술 탁월…IoTSWC에도 초청하고 싶다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220511172143</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220511180931</guid>
             <pubDate>Wed, 11 May 2022 10:12:42 GMT</pubDate>
             <content:encoded><![CDATA[검찰은 11일 법률 플랫폼 로톡이 변호사법과 개인정보보호법을 위반하지 않았다며 무혐의 처분했다. 서울중앙지검 형사6부는 이날 직역수호변호사단이 2020년 11월 로앤컴퍼니와 김...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/05/31/7dec83e69c2ed577e1377ccbe58d3ec5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성SDS, 글로벌 물류 대란 AI·RPA로 공략]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220511163411</guid>
             <pubDate>Wed, 11 May 2022 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[아이톡시(대표 이성진, 전봉규)는 라운드플래닛(대표 정상훈)에서 개발한 MMORPG '에곤:인페르나 벨룸 (EGON : INFERNA BELLUM , 이하 에곤)'의 마리온 스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드햇, 'RHEL9' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220511165539</link>
-            <guid>https://zdnet.co.kr/view/?no=20220511165539</guid>
-            <pubDate>Wed, 11 May 2022 08:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇은 11일 '레드햇 엔터프라이즈 리눅스(RHEL) 9' 버전을 출시한다고 밝혔다. RHEL 9은 베어메탈 서버부터 퍼블릭 클라우드 및 엔터프라이즈 네트워크의 엣지까지 오픈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

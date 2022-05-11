@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 13:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 14:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 거래소, 시세 폭락한 '루나' 거래 유의 종목 지정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511230443</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511230443</guid>
+            <pubDate>Wed, 11 May 2022 14:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[스테이블코인 '테라(UST)'의 가치 유지 알고리즘이 정상적으로 작동하지 않으면서 알고리즘에 연계된 네이티브 토큰 '루나(LUNA)' 시세가 급락하고 있다. 이에 국내 거래소들...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS, 글로벌 물류 대란 AI·RPA로 공략]]></title>
             <link>https://zdnet.co.kr/view/?no=20220511175535</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220510161842</guid>
             <pubDate>Tue, 10 May 2022 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼 기업 맥스트는 전자책 플랫폼 기업 북이오를 인수했다고 10일 밝혔다. 2014년 설립된 북이오는 국내 전자책 시장에 스트리밍 방식의 독서 경험을 초기에 보급하며...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 하이브리드 업무 환경 '사이버보안'을 위한 5가지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220510164004</link>
-            <guid>https://zdnet.co.kr/view/?no=20220510164004</guid>
-            <pubDate>Tue, 10 May 2022 08:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[사회적 거리두기 해제와 함께 기업들의 업무 환경 재정비에도 속도가 붙고 있다. 이 과정에서 유연성을 통해 참여도와 팀 만족도를 높여 비즈니스 생산성을 제고할 수 있는 하이브리드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
