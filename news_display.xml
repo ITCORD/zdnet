@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 내년 파운드리 가격 최대 6% 인상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220511173702</link>
+            <guid>https://zdnet.co.kr/view/?no=20220511173702</guid>
+            <pubDate>Wed, 11 May 2022 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[대만 TSMC가 내년 1월 1일부터 파운드리 가격을 6% 인상하기로 했다. 11일 타이완뉴스에 따르면 TSMC는 이달 10일 고객사에게 파운드리 가격 인상 계획을 공지했다. 가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코오롱인더, 세계 디스플레이 학회(SID)서 'CPI 필름' 소개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220511170714</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220504140017</guid>
             <pubDate>Wed, 04 May 2022 05:20:01 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 4일 성능과 내구성을 높인 메모리카드 '프로 인듀어런스(PRO Endurance)'를 선보였다. 256㎇ 제품 기준 16년(약 14만 시간) 연속 녹화할 수 있다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, UFS 4.0 메모리 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220504113747</link>
-            <guid>https://zdnet.co.kr/view/?no=20220504113747</guid>
-            <pubDate>Wed, 04 May 2022 04:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 4일 유니버설 플래시 스토리지(UFS) 4.0 규격 플래시 메모리를 개발했다고 밝혔다. 국제 반도체 표준화 기구 JEDEC는 3일(현지시간) UFS 4.0 규격을 승...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
