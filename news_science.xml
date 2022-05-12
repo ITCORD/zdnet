@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 18:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이온빔으로 강유전체 기반 고집적 반도체 구현 길 열어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220512165850</link>
+            <guid>https://zdnet.co.kr/view/?no=20220512165850</guid>
+            <pubDate>Thu, 12 May 2022 18:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[이온빔을 이용한 간단한 처리로 무어의 법칙의 한계를 넘는 강유전체 기반 차세대 고집적 반도체를 구현할 길이 열렸다. 과학기술정보통신부는 김윤석 성균관대 교수 연구팀이 차세대 반...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/12/03a3c917785ca1d31fa7d87fb6271a25-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리은하 중심 블랙홀 생생한 모습 포착]]></title>
             <link>https://zdnet.co.kr/view/?no=20220512233059</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220512134454</guid>
             <pubDate>Thu, 12 May 2022 05:24:57 GMT</pubDate>
             <content:encoded><![CDATA[“화성에 우리가 모르는 외계 생명체가 살고 있는 건 아닐까?” 최근 미국 항공우주국(NASA) 큐리오시티 로버가 촬영한 사진에 특이한 출입구 모습이 포착돼 화제가 되고 있다고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/12/a614d08e1c85b84ffdf9c38e7c8ce691-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마스크 쓰지 마세요, 코에 뿌리세요]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220503140639</guid>
             <pubDate>Tue, 03 May 2022 05:22:11 GMT</pubDate>
             <content:encoded><![CDATA[미국 우주 발사체 스타트업 로켓랩이 떨어지는 로켓을 헬리콥터로 낚아채는 데 성공했다고 스페이스닷컴 외신들이 2일(현지시간) 보도했다. 로켓랩은 자사의 뉴질랜드 발사시설에서 이날...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유연하게 움직이는 소프트로봇에 쓰일 '트렌스포머 배터리' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503085843</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503085843</guid>
-            <pubDate>Tue, 03 May 2022 03:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[빛을 받아 스스로 변형하고 이동하는 '트랜스포머 전지'가 국내 연구진에 의해 개발됐다. 유연한 소재를 사용, 생체를 모방해 움직이는 소프트 로봇의 전원으로 활용될 수 있으리라 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
