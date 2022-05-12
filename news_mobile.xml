@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 06:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 갤럭시워치4, 올 여름 '구글 어시스턴트' 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220512141136</link>
+            <guid>https://zdnet.co.kr/view/?no=20220512141136</guid>
+            <pubDate>Thu, 12 May 2022 06:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자는 올 여름부터 갤럭시워치4에 구글 어시스턴트를 지원한다. 이를 비롯해 삼성전자와 구글은 웨어러블 운영체제(OS) 분야에서 협력을 강화할 계획이다. 삼성전자와 구글은 합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 스마트폰 생산량 또 하향 조정…中 봉쇄 역풍]]></title>
             <link>https://zdnet.co.kr/view/?no=20220512115016</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220511103549</guid>
             <pubDate>Wed, 11 May 2022 02:59:34 GMT</pubDate>
             <content:encoded><![CDATA[인텔은 10일(미국 현지시간) '인텔 비전 2022'에서 12세대 인텔 코어 모바일 프로세서 7종을 공개했다. 코어 i5, 코어 i7, 코어 i9 모델의 HX 프로세서는 현재 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[휴롬, 어린이 직업체험 테마파크에 '채소과일 연구소' 휴롬관 오픈]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220511101446</link>
-            <guid>https://zdnet.co.kr/view/?no=20220511101446</guid>
-            <pubDate>Wed, 11 May 2022 02:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[건강주방가전기업 휴롬이 가정의 달을 맞아 글로벌 어린이 직업 체험 테마파크 '키자니아(KidZania)'에 채소 과일 연구원 직업을 체험할 수 있는 휴롬관 '채소 과일 연구소'...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
