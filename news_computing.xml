@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 11:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 12:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메디우스, '의료 오픈마켓' 개시…건강검진 상품 판매]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220523201644</link>
+            <guid>https://zdnet.co.kr/view/?no=20220523201644</guid>
+            <pubDate>Mon, 23 May 2022 12:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 기반 의료 거래 플랫폼 메디우스(대표 박보현)는 23일 의료 오픈마켓을 열고 건강검진 상품을 출시했다고 밝혔다. "세상의 모든 의료를 쇼핑하다"는 비전을 가진 메디우스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KTV 방송 섭외로 위장한 '악성파일' 유포 중...北 소행 해킹 추정]]></title>
             <link>https://zdnet.co.kr/view/?no=20220523200204</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220520174027</guid>
             <pubDate>Sun, 22 May 2022 17:14:17 GMT</pubDate>
             <content:encoded><![CDATA[2년 4개월만에 서울남부지방검찰청에 재설치된 금융·증권범죄합동수사단(합수단)이 1호 사건으로 최근 발생한 스테이블코인 '테라(UST)'와 관련 암호화폐 '루나(LUNA)' 폭락...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[악명 높은 랜섬웨어 집단 콘티, 갑자기 운영 중단...왜?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220520172629</link>
-            <guid>https://zdnet.co.kr/view/?no=20220520172629</guid>
-            <pubDate>Sun, 22 May 2022 17:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[미국 국무부가 190억 원의 현상금을 걸 만큼 악명 높은 랜섬웨어 갱단 콘티가 갑자기 운영을 중단했다. 자신들의 랜섬웨어 암호기의 소스코드가 외부로 유출된 후, 콘티 브랜드가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
