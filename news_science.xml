@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 03:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 04:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나노미세먼지, 몸 속에 더 깊숙히 더 오래 남는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220523110856</link>
+            <guid>https://zdnet.co.kr/view/?no=20220523110856</guid>
+            <pubDate>Mon, 23 May 2022 04:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[초미세먼지보다도 작은 나노미세먼지가 인체에 들어가 얼마나 머물며 어떤 영향을 미칠지 세포 단위에서 이해할 수 있게 됐다. 나노미세먼지는 입자 크기가 100㎚(0.1㎛) 이하인 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/23/b2bb37e74cff91f4ed9e21c101834966-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보잉의 새 우주택시, ISS에 성공적으로 도킹 [우주로 간다]]]></title>
             <link>https://zdnet.co.kr/view/?no=20220523104454</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220520141232</guid>
             <pubDate>Sun, 22 May 2022 17:19:14 GMT</pubDate>
             <content:encoded><![CDATA[얼마 전 우리은하 중심에 있는 초대질량 블랙홀 '궁수자리A(Sgt A*)'의 사진이 공개됐다. 지난 2019년 M87 은하 중심에 있는 초대질량 블랙홀의 영상을 포착한데 이어 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/12/c216d7fb1067a168ec9c77debcf0aeda-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[돌고래도 피부병 걸리면 약 바른다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220516105316</guid>
             <pubDate>Sun, 22 May 2022 17:19:14 GMT</pubDate>
             <content:encoded><![CDATA[백신 접종으로 생성된 기억 T세포가 코로나19 초기형 바이러스는 물론 오미크론 변이주에 대해서도 강한 면역 반응을 보인다는 실험 결과가 나왔다. 기억 T세포는 항원을 기억하고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나노 입자로 알츠하이머 원인 물질 제거]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220516095333</link>
-            <guid>https://zdnet.co.kr/view/?no=20220516095333</guid>
-            <pubDate>Sun, 22 May 2022 17:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[저주파 자기장에 반응해 알츠하이머병 원인 물질을 제거하는 나노 입자가 나왔다. KAIST(총장 이광형)는 신소재공학과 박찬범 교수 연구팀이 저주파 자기장 반응성 나노입자를 개발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
