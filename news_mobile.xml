@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 07:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 08:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD "젠4 기반 라이젠 7000, 1코어 성능 전작 대비 15% 향상"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220523161327</link>
+            <guid>https://zdnet.co.kr/view/?no=20220523161327</guid>
+            <pubDate>Mon, 23 May 2022 08:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 23일 오후 진행한 '컴퓨텍스 2022' 기조연설을 통해 새로운 아키텍처, 젠4(Zen 4) 기반 데스크톱PC용 프로세서인 라이젠 7000 시리즈와 이를 지원하는 AM...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['창문형 에어컨' 구매 포인트...소음·설치 가능 여부 체크해야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220520153257</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220520093949</guid>
             <pubDate>Sun, 22 May 2022 17:14:30 GMT</pubDate>
             <content:encoded><![CDATA[NAS(네트워크 저장장치) 제조사 큐냅이 19일(대만 현지시간) 랜섬웨어 공격을 막기 위한 운영체제·소프트웨어 업데이트를 당부했다. 큐냅 제품 보안사고 대응팀(PSIRT)은 웹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 노조 결성 방해 혐의로 고발 당해]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220520083326</link>
-            <guid>https://zdnet.co.kr/view/?no=20220520083326</guid>
-            <pubDate>Sun, 22 May 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국 통신노동자협회(CWA)가 애플을 노조 결성 방해 혐의로 고발했다고 19일(현지시간) 블룸버그 등 외신이 보도했다. CWA는 뉴욕 세계무역센터 애플 플래그십 스토어에서 노조...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
