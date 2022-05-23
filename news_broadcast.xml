@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 05:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, 음저협이 고소한 웨이브에 '혐의없음' 결정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220523142632</link>
+            <guid>https://zdnet.co.kr/view/?no=20220523142632</guid>
+            <pubDate>Mon, 23 May 2022 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[경찰이 한국음악저작권협회가 저작권 침해 혐의로 고소한 온라인 동영상 서비스(OTT) 웨이브에 대해 불송치를 결정했다. 23일 업계에 따르면, 서울 영등포경찰서는 음저협이 웨이브...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 골드번호 5천개 추첨…다음달 3일까지 응모]]></title>
             <link>https://zdnet.co.kr/view/?no=20220523093449</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220520094419</guid>
             <pubDate>Sun, 22 May 2022 17:14:04 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전은 채널JNG, 포랄리스와 기획·제작한 신규 프로그램 '마을을 걷다 - 정보석의 섬마을 이야기'를 20일 첫 방송한다고 밝혔다. 배우 정보석과 함께 섬의 매력을 발굴...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 양방향 문자 서비스로 지방선거 소통 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220520092647</link>
-            <guid>https://zdnet.co.kr/view/?no=20220520092647</guid>
-            <pubDate>Sun, 22 May 2022 17:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[KT(대표 구현모)는 '양방향 문자 서비스'에 선거 후보자와 유권자가 실시간으로 자유롭게 소통하는 기능을 추가하는 등 다양한 지원을 하고 있다고 20일 밝혔다. '양방향 문자 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
