@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 16:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 17:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, SW 개발 위한 클라우드PC 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220525015237</link>
+            <guid>https://zdnet.co.kr/view/?no=20220525015237</guid>
+            <pubDate>Tue, 24 May 2022 17:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 개발자를 위한 애저 가상데스크톱 서비스를 공개했다. 애저 클라우드 상에 소프트웨어 개발을 위한 가상PC를 간단히 생성하고, 워크스테이션 수준의 성능을 갖춘 환경...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, ARM용 윈도 개발머신 '프로젝트 볼테라' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220525012500</link>
+            <guid>https://zdnet.co.kr/view/?no=20220525012500</guid>
+            <pubDate>Tue, 24 May 2022 17:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 ARM용 윈도 네이티브 앱 개발을 위한 전용 장비를 선보였다. 퀄컴 스냅드래곤을 탑재한 '프로젝트 볼테라'다. 마이크로소프트는 24일(현지시간) 온라인으로 개최...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유라클, 모바일 안전 관리 시스템으로 중대재해법 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220524211141</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524083719</guid>
             <pubDate>Tue, 24 May 2022 00:59:23 GMT</pubDate>
             <content:encoded><![CDATA[LG CNS가 고객에 최적화된 AI 서비스를 패키지로 제공하는 'AI 서비스 for X' 사업에 나서며, 'AI 주기율표'를 본격 도입했다고 24일 밝혔다. 'AI 서비스 fo...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, '테라' 직원 횡령 혐의 수사 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523214838</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523214838</guid>
-            <pubDate>Mon, 23 May 2022 13:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[경찰이 최근 시세 폭락이 나타난 코인 '테라(UST)·루나(LUNA)' 발행사 테라폼랩스 직원이 법인 자금을 횡령한 것으로 파악, 수사에 착수했다. 서울경찰청 사이버범죄수사대는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메디우스, '의료 오픈마켓' 개시…건강검진 상품 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523201644</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523201644</guid>
-            <pubDate>Mon, 23 May 2022 12:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 기반 의료 거래 플랫폼 메디우스(대표 박보현)는 23일 의료 오픈마켓을 열고 건강검진 상품을 출시했다고 밝혔다. "세상의 모든 의료를 쇼핑하다"는 비전을 가진 메디우스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
