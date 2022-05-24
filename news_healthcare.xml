@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CT촬영 환자 방사선피폭선량 저감화 유도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220524173852</link>
+            <guid>https://zdnet.co.kr/view/?no=20220524173852</guid>
+            <pubDate>Tue, 24 May 2022 09:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[의료방사선 진단 시 불가피하게 환자가 받는 방사선 피폭선량을 낮추기 위해 촬영빈도가 높은 전산화단층촬영 13개 검사에 대한 '진단참고수준'이 마련됐다. 질병관리청은 2021년 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김성주 의원 "국민의힘, 간호법 통과 지연시켰다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220524161238</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220523010811</guid>
             <pubDate>Sun, 22 May 2022 20:13:53 GMT</pubDate>
             <content:encoded><![CDATA[“간호법의 독선추진 의료체계 붕괴된다” “의료현장 혼란가중 간호법안 절대반대” “국민건강 위협하는 간호법안 철회하라” “간호사의 이익대변 간호법안 절대반대” “다른 직역 면허침...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘에도 원숭이두창 첫 환자..중동까지 확산?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220522183544</link>
-            <guid>https://zdnet.co.kr/view/?no=20220522183544</guid>
-            <pubDate>Sun, 22 May 2022 17:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘 보건부는 21일 (현지시간) 최근 북미와 유럽 전역에서 퍼지고 있는 원숭이 두창의 첫 환자가 국내에서 발생했다고 발표해, 중동 지역에도 이 바이러스성 전염병이 확산될 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
