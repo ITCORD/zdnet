@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 기업이 대통령 임기 맞춰 투자계획 세우나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220524164936</link>
+            <guid>https://zdnet.co.kr/view/?no=20220524164936</guid>
+            <pubDate>Tue, 24 May 2022 08:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[24일 삼성 현대차 등 주요 그룹이 일제히 향후 5년간 투자계획을 발표했다. 수조원에서 450조원까지 다양하다. 채용 계획도 덧붙었다. 재미있는 사실은 지금은 2022년이라는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이종호 장관 "AI반도체 성장 지원 대책 6월 발표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220524144019</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220519160950</guid>
             <pubDate>Sun, 22 May 2022 17:14:55 GMT</pubDate>
             <content:encoded><![CDATA[정부가 미국이 주도하는 경제 협력체인 '인도·태평양 경제 프레임워크(IPEF)'에 가입한다는 방침을 확정했다. 산업계와 학계는 IPEF 가입으로 인한 중국 반발에 대한 우려가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 PC 업체, 인텔·AMD 대신 中 x86 프로세서 탑재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220519114722</link>
-            <guid>https://zdnet.co.kr/view/?no=20220519114722</guid>
-            <pubDate>Sun, 22 May 2022 17:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 산업용 PC 제조사가 중국 x86 프로세서 제조사 '자오신'(Zhaoxin)이 만든 x86 호환 프로세서를 탑재한 메인보드를 출시했다. 인텔과 AMD는 러시아의 우크라이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
