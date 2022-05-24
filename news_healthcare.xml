@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 01:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 누적 사망자 2만4천명 넘어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220524095423</link>
+            <guid>https://zdnet.co.kr/view/?no=20220524095423</guid>
+            <pubDate>Tue, 24 May 2022 01:00:56 GMT</pubDate>
+            <content:encoded><![CDATA[국내 누적 사망자 수가 2만4천명을 넘어섰다. 중앙방역대책본부에 따르면, 24일 0시 기준 신규 사망자는 19명이다. 총 사망자 수는 2만4천6명, 치명률은 0.13%다. 국내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정호영, 결국 자진사퇴…尹정부 초대 내각 두 번째 불명예 퇴장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220523221011</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220520134005</guid>
             <pubDate>Sun, 22 May 2022 17:15:51 GMT</pubDate>
             <content:encoded><![CDATA[안정기를 보이고 있는 코로나19 유행이 이르면 올 여름 다시 시작해 가을철엔 절정에 달할 수 있다는 당국 분석이 나왔다. 김헌주 질병관리청 중앙방역대책본부(방대본) 제1부본부장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[복지부, 20일 세계 임상시험의 날 기념행사 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220520132706</link>
-            <guid>https://zdnet.co.kr/view/?no=20220520132706</guid>
-            <pubDate>Sun, 22 May 2022 17:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부와 국가임상시험지원재단이 20일 오전 서울 중구 더플라자 호텔에서 '2022 임상시험의 날 기념행사'를 개최했다. 세계 임상시험의 날은 영국 해군 군의관 제임스 린드가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
