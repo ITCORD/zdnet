@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아줄, 신개념 자바 공개 "모자라면 JVM도 모아쓴다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220524141642</link>
+            <guid>https://zdnet.co.kr/view/?no=20220524141642</guid>
+            <pubDate>Tue, 24 May 2022 05:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[자바 플랫폼 제공업체 아줄시스템즈는 클라우드 네이티브 애플리케이션 환경에서 여러 자바가상머신(JVM) 자원을 연결해 상황에 따라 유동적으로 활용하는 '인텔리전스 클라우드'를 공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["코로나19로 급증한 심리상담, AI로 부담 던다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220524113537</link>
+            <guid>https://zdnet.co.kr/view/?no=20220524113537</guid>
+            <pubDate>Tue, 24 May 2022 05:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[“지난 2년간 장기화된 코로나와 동반된 경기 침체로 우울증이나 우울감에 시달리고 있는 사람들이 급격하게 늘었다. 그만큼 심리상담사 업무 가중으로 많은 사람이 제대로 상담받지 못...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 안전한 투자환경 어떻게 구축해야 하나…각계 고심 깊어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220524104736</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220523102945</guid>
             <pubDate>Mon, 23 May 2022 02:54:08 GMT</pubDate>
             <content:encoded><![CDATA[두나무 계열사이자 블록체인 서비스 플랫폼 '루니버스' 운영사인 람다256은 과학기술정보통신부와 정보통신산업진흥원(NIPA)의 '2022년 블록체인 전문 컨설팅' 지원 사업자에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남 대학서 한컴 'AI 회화'로 한국어 공부한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523101540</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523101540</guid>
-            <pubDate>Mon, 23 May 2022 02:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터(대표 김연수·변성준)가 베트남에서 한국어 교육 사업을 본격화한다. 베트남 하노이 국립 외국어대학교, 영어교육 전문 기업 윤선생과 함께 한국어 교육 사업을 위한 본 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐센, DB손해보험 생체인증 전자서명 하반기 오픈]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523091329</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523091329</guid>
-            <pubDate>Mon, 23 May 2022 00:52:14 GMT</pubDate>
-            <content:encoded><![CDATA[시큐센(대표 이정주)은 DB손해보험과 생체인증 전자서명 솔루션 도입계약을 체결하고 하반기 오픈 예정이라고 23일 밝혔다. 2020년 12월 10일 자로 시행된 전자서명법의 전면...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

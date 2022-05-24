@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 "5년간 반도체·바이오·IT 인재 8만명 채용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220524134818</link>
+            <guid>https://zdnet.co.kr/view/?no=20220524134818</guid>
+            <pubDate>Tue, 24 May 2022 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[삼성이 반도체·바이오·신성장IT 분야에서 향후 5년간 8만명을 채용한다고 24일 밝혔다. 삼성은 4차산업혁명의 기반 기술인 반도체와 바이오 등 핵심사업을 중심으로 채용 규모를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시워치4, '헤이 구글' 음성 명령 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220524114324</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220523100257</guid>
             <pubDate>Mon, 23 May 2022 02:54:23 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 23일 데스크톱PC용 전원공급장치 '쿨맥스 포커스Ⅱ ETA 브론즈'를 출시했다. 이 제품은 출력효율 85%(230V 기준)로 시험인증업체 사이버네틱스의 ETA...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 우한에 애플 스토어 개설…중국 첫 픽업매장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523092649</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523092649</guid>
-            <pubDate>Mon, 23 May 2022 02:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 중국 후베이성 우한에 직영 소매매장인 애플스토어를 열었다. 중국 내 첫 픽업 매장으로 우한 지역을 선택한 점이 눈길을 끄는 부분이다. 22일(현지시간) 애플인사이더에 따...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
