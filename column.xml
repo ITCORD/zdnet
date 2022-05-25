@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 스타트업이 알아야 할 9가지 회계 지식]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220525110842</link>
+            <guid>https://zdnet.co.kr/view/?no=20220525110842</guid>
+            <pubDate>Wed, 25 May 2022 02:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업은 초기 아이디어를 가진 사람과 그 아이디어를 구현할 개발자의 만남으로 시작하는 경우가 많다. 창업 초기 단계에서 창업자들에게는 사업 아이템 발굴과 이를 구현할 모델 구축이 무엇보다 중요하고, 다른 것들은 부차적인 문제로 보인다. 그러나 실제 사업 아이템을 구현해 시장에 내 놓을 때가 되면 또다른 여러 문제에 직면한다. 즉, 창업자는 사업과 조직 관리 및 운영에 대한 필요성을 느끼기 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/25/aa987aa97b23cb536af62b2e668378a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 쿠버네티스의 현재와 미래, 지금 투자하라]]></title>
             <link>https://zdnet.co.kr/view/?no=20220524151442</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Apr 2022 08:24:05 GMT</pubDate>
             <content:encoded><![CDATA[전례 없는 글로벌 팬데믹은 기업들이 클라우드로의 전환을 가속화하는 데 예상치 못한 촉매제가 되었다.이러한 클라우드 채택 열풍은 직접 쇼핑몰이나 은행을 방문하지 못하는 소비자들의 온라인 이용이 대폭 증가하면서 소매 및 은행 분야에서 촉발되었다.이로 인해 퍼블릭 클라우드에서 호스팅되는 많은 전자상거래 사이트의 활동량과 비즈니스가 폭발적으로 증가했다.&nbsp;또한 팬데믹의 영향은 점점 더 많은 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/04/07/8c1ba262bd773631ac532b1a9120ea12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI의 시대, 앞서는 자와 뒤처지는자 (상)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220404162932</link>
-            <guid>https://zdnet.co.kr/view/?no=20220404162932</guid>
-            <pubDate>Mon, 04 Apr 2022 08:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 AI의 시대다.우리들에게 생소하던 AI라는 단어는 2016년 알파고와 이세돌의 바둑 대전을 통해서, 모두의 관심사가 되고, 그야 말로 ‘훅~’하고 우리들의 생활에 파고들었다.이제는 우리가 살아가면서 쓰고 있는 그 어디에 어느 구석에 AI가 활용되고 쓰이는지 모를 정도로 도처에 AI의 알고리즘이 돌아가고, AI 프로그램이 쓰이고 있다. 어느 것에 AI 기술이 적용되었고 아닌지 이제는 구...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/12/29/5d50b52d2c90ec54ea019f58fbc49af9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

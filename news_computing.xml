@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 투자자, '위험 회피' 성향 커졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220525102543</link>
+            <guid>https://zdnet.co.kr/view/?no=20220525102543</guid>
+            <pubDate>Wed, 25 May 2022 02:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 투자자들이 비트코인(BTC), 이더리움(ETH), 리플(XRP) 등 주요 암호화폐에 대한 투자 비중을 더 늘린 것으로 나타났다. 국내 가상자산 거래소 빗썸은 1분...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[CJ ONE, 스마트워치 체크인 대결 이벤트 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220525093839</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524142346</guid>
             <pubDate>Tue, 24 May 2022 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[원격 솔루션 전문 기업 알서포트(대표 서형수)는 자사 화상회의 서비스 '리모트미팅'에 귓속말 기능을 적용했다고 24일 밝혔다. 알서포트는 리모트미팅 최신 업데이트를 통해 귓속말...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아줄, 신개념 자바 공개 "모자라면 JVM도 모아쓴다”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524141642</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524141642</guid>
-            <pubDate>Tue, 24 May 2022 05:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[자바 플랫폼 제공업체 아줄시스템즈는 클라우드 네이티브 애플리케이션 환경에서 여러 자바가상머신(JVM) 자원을 연결해 상황에 따라 유동적으로 활용하는 '인텔리전스 클라우드'를 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
