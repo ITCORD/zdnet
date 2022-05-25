@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마이크로소프트는 모든 개발자의 기회를 극대화하는 플랫폼"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220525161701</link>
+            <guid>https://zdnet.co.kr/view/?no=20220525161701</guid>
+            <pubDate>Wed, 25 May 2022 08:15:33 GMT</pubDate>
+            <content:encoded><![CDATA["우리의 비전은 야심적이다. 몇 초만에 데브 박스를 서정하고, AI 프로그래머와 함께 코드를 작성해 항상 흐름을 유지하게 한다. 클라우드와 엣지 전반에 컴퓨팅을 임베드할 수 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 투자자, '위험 회피' 성향 커졌다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220525102543</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524144825</guid>
             <pubDate>Tue, 24 May 2022 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[한국마이크로소프트는 현대자동차그룹이 애저 기반 디지털 트윈 솔루션을 주축으로 전기차(EV) 배터리 자산관리 플랫폼 구축에 나선다고 24일 밝혔다. 전 세계적으로 전기차가 자동차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알서포트, 화상회의 솔루션에 '귓속말' 기능 탑재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524142346</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524142346</guid>
-            <pubDate>Tue, 24 May 2022 06:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[원격 솔루션 전문 기업 알서포트(대표 서형수)는 자사 화상회의 서비스 '리모트미팅'에 귓속말 기능을 적용했다고 24일 밝혔다. 알서포트는 리모트미팅 최신 업데이트를 통해 귓속말...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
