@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음저협 "경찰의 웨이브 불송치 결정은 충격…이의 제기할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220525144639</link>
+            <guid>https://zdnet.co.kr/view/?no=20220525144639</guid>
+            <pubDate>Wed, 25 May 2022 06:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[한국음악저작권협회가 경찰의 온라인 동영상 서비스(OTT) 웨이브 운영사 콘텐츠웨이브 불송치 결정에 대해 "저작권 침해의 고의가 없다고 판단될 수 있다는 것은 충격"이라고 입장을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 오픈랜 기반 네트워크 소프트웨어 플랫폼 검증]]></title>
             <link>https://zdnet.co.kr/view/?no=20220525091126</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220523140653</guid>
             <pubDate>Mon, 23 May 2022 08:15:44 GMT</pubDate>
             <content:encoded><![CDATA[통신3사가 글로벌 기업과의 파트너십과 기술개발을 통해 콜센터 디지털전환, AI컨택센터(AICC) 사업에 속도를 내고 있다. 23일 업계에 따르면, 통신3사는 대기업, 금융권을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, OTT 웨이브 불송치…음저협 "법적 조치 계속 할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523151853</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523151853</guid>
-            <pubDate>Mon, 23 May 2022 08:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[경찰이 한국음악저작권협회가 저작권 침해 혐의로 고소한 온라인 동영상 서비스(OTT) 웨이브에 대해 불송치를 결정했다. 음저협은 앞으로도 법적인 조치를 지속하겠다는 입장이며, O...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
