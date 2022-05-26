@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 위드코로나에 폰으로 TV 시청시간 줄었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526171306</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526171306</guid>
+            <pubDate>Thu, 26 May 2022 08:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 코로나 2년차에 접어들면서 스마트폰을 통한 방송프로그램 시청이 줄어들었다는 조사가 나와 이목을 끈다. 방송통신위원회가 발표한 2021년 N스크린 시청행태에 따르면 지난해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OTT 티빙·시즌 통합되나…"구체적으로 정해진 바 없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220526150552</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220525075217</guid>
             <pubDate>Wed, 25 May 2022 00:57:17 GMT</pubDate>
             <content:encoded><![CDATA[구글이 구글TV에 다중프로필 기능을 추가하면서 개인맞춤형 서비스를 강화했다. 24일(현지시간) 테크크런치에 따르면, 구글은 몇 주 내로 구글TV 다중프로필 기능을 업데이트할 계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 양자암호원칩으로 보안 높이고 국방·공공 사업 도전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524182954</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524182954</guid>
-            <pubDate>Wed, 25 May 2022 00:57:17 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 국내 암호분야 강소기업들과 함께 양자난수생성(QRNG)으로 보안을 강화한 제품을 개발해 국방 및 공공 사업에 도전한다. 또한 SK텔레콤은 QRNG 칩과 관련해 글로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
