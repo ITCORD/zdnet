@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여기 나사 풀렸어요"...상태 알려주는 금속 부품 제조 기술 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526104857</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526104857</guid>
+            <pubDate>Thu, 26 May 2022 03:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[주변 나사가 느슨해졌는지 알려주는 똑똑한 금속 부품이 개발됐다. 부품에 센서를 심어 주변 환경에 대한 데이터를 얻고, 인공지능으로 분석해 상태를 파악할 수 있다. 빅데이터와 인...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/26/e9f2d6d23f7b62e1052303cff3cb0b34-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AIDS 치료제가 기억 감퇴 막는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220525233150</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220525095509</guid>
             <pubDate>Wed, 25 May 2022 05:22:43 GMT</pubDate>
             <content:encoded><![CDATA[누리호 2차 발사일이 6월 15일로 정해졌다. 과학기술정통부는 25일 전남 고흥 나로우주센터에서 누리호 발사 관리위원회를 개최, 기술적 준비 상황과 최적의 발사 여건 등을 검토...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/10/21/8457c007bc57fba469bbeb49e6c4b910-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1분 이내 충전되는 알루미늄 배터리 개발]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220519104525</guid>
             <pubDate>Sun, 22 May 2022 17:19:14 GMT</pubDate>
             <content:encoded><![CDATA[화성에서 내부 소리를 듣고 있는 미국 항공우주국(NASA) 인사이트호에게 작별을 고할 시간이 점점 다가오고 있다. 미국 IT매체 엔가젯은 18일(현지시간) 화성에 계속되는 먼지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[거대 천체가 우주 망원경 역할...초기 별 형성 연구에 새 가능성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220518163253</link>
-            <guid>https://zdnet.co.kr/view/?no=20220518163253</guid>
-            <pubDate>Sun, 22 May 2022 17:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[138억 년 전 빅뱅 발생 직후, 초기 우주는 중성 가스의 구름으로 가득차 있었다. '감쇄된 라이먼 알파계(DLAs)'라 불리는 이 공간에서 가스가 서로 뭉치면서 별과 은하가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
