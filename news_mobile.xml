@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 찍기 힘든 180도 VR 영상, 카메라 한 대면 해결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526132333</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526132333</guid>
+            <pubDate>Thu, 26 May 2022 06:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[캐논 RF5.2mm F2.8 L 듀얼 피시아이 렌즈는 180도 VR 영상을 만들기 위해 두 대 이상의 카메라와 렌즈가 필요했던 워크플로우를 카메라 한 대와 렌즈 한 개로 단순화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유닉스, 니콜라이 버그만과 '에어샷U 수분코팅 플라워 클래스' 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20220526095704</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220525084234</guid>
             <pubDate>Wed, 25 May 2022 00:57:40 GMT</pubDate>
             <content:encoded><![CDATA[작년 아이폰13 프로에 탑재될 것이라는 소문이 나왔다 불발됐던 올웨이즈온 디스플레이(Always-On Display, AOD)가 아이폰14 프로에는 적용될 수 있을까? IT매체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[궈밍치 "에어팟 프로2, 중국 아닌 베트남서 생산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524151626</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524151626</guid>
-            <pubDate>Tue, 24 May 2022 07:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올 하반기 출시할 에어팟 프로2를 하반기부터 중국이 아닌 베트남에서 생산할 것이라는 전망이 나왔다. 궈밍치 홍콩 텐펑국제증권 애널리스트가 24일 이같이 밝혔다. 궈밍치는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
