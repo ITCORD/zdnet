@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 03:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[람다256 "웹 3.0 꿈꾸는 기업에 특화 메인넷 지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526113946</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526113946</guid>
+            <pubDate>Thu, 26 May 2022 04:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 기술 기업 람다256이 '웹3.0' 서비스 개발 기업을 대상으로 최적화된 메인넷을 선보였다. 26일 박재현 람다256 대표는 기자간담회를 열고 자체 메인넷 '더밸런스'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[클립소프트, 스마트폰용 불완전판매 해소 '전자계약 특허' 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526130218</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526130218</guid>
+            <pubDate>Thu, 26 May 2022 04:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[클립소프트(대표 김양수)는 스마트폰서 사용되는 전자문서 기반 계약 시스템 및 방법에 관한 특허를 취득했다고 25일 밝혔다. 이번에 취득한 특허는 전자문서를 기반으로 계약을 체결...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한컴, 세종1호 발사 성공...지상국과 교신 완료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526124316</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526124316</guid>
+            <pubDate>Thu, 26 May 2022 04:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[한글과컴퓨터(이하 한컴/ 대표 김연수·변성준)는 국내 첫 지구관측용 민간위성인 '세종1호(Sejong-1)' 발사 후 지상국과의 교신까지 완료함으로써 성공적으로 궤도에 안착했음...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빗썸, 비대면 계좌 개설자 입금 한도 일 1천만원으로 상향]]></title>
             <link>https://zdnet.co.kr/view/?no=20220526095943</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220525091103</guid>
             <pubDate>Wed, 25 May 2022 00:57:28 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 코빗은 긴급 거래지원 심사 위원회를 소집, 루나(LUNA)의 입출금 및 거래 지원 종료를 결정했다고 25일 밝혔다. 이에 오는 31일 14시 입금이 종료된...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 쿠버네티스의 현재와 미래, 지금 투자하라]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524151442</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524151442</guid>
-            <pubDate>Wed, 25 May 2022 00:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[VM웨어는 2019년부터 매년 다양한 산업의 고객사들을 대상으로 쿠버네티스 사용 전반에 대한 설문 조사를 진행해오고 있으며, 올해도 'The States of Kubernete...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["쿠버네티스 몰라도 OK, 서버리스 개발환경 구축"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220525054100</link>
-            <guid>https://zdnet.co.kr/view/?no=20220525054100</guid>
-            <pubDate>Wed, 25 May 2022 00:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 복잡한 쿠버네티스를 몰라도 클라우드 네이티브 애플리케이션을 만들고 배포할 수 있는 개발환경 조성에 나섰다. 마이크로소프트는 25일(현지시간) 온라인으로 개최한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["2시간 걸리던 코딩 2분 만에"...AI 기반 개발 시대 열려]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220525000033</link>
-            <guid>https://zdnet.co.kr/view/?no=20220525000033</guid>
-            <pubDate>Wed, 25 May 2022 00:57:28 GMT</pubDate>
-            <content:encoded><![CDATA["인공지능(AI) 기반 소프트웨어 개발도구를 통해 사람과 대화할 때 쓰는 자연어를 컴퓨터가 이해할 수 있는 프로그래밍 언어로 즉시 바꿀 수 있게 됐다. 소프트웨어가 생겨난 이래...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
