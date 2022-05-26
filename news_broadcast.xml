@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 06:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 07:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT 티빙·시즌 통합되나…"구체적으로 정해진 바 없어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526150552</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526150552</guid>
+            <pubDate>Thu, 26 May 2022 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 동영상 서비스(OTT) 티빙과 시즌이 통합될 수 있다는 전망이 나왔다. 다만 양사는 구체적으로 정해진 내용은 없다는 입장이다. 26일 업계에 따르면, 최근 강호성 CJ ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 게임박스에 신규 솔루션 도입…MMORPG도 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220526110256</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524182954</guid>
             <pubDate>Wed, 25 May 2022 00:57:17 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 국내 암호분야 강소기업들과 함께 양자난수생성(QRNG)으로 보안을 강화한 제품을 개발해 국방 및 공공 사업에 도전한다. 또한 SK텔레콤은 QRNG 칩과 관련해 글로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, 내달 16일 글로벌OTT 파라마운트+ 품는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524174243</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524174243</guid>
-            <pubDate>Tue, 24 May 2022 09:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 OTT 티빙이 오는 16일 파라마운트+ 브랜드관을 선보인다. 브랜드관 오픈부터 콘텐츠 교류, 오리지널 콘텐츠 공동 투자 등 플랫폼 경쟁력 강화를 위한 전방위적 협력을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
