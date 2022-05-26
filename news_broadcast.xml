@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['내 집이 메타버스 속으로'...KT, 지니버스 청사진 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220526171314</link>
+            <guid>https://zdnet.co.kr/view/?no=20220526171314</guid>
+            <pubDate>Thu, 26 May 2022 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 알파테스트를 진행 중인 메타버스 '지니버스'의 구체적인 청사진이 공개됐다. 지니버스는 KT의 대표적인 브랜드인 '지니'에 메타버스를 합성한 개념으로, 홈트윈 기반의 메타...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지난해 위드코로나에 폰으로 TV 시청시간 줄었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220526171306</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220525084304</guid>
             <pubDate>Wed, 25 May 2022 00:57:17 GMT</pubDate>
             <content:encoded><![CDATA[액티비전 블리자드 소속 직원들이 노동조합을 결성했다. 미국 상장 게임회사 가운데 노조 설립은 이번이 첫 사례다. 24일(현지시간) CNN 등 다수의 외신에 따르면 블리자드의 게...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글TV, 12개 계정까지 등록 가능해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220525075217</link>
-            <guid>https://zdnet.co.kr/view/?no=20220525075217</guid>
-            <pubDate>Wed, 25 May 2022 00:57:17 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 구글TV에 다중프로필 기능을 추가하면서 개인맞춤형 서비스를 강화했다. 24일(현지시간) 테크크런치에 따르면, 구글은 몇 주 내로 구글TV 다중프로필 기능을 업데이트할 계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
