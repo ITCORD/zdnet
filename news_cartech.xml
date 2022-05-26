@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 15:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 16:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신분당선 강남~신사역 28일 연장 개통…광교-신사역 42분]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220527010120</link>
+            <guid>https://zdnet.co.kr/view/?no=20220527010120</guid>
+            <pubDate>Thu, 26 May 2022 16:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[28일부터 신분당선 강남~신사 구간이 연장 개통된다. 국토교통부는 기존 광교역~강남역까지의 신분당선 운행구간을 환승역사인 신논현역(9호선), 논현역(7호선), 신사역(3호선)까...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마세라티, 'MC20 첼로' 공개…지붕 열리는 슈퍼카]]></title>
             <link>https://zdnet.co.kr/view/?no=20220526155047</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524144235</guid>
             <pubDate>Tue, 24 May 2022 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[현대차 그룹이 미국에 이어 국내에도 2025년까지 63조원을 투자해 차세대 전기차와 부품·로보틱스·미래 도심항공모빌리티(AAM) 개발에 나선다. 현대차그룹의 대규모 투자 계획은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹, 가상 세계서 전기차 배터리 수명 예측…'디지털 트윈' 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524114829</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524114829</guid>
-            <pubDate>Tue, 24 May 2022 03:57:12 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹이 전기자동차(BEV) 배터리 수명 예측을 위한 방안으로 물리적 사물을 가상 세계에 구현하는 '디지털 트윈'을 도입한다. 현대차그룹은 최근 한국마이크로소프트와 BE...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
