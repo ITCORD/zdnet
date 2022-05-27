@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["3자결제에도 선택권 제한...구글, 인앱결제법 위반"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220527141700</link>
+            <guid>https://zdnet.co.kr/view/?no=20220527141700</guid>
+            <pubDate>Fri, 27 May 2022 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회가 구글플레이에 등록된 앱에서 결제 아웃링크를 제한하는 행위만으로도 현행법을 위반하고 있다는 봤다. 구글이 앱 삭제 행위를 할 경우 곧바로 사후규제 절차를 밟겠다는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맵모빌리티, KISA 정보보호인증 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20220527101804</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220525163825</guid>
             <pubDate>Wed, 25 May 2022 08:15:21 GMT</pubDate>
             <content:encoded><![CDATA[원스토어가 미디어콘텐츠 앱에 할인 수수료를 적용하고 콘텐츠 가격 인상을 억제하는 내용을 골자로 한 '원스토어 미디어콘텐츠 생태계 상생 프로그램'을 시행한다고 25일 밝혔다. 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["새정부, 전분야서 디지털 전환 일어나도록 규제 개선해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220525130918</link>
-            <guid>https://zdnet.co.kr/view/?no=20220525130918</guid>
-            <pubDate>Wed, 25 May 2022 08:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[산학연 전문가들이 디지털 환경 변화에 효율적으로 대처하고 국가 경쟁력을 높이기 위해서는 전체적인 산업 분야에서 디지털 전환이 이뤄져야 한다고 입을 모았다. 민간 중심으로 다양한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["77조원 빅딜 성사"...브로드컴은 왜 VM웨어 샀을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220527095843</link>
+            <guid>https://zdnet.co.kr/view/?no=20220527095843</guid>
+            <pubDate>Fri, 27 May 2022 06:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[통신칩 강자 브로드컴이 가상화·클라우드 소프트웨어 분야 리더 VM웨어를 610억 달러(약 77조 원)에 인수했다. 마이크로소프트의 블리자드 인수, 델의 EMC 인수 다음으로 큰...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠콘, 외식 데이터 분석 기업 '포스페이스랩' 20억 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220527140801</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220526141633</guid>
             <pubDate>Thu, 26 May 2022 05:17:19 GMT</pubDate>
             <content:encoded><![CDATA[오라클은 오라클클라우드인프라스트럭처(OCI)의 내장 보안 서비스 및 기능을 확대했다고 26일 밝혔다. 새롭게 추가된 기능은 내장형 클라우드 네이티브 방화벽 서비스와 더욱 강화된...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 10개 기관 맞춤형 데이터분석컨설팅 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220526132956</link>
-            <guid>https://zdnet.co.kr/view/?no=20220526132956</guid>
-            <pubDate>Thu, 26 May 2022 05:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 10개 기관을 대상으로 오는 6월부터 맞춤형 '데이터분석컨설팅'을 실시한다고 26일 밝혔다. 데이터분석컨설팅은 데이터분석을 통한 계획수립부터 정책추진까지 전 과정의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
