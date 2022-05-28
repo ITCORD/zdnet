@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 00:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 02:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[확진자 1만4398명, 14주째↓..10개월만 위중증 200명 밑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220528102753</link>
+            <guid>https://zdnet.co.kr/view/?no=20220528102753</guid>
+            <pubDate>Sat, 28 May 2022 02:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[질병관리청 중앙방역대책본부(방대본)는 28일 0시 기준 신종 코로나바이러스 감염증(코로나19) 신규 확진자가 1만4398명 발생했다고 밝혔다. 금요일 발생 기준 지난 3월 12...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신호 위반 차량에 사고 20대, 3명에게 새 삶 나눠줘]]></title>
             <link>https://zdnet.co.kr/view/?no=20220527141211</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220526104019</guid>
             <pubDate>Thu, 26 May 2022 03:10:57 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처와 한국의약품안전관리원은 오남용 우려가 있는 의료용 마약류 5종 효능군(28개 성분)을 처방한 경험이 있는 모든 의사에게 적정 처방과 안전 사용을 당부하는 '안전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 1만8816명…사망 34명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220526100440</link>
-            <guid>https://zdnet.co.kr/view/?no=20220526100440</guid>
-            <pubDate>Thu, 26 May 2022 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[26일 0시 기준 국내 발생 신규 확진자는 1만8천782명, 해외유입 사례 34명 등 신규 확진자는 총 1만8천816명으로 집계됐다. 중앙방역대책본부에 따르면, 국내 발생 신규...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
