@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 08:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행안부, 공공 마이데이터로 금융기관 대출 신청 간소화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220529165002</link>
+            <guid>https://zdnet.co.kr/view/?no=20220529165002</guid>
+            <pubDate>Sun, 29 May 2022 08:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[6월부터 공공 마이데이터 서비스를 이용해 다양한 금융기관 여신서비스를 간편하게 신청할 수 있게 된다. 행정안전부는 한국신용정보원과 협력해 6월 1일부터 은행 등 금융기관에서 제...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/29/0249d4a839f6c6392951d17dea2ec830-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은행 대출 서류, 방문없이 제출]]></title>
             <link>https://zdnet.co.kr/view/?no=20220529145425</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220529142028</guid>
             <pubDate>Sun, 29 May 2022 06:20:37 GMT</pubDate>
             <content:encoded><![CDATA[한국수자원공사(사장 박재현)는 27일 대전시 한국수자원공사 본사에서 2022년 '제1회 상수도 정책워크숍'을 개최했다. 상수도 정책워크숍은 상수도 핵심정책과 최신 트렌드 및 이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/29/275459950c5b1c3641d26b11de8ffa6b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신학철 LG화학 부회장, 獨서ESG 혁신 기술 이끌 인재 찾는다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220529111056</guid>
             <pubDate>Sun, 29 May 2022 03:03:57 GMT</pubDate>
             <content:encoded><![CDATA[제75회 칸 국제영화제(이하 칸 영화제)에서 한국영화 두 편이 낭보를 전했다. 한국영화 두 편이 동시에 경쟁 부문에 이름을 올린 적은 올해 포함해 총 6번째이나, 이렇게 두 영...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 선거사무소 방문 60대 여성, 보수 유튜버에 폭행 당해]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220529112414</link>
-            <guid>https://zdnet.co.kr/view/?no=20220529112414</guid>
-            <pubDate>Sun, 29 May 2022 03:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[인천 계양을 국회의원 보궐선거에 출마한 이재명 더불어민주당 후보 선거사무소에서 60대 방문객이 보수성향 유튜버에게 폭행을 당했다는 신고가 접수돼 경찰이 조사중이다. 28일 인천...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
