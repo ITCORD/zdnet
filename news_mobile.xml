@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 04:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 MX사업부, 스마트폰 대외악재 선제 대응]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220530115128</link>
+            <guid>https://zdnet.co.kr/view/?no=20220530115128</guid>
+            <pubDate>Mon, 30 May 2022 05:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자 갤럭시 스마트폰 사업을 담당하는 MX사업부문이 글로벌 사업 전략 점검에 나선 것으로 알려졌다. 장기화된 반도체 부품난과 우크라이나-러시아 전쟁 사태 같은 악재로 스마트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["아이폰14, 또 5나노 칩 적용한다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220530110640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220527100145</guid>
             <pubDate>Fri, 27 May 2022 03:01:36 GMT</pubDate>
             <content:encoded><![CDATA[냉장고 시장이 삼성전자 비스포크, LG전자 오브제컬렉션 등 인테리어 가전 브랜드 중심으로 재편되고 있는 것으로 나타났다. 27일 가격비교 사이트 다나와에 따르면 온라인 냉장고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 AR·VR 시장 향후 5년간 연평균 44% 성장 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220527090816</link>
-            <guid>https://zdnet.co.kr/view/?no=20220527090816</guid>
-            <pubDate>Fri, 27 May 2022 03:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[중국 증강현실(AR)·가상현실(VR) 시장이 메타버스 붐을 타고 향후 몇 년간 폭발적인 성장세를 보일 것이란 전망이 제기됐다. 26일 IDC에 따르면 중국에서 AR·VR 지출액...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
