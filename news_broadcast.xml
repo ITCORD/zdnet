@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 07:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에릭슨엘지, 이음5G 솔루션·장비 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220530130148</link>
+            <guid>https://zdnet.co.kr/view/?no=20220530130148</guid>
+            <pubDate>Mon, 30 May 2022 08:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[에릭슨엘지가 5G특화망(이음5G) 전용 솔루션 'Ericsson Private 5G(EP5G)'와 전용 장비를 공개하고 국내 이음5G 구축 시장 리딩그룹으로 자리매김하겠다는 의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OTT 정의 규정한 전기통신사업법 개정안 국회 통과]]></title>
             <link>https://zdnet.co.kr/view/?no=20220530134612</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[정부, 디지털트윈 실증에 올해 295억원 투입]]></title>
+            <title><![CDATA[정부, 디지털트윈 실증에 올해 260억원 투입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220530112033</link>
             <guid>https://zdnet.co.kr/view/?no=20220530112033</guid>
             <pubDate>Mon, 30 May 2022 03:10:06 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220527095455</guid>
             <pubDate>Fri, 27 May 2022 08:15:10 GMT</pubDate>
             <content:encoded><![CDATA["코로나19로 사회 활동에 어려움을 겪고 있는 저활력청년들이 늘어났다. SK텔레콤은 이들이 직무 경험을 쌓고 사회로 나아갈 수 있도록 준비를 돕기 위해서 프로그램을 만들게 됐다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["3자결제에도 선택권 제한...구글, 인앱결제법 위반"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220527141700</link>
-            <guid>https://zdnet.co.kr/view/?no=20220527141700</guid>
-            <pubDate>Fri, 27 May 2022 06:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회가 구글플레이에 등록된 앱에서 결제 아웃링크를 제한하는 행위만으로도 현행법을 위반하고 있다는 봤다. 구글이 앱 삭제 행위를 할 경우 곧바로 사후규제 절차를 밟겠다는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
