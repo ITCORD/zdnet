@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT 정의 규정한 전기통신사업법 개정안 국회 통과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220530134612</link>
+            <guid>https://zdnet.co.kr/view/?no=20220530134612</guid>
+            <pubDate>Mon, 30 May 2022 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 동영상 서비스(OTT)에 대한 정의 규정을 신설한 전기통신사업법 개정안이 국회 본회의를 통과했다. 국회는 지난 29일 본회의를 열고 과학기술정보통신부와 여야가 제출한 전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 디지털트윈 실증에 올해 295억원 투입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220530112033</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220527141700</guid>
             <pubDate>Fri, 27 May 2022 06:16:13 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 구글플레이에 등록된 앱에서 결제 아웃링크를 제한하는 행위만으로도 현행법을 위반하고 있다는 봤다. 구글이 앱 삭제 행위를 할 경우 곧바로 사후규제 절차를 밟겠다는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵모빌리티, KISA 정보보호인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220527101804</link>
-            <guid>https://zdnet.co.kr/view/?no=20220527101804</guid>
-            <pubDate>Fri, 27 May 2022 03:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[티맵모빌리티가 정보보호관리체계(ISMS) 인증을 획득하며 안정성과 신뢰성을 인정받았다. 티맵모빌리티는 한국인터넷진흥원(KISA)에서 부여하는 ISMS 인증을 획득했다고 27일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
