@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 01:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 03:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대오토에버, 차량 가상검증 얼라이언스 생태계 조성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220530101616</link>
+            <guid>https://zdnet.co.kr/view/?no=20220530101616</guid>
+            <pubDate>Mon, 30 May 2022 03:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[현대오토에버(대표 서정식)가 차량 가상검증 플랫폼 개발을 위해 국내외 소프트웨어 전문 기업들과 얼라이언스를 맺었다고 30일 밝혔다. 지난 26일 현대오토에버는 ▲디스페이스코리아...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모카앤제이에스, 석세스모드와 사후면세사업장 솔루션 협약]]></title>
             <link>https://zdnet.co.kr/view/?no=20220530094607</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성SDS, IT아웃소싱 업무 원격으로 전환]]></title>
+            <title><![CDATA[삼성SDS, IT 아웃소싱 업무 원격으로 전환]]></title>
             <link>https://zdnet.co.kr/view/?no=20220530092051</link>
             <guid>https://zdnet.co.kr/view/?no=20220530092051</guid>
             <pubDate>Mon, 30 May 2022 01:00:56 GMT</pubDate>
@@ -155,16 +163,8 @@
             <title><![CDATA[[부음] 이민석 이노베이션아카데미 학장 모친상]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Mon, 30 May 2022 01:00:56 GMT</pubDate>
+            <pubDate>Mon, 30 May 2022 03:10:18 GMT</pubDate>
             <content:encoded><![CDATA[▲이덕자 씨 (향년 81세) 별세. 이민석 이노베이션아카데미 학장 모친상= 2022년 5월 27일(금), 서울대학교병원 장례식장 1호실 (혜화동), 발인 2022년 5월 29일...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라온피플, 'NAVI AI 5.0' 저비용 고효율 검사 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220527162202</link>
-            <guid>https://zdnet.co.kr/view/?no=20220527162202</guid>
-            <pubDate>Fri, 27 May 2022 08:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[라온피플이 AI기반 검사 소프트웨어 '나비(NAVI) AI 5.0' 버전을 새롭게 선보였다고 27일 밝혔다. 고객 중심의 데이터 개선을 통해 저비용 고효율의 정확도 높은 검사결...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
