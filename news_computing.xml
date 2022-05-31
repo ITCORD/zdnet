@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS, 학습성능 60% 끌어올린 ML전용 인스턴스 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220531113413</link>
+            <guid>https://zdnet.co.kr/view/?no=20220531113413</guid>
+            <pubDate>Tue, 31 May 2022 04:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)가 더 빠른 기계학습(ML) 훈련과 고성능 컴퓨팅(HPC)을 위한 신규 인스턴스를 선보인다. 최근 아마존웹서비스는 공식 홈페이지를 통해 아마존 EC2 P4...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에스넷시스템, 무신사 통합정보시스템 구축 사업 수주]]></title>
             <link>https://zdnet.co.kr/view/?no=20220531122039</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220530115420</guid>
             <pubDate>Mon, 30 May 2022 05:22:47 GMT</pubDate>
             <content:encoded><![CDATA[IBM은 최근 엔듀로샛이 발사한 소형인공위성(나노샛)에 오픈소스, 하이브리드 클라우드, 인공지능(AI) 기술을 지원했다고 30일 밝혔다. 엔듀로샛은 소프트웨어 기반 나노샛 및 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대오토에버, 차량 가상검증 얼라이언스 생태계 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220530101616</link>
-            <guid>https://zdnet.co.kr/view/?no=20220530101616</guid>
-            <pubDate>Mon, 30 May 2022 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[현대오토에버(대표 서정식)가 차량 가상검증 플랫폼 개발을 위해 국내외 소프트웨어 전문 기업들과 얼라이언스를 맺었다고 30일 밝혔다. 지난 26일 현대오토에버는 ▲디스페이스코리아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
