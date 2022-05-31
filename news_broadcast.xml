@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 08:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인서비스 피해상담센터 열렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220531174414</link>
+            <guid>https://zdnet.co.kr/view/?no=20220531174414</guid>
+            <pubDate>Tue, 31 May 2022 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 31일 한국정보통신진흥협회와 온라인서비스피해상담센터를 개소했다. 최근 온라인 기반 서비스 이용이 급속하게 늘어나고 새로운 유형의 피해가 확산되면서 체계적인 이용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조승래 의원 "구글 인앱결제 강제는 실정법 정면도전”]]></title>
             <link>https://zdnet.co.kr/view/?no=20220531165606</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220530134612</guid>
             <pubDate>Mon, 30 May 2022 06:18:15 GMT</pubDate>
             <content:encoded><![CDATA[온라인 동영상 서비스(OTT)에 대한 정의 규정을 신설한 전기통신사업법 개정안이 국회 본회의를 통과했다. 국회는 지난 29일 본회의를 열고 과학기술정보통신부와 여야가 제출한 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 개발자 경진대회 열린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220530104912</link>
-            <guid>https://zdnet.co.kr/view/?no=20220530104912</guid>
-            <pubDate>Mon, 30 May 2022 03:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부가 메타버스 콘텐츠 서비스 개발 실력을 겨루는 개발자 경진대회를 개최한다고 30일 밝혔다. 메타버스에 관심 있는 학생과 일반인 누구나 참가할 수 있다. 최종 4...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
