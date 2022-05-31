@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데하이마트, 6월 '에어컨 대전' 개시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220531155639</link>
+            <guid>https://zdnet.co.kr/view/?no=20220531155639</guid>
+            <pubDate>Tue, 31 May 2022 08:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[롯데하이마트가 다음달 전국 롯데하이마트 매장에서 '에어컨 대전'을 진행한다고 31일 밝혔다. 롯데하이마트는 여름 무더위 시작을 앞두고 에어컨을 비롯한 냉방가전과 상반기 인기 제...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["비싸고 재고 없다"...그래픽카드 구매 미루는 소비자들]]></title>
             <link>https://zdnet.co.kr/view/?no=20220531154447</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220530093755</guid>
             <pubDate>Mon, 30 May 2022 01:01:37 GMT</pubDate>
             <content:encoded><![CDATA[레노버가 e스포츠 기업 ESL과 '인텔 익스트림 마스터즈' 독점 파트너십을 체결했다고 밝혔다. 인텔 익스트림 마스터즈는 ESL이 주관하고 인텔이 후원하는 e스포츠 대회로 매년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[iOS16, 올웨이즈온 디스플레이 지원할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220530085246</link>
-            <guid>https://zdnet.co.kr/view/?no=20220530085246</guid>
-            <pubDate>Mon, 30 May 2022 01:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 곧 개최할 WWDC에서 공개하게 될 iOS16에 올웨이즈온 디스플레이(Always-On Display, AOD)가 지원될 것이라는 전망이 나왔다. 블룸버그 통신은 애플이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
