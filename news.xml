@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 12:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 13:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국경영과학회, 1~4일 제주서 춘계학술대회]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601222845</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601222845</guid>
+            <pubDate>Wed, 01 Jun 2022 13:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[사단법인 한국경영과학회(회장 김종우 한양대 경영대학 교수)는 1~4일 나흘간 제주 라마다프라자호텔에서 대한산업공학회와 공동으로 '2022년 춘계공동학술대회(조직위원장 이홍주 가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/01/084f8a35e46272c50b60399c561ef7c3-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마케톤, 승강기안전기술원 승강기에 홀로그램식 버튼 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20220601205959</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220601184153</guid>
             <pubDate>Wed, 01 Jun 2022 10:20:49 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 스마트공장 제조·운영설비에서 발생되는 융합보안 문제를 해결하기 위해 스마트 공장에 대해 '찾아가는 보안리빙랩' 서비스를 처...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/01/8543cc5dbbc5395b1055a2b4c05f6446-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["데이터경제 시대, 개인정보보호 어떻게 해야 하나?"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220601113338</guid>
             <pubDate>Wed, 01 Jun 2022 03:58:44 GMT</pubDate>
             <content:encoded><![CDATA[페이스북, 트위터 등 소셜 미디어업체들의 콘텐츠 차단·삭제 권한을 금지해 관심을 끌었던 미국 텍사스 주 법률이 연방대법원에서 제동이 걸렸다. 미국 연방대법원은 31일(현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코는 장비회사? "SW·서비스 매출비중 절반 넘었다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220601095512</link>
-            <guid>https://zdnet.co.kr/view/?no=20220601095512</guid>
-            <pubDate>Wed, 01 Jun 2022 03:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[시스코가 지난해 소프트웨어(SW)·서비스 부문 매출 비중을 50% 이상으로 늘리면서, 클라우드 시대 맞춘 '체질 개선'에 확실히 성공했다. 과거 퍼블릭 클라우드 시대가 열리면 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
