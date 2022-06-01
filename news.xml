@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 11:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 12:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마케톤, 승강기안전기술원 승강기에 홀로그램식 버튼 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601205959</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601205959</guid>
+            <pubDate>Wed, 01 Jun 2022 12:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[마케톤(대표 양창준)은 승강기안전기술원이 사무동과 타워동에 자사의 홀로그램 기술이 접목된 비접촉 엘리베이터 버튼 시스템을 도입했다고 1일 밝혔다. 승강기안전기술원은 승강기 안전...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/01/d438875789cbf0b7a5a3e847185a7824-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[14개 민관기관, 공공데이터 활용 창업 육성 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20220601190239</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220601182120</guid>
             <pubDate>Wed, 01 Jun 2022 10:20:49 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 오는 2일과 3일 양일간 서울 삼성동 코엑스 그랜드볼룸에서 국내 최대 규모의 개인정보보호 행사인 '개인정보보호 페어 2022'를 개최한다4고 1일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/01/e069a53cc663915ae57b1a4f5e1291aa-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["이대로면 우리가 불리"…투표율 저조에 SNS서 투표 호소]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220601095512</guid>
             <pubDate>Wed, 01 Jun 2022 03:58:44 GMT</pubDate>
             <content:encoded><![CDATA[시스코가 지난해 소프트웨어(SW)·서비스 부문 매출 비중을 50% 이상으로 늘리면서, 클라우드 시대 맞춘 '체질 개선'에 확실히 성공했다. 과거 퍼블릭 클라우드 시대가 열리면 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 'EV멤버스 택시' 출시…"개인택시 사업자 전용 멤버십"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220601110934</link>
-            <guid>https://zdnet.co.kr/view/?no=20220601110934</guid>
-            <pubDate>Wed, 01 Jun 2022 03:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[기아가 전기자동차 개인택시 사업자 맞춤형 멤버십 '기아 EV멤버스 택시'를 출시했다고 1일 밝혔다. 기아 EV멤버스 택시는 기아 전기차 구매자 가운데 개인택시를 운영 중인 사업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
