@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 08:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 09:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이대로면 우리가 불리"…투표율 저조에 SNS서 투표 호소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601172010</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601172010</guid>
+            <pubDate>Wed, 01 Jun 2022 09:14:32 GMT</pubDate>
+            <content:encoded><![CDATA["우리가 불리합니다. 주변에 투표를 권해주세요" 1일 치러지고 있는 제8회 지방선거 투표율이 저조하자 사회관계망서비스(SNS)와 주요 커뮤니티에는 투표를 독려하고, 특정정당을 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/01/20fc57c1de0187eb00c1eda84bf35190-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국토부, 광역버스 국민 불편 직접 듣고 개선한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220601170733</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220601163548</guid>
             <pubDate>Wed, 01 Jun 2022 08:18:07 GMT</pubDate>
             <content:encoded><![CDATA[한국전력거래소(이사장 정동희)는 지역 환경개선과 소상공인 지원을 위한 ESG 경영 실천 플로깅 캠페인 '수거했어 오늘도'를 추진한다고 1일 밝혔다. 코로나 엔데믹 전환에 맞춰 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/01/ba8a48260d61f8ae764d1f6f55045d6c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KTL, 진주시사회복지협의회에 방역마스크 40만장 전달]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220601104158</guid>
             <pubDate>Wed, 01 Jun 2022 03:58:44 GMT</pubDate>
             <content:encoded><![CDATA[5월 무역수지가 두 달째 적자다. 원자재 값이 뛰어서다. 수출액은 5월 기준 최대치를 기록했다. 산업통상자원부는 5월 수출액이 지난해 같은 기간보다 21.3% 늘어난 615억2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 영상 스크롤 시 버튼 없애는 '클리어모드' 시범 운영]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220601101231</link>
-            <guid>https://zdnet.co.kr/view/?no=20220601101231</guid>
-            <pubDate>Wed, 01 Jun 2022 03:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡이 영상 콘텐츠를 스크롤할 때 화면을 채우고 있는 불필요한 인터페이스 요소를 없애는 '클리어모드'를 시범 운영한다. 미국 IT매체 엔가젯은 지난달 31일(현지시간) 틱톡이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
