@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 01:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 1만5797명…사망 21명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601095437</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601095437</guid>
+            <pubDate>Wed, 01 Jun 2022 01:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[1일 0시 기준 국내 발생 신규 확진자는 1만5천753명, 해외유입 사례 44명 등 신규 확진자는 총 1만5천797명으로 집계됐다. 중앙방역대책본부에 따르면, 국내 발생 신규 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[질병청, 원숭이두창 위기경보 '관심단계' 발령]]></title>
             <link>https://zdnet.co.kr/view/?no=20220531180937</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220530143918</guid>
             <pubDate>Mon, 30 May 2022 06:20:21 GMT</pubDate>
             <content:encoded><![CDATA[김승희 보건복지부 장관 후보자가 과거 국회의원 재직 당시 문재인 전 대통령의 기억력을 치매에 빗댄 발언에 대해 인사청문회에서 적극 소명하겠다는 입장을 분명히 했다. 김 후보자는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김승희, 과거 '대통령 치매' 발언에 "국회의원으로 질문한 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220530132736</link>
-            <guid>https://zdnet.co.kr/view/?no=20220530132736</guid>
-            <pubDate>Mon, 30 May 2022 05:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[김승희 보건복지부 장관 후보자가 과거 자유한국당 국회의원 재직 당시 문재인 전 대통령의 기억력을 치매에 빗댄 발언에 대해 "당시 국회의원으로써 질문할 수 밖에 없었던 질의었다"...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

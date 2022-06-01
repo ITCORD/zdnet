@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 01:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 사파리 이용자, 10억명 넘었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601095946</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601095946</guid>
+            <pubDate>Wed, 01 Jun 2022 01:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 맥OS, iOS 전용 웹브라우저인 사파리 이용자가 10억 명을 넘어섰다. 애플인사이더, 나인투파이브맥은 아틀라스VPN의 보고서를 인용해 지난 4월 기준 사파리의 글로벌 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 메타버스 근무제 직원 반발에 의견 수렴키로]]></title>
             <link>https://zdnet.co.kr/view/?no=20220531220538</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220530103416</guid>
             <pubDate>Mon, 30 May 2022 03:10:40 GMT</pubDate>
             <content:encoded><![CDATA[윌라는 자사 앱 누적 다운로드 수가 300만을 돌파했다고 30일 밝혔다. 지난 2018년 4월 베타 서비스를 시작한 윌라는 2020년 6월 누적 다운로드 100만 건을 넘겼다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유성민 허들러스 대표 "데이터만큼 심리적 요소 연구해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220530110151</link>
-            <guid>https://zdnet.co.kr/view/?no=20220530110151</guid>
-            <pubDate>Mon, 30 May 2022 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터(헤드디렉터 박윤찬)가 대한민국 혁신성장 1번지 마포구 프론트원에서 마케터 실무자를 대상으로 '청년마케터 월간모임' 세미나를 개최했다고 30일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
