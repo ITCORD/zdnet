@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 01:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[래티스 "FPGA 설계 자원 증가…보안·효율 중요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220531144025</link>
+            <guid>https://zdnet.co.kr/view/?no=20220531144025</guid>
+            <pubDate>Wed, 01 Jun 2022 04:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[미국 래티스반도체는 1일 프로그래머블 반도체(FPGA) 신제품 '마크(Mach)XO5-NX'를 선보였다. 프로그래머블 반도체란 회로를 변경할 수 있는 비메모리 반도체다. 래티스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 차세대 서버용 GPU '리알토 브리지' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220601075850</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220523172707</guid>
             <pubDate>Mon, 23 May 2022 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[파이슨은 23일(대만 현지시간) PCI 익스프레스 5.0 기반 NVMe SSD 생태계 구축을 위해 미국 AMD·마이크론과 협력한다고 밝혔다. 파이슨은 지난 해 9월 말 PCI ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 반도체로 시작해 현대 미래차로 마무리…한미 정상회담]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523111501</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523111501</guid>
-            <pubDate>Mon, 23 May 2022 02:55:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난 20일 삼성전자 평택공장 방문으로 시작한 조 바이든 미국 대통령과 윤석열 대통령의 한미 정상회담 일정이 22일 바이든 대통령의 정의선 현대자동차그룹 회장 면담을 끝으로 마...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
