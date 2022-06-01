@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 05:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼블리시, 고팍스에 R2E 토큰 'NEWS' 상장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601143118</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601143118</guid>
+            <pubDate>Wed, 01 Jun 2022 06:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[퍼블리시는 자체 발행 토큰 'NEWS'가 국내 가상자산 거래소 고팍스에 31일 상장됐다고 밝혔다. 퍼블리시 NEWS는 퍼블리시링크를 통해 퍼블리시 얼라이언스에 참여한 언론사 매...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두나무, CA 오입금 피해 복구에 비트코인 쓴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220601124915</link>
@@ -67,7 +75,7 @@
             <title><![CDATA[[인사]한국정보보호산업협회]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Wed, 01 Jun 2022 05:12:49 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2022 06:20:40 GMT</pubDate>
             <content:encoded><![CDATA[◆승진 ▲ 2급 부장 황지은(산업지원실) ▲ 4급 과장 강주영(교육개발팀), 정호준(산업진흥팀) ◆보임 ▲ 한국정보보호교육원 원장 정성환(겸. 한국정보보호산업협회 상근부회장) ...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220531113413</guid>
             <pubDate>Tue, 31 May 2022 04:31:22 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)가 더 빠른 기계학습(ML) 훈련과 고성능 컴퓨팅(HPC)을 위한 신규 인스턴스를 선보인다. 최근 아마존웹서비스는 공식 홈페이지를 통해 아마존 EC2 P4...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에스넷시스템, 무신사 통합정보시스템 구축 사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220531122039</link>
-            <guid>https://zdnet.co.kr/view/?no=20220531122039</guid>
-            <pubDate>Tue, 31 May 2022 03:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[에스넷시스템(대표 유홍준, 장병강)이 온라인 패션 플랫폼 무신사의 통합정보시스템 구축 사업을 수주했다고 31일 밝혔다. 무신사는 MZ세대를 가장 잘 아는 플랫폼으로서 기존 온라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

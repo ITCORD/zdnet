@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 05:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업공개냐 피인수냐... ARM 운명은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220601140513</link>
+            <guid>https://zdnet.co.kr/view/?no=20220601140513</guid>
+            <pubDate>Wed, 01 Jun 2022 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[영국 반도체 설계기업 ARM 대주주인 소프트뱅크(SB)가 내년 3월 말까지 기업공개(IPO)를 통해 ARM을 뉴욕증시에 상장하기로 방침을 정한 가운데 국내외 반도체 기업들이 컨...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[래티스 "FPGA 설계 자원 증가…보안·효율 중요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220531144025</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524132426</guid>
             <pubDate>Tue, 24 May 2022 05:19:58 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 24일 정오 온라인으로 진행된 컴퓨텍스 2022 기조연설을 통해 자체 개발한 ARM 기반 CPU '그레이스'(Grace) 탑재 서버 라인업을 공개하고 내년 상반기부터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이슨, AMD·마이크론과 PCIe 5 SSD 관련 협업]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220523172707</link>
-            <guid>https://zdnet.co.kr/view/?no=20220523172707</guid>
-            <pubDate>Mon, 23 May 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[파이슨은 23일(대만 현지시간) PCI 익스프레스 5.0 기반 NVMe SSD 생태계 구축을 위해 미국 AMD·마이크론과 협력한다고 밝혔다. 파이슨은 지난 해 9월 말 PCI ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
