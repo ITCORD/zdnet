@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 04:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['애플=게임시장 넘버3'가 예사롭지 않은 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220602140154</link>
+            <guid>https://zdnet.co.kr/view/?no=20220602140154</guid>
+            <pubDate>Thu, 02 Jun 2022 05:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[앱스토어 독점 공방의 핵심 쟁점은 배포와 결제 두 가지다. 특히 문제가 되는 건 '인앱결제 독점'이다. 애플과 구글은 그 동안 앱 내부에서 결제가 이뤄질 경우 15~30% 수수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["아이폰14 프로에만 새 A16칩 들어간다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220602110948</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220531154447</guid>
             <pubDate>Tue, 31 May 2022 07:14:13 GMT</pubDate>
             <content:encoded><![CDATA[그래픽카드 가격이 작년 12월 미국과 유럽을 시작으로 올 2월부터 국내 시장에서도 하락세로 접어들었지만 이런 가격 하락이 그래픽카드 판매 증가로 이어지지 않고 있는 것으로 나타...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[궈밍치 "WWDC 22에서 AR 헤드셋 발표 없을 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220531152201</link>
-            <guid>https://zdnet.co.kr/view/?no=20220531152201</guid>
-            <pubDate>Tue, 31 May 2022 07:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[다음 달 6일(미국 현지시간)부터 개최되는 애플 WWDC(세계개발자회의) 22 행사에서 AR(증강현실) 헤드셋 관련 발표가 없을 것이라는 전망이 나왔다. 애플 관련 제품과 공급...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
