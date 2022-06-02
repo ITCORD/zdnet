@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 13:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 14:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AR·VR콘텐츠로 스마트팩토리 한 번에 이해"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220602174916</link>
+            <guid>https://zdnet.co.kr/view/?no=20220602174916</guid>
+            <pubDate>Thu, 02 Jun 2022 14:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[로크웰 오토메이션 코리아가 최신 스마트팩토리 기술을 직접 체험하고, 고객의 요구에 따라 가상환경에 구현해 볼 수 있는 고객체험센터(CEC)를 오픈했다. 스마트팩토리에 대한 이해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌, 보안 취약 진단 및 조치 한달 무상 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20220602180942</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220601143118</guid>
             <pubDate>Wed, 01 Jun 2022 06:20:40 GMT</pubDate>
             <content:encoded><![CDATA[퍼블리시는 자체 발행 토큰 'NEWS'가 국내 가상자산 거래소 고팍스에 31일 상장됐다고 밝혔다. 퍼블리시 NEWS는 퍼블리시링크를 통해 퍼블리시 얼라이언스에 참여한 언론사 매...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, CA 오입금 피해 복구에 비트코인 쓴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220601124915</link>
-            <guid>https://zdnet.co.kr/view/?no=20220601124915</guid>
-            <pubDate>Wed, 01 Jun 2022 03:59:07 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무(대표 이석우)는 투자자 보호 차원에서 복구 불가 유형에 해당하는 디지털자산 착오전송(오입금) 등에 대한 특별 구제를 실시한다고 31일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
