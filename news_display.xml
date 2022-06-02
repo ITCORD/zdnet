@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대만, 러시아·벨라루스에 최신 반도체 수출 금지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220602082232</link>
+            <guid>https://zdnet.co.kr/view/?no=20220602082232</guid>
+            <pubDate>Thu, 02 Jun 2022 01:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[대만이 러시아와 벨라루스 정부·기업체를 대상으로 작동 속도 25MHz, 연산 속도 5기가플롭스(GFLOPS) 이상인 모든 프로세서의 수출을 금지했다. 대만 경제부는 1일(현지시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기업공개냐 피인수냐... ARM 운명은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220601140513</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220524134952</guid>
             <pubDate>Tue, 24 May 2022 05:19:58 GMT</pubDate>
             <content:encoded><![CDATA[삼성은 향후 5년간 4차산업혁명의 근간이 될 반도체, 바이오, 인공지능(AI), 6G 통신 등에 450조원을 투자할 계획이라고 24일 밝혔다. 이는 삼성이 지난 5년간 투자한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 자체 개발 CPU '그레이스' 서버 내년 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220524132426</link>
-            <guid>https://zdnet.co.kr/view/?no=20220524132426</guid>
-            <pubDate>Tue, 24 May 2022 05:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 24일 정오 온라인으로 진행된 컴퓨텍스 2022 기조연설을 통해 자체 개발한 ARM 기반 CPU '그레이스'(Grace) 탑재 서버 라인업을 공개하고 내년 상반기부터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
