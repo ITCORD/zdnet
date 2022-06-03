@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 19:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 20:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["누군가에게 희망을 주고 다른 생명을 살릴 수 있다면" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220603161035</link>
+            <guid>https://zdnet.co.kr/view/?no=20220603161035</guid>
+            <pubDate>Fri, 03 Jun 2022 20:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[“누군가에게 희망을 주고 다른 생명을 살릴 수 있다면” 사랑하는 딸을 하늘나라로 떠나 보내며 장기기증으로 6명에게 새 삶을 전한 김지연씨 가족의 말이다. 한국장기조직기증원은 3...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/03/02441061890e78064e013a92ae74c442-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2기 삼성 준법위, 최고경영진과 첫 간담회...노사관계 발전 논의 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220603202131</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220603163624</guid>
             <pubDate>Fri, 03 Jun 2022 10:13:20 GMT</pubDate>
             <content:encoded><![CDATA[현충일까지 이어지는 황금연휴가 코앞으로 성큼 다가왔다. 이번 연휴에 특별한 약속이 없다면 온라인 동영상 서비스(OTT)로 전 세계의 사랑을 받은 드라마를 감상해보는 건 어떨까....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/03/215ca439f8a1f025051739f0e229e718-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노코드, 전 산업으로 확대 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,14 +168,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[카카오페이, 환경의 날 맞아 ESG 소셜 릴레이 진행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220603153957</link>
-            <guid>https://zdnet.co.kr/view/?no=20220603153957</guid>
-            <pubDate>Fri, 03 Jun 2022 07:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[카카오페이가 오는 5일 환경의 날을 맞아 ESG 소셜 릴레이를 진행한다고 3일 밝혔다. 이번 릴레이는 환경이라는 주제 하에 환경의 날에 대한 인식을 확산시키고, 카카오페이의 친...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[뭐볼래] 연휴동안 몰아보기 좋은 OTT 드라마 추천 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220603163624</link>
             <guid>https://zdnet.co.kr/view/?no=20220603163624</guid>
@@ -256,11 +256,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[3.4㎓ 5G 주파수 추가할당 어떻게 진행돼왔나 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602112357</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602112357</guid>
+            <title><![CDATA[5G 주파수 형평성 맞췄다...통신품질 경쟁 촉발 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220602134515</link>
+            <guid>https://zdnet.co.kr/view/?no=20220602134515</guid>
             <pubDate>Thu, 02 Jun 2022 05:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 7월 LG유플러스가 5G 3.4㎓ 대역의 추가할당을 신청하면서 불거졌던 통신 3사 간 주파수 갈등이 약 11개월 간의 진통 끝에 정부의 경매 실시로 매듭을 짓게 됐다. ...]]></content:encoded>
+            <content:encoded><![CDATA[과학기술정보통신부가 3.4~3.42㎓ 대역 20㎒폭의 5G 주파수를 공급한다. 5G 주파수 첫 공급 당시 간섭 우려가 제기된 대역을 추가로 할당하면서 총 300㎒폭의 주파수를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -272,11 +272,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[5G 주파수 형평성 맞췄다...통신품질 경쟁 촉발 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602134515</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602134515</guid>
+            <title><![CDATA[3.4㎓ 5G 주파수 추가할당 어떻게 진행돼왔나 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220602112357</link>
+            <guid>https://zdnet.co.kr/view/?no=20220602112357</guid>
             <pubDate>Thu, 02 Jun 2022 05:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부가 3.4~3.42㎓ 대역 20㎒폭의 5G 주파수를 공급한다. 5G 주파수 첫 공급 당시 간섭 우려가 제기된 대역을 추가로 할당하면서 총 300㎒폭의 주파수를 ...]]></content:encoded>
+            <content:encoded><![CDATA[지난해 7월 LG유플러스가 5G 3.4㎓ 대역의 추가할당을 신청하면서 불거졌던 통신 3사 간 주파수 갈등이 약 11개월 간의 진통 끝에 정부의 경매 실시로 매듭을 짓게 됐다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1128,6 +1128,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["누군가에게 희망을 주고 다른 생명을 살릴 수 있다면" (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220603161035</link>
+            <guid>https://zdnet.co.kr/view/?no=20220603161035</guid>
+            <pubDate>Fri, 03 Jun 2022 20:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[“누군가에게 희망을 주고 다른 생명을 살릴 수 있다면” 사랑하는 딸을 하늘나라로 떠나 보내며 장기기증으로 6명에게 새 삶을 전한 김지연씨 가족의 말이다. 한국장기조직기증원은 3...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[팜젠사이언스, 휴먼-마이크로바이옴 DNA NFT Platform 비즈니스 진출 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220603165017</link>
             <guid>https://zdnet.co.kr/view/?no=20220603165017</guid>
@@ -1277,14 +1285,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602095652</guid>
             <pubDate>Thu, 02 Jun 2022 01:01:29 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 신규 확진자가 1주일 동안 1만명 선을 오가고, 위중증 환자도 100명대 후반을 유지해 정체 상황에 있는 것으로 보인다. 중앙방역대책본부에 따르면 6월2일 0시 기준...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 1만5797명…사망 21명 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220601095437</link>
-            <guid>https://zdnet.co.kr/view/?no=20220601095437</guid>
-            <pubDate>Wed, 01 Jun 2022 01:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[1일 0시 기준 국내 발생 신규 확진자는 1만5천753명, 해외유입 사례 44명 등 신규 확진자는 총 1만5천797명으로 집계됐다. 중앙방역대책본부에 따르면, 국내 발생 신규 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
