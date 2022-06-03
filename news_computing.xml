@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 06:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VM웨어, 위협 인텔리전스 'VM웨어 콘텍사' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220603155507</link>
+            <guid>https://zdnet.co.kr/view/?no=20220603155507</guid>
+            <pubDate>Fri, 03 Jun 2022 07:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[VM웨어는 횡적 보안(lateral security) 기능을 획기적으로 향상시킨 위협 인텔리전스 'VM웨어 콘텍사(Contexa)'를 3일 공개했다. VM웨어 콘텍사는 멀티 클...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["테라 권도형, 美서 징역형 피해도 민사처벌 가능성 높아"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220603140545</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602114930</guid>
             <pubDate>Thu, 02 Jun 2022 03:18:35 GMT</pubDate>
             <content:encoded><![CDATA[롯데가 컨소시엄을 구성해 '한국형 도심항공교통 그랜드챌린지(이하 K-UAM GC)' 실증 사업에 도전한다고 2일 밝혔다. 지난 5월 31일 '롯데 UAM 컨소시엄'은 국토교통부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유라클, 디지털 재난 안전관리 사업 박차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602113901</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602113901</guid>
-            <pubDate>Thu, 02 Jun 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[유라클(대표 조준희, 권태일)이 안전관리플랫폼 기업 코너스, 레이컴 및 안전관리 컨설팅 기업 캐드머스 그룹과 '재난 안전 사업 협력을 위한 업무협약(MOU)'을 체결했다고 2일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
