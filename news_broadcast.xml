@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 15:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[5G 주파수 형평성 맞췄다...통신품질 경쟁 촉발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602134515</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602134515</guid>
-            <pubDate>Thu, 02 Jun 2022 05:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부가 3.4~3.42㎓ 대역 20㎒폭의 5G 주파수를 공급한다. 5G 주파수 첫 공급 당시 간섭 우려가 제기된 대역을 추가로 할당하면서 총 300㎒폭의 주파수를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[3.4㎓ 5G 주파수 추가할당 어떻게 진행돼왔나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220602112357</link>
             <guid>https://zdnet.co.kr/view/?no=20220602112357</guid>
@@ -117,6 +109,14 @@
             <guid>https://zdnet.co.kr/view/?no=20220602135117</guid>
             <pubDate>Thu, 02 Jun 2022 05:27:08 GMT</pubDate>
             <content:encoded><![CDATA[정부가 이용자의 5G 체감 품질 향상을 위해 품질평가 대상을 전국 85개시로 확대하고 실내 점검도 강화한다는 방침이다. 과학기술정보통신부는 5G 서비스의 커버리지가 전국으로 확...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5G 주파수 형평성 맞췄다...통신품질 경쟁 촉발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220602134515</link>
+            <guid>https://zdnet.co.kr/view/?no=20220602134515</guid>
+            <pubDate>Thu, 02 Jun 2022 05:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부가 3.4~3.42㎓ 대역 20㎒폭의 5G 주파수를 공급한다. 5G 주파수 첫 공급 당시 간섭 우려가 제기된 대역을 추가로 할당하면서 총 300㎒폭의 주파수를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
