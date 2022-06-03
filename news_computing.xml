@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노코드, 전 산업으로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220603172211</link>
+            <guid>https://zdnet.co.kr/view/?no=20220603172211</guid>
+            <pubDate>Fri, 03 Jun 2022 10:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 전환이 가속화되며 IT업계를 넘어 제조, 의료 등 산업에 특화된 로우코드/노코드(LCNC)도구 도입이 본격화될 전망이다. 모든 산업영역에 걸친 개발자 품귀 현상을 개선하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유니네트워크, '음식물 처리 전자관리 시스템' 사업 착수보고회 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220603170029</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602142640</guid>
             <pubDate>Thu, 02 Jun 2022 05:27:50 GMT</pubDate>
             <content:encoded><![CDATA[오라클의 전자의료기록업체 서너 인수가 반독점규제 당국의 승인을 받았다. 오라클은 서너 인수로 얻은 데이터와 솔루션을 기반으로 헬스케어 클라우드 사업을 본격적으로 진행한다는 계획...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐레터, 제2판교 신사옥 이전..."새로운 도약 기대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602112105</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602112105</guid>
-            <pubDate>Thu, 02 Jun 2022 05:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)는 제2판교테크노밸리로 사옥으로 이전하며, 새로운 도약에 나선다고 2일 밝혔다. 시큐레터는 약 7년 간의 제1판교 생활을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
