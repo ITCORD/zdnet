@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 07:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 08:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소이넷, 커뮤닉 아시아 2022 참여 소기 성과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220604170404</link>
+            <guid>https://zdnet.co.kr/view/?no=20220604170404</guid>
+            <pubDate>Sat, 04 Jun 2022 08:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 모델 최적화(가속 및 경량화) 기업 소이넷(공동대표 김용호, 박정우)은 싱가포르에서 1~3일 열린 ICT 박람회 '커뮤닉 아시아 2022(CommunicAsia 202...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/04/cb7f94cbe9485a23f9893501fd56c588-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 1만2048명…사망 9명]]></title>
             <link>https://zdnet.co.kr/view/?no=20220604094025</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220604072526</guid>
             <pubDate>Fri, 03 Jun 2022 23:14:39 GMT</pubDate>
             <content:encoded><![CDATA[건국대학교는 입학팀이 대입 전형 관련해 상세한 최신 자료를 모은 온라인 리플릿 '입시KU:레이션'을 발간했다고 3일 밝혔다. 온라인 리플릿 '입시KU:레이션'은 예비 건국인을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/11/0eeeaed89f62476075dbe3f03819506c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["누군가에게 희망을 주고 다른 생명을 살릴 수 있다면"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220603160347</guid>
             <pubDate>Fri, 03 Jun 2022 08:13:35 GMT</pubDate>
             <content:encoded><![CDATA[청호나이스가 아파트 홈서비스 플랫폼 아파트아이 앱을 통해 '청호 에스프레카페' 렌탈을 신청하면 최대 36만원 아파트 캐시를 제공한다고 3일 밝혔다. 청호나이스는 아파트아이와 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['ICT 정통 관료' 박윤규 2차관, 디지털 정책 과제 시동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220603152126</link>
-            <guid>https://zdnet.co.kr/view/?no=20220603152126</guid>
-            <pubDate>Fri, 03 Jun 2022 07:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[박윤규 과학기술정보통신부 차관이 임명되면서 새 정부의 디지털 정책 추진에 늦게나마 속도를 낼 수 있게 됐다. 데이터 기반 디지털경제와 디지털플랫폼정부를 내세운 새 정부의 주요 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
