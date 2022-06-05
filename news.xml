@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 04:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 05:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의집, '우리집, 지구' 지키는 5가지 방법 소개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220605140821</link>
+            <guid>https://zdnet.co.kr/view/?no=20220605140821</guid>
+            <pubDate>Sun, 05 Jun 2022 05:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[오늘의집은 50주년 세계 환경의 날을 맞아 고객들이 일상 속에서 실천할 수 있는 다양한 친환경 라이프스타일 콘텐츠를 선보인다고 5일 밝혔다. . 5일 50주년을 맞이한 올해 세...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/05/62a3b23a8f6b835c02a429bb1342f1cc-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세가, 메가드라이브 미니2 발표...메가CD 게임 수록]]></title>
             <link>https://zdnet.co.kr/view/?no=20220605124558</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220605110011</guid>
             <pubDate>Sun, 05 Jun 2022 02:49:28 GMT</pubDate>
             <content:encoded><![CDATA[가수 이효리㊸가 코로나19 후유증을 토로했다. 이효리는 3일 공개한 티빙 예능물 '서울체크인'에서 코로나19 확진 당시를 떠올렸다. "첫 날 목이 좀 아팠지만, 코로나일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/05/2e58f2bef3ba368f9c36bf970c6350c3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인력 감축 예고한 머스크, "1년 내 직원 수 증가할 것"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220604170404</guid>
             <pubDate>Sat, 04 Jun 2022 08:13:37 GMT</pubDate>
             <content:encoded><![CDATA[인공지능 모델 최적화(가속 및 경량화) 기업 소이넷(공동대표 김용호, 박정우)은 싱가포르에서 1~3일 열린 ICT 박람회 '커뮤닉 아시아 2022(CommunicAsia 202...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 1만2048명…사망 9명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220604094025</link>
-            <guid>https://zdnet.co.kr/view/?no=20220604094025</guid>
-            <pubDate>Sat, 04 Jun 2022 00:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[4일 0시 기준 국내 발생 신규 확진자는 1만2천7명, 해외유입 사례 41명 등 신규 확진자는 총 1만2천48명으로 집계됐다. 중앙방역대책본부에 따르면, 국내 발생 신규 확진자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
