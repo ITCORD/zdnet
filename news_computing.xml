@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 08:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나임네트웍스, "탱고 매출 호조···작년 매출 이미 돌파"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220606170107</link>
+            <guid>https://zdnet.co.kr/view/?no=20220606170107</guid>
+            <pubDate>Mon, 06 Jun 2022 08:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[나임네트웍스(대표 이주완, 서영석)는 국가 주요 기반시설 및 대국민 서비스 등 공공 IT 인프라를 중심으로 SDDC(Software Defined Datacenter) 수요가 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미 FTC "작년 이후 암호화폐 사기 피해액 10억 달러"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220606111450</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602180942</guid>
             <pubDate>Thu, 02 Jun 2022 09:13:07 GMT</pubDate>
             <content:encoded><![CDATA[베스핀글로벌(대표 이한주)이 클라우드 보안 위협을 차단하고 안전하게 클라우드를 이용할 수 있도록 지원하기 위해 6월 한달간 '클라우드 보안 사고 예방 캠페인'을 실시한다고 2일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종인 "개인정보 패러다임 바꿔야...보호·활용 간 균형 중요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602131733</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602131733</guid>
-            <pubDate>Thu, 02 Jun 2022 07:13:04 GMT</pubDate>
-            <content:encoded><![CDATA["개인정보 보호와 활용의 균형을 맞추고, 정보 주체의 이익과 권리를 함께 보장하는 방향으로 나아가야 합니다." 윤종인 개인정보보호위원장은 2일 서울 삼성동 코엑스 그랜드볼룸에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
