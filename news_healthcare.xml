@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 5022명…20대가 가장 많아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220606102819</link>
+            <guid>https://zdnet.co.kr/view/?no=20220606102819</guid>
+            <pubDate>Mon, 06 Jun 2022 02:57:04 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 신규 확진자가 20대 이하 젊은 층에서 절반 가까이 발생했다. 또 코로나19 백신 신규 접종은 6개 시도에서는 한명도 없는 것으로 집계됐다. 중앙방역대책본부에 따르면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 신규확진 9835명…사망 20명]]></title>
             <link>https://zdnet.co.kr/view/?no=20220605100324</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602101623</guid>
             <pubDate>Thu, 02 Jun 2022 03:20:13 GMT</pubDate>
             <content:encoded><![CDATA[전세계 원숭이두창 확진자가 550명을 넘어선 가운데 발원지인 아프리카 외 첫 확진 사례가 보고된 영국에서 지역 감염이 빠르게 확산하고 있다. 로이터통신에 따르면 1일(현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메르스·코로나 이어 원숭이두창…감염병 일상되나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602101215</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602101215</guid>
-            <pubDate>Thu, 02 Jun 2022 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 대유행 사태가 채 종식이 되기 전에 원숭이두창 위험이 다가오면서 감염병 확산 긴장감이 지속되는 분위기다. 전문가들은 현대 사회에 접어들면서 감염병 확산은 불가피하다면...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
