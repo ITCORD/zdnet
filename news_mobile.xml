@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 20:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 21:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, M2 탑재 맥북에어·맥북프로 13형 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220607054548</link>
+            <guid>https://zdnet.co.kr/view/?no=20220607054548</guid>
+            <pubDate>Mon, 06 Jun 2022 21:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 미국 현지시간 6일 오전 10시(한국시간 7일 2시) 온라인으로 진행된 WWDC(세계개발자회의) 22 기조연설을 통해 M2 칩을 탑재한 맥북에어와 맥북프로 13형을 공개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 개인화·협업 중점 둔 iOS 16 등 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220607043722</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602144900</guid>
             <pubDate>Thu, 02 Jun 2022 07:13:15 GMT</pubDate>
             <content:encoded><![CDATA[올 1분기 전세계 폴더블 스마트폰 출하량은 삼성전자를 중심으로 전년 보다 세자릿수 성장세를 이어갔다. 삼성전자 갤럭시Z플립3는 전체 출하량의 절반 이상을 차지하며 3분기 연속 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['애플=게임시장 넘버3'가 예사롭지 않은 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220602140154</link>
-            <guid>https://zdnet.co.kr/view/?no=20220602140154</guid>
-            <pubDate>Thu, 02 Jun 2022 05:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[앱스토어 독점 공방의 핵심 쟁점은 배포와 결제 두 가지다. 특히 문제가 되는 건 '인앱결제 독점'이다. 애플과 구글은 그 동안 앱 내부에서 결제가 이뤄질 경우 15~30% 수수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
