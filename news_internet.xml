@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 호주 정치인 명예훼손에 벌금형]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220606115314</link>
+            <guid>https://zdnet.co.kr/view/?no=20220606115314</guid>
+            <pubDate>Mon, 06 Jun 2022 09:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 은퇴한 전 호주 정치인 명예훼손으로 벌금형을 선고받았다. 5일(현지시간) 영국 가디언, 로이터 등 복수 외신에 따르면 호주 연방법원은 유튜브 운영사 구글이 뉴사우스웨일스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디즈니플러스, '아이엠 그루트' 8월 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220606103407</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220603102919</guid>
             <pubDate>Fri, 03 Jun 2022 02:49:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오(대표 남궁훈)의 임팩트 커머스 플랫폼 카카오메이커스(이하 메이커스)가 6월5일 환경의 날을 앞두고 그린마켓 기획전을 진행한다. 메이커스는 기획전을 통해 출시하는 일부 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, '릴스' 길이 60초→90초로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220603081814</link>
-            <guid>https://zdnet.co.kr/view/?no=20220603081814</guid>
-            <pubDate>Fri, 03 Jun 2022 02:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 숏폼 콘텐츠 '릴스(Reels)'의 최대 길이를 60초에서 90초로 늘렸다. 메타는 2일(현지시간) 자사 홈페이지에서 인스타그램 릴스 영상 길이가 최대 90초로 늘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
