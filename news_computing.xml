@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제로 트러스트 전략 중심에 '아이덴티티 보안' 둬야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220607144216</link>
+            <guid>https://zdnet.co.kr/view/?no=20220607144216</guid>
+            <pubDate>Tue, 07 Jun 2022 07:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[기업들은 진화하는 사이버 위기로부터 끊임없이 비즈니스를 보호해야하는 상황을 맞이하고 있다. 특히 업무 환경에 로보틱 프로세스 자동화(RPA)나 물리적 로봇, 사물인터넷(IoT)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 전자문서 기반의 디지털전환 서비스 4개 과제 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20220607143541</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220603172211</guid>
             <pubDate>Fri, 03 Jun 2022 10:14:09 GMT</pubDate>
             <content:encoded><![CDATA[디지털 전환이 가속화되며 IT업계를 넘어 제조, 의료 등 산업에 특화된 로우코드/노코드(LCNC)도구 도입이 본격화될 전망이다. 모든 산업영역에 걸친 개발자 품귀 현상을 개선하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유니네트워크, '음식물 처리 전자관리 시스템' 사업 착수보고회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220603170029</link>
-            <guid>https://zdnet.co.kr/view/?no=20220603170029</guid>
-            <pubDate>Fri, 03 Jun 2022 08:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[유니네트워크는 한국음식물류폐기물수거운반업협회, 한국폐기물협회 등과 함께 시범 사업을 포함한 연구용역 과제에 대한 착수보고회를 3일 개최했다고 밝혔다. 이번 연구용역은 환경부가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

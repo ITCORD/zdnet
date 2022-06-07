@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 차량용 LDO 레귤레이터 신제품 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220607160710</link>
+            <guid>https://zdnet.co.kr/view/?no=20220607160710</guid>
+            <pubDate>Tue, 07 Jun 2022 07:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 7일 차량용 저포화(LDO·Low Drop Out) 레귤레이터 집적회로(IC) 'BD9xxN1' 시리즈를 개발했다고 밝혔다. LDO 레귤레이터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이종호 장관, 국무회의서 반도체 특강]]></title>
             <link>https://zdnet.co.kr/view/?no=20220607121229</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220527131015</guid>
             <pubDate>Fri, 27 May 2022 05:19:05 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 미국 텍사스주 테일러시에 투자하는 신규 파운드리 공장 건설이 내달 시작될 것으로 예상된다. 최근 미국 테일러시는 뉴스레터를 통해 "삼성전자의 파운드리 공장이 현재 땅...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이디테크놀로지, 5나노 설계 플랫폼 출시...삼성 파운드리 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220527113258</link>
-            <guid>https://zdnet.co.kr/view/?no=20220527113258</guid>
-            <pubDate>Fri, 27 May 2022 03:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[에이디테크놀로지는 삼성 파운드리 5나노 공정 기술이 적용된 ADP500TM 설계 플랫폼을 출시했다. 에이디테크놀로지는 삼성 파운드리의 디자인솔루션파트너(DSP)다. 이번 설계 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

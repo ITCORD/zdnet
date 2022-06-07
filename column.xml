@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제로 트러스트 전략 중심에 '아이덴티티 보안' 둬야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220607144216</link>
+            <guid>https://zdnet.co.kr/view/?no=20220607144216</guid>
+            <pubDate>Tue, 07 Jun 2022 07:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[기업들은 진화하는 사이버 위기로부터 끊임없이 비즈니스를 보호해야하는 상황을 맞이하고 있다.&nbsp;특히&nbsp;업무 환경에 로보틱 프로세스 자동화(RPA)나 물리적 로봇, 사물인터넷(IoT) 시스템과 같이 인간이 아닌 자원들이 증가하면서, 이 아이덴티티들을 보호하기 위해 강력한 아이덴티티 및 액세스 관리 실행이 매우 중요해지고 있다.대다수의 기업들은 제로 트러스트에 대응하기 위해 싱글 사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/07/47b4282eab241bf8f77da7792cb83fa5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 구글 인앱결제 의무화, 상생하는 ICT 환경 만들어야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220604155444</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Apr 2022 03:03:55 GMT</pubDate>
             <content:encoded><![CDATA[지난주 시민단체들이 ‘통신공공성 강화 및 가계통신비 부담 완화를 위한 5대 정책 요구안’을 대통령직 인수위원회에 전달했다고 한다. 이런 제안은 언뜻 보기에 단기적으로 소비자 후생에 기여하지만 국가산업 발전의 장기적이고 종합적인 관점에 대한 고려가 부족해 보인다.지난 2년 동안 코로나19의 사회적 거리두기 정책으로 디지털 공간에서 비대면 방식으로 소통하고 거래하고 일하는 것이 일상의 생활이 되...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/04/19/7dd784125c3426e1e1a511ce32caff6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI의 시대, 앞서는 자와 뒤처지는자(하)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220418092558</link>
-            <guid>https://zdnet.co.kr/view/?no=20220418092558</guid>
-            <pubDate>Mon, 18 Apr 2022 01:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷의 시대가 새롭게 열렸던 2000년 초반엔 인터넷 홈페이지를 만드는 프로그램인 html을 사용할 줄 아는 것만으로도 큰 기술을 가진 것으로 대접받았다.너도 나도 홈페이지를 만들기 시작하면서, 지금은 어쩌면 중학생 정도의 학생도 만들 수 있는 홈페이지를 그때는 억대의 비용을 들여 전문기업에 맡겨서 구축하였고, 그 전문기업은 수십억의 투자를 받는 기술 기업으로 인정받았었다.지금의 AI 기술...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
