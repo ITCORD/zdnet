@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 240㎐ 고주사율 OLED 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220607175752</link>
+            <guid>https://zdnet.co.kr/view/?no=20220607175752</guid>
+            <pubDate>Tue, 07 Jun 2022 10:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이는 화면 주사율 240㎐를 지원하는 노트북용 유기발광다이오드(OLED)를 양산한다고 7일 밝혔다. 화면 주사율은 1초에 표현할 수 있는 화면 횟수다. 주사율이 높을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 차량용 LDO 레귤레이터 신제품 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220607160710</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220527141830</guid>
             <pubDate>Fri, 27 May 2022 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아 젠슨황 CEO가 27일 정오 각국 기자단을 대상으로 진행된 온라인 질의응답을 통해 "향후 5년간 AI를 통해 자율주행차 뿐만 아니라 우리가 접하는 모든 분야에서 자동화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 美 테일러 파운드리 공장 착공 임박...내달 기초공사]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220527131015</link>
-            <guid>https://zdnet.co.kr/view/?no=20220527131015</guid>
-            <pubDate>Fri, 27 May 2022 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 미국 텍사스주 테일러시에 투자하는 신규 파운드리 공장 건설이 내달 시작될 것으로 예상된다. 최근 미국 테일러시는 뉴스레터를 통해 "삼성전자의 파운드리 공장이 현재 땅...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
