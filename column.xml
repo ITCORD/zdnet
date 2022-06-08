@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 23:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 00:58:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CISO, 누락과 중복없는 보안 고민해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220608090322</link>
+            <guid>https://zdnet.co.kr/view/?no=20220608090322</guid>
+            <pubDate>Wed, 08 Jun 2022 00:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[맥킨지, BCG, 베인앤컴퍼니&nbsp;같은 세계 유수의 컨설팅 기업들이 문제를 분석하고 해결책을 제시하는데 사용하는&nbsp;접근방식 중에 MECE(Mutually Exclusive Collectively Exhaustive)라는 것이 있다. 이는 문제와 해결책을 찾는 과정에서 주요 항목들이 중복없이 상호 배타적이면서도 모였을 때는 빠짐없이 완전한 전체를 이루는 것을 의미한다. 이 방법론은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/08/45b58decc5bab517d58b9df1725cb8d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제로 트러스트 전략 중심에 '아이덴티티 보안' 둬야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220607144216</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Apr 2022 03:04:15 GMT</pubDate>
             <content:encoded><![CDATA[올해 2월 EU위원회에서 임직원 500명 이상 대기업 등에 대해 공급망 실사 의무를 부여하는 법안인 ‘기업 지속가능성 실사법(A directive on Corporate Sustainability Due Diligence)’을 채택했다. 또 미국 증권거래위원회는 올 3월 미국 상장 기업들을 대상으로 온실가스 배출량을 포함해 공시하도록 의무화하는 내용의 ‘기후변화 대응 공시 표준안 초안’을 공...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/04/29/8397ce4dcc2891fb0ff4eddec0956fe4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 디지털 대전환 시대, 통신 공공성 강화와 가계통신비 부담 완화 어떻게 할 것인가?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220419110843</link>
-            <guid>https://zdnet.co.kr/view/?no=20220419110843</guid>
-            <pubDate>Tue, 19 Apr 2022 03:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 시민단체들이 ‘통신공공성 강화 및 가계통신비 부담 완화를 위한 5대 정책 요구안’을 대통령직 인수위원회에 전달했다고 한다. 이런 제안은 언뜻 보기에 단기적으로 소비자 후생에 기여하지만 국가산업 발전의 장기적이고 종합적인 관점에 대한 고려가 부족해 보인다.지난 2년 동안 코로나19의 사회적 거리두기 정책으로 디지털 공간에서 비대면 방식으로 소통하고 거래하고 일하는 것이 일상의 생활이 되...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/19/7dd784125c3426e1e1a511ce32caff6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
