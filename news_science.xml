@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 00:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 03:01:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화재 위험 없는 수계아연전지 핵심 음극 소재 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220608094431</link>
+            <guid>https://zdnet.co.kr/view/?no=20220608094431</guid>
+            <pubDate>Wed, 08 Jun 2022 03:01:18 GMT</pubDate>
+            <content:encoded><![CDATA[수계 아연전지는 물을 전해질로 사용해 불이 날 염려가 없다. 아연 가격은 리튬의 16분의 1 수준이다. 대용량 에너지저장장치(ESS)에 적합하지만, 음극의 수명과 안정성 해결이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/08/ad315cb92eb42d63c6be381d77c1d32a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 몸 면역 시스템이 조현병 일으킨다?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220607170921</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220607101708</guid>
             <pubDate>Tue, 07 Jun 2022 06:17:48 GMT</pubDate>
             <content:encoded><![CDATA[KAIST(총장 이광형)는 뇌 뉴런 세포의 동작을 모사하는 고신뢰성 차세대 저항 변화 소자(멤리스터) 어레이를 개발했다고 7일 밝혔다. 멤리스터(Memristor)는 입력 전압...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/07/daec9c9b5efd1d112d9a44361070dec8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[달로 향하는 아르테미스1호 로켓, 다시 발사대로 [우주로 간다]]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220531144545</guid>
             <pubDate>Tue, 31 May 2022 06:21:08 GMT</pubDate>
             <content:encoded><![CDATA[그래디언트(대표 이기형)는 서울대학교 자연과학대학 및 카오스재단과 기초과학 교육 플랫폼 구축을 위한 3자 업무협약을 체결했다고 31일 밝혔다. 이 기관들은 일상의 궁금증을 과학...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KIST 양자암호통신 기술, 하드웨어 스타트업 SDT에 이전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220531112351</link>
-            <guid>https://zdnet.co.kr/view/?no=20220531112351</guid>
-            <pubDate>Tue, 31 May 2022 03:57:45 GMT</pubDate>
-            <content:encoded><![CDATA[한국과학기술연구원(KIST, 원장 윤석진)이 양자암호통신 네트워크 기술을 스타트업 기업 SDT에 이전했다. KIST와 SDT(대표 윤지원)는 31일 KIST 서울 본원에서 양자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

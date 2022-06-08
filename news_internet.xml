@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 00:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 03:01:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 신사옥 1784 같은 미래형 공간 구축 패키지 상용화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220608095502</link>
+            <guid>https://zdnet.co.kr/view/?no=20220608095502</guid>
+            <pubDate>Wed, 08 Jun 2022 02:57:34 GMT</pubDate>
+            <content:encoded><![CDATA[네이버랩스와 네이버클라우드는 자사 ARC(멀티 로봇 인텔리전스 시스템)·5G 특화망 패키지를 2023년까지 상용화해, 신사옥 1784와 같은 미래형 공간 대중화에 본격 나선다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[청세, 미국 한인 세탁소에 친환경 세탁서비스 솔루션 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20220608092428</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220607091411</guid>
             <pubDate>Tue, 07 Jun 2022 02:53:55 GMT</pubDate>
             <content:encoded><![CDATA[지난해 불법유통 대응 태스크포스(TF)를 꾸린 카카오엔터테인먼트가 5개월 동안 성과와 향후 계획을 담은 백서를 발간했다고 7일 밝혔다. 카카오엔터 글로벌 불법유통 대응 TF는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카페24, 쇼핑 콘텐츠 제작 돕는 '에디봇 전시관' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220607102553</link>
-            <guid>https://zdnet.co.kr/view/?no=20220607102553</guid>
-            <pubDate>Tue, 07 Jun 2022 02:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 인공지능(AI) 기반 서비스로 쇼핑 콘텐츠를 간편하게 제작해볼 수 있게 됐다. 글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 인공지능과 70여개 디자인 템플릿을 바탕...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
