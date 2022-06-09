@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제임스웹 우주망원경, 미소 유성체와 충돌...향후 탐사는? [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220609111243</link>
+            <guid>https://zdnet.co.kr/view/?no=20220609111243</guid>
+            <pubDate>Thu, 09 Jun 2022 04:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[인류 역사상 가장 크고 강력한 제임스 웹 우주망원경(JWST)이 최근 작은 크기의 미소 유성체(micrometeoroid)와 부딪혀 어려움을 겪은 것으로 알려졌다. 미국 IT매...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/25/657fe109c42fab14d65d9c270555fa03-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["핀테크 현장 맞춤형 인재 키우자"...KISA, 6개 대학과 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20220609124239</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220609122256</guid>
             <pubDate>Thu, 09 Jun 2022 03:49:58 GMT</pubDate>
             <content:encoded><![CDATA[시큐아이(대표 정삼용)는 인공지능(AI)기반 보안위협분석 플랫폼 STIC(SECUI Threat Intelligence Center)을 출시했다고 9일 밝혔다. STIC은 머신...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/09/b7665eae0724d6b6bcde56c0d09a0c67-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부, '2022년 캠퍼스 혁신파크'로 전북대·창원대 선정]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220609105036</guid>
             <pubDate>Thu, 09 Jun 2022 02:56:42 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴이 정규 석박사 과정 학생 대상 학술 논문 경연 대회 '퀄컴 이노베이션 펠로우십 코리아 2022' 지원자를 모집한다. 퀄컴 이노베이션 펠로우십은 이공계 학생들이 연구 활동에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 배틀그라운드, 18.1 업데이트...콘텐츠 개선 초점]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220609103138</link>
-            <guid>https://zdnet.co.kr/view/?no=20220609103138</guid>
-            <pubDate>Thu, 09 Jun 2022 02:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤(대표 김창한)은 PUBG: 배틀그라운드(PUBG: BATTLEGROUNDS, 이하 배틀그라운드)의 18.1 라이브 서버 업데이트를 실시했다고 9일 밝혔다. 이번 업데이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
