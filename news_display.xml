@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 11:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 12:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍, 차세대 플립칩 BGA 사업 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220609202415</link>
+            <guid>https://zdnet.co.kr/view/?no=20220609202415</guid>
+            <pubDate>Thu, 09 Jun 2022 12:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[LG이노텍이 LG전자 구미공장을 사들여 차세대 반도체 기판 플립칩 볼그리드 어레이(FC-BGA) 사업을 본격적으로 시작한다. LG이노텍은 9일 이사회를 열고 경북 구미시에 있는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 반도체 산업 규제 혁파 약속…핵심은 '인재 양성']]></title>
             <link>https://zdnet.co.kr/view/?no=20220609170714</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220602082232</guid>
             <pubDate>Thu, 02 Jun 2022 01:03:26 GMT</pubDate>
             <content:encoded><![CDATA[대만이 러시아와 벨라루스 정부·기업체를 대상으로 작동 속도 25MHz, 연산 속도 5기가플롭스(GFLOPS) 이상인 모든 프로세서의 수출을 금지했다. 대만 경제부는 1일(현지시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업공개냐 피인수냐... ARM 운명은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220601140513</link>
-            <guid>https://zdnet.co.kr/view/?no=20220601140513</guid>
-            <pubDate>Wed, 01 Jun 2022 06:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[영국 반도체 설계기업 ARM 대주주인 소프트뱅크(SB)가 내년 3월 말까지 기업공개(IPO)를 통해 ARM을 뉴욕증시에 상장하기로 방침을 정한 가운데 국내외 반도체 기업들이 컨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
