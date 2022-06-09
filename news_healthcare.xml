@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 00:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 1만2161명…4명 중 1명은 20대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220609101850</link>
+            <guid>https://zdnet.co.kr/view/?no=20220609101850</guid>
+            <pubDate>Thu, 09 Jun 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 신규 확지나 4명 중 1명은 20대로 파악됐다. 또 지역별 백신 접종률은 전남 지역이 대체로 높았고, 세종은 낮게 나타났다. 중앙방역대책본부에 따르면 6월 9일 0시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[복지부, 8월 보건의료 데이터 촉진 정부 입법 추진한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220608175753</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220607101439</guid>
             <pubDate>Tue, 07 Jun 2022 02:54:57 GMT</pubDate>
             <content:encoded><![CDATA['원숭이두창' 감염 사례가 계속 보고되자 미국 정부도 백신 확보에 나섰다. 미국 보건보지부(HHS)가 6일(현지시간) 덴마크 제약사 바바리안 노르딕에 천연두 백신 '진네오스(J...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 '워싱턴DC'에도 첫 원숭이두창 감염 의심사례 발생]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220607101252</link>
-            <guid>https://zdnet.co.kr/view/?no=20220607101252</guid>
-            <pubDate>Tue, 07 Jun 2022 02:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 수도인 워싱턴DC에서도 원숭이두창 감염 의심사례가 발생했다. 6일(현지시간) 워싱턴포스트(WP) 등 미 언론에 따르면 워싱턴DC 보건당국은 한 거주자가 원숭이두창 계열 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
