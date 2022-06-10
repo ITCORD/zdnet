@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 04:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["의료데이터, 관건은 규제와 활용의 균형”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220610131925</link>
+            <guid>https://zdnet.co.kr/view/?no=20220610131925</guid>
+            <pubDate>Fri, 10 Jun 2022 04:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[“법은 기술보다 느리다. 관건은 규제와 활용을 어떻게 적절하게 균형시키느냐다.” 주한덴마크대사관 랜디 멍크 보건의료 참사관의 말이다. 그의 설명에 함의돼 있는 것은 두 가지다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["코로나19 이후 전문심리서비스 활성화해야”]]></title>
             <link>https://zdnet.co.kr/view/?no=20220610110640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220607172427</guid>
             <pubDate>Tue, 07 Jun 2022 09:13:17 GMT</pubDate>
             <content:encoded><![CDATA[한국보건산업진흥원(이하 진흥원)은 서울시, 존슨앤드존슨 이노베이션, 한국얀센과 함께 '서울 이노베이션 퀵파이어챌린지(Seoul Innovation QuickFire Challe...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['당신과 함께, 다시 푸르게'… 암 경험자 주간 'RE-SET' 캠페인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220607172000</link>
-            <guid>https://zdnet.co.kr/view/?no=20220607172000</guid>
-            <pubDate>Tue, 07 Jun 2022 08:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[대한암협회에서 암 경험자 주간(6월 첫째 주)을 맞이해 암 진단과 치료 후 암 경험자의 새로운 삶을 응원하는 2022 제5회 암 경험자 주간 'RE-SET' 캠페인 '당신과 함...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
