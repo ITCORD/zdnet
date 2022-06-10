@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 12:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 13:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 경쟁금지 조항 시행 중단…이직 자율성 보장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220610182231</link>
+            <guid>https://zdnet.co.kr/view/?no=20220610182231</guid>
+            <pubDate>Fri, 10 Jun 2022 13:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 경쟁관계 기업으로 이직을 금지하는 경쟁금지 조항을 없앤다. 직장 문화 개선을 위한 것으로 급여 투명성 및 직원 보호 조항도 강화한다. 마이크로소프트는 8...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/10/9762f397fcbe03d0e388c609437aa96f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 스마트워치 개발 중단]]></title>
             <link>https://zdnet.co.kr/view/?no=20220610180100</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220610181205</guid>
             <pubDate>Fri, 10 Jun 2022 10:13:06 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤(대표 김창한)은 배틀그라운드 국가대항전인 '펍지 네이션스 컵 2022(PUBG Nations Cup, 이하 PNC 2022)'의 승자 예측 이벤트 'Pick'em(픽뎀...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/10/beb3e9b719c209ce993b62c0fd61ea3e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["메타버스, 이용 특이성 고려한 유형별 접근 필요"]]></title>
@@ -75,7 +83,7 @@
             <title><![CDATA[방통위, 지역방송 활성화 방안 모색]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Fri, 10 Jun 2022 12:20:50 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2022 13:30:29 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 지역방송 현장의 다양한 의견을 직접 듣고 지역방송 활성화 방안을 모색하기 위해 지역방송발전위원회 차원에서 권역별 지역방송사 대표자 간담회를 개최한다. 지역방송발...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220610151143</guid>
             <pubDate>Fri, 10 Jun 2022 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[쌍방울그룹이 쌍용자동차 인수에 재도전한다. 10일 업계에 따르면 쌍용차와 매각주간사 EY한영회계법인은 전날 오후 쌍용차 인수의향서 접수를 마감했다. 인수의향서를 낸 곳은 쌍방울...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TV 고정관념 깬 LG전자, 새로운 '고객경험' 찾았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220610150844</link>
-            <guid>https://zdnet.co.kr/view/?no=20220610150844</guid>
-            <pubDate>Fri, 10 Jun 2022 06:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 신규 폼팩터를 적용해 출시한 라이프스타일 스크린 제품들이 연달아 인기를 끌며 기존에 없던 고객경험 발굴에 성공하고 있다. 최근 유튜브, 넷플릭스 등 온라인동영상서비스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
