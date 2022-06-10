@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 06:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 08:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ISTN, 전자세금계산서 솔루션 '텍스빌365 포 SAP 아리바'  출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220610160358</link>
+            <guid>https://zdnet.co.kr/view/?no=20220610160358</guid>
+            <pubDate>Fri, 10 Jun 2022 08:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[아이에스티엔(ISTN, 대표 김종도 )은 전자세금계산서 솔루션인 '텍스빌365 포 SAP 아리바'(Taxbill365 for SAP Ariba)를 출시한다고 10일 밝혔다. 비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[더존비즈온, 아마란스 10 이상거래탐지 서비스 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220610134356</link>
@@ -155,16 +163,8 @@
             <title><![CDATA[SPC, SW구매 대행 서비스 실시]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Fri, 10 Jun 2022 06:14:33 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2022 08:15:00 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어저작권협회(SPC, 회장 유병한)는 국내 SW유통 활성화와 기업들의 신속하고 적확한 SW 구매 진행을 위해 8일부터 'SW구매대행서비스'를 제공한다고 밝혔다. 'S...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["AI 해커가 온다"...보안 그루의 경고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220609160710</link>
-            <guid>https://zdnet.co.kr/view/?no=20220609160710</guid>
-            <pubDate>Thu, 09 Jun 2022 08:16:33 GMT</pubDate>
-            <content:encoded><![CDATA["지금까지 해킹은 전문 지식, 시간, 독창성, 운이 필요한 인간의 활동이었다. 그러나 인공지능(AI)이 해킹을 시작하면 해킹 속도, 규모, 범위 등 모든 것이 바뀔 것이다. 그...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
