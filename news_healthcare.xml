@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 00:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 8442명…5명 중 1명은 20대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220611095000</link>
+            <guid>https://zdnet.co.kr/view/?no=20220611095000</guid>
+            <pubDate>Sat, 11 Jun 2022 00:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[중앙방역대책본부에 따르면 6월11일 0시 기준 코로나19 신규 확진자는 국내발생 8천378명, 해외유입 64명 등 총 8천442명이다. 이에 따라 총 누적 확진자 수는 1821...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[외과의사가 디지털 헬스케어에 '꽂힌' 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20220610164509</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220607165501</guid>
             <pubDate>Tue, 07 Jun 2022 09:13:17 GMT</pubDate>
             <content:encoded><![CDATA[헬리코박터 파일로리 감염자에게 맞춤 제균 치료를 시행하면 치료 성공률이 높다는 최초의 연구 결과가 나왔다. 순천향대학교 서울병원 조준형 소화기내과 교수는 국제 SCI 논문 항감...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["18세 미만 희귀질환자 치료, 국가가 책임져야”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220607173843</link>
-            <guid>https://zdnet.co.kr/view/?no=20220607173843</guid>
-            <pubDate>Tue, 07 Jun 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 18세 미만의 희귀질환자의 경제 지원을 보장하라는 법안이 국회에 제출됐다. 양정숙 더불어민주당 의원이 대표 발의한 '희귀질환관리법 일부개정안'은 국가와 지방자치단체가 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
