@@ -4,14 +4,22 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 06:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 07:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔리코리아, 저소득층 대상 미래 SW인재 육성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220611155937</link>
+            <guid>https://zdnet.co.kr/view/?no=20220611155937</guid>
+            <pubDate>Sat, 11 Jun 2022 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[국산캐드 프로그램 개발사 인텔리코리아(대표 박승훈)는 한국소프트웨어산업협회(KOSA)가 추진하는 저소득층 대상 미래 SW인재육성 기부캠페인에 참여했다고 11일 밝혔다. 인텔리코...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/15/987822c45250aa134e6b2de3f1922a45-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부음] 명성호 한국전기연구원장 본인상]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Sat, 11 Jun 2022 06:12:40 GMT</pubDate>
+            <pubDate>Sat, 11 Jun 2022 07:10:18 GMT</pubDate>
             <content:encoded><![CDATA[▲명성호(한국전기연구원 원장)씨 본인상=10일, 고려대 안암병원 장례식장 303호, 발인 13일 오전 8시 30분. ☎ 070-7816-0229...]]></content:encoded>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220611121912</guid>
             <pubDate>Sat, 11 Jun 2022 03:41:29 GMT</pubDate>
             <content:encoded><![CDATA[엔미디어 플랫폼의 PC방 게임 통계서비스 더로그가 6월 1주 PC방 주간 리포트를 공개했다. 6월 1주 전국 PC방 총 사용시간은 약 1천 656만 시간으로 전주 대비 9.6%...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/11/78180dea0313a819ba24fa0607289bc4-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[라이엇게임즈, 리그오브레전드 160번째 신규 캐릭터 벨베스 업데이트]]></title>
@@ -157,13 +165,6 @@
             <pubDate>Fri, 10 Jun 2022 08:14:07 GMT</pubDate>
             <content:encoded><![CDATA[수원대학교(총장 박철수)는 화성도시공사와 공동으로 '로컬브릿지 화성' 프로그램을 시행한다고 10일 밝혔다. 로컬크리에이터 육성에 초기단계 제품화를 지원하는 것으로, 지역 브랜드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 지역방송 활성화 방안 모색]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Sat, 11 Jun 2022 06:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 지역방송 현장의 다양한 의견을 직접 듣고 지역방송 활성화 방안을 모색하기 위해 지역방송발전위원회 차원에서 권역별 지역방송사 대표자 간담회를 개최한다. 지역방송발...]]></content:encoded>
         </item>
     </channel>
 </rss>
