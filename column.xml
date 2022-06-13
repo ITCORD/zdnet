@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이정규 칼럼] 8초 디지털 메뚜기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613154107</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613154107</guid>
+            <pubDate>Mon, 13 Jun 2022 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[어린 아들은 아기 때 깔고 자던 1 미터 남짓의 파란 담요를 방마다 질질 끌고 돌아다녔다. 초등학교에 들어가서도 다 헤진 그 담요를 덮어야 잠에 들었다. 찰스 먼로 슐츠(Charles Monroe Schulz)의 만화 피너츠(Peanuts)에 등장하는 꼬마 ‘라이너스'의 행동이 꼭 그러하다. ‘라이너스의 담요’라 불리는 이것을 심리학자들은 안전담요(security blanket)라고 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/13/c300cf895c77835963761b3f02ebdc1b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] AI의 기본 쉽게 이해하기 2-1]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613153755</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613153755</guid>
+            <pubDate>Mon, 13 Jun 2022 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 딥러닝의 알고리즘이 현실화되고 2010년대 들어와 지금과 같이 엄청난 꽃을 피우기 시작한 가장 큰 원인을 나는 컴퓨터와 CPU, GPU의 발전 덕분이라고 생각한다.내가 인공신경망(Neural Network)을 연구하던 90년대에도 다양한 형태의 신경망 구조 및 알고리즘에 대한 아이디어 들은 많았다.하지만 이를 뒷바침해줄 컴퓨터 인프라가 없었다. 93년도에 우리 텍사스A&amp;M 주립...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 데이터산업법 활성화로 디지털플랫폼정부 성공 초석 다져야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220612195321</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 03 May 2022 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터 저장 용량에 대하여 말하던 중 동료가 말했다. “미국에서 엄청난 정보를 담을 수 있는 무한대의 저장장치가 나왔대요!” 내가 깜짝 놀라 물었다. “아니, 그런 저장장치가 있어요?” 그가 씩 웃으며 말했다. “그런데 아직 못쓰고 있대요. 지난 수개월 동안 포맷팅하고 있는데, 언제 끝날지 모른대요!” 아뿔싸! 낚였다. 무한의 개념세계와 구현기술의 유한함을 풍자한 유머로 생각된다.수십년이 지...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/05/03/eff98a4a2e2ee6c725fe744c2d1d2a1b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 스타트업, 이사회 열고 의사록 반드시 남겨야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503105740</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503105740</guid>
-            <pubDate>Tue, 03 May 2022 03:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[스타트업은 소수 인원으로 구성돼 수많은 업무를 수행하고 빠르게 의사결정을 할 필요가 있으므로, 이사회나 주주총회 등 절차를 번거롭고 비효율적인 것으로 여기는 경우가 많다. 특히 이사회는 소수 창업자들로 구성돼 매일 여러 업무를 논의하고 수행하므로, 이사회 결의사항을 다른 업무와 분리하고 이사회 형식을 갖춰 결의할 필요가 있는지 의문을 갖는 경우가 많다. 그러나 이사회는 업무집행에 관한 의사를...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/03/e5f4c32cf3693cf7c51354f47897b04b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI 플레이북, 어떻게 작성할까? (상)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220502150157</link>
-            <guid>https://zdnet.co.kr/view/?no=20220502150157</guid>
-            <pubDate>Mon, 02 May 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[큰 대기업이든 중소기업이든, 혹은 자기의 가게를 운영하는 자영업자든 과연 AI라는 것을 어떻게 나의 비즈니스에 접목할 것일가에 대해서 전략을 가지고 있어야 한다.마치 인터넷이나 스마트폰을 쓸까 말까 고민하는 것이 바보 같은 생각인 것 과 마찬가지로 말이다.모두가 당연히 AI의 시대로 접어들어야 하는 이때, 자신을 위한 AI의 전략을 것을 AI 플레이북이라고 정의했다.AI 플레이북의 전략서는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
