@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 11:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 12:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경영정보 춘계통합학술대회 성황리 막 내려···150여 논문 및 사례 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613211957</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613211957</guid>
+            <pubDate>Mon, 13 Jun 2022 12:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[한국경영정보학회(회장 양희동 이화여대 교수)와 한국인터넷전자상거래학회(회장 서창갑 동명대 교수), 한국정보시스템학회(회장 이현규 부경대 교수), 한국지식경영학회(회장 김범수 연...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/13/aff4a961a0adccfb75ec712ef2214239-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포티넷, 가트너 이용자 리뷰서 5점 만점에 4.6점 기록]]></title>
             <link>https://zdnet.co.kr/view/?no=20220613185538</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220613170949</guid>
             <pubDate>Mon, 13 Jun 2022 10:12:53 GMT</pubDate>
             <content:encoded><![CDATA[FIDO 얼라이언스가 다음달 13일 한국에서 온라인으로 기술 세미나를 개최한다. FIDO 얼라이언스는 패스워드 기반 온라인 인증이 야기하는 문제점을 해결하고자 전 세계 250여...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/13/6ee9c4d7259a2ccf76e65045e2b2d059-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엠티데이타, 2차 AI 학습용 데이터 구축 지원사업 4개 수주]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220613165527</guid>
             <pubDate>Mon, 13 Jun 2022 08:13:54 GMT</pubDate>
             <content:encoded><![CDATA[연세의료원이 채용의 공정성을 높이고 우수 인재를 선발하기 위해 병원계에서는 처음으로 채용전문면접관제도를 도입한다고 밝혔다. 채용전문면접관제도는 실무 경험과 다양한 시각을 갖춘 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔드포인트 보안, 파편화된 방식으로는 못 지킨다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220609141409</link>
-            <guid>https://zdnet.co.kr/view/?no=20220609141409</guid>
-            <pubDate>Mon, 13 Jun 2022 08:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[펜데믹 이후 재택근무와 하이브리드 근무가 확대되면서 CIO들과 CISO들은 보안 정책을 재평가하기 시작했다. 엔드포인트 보안 강화에 이전보다 더욱 집중하고 있는 것이다. 최근 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
