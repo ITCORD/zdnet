@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔드포인트 보안, 파편화된 방식으로는 못 지킨다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220609141409</link>
+            <guid>https://zdnet.co.kr/view/?no=20220609141409</guid>
+            <pubDate>Mon, 13 Jun 2022 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[펜데믹 이후 재택근무와 하이브리드 근무가 확대되면서 CIO들과 CISO들은 보안 정책을 재평가하기 시작했다. 엔드포인트 보안 강화에 이전보다 더욱 집중하고 있는 것이다.&nbsp;최근 태니엄이 750명의 IT 의사결정자를 대상으로 실시한 설문조사에서 CISO의 82%는 엔드포인트 보안을 전면적으로 정비하는 중이라고 응답했다. 그러나 94%는 현재 엔드포인트가 제대로 보호되지 않은 상태이거나 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/09/8fe9e78395212604adbb7ba627b4cd71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이정규 칼럼] 8초 디지털 메뚜기]]></title>
             <link>https://zdnet.co.kr/view/?no=20220613154107</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 10 May 2022 08:19:27 GMT</pubDate>
             <content:encoded><![CDATA[사회적 거리두기 해제와 함께 기업들의 업무 환경 재정비에도 속도가 붙고 있다. 이 과정에서 유연성을 통해 참여도와 팀 만족도를 높여 비즈니스 생산성을 제고할 수 있는 하이브리드 업무 환경 도입이 적극 고려되고 있다.&nbsp;하이브리드 업무 환경 도입에서 기업이 해결해야 할 가장 큰 과제는 바로 사이버보안을 유지하는 것이다. 이미 팬데믹을 겪으며 수많은 기업과 직원이 불확실성과 변화를 악용한...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/05/10/8c5b5d818be896bab7275b159bcb1e73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이정규 칼럼] 이어령의 눈물방울]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220503163014</link>
-            <guid>https://zdnet.co.kr/view/?no=20220503163014</guid>
-            <pubDate>Tue, 03 May 2022 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[컴퓨터 저장 용량에 대하여 말하던 중 동료가 말했다. “미국에서 엄청난 정보를 담을 수 있는 무한대의 저장장치가 나왔대요!” 내가 깜짝 놀라 물었다. “아니, 그런 저장장치가 있어요?” 그가 씩 웃으며 말했다. “그런데 아직 못쓰고 있대요. 지난 수개월 동안 포맷팅하고 있는데, 언제 끝날지 모른대요!” 아뿔싸! 낚였다. 무한의 개념세계와 구현기술의 유한함을 풍자한 유머로 생각된다.수십년이 지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/03/eff98a4a2e2ee6c725fe744c2d1d2a1b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
