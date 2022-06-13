@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 18:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 19:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MIT, 레고처럼 여러 센서 갈아끼는 뉴로모픽 칩 개발 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613144901</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613144901</guid>
+            <pubDate>Mon, 13 Jun 2022 19:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[여러 기능의 센서와 프로세서를 레고처럼 갈아끼울 수 있는 인공지능 뉴로모픽 반도체 칩이 나왔다. 생체 신경망을 모방한 구조이며, 소자 간 와이어 연결 없이 빛을 송수신해 신호를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/13/fad94ae8366679eb3b2d26cf6abf7b13-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비트코인 15% 폭락…2만4천달러 붕괴 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220613234808</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220613211957</guid>
             <pubDate>Mon, 13 Jun 2022 12:29:50 GMT</pubDate>
             <content:encoded><![CDATA[한국경영정보학회(회장 양희동 이화여대 교수)와 한국인터넷전자상거래학회(회장 서창갑 동명대 교수), 한국정보시스템학회(회장 이현규 부경대 교수), 한국지식경영학회(회장 김범수 연...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/13/aff4a961a0adccfb75ec712ef2214239-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포티넷, 가트너 이용자 리뷰서 5점 만점에 4.6점 기록 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,14 +168,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[일부 수산물(배달회)에서 중금속 허용기준 초과 1품목 확인 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613165733</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613165733</guid>
-            <pubDate>Mon, 13 Jun 2022 08:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처는 최근 온라인 판매가 증가하고 있는 농‧수산물의 안전관리를 강화하기 위해 4월25일부터 29일까지 지자체와 함께 총 494품목을 수거‧검사한 결과, 식품위생법 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[OTT 계정공유는 어디까지 허용돼야 하나 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220613132342</link>
             <guid>https://zdnet.co.kr/view/?no=20220613132342</guid>
@@ -275,7 +275,7 @@
             <title><![CDATA[방통위, 지역방송 활성화 방안 모색 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 18:14:46 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 19:09:12 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 지역방송 현장의 다양한 의견을 직접 듣고 지역방송 활성화 방안을 모색하기 위해 지역방송발전위원회 차원에서 권역별 지역방송사 대표자 간담회를 개최한다. 지역방송발...]]></content:encoded>
         </item>
         <item>
@@ -386,7 +386,7 @@
             <title><![CDATA[[기고] AI의 기본 쉽게 이해하기 2-1 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 18:14:57 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 19:09:24 GMT</pubDate>
             <content:encoded><![CDATA[다양한 딥러닝의 알고리즘이 현실화되고 2010년대 들어와 지금과 같이 엄청난 꽃을 피우기 시작한 가장 큰 원인을 나는 컴퓨터와 CPU, GPU의 발전 덕분이라고 생각한다. 내가...]]></content:encoded>
         </item>
         <item>
@@ -2493,6 +2493,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[MIT, 레고처럼 여러 센서 갈아끼는 뉴로모픽 칩 개발 (지디넷코리아 ─ 과학)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613144901</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613144901</guid>
+            <pubDate>Mon, 13 Jun 2022 19:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[여러 기능의 센서와 프로세서를 레고처럼 갈아끼울 수 있는 인공지능 뉴로모픽 반도체 칩이 나왔다. 생체 신경망을 모방한 구조이며, 소자 간 와이어 연결 없이 빛을 송수신해 신호를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/13/fad94ae8366679eb3b2d26cf6abf7b13-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[제5차 과학기술 기본계획 초안 7월 나온다 (지디넷코리아 ─ 과학)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220613114159</link>
             <guid>https://zdnet.co.kr/view/?no=20220613114159</guid>
@@ -2514,7 +2522,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220613104236</guid>
             <pubDate>Mon, 13 Jun 2022 03:02:09 GMT</pubDate>
             <content:encoded><![CDATA[남극에 쌓여있는 눈에서도 사상 처음으로 미세 플라스틱이 발견됐다. 뉴질랜드 캔터베리대 연구팀이 2019년 남극 로스 빙붕 19곳에서 채취한 눈 샘플 모두에서 미세 플라스틱을 검...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/13/baa813d2426983a45e412e9786bde655-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NASA 위성 실은 아스트라, 로켓 발사 실패 (지디넷코리아 ─ 과학)]]></title>
@@ -2642,14 +2650,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220606022051</guid>
             <pubDate>Mon, 06 Jun 2022 00:55:22 GMT</pubDate>
             <content:encoded><![CDATA[보통 악성 종양은 정상 조직이나 양성 종양에 비해 딱딱하다. 이같은 특성을 이용, 조직의 딱딱한 정도를 감지해 높은 정확도로 유방암을 진단할 수 있는 인공 촉각 뉴런 기술이 나...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中, 로봇으로 '세계 최초' 복제돼지 생산 성공 (지디넷코리아 ─ 과학)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220603110746</link>
-            <guid>https://zdnet.co.kr/view/?no=20220603110746</guid>
-            <pubDate>Fri, 03 Jun 2022 02:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[중국 연구진이 세계 최초로 인간이 개입하지 않는 전면 자동 시스템을 통해 돼지 복제에 성공했다고 홍콩의 사우스차이나모닝포스트(SCMP)가 2일 보도했다. 난카이대학 연구진은 로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
