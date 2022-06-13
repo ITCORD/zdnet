@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 22:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 23:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사, 양자암호통신 분야 선점 경쟁 치열]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613135512</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613135512</guid>
+            <pubDate>Mon, 13 Jun 2022 23:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼컴퓨터의 성능을 뛰어넘는 양자컴퓨터 시대가 코앞으로 다가왔다. 통신업계도 이에 대비한 양자암호통신 시장에서 경쟁력을 키우기 위해 기술 개발에 박차를 가하는 중이다. 14일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OTT 계정공유는 어디까지 허용돼야 하나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220613132342</link>
@@ -115,7 +123,7 @@
             <title><![CDATA[방통위, 지역방송 활성화 방안 모색]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Mon, 13 Jun 2022 22:11:54 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 23:12:16 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 지역방송 현장의 다양한 의견을 직접 듣고 지역방송 활성화 방안을 모색하기 위해 지역방송발전위원회 차원에서 권역별 지역방송사 대표자 간담회를 개최한다. 지역방송발...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220610100731</guid>
             <pubDate>Fri, 10 Jun 2022 05:10:35 GMT</pubDate>
             <content:encoded><![CDATA[웨이브, 왓챠, 티빙 등 국내 온라인 동영상 서비스(OTT) 3사가 참여하는 OTT음악저작권대책협의체가 문화체육관광부가 음악저작권물 사용료 징수 규정을 만들며 해외 사례를 단순...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 이동형 IPTV 가입자 20만명 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220610094510</link>
-            <guid>https://zdnet.co.kr/view/?no=20220610094510</guid>
-            <pubDate>Fri, 10 Jun 2022 02:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 자사의 이동형 IPTV 서비스인 'U+tv프리' 가입자가 20만명을 돌파했다고 10일 밝혔다. U+tv프리는 와이파이를 통해 집안 어디에서나 TV 시청이 가능한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
