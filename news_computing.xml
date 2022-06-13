@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 23:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 01:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로크웰 오토메이션, 알렌 브래들리 마이크로 850 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220613091340</link>
+            <guid>https://zdnet.co.kr/view/?no=20220613091340</guid>
+            <pubDate>Mon, 13 Jun 2022 00:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[로크웰 오토메이션이 커넥티드 컴포넌트 워크벤치 소프트웨어를 사용하는 알렌 브래들리 마이크로 850(Allen-Bradley Micro850) 및 마이크로 870(Micro870...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 평균 클라우드 보안점수 39점, 우리 기업은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220610140204</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220609232312</guid>
             <pubDate>Thu, 09 Jun 2022 15:11:19 GMT</pubDate>
             <content:encoded><![CDATA[중소 가상자산 거래소들을 대변하는 한국디지털자산사업자연합회(KDA)는 9일 테라·루나 사태 재발 방지를 위한 코인마켓 거래소 공동 가이드라인을 위해 1차 회의를 가졌다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다날엔터, '드림콘서트 트롯' 유튜브서 독점 생중계]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220609231247</link>
-            <guid>https://zdnet.co.kr/view/?no=20220609231247</guid>
-            <pubDate>Thu, 09 Jun 2022 14:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[다날엔터테인먼트(대표 임유엽)는 오는 19일 오후 6시 서울 잠실올림픽주경기장에서 열리는 '제1회 드림콘서트 트롯'을 유튜브를 통해 독점 생중계한다고 밝혔다. 올해 최초로 열리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
