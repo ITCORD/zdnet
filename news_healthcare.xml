@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2020년 10만명당 26.9명 스스로 목숨끊어…"OECD 최고 수준”]]></title>
+            <title><![CDATA[국민 95% 코로나 항체…4월 36%가 자연감염]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220614135312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220614135312</guid>
+            <pubDate>Tue, 14 Jun 2022 05:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[방역당국이 코로나19 항체양성률을 조사한 결과 지난 1월부터 4월까지 항체 양성률은 94.9%에 달했다. 그 가운데 4월에만 자연감염률이 36.1%로 나타나 오미크론 변이 확산...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2020년 10만명당 26.9명 스스로 목숨끊어…"OECD 최고 수준"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220614113150</link>
             <guid>https://zdnet.co.kr/view/?no=20220614113150</guid>
             <pubDate>Tue, 14 Jun 2022 03:46:29 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220613105006</guid>
             <pubDate>Mon, 13 Jun 2022 03:04:32 GMT</pubDate>
             <content:encoded><![CDATA[국내 매출상위 상장 제약사들의 주가가 일제히 하락세로 주초 장을 시작했다. 13일 오전 현재(10시10분) 등락률을 보면 매출 상위 11개 제약사 모두 0.94%~4.97% 하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지난주 하루 사망자 20명 이하…확진자는 나흘연속 1만명대 미만]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613102502</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613102502</guid>
-            <pubDate>Mon, 13 Jun 2022 03:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[지난주 하루 사망자 수가 20명 이하로 나타났으며, 확진자 수는 1만명대 미만으로 집계됐다. 중앙방역대책본부에 따르면, 13일 0시 기준 신규 사망자는 17명으로 누적 사망자는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
