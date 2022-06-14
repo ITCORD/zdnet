@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 01:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 03:49:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["구글 인앱결제 강제에 국내 플랫폼 기업들 요금인상 악용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220614102909</link>
+            <guid>https://zdnet.co.kr/view/?no=20220614102909</guid>
+            <pubDate>Tue, 14 Jun 2022 03:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 국내법을 위반하며 인앱결제 강제 정책을 고수하는 가운데 국내 플랫폼 기업이 요금인상 기회로 악용하고 있다는 시민단체의 비판이 나왔다. 14일 소비자주권시민회의는 성명을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존, '30분내 드론 배송' 美서 연내 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20220614075014</link>
@@ -144,14 +152,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[KT, 누리호 성공 위해 전송구간 안전성·품질 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220611161809</link>
-            <guid>https://zdnet.co.kr/view/?no=20220611161809</guid>
-            <pubDate>Sun, 12 Jun 2022 00:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 15일 예정된 '누리호' 2차 발사 성공을 위해 나로우주센터에 안정적인 통신회선과 방송회선을 지원하고 주요 전송시설에 대한 보안을 강화했다고 12일 밝혔다. 누리호는 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[LGU+, 장기가입자 1만명에 '무너x프릳츠 커피·머그컵 세트' 증정]]></title>
             <link>https://zdnet.co.kr/view/?no=20220611160646</link>
             <guid>https://zdnet.co.kr/view/?no=20220611160646</guid>
@@ -160,11 +160,12 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[방통위, 지역방송 활성화 방안 모색]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 14 Jun 2022 01:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 지역방송 현장의 다양한 의견을 직접 듣고 지역방송 활성화 방안을 모색하기 위해 지역방송발전위원회 차원에서 권역별 지역방송사 대표자 간담회를 개최한다. 지역방송발...]]></content:encoded>
+            <title><![CDATA[KT, 누리호 성공 위해 전송구간 안전성·품질 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220611161809</link>
+            <guid>https://zdnet.co.kr/view/?no=20220611161809</guid>
+            <pubDate>Sun, 12 Jun 2022 00:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[KT는 15일 예정된 '누리호' 2차 발사 성공을 위해 나로우주센터에 안정적인 통신회선과 방송회선을 지원하고 주요 전송시설에 대한 보안을 강화했다고 12일 밝혔다. 누리호는 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
