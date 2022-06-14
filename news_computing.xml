@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 03:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 04:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀀텀, 'AI 기반 콘텐츠 분석 자동화 솔루션' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220614131438</link>
+            <guid>https://zdnet.co.kr/view/?no=20220614131438</guid>
+            <pubDate>Tue, 14 Jun 2022 04:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[퀀텀은 방송, 후반 작업, 스포츠 및 기타 미디어 워크플로우에 사용되는 비디오 콘텐츠를 분석하고 강화할 수 있는 새로운 'AI 기반 콘텐츠 분석 자동화 솔루션'을 14일 발표했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG CNS, 'AWS 프리미어 티어 파트너' 자격 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220614130721</link>
+            <guid>https://zdnet.co.kr/view/?no=20220614130721</guid>
+            <pubDate>Tue, 14 Jun 2022 04:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[LG CNS는 '아마존웹서비스(AWS) 프리미어 티어 파트너' 자격을 획득했다고 14일 밝혔다. 'AWS 프리미어 티어 파트너'는 국가별로 가장 풍부한 클라우드 사업 경험을 보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국정원 3차장에 백종욱 전 국가사이버안전센터장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220614111304</link>
@@ -147,24 +163,8 @@
             <title><![CDATA[[기고] AI의 기본 쉽게 이해하기 2-1]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Tue, 14 Jun 2022 03:45:00 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2022 04:44:53 GMT</pubDate>
             <content:encoded><![CDATA[다양한 딥러닝의 알고리즘이 현실화되고 2010년대 들어와 지금과 같이 엄청난 꽃을 피우기 시작한 가장 큰 원인을 나는 컴퓨터와 CPU, GPU의 발전 덕분이라고 생각한다. 내가...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["세계 AI연구 대학이 주도"···전체 AI출판물서 60% 차지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613152008</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613152008</guid>
-            <pubDate>Mon, 13 Jun 2022 07:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[세계 인공지능(AI) 연구개발의 핵심 주체는 대학으로 AI출판물의 약 60%를 차지했다. 반면 기업은 5.2%에 불과, AI출판물에서 두 집단간 양적 격차가 10배 이상 차이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, '준법경영시스템' 국제표준 인증 2년 유지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613150519</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613150519</guid>
-            <pubDate>Mon, 13 Jun 2022 06:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 빗썸(대표 이재원)이 준법경영시스템(ISO37301) 사후심사에서 적합 판정을 받으며 국제표준 인증을 2년 연속 유지하게 됐다고 13일 밝혔다. 빗썸은 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
