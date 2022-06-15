@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누리호 우주 도전, 한걸음 쉬었다 간다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220615185253</link>
+            <guid>https://zdnet.co.kr/view/?no=20220615185253</guid>
+            <pubDate>Wed, 15 Jun 2022 10:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[우리 힘만으로 우주로 가는 길은 호락호락하지 않았다. 16일로 예정된 누리호 2차 발사가 발사 전 점검 과정에서 발견된 기술적 문제로 인해 15일 오후 전격 연기됐다. 향후 일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/15/61f46915357913fe11defb01ad167510-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누리호 발사 연기...점검 과정에서 센서 이상 발견]]></title>
             <link>https://zdnet.co.kr/view/?no=20220615175419</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220615095525</guid>
             <pubDate>Wed, 15 Jun 2022 03:14:22 GMT</pubDate>
             <content:encoded><![CDATA[붉은 행성 화성에서 아주 어렵게 균형을 잡고 있는 희귀한 암석의 모습이 포착됐다. 미국 항공우주국(NASA) 화성탐사 로버 '퍼시비어런스'가 지난 12일(현지시간) 화성의 예제...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/15/699184cf28de34f7c8a38fe406a59d40-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[누리호, 1시간 10분만에 발사대로 이송 완료]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220609144234</guid>
             <pubDate>Thu, 09 Jun 2022 15:15:45 GMT</pubDate>
             <content:encoded><![CDATA[태양 빛으로 물에서 수소를 만드는 광전극의 내구성을 높이는 기술이 나왔다. 해양 식물 표피층의 하이드로젤 보호막을 활용했다. 온실가스를 배출하지 않는 그린 수소 생산을 앞당기리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스웹 우주망원경, 미소 유성체와 충돌...향후 탐사는? [우주로 간다]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220609111243</link>
-            <guid>https://zdnet.co.kr/view/?no=20220609111243</guid>
-            <pubDate>Thu, 09 Jun 2022 04:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[인류 역사상 가장 크고 강력한 제임스 웹 우주망원경(JWST)이 최근 작은 크기의 미소 유성체(micrometeoroid)와 부딪혀 어려움을 겪은 것으로 알려졌다. 미국 IT매...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
