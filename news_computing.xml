@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스패로우, SW 공급망 보안 강화 위해 SBOM 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220616150516</link>
+            <guid>https://zdnet.co.kr/view/?no=20220616150516</guid>
+            <pubDate>Thu, 16 Jun 2022 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[스패로우(대표 장일수)는 오픈소스 라이선스 식별 및 보안 취약점 관리 도구인 '스패로우 SCA'에 소프트웨어 자재명세서(SBOM) 내보내기 기능을 적용했다고 16일 밝혔다. S...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퓨어스토리지, 스케일아웃 스토리지 새 버전 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220616150332</link>
+            <guid>https://zdnet.co.kr/view/?no=20220616150332</guid>
+            <pubDate>Thu, 16 Jun 2022 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[퓨어스토리지는 비정형 데이터 인프라를 위한 스케일아웃 스토리지의 차세대 제품인 '플래시블레이드//S'를 출시한다고 16일 밝혔다. 새 버전은 기존 플랫폼 대비 2배 이상의 집적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 20일 해외 개인정보 보호 법률 상담 설명회 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220616145649</link>
+            <guid>https://zdnet.co.kr/view/?no=20220616145649</guid>
+            <pubDate>Thu, 16 Jun 2022 06:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA)과 개인정보보호위원회는 오는 20일 해외 주요 시장에 진출하는 국내기업을 대상으로 하는 '2022 해외 개인정보 보호 법률 상담 설명회'를 온라인으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소비자 속이는 다크패턴 주의보...페북·카카오맵도 제재]]></title>
             <link>https://zdnet.co.kr/view/?no=20220616142626</link>
@@ -64,11 +88,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[美 국회 발의안 보니…"비트·이더 외 코인 투자 신중해야"]]></title>
+            <title><![CDATA[美 의회 발의안 보니…"비트·이더 외 코인 투자 신중해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220616102044</link>
             <guid>https://zdnet.co.kr/view/?no=20220616102044</guid>
             <pubDate>Thu, 16 Jun 2022 04:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[미국 국회에서 논의되는 가상자산 규제안이 비트코인(BTC), 이더리움(ETH) 외 알트코인에 대해 강력한 규제가 적용될 것으로 전망됐다. 이에 알트코인에 대한 투자 주의를 촉구...]]></content:encoded>
+            <content:encoded><![CDATA[미국 의회에서 논의되는 가상자산 규제안이 비트코인(BTC), 이더리움(ETH) 외 알트코인에 대해 강력한 규제를 적용할 것으로 전망됐다. 이에 알트코인에 대한 투자 주의를 촉구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220615173311</guid>
             <pubDate>Wed, 15 Jun 2022 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[원격 솔루션 전문 기업 알서포트(대표 서형수)는 강북삼성병원 글로벌 디지털 헬스케어센터에 자사 설치형 화상회의 부스 '콜라박스'를 구축했다고 15일 밝혔다. 성균관의대 강북삼성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버-모라이, 공공 분야 자율주행 시뮬레이션 사업 공동 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615170611</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615170611</guid>
-            <pubDate>Wed, 15 Jun 2022 08:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[네이버클라우드가 네이버랩스, 자율주행 시뮬레이션 업체 모라이와 함께 공공시장 내 자율주행 시뮬레이션 활용을 강화하고 관련 비즈니스 활성화에 나선다고 15일 밝혔다. 3사는 이번...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 협력 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615163815</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615163815</guid>
-            <pubDate>Wed, 15 Jun 2022 08:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 단국대학교와 '인터넷거버넌스 미래인재 양성을 위한 업무협약'을 체결했다고 15일 밝혔다. 최근 팬더믹 이후 사회전반에 디지털 대전환이 가속화되면서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모노커뮤니케이션즈, 유선전화 문자수신 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615124304</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615124304</guid>
-            <pubDate>Wed, 15 Jun 2022 04:28:51 GMT</pubDate>
-            <content:encoded><![CDATA[모노커뮤니케이션즈가 유선전화 문자수신 서비스 '텔톡'을 출시했다고 15일 밝혔다. 텔톡은 기업과 공공기관에서 별도의 전화번호 개통없이 사용 중인 KT유선전화를 통해 고객의 문자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
