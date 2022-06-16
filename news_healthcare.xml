@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의료 소프트웨어는 의료기기일까, 아닐까?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220616153235</link>
+            <guid>https://zdnet.co.kr/view/?no=20220616153235</guid>
+            <pubDate>Thu, 16 Jun 2022 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[지방간 수치를 데이터로 바꿔 어떤 질병의 발병 가능성을 진단하는 소프트웨어가 있다면, 이 소프트웨어는 의료기기일까, 아닐까? 결론부터 밝힌다면, 의료기기로부터 확보한 지방간 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제약협회, 美한국계 제약바이오 인재들과 협력키로]]></title>
             <link>https://zdnet.co.kr/view/?no=20220616150533</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220615105032</guid>
             <pubDate>Wed, 15 Jun 2022 03:10:46 GMT</pubDate>
             <content:encoded><![CDATA[위탁가정 부모에게 제한적 후견인 권한을 부여하자는 법안이 국회에 제출됐다. 더불어민주당 위성곤 의원이 대표발의한 '아동복지법 개정안'은 가정위탁 아동 중 친권자가 친권을 행사할...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노인학대 예방의 날 맞아 고령층 경제 학대범죄 방지 법안 국회 제출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615103318</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615103318</guid>
-            <pubDate>Wed, 15 Jun 2022 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[노인학대 예방의 날을 맞아 노인을 대상으로 경제적 학대범죄 방지 법안이 국회에 제출됐다. 한준호 더불어민주당 의원은 14일 '노인복지법 일부개정법률안'을 대표발의했다. 개정안은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
