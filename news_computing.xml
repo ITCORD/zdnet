@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 04:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['커뮤니티 vs 엔터프라이즈' 오픈소스 어떤 버전 쓸까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220617111553</link>
+            <guid>https://zdnet.co.kr/view/?no=20220617111553</guid>
+            <pubDate>Fri, 17 Jun 2022 05:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 소프트웨어는 이제 IT 세상에서 누구나 사용하는 준재다. 운영체제(OS)부터 다양한 애플리케이션에 이르기까지 소프트웨어 산업전반에 걸쳐 오픈소스 소프트웨어를 활용하지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 오피스365에 '개인용 디펜더' 보안 제품 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220617085800</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616095942</guid>
             <pubDate>Thu, 16 Jun 2022 04:14:17 GMT</pubDate>
             <content:encoded><![CDATA[웹브라우저 인터넷익스플로러(IE)에 대한 마이크로소프트의 기술지원이 지난 15일부로 종료됐다. IE에 대한 신규 취약점 패치 및 오류 개선이 중단돼, IE를 계속 사용할 경우 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클 "브랜드 전략에 유머 활용 필수”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616112256</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616112256</guid>
-            <pubDate>Thu, 16 Jun 2022 04:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[소비자들은 브랜드에서 웃음과 유머를 찾고 싶어하지만 기업 경영진들은 고객과 소통에 유머 활용을 꺼리는 경향이 있는 것으로 나타났다. 오라클은 퓨전 클라우드 고객경험(CX) 사업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
