@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 22:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 23:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIAT, 밀양 산불 이재민에 긴급구호 식품 기부]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220619071422</link>
+            <guid>https://zdnet.co.kr/view/?no=20220619071422</guid>
+            <pubDate>Sat, 18 Jun 2022 23:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국산업기술진흥원(KIAT·원장 석영철)은 17일 지난달 발생한 대형 산불로 피해를 본 밀양시 이재민을 돕기 위해 밀양시 기초푸드뱅크에 긴급구호 식품을 기부했다고 19일 밝혔다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/19/ee837376ba28f68cd264653baf39a5d7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남부발전, 연료전지 기자재 국산화 확대…연관산업 육성]]></title>
             <link>https://zdnet.co.kr/view/?no=20220619070518</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220618125502</guid>
             <pubDate>Sat, 18 Jun 2022 04:17:37 GMT</pubDate>
             <content:encoded><![CDATA[이재용 삼성전자 부회장이 18일 유럽 출장을 마치고 "첫 번째도 기술, 두 번째도 기술, 세 번째도 기술"이라며 기술의 중요성을 강조했다. 또 "우리가 할 일은 좋은 사람을 모...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/18/8e51c2432c85828ef86a13e8e37990ec-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스페이스X, 머스크 비판 메일 보낸 직원 잘랐다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220617211301</guid>
             <pubDate>Fri, 17 Jun 2022 12:22:35 GMT</pubDate>
             <content:encoded><![CDATA[전자상거래 분야 국제학술대회인 'ICEC 2022(International Conference on Electronic Commerce 2022)가 오는 22~24일 사흘간 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 'K웹툰' 격돌...네이버·카카오 전략은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220617191334</link>
-            <guid>https://zdnet.co.kr/view/?no=20220617191334</guid>
-            <pubDate>Fri, 17 Jun 2022 11:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[네이버와 카카오의 글로벌 웹툰 서비스 격돌이 일본, 북미, 유럽 시장으로 확대되며 심화되고 있다. 두 기업은 K콘텐츠 인기에 힘입어 효자 산업으로 자리잡은 웹툰 서비스에서 선두...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
