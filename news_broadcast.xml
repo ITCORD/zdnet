@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 23:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화웨이, 4G폰을 5G폰으로 만들어주는 '케이스' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220620004130</link>
+            <guid>https://zdnet.co.kr/view/?no=20220620004130</guid>
+            <pubDate>Sun, 19 Jun 2022 23:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[중국 화웨이가 '스마트폰 케이스'를 통해 자사 4G 스마트폰에 5G 네트워크를 연결할 수 있게 했다. 미국의 제재로 5G 칩 수급이 어려워지자 플래그십 스마트폰조차 4G 모델에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 대학생 테크 인플루언서 '데보션 영' 모집]]></title>
             <link>https://zdnet.co.kr/view/?no=20220619094009</link>
@@ -123,7 +131,7 @@
             <title><![CDATA["지속가능한 K콘텐츠"...미디어리더스포럼 22일 개최]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Sun, 19 Jun 2022 22:10:16 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 23:10:15 GMT</pubDate>
             <content:encoded><![CDATA[미디어미래연구소는 22일 대한상공회의소에서 지속가능한 K콘텐츠를 주제로 미디어리더스포럼을 연다고 밝혔다. 새 정부 출범에 따른 콘텐츠 분야 국정과제를 점검하고, 콘텐츠 분야 비...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616124913</guid>
             <pubDate>Thu, 16 Jun 2022 05:27:30 GMT</pubDate>
             <content:encoded><![CDATA["코로나19 엔데믹으로 인해 OTT 업계에 위기가 있는 것 아니냐는 말이 많지만 위기는 곧 기회라고 생각한다. 한국의 경우 아직 개인이 구독하는 스트리밍 서비스의 숫자가 적기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[與 방통위원장 사퇴 압박에 野 "방송장악 멈춰라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616135459</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616135459</guid>
-            <pubDate>Thu, 16 Jun 2022 05:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 더불어민주당 소속 의원들이 16일 성명서를 내고 “치졸한 방송장악 굿판을 멈출 것을 촉구한다”고 밝혔다. 임기 1년을 남겨둔 방송통신위원회 위원장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

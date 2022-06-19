@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 23:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누리호 발사대 이송 시작...오전 중 기립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220619155159</link>
+            <guid>https://zdnet.co.kr/view/?no=20220619155159</guid>
+            <pubDate>Sun, 19 Jun 2022 23:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2차 발사 시도를 앞둔 누리호가 나로우주센터 발사대로 이송되기 시작했다. 과학기술정보통신부와 한국항공우주연구원은 20일 오전 7시 30분 누리호를 조립동에서 제2발사대로 이송하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/15/b7d6bb271a4b38c825d64bda842b4a20-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[풀어쓰는 과학 이야기] 동물도 덧셈을 할 수 있을까?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220617162541</link>
@@ -27,7 +35,7 @@
             <title><![CDATA[[속보] 누리호 2차 발사 6월 21일]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0070&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0070&amp;page=1</guid>
-            <pubDate>Sun, 19 Jun 2022 22:14:03 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 23:15:51 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 센서 문제를 해결, 오는 21일 누리호 2차 발사를 실시한다고 17일 밝혔다....]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220614074035</guid>
             <pubDate>Mon, 13 Jun 2022 23:17:33 GMT</pubDate>
             <content:encoded><![CDATA[누리호의 도전이 하루 미뤄졌다. 과기정통부와 한국항공우주연구원은 14일 오전 6시 비행시험위원회, 7시 발사관리위원회를 열고 누리호 이송과 발사를 15일과 16일로 각각 연기하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MIT, 레고처럼 여러 센서 갈아끼는 뉴로모픽 칩 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613144901</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613144901</guid>
-            <pubDate>Mon, 13 Jun 2022 19:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[여러 기능의 센서와 프로세서를 레고처럼 갈아끼울 수 있는 인공지능 뉴로모픽 반도체 칩이 나왔다. 생체 신경망을 모방한 구조이며, 소자 간 와이어 연결 없이 빛을 송수신해 신호를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

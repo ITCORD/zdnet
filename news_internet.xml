@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 23:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[텐센트 "모든 연구개발 업무 클라우드로 전환"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220620003628</link>
+            <guid>https://zdnet.co.kr/view/?no=20220620003628</guid>
+            <pubDate>Sun, 19 Jun 2022 23:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[중국 텐센트가 모든 사업의 연구개발을 클라우드상에서 하게 된다. 19일 중국 언론 신랑커지에 따르면 텐센트는 지난 주말 기준 이미 자체 내부 모든 연구개발 업무를 클라우드로 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 아바타 의류 매장 연다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220619105302</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616140332</guid>
             <pubDate>Thu, 16 Jun 2022 05:29:08 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티 매각설이 돌고 있다. 회사에서는 “정해진 게 없다”는 입장이지만, 적극 부인하지 않는 것으로 봐서 매각 의도가 아예 없지는 않은 것으로 판단된다. 이 일이 결과적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인기협, 'NFT 관련 시장·정책동향 분석' 보고서 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616101635</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616101635</guid>
-            <pubDate>Thu, 16 Jun 2022 04:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷기업협회(이하 인기협)는 'NFT 관련 시장 및 정책동향 분석' 보고서를 발간했다고 16일 밝혔다. 블록체인 기술의 발달로 인해 등장한 가상자산·NFT(Non-Fung...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
