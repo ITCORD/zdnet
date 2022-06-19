@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 01:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 03:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 SaaS기업 780곳···250억 투입 52개 SaaS 개발 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220619114432</link>
+            <guid>https://zdnet.co.kr/view/?no=20220619114432</guid>
+            <pubDate>Sun, 19 Jun 2022 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[과기정통부가 250억원을 투입해 52개 SaaS(Software as a service, 서비스형 소프트웨어)개발을 지원한다. 이들 52개 SaaS는 디지털헬스, 디지털워크 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["NFT 마켓, 복제권·공중송신권 확인 체계 갖춰야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220617171123</link>
@@ -27,7 +35,7 @@
             <title><![CDATA[[인사]한국인터넷진흥원]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Sun, 19 Jun 2022 00:56:45 GMT</pubDate>
+            <pubDate>Sun, 19 Jun 2022 03:11:54 GMT</pubDate>
             <content:encoded><![CDATA[◇ 단장급 보임 ▲ 침해대응단장 임진수 ▲ 침해사고분석단장 심재홍 ▲ 사이버방역단장 서정훈 ◇ 팀장급 보임 ▲ 개인정보탐지조사팀장 안인회 ▲ 융합보안기술팀장 이재형...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616142626</guid>
             <pubDate>Thu, 16 Jun 2022 05:28:12 GMT</pubDate>
             <content:encoded><![CDATA[병원 치료를 위한 개인정보 수집·활용 동의서에 홍보자료 발송 항목을 끼워넣거나, 회원 가입은 홈페이지에서 가능하나 탈퇴는 이메일로만 받는 등 소바지의 비합리적인 선택을 유도하는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이어폭스, 쿠키 추적 막는 새 사생활보호 기능 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616123209</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616123209</guid>
-            <pubDate>Thu, 16 Jun 2022 04:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[모질라 파이어폭스 브라우저가 새로운 쿠키 보호 기능을 내놨다. 여러 웹사이트를 돌아다니는 내용 자체에 접근하지 못하게 해 사용자 추적을 막겠다는 아이디어다. 15일(현지시간) ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
