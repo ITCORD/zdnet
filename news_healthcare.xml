@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 23:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 01:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진자 6071명…사망 14명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220619094734</link>
+            <guid>https://zdnet.co.kr/view/?no=20220619094734</guid>
+            <pubDate>Sun, 19 Jun 2022 00:58:13 GMT</pubDate>
+            <content:encoded><![CDATA[19일 0시 기준 국내 코로나19 신규 확진자 수가 6천71명으로 집계됐다. 지역사회 확진자는 5천988명이며, 해외유입 사례는 83명이다. 국내 발생 신규 확진자 가운데 60...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 먹는 치료제 '팍스로비드' 23만6천명분 추가 국내도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220618104200</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616135804</guid>
             <pubDate>Thu, 16 Jun 2022 05:30:14 GMT</pubDate>
             <content:encoded><![CDATA[국내에서 코로나19에 세 번 감염된 사람들은 83명으로 추정된다. 중앙방역대책본부(방대본)는 지난 2020년 1월부터 2022년 6월 5일까지 전체 확진자 1천797만718명을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 4차접종자, 3차접종자 대비 사망 예방효과 53.3%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616134933</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616134933</guid>
-            <pubDate>Thu, 16 Jun 2022 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 4차접종 시 사망 예방효과는 53.3%인 것으로 나타났다. 중앙방역대책본부(방대본)는 지난 2월 16일부터 4월 30일까지 3차접종 후 4개월이 경과한 면역저하자, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
