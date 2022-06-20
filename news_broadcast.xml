@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 03:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수십억원 빼돌린 LG유플러스 전 직원 구속]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220620101034</link>
+            <guid>https://zdnet.co.kr/view/?no=20220620101034</guid>
+            <pubDate>Mon, 20 Jun 2022 04:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[회삿돈 수십억원을 빼돌린 혐의를 받는 LG유플러스 직원이 필리핀으로 도피했다가 자진 입국해 구속 송치했다. 20일 경찰에 따르면 서울 용산경찰서는 LG유플러스 전 직원 A씨를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["KT게임박스에서 MMORPG 즐기세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220620092818</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[KT엠모바일, 하이트·윌리스서 유심 판매]]></title>
+            <title><![CDATA[KT엠모바일, 하이마트·윌리스서 유심 판매]]></title>
             <link>https://zdnet.co.kr/view/?no=20220620093039</link>
             <guid>https://zdnet.co.kr/view/?no=20220620093039</guid>
             <pubDate>Mon, 20 Jun 2022 00:58:02 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616130057</guid>
             <pubDate>Fri, 17 Jun 2022 00:53:04 GMT</pubDate>
             <content:encoded><![CDATA[방역로봇·안내로봇과 같은 서비스로봇, 자동화 물류, 커넥티드카부터 최근 활발히 논의되는 도심항공모빌리티(UAM)에도 자율주행기술은 필수적이다. 통신 3사도 자율주행 시장을 미래...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 푸보TV, 스포츠 베팅 기능 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220617075652</link>
-            <guid>https://zdnet.co.kr/view/?no=20220617075652</guid>
-            <pubDate>Fri, 17 Jun 2022 00:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 스포츠 전문 온라인스트리밍 '푸보TV'가 스포츠 베팅 기능을 앱 내에 추가한다. 16일(현지시간) 더버지에 따르면, 푸보TV는 앱 인터페이스에 실시간 스포츠중계 방송 시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
