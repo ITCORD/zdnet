@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 1분기 파운드리 매출 감소...상위 10개사 중 유일]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220620164007</link>
+            <guid>https://zdnet.co.kr/view/?no=20220620164007</guid>
+            <pubDate>Mon, 20 Jun 2022 08:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[상위 10개 파운드리 업체 중에서 삼성전자만 유일하게 올 1분기 매출이 전분기 보다 감소한 것으로 나타났다. 이로 인해 삼성전자는 1위인 TSMC와 점유율 격차가 지난 4분기 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[교육부, 서울대 반도체연구소서 인재양성 점검]]></title>
             <link>https://zdnet.co.kr/view/?no=20220620095946</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220613151546</guid>
             <pubDate>Mon, 13 Jun 2022 07:15:50 GMT</pubDate>
             <content:encoded><![CDATA[지난해부터 수 차례 지연을 거듭해 온 인텔 차세대 서버용 칩, 사파이어래피즈(Sapphire Rapids) 대량 생산이 또 다시 연기됐다. DDR5 메모리와 PCI 익스프레스 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 반도체 인재 양성…청년 참가자 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613112132</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613112132</guid>
-            <pubDate>Mon, 13 Jun 2022 03:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 13일 현직 엔지니어가 직접 반도체 지식을 전수하고 협력사 채용까지 연결하는 인재 양성 프로그램 '청년 하이파이브(Hy-Five)'를 실시한다고 밝혔다. '청년 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
