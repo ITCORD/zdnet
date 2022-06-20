@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 01:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 3538명…사망 10명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220620094828</link>
+            <guid>https://zdnet.co.kr/view/?no=20220620094828</guid>
+            <pubDate>Mon, 20 Jun 2022 01:00:15 GMT</pubDate>
+            <content:encoded><![CDATA[20일 0시 기준 국내 코로나19 확진자 수가 3천538명으로 집계됐다. 중앙방역대책본부에 따르면 국내 확진자 수는 3천442명, 해외유입 사례는 96명이다. 특히 국내 발생 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경희의료원-공무원연금공단, 메타버스 건강상담 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20220619164652</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220617100916</guid>
             <pubDate>Fri, 17 Jun 2022 03:03:20 GMT</pubDate>
             <content:encoded><![CDATA[17일 0시 기준 국내 코로나19 신규 확진자 수가 7천198명으로 집계됐다. 지역사회 확진자는 7천130명이며, 해외유입 사례는 68명이다. 국내 발생 신규 확진자 가운데 6...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신현영, 김승희 후보 고발 검토…"정치자금법·이해충돌법 위반 의심”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220617091957</link>
-            <guid>https://zdnet.co.kr/view/?no=20220617091957</guid>
-            <pubDate>Fri, 17 Jun 2022 00:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[신현영 더불어민주당 의원이 김승희 보건복지부 장관 후보자에 대해 고발을 검토하고 있다고 밝혔다. 김 후보가 과거 정치자금을 사적으로 지출한 것이 정치자금법 위반이라는 이유에서다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
