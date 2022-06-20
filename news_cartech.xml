@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 중국서 자동차 SW 엔지니어 채용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621010102</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621010102</guid>
+            <pubDate>Mon, 20 Jun 2022 23:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 중국에서 차세대 카플레이를 안착하기 위한 현지 엔지니어 충원에 나섰다. 20일 중국 언론 아이지웨이에 따르면 애플이 최근 베이징, 상하이, 선전 세 도시에서 '자동차 체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대오일뱅크, 초소형전기차 판매 개시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220620141735</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220615172058</guid>
             <pubDate>Wed, 15 Jun 2022 09:13:31 GMT</pubDate>
             <content:encoded><![CDATA[현대모비스는 자동차 브레이크 시스템을 생산하는 창원공장이 국제안전검증시험기관 UL로부터 '폐기물매립제로' 인증서를 받았다고 15일 밝혔다. UL은 사업장에서 배출하는 폐기물 재...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍용차 토레스, 사전계약 첫날 1만2천대 돌파…"경영정상화 견인 기대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615165927</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615165927</guid>
-            <pubDate>Wed, 15 Jun 2022 08:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[쌍용자동차는 토레스 사전계약 대수가 첫날 1만2천대를 돌파했다고 15일 밝혔다. 토레스 사전계약 첫날 계약대수는 쌍용차 신차 사전계약 대수 가운데 역대 최고 기록이다. 기존 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

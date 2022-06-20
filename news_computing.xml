@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민간 기업도 공개제한 공간정보 상업 활용 가능해져]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621075521</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621075521</guid>
+            <pubDate>Mon, 20 Jun 2022 23:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 학술연구나 공공복리 목적으로만 제한적으로 제공해 온 3차원 공간정보 등 공개제한 공간정보를 기업이 상업 목적으로 활용할 수 있게 됐다. 국토교통부는 한국국토정보공사(LX...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, Arm64용 비주얼스튜디오 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220620174337</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620085225</guid>
             <pubDate>Mon, 20 Jun 2022 00:58:14 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 소프트웨어 기업 어도비는 포토샵, 라이트룸, 라이트룸 클래식 등 크리에이티브 클라우드 애플리케이션의 주요 업데이트를 20일 발표했다. 포토샵 '뉴럴 필터' 기능은 인공지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙대, NFT 학위증 발급...라온화이트햇과 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620084353</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620084353</guid>
-            <pubDate>Mon, 20 Jun 2022 00:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[라온화이트햇은 중앙대학교와 분산ID(DID) 신원인증, 대체불가토큰(NFT) 등 블록체인 기술을 활용한 교내 서비스 발굴 및 개발을 위해 업무협약을 체결했다고 20일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
