@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 13:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 14:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ICT 공공기관 4곳 경영평가 양호 점수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220620230753</link>
+            <guid>https://zdnet.co.kr/view/?no=20220620230753</guid>
+            <pubDate>Mon, 20 Jun 2022 14:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[과기정통부 산하 ICT 공공기관들이 정부가 시행한 '2021년 공공기관 경영실적 평가'에서 양호한 성적(B)을 거뒀다. 20일 기재부는 최상대 2차관 주재로 제7차 공공기관운영...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/20/7b853679e2c13dcd2f6fa635b5cb4987-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[누리호 D-1 점검 종료, 이제 발사만 기다린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220620214754</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220620183953</guid>
             <pubDate>Mon, 20 Jun 2022 11:09:36 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 메신저 플랫폼 텔레그램이 유료 서비스 '프리미엄'을 19일(현지시간) 내놨다. 월 5달러(약 6천400원)를 내면, 채팅방에 올릴 수 있는 사진이나 동영상 등 용량이 늘...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2014/10/14/JOba1U41exkEIZIBwNwU-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[낮엔 '네카라쿠배' 직원, 밤엔 '스텔스 창업가'..."골프업 혁신 꿈꿔"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620160504</guid>
             <pubDate>Mon, 20 Jun 2022 08:15:22 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트 메가포트(대표 장인아)는 슈퍼크리에이티브(김형석, 강기현 공동대표)가 개발한 글로벌 히트 모바일 RPG '에픽세븐'의 글로벌 e스포츠 대회 '에픽세븐 월드 아레나 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[압타머사이언스, '폐암 조기 진단키트' NECA 신의료기술평가 유예 대상 확정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620164937</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620164937</guid>
-            <pubDate>Mon, 20 Jun 2022 08:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[압타머사이언스(291650)는 폐암 조기 진단키트인 AptoDetect-Lung(이하 '압토디텍트 렁')이 한국보건의료연구원(NECA)의 신의료기술평가 유예 대상으로 확정됐다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
