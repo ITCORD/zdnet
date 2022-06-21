@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 01:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 03:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, '아이오닉6' 티저 이미지 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621105308</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621105308</guid>
+            <pubDate>Tue, 21 Jun 2022 03:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 21일 '아이오닉6' 티저 이미지를 공개했다. 아이오닉6는 2020년 3월 공개한 전기 콘셉트카 프로페시에서 영감을 받아 디자인한 모델이다. 디자인 테마는 '일렉트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 중국서 자동차 SW 엔지니어 채용]]></title>
             <link>https://zdnet.co.kr/view/?no=20220621010102</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616091726</guid>
             <pubDate>Thu, 16 Jun 2022 04:16:08 GMT</pubDate>
             <content:encoded><![CDATA[중국 전기차 기업 샤오펑이 5분 충전으로 200km를 주행할 수 있는 초고속 충전 기술을 내놓겠다고 밝혔다. 15일 중국 언론 IT즈자에 따르면 중국 전기차 기업 샤오펑의 허샤...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대모비스 창원공장, '폐기물매립제로' 인증서 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615172058</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615172058</guid>
-            <pubDate>Wed, 15 Jun 2022 09:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[현대모비스는 자동차 브레이크 시스템을 생산하는 창원공장이 국제안전검증시험기관 UL로부터 '폐기물매립제로' 인증서를 받았다고 15일 밝혔다. UL은 사업장에서 배출하는 폐기물 재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
