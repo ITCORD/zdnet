@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조규곤 파수 "보안제품 수만 늘리는 제로트러스트는 틀렸다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621154512</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621154512</guid>
+            <pubDate>Tue, 21 Jun 2022 08:25:01 GMT</pubDate>
+            <content:encoded><![CDATA["제로트러스트를 원칙으로 보안을 재설계해야 하지만, 컨트롤 포인트가 늘어나면 복잡성이 커져 오히려 보안에 해가될 수 있다. 결국 제로트러스트라는 원칙 아래 제품들이 서로 통합돼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["복잡해진 IT환경, 모니터링 넘는 옵저버빌리티 필요”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621165807</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621165807</guid>
+            <pubDate>Tue, 21 Jun 2022 08:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[“멀티 클라우드와 측정 데이터의 증가로 IT환경이 급격하게 복잡해지고 있다. 이제는 기존 모니터링 방식을 넘어 옵저버빌리티로 전환이 필요하다.” 박경순 솔라윈즈 한국지사장은 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISIA, 글로벌 클라우드 마켓플레이스 제품 등록 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220621144051</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620174337</guid>
             <pubDate>Mon, 20 Jun 2022 11:10:29 GMT</pubDate>
             <content:encoded><![CDATA[ARM용 윈도 네이티브 애플리케이션 개발을 지원하는 첫 번째 비주얼 스튜디오가 공개됐다. 최근 마이크로소프트는 비주얼 스튜디오 2022 17.3 프리뷰2 버전을 공개했다고 공식...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원, 애플 아이클라우드 계정 해킹범에 9년형 선고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620095123</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620095123</guid>
-            <pubDate>Mon, 20 Jun 2022 08:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[미국 법원이 4천700여 명의 애플 아이클라우드 계정을 해킹하고 여성들의 나체 사진을 탈취·유포한 남성에 징역 9년형을 선고했다. 사이버범죄에 합당한 책임을 묻겠다는 미국 법무...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 저소득층 자녀 SW인재 육성 모금액 조기 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620154159</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620154159</guid>
-            <pubDate>Mon, 20 Jun 2022 07:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(회장 조준희, 이하 'KOSA')가 최근 실시한 '저소득층 자녀 대상 미래 SW인재 육성' 기부캠페인(이하 '기부캠페인')에서 목표 모금액을 조기 달성했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

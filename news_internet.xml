@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달라진 여행 선호도..."혼행보다 친구와, 모험보다 휴양"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621161937</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621161937</guid>
+            <pubDate>Tue, 21 Jun 2022 08:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[여행 플랫폼 클룩이 엔데믹 시대를 맞아 아태지역 자유여행객들의 여행 방식 선호도를 조사한 결과, 여행자 10명 중 7명은 나 홀로 여행보다 친구와 함께하는 여행을 선호했다. 클...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이투스 전국 모의고사 응시 수험생 5만5천명 넘어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220621105548</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620102234</guid>
             <pubDate>Mon, 20 Jun 2022 02:54:28 GMT</pubDate>
             <content:encoded><![CDATA[디지털 전환 시대, 데이터는 비즈니스에서 결정적인 영향을 끼친다. 이제 데이터는 금융, 유통, 제조 등 모든 산업 분야에서 다방면으로 활용되고 있다. 특히 비즈니스에서 리스크를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레딧, 머신러닝 플랫폼 '스펠' 인수 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620092949</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620092949</guid>
-            <pubDate>Mon, 20 Jun 2022 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국 커뮤니티 레딧이 기계학습(머신러닝) 플랫폼 '스펠(Spell)'을 인수한다. 미국 IT매체 테크크런치는 17일(현지시간) 레딧이 전 페이스북 엔지니어인 세르칸 피안티노가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

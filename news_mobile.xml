@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스마트홈 제조사 달라도 IoT 표준 '매터' 하나로 연동"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621155847</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621155847</guid>
+            <pubDate>Tue, 21 Jun 2022 08:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[스마트홈 기술이 일반 소비자들에게 소개된 지 약 10년 정도 지났지만, 아직은 대중화가 됐다고 말하기 이르다. 삼성전자, LG전자, 구글, 아마존 등 스마트홈 디바이스 업체들이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, '코웨이로 꾸미는 우리집 홈카페' 행사 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20220621151051</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620095356</guid>
             <pubDate>Mon, 20 Jun 2022 00:58:57 GMT</pubDate>
             <content:encoded><![CDATA[로지텍코리아가 무선 게임용 헤드셋 'G535'를 20일 국내 출시했다. 이 제품은 지난 해 출시한 유선 헤드셋 'G335'에 로지텍 고유 무선 음향 기술 '라이트스피드'를 적용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에코백스, 로봇청소기 '디봇 T10 패밀리' 사전 예약 프로모션 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620093823</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620093823</guid>
-            <pubDate>Mon, 20 Jun 2022 00:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[에코백스가 로봇청소기 신제품 디봇 T10 패밀리'의 공식 출시를 앞두고 사전 예약 프로모션을 시작한다고 20일 밝혔다. 디봇 T10 패밀리는 '디봇 T10 플러스'와 '디봇 T...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
