@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT여성기업인협회-여성변호사협회, 한국디지털윤리학회 공동 설립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220621230730</link>
+            <guid>https://zdnet.co.kr/view/?no=20220621230730</guid>
+            <pubDate>Tue, 21 Jun 2022 14:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[IT여성기업인협회(회장 박현주 시옷 대표)와 한국여성변호사회(회장 김학자)는 IT분야 기업인과 법률가간 교류로 디지털산업과 인권의 조화로운 발전에 기여하기 위해 한국디지털윤리학...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/21/5473901f77f13185164f91ccee3fa2eb-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위메이드 미르M, 직업 소개 영상 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220621214719</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220621181503</guid>
             <pubDate>Tue, 21 Jun 2022 09:21:32 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령은 21일 한국형발사체 누리호(KSLV-Ⅱ) 2차 발사 성공을 두고, “이제 우리 대한민국 땅에서 우주로 가는 길이 열렸다”고 말했다. 윤 대통령은 이날 오후 서울...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/21/ca8286dd3c58c20dff8b84897a51b25c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[호남권생물자원관, 멸종위기종 흰발농게 서식지 최초 발견]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220621162233</guid>
             <pubDate>Tue, 21 Jun 2022 08:24:10 GMT</pubDate>
             <content:encoded><![CDATA[레벨 인피니트는 텐센트 산하 오로라 스튜디오에서 개발한 모바일 MMORPG '천애명월도M'의 사전 캐릭터 생성과 커스터마이징 이벤트를 진행한다고 21일 밝혔다. '천애명월도M'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["복잡해진 IT환경, 모니터링 넘는 옵저버빌리티 필요”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220621165807</link>
-            <guid>https://zdnet.co.kr/view/?no=20220621165807</guid>
-            <pubDate>Tue, 21 Jun 2022 08:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[“멀티 클라우드와 측정 데이터의 증가로 IT환경이 급격하게 복잡해지고 있다. 이제는 기존 모니터링 방식을 넘어 옵저버빌리티로 전환이 필요하다.” 박경순 솔라윈즈 한국지사장은 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
