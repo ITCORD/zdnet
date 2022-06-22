@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록체인협회, 웹 해킹·송금 사기 방지 도구 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622145441</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622145441</guid>
+            <pubDate>Wed, 22 Jun 2022 06:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[한국블록체인협회는 웁살라시큐리티의 해킹, 피싱 방지 도구 '웁워드' 설치 링크를 협회 홈페이지에 게시했다고 22일 밝혔다. 웁워드는 크롬 등의 인터넷 브라우저에 설치할 수 있는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 투썸플레이스와 3년 ITO 계약 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622135944</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220621154512</guid>
             <pubDate>Tue, 21 Jun 2022 08:25:01 GMT</pubDate>
             <content:encoded><![CDATA["제로트러스트를 원칙으로 보안을 재설계해야 하지만, 컨트롤 포인트가 늘어나면 복잡성이 커져 오히려 보안에 해가될 수 있다. 결국 제로트러스트라는 원칙 아래 제품들이 서로 통합돼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["복잡해진 IT환경, 모니터링 넘는 옵저버빌리티 필요”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220621165807</link>
-            <guid>https://zdnet.co.kr/view/?no=20220621165807</guid>
-            <pubDate>Tue, 21 Jun 2022 08:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[“멀티 클라우드와 측정 데이터의 증가로 IT환경이 급격하게 복잡해지고 있다. 이제는 기존 모니터링 방식을 넘어 옵저버빌리티로 전환이 필요하다.” 박경순 솔라윈즈 한국지사장은 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
