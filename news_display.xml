@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기가 또?…FCBGA에 3000억 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622095931</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622095931</guid>
+            <pubDate>Wed, 22 Jun 2022 01:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기는 22일 차세대 반도체 기판인 플립칩 볼그리드 어레이(FCBGA) 시설 구축에 3천억원을 추가 투자한다고 밝혔다. 패키지 기판은 고집적 반도체 칩과 메인 기판을 연결해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG디스플레이, 2년 만에 적자 전환?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220621171820</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220615172047</guid>
             <pubDate>Wed, 15 Jun 2022 09:13:21 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이는 15일 국책은행과 외국 은행으로부터 10억 달러(약 1조3천억원)를 조달한다고 밝혔다. 중소형 유기발광다이오드(OLED) 경쟁력을 키우는 데 투자하기로 했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 'AI 반도체' 독자 개발 집중...차세대 칩 내년 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220614172846</link>
-            <guid>https://zdnet.co.kr/view/?no=20220614172846</guid>
-            <pubDate>Tue, 14 Jun 2022 09:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 독자 개발한 차세대 인공지능(AI) 반도체 제품군을 확대하고, 자사 가전제품에 적용을 본격화 한다. LG전자는 2019년에 출시한 AI 반도체의 차세대 제품을 빠르면...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

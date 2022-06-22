@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT 개발자 몸값 더 오를 수밖에 없다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622092728</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622092728</guid>
+            <pubDate>Wed, 22 Jun 2022 01:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[[개발자 연봉 전쟁, 그 1년 후]①여전히 공급이 수요 못 따라가]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/22/6b892f1643dfde2b60a66d11199bc24f-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개발자 모시려면 일·비전·문화 다 바꿔라]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622091527</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622091527</guid>
+            <pubDate>Wed, 22 Jun 2022 01:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[[개발자 연봉 전쟁, 그 1년 후]②개발자 잘 모시는 회사들의 특징]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2017/03/17/a87da132d2f29d4896207b296f3845f1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 기업이 '개발자 사관학교'로 변신해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622090612</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622090612</guid>
+            <pubDate>Wed, 22 Jun 2022 01:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[[개발자 연봉 전쟁, 그 1년 후]③개발자 교육 공들여야 이탈도 감소]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/17/3f4b3f31eb25bb96448aa6ec6aff209e-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스 "보험설계사 고객 정보 유료조회, 보완할 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220610105506</link>
@@ -245,14 +269,6 @@
             <pubDate>Tue, 01 Mar 2022 14:13:35 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 김정주 창업주 보유 지분 가치 2020년 기준 10조 원]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2013/07/08/eLDq7YeEUwDRh5B05d5i-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 접목 P2E 게임 급성장...국내 게임사 규제 발목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220225095721</link>
-            <guid>https://zdnet.co.kr/view/?no=20220225095721</guid>
-            <pubDate>Fri, 25 Feb 2022 02:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] P2E 장르 게임 국내 현주소]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/25/29a7e1c00e3f2808628e512120f77901-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
