@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 자동차 디지털키 SoC 솔루션 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622134846</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622134846</guid>
+            <pubDate>Wed, 22 Jun 2022 05:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[스위스 반도체 회사 ST마이크로일렉트로닉스는 22일 자동차 디지털키에 들어가는 시스템온칩(SoC) 솔루션 'STSAFE-VJ100-CCC'를 선보였다. 차 열쇠가 없어도 모바일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, FCBGA 시설 구축에 3000억원 추가 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622095931</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220615173644</guid>
             <pubDate>Wed, 15 Jun 2022 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[이재용 삼성전자 부회장이 '반도체 초격차' 실현을 위해 반도체 핵심 장비 확보와 협력 확대에 직접 나섰다. 지난 7일부터 유럽 출장 중인 이 부회장은 네덜란드 반도체 장비 업체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, 수은·무보와 OLED 투자 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220615172047</link>
-            <guid>https://zdnet.co.kr/view/?no=20220615172047</guid>
-            <pubDate>Wed, 15 Jun 2022 09:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이는 15일 국책은행과 외국 은행으로부터 10억 달러(약 1조3천억원)를 조달한다고 밝혔다. 중소형 유기발광다이오드(OLED) 경쟁력을 키우는 데 투자하기로 했다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
