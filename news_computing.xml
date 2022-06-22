@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 07:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토발즈 "리눅스, 내년엔 '러스트' 언어도 품는다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622162108</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622162108</guid>
+            <pubDate>Wed, 22 Jun 2022 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[1991년 8월25일. 핀란드 헬싱키대학에 재학 중이던 한 학생이 뉴스그룹에 메일을 보냈다. '미닉스' 운영체제에서 가장 보고 싶은 것이 무엇이냐는 질문을 담은 메일이었다. 그...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블록체인협회, 웹 해킹·송금 사기 방지 도구 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622145441</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220622090128</guid>
             <pubDate>Wed, 22 Jun 2022 01:02:33 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 핀테크 기업 델리오(대표이사 정상호)는 대체불가토큰(NFT) 마켓플레이스 블루베이를 '01etc'로 리브랜딩한다고 21일 밝혔다. 블루베이는 'NFT의 시작, 01et...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조규곤 파수 "보안제품 수만 늘리는 제로트러스트는 틀렸다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220621154512</link>
-            <guid>https://zdnet.co.kr/view/?no=20220621154512</guid>
-            <pubDate>Tue, 21 Jun 2022 08:25:01 GMT</pubDate>
-            <content:encoded><![CDATA["제로트러스트를 원칙으로 보안을 재설계해야 하지만, 컨트롤 포인트가 늘어나면 복잡성이 커져 오히려 보안에 해가될 수 있다. 결국 제로트러스트라는 원칙 아래 제품들이 서로 통합돼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
