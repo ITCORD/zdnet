@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 국제 학회서 초대규모 인공지능 윤리 주제로 워크숍]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220622142202</link>
+            <guid>https://zdnet.co.kr/view/?no=20220622142202</guid>
+            <pubDate>Wed, 22 Jun 2022 07:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 컴퓨터 공학 공정성 분야에서 대표적인 국제 학회인 'ACM FAccT(ACM Conference on Fairness, Accountability, and Transp...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 전통시장 디지털 전환 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622095236</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220621092131</guid>
             <pubDate>Tue, 21 Jun 2022 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[멜론의 브랜드 캠페인 '세상의 모든 TOP100'을 대체불가능토큰(NFT)으로 간직할 수 있는 기회가 열린다. 카카오엔터테인먼트(대표 이진수, 김성수)의 뮤직플랫폼 멜론은 이달...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 킨들-코믹솔로지 서비스 통합 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220621075254</link>
-            <guid>https://zdnet.co.kr/view/?no=20220621075254</guid>
-            <pubDate>Tue, 21 Jun 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[아마존이 전자책 서비스 '킨들'과 온라인 만화 플랫폼 '코믹솔로지'의 서비스 통합을 중단했다. 20일(현지시간) 엔가젯에 따르면, 코믹솔로지가 대대적인 서비스 개편에 들어간다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
