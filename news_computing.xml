@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 22:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 23:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 직원 동의 없이 CCTV 설치한 기업에 과태료 500만원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220623075013</link>
+            <guid>https://zdnet.co.kr/view/?no=20220623075013</guid>
+            <pubDate>Wed, 22 Jun 2022 23:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회는 지난 22일 정부서울청사에서 제11회 전체회의를 열고, 영상정보처리기기(CCTV)를 설치·운영하는 과정에서 개인정보 보호법을 위반한 9개 사업자 등에 총 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["디파이-스테이블코인, 금융규제 적용 안할 이유 없다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622172407</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220622113126</guid>
             <pubDate>Wed, 22 Jun 2022 04:29:31 GMT</pubDate>
             <content:encoded><![CDATA[최근 SK, 롯데, CJ, KT, 현대백화점그룹 등 대기업에서 대거 AI 기반 채용 서비스를 도입하고 있습니다. 자동으로 자기소개서를 검토하는 것을 넘어 이제는 대화를 통해 면...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국레드햇, 락플레이스와 사옥에 DX센터 설립]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220622113936</link>
-            <guid>https://zdnet.co.kr/view/?no=20220622113936</guid>
-            <pubDate>Wed, 22 Jun 2022 03:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇은 락플레이스(대표 서동식)와 함께 서울 한국레드햇 사옥에 '레드햇 서울 디지털 익스피리언스 센터(DX센터)를 설립했다고 22일 밝혔다. DX센터는 고객이 레드햇의 엔터프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
