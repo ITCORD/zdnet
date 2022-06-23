@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 07:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 08:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 디지털신문 광고, 2026년엔 종이광고 추월]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220623162802</link>
+            <guid>https://zdnet.co.kr/view/?no=20220623162802</guid>
+            <pubDate>Thu, 23 Jun 2022 08:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[오는 2026년이 되면 미국 디지털 신문 광고 규모가 종이신문 광고를 추월할 것이란 전망이 제기됐다. 미국 디지털 신문 광고 규모가 2026년에는 50억 달러에 이르면서 사상 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 성소수자 운영 기업 알려준다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220623075254</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220622010137</guid>
             <pubDate>Tue, 21 Jun 2022 23:12:01 GMT</pubDate>
             <content:encoded><![CDATA[암호화폐 가격이 하락하면서 중국 라이브커머스에서 그래픽카드 떨이에 나서는 채굴업자들이 포착됐다. 21일 중국 언론 IT즈자에 따르면 비트코인과 이더리움 등 암호화폐의 가격이 하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, '예고 없이 대량해고' 혐의로 피소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220621172828</link>
-            <guid>https://zdnet.co.kr/view/?no=20220621172828</guid>
-            <pubDate>Tue, 21 Jun 2022 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 최근 사전 통보 없이 직원을 대량 해고한 혐의로 피소됐다. 블룸버그, 로이터통신 등 외신은 20일(현지시간) 미국 네바다주 테슬라 배터리 공장에서 약 5년간 근무하다 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
