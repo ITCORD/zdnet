@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 00:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 화소 2억개 탑재한 이미지센서 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220623094243</link>
+            <guid>https://zdnet.co.kr/view/?no=20220623094243</guid>
+            <pubDate>Thu, 23 Jun 2022 03:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 23일 0.56마이크로미터(㎛) 크기의 픽셀 2억개를 탑재한 이미지센서 '아이소셀(ISOCELL) HP3'를 공개했다. 픽셀 크기를 기존 제품보다 12% 줄여 모바일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["반도체 칩 개발 R&D 지원 기간 짧다"…과제 선정 기준 '기술' 중요시 해야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220623032932</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220616162653</guid>
             <pubDate>Thu, 16 Jun 2022 08:18:17 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 국내 팹리스 스타트업에게 파운드리(위탁생산) 시제품 생산(MPW) 비용을 감면해주는 프로그램을 올해 최첨단 공정인 5나노미터(nm)까지 확대했다. 최근 몇 년간 반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 4세대 패스트 리커버리 다이오드 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616163426</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616163426</guid>
-            <pubDate>Thu, 16 Jun 2022 08:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 4세대 패스트 리커버리 다이오드(FRD) 'RFL·RFS시리즈'를 개발했다고 15일 밝혔다. FRD는 전원 효율을 높이는 부품이다. 로옴은 상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
