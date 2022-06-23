@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국에 LCD 1위 내준 한국…OLED는?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220623153544</link>
+            <guid>https://zdnet.co.kr/view/?no=20220623153544</guid>
+            <pubDate>Thu, 23 Jun 2022 07:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[BOE를 비롯한 중국 디스플레이 업체가 국가 지원을 등에 업고 유기발광다이오드(OLED) 시장에서도 빠르게 성장했다. BOE는 중국 최대 디스플레이 업체다. 액정표시장치(LCD...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 40V 대응 윈도우 리셋 IC 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220623140734</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620095946</guid>
             <pubDate>Mon, 20 Jun 2022 02:54:39 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 20일 오후 서울 관악구 서울대 반도체공동연구소에서 '디지털 신기술 인재 양성 혁신 공유 대학 차세대반도체·빅데이터 컨소시엄 현장 간담회'를 개최한다. 장상윤 교육부 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC "ASML 차세대 EUV장비 2024년 도입"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220617163303</link>
-            <guid>https://zdnet.co.kr/view/?no=20220617163303</guid>
-            <pubDate>Fri, 17 Jun 2022 08:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 업체인 대만 TSMC가 세계에서 네덜란드 ASML의 차세대 극자외선(EUV) 노광 장비 '하이 뉴메리컬어퍼처(NA) EUV'를 세계 최초로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
