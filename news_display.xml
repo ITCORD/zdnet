@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 장비 받으려면 '최대 2년6개월'…팹 증설 9개월 지연]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220623122041</link>
+            <guid>https://zdnet.co.kr/view/?no=20220623122041</guid>
+            <pubDate>Thu, 23 Jun 2022 05:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 제조 장비의 리드타임(발주부터 납품까지의 소요시간)이 또 늘어 최대 2년 6개월(30개월)을 기록한 것으로 나타났다. 이는 반도체 장비 업계 사상 최대 기록이다. 대규모...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 화소 2억개 탑재한 이미지센서 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220623094243</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["반도체 칩 개발 R&D 지원 기간 짧다"…과제 선정 기준 '기술' 중요시 해야]]></title>
+            <title><![CDATA["반도체 개발 R&D 지원 기간 짧다"…과제 선정 기준 '기술' 중요시 해야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220623032932</link>
             <guid>https://zdnet.co.kr/view/?no=20220623032932</guid>
             <pubDate>Thu, 23 Jun 2022 00:52:37 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220617105109</guid>
             <pubDate>Fri, 17 Jun 2022 03:02:28 GMT</pubDate>
             <content:encoded><![CDATA[인텔코리아는 지난 16일 '2022 인텔 로보틱스 서밋'을 개최하고, 로봇 솔루션 개발에 적용 가능한 엣지 AI 기술을 소개했다. 인텔코리아는 지난 2019년 국내 AI 기술 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 팹리스 스타트업 'MPW 비용 감면' 5나노까지 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220616162653</link>
-            <guid>https://zdnet.co.kr/view/?no=20220616162653</guid>
-            <pubDate>Thu, 16 Jun 2022 08:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 국내 팹리스 스타트업에게 파운드리(위탁생산) 시제품 생산(MPW) 비용을 감면해주는 프로그램을 올해 최첨단 공정인 5나노미터(nm)까지 확대했다. 최근 몇 년간 반도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
