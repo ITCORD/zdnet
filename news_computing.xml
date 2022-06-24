@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 04:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록체인 회사가 만든 스마트폰은 어떤 모습?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220624112652</link>
+            <guid>https://zdnet.co.kr/view/?no=20220624112652</guid>
+            <pubDate>Fri, 24 Jun 2022 05:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[미국 블록체인 개발사 솔라나가 23일(현지시간) 자체 개발한 스마트폰 사가(Saga)를 공개했다고 더버지 등 외신들이 보도했다. 아나톨리 야코벤코 솔라나 최고경영자(CEO)는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올플래시 스토리지, 성능 100%는 꿈인가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624114223</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623143858</guid>
             <pubDate>Thu, 23 Jun 2022 06:14:58 GMT</pubDate>
             <content:encoded><![CDATA[엔코아(대표 이화식)은 인공지능(AI)/데이터 교육센터 플레이데이터에서 K-디지털 트레이닝 수강생을 모집한다고 23일 밝혔다 플레이데이터는 엔코아의 교육센터로 다양한 정부지원S...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAS, 데이터 분석으로 제조업 디지털 전환 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623143634</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623143634</guid>
-            <pubDate>Thu, 23 Jun 2022 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2년간 코로나19 팬데믹에 대응해 전 세계 기업들이 디지털 투자를 확대하면서 디지털 기술을 기반으로 기업의 업무 환경, 고객 행동 및 경험 등을 혁신하는 것을 의미하는 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
