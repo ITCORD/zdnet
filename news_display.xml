@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 06:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 07:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 나노엣지 AI 스튜디오 업데이트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220624160532</link>
+            <guid>https://zdnet.co.kr/view/?no=20220624160532</guid>
+            <pubDate>Fri, 24 Jun 2022 07:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 24일 머신러닝 설계 소프트웨어 '나노엣지 인공지능(AI) 스튜디오'를 업데이트했다고 밝혔다. 나노엣지 AI 스튜디오를 사용하는 설계...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[WSJ "인텔, 오하이오 주 생산 시설 착공식 무기한 연기"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624082704</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220621102434</guid>
             <pubDate>Tue, 21 Jun 2022 03:07:54 GMT</pubDate>
             <content:encoded><![CDATA[시스템 반도체 디자인 솔루션 기업 코아시아는 일본 자동차에 전장용 애플리케이션 프로세서(AP)를 공급한다고 21일 밝혔다. 코아시아는 전장용 인포테인먼트 시스템(IVI)을 위한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네패스, 美 반도체혁신연합 가입...반도체 협력 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220621100705</link>
-            <guid>https://zdnet.co.kr/view/?no=20220621100705</guid>
-            <pubDate>Tue, 21 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[네패스가 글로벌 반도체 협력을 강화하기 위해 미국 반도체 혁신 연합(ASIC)에 가입한다고 21일 밝혔다. ASIC은 NSTC(National Semiconductor Tech...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
