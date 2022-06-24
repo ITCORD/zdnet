@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, '이미지센서' 원조 소니 아성 흔든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220624162722</link>
+            <guid>https://zdnet.co.kr/view/?no=20220624162722</guid>
+            <pubDate>Fri, 24 Jun 2022 09:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 2억 화소 CIS가 갖는 의미]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/23/b188ea711f6ede417311f537faa69abf-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT 개발자 몸값 더 오를 수밖에 없다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622092728</link>
@@ -261,14 +269,6 @@
             <pubDate>Fri, 04 Mar 2022 00:48:27 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] MWC22 핵심 화두와 신기술 트렌드]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/03/04/f1c6241f5e92073cf49331f55b634bdc-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정주 넥슨 창업주 별세...넥슨 경영권 어떻게 되나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220301223637</link>
-            <guid>https://zdnet.co.kr/view/?no=20220301223637</guid>
-            <pubDate>Tue, 01 Mar 2022 14:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 김정주 창업주 보유 지분 가치 2020년 기준 10조 원]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2013/07/08/eLDq7YeEUwDRh5B05d5i-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

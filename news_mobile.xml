@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, '이미지센서' 원조 소니 아성 흔든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220624162722</link>
+            <guid>https://zdnet.co.kr/view/?no=20220624162722</guid>
+            <pubDate>Fri, 24 Jun 2022 09:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 CMOS 이미지센서(CIS) 시장에서 1위인 소니와 점유율 격차를 매년 좁히며 순항 중이다. 최근 삼성전자는 소니보다 앞서 1억 화소 모바일용 이미지센서 출시 이어 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 프리미엄폰 시장 62% 점유...삼성은 16%]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624145729</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623011823</guid>
             <pubDate>Thu, 23 Jun 2022 00:51:13 GMT</pubDate>
             <content:encoded><![CDATA[중국 모토로라가 개발 중인 클램쉘형 차기 폴더블 스마트폰의 주요 스펙이 공개되면서 관심을 끌고 있다. 22일 중국 언론 중관춘짜이셴이 인용한 중국 IT 블로거(@리앙앙앙아)에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 환경부 지정 27년 연속 '먹는물 수질검사기관' 적합 판정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220622142730</link>
-            <guid>https://zdnet.co.kr/view/?no=20220622142730</guid>
-            <pubDate>Wed, 22 Jun 2022 07:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[코웨이는 자사 환경기술연구소가 먹는물 수질검사기관을 대상으로 실시한 2022년 정도관리 평가에서 27년 연속 적합 판정을 받았다고 22일 밝혔다. 환경부가 지정하는 먹는물 수질...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
