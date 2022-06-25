@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 20:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 21:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSG닷컴 "요즘 캠핑 이렇게 한다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220625110022</link>
+            <guid>https://zdnet.co.kr/view/?no=20220625110022</guid>
+            <pubDate>Sat, 25 Jun 2022 21:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[엔데믹 전환과 본격 휴가철을 앞둔 가운데, '캠핑' 트렌드와 관련된 인기 상품은 뭘까. SSG닷컴은 올 상반기 집계한 캠핑용품 판매 데이터를 분석해 도출한 상품 트렌드를 26일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/25/0d7e7b963629df02b068b166c253f1ea-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마인즈랩, 클라우드 AI 플랫폼 '휴먼AI' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220625130424</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220624105533</guid>
             <pubDate>Sat, 25 Jun 2022 00:58:56 GMT</pubDate>
             <content:encoded><![CDATA[컴투스홀딩스(대표 이용국)는 수집형 RPG '워킹데드: 올스타즈'의 첫번째 업데이트를 실시했다. 회사 측은 지난 8일 '워킹데드: 올스타즈'를 출시한 이후 개선사항들을 빠르게 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/24/ddb548ee753c1c13185013edb58c79ad-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 낙태금지법 허용, IT 기업에도 직격탄]]></title>
@@ -88,19 +96,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, '이미지센서' 원조 소니 아성 흔든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624162722</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624162722</guid>
-            <pubDate>Fri, 24 Jun 2022 09:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 CMOS 이미지센서(CIS) 시장에서 1위인 소니와 점유율 격차를 매년 좁히며 순항 중이다. 최근 삼성전자는 소니보다 앞서 1억 화소 모바일용 이미지센서 출시 이어 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[유니네트워크, 메타버스 기반 ESG 활성화 방안 제시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624171752</link>
             <guid>https://zdnet.co.kr/view/?no=20220624171752</guid>
             <pubDate>Fri, 24 Jun 2022 09:11:08 GMT</pubDate>
             <content:encoded><![CDATA[공기 질 개선을 위한 블록체인 플랫폼 '퓨리에버' 운영사인 유니네트워크(대표 이상권)는 한국공공관리학회와 중앙대 국가정책연구소가 24일 서울 프레스센터에서 공동 개최하는 하계학...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, '이미지센서' 원조 소니 아성 흔든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220624162722</link>
+            <guid>https://zdnet.co.kr/view/?no=20220624162722</guid>
+            <pubDate>Fri, 24 Jun 2022 09:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 CMOS 이미지센서(CIS) 시장에서 1위인 소니와 점유율 격차를 매년 좁히며 순항 중이다. 최근 삼성전자는 소니보다 앞서 1억 화소 모바일용 이미지센서 출시 이어 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220624160532</guid>
             <pubDate>Fri, 24 Jun 2022 07:10:33 GMT</pubDate>
             <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 24일 머신러닝 설계 소프트웨어 '나노엣지 인공지능(AI) 스튜디오'를 업데이트했다고 밝혔다. 나노엣지 AI 스튜디오를 사용하는 설계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 장기 후유증, 여성이 남성에 비해 22% 높아]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624153212</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624153212</guid>
-            <pubDate>Fri, 24 Jun 2022 07:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[여성이 남성보다 코로나19의 증상을 장기적으로 겪을 가능성이 훨씬 높다는 연구가 발표됐다. 존슨앤존슨 여성건강의학부에서 130만명의 코로나19 환자 데이터를 분석한 결과이다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

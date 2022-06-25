@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 20:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 21:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSG닷컴 "요즘 캠핑 이렇게 한다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220625110022</link>
+            <guid>https://zdnet.co.kr/view/?no=20220625110022</guid>
+            <pubDate>Sat, 25 Jun 2022 21:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[엔데믹 전환과 본격 휴가철을 앞둔 가운데, '캠핑' 트렌드와 관련된 인기 상품은 뭘까. SSG닷컴은 올 상반기 집계한 캠핑용품 판매 데이터를 분석해 도출한 상품 트렌드를 26일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/25/0d7e7b963629df02b068b166c253f1ea-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마인즈랩, 클라우드 AI 플랫폼 '휴먼AI' 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220625130424</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220624105533</guid>
             <pubDate>Sat, 25 Jun 2022 00:58:56 GMT</pubDate>
             <content:encoded><![CDATA[컴투스홀딩스(대표 이용국)는 수집형 RPG '워킹데드: 올스타즈'의 첫번째 업데이트를 실시했다. 회사 측은 지난 8일 '워킹데드: 올스타즈'를 출시한 이후 개선사항들을 빠르게 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/24/ddb548ee753c1c13185013edb58c79ad-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 낙태금지법 허용, IT 기업에도 직격탄 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -88,19 +96,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, '이미지센서' 원조 소니 아성 흔든다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624162722</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624162722</guid>
-            <pubDate>Fri, 24 Jun 2022 09:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 CMOS 이미지센서(CIS) 시장에서 1위인 소니와 점유율 격차를 매년 좁히며 순항 중이다. 최근 삼성전자는 소니보다 앞서 1억 화소 모바일용 이미지센서 출시 이어 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[유니네트워크, 메타버스 기반 ESG 활성화 방안 제시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624171752</link>
             <guid>https://zdnet.co.kr/view/?no=20220624171752</guid>
             <pubDate>Fri, 24 Jun 2022 09:11:08 GMT</pubDate>
             <content:encoded><![CDATA[공기 질 개선을 위한 블록체인 플랫폼 '퓨리에버' 운영사인 유니네트워크(대표 이상권)는 한국공공관리학회와 중앙대 국가정책연구소가 24일 서울 프레스센터에서 공동 개최하는 하계학...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, '이미지센서' 원조 소니 아성 흔든다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220624162722</link>
+            <guid>https://zdnet.co.kr/view/?no=20220624162722</guid>
+            <pubDate>Fri, 24 Jun 2022 09:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 CMOS 이미지센서(CIS) 시장에서 1위인 소니와 점유율 격차를 매년 좁히며 순항 중이다. 최근 삼성전자는 소니보다 앞서 1억 화소 모바일용 이미지센서 출시 이어 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220624160532</guid>
             <pubDate>Fri, 24 Jun 2022 07:10:33 GMT</pubDate>
             <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 24일 머신러닝 설계 소프트웨어 '나노엣지 인공지능(AI) 스튜디오'를 업데이트했다고 밝혔다. 나노엣지 AI 스튜디오를 사용하는 설계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 장기 후유증, 여성이 남성에 비해 22% 높아 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624153212</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624153212</guid>
-            <pubDate>Fri, 24 Jun 2022 07:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[여성이 남성보다 코로나19의 증상을 장기적으로 겪을 가능성이 훨씬 높다는 연구가 발표됐다. 존슨앤존슨 여성건강의학부에서 130만명의 코로나19 환자 데이터를 분석한 결과이다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2143,6 +2143,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[SSG닷컴 "요즘 캠핑 이렇게 한다" (지디넷코리아 ─ 유통)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220625110022</link>
+            <guid>https://zdnet.co.kr/view/?no=20220625110022</guid>
+            <pubDate>Sat, 25 Jun 2022 21:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[엔데믹 전환과 본격 휴가철을 앞둔 가운데, '캠핑' 트렌드와 관련된 인기 상품은 뭘까. SSG닷컴은 올 상반기 집계한 캠핑용품 판매 데이터를 분석해 도출한 상품 트렌드를 26일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/25/0d7e7b963629df02b068b166c253f1ea-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쿠팡, 물티슈 등 유아 필수템 특가 판매 (지디넷코리아 ─ 유통)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624085700</link>
             <guid>https://zdnet.co.kr/view/?no=20220624085700</guid>
@@ -2164,7 +2172,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220623094754</guid>
             <pubDate>Thu, 23 Jun 2022 00:56:14 GMT</pubDate>
             <content:encoded><![CDATA[취향 셀렉트숍 29CM(이십구센티미터)가 브랜드 캠페인 효과로 지난 4, 5월 거래액이 전년 대비 85% 성장했다. 월간 활성자 수(MAU)와 신규 방문자 수는 약 2배 뛰었다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/23/a721a3697090ba8056d5d0e8c7a20a96-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이베이, NFT 마켓플레이스 '노운오리진' 인수 (지디넷코리아 ─ 유통)]]></title>
@@ -2292,14 +2300,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220620085430</guid>
             <pubDate>Mon, 20 Jun 2022 01:01:28 GMT</pubDate>
             <content:encoded><![CDATA[지마켓·옥션이 지난 2월 도입한 새벽배송 서비스가 성장세다. 특히 휴대폰, 드라이기, 전기면도기 등 소형 디지털기기가 인기 주문 품목에 이름을 올리며, 신선식품 위주였던 새벽배...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SSG닷컴, 스타벅스 한정판 '랜더스벅' 유니폼 판매 (지디넷코리아 ─ 유통)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220620084519</link>
-            <guid>https://zdnet.co.kr/view/?no=20220620084519</guid>
-            <pubDate>Mon, 20 Jun 2022 01:01:28 GMT</pubDate>
-            <content:encoded><![CDATA[SSG닷컴은 20일 정오부터 SSG랜더스와 스타벅스(SCK컴퍼니)가 협업해 출시한 '랜더스벅' 유니폼과 모자, 마킹지를 독점 판매한다. 지난해 5월 쓱닷컴에서 단독 판매했던 랜...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2666,7 +2666,7 @@
             <title><![CDATA[누리호 2단 분리 성공 (지디넷코리아 ─ 과학)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Sat, 25 Jun 2022 20:17:55 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 21:14:31 GMT</pubDate>
             <content:encoded><![CDATA[누리호가 발사 후 4분 37초가 지나 2단 분리에 성공했다. 이제 700㎞ 고도에서 성능검증위성과 위성모사체를 분리해 궤도에 안착시키는 임무가 남았다....]]></content:encoded>
         </item>
     </channel>
