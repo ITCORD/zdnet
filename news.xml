@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 03:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마인즈랩, 클라우드 AI 플랫폼 '휴먼AI' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220625130424</link>
+            <guid>https://zdnet.co.kr/view/?no=20220625130424</guid>
+            <pubDate>Sat, 25 Jun 2022 04:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[마인즈랩은 AI플랫폼인 마음AI(maum.ai) 기반 휴먼AI의 클라우드 플랫폼을 론칭했다고 25일 밝혔다. 24일 경기스타트업캠퍼스에서 열린 휴먼AI 클라우드 플랫폼 오픈 행...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/25/0e3562ddee8e48cd60c8da4ed038d66d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오VX '프렌즈아카데미', GS마이샵 창업 상담 방송 안내]]></title>
             <link>https://zdnet.co.kr/view/?no=20220624105943</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220625083656</guid>
             <pubDate>Sat, 25 Jun 2022 00:58:56 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방대법원이 여성의 임신중단(낙태) 권리를 보장한 '로 대 웨이드' 판결을 뒤집으면서 구글, 메타를 비롯한 IT 기업들도 비상이 걸렸다. 연방 차원의 낙태권 보장이 파기되...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2016/05/04/sini_iuf9gQEbi9y8yNR-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[놀면서 일하는 '워케이션' 근무 뜬다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220624153212</guid>
             <pubDate>Fri, 24 Jun 2022 07:10:33 GMT</pubDate>
             <content:encoded><![CDATA[여성이 남성보다 코로나19의 증상을 장기적으로 겪을 가능성이 훨씬 높다는 연구가 발표됐다. 존슨앤존슨 여성건강의학부에서 130만명의 코로나19 환자 데이터를 분석한 결과이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국로봇산업진흥원, '로봇 활용 제조 혁신 지원사업' 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624155001</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624155001</guid>
-            <pubDate>Fri, 24 Jun 2022 07:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[한국로봇산업진흥원이 대구 엑스코에서 '2022년 로봇활용 제조혁신 지원사업 선정기업 통합 교육'을 진행했다고 24일 밝혔다. 이번 사업은 중소벤처기업부에서 시행 중인 'ICT융...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
