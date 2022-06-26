@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 04:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 05:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가정보자원관리원, 국내 중기 IT 제품에 기술검증 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220626133856</link>
+            <guid>https://zdnet.co.kr/view/?no=20220626133856</guid>
+            <pubDate>Sun, 26 Jun 2022 05:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부 국가정보자원관리원은 공공 정보기술 기반 시설(IT 인프라)을 활용해, 중소 IT기업 제품의 우수성을 검증하고 해당 제품의 기능·성능 고도화를 지원할 수 있는 체계를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마인즈랩, 클라우드 AI 플랫폼 '휴먼AI' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220625130424</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623172112</guid>
             <pubDate>Thu, 23 Jun 2022 09:11:42 GMT</pubDate>
             <content:encoded><![CDATA["지금까지 쿠키만 잘 활용해도 타깃 고객에 도달하는 게 어렵지 않았다. 하지만 이제 쿠키 없는 세상이 오고 있다. 인공지능(AI)을 통해 고객 관심사를 이해하고 다음 행동을 예...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IT서비스기업, 물류 시장 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623173633</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623173633</guid>
-            <pubDate>Thu, 23 Jun 2022 09:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[IT서비스기업들이 인공지능, 로봇 등 디지털 혁신 기술 기반으로 스마트 물류 플랫폼 사업에 박차를 가한다. 전문 IT인력과 기술력 부족으로 디지털 전환이 더딘 물류 업계에 기회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
