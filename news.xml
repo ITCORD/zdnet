@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 03:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 04:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세가, 메가드라이브 미니2 전용 컨트롤러 '사이버스틱' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220626121508</link>
+            <guid>https://zdnet.co.kr/view/?no=20220626121508</guid>
+            <pubDate>Sun, 26 Jun 2022 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[세가는 신형 레트로 콘솔 메가드라이브 미니2 전용 컨트롤러 사이버스틱을 지난 24일 공개했다. 사이버스틱은 1990년대 초반 샤프가 출시한 메가드라이브용 주변기기다. 이번에 공...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/26/93f44d502b719a4984a7d58e4cae80fb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스로 구현하는 스마트시티 아이디어 뽑는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220626120118</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220626103440</guid>
             <pubDate>Sun, 26 Jun 2022 03:13:13 GMT</pubDate>
             <content:encoded><![CDATA[도시는 점점 더 복잡해지고 있다. 세계 주요 도시들은 심각한 교통체증에서 벗어나기 위해 지상을 중심으로 한 2차원 도로 체계를 3차원으로 확장해야 한다고 보고 있다. 그런 배경...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/24/83dbb4b9ee7acecd4118bd9fd1efa800-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[G7 정상, 러시아 금 수출통제 논의]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220626091403</guid>
             <pubDate>Sun, 26 Jun 2022 00:59:18 GMT</pubDate>
             <content:encoded><![CDATA[티몬이 27일부터 30일까지 4일간 올해 상반기 인기 상품들을 모아 최대 40% 할인 혜택과 함께 선보이는 '2022 상반기 베스트 어워즈' 행사를 진행한다. 티몬은 다양한 쇼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배민 찜수 1위 '스시도쿠'는 KT 잘나가게를 어떻게 활용했나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220625102034</link>
-            <guid>https://zdnet.co.kr/view/?no=20220625102034</guid>
-            <pubDate>Sun, 26 Jun 2022 00:59:18 GMT</pubDate>
-            <content:encoded><![CDATA[서울 성동구 한양대 앞에 위치한 작은 초밥집 스시도쿠는 코로나19 상황에도 매출이 40% 이상 성장했다. 배달 애플리케이션인 '배달의민족'에서 즐겨찾기 기능인 찜수는 1위를 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
