@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 06:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, AI반도체 연구개발에 5년간 1조 투입...전문인력 7천명도 양성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627142619</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627142619</guid>
+            <pubDate>Mon, 27 Jun 2022 06:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 반도체 초격차 기술력을 확보하기 위해 향후 5년 간 1조200억원을 투입한다. 또 차세대 반도체 상용화를 위한 민관 협력을 추진하고, AI 반도체 전문인력 7천...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NXP반도체, 스마트카 프로세서 신제품 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220627111332</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220622165109</guid>
             <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
             <content:encoded><![CDATA[LG이노텍은 대학생을 대상으로 유튜브 광고 공모전을 개최한다고 22일 밝혔다. 주제는 LG이노텍을 알릴 수 있는 소재다. 광학 솔루션, 기판 소재, 전자장비 부품 분야 LG이노...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 자동차 디지털키 SoC 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220622134846</link>
-            <guid>https://zdnet.co.kr/view/?no=20220622134846</guid>
-            <pubDate>Wed, 22 Jun 2022 05:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[스위스 반도체 회사 ST마이크로일렉트로닉스는 22일 자동차 디지털키에 들어가는 시스템온칩(SoC) 솔루션 'STSAFE-VJ100-CCC'를 선보였다. 차 열쇠가 없어도 모바일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
