@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 06:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 07:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] 통신서비스 피해구제 '10배 보상'의 함정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627125957</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627125957</guid>
+            <pubDate>Mon, 27 Jun 2022 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회가 통신서비스 중단 사고로 인한 이용자 피해구제의 실용성을 확보하기 위해 다음 달 통신사의 이용약관을 개선한다고 밝혔다. 하지만 개선된 이용약관이 피해자에게 충분한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022 양자정보주간 열린다..."함께 만드는 양자기술 강국"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220627103816</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623160215</guid>
             <pubDate>Fri, 24 Jun 2022 00:56:27 GMT</pubDate>
             <content:encoded><![CDATA["가장 중요하게 생각했던 건 속도다. 디지털 경쟁 시대에서 가장 중요한 건 스피드라고 생각한다. 요즘에는 앱이든 서비스든 100% 만족이란 없다. 80% 정도 만족했을 때 일단...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 에이블스쿨 수료생, 고용노동부 IT경진대회 대상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624091834</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624091834</guid>
-            <pubDate>Fri, 24 Jun 2022 00:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[KT(대표 구현모)는 청년 디지털 인재양성 프로그램 '에이블스쿨' 수료생들이 고용노동부 주관 'K-디지털 트레이닝 해커톤'에 출전해 대상과 우수상을 차지했다고 24일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
