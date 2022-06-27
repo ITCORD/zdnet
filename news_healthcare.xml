@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진자 3429명…서울 500명대로 급감]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627113141</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627113141</guid>
+            <pubDate>Mon, 27 Jun 2022 03:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 코로나19 확진자가 급감하며 전일 신규 확진자가 3천명대를 기록했다. 중앙방역대책본부에 따르면 6월27일 0시 기준 코로나19 신규확진자는 국내발생 3천315명(최근 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK바이오사이언스 코로나19 백신 품목허가 임박]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627103508</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627103508</guid>
+            <pubDate>Mon, 27 Jun 2022 03:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[SK바이오사이언스가 개발한 코로나19 백신의 품목허가가 이달 중 나올 것으로 보인다. 식품의약품안전처(이하 식약처)는 SK바이오사이언스가 국내에서 개발·제조하는 코로나19 백신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나트륨 섭취량 3700㎎, WHO의 권고 상한치의 2배 가까워]]></title>
             <link>https://zdnet.co.kr/view/?no=20220627094514</link>
@@ -27,7 +43,7 @@
             <title><![CDATA[시신 기증자 식별정보 보호를 위한 가이드라인 추가]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</guid>
-            <pubDate>Mon, 27 Jun 2022 01:03:59 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 03:21:20 GMT</pubDate>
             <content:encoded><![CDATA[질병관리청 국립보건연구원은 '시체 해부 및 보존 등에 관한 법률'(시체해부법)에 따라 연구목적으로 시체 일부를 제공할 수 있는 '연구목적 시체제공기관'의 허가 및 운영관리에 필...]]></content:encoded>
         </item>
         <item>
@@ -148,22 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623144828</guid>
             <pubDate>Thu, 23 Jun 2022 06:16:18 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처와 한국소비자단체협의회는 1,2,4-트리하이드록시벤젠(이하 THB)에 대한 추가 위해평가를 진행하기 위한 '위해평가 검증위원회'(가칭)의 운영을 한국소비자단체협의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 폐암, 전립선암에 걸릴 가능성 얼마일까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623133425</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623133425</guid>
-            <pubDate>Thu, 23 Jun 2022 05:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[한암협회는 일반인의 폐암·전립선암 검진 여부 판단에 도움을 주는 웹 기반의 '의사 결정 도구(Decision aid)'를 개발했다고 23일 밝혔다. 대한민국 성인 남성 3명 가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 7497명…"올여름 코로나19 재유행 위험 예방접종해야”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623103023</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623103023</guid>
-            <pubDate>Thu, 23 Jun 2022 03:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[23일 0시 기준 국내 코로나19 확진자 수가 7천497명으로 집계됐다. 방역당국은 올여름 코로나19 재유행이 전망되는 만큼 예방접종 참여를 당부했다. 중앙방역대책본부에 따르면...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
