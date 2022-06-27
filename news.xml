@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 10:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 11:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딜로이트, 재무·회계 리스크 관리 자동화/비용절감 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627195047</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627195047</guid>
+            <pubDate>Mon, 27 Jun 2022 11:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[한국 딜로이트 그룹(대표 홍종성)은 재무∙회계 리스크 관리 업무 자동화분야 시장 선도를 위해 기업용 솔루션 ▲데이타스(DATAS) ▲디아스(DIAS) 2종을 출시한다고 27일 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/27/3b1edc093a2e6bf081c02373b4ec7306-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이종호 장관, 통신 3사 CEO와 내달 11일 첫 회동]]></title>
             <link>https://zdnet.co.kr/view/?no=20220627175143</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220627171501</guid>
             <pubDate>Mon, 27 Jun 2022 09:11:24 GMT</pubDate>
             <content:encoded><![CDATA[구글과 애플이 인앱결제 강제를 금지하는 국내 전기통신사업법을 무시하고 있는 가운데, 제3자결제 수수료율 26%에 대한 문제제기도 이뤄지고 있다. 법무법인 태평양의 박지연 변호사...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/27/6e15f5d7a8e644f15185de2bda9a17cb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨 마비노기, 여름 업데이트 계획 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220627152818</guid>
             <pubDate>Mon, 27 Jun 2022 08:23:14 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전 주가가 LG전자의 전기차 충전 솔루션 사업 진출 소식에 강세를 보였다. 27일 LG헬로비전 주가는 전날 종가인 5천30원에서 10.54% 상승한 5천560원으로 마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["로그4j 취약점 이용한 해킹 공격 여전히 극성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220627161501</link>
-            <guid>https://zdnet.co.kr/view/?no=20220627161501</guid>
-            <pubDate>Mon, 27 Jun 2022 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 발견돼 전 세계를 사이버위협 공포로 몰아 넣은 '로그4j 취약점(로그4셸)'이 여전히 해킹 공격에 활발히 악용되고 있는 것으로 나타났다. 미국 사이버 보안 담당 기관인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
