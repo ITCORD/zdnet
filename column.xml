@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 23:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 01:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI의 기본 쉽게 이해하기 2-2]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627092819</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627092819</guid>
+            <pubDate>Mon, 27 Jun 2022 01:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷을 통한 AI 학습데이터를 활용한 사례 중 유의해야 하면서도 흥미로운 사례를 소개한다면, 몇 년 전 야심 차게 개인 채팅앱으로 출시했다가 논란을 일으키고 중단했던 이루다를 들 수 있다. 지금은 기능을 개선해 시험 서비스를 재개했다.이루다는 개인이 심심할 때 들어가서 AI 친구와 어떠한 대화이든 채팅을 할 수 있는 인공지능 채팅 서비스다.혼자 외로운 사람이거나 사람과의 대화보다는 AI와의...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/27/1879ea71657ba2ae47d8a078170f9c2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 우리는 왜 달에 가야 하는가?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220622093847</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 May 2022 17:18:10 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)을 도입한다는 것은 기존 전사적 자원 관리(ERP)나 정보시스템과 같은 시스템을 도입하여 운영하는 것과는 차원이 다르다.&nbsp;끊임없이 AI의 알고리즘을 개발하고 업그레이드하고, 만져주고 새로운 데이터를 계속 제공하여 주지 않으면 순식간에 식상한 시스템이 되어버린다.말 그대로 AI란 인간이 생각하고 행동하는 것을 그대로 컴퓨터 알고리즘으로 옮겨놓은 매우 인간적인 프로그램이기...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/05/16/1c7d5ced0da963ca6ed799607030fab7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 디지털플랫폼 정부 성공 요인 3가지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220515214105</link>
-            <guid>https://zdnet.co.kr/view/?no=20220515214105</guid>
-            <pubDate>Sun, 22 May 2022 17:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;새 정부 국정과제 중 하나인 ‘디지털 플랫폼 정부’는 모든 정부 부처를 하나로 연결해 신속하고 투명하고 효율적인 행정 서비스를 제공하자는 것이다. 이를 위해 ‘원 사이트 토털 서비스'를 구현해 국민이 하나의 사이트에 접속해 모든 정보와 민원을 처리할 수 있도록 하고, 국민 개개인에게 고유한 계정을 부여하는 '마이 AI(인공지능) 포털'을 도입해 각 계정에 복지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/15/792faf6fd062625c492cdb921f50fdf2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
