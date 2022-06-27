@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이종호 장관, 통신 3사 CEO와 내달 11일 첫 회동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220627175143</link>
+            <guid>https://zdnet.co.kr/view/?no=20220627175143</guid>
+            <pubDate>Mon, 27 Jun 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관과 통신 3사 CEO가 7월11일 첫 회동을 갖는다. 앞서 내달 7일 회동 일정이 논의됐으나 일정 등의 이유로 11일로 가닥을 잡았다. 27일 업계...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/27/1203c7b2d285db1d0a6c0699f1574c74-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국토부, 건설분야 첨단 안전기술 활용 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20220627180633</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220627173051</guid>
             <pubDate>Mon, 27 Jun 2022 09:11:24 GMT</pubDate>
             <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 온라인게임 '마비노기'의 오프라인 쇼케이스 '판타스틱 데이'를 열고 올 여름 업데이트 계획 및 이벤트 소식을 공개했다고 27일 밝혔다. '판타스틱 데...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/27/7ca82278b7094eadf6f47e5790eee463-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[원화 비지원 거래소 "금감원 협의회 배제, 독과점 심화 유도"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220627161501</guid>
             <pubDate>Mon, 27 Jun 2022 08:23:14 GMT</pubDate>
             <content:encoded><![CDATA[지난해 발견돼 전 세계를 사이버위협 공포로 몰아 넣은 '로그4j 취약점(로그4셸)'이 여전히 해킹 공격에 활발히 악용되고 있는 것으로 나타났다. 미국 사이버 보안 담당 기관인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 '아크' GPU, 하반기 노트북 타깃 보급에 속도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220627154700</link>
-            <guid>https://zdnet.co.kr/view/?no=20220627154700</guid>
-            <pubDate>Mon, 27 Jun 2022 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 2년간 자체 개발해 지난 3월 말부터 시장에 투입중인 '아크(ARC)' 그래픽칩셋이 올 하반기 모바일(노트북)용 칩 중심으로 보급에 속도를 낼 전망이다. 현재 인텔은 아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
