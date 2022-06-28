@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 22:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 23:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSG닷컴, 배송기사 기사 전원에 '쓱 쿨키트' 지급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629080315</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629080315</guid>
+            <pubDate>Tue, 28 Jun 2022 23:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[SSG닷컴이 혹서기를 앞두고 온열질환 예방 키트를 배송기사 전원에게 지급하는 등 물류센터 근무자의 건강관리에 만전을 기한다. SSG닷컴은 온열질환 예방을 위해 김포, 용인에 위...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/29/444fe68113692f85c9c597ba47283063-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가스공사, 위법·부당 노조 행위에 엄정 대처하기로]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629070854</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220628164350</guid>
             <pubDate>Tue, 28 Jun 2022 20:12:01 GMT</pubDate>
             <content:encoded><![CDATA[9월부터 주택의 구입‧임차를 위한 금융부채가 건강보험료 부과 대상에서 제외돼 가입자의 부담이 낮아질 것으로 보인다. 이에 대상자와 적용시기, 공제금액 등에 대해 문답 형식으로 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/07/12/0a4294f19727929fb4668951290b0508-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[9월부터 주택금융부채 건강보험료 부과 대상에서 제외]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220628143829</guid>
             <pubDate>Tue, 28 Jun 2022 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA["금융이라는건 금리와 한도와 같은 계량적인 조건으로 구성된다고 생각하지 않는다. 금융 상품을 가입하고 사용하는 근원적 동기를 고려해야 하며 그 과정서 '결핍'이 있다면 이를 해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무 임직원, '양평 치유의 숲'에 나무 식수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220628171644</link>
-            <guid>https://zdnet.co.kr/view/?no=20220628171644</guid>
-            <pubDate>Tue, 28 Jun 2022 09:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무(대표 이석우)는 임직원, 가족과 함께 국립 양평 치유의 숲에서 교통 약자를 위한 숲 조성 봉사활동을 진행했다고 28일 밝혔다. 두나무는 사명...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
