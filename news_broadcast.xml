@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에릭슨엘지 "올해 세계 5G 가입건수 10억 넘는다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220628130517</link>
+            <guid>https://zdnet.co.kr/view/?no=20220628130517</guid>
+            <pubDate>Tue, 28 Jun 2022 06:22:32 GMT</pubDate>
+            <content:encoded><![CDATA["올해 세계 5G 가입건수가 10억 건을 돌파할 것으로 전망된다. 특히 한국을 포함한 동북아 지역이 5G 초기 가입건수를 견인하고 있다." 박병성 에릭슨엘지 수석 네트워크 컨설...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[PP진흥협회, 우수 중소PP 10곳 제작비 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220628135923</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220627090703</guid>
             <pubDate>Mon, 27 Jun 2022 01:00:59 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤(대표 유영상)은 차세대 지능형 교통 시스템인 C-ITS 실증사업 일환으로 진행된 서울시 상암지역 자율주행차 시범운행지구 확대 구축을 성공적으로 마무리 했다고 27일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 팀프레시 2대 주주로...553억원 지분 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220627090112</link>
-            <guid>https://zdnet.co.kr/view/?no=20220627090112</guid>
-            <pubDate>Mon, 27 Jun 2022 01:00:59 GMT</pubDate>
-            <content:encoded><![CDATA[KT(대표 구현모)가 콜드체인 전문 물류 기업인 팀프레시에 553억원을 투자, 지분 약 11.4%를 취득해 2대 주주 지위를 확보했다고 27일 밝혔다. 팀프레시는 2018년 설...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
