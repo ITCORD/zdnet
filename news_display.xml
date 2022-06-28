@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 23:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 01:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["삼성, BMW에 OLED 패널 100만장 공급키로"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220628094444</link>
+            <guid>https://zdnet.co.kr/view/?no=20220628094444</guid>
+            <pubDate>Tue, 28 Jun 2022 01:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[중국 정보기술(IT) 매체 기즈차이나는 27일(현지시간) 삼성디스플레이가 독일 자동차 회사 BMW에 차량용 유기발광다이오드(OLED) 디스플레이 패널 100만장을 공급하기로 합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴, 와이파이6E·블루투스 지원 RF 프론트엔드 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220628093303</link>
+            <guid>https://zdnet.co.kr/view/?no=20220628093303</guid>
+            <pubDate>Tue, 28 Jun 2022 01:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 와이파이6E·블루투스를 지원하는 RF 프론트엔드 모듈을 공개했다. 이번에 공개된 RF 프론트엔드 모듈은 현행 표준인 와이파이6E와 차세대 표준인 와이파이7용으로 설계되었...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, AI반도체 연구개발에 5년간 1조 투입...전문인력 7천명도 양성]]></title>
             <link>https://zdnet.co.kr/view/?no=20220627142619</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220622173936</guid>
             <pubDate>Wed, 22 Jun 2022 21:12:06 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 참조표준을 생산하는 데이터센터 모집 설명회를 23일 서울 용산 드래곤시티호텔에서 개최한다. 참조표준은 국가가 측정 정보 정확도와 신뢰도를 과학적으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TI, 블루투스 저전력 무선 MCU 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220622171930</link>
-            <guid>https://zdnet.co.kr/view/?no=20220622171930</guid>
-            <pubDate>Wed, 22 Jun 2022 09:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[텍사스인스트루먼트(TI)는 22일 블루투스 저전력(LE) 무선 마이크로컨트롤러(MCU) 'CC2340'을 출시했다. 'CC2340R2'와 'CC2340R5' 무선 MCU는 각각...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 대학생 유튜브 광고 공모전 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220622165109</link>
-            <guid>https://zdnet.co.kr/view/?no=20220622165109</guid>
-            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[LG이노텍은 대학생을 대상으로 유튜브 광고 공모전을 개최한다고 22일 밝혔다. 주제는 LG이노텍을 알릴 수 있는 소재다. 광학 솔루션, 기판 소재, 전자장비 부품 분야 LG이노...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
