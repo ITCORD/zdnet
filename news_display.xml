@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 12:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arm, 성능·효율 높인 컴퓨트 솔루션 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629174418</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629174418</guid>
+            <pubDate>Wed, 29 Jun 2022 13:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[영국 반도체 설계자산(IP) 회사 Arm이 새로운 IP 접근법 '2022년 종합 컴퓨트 솔루션(TCS22)'을 선보였다. 새로운 그래픽처리장치(GPU) '이모탈리스(Immort...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미디어텍, 美 인디애나주 지원 받고 R&D 센터 설립한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629180607</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220624160532</guid>
             <pubDate>Fri, 24 Jun 2022 07:13:03 GMT</pubDate>
             <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 24일 머신러닝 설계 소프트웨어 '나노엣지 인공지능(AI) 스튜디오'를 업데이트했다고 밝혔다. 나노엣지 AI 스튜디오를 사용하는 설계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WSJ "인텔, 오하이오 주 생산 시설 착공식 무기한 연기"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220624082704</link>
-            <guid>https://zdnet.co.kr/view/?no=20220624082704</guid>
-            <pubDate>Fri, 24 Jun 2022 00:58:07 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 지난 22일(이하 현지시간) 미국 오하이오 주에서 열릴 예정이었던 반도체 생산시설 착공식을 무기한 연기한 것으로 나타났다. 월스트리트저널이 23일 이 같이 보도했다. 인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
