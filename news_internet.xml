@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 08:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타-서울대, '확장현실 허브 코리아' 발족]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629152927</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629152927</guid>
+            <pubDate>Wed, 29 Jun 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[“한국은 여타 국가들 대비, 빠르게 신기술을 수용하고 혁신을 선도하는 나라다. 메타버스는 한 회사가 독자적으로 구축할 수 있는 영역이 아니다. 정부, 학계, 그리고 기업들이 나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 스타트업 캠퍼스 서울 2년 만에 재개관]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629114700</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220628080819</guid>
             <pubDate>Tue, 28 Jun 2022 01:01:53 GMT</pubDate>
             <content:encoded><![CDATA[네이버(대표 최수연)가 쇼핑몰 MD(Merchandiser)처럼 고객의 구매 의도를 파악해 상품을 전시하고 추천하는 AI를 커머스솔루션마켓에 공개했다. 네이버쇼핑 서비스 내 쇼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 알리바바, L4급 자율주행 '트럭' 테스트 면허 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220628001936</link>
-            <guid>https://zdnet.co.kr/view/?no=20220628001936</guid>
-            <pubDate>Tue, 28 Jun 2022 01:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[중국 알리바바가 자율주행하는 트럭을 개발해 도로에서 주행 테스트에 나선다. 27일 중국 언론 신랑커지에 따르면 알리바바가 저장성 더칭에서 발급한 중국 첫 L4급 무인 자율주행 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

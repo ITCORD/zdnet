@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 08:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나노종기원, 삼성 보유한 12인치 반도체장비 도입…소부장 자립 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629163116</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629163116</guid>
+            <pubDate>Wed, 29 Jun 2022 08:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[나노종합기술원이 삼성에서 보유한 12인치(300mm) 반도체 장비 3대를 나노팹에 이전 설치한다고 29일 밝혔다. 반도체 테스트베드 기반의 소부장 서비스 영역을 확대하고 시스템...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 내년 파운드리 가격 6% 인상…3년 연속 올려]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629105301</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623171533</guid>
             <pubDate>Thu, 23 Jun 2022 09:12:58 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 세계 최초로 반도체 위탁생산(파운드리) 3나노미터(㎚) 공정을 이달 양산한다. 23일 관련 업계에 따르면 삼성전자는 상반기 3나노 양산을 시작한다는 기존 계획을 재확...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2분기 소형 OLED 점유율 중국 50.6% 한국 46.6%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623153544</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623153544</guid>
-            <pubDate>Thu, 23 Jun 2022 07:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[BOE를 비롯한 중국 디스플레이 업체가 국가 지원을 등에 업고 유기발광다이오드(OLED) 시장에서도 빠르게 성장했다. BOE는 중국 최대 디스플레이 업체다. 액정표시장치(LCD...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
