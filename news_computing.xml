@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어려운 쿠버네티스 도입 해결할 2가지 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629184437</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629184437</guid>
+            <pubDate>Wed, 29 Jun 2022 10:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[효성인포메이션시스템과 VM웨어가 복잡하고 어려운 쿠버네티스를 보다 쉽고 효율적으로 사용하기 위한 방법을 제시했다. 두 기업은 28일 '인프라 애플리케이션 현대화 전략'이라는 주...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈마켓 개인정보보호 민간협력 자율규제안 7월에 나온다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629161857</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220628172838</guid>
             <pubDate>Tue, 28 Jun 2022 09:11:33 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 기술 기업 헥슬란트는 지갑 구축 솔루션 '옥텟' 내 이더리움 지갑 주소 변경 기능을 지원한다고 28일 밝혔다. 이더리움컨트랙트 어카운트(CA) 방식으로 지갑을 개발한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무 임직원, '양평 치유의 숲'에 나무 식수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220628171644</link>
-            <guid>https://zdnet.co.kr/view/?no=20220628171644</guid>
-            <pubDate>Tue, 28 Jun 2022 08:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무(대표 이석우)는 임직원, 가족과 함께 국립 양평 치유의 숲에서 교통 약자를 위한 숲 조성 봉사활동을 진행했다고 28일 밝혔다. 두나무는 사명...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
