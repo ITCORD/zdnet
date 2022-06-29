@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 내년 파운드리 가격 6% 인상…3년 연속 올려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629105301</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629105301</guid>
+            <pubDate>Wed, 29 Jun 2022 03:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[TSMC가 내년 1월부터 대부분의 제조 공정 가격을 6% 인상하기로 결정했다고 대만 디지타임스가 28일(현지시간)보도했다. 대만 TSMC는 세계 1위 반도체 위탁생산(파운드리)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사이버 범죄 집단, AMD 내부 데이터 450GB 털었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629090248</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623153544</guid>
             <pubDate>Thu, 23 Jun 2022 07:13:05 GMT</pubDate>
             <content:encoded><![CDATA[BOE를 비롯한 중국 디스플레이 업체가 국가 지원을 등에 업고 유기발광다이오드(OLED) 시장에서도 빠르게 성장했다. BOE는 중국 최대 디스플레이 업체다. 액정표시장치(LCD...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 40V 대응 윈도우 리셋 IC 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623140734</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623140734</guid>
-            <pubDate>Thu, 23 Jun 2022 06:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 23일 리셋 집적회로(IC) 'BD48HW0G-C'를 개발했다고 밝혔다. 리셋 IC는 전자회로 전압을 감시하는 데 쓰인다. 임계치가 되는 검출...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
