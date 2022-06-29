@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 01:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 범죄 집단, AMD 내부 데이터 450GB 털었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220629090248</link>
+            <guid>https://zdnet.co.kr/view/?no=20220629090248</guid>
+            <pubDate>Wed, 29 Jun 2022 01:00:19 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄집단 랜섬하우스(RansomHouse)가 "450GB 이상의 AMD 내부 데이터를 확보했다"고 밝혔다. 27일(미국 현지시간) 리스토어프라이버시, 블리핑컴퓨터 등 보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국힘 반도체특위 출범…위원장에 삼성전자·민주당 출신 양향자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220628150754</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220623140734</guid>
             <pubDate>Thu, 23 Jun 2022 06:15:27 GMT</pubDate>
             <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 23일 리셋 집적회로(IC) 'BD48HW0G-C'를 개발했다고 밝혔다. 리셋 IC는 전자회로 전압을 감시하는 데 쓰인다. 임계치가 되는 검출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 장비 받으려면 '최대 2년6개월'…팹 증설 9개월 지연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220623122041</link>
-            <guid>https://zdnet.co.kr/view/?no=20220623122041</guid>
-            <pubDate>Thu, 23 Jun 2022 05:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 제조 장비의 리드타임(발주부터 납품까지의 소요시간)이 또 늘어 최대 2년 6개월(30개월)을 기록한 것으로 나타났다. 이는 반도체 장비 업계 사상 최대 기록이다. 대규모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
