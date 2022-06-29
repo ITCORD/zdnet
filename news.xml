@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 21:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 22:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누리호 '큐브 위성' 첫 정보 수신, 자세 안정화는 아직]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220630070012</link>
+            <guid>https://zdnet.co.kr/view/?no=20220630070012</guid>
+            <pubDate>Wed, 29 Jun 2022 22:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[누리호에 실려 지구저궤도에 오른 성능검증위성이 첫번째 큐브 위성을 사출했다. 하지만 사출된 위성이 아직 자세를 안정적으로 잡지는 못한 것으로 보인다. 30일 과학기술정보통신부와...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/10/3d099be90c3b5a7b336ff8a4f9d95e94-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arm, 성능·효율 높인 컴퓨트 솔루션 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220629174418</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220629162415</guid>
             <pubDate>Wed, 29 Jun 2022 10:12:17 GMT</pubDate>
             <content:encoded><![CDATA[9월부터 건강보험료 부과체계 2차 개편이 시행된다. 이로 인해 지역가입자 561만 세대의 건강보험료가 월 평균 3만6천원 줄어들 것으로 기대되고 있다. 보건복지부는 건강보험료 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/29/5275cdab199922b33e7c39a28059cc5c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미디어텍, 美 인디애나주 지원 받고 R&D 센터 설립한다]]></title>
@@ -99,7 +107,7 @@
             <title><![CDATA[방통위, 위약금 과다 청구한 딜라이브에 과징금 1300만원]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Wed, 29 Jun 2022 21:10:18 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 22:10:46 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 29일 전체회의를 열고 B2B 가입자에게 과다한 위약금을 부과하면서 타 사업자로의 전환을 방해한 딜라이브에 대해 시정명령과 함께 1천300만 원의 과징금을 부과...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220629161857</guid>
             <pubDate>Wed, 29 Jun 2022 08:15:44 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회가 온라인플랫폼 분야 개인정보보호 강화를 위해 '민관협력 자율규제안' 마련에 속도를 낸다. 첫 사례로 오픈마켓 플랫폼 분야 민관협력 자율규제가 다음달에 나온다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[랜섬웨어 공격에 문 닫은 美 대학..."데이터만 지켰어도"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629155430</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629155430</guid>
-            <pubDate>Wed, 29 Jun 2022 08:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[미국 일리노이 주 링컨에 위치한 4년제 대학, 링컨 컬리지는 1865년에 설립되어 1912년 화재, 1918년 스페인 독감, 1930년대 대공황과 세계 대전, 2008년 세계 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
