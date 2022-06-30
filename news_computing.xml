@@ -4,11 +4,27 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[과기정통부, SW기업 성장 과 수출 확대 잰걸음... "SW도 소부장 필요"]]></title>
+            <title><![CDATA["보안담당자 입니다" 해킹 메일 보냈더니 12% 감염]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220630152847</link>
+            <guid>https://zdnet.co.kr/view/?no=20220630152847</guid>
+            <pubDate>Thu, 30 Jun 2022 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[내부 보안 담당자나 거래 업체가 발송한 것처럼 위장해 해킹메일 대응 훈련을 실시한 결과 참가자 12%가 감염되는 결과가 나왔다. 참여 기업별로 맞춤형 시나리오를 적용했더니 지난...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[솔트웨어, 8월 코스닥 상장 SMB 클라우드 선점 목표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220630155322</link>
+            <guid>https://zdnet.co.kr/view/?no=20220630155322</guid>
+            <pubDate>Thu, 30 Jun 2022 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 서비스 전문기업 솔트웨어가 8월 스팩합병을 통해 코스닥에 상장한다. 자체 서비스인 핏브랜드를 중심으로 급증하는 중소기업 클라우드 고객을 선점하며 규모를 확대할 계획으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, SW기업 성장 과 수출 확대 잰걸음···"SW도 소부장 필요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220630145259</link>
             <guid>https://zdnet.co.kr/view/?no=20220630145259</guid>
             <pubDate>Thu, 30 Jun 2022 06:14:47 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220629114903</guid>
             <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 HPE는 레드햇의 HPE 그린레이크 생태계 합류를 HPE 디스커버2022에서 29일 발표했다. 두 회사는 신규 HPE 서비스형 IT(ITaaS) 제품과 레드햇 오픈시프트,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어, 온프레미스에 클라우드 더하는 v스피어+ 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629114428</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629114428</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[VM웨어는 워크로드나 호스트 중단 없이 기존 온프레미스 인프라 내에서 클라우드의 이점을 누릴 수 있도록 지원하는 신제품 VM웨어 v스피어+와 vSAN+를 29일 공개했다. 작년...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트, 네이버 공공기관용 클라우드 '엑스퍼DB' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629110932</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629110932</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[인젠트(대표 남석우)는 네이버클라우드와 솔루션 파트너십 계약을 체결하고 오픈소스DBMS '엑스퍼DB'를 네이버 클라우드 플랫폼에 설치형 서비스 오픈했다고 29일 밝혔다. 엑스퍼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
