@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 05:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 06:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, SW기업 성장 과 수출 확대 잰걸음... "SW도 소부장 필요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220630145259</link>
+            <guid>https://zdnet.co.kr/view/?no=20220630145259</guid>
+            <pubDate>Thu, 30 Jun 2022 06:14:47 GMT</pubDate>
+            <content:encoded><![CDATA["소프트웨어(SW) 분야도 제조업처럼 소부장이 필요합니다." 과기정통부가 수출 등 국내 SW산업 경쟁력 강화에 나섰다. 30일 과기정통부는 박윤규 제2 차관 주관으로 소프트웨어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['유튜버 계정' 훔치는 악성코드 나왔다...편집도구로 위장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220630142220</link>
+            <guid>https://zdnet.co.kr/view/?no=20220630142220</guid>
+            <pubDate>Thu, 30 Jun 2022 06:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 콘텐츠 제작자(유튜버)의 계정 탈취를 목적으로 한 악성코드가 등장했다. 영상편집 소프트웨어로 위장해 악성코드를 타깃 PC에 주입시키고 유튜브 인증 토큰을 훔쳐 가도록 설...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[암호화폐 폭락 여파…전문 헤지펀드 '3AC' 파산]]></title>
             <link>https://zdnet.co.kr/view/?no=20220630125611</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220629110932</guid>
             <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[인젠트(대표 남석우)는 네이버클라우드와 솔루션 파트너십 계약을 체결하고 오픈소스DBMS '엑스퍼DB'를 네이버 클라우드 플랫폼에 설치형 서비스 오픈했다고 29일 밝혔다. 엑스퍼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀸텟시스템즈, '칼스'로 로우코드 개발 시장 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629105611</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629105611</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[퀸텟시스템즈(대표 박성용)는 올인원 클라우드 어플리케이션 개발도구 '칼스(CALS)'로 로우코드 개발 시장 공략에 나선다고 29일 밝혔다. 칼스는 클라우드를 기반으로 소프트웨어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클립소프트, 페이퍼리스 업무시스템으로 종이사용 줄여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629104801</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629104801</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[클립소프트(대표 김양수)는 종이 사용을 줄이는 모바일 '현장점검 보고서' 시스템의 시범 적용을 마치고 정식 운영에 돌입한다고 29일 밝혔다. 이 현장점검 보고서는 전자서식 솔루...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
