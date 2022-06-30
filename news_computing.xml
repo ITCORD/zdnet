@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[암호화폐 폭락 여파…전문 헤지펀드 '3AC' 파산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220630125611</link>
+            <guid>https://zdnet.co.kr/view/?no=20220630125611</guid>
+            <pubDate>Thu, 30 Jun 2022 05:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[암호화폐(가상자산) 헤지펀드 스리애로즈캐피털(3AC)이 파산했다. 월스트리트저널, 블룸버그 등 다수 외신은 29일(현지시간) 영국령 버진아일랜드 법원이 3AC에 파산 선고를 했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코빗, 거래소 내 채팅 서비스 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220630113716</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220629104801</guid>
             <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[클립소프트(대표 김양수)는 종이 사용을 줄이는 모바일 '현장점검 보고서' 시스템의 시범 적용을 마치고 정식 운영에 돌입한다고 29일 밝혔다. 이 현장점검 보고서는 전자서식 솔루...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원, '개발자 집중 채용' 실시…50명 규모]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629101027</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629101027</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 '2022 코인원 개발자 집중 채용'을 시작했다고 29일 밝혔다. 우수한 개발 인력을 확보함으로써 거래소 서비스를 고도화하고 향후 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
