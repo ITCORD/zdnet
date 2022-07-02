@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 01:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 "낙태병원 방문, 위치정보 이력서 즉시 삭제"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220702085755</link>
+            <guid>https://zdnet.co.kr/view/?no=20220702085755</guid>
+            <pubDate>Sat, 02 Jul 2022 00:59:07 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 낙태병원을 비롯한 의료 시설 방문 기록은 위치정보 이력에서 즉시 삭제하기로 했다고 CNBC를 비롯한 외신들이 1일(현지시간) 보도했다. 젠 피츠페이트릭은 이날 블로그를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[식신 안병익 대표, 한국푸드테크협의회 비전 선포]]></title>
             <link>https://zdnet.co.kr/view/?no=20220701090514</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220629110900</guid>
             <pubDate>Wed, 29 Jun 2022 04:40:55 GMT</pubDate>
             <content:encoded><![CDATA[모빌리티 플랫폼 쏘카는 환경공단의 '탄소중립실천포인트제' 시행에 발맞춰, 무공해 전기 자동차 카셰어링 서비스를 이용하는 고객들에게 1㎞당 100원의 탄소중립 포인트를 제공하는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 대리기사 건강검진 무상 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629092435</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629092435</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[카카오모빌리티가 다음 달부터 대리운전 기사 약 1만5천명을 대상으로, 건강검진 및 상담 사업을 무상 지원한다고 29일 밝혔다. 회사는 고용노동부 일터개선 지원사업과 안전보건공단...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
