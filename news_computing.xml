@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 05:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 06:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK쉴더스, 한국서비스품질지수 무인경비서비스 부문 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220703135033</link>
+            <guid>https://zdnet.co.kr/view/?no=20220703135033</guid>
+            <pubDate>Sun, 03 Jul 2022 06:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스는 한국표준협회(KSA)가 주관하는 '2022년 한국서비스품질지수(KS-SQI)' 조사에서 2년 연속으로 무인경비서비스 부문 1위를 차지했다고 3일 밝혔다. KS-SQ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지니언스, VIP고객 대상 행사 '지니언스 데이 2022' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220703134822</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220630192122</guid>
             <pubDate>Thu, 30 Jun 2022 11:10:24 GMT</pubDate>
             <content:encoded><![CDATA[한국후지쯔가 바이오로직스 매뉴팩쳐링 코리아(BMK) 2022에 참가해 마스터컨트롤의 '매뉴팩처링 엑셀런스(Mx)'를 참가자들에게 알렸다. 29일과 30일 송도 컨벤시아에서 개최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도둑채굴 악성코드 '코인하이브' 극성...1만5천 대 PC감염]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220630162731</link>
-            <guid>https://zdnet.co.kr/view/?no=20220630162731</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[웹브라우저를 기반으로 작동하는 암호화폐 도둑 채굴 악성코드 중 하나인 '코인하이브'가 여전히 극성을 부리고 있다. 코인하이브 악성코드에 감염돼 사용자 몰래 암호화폐 채굴에 동원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
