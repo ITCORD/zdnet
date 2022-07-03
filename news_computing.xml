@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 04:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더인츠, 스마트 생활형 돌보미 '욜빙' GS인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220703125353</link>
+            <guid>https://zdnet.co.kr/view/?no=20220703125353</guid>
+            <pubDate>Sun, 03 Jul 2022 04:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[에이지테크 전문 기업 더인츠(대표 임기채)는 스마트 생활형 돌보미 소프트웨어 '욜빙'이 한국정보통신기술협회(TTA) 굿소프트웨어(GS)인증 1등급을 획득했다고 15일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 7월 한 달간 제11회 정보보호의 달 운영]]></title>
             <link>https://zdnet.co.kr/view/?no=20220703110957</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220630152847</guid>
             <pubDate>Thu, 30 Jun 2022 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[내부 보안 담당자나 거래 업체가 발송한 것처럼 위장해 해킹메일 대응 훈련을 실시한 결과 참가자 12%가 감염되는 결과가 나왔다. 참여 기업별로 맞춤형 시나리오를 적용했더니 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔트웨어, 8월 코스닥 상장 SMB 클라우드 선점 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220630155322</link>
-            <guid>https://zdnet.co.kr/view/?no=20220630155322</guid>
-            <pubDate>Thu, 30 Jun 2022 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 서비스 전문기업 솔트웨어가 8월 스팩합병을 통해 코스닥에 상장한다. 자체 서비스인 핏브랜드를 중심으로 급증하는 중소기업 클라우드 고객을 선점하며 규모를 확대할 계획으로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
