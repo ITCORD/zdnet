@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 안전한 산업현장과 더 나은 세상을 만드는 기술, 그리고 새로운 도전]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220704142110</link>
+            <guid>https://zdnet.co.kr/view/?no=20220704142110</guid>
+            <pubDate>Mon, 04 Jul 2022 08:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[올해 1월 27일 ‘중대재해처벌법’이 시행되면서 산업현장 안전에 대한 사회적 인식과 중요성이 높아졌다. 산업현장 안전기술분야의 성공적인 안착을 위해서 무엇을 준비해야 할까?건설 현장에서 일어나는 산업재해를 줄일 수는 있지만 재해 자체를 막기에는 쉽지 않은 것이 현실이다. 과거에 비해 기계화와 자동화가 진척됐지만 그마저도 전문인력에 많이 의존하는 대표적인 노동집약적인 산업 중 하나이기 때문이다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/04/822ac09b31113e76d6688065f72c52b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] CDA 신기술 도입이 가져올 혁신]]></title>
             <link>https://zdnet.co.kr/view/?no=20220630103700</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 25 May 2022 01:00:12 GMT</pubDate>
             <content:encoded><![CDATA[VM웨어는 2019년부터 매년 다양한 산업의 고객사들을 대상으로 쿠버네티스 사용 전반에 대한 설문 조사를 진행해오고 있으며, 올해도 ‘The States of Kubernetes 2022’를 통해 조사 결과를 일반에 공개했다. 작년에 이어 올해 조사된 결과에서도 쿠버네티스의 채택과 도입은 꾸준히 진행되고 있다는 것이 증명되고 있으며, 보안 영역을 제외한 대부분 영역에서 기존의 어려움들이 해소...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2020/01/22/firstblood_1QHoYHQjX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 탄소중립을 위한 국민소통의 대전환]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220517155538</link>
-            <guid>https://zdnet.co.kr/view/?no=20220517155538</guid>
-            <pubDate>Sun, 22 May 2022 17:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 이후 유럽연합(EU)을 중심으로 많은 국가가 회복성과 지속 가능성을 높이기 위해 그린 뉴딜의 비전과 구체적인 해법, 측정 모델 등을 개발하고 있다. 아울러 탄소 중립 전략과 실행 로드맵에 대한 공공소통도 강화해 나가고 있다. 탄소중립은 이미 소비된 탄소를 다시 흡수하는 대책을 세워 기후 변화에 대처하기 위해 소비를 궁극적으로 제로로 만들자는 범지구적 정책이자 구호다. 우리나라 제 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/17/32e4c7e035f2f13300fd5df8cf59a457.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
