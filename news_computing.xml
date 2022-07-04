@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니포인트, KB국민은행 모바일 RPA 시스템 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220704174306</link>
+            <guid>https://zdnet.co.kr/view/?no=20220704174306</guid>
+            <pubDate>Mon, 04 Jul 2022 09:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[유니포인트(대표 권은영)는 KB국민은행 로봇프로세스자동화(RPA) 기반 비대면 서비스(모바일 뱅킹, 인터넷 뱅킹) 모니터링시스템 구축사업을 완료했다고 4일 밝혔다. 모바일 RP...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개발자를 위한 리눅스 배포판 5선]]></title>
             <link>https://zdnet.co.kr/view/?no=20220704153940</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220703110957</guid>
             <pubDate>Sun, 03 Jul 2022 03:10:39 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 한국정보보호산업협회(KISIA)은 '튼튼한 사이버안보, 안전한 디지털강국'를 주제로 7월 한 달 동안 제11회 정보보호의 달을 운영한다고 3일 밝혔다. 정보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융보안원, ISMS-P 인증기관 재지정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220703102315</link>
-            <guid>https://zdnet.co.kr/view/?no=20220703102315</guid>
-            <pubDate>Sun, 03 Jul 2022 03:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[금융보안원은 이달 1일 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기관으로 재지정받았다고 3일 밝혔다. ISMS-P 인증은 정보보호 및 개인정보보호를 위한 일련의 조치...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
