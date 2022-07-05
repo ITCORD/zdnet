@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 03:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 04:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, 데이터 플랫폼 '지오비전 퍼즐' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220705091746</link>
+            <guid>https://zdnet.co.kr/view/?no=20220705091746</guid>
+            <pubDate>Tue, 05 Jul 2022 04:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 거주, 이동, 체류에 관한 다양한 통계 데이터를 제공하는 플랫폼 '지오비전 퍼즐'을 5일 공개했다. 지오비전 퍼즐은 SK텔레콤의 빅데이터 분석 서비스인 지오비전을 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/05/9877ef0a75ed31126056003c4b5dc591-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 인터넷주소분쟁조정 41개 해외 도메인으로 확장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220705110243</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220705111501</guid>
             <pubDate>Tue, 05 Jul 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 구글로부터 카카오톡 최신 버전 심사를 거부당한 것으로 확인됐다. 카카오가 구글 인앱결제 정책을 따르지 않았단 이유에서다. 카카오는 현재 앱 내 웹 결제를 위해, 아웃링...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/07/16/527895119b94780fe06ce3b686f7aabc-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크래프톤 배그모바일, 버추얼 인플루언서 위니 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220705092742</guid>
             <pubDate>Tue, 05 Jul 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[지난해 휴대폰 사업을 철수한 LG전자가 3분기 스마트폰 소프트웨어(SW) 업데이트를 실시하며 소비자 사후 서비스를 지속한다. LG전자에 따르면 3분기(7월)부터 스마트폰 6종 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, 국제표준 준법경영시스템 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705104131</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705104131</guid>
-            <pubDate>Tue, 05 Jul 2022 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 박성하)는 한국경영인증원(KMR)으로부터 국제표준화기구(ISO) 준법경영시스템 'ISO37301' 인증을 획득했다고 5일 밝혔다. 준법경영시스템은 지난해 4...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
