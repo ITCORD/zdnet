@@ -4,9 +4,56 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코그넥스, 비전검사 쉽고 빠르게 '비전프로' 편의 개선]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706190345</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706190345</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[코그넥스코리아(대표 알렉스 종)는 비전프로(Vision pro) 사용자 편의 개선을 위해 소프트웨어 업데이트를 실시한다고 6일 밝혔다. 비전프로는 난이도 높은 비전 애플리케이션...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여덟끼니-서울대-메가존, AI로 명품 한우 키운다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706185524</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706185524</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[여덟끼니(대표 정용한)가 서울대학교 농업생명과학대학, 메가존클라우드와 인공지능(AI)을 활용한 명품 한우 정밀 사양 기술 개발 및 스마트 농업 분야의 공동 협력을 위한 업무 협...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[인사]시큐어원]]></title>
+            <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
+            <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[◇ 이사 승진 ▲ 김진철 보안사업1팀 (팀장 겸직) ▲ 김경창 보안사업3팀 (팀장 겸직)...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CJ ONE, 배지 모으면 혜택 주는 '뱃지ONE정대' 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706184455</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706184455</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스(대표 차인혁)가 운영하는 통합 멤버십 서비스 CJ ONE에서 앱 활동과 CJ 브랜드 이용 이력을 기반으로 앱에서 배지(badge)를 주는 '뱃지ONE정대' 신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포지큐브, AI 컨택센터 1년 만에 16배 성장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706182754</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706182754</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[포지큐브(대표 오성조)가 인공지능(AI) 컨택센터 서비스인 '로비(robi)리셉션'으로 1년여 만에 AI 상담콜 수를 16배 이상 성장시켰다고 한다. 포지큐브에 따르면, 지난해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사이냅소프트, '사이냅 OCR 프로' ICT 기술마켓 인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706182341</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706182341</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[사이냅소프트(대표 전경헌)의 인공지능(AI) OCR '사이냅 OCR 프로(Synap OCR Pro)'가 ICT기술마켓 인증을 획득했다고 6일 밝혔다. 사이냅 OCR 프로는 자체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[급성장 'DAO', 블록체인 서비스 혁신 이끌까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220706133256</link>
@@ -117,54 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220705163727</guid>
             <pubDate>Tue, 05 Jul 2022 12:21:52 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 기계학습(ML) 라이브러리 파이토치 1.12버전이 출시됐다. 최근 파이토치 개발팀은 파이토치 1.12버전을 깃허브를 통해 출시했다고 공식 블로그를 통해 밝혔다. 433...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코ICT, 디지털트윈으로 스마트팩토리 차별화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705201659</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705201659</guid>
-            <pubDate>Tue, 05 Jul 2022 12:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[포스코ICT(대표 정덕균)가 스마트팩토리 시스템에 디지털트윈(Digital Twin) 기술을 융합한다고 5일 밝혔다. 디지털트윈은 현실 속 사물의 쌍둥이를 가상의 공간에 만들어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드-엑셈, 대규모 클라우드 운영·관리 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705201308</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705201308</guid>
-            <pubDate>Tue, 05 Jul 2022 12:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드(대표 이주완)은 엑셈과 클라우드 운영·관리 공동 사업 추진과 마케팅 강화를 위한 업무 협약을 체결했다고 5일 밝혔다. 양사는 엑셈의 클라우드 통합 모니터링 전문성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔트룩스, 지능형 법령정보 서비스 플랫폼 구축사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705165706</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705165706</guid>
-            <pubDate>Tue, 05 Jul 2022 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[솔트룩스(대표 이경일)는 비인텍 및 한국법령정보원과 구성한 컨소시엄을 통해 법제처의 '수요자 중심의 지능형 법령정보 서비스 플랫폼 구축' 사업을 수주, 법령정보 데이터 유통 생...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유니네트워크, 냉·난방기 세척 로봇 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705163003</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705163003</guid>
-            <pubDate>Tue, 05 Jul 2022 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 기반 친환경 제품과 플랫폼을 서비스하는 '퓨리에버' 프로젝트 운영사인 유니네트워크(대표 이상권)는 로봇 기반 냉·난방기 및 공조기 세척 서비스를 선보인다고 5일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델리오, 입출금 지원 '가상자산 뱅크' 서비스 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705162112</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705162112</guid>
-            <pubDate>Tue, 05 Jul 2022 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 핀테크 기업 델리오(대표 정상호)가 뱅크 서비스를 출시했다고 5일 밝혔다. 크립토뱅크는 시중 은행에서 제공하고 있는 예금, 대출, 이체, 인출 등 다양한 디지털자산 금...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지멘스, 개방형 디지털 비즈니스 플랫폼 '지멘스 엑셀러레이터' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705140552</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705140552</guid>
-            <pubDate>Tue, 05 Jul 2022 05:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[한국지멘스(대표 정하중)는 개방형 디지털 비즈니스 플랫폼 '지멘스 엑셀러레이터'를 출시하고, 산업 및 빌딩, 그리드, 모빌리티 분야에서 기업 고객을 위한 디지털 전환과 가치 창...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
