@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 06:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버공격 피해 7천조 원, 시크릿 통합관리로 해결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706160840</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706160840</guid>
+            <pubDate>Wed, 06 Jul 2022 07:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[“사이버범죄 보고서에 따르면 지난해 피해가 7천조 원에 달할 것으로 분석했다. 피해범위가 더욱 늘어나고 있는 만큼 기업 최고경영자(CEO)들은 해킹 등 사이버공격을 비즈니스 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 실종자 찾는 지능형 CCTV 성능검증...도입 확산 기대]]></title>
             <link>https://zdnet.co.kr/view/?no=20220706144040</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220705134612</guid>
             <pubDate>Tue, 05 Jul 2022 05:17:44 GMT</pubDate>
             <content:encoded><![CDATA[스파이스웨어는 한국지능정보사회진흥원(NIA)에 데이터 보호 서비스 '스파이스웨어 원 DPS'를 공급한다고 5일 밝혔다. NIA는 ICT분야 대표 공공기관이다. 데이터 경제 활성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드마이크로, 커넥티드카 보안 자회사 '빅원' 설립]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705133558</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705133558</guid>
-            <pubDate>Tue, 05 Jul 2022 05:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 사이버보안 업체 트렌드마이크로는 전기차 및 커넥티드카 전용 보안을 제공하는 자회사 '빅원(VicOne)'을 설립했다고 5일 밝혔다. 트렌드마이크로는 빅원을 통해 자동차 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
