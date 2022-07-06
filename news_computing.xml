@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 10:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워너아이, 코레일과 관광상품 홍보 '맞손']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706200850</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706200850</guid>
+            <pubDate>Wed, 06 Jul 2022 11:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[다날 계열사 워너아이는 한국철도공사(코레일)와 업무협약(MOU)을 체결했다고 6일 밝혔다. 양사는 협약을 통해 ▲협약기관 및 관광사업에 대한 홍보 ▲관광사업 협력 및 지원 ▲상...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코그넥스, 비전검사 쉽고 빠르게 '비전프로' 편의 개선]]></title>
             <link>https://zdnet.co.kr/view/?no=20220706190345</link>
@@ -27,7 +35,7 @@
             <title><![CDATA[[인사]시큐어원]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Wed, 06 Jul 2022 10:13:34 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 11:11:02 GMT</pubDate>
             <content:encoded><![CDATA[◇ 이사 승진 ▲ 김진철 보안사업1팀 (팀장 겸직) ▲ 김경창 보안사업3팀 (팀장 겸직)...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220706065708</guid>
             <pubDate>Tue, 05 Jul 2022 22:11:10 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어저작권협회(SPC, 회장 유병한)는 5일 전력전자학회(회장 이택기)와 소프트웨어(SW) 저작권 보호 및 SW 정품사용 환경 조성을 위한 업무협약을 체결했다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이토치 1.12 출시…애플 실리콘 GPU 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705163727</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705163727</guid>
-            <pubDate>Tue, 05 Jul 2022 12:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[오픈소스 기계학습(ML) 라이브러리 파이토치 1.12버전이 출시됐다. 최근 파이토치 개발팀은 파이토치 1.12버전을 깃허브를 통해 출시했다고 공식 블로그를 통해 밝혔다. 433...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
