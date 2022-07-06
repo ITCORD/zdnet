@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 03:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 04:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["거리두기도 없다"…하루 20만? 더 나올 수도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706130747</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706130747</guid>
+            <pubDate>Wed, 06 Jul 2022 04:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 코로나19 재유행 규모가 당초 예상보다 커질 수도 있다는 우려가 높아지고 있다. 방역당국은 전문가들의 예측을 토대로 이번 재유행 규모가 하루 확진자 최대 15만~20만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[복지부, 닥터나우 '원하는 약 처방받기'는 약사법·의료법 위반 의심]]></title>
             <link>https://zdnet.co.kr/view/?no=20220706104506</link>
@@ -131,7 +139,7 @@
             <title><![CDATA[질병관리청 방역물자 비축센터 개소]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:47:45 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 04:44:25 GMT</pubDate>
             <content:encoded><![CDATA[질병관리청은 코로나19 지속대응 및 신종감염병 초기 대응을 위한 방역물자를 비축하기 위한 '중앙 방역물자 비축센터'를 개소했다. 방역물자 비축센터는 레벨D세트 및 보호복, 고글...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220704105505</guid>
             <pubDate>Mon, 04 Jul 2022 03:46:13 GMT</pubDate>
             <content:encoded><![CDATA[20대에 집중됐던 코로나19 신규 확진자가 50대 이하에서 전반적으로 확산하는 모양새다. 중앙방역대책본부에 따르면 7월4일 0시 기준 코로나19 신규 확진자는 국내발생 6천89...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['아프니까 쉴게요' 상병수당 시작…나도 대상?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220704105009</link>
-            <guid>https://zdnet.co.kr/view/?no=20220704105009</guid>
-            <pubDate>Mon, 04 Jul 2022 03:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[아파서 일할 수 없는 기간 동안 최저임금의 60%를 지급하는 '상병수당' 시범사업이 4일부터 시작된다. 코로나19 사태로 아파도 쉬지 못하는 근로자들의 열악한 환경이 알려지며 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
