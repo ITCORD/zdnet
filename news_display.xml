@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 01:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 시안 1주일 봉쇄…삼성전자 반도체공장 소재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220707091256</link>
+            <guid>https://zdnet.co.kr/view/?no=20220707091256</guid>
+            <pubDate>Thu, 07 Jul 2022 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 신종 코로나바이러스 감염증(코로나19) 오미크론 하위변이 BA.5.2가 처음 발생한 산시성의 성도 시안을 1주일간 봉쇄한다고 중국 중앙통신이 6일(현지시간) 보도했다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["삼성 파운드리 R&D 인력은 2만명, TSMC는 6만명...격차 커"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220707012126</link>
+            <guid>https://zdnet.co.kr/view/?no=20220707012126</guid>
+            <pubDate>Thu, 07 Jul 2022 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[최첨단 기술이 집약된 반도체 산업에서는 연구 인력이 핵심으로 꼽힌다. 그러나 국내 반도체 인력은 해외와 비교해 턱없이 부족한 상황이다. 특히 시스템반도체 설계 인력 부족이 가장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["ARM 의존도 낮춰라"...블루칩으로 주목받는 RISC-V]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220706152528</link>
+            <guid>https://zdnet.co.kr/view/?no=20220706152528</guid>
+            <pubDate>Thu, 07 Jul 2022 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 없이 살수 없는 시대가 왔습니다. 반도체는 이제 사회와 산업의 생명수이자 권력입니다. 모든 것을 움직이고 연결시킬 수도 있지만, 모든 것을 멈추고 파괴시킬 수도 있습니다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG이노텍, 구미에 1.4조 투자…기판·광학 사업 '속도']]></title>
             <link>https://zdnet.co.kr/view/?no=20220706181852</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220629180607</guid>
             <pubDate>Wed, 29 Jun 2022 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[대만 미디어텍이 미국 중서부 인디애나에 반도체 설계 연구개발(R&amp;D) 센터를 설립한다. 미디어텍은 스마트폰의 두뇌 역할을 하는 모바일 애플리케이션 프로세서(AP)를 공급하는 팹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜머티리얼즈, 미국 반도체 시장 진출…일본 쇼와덴코 '맞손']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629160203</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629160203</guid>
-            <pubDate>Wed, 29 Jun 2022 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[SK㈜머티리얼즈가 일본 소재 기업 쇼와덴코와 손잡고 미국 반도체 시장에 진출하기로 했다. SK㈜머티리얼즈는 29일 일본 쇼와덴코 본사에서 '반도체 소재 북미 동반 진출 검토'를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나노종기원, 삼성 보유한 12인치 반도체장비 도입…소부장 자립 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629163116</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629163116</guid>
-            <pubDate>Wed, 29 Jun 2022 08:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[나노종합기술원이 삼성에서 보유한 12인치(300mm) 반도체 장비 3대를 나노팹에 이전 설치한다고 29일 밝혔다. 반도체 테스트베드 기반의 소부장 서비스 영역을 확대하고 시스템...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 내년 파운드리 가격 6% 인상…3년 연속 올려]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220629105301</link>
-            <guid>https://zdnet.co.kr/view/?no=20220629105301</guid>
-            <pubDate>Wed, 29 Jun 2022 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[세계 1위 반도체 위탁생산(파운드리)업체 TSMC가 내년 1월부터 제조가격을 6% 인상한다고 대만 디지타임스가 28일 보도했다. 이번 조치로 TSMC는 3년 연속 반도체 제조 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
