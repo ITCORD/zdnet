@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플 인앱결제는 표시광고법·공정거래법 위반"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220707103311</link>
+            <guid>https://zdnet.co.kr/view/?no=20220707103311</guid>
+            <pubDate>Thu, 07 Jul 2022 03:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 인앱결제 정책이 국내 표시광고법과 공정거래법을 위반했다는 시민단체의 지적이 이목을 끈다. 소비자주권시민회의는 7일 성명을 내고, 애플의 3자결제 시스템 적용시 “앱스토어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미디어혁신위 논의 실종...업계 "출범 앞당겨야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220706163659</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220705154119</guid>
             <pubDate>Tue, 05 Jul 2022 07:11:04 GMT</pubDate>
             <content:encoded><![CDATA[조승래 더불어민주당 의원이 구글의 카카오톡 앱 심사 거절과 관련해 방송통신위원회의 조속한 대응을 촉구했다. 조 의원은 국회 전반기 과학기술정보통신위원회 여당 간사로 '인앱결제 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['한국판 유니버셜 스튜디오'...CJ ENM 스튜디오센터, K-콘텐츠 공장 된다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705152715</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705152715</guid>
-            <pubDate>Tue, 05 Jul 2022 07:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[“K콘텐츠 수요를 뒷받침 할 글로벌 콘텐츠 제작 전진 기지 역할을 하겠다.” CJ ENM은 경기도 파주시에 마련한 'CJ ENM 스튜디오 센터'를 5일 국내 미디어에 처음 공개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
