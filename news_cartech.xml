@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 01:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 도로교통안전국, 테슬라 운전자 사망사고 조사]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220708082620</link>
+            <guid>https://zdnet.co.kr/view/?no=20220708082620</guid>
+            <pubDate>Fri, 08 Jul 2022 01:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[미국 도로교통안전국(NHTSA)이 테슬라 자율주행 차량에서 최근 발생한 두 건의 교통사고를 조사하고 있다. 7일(현지시간) 로이터통신 등 다수의 외신에 다르면 NHTSA는 미국...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차, '2022년 지속가능성 보고서' 발간…ESG 경영성과·정보 담아]]></title>
             <link>https://zdnet.co.kr/view/?no=20220707153805</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220705093646</guid>
             <pubDate>Tue, 05 Jul 2022 01:03:54 GMT</pubDate>
             <content:encoded><![CDATA[BMW코리아는 신형 M850i 쿠페·그란쿠페를 출시한다고 5일 밝혔다. 신형 M850i 쿠페·그란쿠페는 BMW그룹 럭셔리 퍼포먼스 부문 기술적 지식이 집약된 고성능 모델이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 중국·독일 공장 가동 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220705072638</link>
-            <guid>https://zdnet.co.kr/view/?no=20220705072638</guid>
-            <pubDate>Tue, 05 Jul 2022 01:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 생산량 증대를 위한 시설 보수를 위해 중국·독일 공장 가동을 일시 중단한다. 4일(현지시간) 블룸버그 등 복수 외신은 테슬라 상하이·베를린 기가팩토리가 생산량 증대를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
