@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 08:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 09:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["SO 지역채널 보도 확대, 정치도구 전락 우려"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220708160721</link>
+            <guid>https://zdnet.co.kr/view/?no=20220708160721</guid>
+            <pubDate>Fri, 08 Jul 2022 09:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[유료방송 산업 활성화를 위해 규제 개선이 필요하지만, 일각에서 SO 지역채널의 지역보도 한정 규제 완화나 IPTV 직사채널 허용은 문제가 크다는 지적이 나왔다. 안정상 더불어민...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[딜라이브, OTT'v 오리지널 콘텐츠 'DMZ 대성동' 제작]]></title>
             <link>https://zdnet.co.kr/view/?no=20220708093607</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[SKT-SK하이닉스, AI 인재 양성 위해 대학과 맞손]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Fri, 08 Jul 2022 08:18:16 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2022 09:22:46 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤과 SK하이닉스는 인공지능(AI)과 반도체 인재 양성을 위해 현업 전문가들의 실무 지식과 현장 노하우를 전달하는 'SK ICT커리큘럼'을 시행한다고 7일 밝혔다. 양사...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220706120232</guid>
             <pubDate>Wed, 06 Jul 2022 06:14:26 GMT</pubDate>
             <content:encoded><![CDATA[전국이동통신유통협회(KMDA)는 KB국민은행의 알뜰폰사업자인 KB리브엠의 재인가 취소를 촉구하는 서한을 김주현 금융위원장 후보자에게 보냈다고 6일 밝혔다. KMDA는 서한에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI팹리스 '리벨리온'에 300억 투자…"GPU팜 생태계 구축"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220706091413</link>
-            <guid>https://zdnet.co.kr/view/?no=20220706091413</guid>
-            <pubDate>Wed, 06 Jul 2022 03:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 인공지능(AI) 인프라 전문기업들과 협업하며 'GPU팜' 생태계를 구축한다. 이를 통해 순수 국산 기술만으로 AI 반도체를 만들어 엔비디아 GPU에 대한 높은 의존도를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
