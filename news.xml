@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 00:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:00:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진자 2만명 넘어…해외유입 200명대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220709100101</link>
+            <guid>https://zdnet.co.kr/view/?no=20220709100101</guid>
+            <pubDate>Sat, 09 Jul 2022 02:52:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 확진자 수가 2만 명을 넘어선 가운데 해외유입 사례도 200명을 돌파하며 재유행이 본격화할 조짐을 보이고 있다. 중앙방역대책본부(방대본)에 따르면, 9일 0시 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/05/18/ac8cf2b18142aa885a152e124f16bd70-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽게임즈 폴가이즈, 무료 전환 2주만에 이용자 5천만 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20220708185354</link>
@@ -29,10 +37,10 @@
             <guid>https://zdnet.co.kr/view/?no=20220708175319</guid>
             <pubDate>Sat, 09 Jul 2022 00:51:35 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 올 상반기 해외 인공지능(AI) 학회에서 정규 논문 60편을 발표하며, 국내를 넘어 글로벌 AI 핵심 기업으로 입지를 견고히 하고 있다. AI 플랫폼 클로바를 필두로,...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/12/20/b7ddf99ce4758ba3649aa7e166cca162-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ETF에서 삼성전자 주식을 빼고 싶었다면]]></title>
+            <title><![CDATA[[금융 D-택트] ETF에서 삼성전자 주식을 빼고 싶었다면]]></title>
             <link>https://zdnet.co.kr/view/?no=20220708094940</link>
             <guid>https://zdnet.co.kr/view/?no=20220708094940</guid>
             <pubDate>Sat, 09 Jul 2022 00:51:35 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220708170501</guid>
             <pubDate>Fri, 08 Jul 2022 08:16:39 GMT</pubDate>
             <content:encoded><![CDATA[김민석 더불어민주당 의원이 '긴급복지지원법' 일부개정안을 대표발의했다. 개정안은 의료기관 퇴원 이후 30일 이내인 사람도 긴급지원대상자로 포함할 수 있게 한 것이 골자다. 위기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["반도체 키우려면 석·박사 뿐 아니라 고졸 인재도 중요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220708165049</link>
-            <guid>https://zdnet.co.kr/view/?no=20220708165049</guid>
-            <pubDate>Fri, 08 Jul 2022 08:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[반도체를 활용하는 분야가 늘면서 석·박사급뿐 아니라 고등학교 졸업하고 실무를 수행할 인재도 길러야 한다는 목소리에 힘이 실린다. 교육부가 8일 대전 유성구 충남대에서 개최한 '...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

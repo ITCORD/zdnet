@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 00:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:00:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진자 2만명 넘어…해외유입 200명대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220709100101</link>
+            <guid>https://zdnet.co.kr/view/?no=20220709100101</guid>
+            <pubDate>Sat, 09 Jul 2022 02:56:17 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 확진자 수가 2만 명을 넘어선 가운데 해외유입 사례도 200명을 돌파하며 재유행이 본격화할 조짐을 보이고 있다. 중앙방역대책본부(방대본)에 따르면, 9일 0시 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퇴원 후 한달 내 긴급복지지원 신청 가능해야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220708170501</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220706161809</guid>
             <pubDate>Wed, 06 Jul 2022 08:28:34 GMT</pubDate>
             <content:encoded><![CDATA[JW신약이 한국컴플라이언스인증원으로부터 '부패방지경영시스템 국제 표준(ISO37001)' 인증을 획득했다. ISO37001은 국제표준화기구가 지난 2016년 제정한 국제 표준 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미약품, '실리만' 리뉴얼 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220706161134</link>
-            <guid>https://zdnet.co.kr/view/?no=20220706161134</guid>
-            <pubDate>Wed, 06 Jul 2022 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[한미약품이 자사 '마이크로에멀젼' 제제 기술을 적용한 실리마린 성분의 간 기능 개선제 '실리만 연질캡슐140(이하 실리만)'을 '일반의약품'으로 리뉴얼해 출시했다. 실리만은 실...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
