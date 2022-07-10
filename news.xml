@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 09:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 10:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수세 "지원종료 센트OS, RHEL로 전환할 필요 없다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220710181739</link>
+            <guid>https://zdnet.co.kr/view/?no=20220710181739</guid>
+            <pubDate>Sun, 10 Jul 2022 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 엔터프라이즈 오픈소스 솔루션 업체 수세가 레드햇이 개발 종료를 결정한 인기 오픈소스 리눅스 배포판 '센트OS'에 대한 대안을 제시하고 나섰다. 센트OS를 계속 사용하고 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/10/934f079c6da1351fbd63f6c413dd143b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDI, 박사급 차세대 배터리 인력 모신다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220710150640</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220710135833</guid>
             <pubDate>Sun, 10 Jul 2022 05:12:04 GMT</pubDate>
             <content:encoded><![CDATA[정보통신기획평가원(IITP, 원장 전성배)은 기업멤버십SW캠프 실무 협의회(회장 한국소프트웨어산업협회 허민 팀장) 킥오프 회의를 8일 개최, 사업 현판식 및 실무 협의회 간담회...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/10/704d251d6e7b3626065be984ad23b23a-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷마블 세븐나이츠 레볼루션, 마케팅 역량 강화...28일 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220709230012</guid>
             <pubDate>Sun, 10 Jul 2022 01:11:30 GMT</pubDate>
             <content:encoded><![CDATA[대만 TSMC에서 13년간 반도체 설계를 담당하던 임원이 지난 6월 인텔로 이직했다는 사실이 뒤늦게 알려졌다. 8일(현지시간) 미국 톰스하드웨어 등 IT 매체에 따르면, 200...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[교보생명, 코스피 상장 예비심사 탈락]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220709171950</link>
-            <guid>https://zdnet.co.kr/view/?no=20220709171950</guid>
-            <pubDate>Sat, 09 Jul 2022 10:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[한국거래소가 증시 상장을 추진하고 있는 교보생명의 유가증권시장 상장 승인을 탈락시켰다. 한국거래소는 8일 상장공시위원회를 열고 교보생명의 유가증권시장 상장 여부를 논의한 결과 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
