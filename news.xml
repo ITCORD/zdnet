@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 22:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약평위 '고덱스 캡슐' SGPT가 상승된 간질환에 급여 적정성 없음]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220711073139</link>
+            <guid>https://zdnet.co.kr/view/?no=20220711073139</guid>
+            <pubDate>Sun, 10 Jul 2022 23:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[셀트리온헬스케어 간질환치료제 '고덱스 캡슐'이 재평가에서 급여 적정성을 인정받지 못했다. 건강보험심사평가원은 2022년 제7차 약제급여평가위원회(이하 약평위)를 열고 요양급여 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/14/fcad3116fb015d37f7ebe3b9885738ae-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[R&D 빠르게 사업화…기획·평가 개편]]></title>
             <link>https://zdnet.co.kr/view/?no=20220709163717</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220710181739</guid>
             <pubDate>Sun, 10 Jul 2022 10:16:43 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 엔터프라이즈 오픈소스 솔루션 업체 수세가 레드햇이 개발 종료를 결정한 인기 오픈소스 리눅스 배포판 '센트OS'에 대한 서드파티 지원을 시작했다. 전 세계 포진한 오픈소스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/10/934f079c6da1351fbd63f6c413dd143b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성SDI, 박사급 차세대 배터리 인력 모신다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220710090555</guid>
             <pubDate>Sun, 10 Jul 2022 01:11:30 GMT</pubDate>
             <content:encoded><![CDATA[KT그룹 디지털 커머스 전문기업 KT알파가 새벽배송 전문기업 오아시스마켓과 손잡고 라이브커머스 기반 '온에어 딜리버리'(On-Air Delivery) 사업을 추진한다. KT알파...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[U+tv, 윔블던 챔피언십 남자 결승 독점 중계]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220710090539</link>
-            <guid>https://zdnet.co.kr/view/?no=20220710090539</guid>
-            <pubDate>Sun, 10 Jul 2022 01:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 10일 IPTV 서비스인 'U+tv'를 통해 영국 테니스 대회인 윔블던 챔피언십 남자 결승전을 독점 중계한다고 밝혔다. LG유플러스는 지난 9일 윔블던 챔피언십 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
