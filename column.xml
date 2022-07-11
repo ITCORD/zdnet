@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI 쉽게 이해하기 3-1. 기계학습 알고리즘]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220711172735</link>
+            <guid>https://zdnet.co.kr/view/?no=20220711172735</guid>
+            <pubDate>Mon, 11 Jul 2022 09:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능의 범주를 나눌 때 일반적으로 기계학습(ML, 머신러닝)과 딥러닝으로 나눈다. 그러나 둘의 차이가 무엇인지를 명확히 이해하고 있는 사람은 드물다.기본적으로는 기계학습이 좀 더 포괄적인 인공지능을 의미하고, 딥러닝은 기계학습보다 좀 더 진일보된 고도화된 알고리즘으로 기계학습의 영역 안에 들어간다고 이해하면 좋겠다.인공지능을 처음 배우는 일반적인 사람들은 무엇부터 배워야 하는지, 그리고 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/11/a02e1cca51aec9d3e4ca8ce104c3559d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통합 물리보안 시스템, '영상·음원 분석 기술'로 가능해진다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220706111636</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Jun 2022 07:16:08 GMT</pubDate>
             <content:encoded><![CDATA[앱 장터 1위 사업자 구글이 플레이스토어 내 인앱결제를 사실상 의무화함에 따라 '공정 경쟁 및 소비자 이익 침해 행위'라는 주장이 이슈화됐다. 지난 3일 소비자주권시민회의는 구글의 인앱결제 강재 행위에 대한 고발장을 서울 강남경찰서에 제출했다. '인앱 결제'는 구글 등 앱 마켓 사업자가 앱 내에서 자체 내부 시스템으로만 유료 콘텐츠를 결제할 수 있게 강제한 것을 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/06/04/4a6a20d6a464b651d02c76b30e6f82c6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI 기본 이해하기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220530181623</link>
-            <guid>https://zdnet.co.kr/view/?no=20220530181623</guid>
-            <pubDate>Mon, 30 May 2022 09:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[내가 처음으로 AI란 단어를 들었던 것은 1993년이다.한국에서 전자공학과 학부를 졸업하긴 했는데, 당시엔 AI나 인공지능이란 과목도 없었고, 수업 중에 그 것을 언급하신 교수님도 없었다.지금처럼 인터넷이나 다양한 채널을 통해 새로운 기술이나 트랜드를 배울 기회도 없었다. 학부를 졸업후 군대를 마치고 난 미국 텍사스에 있는 주립대로 유학을 갔다. 전기 엔지니어E링 석사과정으로 입학했다. 특별...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/30/c58301c15f1d2d9bf33032a9da0e276b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

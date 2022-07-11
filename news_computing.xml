@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펜타시큐리티 "웹방화벽 와플, 상반기 공공 시장서 1위"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220711175253</link>
+            <guid>https://zdnet.co.kr/view/?no=20220711175253</guid>
+            <pubDate>Mon, 11 Jul 2022 09:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[정보보안 전문업체 펜타시큐리티시스템은 자사 지능형 웹방화벽 와플이 상반기 조달청 판매액 기준 점유율 52%를 기록해, 공공시장 1위를 자리를 지켰다고 11일 밝혔다. 펜타시큐리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] AI 쉽게 이해하기 3-1. 기계학습 알고리즘]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220711172735</link>
+            <guid>https://zdnet.co.kr/view/?no=20220711172735</guid>
+            <pubDate>Mon, 11 Jul 2022 09:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능의 범주를 나눌 때 일반적으로 기계학습(ML, 머신러닝)과 딥러닝으로 나눈다. 그러나 둘의 차이가 무엇인지를 명확히 이해하고 있는 사람은 드물다. 기본적으로는 기계학습이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자동차 구매까지 이끌어내는 소셜미디어 마케팅의 세계]]></title>
             <link>https://zdnet.co.kr/view/?no=20220711153234</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220708172924</guid>
             <pubDate>Fri, 08 Jul 2022 09:23:29 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 거래소 포블게이트(대표 어국선)는 코드 트래블룰 솔루션과 연동 완료해 100만원 이상의 가상자산 전송 가능 거래소가 확대됐다고 8일 밝혔다. 트래블룰이란 국제자금세탁방...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["상반기 블록체인 웹3 노린 해킹으로 2.6조원 피해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220708164709</link>
-            <guid>https://zdnet.co.kr/view/?no=20220708164709</guid>
-            <pubDate>Fri, 08 Jul 2022 09:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[올해 상반기 탈중앙화금융(DeFi·디파이), 대체불가토큰(NFT) 같은 블록체인 웹3 프로젝트를 노린 사이버공격으로, 20억 달러(약 2조6천억 원) 이상의 피해가 발생한 것으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클래로티 CSP 보안 서비스, 국내 5개 그룹사 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220708155016</link>
-            <guid>https://zdnet.co.kr/view/?no=20220708155016</guid>
-            <pubDate>Fri, 08 Jul 2022 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[클래로티가 산업 전반에서 디지털 전환이 본격화되는 국내 환경에 맞춰 확장 IoT(X IOT) 보안 솔루션을 선보인다. 은성율 클래로티 한국 지사장은 8일 서울 강남구 노보텔 엠...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
