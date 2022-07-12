@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 12:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 13:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["NFT·메타버스, 안정적 성장 위해 자율규제 공들일 시점"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220712165022</link>
+            <guid>https://zdnet.co.kr/view/?no=20220712165022</guid>
+            <pubDate>Tue, 12 Jul 2022 13:34:28 GMT</pubDate>
+            <content:encoded><![CDATA["작년 모 기업 대표가 국회에서 플랫폼 자정에 노력을 기울이겠다고 약속했지만 별다른 변화가 없었다. 이런 식으로 자율규제가 당면한 타격을 피하기 위한 수단으로 쓰이면 더 강력한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/12/acedc7b1e89fd8cc00129128ed472f34-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오 노조, 모빌리티 매각에 결사반대 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712155735</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220712182958</guid>
             <pubDate>Tue, 12 Jul 2022 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[사이버위협 인텔리전스 업체 S2W는 자연어처리 학회 '북미 전산 언어학 학회(NAACL 2022)'에서 '다크 웹의 언어 분석(Shedding New Light on the L...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/12/0a8d7149828e0573825ee0b1a2b9da00-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[워게이밍 월드오브워쉽, 새 영국 전함 사전 운용 제공]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712162900</guid>
             <pubDate>Tue, 12 Jul 2022 08:32:01 GMT</pubDate>
             <content:encoded><![CDATA[사상 최고치를 기록한 2021년 우리나라 수출이 코로나19로 침체한 국내경제 회복에 크게 기여했다는 분석이 나왔다. 한국무역협회 국제무역통상연구원(원장 조상현)이 12일 발표한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청호나이스, CJ온스타일서 얼음나오는 커피머신 '에스프레카페' 홈쇼핑 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220712161719</link>
-            <guid>https://zdnet.co.kr/view/?no=20220712161719</guid>
-            <pubDate>Tue, 12 Jul 2022 08:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[청호나이스가 이달 14일 오후 1시 35분부터 1시간 동안 CJ온스타일 홈쇼핑 채널에서 얼음나오는 커피머신 '에스프레카페'를 판매한다고 12일 밝혔다. 청호 에스프레카페는 커피...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
