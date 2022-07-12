@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 09:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 10:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[S2W, 다크웹 언어분석 논문 발표..."사이버범죄 예방에 기여 기대"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220712182958</link>
+            <guid>https://zdnet.co.kr/view/?no=20220712182958</guid>
+            <pubDate>Tue, 12 Jul 2022 10:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[사이버위협 인텔리전스 업체 S2W는 자연어처리 학회 '북미 전산 언어학 학회(NAACL 2022)'에서 '다크 웹의 언어 분석(Shedding New Light on the L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다쏘시스템, 美캐비넷츠닷컴 가상주방 솔루션 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712174652</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712102022</guid>
             <pubDate>Tue, 12 Jul 2022 03:54:04 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 앞으로 5년간 총 5천억원을 투자해 서울 본사 및 지방 거점 오피스 등에 모두 1만개의 신규 일자리를 창출하기로 했다고 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 확산 막는 개인정보 파기 규제 완화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711172928</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711172928</guid>
-            <pubDate>Tue, 12 Jul 2022 01:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인에 기록된 개인정보의 경우 전통적인 방식으로 파기가 어렵다는 점을 고려해, 개인을 알아볼 수 없게 익명정보로 처리한 후 복원이 불가능하게 조치하면 파기한 것으로 인정해주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

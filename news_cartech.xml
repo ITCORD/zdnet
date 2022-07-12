@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 09:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 10:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, 신형 팰리세이드 시동 꺼짐 결함에 SW 업데이트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220712182305</link>
+            <guid>https://zdnet.co.kr/view/?no=20220712182305</guid>
+            <pubDate>Tue, 12 Jul 2022 10:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 신형 팰리세이드 '주행 중 시동 꺼짐' 결함을 해결하고자 소프트웨어(SW) 업데이트를 진행한다. 12일 업계에 따르면 현대차는 신형 팰리세이드 구매자를 대상으로 결...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차 노사, 29년 만의 공장신설·10년만의 신규채용 합의]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712155326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220707153805</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:28 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차는 지난해 ESG 경영성과와 관련 정보를 담은 '2022년 지속가능성 보고서'를 발간했다고 7일 밝혔다. 현대차는 국내외 여러 이해 관계자와 소통을 하기 위해 2003...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐, 아테온 R라인·프레스티지 4모션 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220707152125</link>
-            <guid>https://zdnet.co.kr/view/?no=20220707152125</guid>
-            <pubDate>Thu, 07 Jul 2022 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[폭스바겐코리아는 아테온 R라인 4모션과 프레스티지 4모션을 출시하며 아테온 제품군을 완성했다고 7일 밝혔다. R라인 4모션은 폭스바겐 고성능 브랜드 'R'이 제공하는 부품들을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
