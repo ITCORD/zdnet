@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 10:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 11:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 노조, 모빌리티 매각에 결사반대 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220712155735</link>
+            <guid>https://zdnet.co.kr/view/?no=20220712155735</guid>
+            <pubDate>Tue, 12 Jul 2022 11:10:13 GMT</pubDate>
+            <content:encoded><![CDATA["카카오는 사회적 책임 대신, 회피(매각)를 선택했다." "전 국민이 사용하는 플랫폼을 사모펀드가 운영하는 건 그야말로 고양이에게 생선가게를 맡기는 꼴이다. 모두 불행해질 것이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/11/3565ecb4200bfe682798a161721c83e9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대차, 신형 팰리세이드 시동 꺼짐 결함에 SW 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712182305</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220712180657</guid>
             <pubDate>Tue, 12 Jul 2022 09:20:59 GMT</pubDate>
             <content:encoded><![CDATA[워게이밍(대표 빅터 키슬리)은 해상 전투 MMO 게임 '월드 오브 워쉽(World of Warships)'의 0.11.6 업데이트를 통해 신규 영국 전함의 사전 운용을 제공한다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/12/c30b44978b24b3f083187ef8245eecac-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다쏘시스템, 美캐비넷츠닷컴 가상주방 솔루션 제공]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712161719</guid>
             <pubDate>Tue, 12 Jul 2022 08:32:01 GMT</pubDate>
             <content:encoded><![CDATA[청호나이스가 이달 14일 오후 1시 35분부터 1시간 동안 CJ온스타일 홈쇼핑 채널에서 얼음나오는 커피머신 '에스프레카페'를 판매한다고 12일 밝혔다. 청호 에스프레카페는 커피...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리집 에어컨 전력 소모 줄이는 쿨팁은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220712160135</link>
-            <guid>https://zdnet.co.kr/view/?no=20220712160135</guid>
-            <pubDate>Tue, 12 Jul 2022 08:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[올해는 폭염이 일찍 찾아와 에어컨을 찾는 소비자가 많아졌다. 기상청 기상자료개방포털에 따르면, 올해 서울 기준 가장 빠른 폭염일은 이달 2일이다. 같은달 14일에 시작된 지난해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
