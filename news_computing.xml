@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, AI데이터 5억8000건 추가 개방···총 381종으로 늘어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220712112603</link>
+            <guid>https://zdnet.co.kr/view/?no=20220712112603</guid>
+            <pubDate>Tue, 12 Jul 2022 05:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[과기정통부가 AI학습용 데이터 5억8000건을 무료로 추가 개방했다. 종류로는 190종에 달한다. 이들 데이터는 과기정통부가 구축한 AI포털인 'AI허브(AI Hub)'에서 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디토닉, '유레카데이' 베스트 아이디어상 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712133523</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220711175253</guid>
             <pubDate>Mon, 11 Jul 2022 09:12:12 GMT</pubDate>
             <content:encoded><![CDATA[정보보안 전문업체 펜타시큐리티시스템은 자사 지능형 웹방화벽 와플이 상반기 조달청 판매액 기준 점유율 52%를 기록해, 공공시장 1위를 자리를 지켰다고 11일 밝혔다. 펜타시큐리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI 쉽게 이해하기 3-1. 기계학습 알고리즘]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711172735</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711172735</guid>
-            <pubDate>Mon, 11 Jul 2022 09:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능의 범주를 나눌 때 일반적으로 기계학습(ML, 머신러닝)과 딥러닝으로 나눈다. 그러나 둘의 차이가 무엇인지를 명확히 이해하고 있는 사람은 드물다. 기본적으로는 기계학습이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
