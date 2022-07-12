@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 03:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 민간 공동지원 ICT 스타트업 10곳 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220712135444</link>
+            <guid>https://zdnet.co.kr/view/?no=20220712135444</guid>
+            <pubDate>Tue, 12 Jul 2022 04:55:33 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 올해 민관 협력 기반 ICT 스타트업 육성 사업에 신규 참여하는 10개 스타트업을 선정하고 SK텔레콤, 삼성전자, 하나은행, 하나금융지주, 신한금융지주, K...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HCN, 주거 취약계층에 방송 시청 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712112914</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[방송의날 표어에 "방송 ON, 세상을 향한 울림” 선정]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 12 Jul 2022 03:53:51 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2022 04:55:33 GMT</pubDate>
             <content:encoded><![CDATA[한국방송협회가 실시한 제59회 방송의 날 표어 공모 결과 “방송 ON, 세상을 향한 울림”이 대상으로 선정됐다. 우수상에는 “함께 만드는 방송, 함께 그리는 미래”와 “방송, ...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220710091416</guid>
             <pubDate>Sun, 10 Jul 2022 01:11:41 GMT</pubDate>
             <content:encoded><![CDATA[KT는 양자암호 전용회선 서비스를 지난 1일 출시하고 공공분야와 단체, 기업 등을 대상으로 한 B2B 영업을 본격적으로 시작했다고 10일 밝혔다. 양자암호통신은 양자역학 원리를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[U+tv, 윔블던 챔피언십 남자 결승 독점 중계]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220710090539</link>
-            <guid>https://zdnet.co.kr/view/?no=20220710090539</guid>
-            <pubDate>Sun, 10 Jul 2022 01:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 10일 IPTV 서비스인 'U+tv'를 통해 영국 테니스 대회인 윔블던 챔피언십 남자 결승전을 독점 중계한다고 밝혔다. LG유플러스는 지난 9일 윔블던 챔피언십 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
