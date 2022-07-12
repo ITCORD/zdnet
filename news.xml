@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 17:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 18:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제임스웹 망원경 첫 관측 이미지 보니...우주 보는 눈 밝아졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713024638</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713024638</guid>
+            <pubDate>Tue, 12 Jul 2022 18:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[별의 탄생과 죽음, 생명이 존재할지도 모르는 외계행성 탐색 등 우주의 신비를 더 가까이 관측하기 위한 인류의 도전 정신이 집약된 결정체가 바로 제임스웹망원경이다. 가시광선 대역...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/13/78530dfcc6b9d9f4c55d883a151df739-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["NFT·메타버스, 안정적 성장 위해 자율규제 공들일 시점"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220712165022</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220712182305</guid>
             <pubDate>Tue, 12 Jul 2022 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 신형 팰리세이드 '주행 중 시동 꺼짐' 결함을 해결하고자 소프트웨어(SW) 업데이트를 진행한다. 12일 업계에 따르면 현대차는 신형 팰리세이드 구매자를 대상으로 결...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/10/91674725db94c087e081cd1c835ff44c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[S2W, 다크웹 언어분석 논문 발표..."사이버범죄 예방에 기여 기대"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712155404</guid>
             <pubDate>Tue, 12 Jul 2022 08:32:01 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트 엔터테인먼트(대표 장인아)는 버추얼 크리에이터 세아의 생일을 맞아 팬들이 전해준 지하철 광고판 선물을 인증했다고 12일 밝혔다. 회사 측에 따르면 세아는 지난 7일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 수출, 경제성장률 절반 이상 책임져…GDP 비중 37.9%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220712162900</link>
-            <guid>https://zdnet.co.kr/view/?no=20220712162900</guid>
-            <pubDate>Tue, 12 Jul 2022 08:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최고치를 기록한 2021년 우리나라 수출이 코로나19로 침체한 국내경제 회복에 크게 기여했다는 분석이 나왔다. 한국무역협회 국제무역통상연구원(원장 조상현)이 12일 발표한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
