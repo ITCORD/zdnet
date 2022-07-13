@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 04:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 자동차 시장에 통신특허 태풍 온다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713134047</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713134047</guid>
+            <pubDate>Wed, 13 Jul 2022 05:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[세계 자동차시장에 '아반시(Avanci)'발 특허료 인상 강풍이 불고 있다. 특허풀 관리전문업체 아반시가 자동차업체들에게 4G 관련 표준특허료를 대폭 인상하겠다고 통보했다고 포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차 노사, 4년 연속 무분규 임금협상 잠정합의]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713094450</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220708153046</guid>
             <pubDate>Fri, 08 Jul 2022 08:26:22 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹이 전기자동차, 수소전기자동차, 하이브리드자동차 등 친환경자동차에 들어가는 고전압 배터리 명칭을 '리튬이온 배터리'로 일원화한다. 8일 현대차그룹에 따르면 현대자동...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, 'EV 테크 랩' 개최…해외 전기차 정비역량 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220708151022</link>
-            <guid>https://zdnet.co.kr/view/?no=20220708151022</guid>
-            <pubDate>Fri, 08 Jul 2022 08:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차가 해외 전기자동차 정비역량 강화에 나섰다. 현대차는 전기차 정비 인력 육성과 소비자 만족도 강화를 전기차 정비 특화 워크숍인 'EV 테크 랩'을 개최했다고 8일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
