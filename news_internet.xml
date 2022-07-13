@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 22:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 23:28:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713153103</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713153103</guid>
+            <pubDate>Wed, 13 Jul 2022 23:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[모든 산업군에서 디지털 전환이 빠르게 이뤄지면서 유능한 개발자를 찾는 기업들이 부쩍 늘었습니다. 특히 한정된 개발 인재풀 안에서 적합한 인재를 영입하고, 고유의 사내 개발 문화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스파이더, 포스시장 진출…"퀵커머스 접근성 높인다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713174132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220711130817</guid>
             <pubDate>Mon, 11 Jul 2022 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[“카카오모빌리티가 사모펀드(MBK파트너스)에 팔리면, 당연히 인력 이탈이 생길 수밖에 없다. 운영에서도 문제가 발생할 것이다. 카카오는 택시, 대리운전 사업뿐 아니라 자율주행과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓, 비즈프로필 '단골' 이용자 200만명 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711100640</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711100640</guid>
-            <pubDate>Mon, 11 Jul 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[지역생활 커뮤니티 당근마켓(공동대표 김용현, 김재현)이 비즈프로필에서 단골 맺기를 통해 지역 가게 소식을 받아보는 단골 이용자 수가 200만명을 넘어섰다고 11일 밝혔다. 비즈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
