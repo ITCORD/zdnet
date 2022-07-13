@@ -4,24 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 앱 내 웹결제 아웃링크 결국 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713143133</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713143133</guid>
+            <pubDate>Wed, 13 Jul 2022 06:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[구글 인앱결제(이용자가 구글 플레이스토어나 애플 앱스토어 계정에 등록해둔 결제수단으로 이뤄지는 결제) 정책을 따르지 않고, 앱 내에 웹 결제 아웃링크를 제공해온 카카오가 한 발...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2012/10/23/BiUdvftbqa0lnZh5K6Jn-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라인, NFT 사업 IP 확보 나서…CJ ENM 등과 130억 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713142942</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713142942</guid>
+            <pubDate>Wed, 13 Jul 2022 06:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[라인 넥스트(대표 고영수)가 글로벌 대체불가토큰(NFT) 생태계 구축을 위해 총 10개사와 1천만 달러(약 130억원) 규모의 전략적 투자 계약을 체결했다고 13일 밝혔다. 이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/13/558da26c6b7788822b076c145438d76b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['삼성청년SW아카데미' 8기 1150명 입학...미래 개발자 양성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713140615</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713140615</guid>
+            <pubDate>Wed, 13 Jul 2022 06:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[삼성은 청년 취업 지원 프로그램인 '삼성청년SW아카데미(Samsung Software Academy For Youth, SSAFY)' 8기에 1천 150명이 입학했다고 13일 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/13/0aaa377d77b448342e57ec46e526e8fe-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["코로나19 이후 반도체 공급망 흔들…첨단 산업 타격"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713121307</link>
             <guid>https://zdnet.co.kr/view/?no=20220713121307</guid>
             <pubDate>Wed, 13 Jul 2022 05:23:54 GMT</pubDate>
             <content:encoded><![CDATA[반도체 공급망이 흔들려 이를 필요로 하는 첨단 산업마저 타격을 입고 있다. 반도체 제조 장비 수급부터 원활하지 않아 반도체를 생산해 수요산업에 적용하기까지 지연됐다. 시바 시바...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/09/69c809c5176d8075b924ab5b2b118923-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[증권플러스, 비상장 주식 거래 요건 강화]]></title>
+            <title><![CDATA[증권플러스 비상장, 주식 거래 요건 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713141840</link>
             <guid>https://zdnet.co.kr/view/?no=20220713141840</guid>
             <pubDate>Wed, 13 Jul 2022 05:23:54 GMT</pubDate>
             <content:encoded><![CDATA[국내 비상장 안전 거래 플랫폼 증권플러스 비상장은 지난 7월 1일부로 투자자 보호를 위한 거래 가능 종목 제한 및 정책 변경사항을 적용했다고 13일 밝혔다. 현재 기준 증권플러...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/04/02/lyk_KeCo6ofhw7onqwZH-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이창용 "물가안정 위해 빅스텝 단행…당분간 25bp씩 점진적 인상"]]></title>
@@ -29,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220713121801</guid>
             <pubDate>Wed, 13 Jul 2022 05:23:54 GMT</pubDate>
             <content:encoded><![CDATA["치솟는 물가를 잡기 위해 사상 처음 기준금리를 한번에 0.50%p(50bp) 올리는 '빅 스텝'을 밟았다." 이창용 한국은행 총재가 13일 오전 서울 중구 한국은행 브리핑실에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/13/8aaacacdff7dcc54c2e2f67b1413880e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코인원, K리그 선수-발달장애인 만남 후원]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220713102451</guid>
             <pubDate>Wed, 13 Jul 2022 04:30:15 GMT</pubDate>
             <content:encoded><![CDATA[한국은행 금융통화위원회가 사상 처음으로 기준금리를 0.50%p(50bp) 올리는 '빅스텝'을 13일 결정했다. 1999년 기준금리가 도입된 이후 글로벌 금융위기·세월호·코로나1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 오딘, 죄악의 심연 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220713105116</link>
-            <guid>https://zdnet.co.kr/view/?no=20220713105116</guid>
-            <pubDate>Wed, 13 Jul 2022 04:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈(대표 조계현)는 13일 라이온하트 스튜디오(대표 김재영)가 개발한 대작 MMORPG '오딘: 발할라 라이징(이하 '오딘')'에 '죄악의 심연' 업데이트를 실시했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 블록체인·핀테크 기업 기술특례상장 컨설팅 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220713091500</link>
-            <guid>https://zdnet.co.kr/view/?no=20220713091500</guid>
-            <pubDate>Wed, 13 Jul 2022 03:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)과 과학기술정보통신부가 오는 15일 서울 가락동 KISA 핀테크 지원센터에서 '2022년 블록체인·핀테크 기업 기술특례상장 컨설팅 사업설명회'를 개최한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[철도차량 입찰담합 현대로템 등 3사에 과징금 564억원 부과]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220713104443</link>
-            <guid>https://zdnet.co.kr/view/?no=20220713104443</guid>
-            <pubDate>Wed, 13 Jul 2022 03:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 코레일·서울교통공사 등 철도운영기관이 실시한 철도차량 구매입찰에서 수년간 입찰담합한 현대로템과 우진산전·다원시스에 시정명령과 함께 564억7천800만원의 과징금...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

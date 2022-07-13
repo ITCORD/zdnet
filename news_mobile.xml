@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼성청년SW아카데미' 8기 1150명 입학...미래 개발자 양성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713140615</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713140615</guid>
+            <pubDate>Wed, 13 Jul 2022 06:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[삼성은 청년 취업 지원 프로그램인 '삼성청년SW아카데미(Samsung Software Academy For Youth, SSAFY)' 8기에 1천 150명이 입학했다고 13일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한미마이크로닉스, PNY 그래픽카드 프로모션 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713131548</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712000154</guid>
             <pubDate>Mon, 11 Jul 2022 23:12:13 GMT</pubDate>
             <content:encoded><![CDATA[2년간 기록적인 성장세를 유지했던 전세계 PC 시장에 빨간불이 켜졌다. 중국 봉쇄로 촉발된 물류난과 생산량 감소, 경기침체 우려가 생산량과 수요 모두에 영향을 미친 결과다. 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에브리봇, 물걸레 로봇청소기 'Q5' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711170145</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711170145</guid>
-            <pubDate>Mon, 11 Jul 2022 09:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[에브리봇이 물걸레 청소 기능을 강화한 로봇 청소기 'Q5'를 출시했다고 11일 밝혔다. 이번 신제품은 진동 방식 물걸레를 탑재했다. 자동 먼지 비움, 필터 청소 기능을 지원해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

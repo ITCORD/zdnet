@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 앱 내 웹결제 아웃링크 결국 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713143133</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713143133</guid>
+            <pubDate>Wed, 13 Jul 2022 06:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[구글 인앱결제(이용자가 구글 플레이스토어나 애플 앱스토어 계정에 등록해둔 결제수단으로 이뤄지는 결제) 정책을 따르지 않고, 앱 내에 웹 결제 아웃링크를 제공해온 카카오가 한 발...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터 "스팸계정은 핑계…머스크는 위선적"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713102117</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220711105637</guid>
             <pubDate>Mon, 11 Jul 2022 03:19:20 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡이츠서비스는 여름철 폭염에 대비하기 위해 배달파트너에게 생수 쿠폰을 지급한다고 11일 밝혔다. 이번 생수 쿠폰 지급은 폭염 열사병 예방을 위해 정부가 강조하고 있는 '물, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, '쇼핑 스마트블록' 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711094302</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711094302</guid>
-            <pubDate>Mon, 11 Jul 2022 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 직접 구매 인증한 사용자의 상품평, 날씨∙시즌별 추천 아이템 정보 등을 손쉽게 확인할 수 있는 '쇼핑 스마트블록'을 선보였다고 11일 밝혔다. 이번에 새롭게 추가된 쇼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
