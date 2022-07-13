@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 10:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 11:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["경계 넘어 편견 깨면 우리, '사람'이 보인다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220713200452</link>
+            <guid>https://zdnet.co.kr/view/?no=20220713200452</guid>
+            <pubDate>Wed, 13 Jul 2022 11:10:18 GMT</pubDate>
+            <content:encoded><![CDATA["수학은 끊임없이 경계를 넘어갈 것을 요구하고, 그럼으로써 우리가 편견을 넘어설 기회를 줍니다. 이것이 바로 수학이 우리에게 가르쳐주는 교훈이라고 생각합니다. " 허준이 프린스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/13/151175ac208fbb906b458f875377a990-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환경산업기술원, 찾아가는 석면노출 피해자 구제 서비스 나서]]></title>
             <link>https://zdnet.co.kr/view/?no=20220713190949</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220713183605</guid>
             <pubDate>Wed, 13 Jul 2022 10:14:47 GMT</pubDate>
             <content:encoded><![CDATA[“과거 몇십 년 전에 만들어져 지금 스타트업들이 사업하는데 적절하지 않거나, 이미 불필요해진 낡은 규제들이 있다. 이를 합리적이고, 지속가능하게 만들어나가야 한다. 또한 한 번...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/13/8141fba347828fa89a11e1ace4bcbeae-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한자연, 천안·아산 강소특구 연구소기업 성장 지원 나서]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220713163226</guid>
             <pubDate>Wed, 13 Jul 2022 08:15:00 GMT</pubDate>
             <content:encoded><![CDATA[LG에너지솔루션이 해외 시장에서 쾌속 질주를 이어가고 있다. 일본·인도 기업에 연이어 배터리를 공급하기로 하는 등 해외 시장 확대에 박차를 가하고 있다. 13일 관련 업계에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원유니버스, IPO 주관사로 KB증권 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220713161616</link>
-            <guid>https://zdnet.co.kr/view/?no=20220713161616</guid>
-            <pubDate>Wed, 13 Jul 2022 08:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[와이제이엠게임즈 관계사 원유니버스가 상장 대표 주관사로 KB증권을 선정했다고 13일 밝혔다. 원유니버스는 주관사 선정 이후 본격적인 기업공개(IPO) 절차에 돌입해 코스닥 시장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
