@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[BA.5보다 센 '켄타우로스' 국내에서 첫 검출]]></title>
+            <title><![CDATA[오미크론 새 변이 국내 첫 확인…인도서 처음 보고된 BA.2.75]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220714161114</link>
+            <guid>https://zdnet.co.kr/view/?no=20220714161114</guid>
+            <pubDate>Thu, 14 Jul 2022 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 인도에서 보고된 오미크론 세부계통인 BA.2.75변이가 국내에서 처음으로 확인됐다. 질병관리청 중앙방역대책본부는 인천에 거주중인 60대의 유전체분석에서 오미크론 세부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현존 최대 전파력 '켄타우로스' 변이 국내에서 첫 검출]]></title>
             <link>https://zdnet.co.kr/view/?no=20220714145358</link>
             <guid>https://zdnet.co.kr/view/?no=20220714145358</guid>
             <pubDate>Thu, 14 Jul 2022 06:17:10 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712145356</guid>
             <pubDate>Tue, 12 Jul 2022 06:18:00 GMT</pubDate>
             <content:encoded><![CDATA[의료기기 유통거래질서 정착을 위한 정책토론회가 12일 오후 국회의원회관에서 개최됐다. 토론회는 서정숙 국민의힘 의원, 고영인 더불어민주당 의원이 공동주최하고 한국의료기기산업협회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1만→2만→오늘은 4만명…9일째 '배로 뛴다']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220712091054</link>
-            <guid>https://zdnet.co.kr/view/?no=20220712091054</guid>
-            <pubDate>Tue, 12 Jul 2022 01:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[방역 전문가들은 정부가 오는 13일 발표하는 '신종 코로나바이러스 감염증(코로나19) 여름철 재유행 대비·대응 방안'이 확진자의 신속한 검사와 치료가 이뤄지는 데 방점을 찍어야...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
