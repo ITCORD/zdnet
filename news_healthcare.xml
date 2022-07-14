@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BA.5보다 센 '켄타우로스' 국내에서 첫 검출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220714145358</link>
+            <guid>https://zdnet.co.kr/view/?no=20220714145358</guid>
+            <pubDate>Thu, 14 Jul 2022 06:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[현재까지 파악된 주요 신종 코로나바이러스 감염증(코로나19) 하위 변이 가운데 가장 전파력이 강한 것으로 알려진 'BA.2.75'(일명 '켄타우로스') 변이 의심환자가 국내에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1년 안돼 백신 4방, 괜찮을까…"이상반응 경미"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220714131948</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712091054</guid>
             <pubDate>Tue, 12 Jul 2022 01:09:18 GMT</pubDate>
             <content:encoded><![CDATA[방역 전문가들은 정부가 오는 13일 발표하는 '신종 코로나바이러스 감염증(코로나19) 여름철 재유행 대비·대응 방안'이 확진자의 신속한 검사와 치료가 이뤄지는 데 방점을 찍어야...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽배송 농산물 배송 전 검사해 소비자 안심 제고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711173100</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711173100</guid>
-            <pubDate>Mon, 11 Jul 2022 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처는 최근 물류체계 발달로 급성장 중인 새벽배송 유통 농산물의 안전성을 신속하게 확보하기 위해 6개월(6월~11월) 동안 월별 특별관리 대상 농산물이 소비자에게 배...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
