@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 12:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 13:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레어네트워크, 메인넷 출시…"완전한 '크로스체인' 구현 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220714215627</link>
+            <guid>https://zdnet.co.kr/view/?no=20220714215627</guid>
+            <pubDate>Thu, 14 Jul 2022 13:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[탈중앙화 스마트컨트랙트 플랫폼 플레어네트워크는 14일 메인넷을 출시하겠다고 밝혔다. 플레어네트워크는 플레어 기반 디앱이 외부 데이터에 대한 합의 프로토콜을 갖췄기 때문에, 외부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팔라, '마이바이어스' NFT 거래 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220714212149</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714100730</guid>
             <pubDate>Thu, 14 Jul 2022 03:55:50 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDS가 오픈체인(OpenChain) 프로젝트'가 부여하는 오픈소스 국제 표준 인증(ISO/IEC 5230:2020)을 획득했다고 14일 밝혔다. 이 인증은 2016년 리눅...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 가상자산 대출업체 셀시우스, 파산 신청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714084622</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714084622</guid>
-            <pubDate>Thu, 14 Jul 2022 03:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 가상자산 담보대출 업체인 셀시우스가 파산을 신청했다. 셀시우스는 지난달 가상자산 가치가 급락하자 대규모 인출로 인해 피해를 입는 '뱅크런'을 막기 위해 대출을 중단했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
