@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 세미크론 전기차용 전원장치에 모스펫 탑재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715141230</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715141230</guid>
+            <pubDate>Fri, 15 Jul 2022 05:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 15일 독일 전력반도체 기업 세미크론의 전기자동차용 전원 장치에 '탄화규소(SiC) 금속 산화막 반도체 전계 효과 트랜지스터(MOSFET·모스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 "한·미 반도체 협력 방안 논의"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220714191143</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220707145615</guid>
             <pubDate>Thu, 07 Jul 2022 06:16:21 GMT</pubDate>
             <content:encoded><![CDATA[한국전자통신연구원(ETRI)이 영국 인공지능(AI) 반도체 스타트업 그래프코어와 AI 컴퓨터를 공동 개발한다. ETRI는 지난 6일 주한영국대사관에서 그래프코어와 업무협약을 체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 시안 1주일 봉쇄…삼성전자 반도체공장 소재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220707091256</link>
-            <guid>https://zdnet.co.kr/view/?no=20220707091256</guid>
-            <pubDate>Thu, 07 Jul 2022 01:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 신종 코로나바이러스 감염증(코로나19) 오미크론 하위변이 BA.5.2가 처음 발생한 산시성의 성도 시안을 1주일간 봉쇄한다고 중국 중앙통신이 6일(현지시간) 보도했다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
