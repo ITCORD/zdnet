@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스원, 직원 사기 진작 아이스크림 무제한 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715182225</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715182225</guid>
+            <pubDate>Fri, 15 Jul 2022 10:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[시스원(대표 이상훈, 서일종)은 여름 폭염에 지친 직원들의 사기를 진작시키기 위해 무제한 아이스크림을 제공하는 아이스크림 데이를 시행하고 있다고 15일 밝혔다. 초복인 7월 1...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/15/866d73ffd509f382ff0b591a3d6b0ba9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 위믹스 예치 서비스 스테이크360 오픈]]></title>
             <link>https://zdnet.co.kr/view/?no=20220715180530</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220715170119</guid>
             <pubDate>Fri, 15 Jul 2022 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 트위터 인수 계약을 파기한 일론 머스크 테슬라 최고경영자(CEO)의 트윗 관련 조사에 착수했다고 CNBC 등 복수 외신은 14일(이하 현지시간) ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/22/93ddb4ad7d8924c296bce6a59ffb4fcf-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박윤규 차관 "메타버스 특별법 제정 입법논의 적극 지원”]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220715152911</guid>
             <pubDate>Fri, 15 Jul 2022 07:10:48 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부와 해양수산부는 15일 부산 한국조선해양기자재연구원에서 '친환경선박 전주기 혁신기술개발사업 통합사업단'을 출범했다. 이번 사업은 국제규제를 만족하는 친환경 선박과 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SEMI "메모리 반도체 장비 수요 줄어든다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220715155713</link>
-            <guid>https://zdnet.co.kr/view/?no=20220715155713</guid>
-            <pubDate>Fri, 15 Jul 2022 07:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[메모리 반도체 장비 수요가 내년에 줄어들 것이라는 전망이 나왔다. 국제반도체장비재료협회(SEMI)는 14일(현지시간) 미국 샌프란시스코에서 '세미콘 웨스트' 전시회를 열고 세계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
