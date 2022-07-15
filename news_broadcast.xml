@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['축구부터 UFC까지'...스포츠 중계하는 OTT 플랫폼]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715100312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715100312</guid>
+            <pubDate>Fri, 15 Jul 2022 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 동영상 서비스(OTT) 플랫폼들이 최근 스포츠 중계권을 확보하며 콘텐츠를 늘리고 있다. 큰 비용 투자해도 성공을 담보할 수 없는 자체제작 콘텐츠에 비해 스포츠 중계는 고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['티빙+시즌' 국내 최대 OTT 탄생…웨이브,  HBO로 반격하나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220714221213</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714085416</guid>
             <pubDate>Thu, 14 Jul 2022 01:02:55 GMT</pubDate>
             <content:encoded><![CDATA[세종텔레콤이 인공지능(AI) 전문기업 셀바스AI와 손잡고 AI 대리운전 콜센터 서비스를 출시했다고 14일 밝혔다. AI 대리운전 콜센터 서비스는 AI 상담원이 24시간 365일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 광고요금제 서비스 파트너로 MS 낙점]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714081608</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714081608</guid>
-            <pubDate>Thu, 14 Jul 2022 01:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 광고를 포함한 저가요금제 서비스를 구축하기 위해 마이크로소프트(MS)와 손을 잡는다. 13일(현지시간) 엔가젯에 따르면, 넷플릭스는 광고요금제에 들어갈 시스템 구축을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

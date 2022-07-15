@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, '2023년형 아이오닉5' 출시…주행거리 458km]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715155901</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715155901</guid>
+            <pubDate>Fri, 15 Jul 2022 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차는 15일 '2023년형 아이오닉5'를 출시한다고 밝혔다. 2023년형 아이오닉5는 배터리 팩 용량을 늘려 이전보다 긴 주행거리를 확보하고, 소비자 선호도가 높은 안전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[상반기 친환경車 수출액 첫 70억 달러 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20220715085124</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220712110701</guid>
             <pubDate>Tue, 12 Jul 2022 03:56:26 GMT</pubDate>
             <content:encoded><![CDATA[볼보가 올해 안에 유럽자동차제조협회(ACEA)에서 탈퇴한다. 볼보는 최근 성명을 통해 "ACEA는 기후변화 억제를 위한 어떠한 조치도 취하고 있지 않다"면서 "올해 내로 협회를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 CES 기간 중 자율주행 레이스 'IAC' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220712104459</link>
-            <guid>https://zdnet.co.kr/view/?no=20220712104459</guid>
-            <pubDate>Tue, 12 Jul 2022 03:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행차 경주 '인디 오토노머스 챌린지'(IAC)가 올해에 이어 내년 CES 2023 기간에도 개최된다. CES를 운영하는 미국 CTA(소비자기술협회)가 11일(미국 현지시간...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

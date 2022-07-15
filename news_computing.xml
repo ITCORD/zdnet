@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시그마체인, '가상자산 검증' 역량 키운다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715154119</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715154119</guid>
+            <pubDate>Fri, 15 Jul 2022 07:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 솔루션 기업 시그마체인(대표 곽진영)은 기업과 개인을 아우르는 종합신용평가 회사 한국평가데이터(KoDATA), 소프트웨어 테스트 업체 와이어와이어즈와 가상자산 평가 신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가비아, 중소·중견기업 그룹웨어 신규고객에 40% 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20220715141411</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714160107</guid>
             <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 '테라-루나' 폭락 사태가 발생 이후 지속되는 암호화폐 거래 시장 침체(크립토윈터)가 올해 4분기에 회복세를 보일 것이란 전망이 나왔다. 국내 가상자산 거래소 코빗(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 2분기 순익 76% 증가…10조4천억원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714155421</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714155421</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 반도체 위탁생산전문업체 TSMC가 2분기에 순익이 76% 증가하면서 활짝 웃었다. 대만 반도체업체 TSMC가 2분기에 2천370억 대만 달러(약 10조4천억원) 순익...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
