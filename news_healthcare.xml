@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 01:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 코로나19 신규확진 3만8882명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715095618</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715095618</guid>
+            <pubDate>Fri, 15 Jul 2022 01:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규 확진자 수가 3만8천882명으로 나타났다. 중앙방역대책본부(방대본)에 따르면, 15일 0시 기준 국내 발생 신규 확진자는 3만8천621명이며 해외유입 사례...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오미크론 새 변이 국내 첫 확인…인도서 처음 보고된 BA.2.75]]></title>
             <link>https://zdnet.co.kr/view/?no=20220714161114</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220713082100</guid>
             <pubDate>Wed, 13 Jul 2022 01:03:13 GMT</pubDate>
             <content:encoded><![CDATA[“제조기술, 품질관리가 우수한 국내 원료의약품 산업이 성장하기 위해서는 직접 생산원료를 사용한 의약품에 대한 약가 우대 등 정부의 적극적인 의지가 중요하다” 12일 남인순 국회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[불투명·불공정 거래 온상…의료기기 유통구조 손봐야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220712145356</link>
-            <guid>https://zdnet.co.kr/view/?no=20220712145356</guid>
-            <pubDate>Tue, 12 Jul 2022 06:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[의료기기 유통거래질서 정착을 위한 정책토론회가 12일 오후 국회의원회관에서 개최됐다. 토론회는 서정숙 국민의힘 의원, 고영인 더불어민주당 의원이 공동주최하고 한국의료기기산업협회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
