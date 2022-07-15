@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 03:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당근마켓 같은 앱을 노코드·로우코드로도 개발할 수 있나요?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220715123157</link>
+            <guid>https://zdnet.co.kr/view/?no=20220715123157</guid>
+            <pubDate>Fri, 15 Jul 2022 04:58:57 GMT</pubDate>
+            <content:encoded><![CDATA[“노코드·로우코드(LCNC)로 당근마켓이나 토스 같은 애플리케이션을 출시할 수 있을까요?” “개발자가 없이 LCNC만으로 스마트팩토리를 구축하려면 비용은 얼마나 드나요?” 한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윈도11 메이저 업데이트, 3년 주기로 바뀌나]]></title>
             <link>https://zdnet.co.kr/view/?no=20220715115835</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714144922</guid>
             <pubDate>Thu, 14 Jul 2022 06:15:45 GMT</pubDate>
             <content:encoded><![CDATA[조달청이 상용SW 직접구매 관리시스템을 구축한다. 국산 상용SW가 공공기관에 보다 활발히 도입되게 하기 위해서다. 다음달 연구용역을 발주하고 내년 하반기 시범운영을 거쳐 오는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코인마켓 거래소도 합심…"상장 심사위·종목 관리 공동 대응"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714132340</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714132340</guid>
-            <pubDate>Thu, 14 Jul 2022 06:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 시장에 대혼란을 불러온 '테라-루나' 사태를 계기로 가상자산 거래 환경의 안전성을 높이자는 목소리가 커지는 가운데, 코인마켓 중심 가상자산 거래소들이 공동 가이드라인을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
