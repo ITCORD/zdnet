@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 01:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT "우리보다 도심항공교통 더 잘 할 곳 없다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220716131128</link>
+            <guid>https://zdnet.co.kr/view/?no=20220716131128</guid>
+            <pubDate>Sun, 17 Jul 2022 01:03:01 GMT</pubDate>
+            <content:encoded><![CDATA["갑자기 왜 SK텔레콤이 항공사업에 진출하느냐는 질문을 많이 받았다. 그런데 저희가 생각할 때 도심항공교통(UAM) 사업을 SK텔레콤보다 더 잘 할 사업자는 없는 것 같다. 그...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박윤규 차관 "메타버스 특별법 제정 입법논의 적극 지원"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220715175112</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714090757</guid>
             <pubDate>Thu, 14 Jul 2022 03:55:38 GMT</pubDate>
             <content:encoded><![CDATA[KT는 여름휴가 시즌을 맞아 '로밍데이터 사이즈 업' 프로모션을 실시한다고 14일 밝혔다. 로밍데이터 사이즈 업은 로밍 상품을 신청한 이용자에게 추가 데이터를 제공하는 이벤트다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['OTT부터 쇼핑까지'...LGU+, 구독 플랫폼 '유독' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714085433</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714085433</guid>
-            <pubDate>Thu, 14 Jul 2022 01:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 선택 제한·요금 부담·해지 불편이 없는 신규 구독 플랫폼을 출시했다. LG유플러스는 14일 기자간담회를 열고 구독 플랫폼인 '유독'을 공개했다. 유독은 기존 구독...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
