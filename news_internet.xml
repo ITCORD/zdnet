@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 03:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 04:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 ESPN+, 월 구독료 43% 인상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220717123832</link>
+            <guid>https://zdnet.co.kr/view/?no=20220717123832</guid>
+            <pubDate>Sun, 17 Jul 2022 04:29:08 GMT</pubDate>
+            <content:encoded><![CDATA[월트디즈니가 스포츠 스트리밍 서비스 ESPN+(플러스) 월 구독료를 6.99달러(약 9천260원)에서 9.99달러(약 1만3천200원)로 43% 인상한다고 CNBC, 정보기술(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[지디의 네웹툰] 물고기 된 인간 생존기 '물고기로 살아남기']]></title>
             <link>https://zdnet.co.kr/view/?no=20220716104222</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714102045</guid>
             <pubDate>Thu, 14 Jul 2022 03:56:34 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 작곡 스타트업 포자랩스는 수퍼톤, 서울대학교 음악오디오연구실 (Music and Audio Research Group)과 컨소시엄을 구성해, 'AI 프로듀서: ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 남궁훈-홍은택 투톱 체제로 전환]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714104937</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714104937</guid>
-            <pubDate>Thu, 14 Jul 2022 03:56:34 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 사회적 책임 강화 등을 이유로 남궁훈 단독 대표 체제에서 '남궁훈-홍은택' 각자 대표 체제로 전환한다. 카카오는 14일 이사회를 열고 홍은택 카카오 공동체얼라인먼트 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
