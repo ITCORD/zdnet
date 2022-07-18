@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 10:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹, 판버러 에어쇼 참가…UAM 콘셉트 모델 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220718190818</link>
+            <guid>https://zdnet.co.kr/view/?no=20220718190818</guid>
+            <pubDate>Mon, 18 Jul 2022 11:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차그룹은 도심항공모빌리티(UAM) 독립법인 슈퍼널이 영국에서 열리는 판버러 국제 에어쇼에 참가해 콘셉트 모델을 공개했다고 18일 밝혔다. 판버러 에어쇼는 파리 에어쇼에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[최대 73km가는 도심형 전기차 '볼보 XC90 리차지' 타보니]]></title>
             <link>https://zdnet.co.kr/view/?no=20220718162256</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220713092502</guid>
             <pubDate>Wed, 13 Jul 2022 01:03:02 GMT</pubDate>
             <content:encoded><![CDATA[언제가 될지 모르지만 앞으로 운전(運轉)이란 말의 쓰임새는 크게 줄어들 가능성이 높다. 운전기사나 운전면허 같은 말도 더 이상 쓰이지 않게 될 수도 있다. 말만 없어지는 것이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐그룹, 전기차 로드맵 '적신호'…SW 개발 지연 탓]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220713090209</link>
-            <guid>https://zdnet.co.kr/view/?no=20220713090209</guid>
-            <pubDate>Wed, 13 Jul 2022 01:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[폭스바겐그룹 소프트웨어(SW) 자회사 카리아드가 신규 SW 개발에 난항을 겪고 있는 것으로 알려졌다. 오토모티브뉴스유럽 등 주요 외신은 12일(현지시간) 폭스바겐그룹 SW 자회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
