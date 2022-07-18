@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 12:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 13:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비트코인, 한 달만에 22,000달러 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220718222016</link>
+            <guid>https://zdnet.co.kr/view/?no=20220718222016</guid>
+            <pubDate>Mon, 18 Jul 2022 13:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[암호화폐 비트코인 가격이 22,000달러를 돌파하면서 한 달여 만에 최고치를 기록했다. 비트코인 거래 가격은 19일 오전 6시30분(미국 동부시간, 한국시간 오후 8시30분) ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브이에이코퍼레이션, 넷플릭스 오픈하우스서 기술 시연]]></title>
             <link>https://zdnet.co.kr/view/?no=20220718170720</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220716104222</guid>
             <pubDate>Sat, 16 Jul 2022 03:07:08 GMT</pubDate>
             <content:encoded><![CDATA[죽음의 문턱에 선 순간, 물고기로 다시 살아난다면 어떻게 할 것인가? 네이버웹툰 '물고기로 살아남기'(동우)는 믿었던 동료의 배신으로 죽을 위기에 처한 '이유신'이 물고기로 환...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터·머스크, 재판날짜 공방…"9월중순" vs "내년 2월"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220716082303</link>
-            <guid>https://zdnet.co.kr/view/?no=20220716082303</guid>
-            <pubDate>Sat, 16 Jul 2022 01:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[법정 공방에 돌입한 일론 머스크와 트위터가 이번엔 재판 날짜를 놓고 팽팽하게 맞서고 있다. 일론 머스크 측이 신속 재판을 추진하는 트위터에 맞서 소송 일자를 내년 2월로 잡아줄...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
