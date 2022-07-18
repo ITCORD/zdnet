@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울대병원 이사회, 25~29일 병원장 예비후보자 공모]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220718172502</link>
+            <guid>https://zdnet.co.kr/view/?no=20220718172502</guid>
+            <pubDate>Mon, 18 Jul 2022 09:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[서울대병원 이사회가 차기 병원장 예비 후보자를 25일~29일 기간 동안 공개모집한다. 교육부에 따르면, 자격요건은 국가공무원법 제33조(결격사유) 각호의 어느 하나에 해당되지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비대면 진료 허용 이후 위법행위 느는데 정부는 뒷짐]]></title>
             <link>https://zdnet.co.kr/view/?no=20220718163422</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220715095618</guid>
             <pubDate>Fri, 15 Jul 2022 01:15:12 GMT</pubDate>
             <content:encoded><![CDATA[국내 코로나19 신규 확진자 수가 3만8천882명으로 나타났다. 중앙방역대책본부(방대본)에 따르면, 15일 0시 기준 국내 발생 신규 확진자는 3만8천621명이며 해외유입 사례...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 새 변이 국내 첫 확인…인도서 처음 보고된 BA.2.75]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220714161114</link>
-            <guid>https://zdnet.co.kr/view/?no=20220714161114</guid>
-            <pubDate>Thu, 14 Jul 2022 07:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 인도에서 보고된 오미크론 세부계통인 BA.2.75변이가 국내에서 처음으로 확인됐다. 질병관리청 중앙방역대책본부는 인천에 거주중인 60대의 유전체분석에서 오미크론 세부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
