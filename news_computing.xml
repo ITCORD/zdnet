@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 22:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 23:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK쉴더스, 문서중앙화 등 3종 보안 서비스 구독형으로 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220718094329</link>
+            <guid>https://zdnet.co.kr/view/?no=20220718094329</guid>
+            <pubDate>Mon, 18 Jul 2022 23:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스(대표 박진효)가 중소·중견 기업을 위한 사이버보안 구독 서비스 '사이버가드'의 신규 서비스를 출시했다고 19일 밝혔다. SK쉴더스가 중소∙중견 기업을 대상으로 제공하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, 금보원 마이데이터 통합인증중계 시스템 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220719074916</link>
+            <guid>https://zdnet.co.kr/view/?no=20220719074916</guid>
+            <pubDate>Mon, 18 Jul 2022 23:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 박원기)는 금융보안원의 '마이데이터 통합 인증 중계 시스템' 구축 사업자로 선정됐다고 19일 밝혔다. 네이버클라우드와 비즈니스 데이터 플랫폼 기업 쿠콘은 클...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[입문자를 위한 PC용 리눅스 5선]]></title>
             <link>https://zdnet.co.kr/view/?no=20220718164000</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220715154119</guid>
             <pubDate>Fri, 15 Jul 2022 07:11:38 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 솔루션 기업 시그마체인(대표 곽진영)은 기업과 개인을 아우르는 종합신용평가 회사 한국평가데이터(KoDATA), 소프트웨어 테스트 업체 와이어와이어즈와 가상자산 평가 신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가비아, 중소·중견기업 그룹웨어 신규고객에 40% 할인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220715141411</link>
-            <guid>https://zdnet.co.kr/view/?no=20220715141411</guid>
-            <pubDate>Fri, 15 Jul 2022 05:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[가비아(대표 김홍국)는 그룹웨어 '하이웍스'를 처음 사용하는 중소·중견기업의 도입 첫해 이용료 40%를 감면한다고 15일 밝혔다. 가비아는 중소·중견기업이 그룹웨어 하이웍스를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓 같은 앱을 노코드·로우코드로도 개발할 수 있나요?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220715123157</link>
-            <guid>https://zdnet.co.kr/view/?no=20220715123157</guid>
-            <pubDate>Fri, 15 Jul 2022 04:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[“노코드·로우코드(LCNC)로 당근마켓이나 토스 같은 애플리케이션을 출시할 수 있을까요?” “개발자가 없이 LCNC만으로 스마트팩토리를 구축하려면 비용은 얼마나 드나요?” 한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
