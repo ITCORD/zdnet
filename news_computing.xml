@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["탈중앙화 구현 웹 3.0, 호환 인프라가 핵심"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220719131248</link>
+            <guid>https://zdnet.co.kr/view/?no=20220719131248</guid>
+            <pubDate>Tue, 19 Jul 2022 06:15:47 GMT</pubDate>
+            <content:encoded><![CDATA["이용자가 실생활에서 이용하게 될 웹 3.0 서비스들은 여러 블록체인을 기반으로 하고 있다. 지금은 블록체인 100개를 쓰면 지갑 100개를 관리해야 한다. 이용자 경험 측면에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포시에스 이폼사인, 우수연구개발 혁신제품 지정]]></title>
             <link>https://zdnet.co.kr/view/?no=20220719110638</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220718162142</guid>
             <pubDate>Mon, 18 Jul 2022 08:18:35 GMT</pubDate>
             <content:encoded><![CDATA["기업이 가진 다양한 데이터를 퍼블릭 클라우드나 NAS, 외장형 저장장치에 백업하는 목적은 일반적인 인식과 달리 '랜섬웨어 봉쇄'가 아닙니다. 오히려 랜섬웨어의 피해가 발생했을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이티센, 쌍용정보통신과 바스트 데이터 서밋 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220718162450</link>
-            <guid>https://zdnet.co.kr/view/?no=20220718162450</guid>
-            <pubDate>Mon, 18 Jul 2022 08:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센그룹은 자회사 쌍용정보통신와 후원한 세미나 바스트 데이터 서밋 서울을 개최했다고 18일 밝혔다. 지난 14~15일 양일 간 롯데호텔 시그니엘에서 진행된 이번 행사는 올해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
