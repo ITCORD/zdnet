@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FT "소프트뱅크, ARM 英 상장 계획 중단"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220719072947</link>
+            <guid>https://zdnet.co.kr/view/?no=20220719072947</guid>
+            <pubDate>Tue, 19 Jul 2022 01:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[소프트뱅크가 영국 ARM을 런던 증권시장에 상장하려던 계획을 중단했다. 이달 초 보리스 존슨 영국 총리가 사임을 밝히면서 정치적 파장이 커지고 있기 때문이다. 소프트뱅크는 20...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DDI 가격 3분기 10% 하락 전망…TV 수요 부진 탓]]></title>
             <link>https://zdnet.co.kr/view/?no=20220718142346</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220708115137</guid>
             <pubDate>Fri, 08 Jul 2022 06:24:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2년간 극심한 공급부족을 겪어 온 반도체 팹 용량이 올 하반기부터 점차 완화될 것이란 전망이 나왔다. 코로나19로 인한 펜트업(억눌렀던 소비가 폭발하는 현상) 효과 감소,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 수입 막힌 러시아, SSD 컨트롤러 칩 자체 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220708074921</link>
-            <guid>https://zdnet.co.kr/view/?no=20220708074921</guid>
-            <pubDate>Fri, 08 Jul 2022 01:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 침공 이후 주요 반도체 기업의 판매 중단에 직면한 러시아가 SSD 컨트롤러용 칩 자체 개발에 나섰다. 6일(현지시간) 러시아 IT매체 서버뉴스에 따르면, 현지 제조사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
