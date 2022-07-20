@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M2 맥북에어와 맥북프로 13형 연이어 출시...뭘 살까?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220720163521</link>
+            <guid>https://zdnet.co.kr/view/?no=20220720163521</guid>
+            <pubDate>Wed, 20 Jul 2022 08:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 M2 칩을 탑재한 첫 제품인 맥북에어와 맥북프로 13형을 이달부터 국내 포함 전세계 시장에 출시했다. 두 제품 모두 8코어 CPU, 10코어 GPU로 M2 칩 구성도 같...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쑥쑥 크는 음식물처리기 시장..."렌털 약관·냄새·소음 꼼꼼히 따져야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220720151022</link>
@@ -155,16 +163,8 @@
             <title><![CDATA[과기정통부, 3D프린팅 안전이용 가이드라인 개정판 배포]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0030&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0030&amp;page=1</guid>
-            <pubDate>Wed, 20 Jul 2022 07:11:43 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2022 08:16:14 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 3D프린팅 이용자들가 작업 시 주의해야 할 위험요인을 보다 명확히 안내하고, 이에 대한 안전 수칙을 구체적으로 제시하기 위한 '3D프린팅 안전이용 가이드라인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["애플, 애플페이 독점 통해 연 1조3천억 부당 이득"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220719141735</link>
-            <guid>https://zdnet.co.kr/view/?no=20220719141735</guid>
-            <pubDate>Tue, 19 Jul 2022 06:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 자사 모바일 결제 수단애플페이 우대정책을 통해 부당한 이득을 취득한 혐의로 집단 소송을 당했다고 애플인사이더가 18일(현지시간) 보도했다. 보도에 따르면 하겐스 버먼 로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
