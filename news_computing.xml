@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 04:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 05:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["견적 문의합니다"...열어보면 악성코드 '주의']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721132610</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721132610</guid>
+            <pubDate>Thu, 21 Jul 2022 05:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[견적의뢰서나 품의서, 발주서 등을 업무 내용으로 정교하게 위장한 악성코드가 유포되고 있어 주의가 요구된다. 안랩(대표 강석균)은 6월과 7월 업무 내용을 사칭해 악성코드를 유포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오케스트로-넥스클라우드, 공공·금융 시장 클라우드 네이티브 확산 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721133406</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 미래포럼 출범..."대지털시대 패러다임 전환 모색"]]></title>
+            <title><![CDATA[개인정보위, 미래포럼 출범..."디지털시대 패러다임 전환 모색"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721130919</link>
             <guid>https://zdnet.co.kr/view/?no=20220721130919</guid>
             <pubDate>Thu, 21 Jul 2022 04:40:33 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220720174202</guid>
             <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[윈드리버는 미국 항공우주국(NASA) 제임스웹 우주망원경(JWST)의 성능 시험에 실시간 운영체제(RTOS) 'VxWorks'를 공급했다고 20일 밝혔다. NASA 제임스 웹 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 신규 파트너 기술 및 정책 대거 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220720173745</link>
-            <guid>https://zdnet.co.kr/view/?no=20220720173745</guid>
-            <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 20일 연례 파트너 컨퍼런스 마이크로소프트 인스파이어 2022를 온라인으로 개최하고 40만여개 파트너사의 비즈니스 기회 창출을 돕는 기술 및 정책 업데이트를 발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
