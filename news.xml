@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛으로 동작하는 양자 엔진 세계 첫 구현]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721135909</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721135909</guid>
+            <pubDate>Thu, 21 Jul 2022 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[국내 연구진이 빛으로 동작하는 초방사 양자 엔진을 세계 최초로 구현했다. 초방사 양자 엔진은 열역학 법칙을 넘어서는 고효율로 일을 할 수 있어, 향후 고성능 엔진 개발과 광기반...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/21/d8004bea2361dd7446adcc956fc4744e-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[택시 플랫폼 호출 취소 수수료 확인해야…운임 전액 부과도]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721212746</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220721210617</guid>
             <pubDate>Thu, 21 Jul 2022 12:22:30 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 사업자 헥슬란트(대표 노진우)는 가상자산 지갑 인프라 서비스 '옥텟'을 통해 블록체인 진출 기업의 정보보호 관리체계(ISMS) 예비인증과 본 인증 취득을 지원하겠다고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/21/f9b9d74aa7f63fa928aa8dd7ad57196a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부, 악성코드·침해사고 관련 AI 학습데이터 8억 건 구축]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220721145426</guid>
             <pubDate>Thu, 21 Jul 2022 08:14:42 GMT</pubDate>
             <content:encoded><![CDATA[언리얼 엔진 초보 게임 개발자를 위한 온라인 세미나가 마련된다. 에픽게임즈 코리아(대표 박성철)는 다음 달 9일 오픈하는 '게임 제작을 위한 시작해요 언리얼'의 무료 사전 등록...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[필라넷, 마이크로소프트365 지원센터 오픈]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721165841</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721165841</guid>
-            <pubDate>Thu, 21 Jul 2022 08:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[필라넷(대표 김상규)이 M365 지원센터를 오픈했다고 21일 밝혔다. 마이크로소프트의 서비스형 소프트웨어(SaaS) '마이크로소프트365(M365)'를 이용하는 기업을 대상으로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
