@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 2세대 스마트 SSD 개발…"연산 속도 2배"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721190104</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721190104</guid>
+            <pubDate>Thu, 21 Jul 2022 10:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자는 21일 2세대 스마트 솔리드스테이트드라이브(SSD)를 개발했다고 밝혔다. 2020년 AMD와 함께 개발한 스마트 SSD의 다음 세대 제품이다. 2세대 스마트 SSD는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반도체 업계 "정부 투자 지원 미흡"…15만 인재 육성엔 '화색']]></title>
             <link>https://zdnet.co.kr/view/?no=20220721170600</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220715144309</guid>
             <pubDate>Fri, 15 Jul 2022 06:17:05 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 오는 4분기부터 PC 제조사 등 주요 고객사에 공급하는 코어·제온 프로세서 등 공급 가격을 올리기로 했다. 이에 따라 올 4분기부터 출시될 데스크톱PC와 노트북은 물론 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 세미크론 전기차용 전원장치에 모스펫 탑재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220715141230</link>
-            <guid>https://zdnet.co.kr/view/?no=20220715141230</guid>
-            <pubDate>Fri, 15 Jul 2022 05:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 15일 독일 전력반도체 기업 세미크론의 전기자동차용 전원 장치에 '탄화규소(SiC) 금속 산화막 반도체 전계 효과 트랜지스터(MOSFET·모스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
