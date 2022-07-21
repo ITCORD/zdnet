@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 23:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 01:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['켄타우로스' 변이, 1명 추가 확인…누적 2명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721094358</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721094358</guid>
+            <pubDate>Thu, 21 Jul 2022 01:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[질병관리청 중앙방역대책본부(방대본)는 지난 20일 0시 기준 국내 BA.2.75 변이 감염 환자 1명이 추가 확인됐다고 21일 밝혔다. 추가 감염자는 지난 7월 5일 인도에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["삼성서울병원, 중증 고난도 질환 중심의 첨단지능형 미래병원 구현"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220720122244</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220717124007</guid>
             <pubDate>Sun, 17 Jul 2022 04:30:17 GMT</pubDate>
             <content:encoded><![CDATA[17일 0시 기준 국내 코로나19 신규 확진자 수는 국내 발생 신규 확진자 4만37명, 해외유입 사례 305명 등 총 4만342명으로 나타났다. 중앙방역대책본부(방대본)에 따르...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라가 중·저소득 국가 백신 생산인력 양성한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220717122150</link>
-            <guid>https://zdnet.co.kr/view/?no=20220717122150</guid>
-            <pubDate>Sun, 17 Jul 2022 03:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라가 중·저소득 국가의 백신 생산인력 양성을 본격 담당한다. 우리나라는 세계보건기구(WHO)가 지정한 글로벌 바이오 인력양성 허브다. 정부는 그간 인력양성 계획을 준비, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
