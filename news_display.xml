@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 10:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 자동차 디스플레이용 SerDes IC 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721192821</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721192821</guid>
+            <pubDate>Thu, 21 Jul 2022 11:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 21일 자동차 디스플레이용으로 풀HD(1980×1080픽셀)에 대응하는 직렬-병렬 변환기(SerDes) 집적회로(IC)를 개발했다고 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 2세대 스마트 SSD 개발…"연산 속도 2배"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721190104</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220715155713</guid>
             <pubDate>Fri, 15 Jul 2022 07:13:10 GMT</pubDate>
             <content:encoded><![CDATA[메모리 반도체 장비 수요가 내년에 줄어들 것이라는 전망이 나왔다. 국제반도체장비재료협회(SEMI)는 14일(현지시간) 미국 샌프란시스코에서 '세미콘 웨스트' 전시회를 열고 세계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인플레이션 후폭풍...인텔도 4분기부터 CPU 공급가 올린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220715144309</link>
-            <guid>https://zdnet.co.kr/view/?no=20220715144309</guid>
-            <pubDate>Fri, 15 Jul 2022 06:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 오는 4분기부터 PC 제조사 등 주요 고객사에 공급하는 코어·제온 프로세서 등 공급 가격을 올리기로 했다. 이에 따라 올 4분기부터 출시될 데스크톱PC와 노트북은 물론 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
