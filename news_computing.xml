@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, SW 분야 불공정 거래 칼 빼들어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721151555</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721151555</guid>
+            <pubDate>Thu, 21 Jul 2022 07:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[#사례1: (서면 미교부) 고객사 요청으로 소프트웨어(SW)기업이 과업(데이터 백업)을 수행했지만 고객사는 이와 관련한 서면을 교부하지 않았다. 또 과업을 마쳤음에도 고객사는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["해커 막는 AI, '보안 학습 데이터' 없으면 못 만들죠"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721100010</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220720180830</guid>
             <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[레노버 인프라스트럭처솔루션그룹(이하 레노버 ISG)은 회계연도 2021·2022년동안 글로벌 및 국내 사업 성과를 강화했으며, 국내 사업 모멘텀이 더욱 성장하고 있다고 20일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[워크데이 "亞太기업, 팬데믹 중 디지털 민첩성 기회 놓쳐"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220720175555</link>
-            <guid>https://zdnet.co.kr/view/?no=20220720175555</guid>
-            <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[워크데이는 코로나 팬데믹 후 아시아태평양 지역(APAC) 기업의 디지털 민첩성 향상 수준을 조사한 '2022 아시아 태평양 지역 IDC-워크데이 디지털 민첩성 지수(DAI) 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
