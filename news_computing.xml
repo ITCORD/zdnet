@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 06:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["해커 막는 AI, '보안 학습 데이터' 없으면 못 만들죠"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721100010</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721100010</guid>
+            <pubDate>Thu, 21 Jul 2022 06:15:12 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 기반 탐지 모델을 만들려면, AI가 공격 행위와 정상 행위를 구분할 수 있게 학습시켜주는 데이터가 필요하다. 지금까지 보안에서 데이터는 솔루션을 사면 당연히 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT 5억원 어치 털린 프리민트 "피해액 보상·보안 회사 인수"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721114454</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721114454</guid>
+            <pubDate>Thu, 21 Jul 2022 06:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가토큰(NFT) 발행 지원 플랫폼 프리민트가 최근 발생한 해킹으로 피해를 입은 이용자에 대한 보상안을 발표했다. 해킹 재발 방지 차원에서 가상자산 지갑 보안 전문 회사 불...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["견적 문의합니다"...열어보면 악성코드 '주의']]></title>
             <link>https://zdnet.co.kr/view/?no=20220721132610</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220720175555</guid>
             <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[워크데이는 코로나 팬데믹 후 아시아태평양 지역(APAC) 기업의 디지털 민첩성 향상 수준을 조사한 '2022 아시아 태평양 지역 IDC-워크데이 디지털 민첩성 지수(DAI) 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드, 26일 VDI 주제 웨비나 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220720174534</link>
-            <guid>https://zdnet.co.kr/view/?no=20220720174534</guid>
-            <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 오는 26일 오후 2시 '가상데스크톱인프라(VDI)' 서비스를 주제로 재택근무 등 디지털 기반 업무 환경 변화 대응 전략을 공유하는 웨비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윈드리버, 제임스웹 우주 망원경에 RTOS 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220720174202</link>
-            <guid>https://zdnet.co.kr/view/?no=20220720174202</guid>
-            <pubDate>Wed, 20 Jul 2022 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[윈드리버는 미국 항공우주국(NASA) 제임스웹 우주망원경(JWST)의 성능 시험에 실시간 운영체제(RTOS) 'VxWorks'를 공급했다고 20일 밝혔다. NASA 제임스 웹 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

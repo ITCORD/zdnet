@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 06:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부 "2030년 소부장 국산화 50%, 시스템반도체 점유율 10%"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220721142254</link>
+            <guid>https://zdnet.co.kr/view/?no=20220721142254</guid>
+            <pubDate>Thu, 21 Jul 2022 06:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 2030년 반도체 소재·부품·장비 국산화율을 50%로 높이고 메모리에 비해 취약하다고 평가되는 시스템 반도체 시장점유율을 10%로 끌어올리겠다고 선언했다. 산업통상자원부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제2판교에 '반도체 아카데미' 만든다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721091739</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220714094847</guid>
             <pubDate>Thu, 14 Jul 2022 03:56:46 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 24Gbps 그래픽더블데이터레이트(GDDR)6 D램을 개발했다고 14일 밝혔다. GDDR은 그래픽처리장치(GPU)에 쓰이는 D램으로 통상 중앙처리장치(CPU)용 D램...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 ICT 수출 1226억 달러…역대 최고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220713183120</link>
-            <guid>https://zdnet.co.kr/view/?no=20220713183120</guid>
-            <pubDate>Thu, 14 Jul 2022 03:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[상반기 정보통신기술(ICT) 수출액이 역대 가장 좋은 실적을 기록했다. 산업통상자원부는 상반기 ICT 수출액이 1년 전 같은 기간보다 18.9% 늘어난 1천226억 달러로 잠정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
