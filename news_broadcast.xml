@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['OTT 1일 이용권 판매' 페이센스, 8월에 법정 선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220722133941</link>
+            <guid>https://zdnet.co.kr/view/?no=20220722133941</guid>
+            <pubDate>Fri, 22 Jul 2022 06:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 동영상 서비스(OTT) 이용권을 하루단위로 쪼개 판매한 페이센스가 법정에 선다. 22일 업계에 따르면 웨이브, 티빙, 왓챠 등 OTT 3사가 페이센스를 상대로 신청한 가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국회 과방위원장, 내년 5월29일까지 민주당이 맡는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722105637</link>
@@ -75,7 +83,7 @@
             <title><![CDATA[방통위, 모바일앱 이용자보호 제도개선 연구반 구성]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Fri, 22 Jul 2022 05:21:53 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 06:15:58 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 모바일 앱 결제 해지 피해 예방과 이용자 보호, 사업자 자율규제 방안 등을 마련한다. 방통위는 21일 법률 미디어 경영 기술 분야 전문가와 관련 협회 등으로 '...]]></content:encoded>
         </item>
         <item>
@@ -98,7 +106,7 @@
             <title><![CDATA[기재부, OTT 제작비 세제지원 포함…2025년까지 일몰 연장]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Fri, 22 Jul 2022 05:21:53 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 06:15:58 GMT</pubDate>
             <content:encoded><![CDATA[온라인 동영상 서비스(OTT)도 콘텐츠 제작비에 대한 세제지원을 받을 수 있게 됐다. 또한 연말에 일몰될 예정이었던 세제지원도 2025년 연말까지 연장됐다. 다만 기존에 미디어...]]></content:encoded>
         </item>
         <item>
@@ -155,14 +163,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220721091449</guid>
             <pubDate>Thu, 21 Jul 2022 01:01:31 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 시스템 경량화를 통해 통신망 신규 애플리케이션 배포와 트래픽 처리 효율을 향상시킨 코어망을 상용화했다. SK텔레콤은 에릭슨과 초고속·대용량 5G 서비스를 위한 패킷...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CMB, 연말에 'OTT박스' 출시…2025년 50만대 공급 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721093021</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721093021</guid>
-            <pubDate>Thu, 21 Jul 2022 01:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[CMB가 올해 12월 가입자들을 대상으로 온라인 동영상 서비스(OTT) 박스를 출시한다. CMB는 최근 OTT 제조업체와 단말 공급 계약을 완료했으며, OTT박스를 부가 서비스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
