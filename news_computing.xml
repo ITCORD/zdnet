@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타 "개인정보 수집동의 안 하면 못 써"...개인정보위, 보호법 위반 검토]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220722105019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220722105019</guid>
+            <pubDate>Fri, 22 Jul 2022 05:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 소셜미디어 페이스북과 인스타그램을 운영하는 메타가 국내 이용자들에게 개인정보 수집에 동의하지 않으면 이용자 계정을 중단시키겠다고 공지해 논란이다. 개인정보보호위원회는 메...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지멘스, 기후 중립 항공 타깃 조나 테크놀로지 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722133509</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220721100010</guid>
             <pubDate>Thu, 21 Jul 2022 06:15:12 GMT</pubDate>
             <content:encoded><![CDATA["인공지능(AI) 기반 탐지 모델을 만들려면, AI가 공격 행위와 정상 행위를 구분할 수 있게 학습시켜주는 데이터가 필요하다. 지금까지 보안에서 데이터는 솔루션을 사면 당연히 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 5억원 어치 털린 프리민트 "피해액 보상·보안 회사 인수"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721114454</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721114454</guid>
-            <pubDate>Thu, 21 Jul 2022 06:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[대체불가토큰(NFT) 발행 지원 플랫폼 프리민트가 최근 발생한 해킹으로 피해를 입은 이용자에 대한 보상안을 발표했다. 해킹 재발 방지 차원에서 가상자산 지갑 보안 전문 회사 불...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
