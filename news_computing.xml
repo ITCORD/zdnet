@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 03:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 04:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지멘스, 기후 중립 항공 타깃 조나 테크놀로지 인수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220722133509</link>
+            <guid>https://zdnet.co.kr/view/?no=20220722133509</guid>
+            <pubDate>Fri, 22 Jul 2022 04:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어는 공탄성(aeroelastic) 시뮬레이션 솔루션 분야 전문 기업인 조나 테크놀로지를 인수하기로 합의했다고 22일 발표했다. 전 세계적으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NDS, KSURE 네오키스시스템3.0 고도화 사업 완료]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722123146</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220721114454</guid>
             <pubDate>Thu, 21 Jul 2022 06:15:12 GMT</pubDate>
             <content:encoded><![CDATA[대체불가토큰(NFT) 발행 지원 플랫폼 프리민트가 최근 발생한 해킹으로 피해를 입은 이용자에 대한 보상안을 발표했다. 해킹 재발 방지 차원에서 가상자산 지갑 보안 전문 회사 불...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["견적 문의합니다"...열어보면 악성코드 '주의']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721132610</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721132610</guid>
-            <pubDate>Thu, 21 Jul 2022 05:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[견적의뢰서나 품의서, 발주서 등을 업무 내용으로 정교하게 위장한 악성코드가 유포되고 있어 주의가 요구된다. 안랩(대표 강석균)은 6월과 7월 업무 내용을 사칭해 악성코드를 유포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
