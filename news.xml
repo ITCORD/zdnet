@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 22:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 23:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT-하나금융, 4천억원대 지분 교환…디지털 금융 선보인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220723105246</link>
+            <guid>https://zdnet.co.kr/view/?no=20220723105246</guid>
+            <pubDate>Sat, 23 Jul 2022 23:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤과 하나금융그룹이 손을 잡고 ICT와 금융 전반을 아우르는 폭넓은 영역에서 협력을 추진한다. SK텔레콤은 지난 22일 하나금융그룹과 4천억원대 대규모 지분을 교환하고 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/23/ccfad79b368fd475949d07bf9922908c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자수첩] 개인정보 안 주면 '한국만' 이용 금지한다는 메타]]></title>
             <link>https://zdnet.co.kr/view/?no=20220723144820</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220723133646</guid>
             <pubDate>Sat, 23 Jul 2022 05:14:09 GMT</pubDate>
             <content:encoded><![CDATA[주요 게임사들이 임직원들의 업무 환경 개선과 사기 진작을 위해 복지를 강화하고 있다. 일부 게임사의 경영 지원 또는 인사 부문 담당자들은 코로나19 사태 이후 근무 환경에 변화...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/23/6f8bb36f925da26ccd28a84f87e18d3a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 조지아주, '전기차 공장 건설' 현대차에 2조4천억원 인센티브]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722174135</guid>
             <pubDate>Fri, 22 Jul 2022 09:11:30 GMT</pubDate>
             <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 콘텐츠 제작·서비스 플랫폼 'PROJECT MOD'에서 진행하는 개발자 대상 파트너십 프로그램 'Developer Wings 2022(이하 Wings...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["홈게이트웨이 안 쓰이는데...보안요구 사항 어떻게 지키나"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722160945</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722160945</guid>
-            <pubDate>Fri, 22 Jul 2022 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[공동주택(아파트) 홈네트워크 보안을 강화하기 위해 마련된 '지능형 홈네트워크 설비 설치 및 기술기준' 고시와 보안 가이드가 건설 현장의 혼란을 부추기고 있다는 지적이 건설·홈네...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
