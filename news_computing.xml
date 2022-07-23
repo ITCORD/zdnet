@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 07:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["같은 편 되나?"…가상자산업계가 은행 진입 반기는 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220722162307</link>
+            <guid>https://zdnet.co.kr/view/?no=20220722162307</guid>
+            <pubDate>Sat, 23 Jul 2022 07:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[은행이 가상자산 산업에 진출할 것으로 점쳐지면서, 가상자산 업계도 기대감을 내비쳤다. 신뢰도 높은 사업자가 진입함에 따라 업계에 대한 대중 신뢰도도 높아질 수 있다는 기대다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코인사기 피해자 겨냥한 북한發 해킹공격 발견]]></title>
             <link>https://zdnet.co.kr/view/?no=20220723113247</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722100458</guid>
             <pubDate>Fri, 22 Jul 2022 03:44:56 GMT</pubDate>
             <content:encoded><![CDATA[과기정통부가 인공지능(AI)을 활용해 선천성 다발기형, 유전성 심장질환 같은 9대 소아희귀질환을 진단, 치료, 예후 관리한다. 서울대병원, 카카오헬스케어 등 병원과 IT기업 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠버네티스 진입, 첫발은 '개발자 경험'부터]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722100024</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722100024</guid>
-            <pubDate>Fri, 22 Jul 2022 01:04:07 GMT</pubDate>
-            <content:encoded><![CDATA[쿠버네티스는 애플리케이션 배포 및 관리를 자동화할 수 있도록 지원하는 혁신 기술로 빠르게 성장하고 있다. 반면, 빠른 확산 속도에 비해 일반 기업에서 회사 전체 IT운영 플랫폼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
