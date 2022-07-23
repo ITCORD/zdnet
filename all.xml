@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 07:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 08:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] 개인정보 안 주면 '한국만' 이용 금지한다는 메타 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220723144820</link>
+            <guid>https://zdnet.co.kr/view/?no=20220723144820</guid>
+            <pubDate>Sat, 23 Jul 2022 08:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북·인스타그램 운영사 메타가 국내 이용자에게 개인정보 수집 동의를 강제하고 있다. 이미지 등 내용물과 위치, 친구 목록, 연락처 등 정보를 메타에 제공해야만 서비스를 이용...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/16/81f7bf1c29bab558a8fc55bc57a2a408-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["같은 편 되나?"…가상자산업계가 은행 진입 반기는 이유 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722162307</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220723113625</guid>
             <pubDate>Sat, 23 Jul 2022 03:08:07 GMT</pubDate>
             <content:encoded><![CDATA[미국 조지아주가 전기자동차 공장을 건설하는 현대자동차에 2조4천억원에 육박하는 인센티브를 지원한다. AP통신 등 주요 외신에 따르면 조지아 주정부는 22일(현지시간) 서배너 인...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/23/5713a9ca4c731d9653dd93cb4e928dd8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코인사기 피해자 겨냥한 북한發 해킹공격 발견 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,14 +168,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[기자수첩] 소비자를 위한 5G 중간요금제를 희망한다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722093443</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722093443</guid>
-            <pubDate>Fri, 22 Jul 2022 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA["지금 논의 중인 걸로 알려진 24GB 수준의 5G 중간요금제가 소비자지갑에 큰 도움이 되지는 않을 것으로 보입니다. 기존에 100GB를 사용하던 사람이 24GB를 사용하겠다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[SKT, 하나금융지주 주식 취득…지분율 3.09% (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722180108</link>
             <guid>https://zdnet.co.kr/view/?no=20220722180108</guid>
@@ -187,7 +187,7 @@
             <title><![CDATA[방통위, 전 직원 대상 데이터기반행정 특강 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Sat, 23 Jul 2022 07:11:12 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 08:14:56 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회 22일 데이터기반행정 이해와 활용을 주제로 전 직원 대상 특강을 진행했다. 특강은 한국지능정보사회진흥원 유재신 책임연구원을 초청해 공공기관의 데이터기반행정 효율화...]]></content:encoded>
         </item>
         <item>
@@ -290,7 +290,7 @@
             <title><![CDATA[방통위, 모바일앱 이용자보호 제도개선 연구반 구성 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Sat, 23 Jul 2022 07:11:12 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 08:14:56 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 모바일 앱 결제 해지 피해 예방과 이용자 보호, 사업자 자율규제 방안 등을 마련한다. 방통위는 21일 법률 미디어 경영 기술 분야 전문가와 관련 협회 등으로 '...]]></content:encoded>
         </item>
         <item>
@@ -313,7 +313,7 @@
             <title><![CDATA[기재부, OTT 제작비 세제지원 포함…2025년까지 일몰 연장 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://ITCORD.github.io/zdnet/all.xml</link>
             <guid>https://ITCORD.github.io/zdnet/all.xml</guid>
-            <pubDate>Sat, 23 Jul 2022 07:11:12 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 08:14:56 GMT</pubDate>
             <content:encoded><![CDATA[온라인 동영상 서비스(OTT)도 콘텐츠 제작비에 대한 세제지원을 받을 수 있게 됐다. 또한 연말에 일몰될 예정이었던 세제지원도 2025년 연말까지 연장됐다. 다만 기존에 미디어...]]></content:encoded>
         </item>
         <item>
@@ -328,7 +328,7 @@
             <title><![CDATA["같은 편 되나?"…가상자산업계가 은행 진입 반기는 이유 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722162307</link>
             <guid>https://zdnet.co.kr/view/?no=20220722162307</guid>
-            <pubDate>Sat, 23 Jul 2022 07:11:54 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2022 07:10:30 GMT</pubDate>
             <content:encoded><![CDATA[은행이 가상자산 산업에 진출할 것으로 점쳐지면서, 가상자산 업계도 기대감을 내비쳤다. 신뢰도 높은 사업자가 진입함에 따라 업계에 대한 대중 신뢰도도 높아질 수 있다는 기대다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
@@ -645,6 +645,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[기자수첩] 개인정보 안 주면 '한국만' 이용 금지한다는 메타 (지디넷코리아 ─ 뉴스 ─ 인터넷)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220723144820</link>
+            <guid>https://zdnet.co.kr/view/?no=20220723144820</guid>
+            <pubDate>Sat, 23 Jul 2022 08:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북·인스타그램 운영사 메타가 국내 이용자에게 개인정보 수집 동의를 강제하고 있다. 이미지 등 내용물과 위치, 친구 목록, 연락처 등 정보를 메타에 제공해야만 서비스를 이용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[지디의 네웹소설] 황태자 된 한의사의 고군분투기 '약 파는 황태자' (지디넷코리아 ─ 뉴스 ─ 인터넷)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722162336</link>
             <guid>https://zdnet.co.kr/view/?no=20220722162336</guid>
@@ -794,14 +802,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220721082117</guid>
             <pubDate>Thu, 21 Jul 2022 01:03:04 GMT</pubDate>
             <content:encoded><![CDATA[쏘카는 '주차 전쟁' 등 자가용 중심의 이동 문화로 발생하는 도시의 딜레마 상황과 이에 도전하는 회사 구성원들의 여정을 담은 오리지널 다큐멘터리 '시티 딜레마'를 전용 웹페이지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진모빌리티-성북구, '아이랑 안심 택시' 사업 진행 (지디넷코리아 ─ 뉴스 ─ 인터넷)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721081236</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721081236</guid>
-            <pubDate>Thu, 21 Jul 2022 01:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[아이엠(i.M)택시 운영사 진모빌리티가 서울 성북구와 영유아 양육가정 이동을 지원하는 '성북 아이랑 안심 택시' 사업을 시작했다고 21일 밝혔다. 진모빌리티는 이번 사업을 통해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>

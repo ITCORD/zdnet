@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 07:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 08:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기자수첩] 개인정보 안 주면 '한국만' 이용 금지한다는 메타]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220723144820</link>
+            <guid>https://zdnet.co.kr/view/?no=20220723144820</guid>
+            <pubDate>Sat, 23 Jul 2022 08:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북·인스타그램 운영사 메타가 국내 이용자에게 개인정보 수집 동의를 강제하고 있다. 이미지 등 내용물과 위치, 친구 목록, 연락처 등 정보를 메타에 제공해야만 서비스를 이용...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/16/81f7bf1c29bab558a8fc55bc57a2a408-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["같은 편 되나?"…가상자산업계가 은행 진입 반기는 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722162307</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220723113625</guid>
             <pubDate>Sat, 23 Jul 2022 03:08:07 GMT</pubDate>
             <content:encoded><![CDATA[미국 조지아주가 전기자동차 공장을 건설하는 현대자동차에 2조4천억원에 육박하는 인센티브를 지원한다. AP통신 등 주요 외신에 따르면 조지아 주정부는 22일(현지시간) 서배너 인...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/23/5713a9ca4c731d9653dd93cb4e928dd8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코인사기 피해자 겨냥한 북한發 해킹공격 발견]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722160945</guid>
             <pubDate>Fri, 22 Jul 2022 09:11:30 GMT</pubDate>
             <content:encoded><![CDATA[공동주택(아파트) 홈네트워크 보안을 강화하기 위해 마련된 '지능형 홈네트워크 설비 설치 및 기술기준' 고시와 보안 가이드가 건설 현장의 혼란을 부추기고 있다는 지적이 건설·홈네...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자수첩] 소비자를 위한 5G 중간요금제를 희망한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722093443</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722093443</guid>
-            <pubDate>Fri, 22 Jul 2022 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA["지금 논의 중인 걸로 알려진 24GB 수준의 5G 중간요금제가 소비자지갑에 큰 도움이 되지는 않을 것으로 보입니다. 기존에 100GB를 사용하던 사람이 24GB를 사용하겠다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
