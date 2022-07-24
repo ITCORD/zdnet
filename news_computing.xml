@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 23:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 01:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["불편한 지갑으론 웹 3.0 대중화 못한다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220723114628</link>
+            <guid>https://zdnet.co.kr/view/?no=20220723114628</guid>
+            <pubDate>Sun, 24 Jul 2022 01:03:52 GMT</pubDate>
+            <content:encoded><![CDATA['웹 3.0'이 어느새 블록체인 업계만 공감하는 트렌드의 수준을 뛰어넘었다. 국내외 빅테크 기업, 전통 산업의 대형 플레이어도 발을 담그는 모습이 심심찮게 나타나고 있다. 그럼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["같은 편 되나?"…가상자산업계가 은행 진입 반기는 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20220722162307</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722102834</guid>
             <pubDate>Fri, 22 Jul 2022 03:44:56 GMT</pubDate>
             <content:encoded><![CDATA[중국 차량호출 업체 디디추싱이 과도한 데이터 수집과 보안 조치 미흡으로 1조6천억원 가량의 벌금 폭탄을 맞았다. 지난해 뉴욕증시에 상장하면서 중국 규제 당국의 눈 밖에 난 것도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 유전성 심장질환 등 9대 소아희귀질환 치료 돕는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722100458</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722100458</guid>
-            <pubDate>Fri, 22 Jul 2022 03:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[과기정통부가 인공지능(AI)을 활용해 선천성 다발기형, 유전성 심장질환 같은 9대 소아희귀질환을 진단, 치료, 예후 관리한다. 서울대병원, 카카오헬스케어 등 병원과 IT기업 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
