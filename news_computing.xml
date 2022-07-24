@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 06:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 07:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민간 가명정보 결합전문기관도 자체결합 가능해진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220724151652</link>
+            <guid>https://zdnet.co.kr/view/?no=20220724151652</guid>
+            <pubDate>Sun, 24 Jul 2022 07:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회가 가명정보 활용 활성화를 위해 현재 공공 가명정보 결합전문기관에만 허용되고 있는 '자체결합'을 연내 민간까지 허용하기로 했다. 개인정보보호위원회는 지난 22일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공정위, 대리점에 비용 떠넘긴 지멘스에 과징금 4억8천만원 부과]]></title>
             <link>https://zdnet.co.kr/view/?no=20220724101751</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722123146</guid>
             <pubDate>Fri, 22 Jul 2022 03:44:56 GMT</pubDate>
             <content:encoded><![CDATA[NDS(이하 엔디에스, 대표 김중원)가 한국무역보험공사(이하 공사)의 네오키스 시스템3.0 고도화 사업을 성공적으로 완료하면서 최근 시스템을 오픈했다고 밝혔다. 네오키스시스템은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS코리아, 한국 SW기업 SaaS 전환 지원 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722111147</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722111147</guid>
-            <pubDate>Fri, 22 Jul 2022 03:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)가 한국 독립소프트웨어기업(ISV)의 서비스형 소프트웨어(SaaS) 확장 지원을 강화하고 나섰다. 국내 SW 기업의 솔루션을 클라우드에 최적화하고, 영업과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
