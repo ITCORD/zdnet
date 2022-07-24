@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 22:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 23:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[풀어쓰는 과학 이야기] 우영우의 자폐, 기억, 그리고 지능]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220724222652</link>
+            <guid>https://zdnet.co.kr/view/?no=20220724222652</guid>
+            <pubDate>Sun, 24 Jul 2022 23:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 '이상한 변호사 우영우'에 나오는 여성 변호사 우영우는 자폐스펙트럼장애(ASD)를 갖고 있지만, 한번 읽은 책은 절대 잊어버리지 않는 탁월한 기억력을 바탕으로 멋지게 재...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/06/29/786031b12698f5f8ac2d627492d144a5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동화약품, 활명수 125주년 기념판 출시…스탠리와 콜라보레이션]]></title>
             <link>https://zdnet.co.kr/view/?no=20220724195445</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220724194847</guid>
             <pubDate>Sun, 24 Jul 2022 11:14:02 GMT</pubDate>
             <content:encoded><![CDATA[일본 원자력규제위원회가 도쿄전력의 '오염수 해양방출 시설 설계·운용 관련 실시계획' 인가 처분한 것으로 알려지며 정부가 긴급 대응책을 모색 중이다. 정부는 방문규 국무조정실장 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/21/3c090ca08cb4b06c789c70e13a469fcc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[WHO, '원숭이두창' 국제공중보건위기상황 선포…유럽·미주 여행시 주의당부]]></title>
@@ -43,7 +51,7 @@
             <title><![CDATA[[인사] 국회사무처]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Sun, 24 Jul 2022 22:10:51 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2022 23:11:54 GMT</pubDate>
             <content:encoded><![CDATA[◆국회사무처 ◇부이사관 전보 ▲운영지원과장 이홍석...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220724094446</guid>
             <pubDate>Sun, 24 Jul 2022 03:32:35 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 전국 디지털프라자 매장에서 '2030 부산세계박람회(엑스포)' 유치 응원 광고를 선보인다고 24일 밝혔다. 삼성전자는 민·관 합동 '2030 부산세계박람회 유치위원회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, AI로 꾸미는 '갤럭시북 아트 프로젝트' 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220724091834</link>
-            <guid>https://zdnet.co.kr/view/?no=20220724091834</guid>
-            <pubDate>Sun, 24 Jul 2022 20:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 자신만의 개성과 취향을 반영한 '나만의 AI 아트 작품'으로 갤럭시북을 꾸며보는 '갤럭시북 아트 프로젝트'를 진행한다. 이벤트는 오는 25일부터 9월 25일까지 삼성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
