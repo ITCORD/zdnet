@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 01:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 쉽게 이해하기 3-2, 나이브 베이즈 분류기 알고리즘]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725093548</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725093548</guid>
+            <pubDate>Mon, 25 Jul 2022 01:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[기계학습 알고리즘 두 번째는 나이브 베이즈 분류기(Naive Bayes Classifier)다.이 알고리즘은 그림 1에서 표현된 베이즈 정리에 기반을 둔다. 이것은 각각의 사건들이 일어날 확률들을 측정하는 것인데 P(A ¦ B) = (P(A ∩ B)) / (P(B))를 설명한다면 다음과 같다.1. 전제: 두 사건 A, B가 있고, 사건 B가 발생한 이후에 사건 A가 발생한다고 가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/25/48b38a2d92571115aa636f474ff9a17b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 기술을 통한 홍익인간의 실현 – 테크 포 굿]]></title>
             <link>https://zdnet.co.kr/view/?no=20220721144835</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 12 Jun 2022 11:12:37 GMT</pubDate>
             <content:encoded><![CDATA[지난해 10월 제정한 '데이터 산업진흥 및 이용촉진에 관한 기본법'(약칭 데이터산업법) 및 시행령, 시행규칙이 지난 4월 20일자 시행으로, 세계 최초로 마련한 이 법안을 통해 데이터 산업을 선도할 수 있는 중요한 근간이 마련됐다.&nbsp;데이터 기반 4차산업혁명 선도국가로 도약해야 하는 중요한 시점에, 이 법안의 시행과 별개로 새 정부는 분산된 데이터를 한 곳으로 연결하는 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/06/12/a1ebb0b192b77e30e45dd8ac9568e8f3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CISO, 누락과 중복없는 보안 고민해야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220608090322</link>
-            <guid>https://zdnet.co.kr/view/?no=20220608090322</guid>
-            <pubDate>Wed, 08 Jun 2022 00:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[맥킨지, BCG, 베인앤컴퍼니&nbsp;같은 세계 유수의 컨설팅 기업들이 문제를 분석하고 해결책을 제시하는데 사용하는&nbsp;접근방식 중에 MECE(Mutually Exclusive Collectively Exhaustive)라는 것이 있다. 이는 문제와 해결책을 찾는 과정에서 주요 항목들이 중복없이 상호 배타적이면서도 모였을 때는 빠짐없이 완전한 전체를 이루는 것을 의미한다. 이 방법론은...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/08/45b58decc5bab517d58b9df1725cb8d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

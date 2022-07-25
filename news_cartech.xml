@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 01:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기아, '스포티지 LPi' 출시…2538만원부터]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725092018</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725092018</guid>
+            <pubDate>Mon, 25 Jul 2022 00:59:44 GMT</pubDate>
+            <content:encoded><![CDATA[기아는 LPi 모델을 추가한 2023년형 스포티지를 공개하고 26일부터 판매에 돌입한다고 밝혔다. 2023년형 스포티지는 경제성이 우수한 LPi 모델을 제품군에 추가하고, 소비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[음주, 무면허, 뺑소니 사고 내면 운전자 사고부담금 대폭 상향]]></title>
             <link>https://zdnet.co.kr/view/?no=20220724125021</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220720122010</guid>
             <pubDate>Wed, 20 Jul 2022 04:36:41 GMT</pubDate>
             <content:encoded><![CDATA["탄소중립 실천과 지속가능한 성장을 위해 기함급 전기 SUV를 만들고자 한다." 올리버 블루메 포르쉐 CEO는 19일(현지시간) 블룸버그와의 서면 인터뷰에서 이같이 밝혔다. 블...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[랜드로버, '차박용 오프로더' 디펜더 130 사전계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220720110933</link>
-            <guid>https://zdnet.co.kr/view/?no=20220720110933</guid>
-            <pubDate>Wed, 20 Jul 2022 03:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[랜드로버가 실내 공간을 넓힌 차박용 오프로더 디펜더 130 사전계약을 실시한다. 20일 랜드로버에 따르면 디펜더 130은 2+3+3 시트 배열으로 최대 8명을 수용하는 넓은 실...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
