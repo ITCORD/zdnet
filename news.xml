@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 13:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 14:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-DATA, 데이터 안심구역내 미개방 데이터 활용 경진대회 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725224309</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725224309</guid>
+            <pubDate>Mon, 25 Jul 2022 14:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[한국데이터산업진흥원(K-DATA, 원장 윤혜정)은 '2022년 데이터 안심구역 활용 경진대회'를 개최한다고 25일 밝혔다. 이 행사는 데이터 안심구역의 미개방 데이터 활용 가치...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/25/90f635528528243b5811ba7a9cbf3c44-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 노조 "합의 파기 아닌 이미 부결된 안건...농성장 원상복구 해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220725195427</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220725190429</guid>
             <pubDate>Mon, 25 Jul 2022 10:13:23 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 대만 팹리스 전문업체 미디어텍이 설계한 칩을 위탁생산한다. 25일 인텔에 따르면, 인텔과 미디어텍은 IFS(인텔 파운드리 서비스)의 인텔 16 공정을 활용해 미디어텍이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/01/21/63e4652e64bf4e6cff6e154e34fc8f6e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인기협, 인터넷동영상서비스 규제 혁신 전문가 토론회 연다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220725174104</guid>
             <pubDate>Mon, 25 Jul 2022 09:11:37 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처가 미국 식품의약국(FDA)이 모다모다 제품에 함유된 염모제 성분인 1,2,4-THB에 대한 안전성 평가를 실시한 사실이 없다고 밝혔다. 식약처는 모다모다 측이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이타솔루션, 애저 DS 실무 개발자 2기 교육생 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220725173901</link>
-            <guid>https://zdnet.co.kr/view/?no=20220725173901</guid>
-            <pubDate>Mon, 25 Jul 2022 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[데이타솔루션(대표 배복태)이 '2022 K-디지털 트레이닝 벤처‧스타트업 아카데미 사업'에 참여한다고 25일 밝혔다. 본 사업은 채용 확정형 SW개발자 양성과정으로 고용노동부가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
