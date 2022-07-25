@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 세계 첫 3나노 출하는 '소부장 협력 성과']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725144432</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725144432</guid>
+            <pubDate>Mon, 25 Jul 2022 07:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 세계 최대 반도체 위탁생산(파운드리) 업체 대만 TSMC를 제치고 3나노미터(㎚) 파운드리 제품을 출하했다. 경쟁사와의 격차를 줄일지 주목된다. 정부는 국내 반도체 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 세계 최초 파운드리 3나노 제품 출하]]></title>
             <link>https://zdnet.co.kr/view/?no=20220725092010</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220720100218</guid>
             <pubDate>Wed, 20 Jul 2022 03:12:09 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이는 경기 파주시와 경북 구미시에 있는 사업장이 '폐기물 매립 제로(Zero Waste to Landfill)' 인증서를 받았다고 20일 밝혔다. 국제 안전과학 회사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 웨어러블용 '스냅드래곤 W5+·W5 1세대' 플랫폼 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220720095436</link>
-            <guid>https://zdnet.co.kr/view/?no=20220720095436</guid>
-            <pubDate>Wed, 20 Jul 2022 00:57:27 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴이 20일 스마트워치 등 웨어러블 기기를 위한 플랫폼인 '스냅드래곤 W5+ 1세대', '스냅드래곤 W5 1세대' 플랫폼을 공개했다. 이번 신규 플랫폼은 연장된 배터리 수명,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

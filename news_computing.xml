@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 챗봇 AI '람다'는 정말 사람처럼 사고할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725152756</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725152756</guid>
+            <pubDate>Mon, 25 Jul 2022 07:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[구글의 챗봇 인공지능(AI) 람다(LaMDA)가 '사람 수준의 지각능력'을 갖고 있다고 주장했던 엔지니어가 결국 해고됐다. 해고된 인물은 구글의 책임 있는 인공지능(Respon...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[총상금 1100만원, '빅데이터로 한강 수위 예측하라']]></title>
             <link>https://zdnet.co.kr/view/?no=20220725120434</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722160945</guid>
             <pubDate>Fri, 22 Jul 2022 09:11:57 GMT</pubDate>
             <content:encoded><![CDATA[공동주택(아파트) 홈네트워크 보안을 강화하기 위해 마련된 '지능형 홈네트워크 설비 설치 및 기술기준' 고시와 보안 가이드가 건설 현장의 혼란을 부추기고 있다는 지적이 건설·홈네...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아크릴-한국MS-365MC네트웍스, 비만치료 특화 AI병원 구축 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220722173037</link>
-            <guid>https://zdnet.co.kr/view/?no=20220722173037</guid>
-            <pubDate>Fri, 22 Jul 2022 09:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 전문기업 아크릴(대표 박외진)은 한국마이크로소프트(한국MS, 대표 이지은), 365MC 네트웍스(병원장 김남철)와 차세대 AI 비만치료 특화 인공지능 병원 구축...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

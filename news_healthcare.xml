@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메르디 '메듭', 병원 재진 서비스 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725161147</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725161147</guid>
+            <pubDate>Mon, 25 Jul 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[메디르가 병원에 기존에 내원한 환자들을 위한 재진 서비스를 오픈했다고 밝혔다. 메르디 '메듭'은 사용자 본인 위치를 기준으로 근거리의 병원에서만 진료를 볼 수 있는 구조로 동네...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사회보장정보원, 부정수급 적발 시스템으로 우수행정 선발대회서 우수상 받아]]></title>
             <link>https://zdnet.co.kr/view/?no=20220725150731</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220724171226</guid>
             <pubDate>Sun, 24 Jul 2022 08:15:59 GMT</pubDate>
             <content:encoded><![CDATA[세계보건기구(WHO)가 지난 23일 원숭이두창에 대해 '국제공중보건위기상황(PHEIC)'을 선포함에 따라 우리나라도 백신 추가 도입 및 치료제 공급으로 국내 발생 상황에 대응할...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["자살 예방에 방송작가들도 관심가져야”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220724092915</link>
-            <guid>https://zdnet.co.kr/view/?no=20220724092915</guid>
-            <pubDate>Sun, 24 Jul 2022 03:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부와 한국생명존중희망재단이 한국방송작가협회와 자살 예방 및 생명존중문화 확산을 위한 협력사업을 올해 하반기부터 진행한다. 협력사업의 주요 내용은 ▲자살 예방 관련 극본 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
