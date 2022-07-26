@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 12:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 13:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더존ICT그룹 키컴, '근로복지공단' 민원 업무 시스템 교체]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220726212602</link>
+            <guid>https://zdnet.co.kr/view/?no=20220726212602</guid>
+            <pubDate>Tue, 26 Jul 2022 13:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[더존ICT그룹은 고용·산재보험 민원 업무 혁신을 위한 인공지능(AI) 기반 '스마트 자동접수 시스템' 구축 완료 보고회를 가졌다고 26일 밝혔다. 이번 사업은 더존ICT그룹의 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/26/3df8b94d682fe0c4832090d9eb15fea9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스패로우, 회귀 테스트 케이스 선별 도구 'TSO' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220726211658</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220726210516</guid>
             <pubDate>Tue, 26 Jul 2022 12:20:40 GMT</pubDate>
             <content:encoded><![CDATA[카카오의 블록체인 기술 계열사 그라운드X(대표 양주일)는 디지털 자산 지갑 '클립'을 단독 앱으로 출시했다고 26일 밝혔다. 클립은 블록체인 기반의 디지털 자산을 한데 모아 관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/26/7c7957542e10ba5226c36a46e2f8c7b9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[웁살라시큐리티, KODA에 자금세탁방지 솔루션 공급]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220726165938</guid>
             <pubDate>Tue, 26 Jul 2022 08:14:16 GMT</pubDate>
             <content:encoded><![CDATA[블리자드 엔터테인먼트는 오는 9월 27일 PC MMORPG 월드오브워크래프트(WOW) 리치왕의 분노 클래식을 출시한다고 26일 밝혔다. 월드오브워크래프트 게임을 보유한 이용자는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 우마무스메, 양대 마켓 매출 1위...출시 약 한달만]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220726163927</link>
-            <guid>https://zdnet.co.kr/view/?no=20220726163927</guid>
-            <pubDate>Tue, 26 Jul 2022 08:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈의 인기 모바일 게임 '우마무스메 프리티 더비'가 국내 양대 마켓 매출 순위 1위에 올랐다. 카카오게임즈의 신작 '우마무스메'가 신규 콘텐츠 업데이트 이후 26일 오...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
