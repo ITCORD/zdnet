@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 15:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플라스틱 오염된 호수엔 박테리아 청소부 등장한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220726150103</link>
+            <guid>https://zdnet.co.kr/view/?no=20220726150103</guid>
+            <pubDate>Tue, 26 Jul 2022 15:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[플라스틱 오염이 벌어진 호수에선 낙엽이나 잔가지 같은 자연물보다 플라스틱 쓰레기를 먹이 삼아 더 빠르고 효율적으로 성장하는 박테리아가 발생한다는 연구 결과가 나왔다. 영국 캠브...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/26/919974c133e76499a59b4a845ec603fc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['헤어진 결심' 속 원전 대시보드, 4개월 공들였다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220726213701</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220726211658</guid>
             <pubDate>Tue, 26 Jul 2022 12:20:40 GMT</pubDate>
             <content:encoded><![CDATA[스패로우(대표 장일수)는 회귀 테스트에 필수적인 테스트 케이스를 자동으로 선정하는 도구 '스패로우 TSO'를 출시했다고 26일 밝혔다. 기업, 기관은 소프트웨어(SW) 개발이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/26/13079eca041f168d18c05acf5f25f604-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[알서포트, 씨디네트웍스에 원격지원 '리모트콜' 공급]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220726165320</guid>
             <pubDate>Tue, 26 Jul 2022 08:14:16 GMT</pubDate>
             <content:encoded><![CDATA[해외 가상자산 거래소 FTX가 국내 2위 가상자산 거래소 빗썸 인수를 검토하는 것으로 알려지면서 성사 가능성과 향후 시장 전망에 업계 관심이 쏠린다. 빗썸은 과거에도 수 차례 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 지역 개발 수요 맞춰 경제자유구역 수시 지정키로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220726163913</link>
-            <guid>https://zdnet.co.kr/view/?no=20220726163913</guid>
-            <pubDate>Tue, 26 Jul 2022 08:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 26일 서울 강남구 한국기술센터에서 제131차 경제자유구역위원회를 열고 경제자유구역을 수시 지정하는 등의 안건을 심의·의결했다. 경제자유구역 신규 지정 방식을 수시 신청...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
