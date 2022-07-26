@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국토부, 240개 공공기관 공간정보 목록 개방…자율차 등에 접목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220726115100</link>
+            <guid>https://zdnet.co.kr/view/?no=20220726115100</guid>
+            <pubDate>Tue, 26 Jul 2022 04:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 중앙부처·지자체·공공기관 등 240개 기관이 보유한 공간정보 목록을 조사해 28일부터 개방한다고 밝혔다. 국토부 관계자는 “2016년부터 보유기관·작성기준·갱신주기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 양자 프로그래밍 프레임워크 '써크' 1.0버전 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220726114430</link>
+            <guid>https://zdnet.co.kr/view/?no=20220726114430</guid>
+            <pubDate>Tue, 26 Jul 2022 04:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 양자컴퓨터 프로그래밍을 위한 오픈소스 프레임워크 써크(Cirq)의 정식 버전을 공개했다. 최근 구글 AI팀은 써크의 첫 번째 정식 버전인 1.0을 릴리즈 했다고 공식 블...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 인지검색 스타트업 올거나이즈, 일본 상장 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20220726094553</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220725095223</guid>
             <pubDate>Mon, 25 Jul 2022 00:58:57 GMT</pubDate>
             <content:encoded><![CDATA[티맥스소프트(대표 이형배)는 오픈소스 기반 통합 미들웨어 플랫폼 '하이퍼프레임(HyperFRAME)'을 통해 오픈소스 미들웨어 시장 공략을 강화하겠다고 25일 밝혔다. 하이퍼프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔코아, 데이터 전문가 양성 특별채용 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220725094315</link>
-            <guid>https://zdnet.co.kr/view/?no=20220725094315</guid>
-            <pubDate>Mon, 25 Jul 2022 00:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[엔코아(대표, 이화식)가 데이터 전문가 양성을 위하여 제4기 데이터 사관생도 특별채용을 실시한다고 25일 밝혔다. 2018년 시작된 엔코아 사관생도 특별채용은 엔코아만의 독자적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 쉽게 이해하기 3-2, 나이브 베이즈 분류기 알고리즘]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220725093548</link>
-            <guid>https://zdnet.co.kr/view/?no=20220725093548</guid>
-            <pubDate>Mon, 25 Jul 2022 00:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[기계학습 알고리즘 두 번째는 나이브 베이즈 분류기(Naive Bayes Classifier)다. 이 알고리즘은 그림 1에서 표현된 베이즈 정리에 기반을 둔다. 이것은 각각의 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
