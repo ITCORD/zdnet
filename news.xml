@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 18:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 19:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가래에서 계속 피가…'두경부암' 초기 증상 없어 발견 어려워]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725153059</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725153059</guid>
+            <pubDate>Tue, 26 Jul 2022 19:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[매년 7월27일은 세계 두경부암의 날이다. 두경부암에 대한 정확한 정보와 조기 예방의 중요성을 알리기 위해 제정됐다. 두경부는 머리(頭)와 목(頸) 부위, 정확히는 뇌 아래에서...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/22/698629ea9f09ccae223f767ac8769767-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플라스틱 오염된 호수엔 박테리아 청소부 등장한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220726150103</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220726212602</guid>
             <pubDate>Tue, 26 Jul 2022 13:35:48 GMT</pubDate>
             <content:encoded><![CDATA[더존ICT그룹은 고용·산재보험 민원 업무 혁신을 위한 인공지능(AI) 기반 '스마트 자동접수 시스템' 구축 완료 보고회를 가졌다고 26일 밝혔다. 이번 사업은 더존ICT그룹의 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/26/3df8b94d682fe0c4832090d9eb15fea9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스패로우, 회귀 테스트 케이스 선별 도구 'TSO' 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220726164505</guid>
             <pubDate>Tue, 26 Jul 2022 09:11:31 GMT</pubDate>
             <content:encoded><![CDATA[인터체인 NFT 플랫폼 하바(HAVAH)가 NFT 얼라이언스 '그리드(GRID)'에 참여한다. 그리드(GRID)는 그라운드X가 국내 기업들과 손잡고 NFT의 대중화와 IRL(I...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸 매각 이번에는 성사되나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220726165320</link>
-            <guid>https://zdnet.co.kr/view/?no=20220726165320</guid>
-            <pubDate>Tue, 26 Jul 2022 08:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[해외 가상자산 거래소 FTX가 국내 2위 가상자산 거래소 빗썸 인수를 검토하는 것으로 알려지면서 성사 가능성과 향후 시장 전망에 업계 관심이 쏠린다. 빗썸은 과거에도 수 차례 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
