@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 01:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IITP 기술산책] 우주인터넷 시대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220725220006</link>
+            <guid>https://zdnet.co.kr/view/?no=20220725220006</guid>
+            <pubDate>Tue, 26 Jul 2022 01:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[“당신이 화성을 점령하고자 하는 동안 러시아는 우크라이나를 침략했습니다! 당신의 로켓이 우주 왕복 후 지상에 착륙할 때, 러시아 로켓은 우크라이나 시민들을 공격하고 있습니다! 우크라이나에 '스타링크(Starlink)’ 제공을 요청합니다.”러시아와 전쟁중인 우크라이나의 디지털 장관이 일론 머스크에게 SNS 메시지를 남기자 다음 날 우크라이나에 스페이스X의 '스타링크'가 등...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/25/b5dac41be1c634e1d4eb0462374a234f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 쉽게 이해하기 3-2, 나이브 베이즈 분류기 알고리즘]]></title>
             <link>https://zdnet.co.kr/view/?no=20220725093548</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 07:17:32 GMT</pubDate>
             <content:encoded><![CDATA[다양한 딥러닝의 알고리즘이 현실화되고 2010년대 들어와 지금과 같이 엄청난 꽃을 피우기 시작한 가장 큰 원인을 나는 컴퓨터와 CPU, GPU의 발전 덕분이라고 생각한다.내가 인공신경망(Neural Network)을 연구하던 90년대에도 다양한 형태의 신경망 구조 및 알고리즘에 대한 아이디어 들은 많았다.하지만 이를 뒷바침해줄 컴퓨터 인프라가 없었다. 93년도에 우리 텍사스A&amp;M 주립...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 데이터산업법 활성화로 디지털플랫폼정부 성공 초석 다져야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220612195321</link>
-            <guid>https://zdnet.co.kr/view/?no=20220612195321</guid>
-            <pubDate>Sun, 12 Jun 2022 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 10월 제정한 '데이터 산업진흥 및 이용촉진에 관한 기본법'(약칭 데이터산업법) 및 시행령, 시행규칙이 지난 4월 20일자 시행으로, 세계 최초로 마련한 이 법안을 통해 데이터 산업을 선도할 수 있는 중요한 근간이 마련됐다.&nbsp;데이터 기반 4차산업혁명 선도국가로 도약해야 하는 중요한 시점에, 이 법안의 시행과 별개로 새 정부는 분산된 데이터를 한 곳으로 연결하는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/12/a1ebb0b192b77e30e45dd8ac9568e8f3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
