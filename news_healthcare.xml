@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 06:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보령, 2분기 매출액 1722억원…전년比 21.4%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220727143132</link>
+            <guid>https://zdnet.co.kr/view/?no=20220727143132</guid>
+            <pubDate>Wed, 27 Jul 2022 06:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[보령의 2분기 매출액이 1천722억 원으로 전년동기 대비 21.4% 증가했다. 27일 잠정실적 공시에 따르면, 보령의 2분기 영업이익은 140억 원이다. 만성질환 중심의 전문의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["바이오헬스 규제혁신, 안전성·유효성 고려한 정책”]]></title>
             <link>https://zdnet.co.kr/view/?no=20220727135515</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220725174104</guid>
             <pubDate>Mon, 25 Jul 2022 09:14:38 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처가 미국 식품의약국(FDA)이 모다모다 제품에 함유된 염모제 성분인 1,2,4-THB에 대한 안전성 평가를 실시한 사실이 없다고 밝혔다. 식약처는 모다모다 측이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔닥, 정신병원 입원환자 대상 '디지털 왕진' 서비스]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220725162055</link>
-            <guid>https://zdnet.co.kr/view/?no=20220725162055</guid>
-            <pubDate>Mon, 25 Jul 2022 08:17:22 GMT</pubDate>
-            <content:encoded><![CDATA['솔닥'은 '왕진'과 제휴를 맺고 정신병원 입원환자들을 대상으로 하는 '디지털 왕진' 서비스를 최근 개시했다고 밝혔다. 입원환자들에게 솔닥과 협업하는 가정의학과, 내과 분야 의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
