@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, 에이닷 업데이트 공개…TV·게임 서비스 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220727135620</link>
+            <guid>https://zdnet.co.kr/view/?no=20220727135620</guid>
+            <pubDate>Wed, 27 Jul 2022 05:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 지난 5월 출시한 인공지능(AI) 서비스 '에이닷(A.)'에 '에이닷tv', '에이닷 게임' 등 신규 서비스를 업데이트한 안드로이드 버전을 27일 공개했다. SK텔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유럽 통신위성 업체 유텔샛·원웹 합병…'스페이스X'에 도전장]]></title>
             <link>https://zdnet.co.kr/view/?no=20220727130015</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220726091011</guid>
             <pubDate>Tue, 26 Jul 2022 01:02:04 GMT</pubDate>
             <content:encoded><![CDATA[KT는 디지털트윈 사업 기회 발굴과 확대를 위해 이지스와 업무협약(MOU)을 체결했다고 26일 밝혔다. KT와 이지스는 이번 MOU를 통해 3D 지도, 3D 공간정보를 바탕으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 상반기 통신분쟁 해결률 84.3%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220726092141</link>
-            <guid>https://zdnet.co.kr/view/?no=20220726092141</guid>
-            <pubDate>Tue, 26 Jul 2022 01:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[올해 상반기 총 477건의 통신분쟁조정 신청 가운데 312건이 처리됐다. 이 가운데 84.3%에 달하는 263건이 합의 또는 수락으로 해결됐다. 상반기 통신분쟁 해결률 84.3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
