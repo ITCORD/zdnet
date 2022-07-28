@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이 "IT·QD·차량 OLED 제품 모두 보유"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220728161507</link>
+            <guid>https://zdnet.co.kr/view/?no=20220728161507</guid>
+            <pubDate>Thu, 28 Jul 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이가 정보기술(IT), 양자점(QD·퀀텀닷), 자동차용 등 유기발광다이오드(OLED) 제품군을 모두 갖췄다고 밝혔다. 최권영 삼성디스플레이 부사장은 28일 온라인에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "파운드리 3나노 2세대, 대형 모바일 고객 확보"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220728154132</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[반도체 '칩4 동맹'에 대한 한총리 스탠스를 주목한다]]></title>
+            <title><![CDATA[반도체 '칩4 동맹'과 한덕수 총리의 스탠스]]></title>
             <link>https://zdnet.co.kr/view/?no=20220728142756</link>
             <guid>https://zdnet.co.kr/view/?no=20220728142756</guid>
             <pubDate>Thu, 28 Jul 2022 06:17:16 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220725092010</guid>
             <pubDate>Mon, 25 Jul 2022 03:19:06 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 25일 경기도 화성사업장 극자외선(EUV) 전용 V1라인에서 차세대 트랜지스터 게이트올어라운드(GAA) 기술을 적용한 3나노미터(㎚) 반도체 위탁생산(파운드리) 제품...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박순애 부총리, 25일 반도체 관련 인재양성 현장 방문]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220724105807</link>
-            <guid>https://zdnet.co.kr/view/?no=20220724105807</guid>
-            <pubDate>Sun, 24 Jul 2022 03:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[박순애 부총리 겸 교육부 장관은 25일 충남대학교를 방문, 지난 19일 발표한 '반도체 관련 인재양성 방안'과 관련, 반도체 인재 양성 현장을 살펴보고 현장 의견을 청취한다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
