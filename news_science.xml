@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 03:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 04:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달 탐사선 다누리 발사 연기...내달 3일에서 5일로]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220728125754</link>
+            <guid>https://zdnet.co.kr/view/?no=20220728125754</guid>
+            <pubDate>Thu, 28 Jul 2022 04:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[내달 3일 발사 예정이었던 우리나라 최초 달 탐사선 '다누리' 발사 일정이 최소 이틀 이상 연기된다고 과학기술정보통신부가 28일 밝혔다. 다누리는 3일 미국 플로리다주 케이프커...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/05/60d2316d0912b34446e991e6db42a243-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암세포 자살 유도해 암 잡는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220728091643</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220727174200</guid>
             <pubDate>Wed, 27 Jul 2022 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[환경부 산하 국립낙동강생물자원관(관장 유호)은 최근 난분해성 유기화합물인 옥시벤존을 분해하는 신종 미생물을 발견해 이 미생물이 옥시벤존을 분해하는 기작을 분석했다고 27일 밝혔...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/27/eb39d0e9b8382c2e1e21b064f3ffc704-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[달 표면 탐사 로봇 공동 개발 위해 맞손]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220722084342</guid>
             <pubDate>Fri, 22 Jul 2022 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[제임스 웹 우주망원경이 첫 관측 사진을 공개한지 일주일 만에 우주 관측 사상 가장 오래된 은하 후보들을 발견했다고 우주과학 매체 스페이스닷컴이 21일(이하 현지시간) 보도했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빛으로 동작하는 양자 엔진 세계 첫 구현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721135909</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721135909</guid>
-            <pubDate>Thu, 21 Jul 2022 15:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 빛으로 동작하는 초방사 양자 엔진을 세계 최초로 구현했다. 초방사 양자 엔진은 열역학 법칙을 넘어서는 고효율로 일을 할 수 있어, 향후 고성능 엔진 개발과 광기반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
