@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 11:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 12:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블 세븐나이츠 레볼루션, 출시 첫날 양대 마켓 인기 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220728211957</link>
+            <guid>https://zdnet.co.kr/view/?no=20220728211957</guid>
+            <pubDate>Thu, 28 Jul 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 오픈월드 MMORPG '세븐나이츠 레볼루션'이 출시 후 7시간만에 국내 구글 플레이·애플 앱스토어 양대마켓 인기 1위를 기록했다고 28일 밝혔다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/28/1369e11373e9007f57f0b2a6389be0a9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS, '물류' 최대실적 견인...클라우드 투자 집중]]></title>
             <link>https://zdnet.co.kr/view/?no=20220728171501</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220728175112</guid>
             <pubDate>Thu, 28 Jul 2022 10:12:28 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 28일 이사회를 개최하고 주당 현금 250원의 중간배당을 결정했다고 밝혔다. 지난해 200원 대비 25% 증가한 금액이다. 시가배당률도 1.9%로 작년과 비교해 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2016/10/31/paikshow_zURE4SU0zd6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오픈놀, 기술특례 상장 위한 기술평가 통과]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220728171649</guid>
             <pubDate>Thu, 28 Jul 2022 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[올 상반기 벤처투자 실적이 4조 61억원으로 집계됐다. 상반기 최초로 4조원을 돌파했고, 종전 역대 최대인 지난해 상반기(3조 2,240억원) 보다 24.3%(7821억원) 늘...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코스포 "정부 경제 규제혁신안 환영"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220728161937</link>
-            <guid>https://zdnet.co.kr/view/?no=20220728161937</guid>
-            <pubDate>Thu, 28 Jul 2022 08:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 28일 '경제활력 제고와 역동성 회복을 위한 경제 규제혁신 방안'을 관계부처 합동으로 발표하자 코리아스타트업포럼(코스포)은 이를 미래지향적인 네거티브 규제로의 정책 전환...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
