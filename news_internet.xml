@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타 "개인정보 동의 마쳤어도 수집처리 정보 변화없어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220728173602</link>
+            <guid>https://zdnet.co.kr/view/?no=20220728173602</guid>
+            <pubDate>Thu, 28 Jul 2022 10:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내 이용자에게 개인정보 수집 동의를 강제하고, 이에 동의하지 않으면 서비스 사용을 금지해 논란이 일었던 메타가 개인정보방침 동의 절차를 철회하겠다고 28일 밝혔다. 이용자가 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코스포 "정부 경제 규제혁신안 환영"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220728161937</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220727161017</guid>
             <pubDate>Wed, 27 Jul 2022 08:15:34 GMT</pubDate>
             <content:encoded><![CDATA[“인터넷이 어떤 방향으로 진화해야 할 지를 놓고 애플과 경쟁하고 있다.” '메타버스 퍼스트'를 선언한 마크 저커버그는 애플에 대한 강한 경쟁 의식을 감추지 않고 있다. 메타 최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, '가상·증강현실 이노베이션 콘테스트' 지원자 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220727141247</link>
-            <guid>https://zdnet.co.kr/view/?no=20220727141247</guid>
-            <pubDate>Wed, 27 Jul 2022 06:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 서울대학교와 손잡고, 아시아 태평양 지역의 교직원과 대학원 연구생, 기업인 등을 대상으로 '가상·증강현실(VR·AR) 이노베이션 콘테스트' 지원자를 모집한다고 27일 밝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
