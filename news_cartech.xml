@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 10:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 11:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경부 전기차 공공급속충전요금 9월부터 오른다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220729194312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220729194312</guid>
+            <pubDate>Fri, 29 Jul 2022 11:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 9월 1일부터 환경부 공공급속충전기 충전요금을 현행 292.9원/kWh(50kW)와 309.1원/kWh(100kW 이상)에서 각각 324.4원/kWh(50kW)와 34...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국지엠 "신형 콜로라도 선보일 것…출시 시점은 미정"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220729144721</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220726094338</guid>
             <pubDate>Tue, 26 Jul 2022 04:02:35 GMT</pubDate>
             <content:encoded><![CDATA['그랜드 체로키 L'은 3열 시트를 장착한 6·7인승 SUV다. 지프 모델 라인업 중 실내공간이 가장 넓다. 차박 등 야외 활동 시 유용하다. 에어 서스펜션도 기본사양이다. 온...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 비트코인 투자로 상반기에 2천230억원 평가손실]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220726060544</link>
-            <guid>https://zdnet.co.kr/view/?no=20220726060544</guid>
-            <pubDate>Tue, 26 Jul 2022 01:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 상반기 마감 결과 보유중인 비트코인이 회계상으로 1억7천만달러(약 2천230억원)의 평가손실을 입은 것으로 미국 증권거래위원회(SEC)에 보고했다고 CNBC, 월스트리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
