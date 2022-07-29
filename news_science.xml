@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NASA, 화성에 헬기 2대 또 보낸다 [여기는 화성]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220729140339</link>
+            <guid>https://zdnet.co.kr/view/?no=20220729140339</guid>
+            <pubDate>Fri, 29 Jul 2022 05:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[미국 항공우주국(NASA)이 화성에서 채취한 암석 샘플을 지구로 가져오기 위해 소형 헬리콥터 두 대를 추가로 화성에 보낼 예정이라고 씨넷 등 외신들이 28일(이하 현지시간) 보...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/29/c7e3cd30fd72144cb4b12d261ad2b9dd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달 궤도선 다누리 5일 발사]]></title>
             <link>https://zdnet.co.kr/view/?no=20220729091930</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220728192102</guid>
             <pubDate>Thu, 28 Jul 2022 14:26:56 GMT</pubDate>
             <content:encoded><![CDATA[중국 우주발사체 '창정 5B호'의 잔해가 31일 경 추락할 것으로 한국천문연구원이 예측했다. 이에 따라 과학기술정보통신부는 26일부터 천문연과 함께 로켓 잔해가 한반도에 추락할...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/28/a55c0b604ae9ae5f93ffc92493a6db08-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[수천만 개 기기 IoT 네트워크 동시 통신 기술 개발]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220725093723</guid>
             <pubDate>Mon, 25 Jul 2022 01:03:07 GMT</pubDate>
             <content:encoded><![CDATA[중국이 야심차게 준비하고 있는 차세대 우주정거장 '톈궁'을 구성할 총 3개의 모듈 중 두 번째 모듈이 성공적으로 발사됐다고 엔가젯 등 외신들이 최근 보도했다. 중국은 24일 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[풀어쓰는 과학 이야기] 우영우의 자폐, 기억, 그리고 지능]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220724222652</link>
-            <guid>https://zdnet.co.kr/view/?no=20220724222652</guid>
-            <pubDate>Sun, 24 Jul 2022 23:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '이상한 변호사 우영우'에 나오는 여성 변호사 우영우는 자폐스펙트럼장애(ASD)를 갖고 있지만, 한번 읽은 책은 절대 잊어버리지 않는 탁월한 기억력을 바탕으로 멋지게 재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

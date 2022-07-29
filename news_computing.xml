@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모바일 운전면허증 발급 첫날 한때 앱 서비스 장애]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220729133640</link>
+            <guid>https://zdnet.co.kr/view/?no=20220729133640</guid>
+            <pubDate>Fri, 29 Jul 2022 05:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[모바일운전면허증 발급 첫날 이용자가 한꺼번에 몰리면서 한때 앱 서비스에 장애가 발생했다. 서비스 장애는 발급을 시작한 28일 오전 10시 반부터 오후 9시까지 이어졌다. 현재는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드, 9월부터 박원기·김유원 공동대표 체제]]></title>
             <link>https://zdnet.co.kr/view/?no=20220729112514</link>
@@ -158,13 +166,6 @@
             <pubDate>Thu, 28 Jul 2022 03:13:28 GMT</pubDate>
             <content:encoded><![CDATA[업비트를 운영 중인 두나무 계열사이자 블록체인 서비스 플랫폼 '루니버스' 운영사인 람다256은 28일 NBC유니버설과 손잡고 콘텐츠 제작, 대체불가토큰(NFT) 사업에 진출한다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, 5년 연속 매직 쿼드런트 리더 선정]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0020&amp;page=1</guid>
-            <pubDate>Fri, 29 Jul 2022 04:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스가 '2022 가트너 멀티채널 마케팅 허브 부문 매직 쿼드런트' 리더로 선정됐다고 28일밝혔다. 가트너는 각 분야에 속한 업체들 중 비전의 완성도와 실행력을 기반으로 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
