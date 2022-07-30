@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 05:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 06:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크·트위터 재판, 10월17일 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220730145224</link>
+            <guid>https://zdnet.co.kr/view/?no=20220730145224</guid>
+            <pubDate>Sat, 30 Jul 2022 06:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크와 트위터 간의 재판은 오는 10월 17일부터 열리게 됐다. 더버지에 따르면 미국 델라웨어법원은 29일(현지시간) 트위터가 일론 머스크를 상대로 제기한 소송을 10월...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크도 트위터 맞제소…법정공방 가열]]></title>
             <link>https://zdnet.co.kr/view/?no=20220730092940</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220728115853</guid>
             <pubDate>Thu, 28 Jul 2022 03:14:19 GMT</pubDate>
             <content:encoded><![CDATA[“부동산 스타트업이기 때문에 받는 부정적 편견과 규제 해결 시급성을 체감했습니다. 부동산업 지원배제 삭제·데이터 개방 등 주신 의견들은 빠르게 해결할 것입니다.” 원희룡 국토교...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, '앱추적 금지' 직격탄…사상 첫 매출감소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220728102411</link>
-            <guid>https://zdnet.co.kr/view/?no=20220728102411</guid>
-            <pubDate>Thu, 28 Jul 2022 03:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북, 인스타그램 운영사인 메타가 창사 이후 처음으로 매출이 감소하는 낯선 경험을 했다. 월스트리트저널을 비롯한 외신들에 따르면 메타는 28일(현지시간) 6월 마감된 2분기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
