@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 23:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 01:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 인텔 시가총액 뛰어넘었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220730094933</link>
+            <guid>https://zdnet.co.kr/view/?no=20220730094933</guid>
+            <pubDate>Sat, 30 Jul 2022 00:57:12 GMT</pubDate>
+            <content:encoded><![CDATA[반도체업체 AMD가 라이벌 인텔의 시가총액을 넘어섰다. CNBC에 따르면 AMD는 29일(현지시간) 주가가 3% 상승하면서 시가총액 1천530억 달러를 기록했다. 반면 인텔은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모바일 운전면허증 발급 첫날 한때 앱 서비스 장애]]></title>
             <link>https://zdnet.co.kr/view/?no=20220729133640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220728135324</guid>
             <pubDate>Thu, 28 Jul 2022 05:22:24 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 29일부터 '정부24' 아이폰용 앱을 통한 '주민등록증 모바일 확인서비스' 이용이 가능하다고 28일 밝혔다. 주민등록증 모바일 확인서비스는 실물 주민등록증 없이도 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[람다256, '볼트론' NFT 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220728113840</link>
-            <guid>https://zdnet.co.kr/view/?no=20220728113840</guid>
-            <pubDate>Thu, 28 Jul 2022 03:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[업비트를 운영 중인 두나무 계열사이자 블록체인 서비스 플랫폼 '루니버스' 운영사인 람다256은 28일 NBC유니버설과 손잡고 콘텐츠 제작, 대체불가토큰(NFT) 사업에 진출한다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
