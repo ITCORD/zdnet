@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 시대 겨냥 CXL 기반 차세대 메모리 확장 플랫폼 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220801122131</link>
+            <guid>https://zdnet.co.kr/view/?no=20220801122131</guid>
+            <pubDate>Mon, 01 Aug 2022 05:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[CXL(Compute Express Link)은 PCI 익스프레스(PCIe) 인터페이스 기반으로 컴퓨터 중앙연산장치(CPU) 등 여러 장치와 메모리를 연결하는 통합 인터페이스 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/01/df512ace8a1e23cc1b89a0cebb680aca-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 창정 5B 잔해, 필리핀 서쪽 바다 추락]]></title>
             <link>https://zdnet.co.kr/view/?no=20220731095032</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220729164413</guid>
             <pubDate>Fri, 29 Jul 2022 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[국회 과학기술정보방송통신위원회에서 더불어민주당 간사를 맡고 있는 조승래 의원이 정부가 우주산업 클러스터 사업 발사체 특화지구로 전남과 경남을 선정한 데 대해 "이미 결과를 정해...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/29/2170c99707555d7be196873f6462d16a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[풀어쓰는 과학 이야기] 한국 최초 달 탐사선 다누리를 소개합니다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220726105907</guid>
             <pubDate>Tue, 26 Jul 2022 04:05:08 GMT</pubDate>
             <content:encoded><![CDATA[한국표준과학연구원(KRISS, 원장 박현민)은 주름 그래핀을 다양한 소재의 기판 위에 대면적으로 제조하는 기술을 개발했다고 26일 밝혔다. 주름 그래핀은 그래핀에 주름 구조를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자폐·조현증 유발하는 유전자 변이 새로 찾았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220726102750</link>
-            <guid>https://zdnet.co.kr/view/?no=20220726102750</guid>
-            <pubDate>Tue, 26 Jul 2022 04:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[자폐나 조현증을 일으키는 유전자 변이가 새로 발견됐다. 뇌정신질환 치료제 개발의 단서가 될 것으로 기대된다. DGIST(총장 국양)는 뇌과학과 엄지원·고재원 교수 공동연구팀이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
