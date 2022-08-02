@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 01:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 11만명 넘어..BA.2.75 감염자도 2명 추가 발생]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220802100625</link>
+            <guid>https://zdnet.co.kr/view/?no=20220802100625</guid>
+            <pubDate>Tue, 02 Aug 2022 01:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규확진자가 11만1천789명으로 집계된 가운데, 국내 BA.2.75 변이 감염 환자 2명이 추가 확인됐다. 중앙방역대책본부에 따르면, BA.2.75 변이 감염...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[닥터나우, 코로나19 확진자 약 무료배송 논란]]></title>
             <link>https://zdnet.co.kr/view/?no=20220801171410</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220729074758</guid>
             <pubDate>Fri, 29 Jul 2022 01:06:20 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부가 한시적 비대면 진료 중개 플랫폼 가이드라인(안)을 발표하며, 비대면진료의 입법화를 추진하겠다고 밝혔다. 28일 보건복지부는 서울 강남구에 소재 닥터나우 본사에서 한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조현병 당사자 사회복귀 위해 제도 실효성 높여야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220728172039</link>
-            <guid>https://zdnet.co.kr/view/?no=20220728172039</guid>
-            <pubDate>Thu, 28 Jul 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[정신건강 관련 보건복지 제도는 다양하지만, 이를 주관하는 보건복지부 내부에서 조차 타 분야 대비 적은 예산과 부족한 인력을 토로한다. 아래 기관으로 내려가 실무를 담당하는 이들...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
