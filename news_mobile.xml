@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 01:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미마이크로닉스, 워프 SSD 프로모션 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220802110459</link>
+            <guid>https://zdnet.co.kr/view/?no=20220802110459</guid>
+            <pubDate>Tue, 02 Aug 2022 04:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[한미마이크로닉스가 워프 SSD 구매자 대상 프로모션을 실시하다. 대상 제품은 SATA3 기반 B2(128GB 제품 제외), PCI 익스프레스 3.0 기반 GX1·BX1, PCI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, "하이 엘지" 음성인식 탑재한 '퓨리케어 정수기' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220802081623</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220729164830</guid>
             <pubDate>Sat, 30 Jul 2022 00:57:24 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 앞으로 2년 뒤부터 본격 보급될 와이파이7(802.11be)과 5G 탑재를 통해 노트북 연결성을 지속적으로 강화하겠다고 밝혔다. 지난 27일 아태지역 기자들을 대상으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 2분기 美 월풀 또 제쳤다...H&A 매출 첫 8조원대 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220729182308</link>
-            <guid>https://zdnet.co.kr/view/?no=20220729182308</guid>
-            <pubDate>Fri, 29 Jul 2022 10:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자 가전 사업 매출은 지난해에 이어 올해 1, 2분기에서 미국 가전업체 월풀을 제치며 1위를 유지한 것으로 나타났다. 서영원 LG전자 H&amp;A경영관리담당 팀장은 29일 2분...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
