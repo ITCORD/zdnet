@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 08:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 데브옵스, 어떻게 시작할 것인가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220802180922</link>
+            <guid>https://zdnet.co.kr/view/?no=20220802180922</guid>
+            <pubDate>Tue, 02 Aug 2022 09:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 다양한 경력을 쌓아왔더라도 데브옵스(DevOps) 팀에 새로 합류했거나 익숙하지 않은 사람이라면 새롭게 배워야 할 점들이 많을 것이다. 데브옵스를 완벽히 습득하기 위해서는 완전히 새로운 사고방식을 기반으로 기술과 프로세스, 업무 단계를 파악하고 이해해야 한다.데브옵스를 배우는 이유는 무엇이고 어디서부터 시작할까? 데브옵스 전문가에 대한 수요가 폭발적으로 증가하고, 이런 직업의 연봉이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/02/e31f91ba598ae06e62a0d7001bdf4ecd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IITP 기술산책] 우주인터넷 시대]]></title>
             <link>https://zdnet.co.kr/view/?no=20220725220006</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 07:17:32 GMT</pubDate>
             <content:encoded><![CDATA[어린 아들은 아기 때 깔고 자던 1 미터 남짓의 파란 담요를 방마다 질질 끌고 돌아다녔다. 초등학교에 들어가서도 다 헤진 그 담요를 덮어야 잠에 들었다. 찰스 먼로 슐츠(Charles Monroe Schulz)의 만화 피너츠(Peanuts)에 등장하는 꼬마 ‘라이너스'의 행동이 꼭 그러하다. ‘라이너스의 담요’라 불리는 이것을 심리학자들은 안전담요(security blanket)라고 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/06/13/c300cf895c77835963761b3f02ebdc1b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI의 기본 쉽게 이해하기 2-1]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613153755</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613153755</guid>
-            <pubDate>Mon, 13 Jun 2022 07:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 딥러닝의 알고리즘이 현실화되고 2010년대 들어와 지금과 같이 엄청난 꽃을 피우기 시작한 가장 큰 원인을 나는 컴퓨터와 CPU, GPU의 발전 덕분이라고 생각한다.내가 인공신경망(Neural Network)을 연구하던 90년대에도 다양한 형태의 신경망 구조 및 알고리즘에 대한 아이디어 들은 많았다.하지만 이를 뒷바침해줄 컴퓨터 인프라가 없었다. 93년도에 우리 텍사스A&amp;M 주립...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
