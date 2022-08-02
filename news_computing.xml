@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 04:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 05:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우데라, CDP에 개방형 테이블 '아이스버그' 통합]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220802134805</link>
+            <guid>https://zdnet.co.kr/view/?no=20220802134805</guid>
+            <pubDate>Tue, 02 Aug 2022 05:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[클라우데라는 개방형 테이블 형식인 아파치 아이스버그(Iceberg)를 클라우데라 데이터 플랫폼(CDP)에서 공식 출시했다고 2일 발표했다. 아이스버그는 아파치 소프트웨어 재단(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포스코ICT, 장애인 대상 유튜버 양성 프로그램 운영]]></title>
             <link>https://zdnet.co.kr/view/?no=20220802112503</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220801105136</guid>
             <pubDate>Mon, 01 Aug 2022 04:00:20 GMT</pubDate>
             <content:encoded><![CDATA[디지털자산 거래소 업비트는 자사 스테이킹 서비스 '업비트 스테이킹'에 코스모스(ATOM)를 추가한다고 1일 밝혔다. 스테이킹은 투자자가 보유 중인 디지털 자산을 블록체인 운영에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, 업무관리 협업툴 '깃허브 프로젝트' 정식 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220801103345</link>
-            <guid>https://zdnet.co.kr/view/?no=20220801103345</guid>
-            <pubDate>Mon, 01 Aug 2022 04:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[깃허브가 비대면 환경에서 차질 없는 개발을 위한 협업 도구를 선보인다. 최근 깃허브가 팀원 간 프로젝트 계획과 업무관리를 지원하는 협업툴 깃허브 프로젝트의 정식 버전을 공개했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
