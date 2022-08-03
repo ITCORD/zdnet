@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 11:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 12:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리눅스 민트 21 바네사, 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220803172738</link>
+            <guid>https://zdnet.co.kr/view/?no=20220803172738</guid>
+            <pubDate>Wed, 03 Aug 2022 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[폭넓은 사용자를 보유한 리눅스 민트의 최신 버전이 정식 출시됐다. 2일(현지시간) 미국 지디넷에 따르면 리눅스 민트 21 코드명 바네사(Vanessa)가 공개됐다. 장기지원(L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[클레이튼, '블록체인 게임' 해커톤 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220803181956</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220803094515</guid>
             <pubDate>Wed, 03 Aug 2022 03:50:13 GMT</pubDate>
             <content:encoded><![CDATA[520억 달러(약 68조5천억원) 보조금 지원을 골자로 하는 미국 반도체산업지원법이 시행을 앞두고 있지만 중국 투자 제한 때문에 많은 업체들이 고민에 빠졌다고 블룸버그가 2일(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 결식 우려 아동 끼니 지원금 5천만원 전달]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220803094715</link>
-            <guid>https://zdnet.co.kr/view/?no=20220803094715</guid>
-            <pubDate>Wed, 03 Aug 2022 01:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 결식 우려 아동의 반찬과 밀키트 지원을 위해 기부금 총 5천만원을 굿네이버스에 전달한다고 3일 밝혔다. 코로나19 재확산 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
