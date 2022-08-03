@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이오헬스산업, 타 분야보다 ESG 밀접해]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220803151152</link>
+            <guid>https://zdnet.co.kr/view/?no=20220803151152</guid>
+            <pubDate>Wed, 03 Aug 2022 06:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[“ESG 강조 분위기는 식지 않을 것이다.” 3일 서울 코엑스에서 개최된 '바이오플러스-인터펙스 2022'에서 '바이오산업과 ESG 영향' 세션에서 나온 말이다. 관련해 올초 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사회보장정보원, 예탁금 이자수익 2.5배 만들어]]></title>
             <link>https://zdnet.co.kr/view/?no=20220803122709</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220801120631</guid>
             <pubDate>Mon, 01 Aug 2022 04:02:15 GMT</pubDate>
             <content:encoded><![CDATA[GC셀의 2분기 연결기준 매출액이 지난해 2분기보다 91% 늘어난 557억원으로 집계됐다. 회사가 1일 공시한 실적 발표에 따르면, 2분기 영업이익은 50억 원으로 전년보다 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재택치료자 47만명 육박…신규확진 4만4689명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220801101234</link>
-            <guid>https://zdnet.co.kr/view/?no=20220801101234</guid>
-            <pubDate>Mon, 01 Aug 2022 04:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[국내 코로나19 신규 확진자가 4만4천689명 발생한 가운데 재택치료자 수가 47만 명에 육박하는 것으로 집계됐다. 1일 0시 기준 국내 지역사회 확진자는 4만4천253명, 해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
