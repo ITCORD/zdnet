@@ -4,14 +4,22 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1일 이용권 판매' 페이센스, 국내 OTT 3사 서비스 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220803133606</link>
+            <guid>https://zdnet.co.kr/view/?no=20220803133606</guid>
+            <pubDate>Wed, 03 Aug 2022 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 동영상 서비스(OTT) 1일 이용권을 판매해 논란을 낳았던 페이센스가 국내 OTT 3사의 콘텐츠 제공을 잠정 중단했다. OTT 3사가 공동으로 법적 대응에 나서자 백기를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내 16개 스타트업, GSMA 손잡고 글로벌 진출 겨냥]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Wed, 03 Aug 2022 04:57:46 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 05:39:53 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 GSMA와 공동으로 싱가포르에서 '모바일360 아시아퍼시픽 2022'를 개최했다고 밝혔다. 2016년부터 매년 열리는 이 자리에는 국내 스타트업이 참여했다....]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220801174319</guid>
             <pubDate>Mon, 01 Aug 2022 09:12:35 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 011, 017 등의 2G 이동통신 번호 자원을 반납했다. 1일 SK텔레콤에 따르면 10만8천여 개에 이르는 2G 회선을 일괄 해지했다. 지난 2020년 7월 2G...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 "휴대용 선풍기 전자파 인체보호기준 충족"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220801161343</link>
-            <guid>https://zdnet.co.kr/view/?no=20220801161343</guid>
-            <pubDate>Mon, 01 Aug 2022 08:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[휴대용 선풍기에서 전자파가 과도하게 나온다는 한 시민단체의 주장에 정부가 직접 검증에 나선 결과 국제 인체보호기준을 충족한 것으로 확인됐다. 과학기술정보통신부는 시중에 유통 중...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
