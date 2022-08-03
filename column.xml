@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 01:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 03:55:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 하이브리드 환경에서 IT 복잡성 극복하는 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220803105323</link>
+            <guid>https://zdnet.co.kr/view/?no=20220803105323</guid>
+            <pubDate>Wed, 03 Aug 2022 03:53:54 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 도입은 꾸준히 가속화되고 있다. 가트너에 의하면 2022년 최종 사용자의 클라우드 서비스 관련 지출이 20%, 약 5천억 달러로 급증했다. 이와 같은 지출 열풍은 쉽게 식지 않을 전망이며 2023년에는 몇 천억 달러 더 증가할 것으로 예상된다.많은 기업이 압박을 느끼고 있는 것 또한 사실이다. 즉, 경쟁사가 일상으로의 복귀와 제품 및 서비스 개선에 집중하고 있을 때, 고객은 보다 나...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/03/499c016b796ea0494d43d27c9922cc7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 데브옵스, 어떻게 시작할 것인가]]></title>
             <link>https://zdnet.co.kr/view/?no=20220802180922</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 08:19:49 GMT</pubDate>
             <content:encoded><![CDATA[펜데믹 이후 재택근무와 하이브리드 근무가 확대되면서 CIO들과 CISO들은 보안 정책을 재평가하기 시작했다. 엔드포인트 보안 강화에 이전보다 더욱 집중하고 있는 것이다.&nbsp;최근 태니엄이 750명의 IT 의사결정자를 대상으로 실시한 설문조사에서 CISO의 82%는 엔드포인트 보안을 전면적으로 정비하는 중이라고 응답했다. 그러나 94%는 현재 엔드포인트가 제대로 보호되지 않은 상태이거나 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/06/09/8fe9e78395212604adbb7ba627b4cd71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이정규 칼럼] 8초 디지털 메뚜기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220613154107</link>
-            <guid>https://zdnet.co.kr/view/?no=20220613154107</guid>
-            <pubDate>Mon, 13 Jun 2022 07:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[어린 아들은 아기 때 깔고 자던 1 미터 남짓의 파란 담요를 방마다 질질 끌고 돌아다녔다. 초등학교에 들어가서도 다 헤진 그 담요를 덮어야 잠에 들었다. 찰스 먼로 슐츠(Charles Monroe Schulz)의 만화 피너츠(Peanuts)에 등장하는 꼬마 ‘라이너스'의 행동이 꼭 그러하다. ‘라이너스의 담요’라 불리는 이것을 심리학자들은 안전담요(security blanket)라고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/13/c300cf895c77835963761b3f02ebdc1b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
