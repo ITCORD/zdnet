@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 19:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 20:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,14 @@
             <guid>https://zdnet.co.kr/view/?no=20220803101558</guid>
             <pubDate>Wed, 03 Aug 2022 03:52:09 GMT</pubDate>
             <content:encoded><![CDATA[국내 코로나19 확진자가 2천만 명을 넘어섰다. 이날 신규확진자도 12만 명에 육박한 것으로 나타났다. 3일 0시 기준 지역사회 확진자는 11만9천322명, 해외유입 사례 60...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[원인불명 소아 급성간염 의심사례 6건 추가 확인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220802235828</link>
+            <guid>https://zdnet.co.kr/view/?no=20220802235828</guid>
+            <pubDate>Wed, 03 Aug 2022 20:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내 원인불명 소아 급성간염 의심사례 6건이 추가 확인됐다. 1차 사례검토 1건을 포함하면 총 7건이 확인된 것이다. 질병관리청(질병청)에 따르면 의심신고사례 7건에 대해 2차...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220801140551</guid>
             <pubDate>Mon, 01 Aug 2022 05:21:38 GMT</pubDate>
             <content:encoded><![CDATA[셀트리온제약이 1일 알츠하이머 치매치료제 '도네리온패취(성분명 도네페질)'가 보험약가 고시를 시작으로 국내 판매 절차에 돌입한다고 밝혔다. 도네리온패취는 지난해 11월 식품의약...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[장애인 이동지원 서비스 문턱 높아…신청자 20%만 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220801135044</link>
-            <guid>https://zdnet.co.kr/view/?no=20220801135044</guid>
-            <pubDate>Mon, 01 Aug 2022 05:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[장애인 이동지원 서비스 지원대상 선정이 20%에 불과한 것으로 나타나 제도 실효성에 의문을 제기하는 목소리가 높다. 최혜영 더불어민주당 의원이 보건복지부로부터 제출받은 자료에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
