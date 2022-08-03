@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 09:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 10:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클레이튼, '블록체인 게임' 해커톤 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220803181956</link>
+            <guid>https://zdnet.co.kr/view/?no=20220803181956</guid>
+            <pubDate>Wed, 03 Aug 2022 10:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 플랫폼 클레이튼은 아시아 블록체인 게임 비영리 얼라이언스(ABGA)와 함께 '블록체인 게임 해커톤 2022'를 개최한다고 3일 밝혔다. 클레이튼은 게임파이 등 블록체인...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/03/fdc4414dabb6ef1619c126065ad22555-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해치랩스, '웹3' 간편인증 지갑 제공한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220803180848</link>
@@ -29,13 +37,13 @@
             <guid>https://zdnet.co.kr/view/?no=20220803175634</guid>
             <pubDate>Wed, 03 Aug 2022 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[두나무 계열사이자 블록체인 전문 기업 람다256은 3일 웹툰제작사 와이랩과 전략적 업무협약을 체결했다고 밝혔다. 본 협약을 통해 람다256과 와이랩은 웹툰 세계관 '슈퍼스트링'...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/03/bef00e1c2b54d6d5718eb8bb8ef9a57b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[방통위, 디지털윤리 창작 콘텐츠 공모전 연다]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Wed, 03 Aug 2022 09:11:00 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 10:12:29 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 전 국민의 디지털윤리 역량 강화를 위한 '2022년 디지털윤리 창작콘텐츠 공모전'을 열고 9월30일까지 콘텐츠를 접수한다고 밝혔다. 올해로 13회를 맞는 디지털...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220803160845</guid>
             <pubDate>Wed, 03 Aug 2022 07:10:47 GMT</pubDate>
             <content:encoded><![CDATA[이영 중기부 장관이 3일 한국벤처투자 회의실에서 벤처투자업계 관계자들과 벤처투자 활성화를 위한 간담회를 개최했다. 이날 간담회 참석자들은 고금리, 경제침체 상황 등으로 M&amp;A ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 산후조리원 대상 '매트리스 케어서비스' 프로모션]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220803153818</link>
-            <guid>https://zdnet.co.kr/view/?no=20220803153818</guid>
-            <pubDate>Wed, 03 Aug 2022 07:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[코웨이가 산후조리원 대상 매트리스 케어서비스 프로모션을 올해 말까지 진행한다고 3일 밝혔다. 코웨이는 이번 프로모션을 바탕으로 매트리스 케어서비스를 다중이용시설로 확대할 계획이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
