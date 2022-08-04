@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2분기 글로벌 스마트폰 출하량 '뚝'...하반기도 침체 전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220804141136</link>
+            <guid>https://zdnet.co.kr/view/?no=20220804141136</guid>
+            <pubDate>Thu, 04 Aug 2022 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2분기 전세계 스마트폰 출하량은 전년 같은 기간 대비 3.2%, 직전 분기 대비 4.6% 감소했다. 인플레이션, 고금리 등 경기 침체에 스마트폰 시장도 부진한 상황이다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국로봇산업진흥원, 교육기부 우수기관으로 재인증]]></title>
             <link>https://zdnet.co.kr/view/?no=20220804105327</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220802110459</guid>
             <pubDate>Tue, 02 Aug 2022 04:01:47 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 워프 SSD 구매자 대상 프로모션을 실시하다. 대상 제품은 SATA3 기반 B2(128GB 제품 제외), PCI 익스프레스 3.0 기반 GX1·BX1, PCI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, "하이 엘지" 음성인식 탑재한 '퓨리케어 정수기' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220802081623</link>
-            <guid>https://zdnet.co.kr/view/?no=20220802081623</guid>
-            <pubDate>Tue, 02 Aug 2022 01:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 국내 최초로 음성인식 기능을 적용한 '퓨리케어 오브제컬렉션 정수기'를 1일 출시했다. LG전자는 출수량과 물 온도를 조절하기 위해 여러 번 버튼을 누르거나 손에 음식...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
