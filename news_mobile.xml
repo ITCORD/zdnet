@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 07:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 08:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데하이마트, 2분기 영업이익 2.5억원...전년비 99.2% 감소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220804165202</link>
+            <guid>https://zdnet.co.kr/view/?no=20220804165202</guid>
+            <pubDate>Thu, 04 Aug 2022 08:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[롯데하이마트가 지난 2분기 매출액이 8천 874억원을 기록했다고 4일 공시했다. 이는 전년 동기 대비 10.2% 감소하고, 직전 분기 보다는 5.5% 늘어난 수치다. 같은 기간...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["폭스콘, 구글 픽셀 폴더블폰 제조중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220804145847</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220802151638</guid>
             <pubDate>Tue, 02 Aug 2022 07:12:45 GMT</pubDate>
             <content:encoded><![CDATA[인텔 아크 그래픽칩셋이 3월 노트북용, 6월 데스크톱PC용 첫 출시 이후 진전을 보이지 못하고 있다. 인텔은 아크 5·7 그래픽카드를 오는 9월 말까지 출하한다고 밝혔지만 구체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 폴더블폰 4년...대중화 문 열까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220802150427</link>
-            <guid>https://zdnet.co.kr/view/?no=20220802150427</guid>
-            <pubDate>Tue, 02 Aug 2022 07:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 네번째로 출시하는 4세대 폴더블폰 '갤럭시Z폴드4'와 '갤럭시Z플립4' 공개가 일주일 앞으로 다가오면서 그 흥행 여부에 관심이 쏠린다. 삼성전자는 2019년 세계 최...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
