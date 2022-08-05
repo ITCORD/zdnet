@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 22:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 23:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언팩 D-5…'갤럭시Z4' 실물 사진 대거 유출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220806011057</link>
+            <guid>https://zdnet.co.kr/view/?no=20220806011057</guid>
+            <pubDate>Fri, 05 Aug 2022 23:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자 차세대 폴더블폰 갤럭시Z4 시리즈를 공개하는 '갤럭시언팩'이 약 5일 앞으로 다가온 가운데 판촉·마케팅용 사진이 유명 IT 팁스터(정보유출자)를 통해 대거 유출됐다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 안마의자 최대 60만원 할인 프로모션 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805160152</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220803153154</guid>
             <pubDate>Wed, 03 Aug 2022 07:12:21 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 이달 10일 4세대 폴더블폰 '갤럭시Z 시리즈'를 전격 공개하고 프리미엄 스마트폰 시장 공략에 나선다. 애플이 다음달 아이폰14 시리즈 출시를 앞두고 있어 두 회사 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, PC용 PCI 익스프레스 5.0 SSD 시장 가세]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220803152006</link>
-            <guid>https://zdnet.co.kr/view/?no=20220803152006</guid>
-            <pubDate>Wed, 03 Aug 2022 07:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[올 3분기 이후 본격 보급될 일반 소비자용 PCI 익스프레스 5.0 SSD 시장에 삼성전자도 뛰어들었다. 국립전파연구원에 따르면 삼성전자는 지난 2일 NVMe SSD 신제품인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
