@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 03:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 04:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이종호 장관, "다누리 통해 지구 중력 넘어 우주로"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220805125500</link>
+            <guid>https://zdnet.co.kr/view/?no=20220805125500</guid>
+            <pubDate>Fri, 05 Aug 2022 04:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[[미국 플로리다 케이프커네버럴=공동취재기자단] "지구 중력을 처음으로 벗어나 달로 향하는 다누리는 대한민국 우주 탐사 역사의 첫걸음이다." 우리나라 최초 달 탐사선 다누리가 빌...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/05/b567d8cdbe1041de3b84a0202471bed4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 우영우의 자폐 스펙트럼 장애, 카이스트서 치료법 찾는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805105557</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220805091917</guid>
             <pubDate>Fri, 05 Aug 2022 01:12:50 GMT</pubDate>
             <content:encoded><![CDATA[지구에서 달까지 거리는 대략 38만㎞이다. 아폴로 11호는 1969년 새턴V 로켓에 실려 사흘 만에 달에 도착했다. 반면 다누리는 4개월 반 동안 누적 595만㎞를 돌아서 날아...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/05/112a7bb1c5d8c969a7f9696c9c08566c-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[날아 오른 다누리, 앞으로 여정은?]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220801125430</guid>
             <pubDate>Mon, 01 Aug 2022 06:33:00 GMT</pubDate>
             <content:encoded><![CDATA[박막증착 공정으로 효율이 20%가 넘는 고효율 페로브스카이트 태양전지 제조에 성공했다. 페로브스카이트 태양전지 상용화 가능성을 높였다는 평가다. UNIST(총장 이용훈)는 박혜...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 시대 겨냥 CXL 기반 차세대 메모리 확장 플랫폼 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220801122131</link>
-            <guid>https://zdnet.co.kr/view/?no=20220801122131</guid>
-            <pubDate>Mon, 01 Aug 2022 05:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[CXL(Compute Express Link)은 PCI 익스프레스(PCIe) 인터페이스 기반으로 컴퓨터 중앙연산장치(CPU) 등 여러 장치와 메모리를 연결하는 통합 인터페이스 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
