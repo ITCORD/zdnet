@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메디우스, '에스엘플랫폼' VVIP에 의료 서비스 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220805180544</link>
+            <guid>https://zdnet.co.kr/view/?no=20220805180544</guid>
+            <pubDate>Fri, 05 Aug 2022 09:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[의료 분야 전자상거래 플랫폼 메디우스(대표 박보현)는 신영그룹의 부동산 종합 서비스 플랫폼 기업 에스엘플랫폼이 VVIP 대상으로 새롭게 선보이는 프리미어 비서 서비스에 의료 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한컴그룹-대전시, 제2회 MARS 월드포럼 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805155537</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220804142100</guid>
             <pubDate>Thu, 04 Aug 2022 05:26:13 GMT</pubDate>
             <content:encoded><![CDATA[케이아이엔엑스(대표 김지욱, KINX)는 'IX클라우드 쿠버네티스 서비스(IKS)'가 클라우드네이티브컴퓨팅재단(CNCF)의 '쿠버네티스 인증(CK)'을 획득했다고 4일 밝혔다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[악성코드 주입된 인기 오픈소스 '클론' 무더기 발견]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220804085058</link>
-            <guid>https://zdnet.co.kr/view/?no=20220804085058</guid>
-            <pubDate>Thu, 04 Aug 2022 05:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어 코드 저장소 깃허브에서 악성코드가 주입된 리포지토리(개별 프로젝트 저장소) 복사본이 무더기로 발견됐다. 파이썬, 도커, 쿠버네티스 같이 인기 오픈소스 리포지토리를 복...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
