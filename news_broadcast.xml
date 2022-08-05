@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 2분기 영업익 2484억원...전년비 7.5%↓]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220805105147</link>
+            <guid>https://zdnet.co.kr/view/?no=20220805105147</guid>
+            <pubDate>Fri, 05 Aug 2022 03:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 희망퇴직 시행에 따른 일회성 인건비 증가로 분기 영업이익 감소를 막지 못한 성적표를 내놨다. LG유플러스는 지난 2분기에 연결기준으로 매출 3조3천843억원, 영...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[임영웅이 직접 소개…티빙서 '아임 히어로' 보는 법]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805092116</link>
@@ -155,16 +163,8 @@
             <title><![CDATA[방통위, 디지털윤리 창작 콘텐츠 공모전 연다]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Fri, 05 Aug 2022 01:08:51 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2022 03:39:17 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 전 국민의 디지털윤리 역량 강화를 위한 '2022년 디지털윤리 창작콘텐츠 공모전'을 열고 9월30일까지 콘텐츠를 접수한다고 밝혔다. 올해로 13회를 맞는 디지털...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴더블 갤럭시, 5G 가입자 확대에 도움될 듯]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220803165417</link>
-            <guid>https://zdnet.co.kr/view/?no=20220803165417</guid>
-            <pubDate>Wed, 03 Aug 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[이달 말 국내 출시 예정인 갤럭시Z플립4와 갤럭시Z폴드4가 5G 가입자 전환 속도를 끌어올릴 것이란 기대가 모이고 있다. 지난해 하반기 이후 주춤해진 5G 가입자 증가세 흐름을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
