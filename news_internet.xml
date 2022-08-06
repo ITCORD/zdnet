@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 07:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 08:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 오토파일럿·FSD 과잉홍보로 제소당했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220806161954</link>
+            <guid>https://zdnet.co.kr/view/?no=20220806161954</guid>
+            <pubDate>Sat, 06 Aug 2022 08:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 주행보조시스템인 오토파일럿과 완전자율주행(FSD) 때문에 또 다시 제소 당했다. 미국 캘리포니아 자동차관리국이 주행보조시스템을 기만적으로 마케팅한 혐의로 테슬라를 제소...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 구글·애플 '자사 서비스 우대금지' 규제 초읽기]]></title>
             <link>https://zdnet.co.kr/view/?no=20220806080250</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220804103507</guid>
             <pubDate>Thu, 04 Aug 2022 03:23:37 GMT</pubDate>
             <content:encoded><![CDATA[남궁훈 카카오 대표는 구글 인앱결제(앱에서 유료 콘텐츠를 결제할 때 구글 마켓 결제수단만 이용) 정책에 따라, 구독 상품인 이모티콘 플러스 신규 이용자수가 감소했다고 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이투스 최태성, '60회 한능검 가답안' 유튜브 라이브서 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220804100736</link>
-            <guid>https://zdnet.co.kr/view/?no=20220804100736</guid>
-            <pubDate>Thu, 04 Aug 2022 03:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[이투스에듀의 고등 온라인 강의 브랜드 이투스 소속 최태성 강사가 6일 열리는 제60회 한국사능력검정시험(이하 한능검) 종료 직후, 유튜브 채널 '최태성 1TV'에서 가답안 공개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
