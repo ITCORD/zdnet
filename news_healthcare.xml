@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 01:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 03:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규확진 11만666명…사망 45명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220806101936</link>
+            <guid>https://zdnet.co.kr/view/?no=20220806101936</guid>
+            <pubDate>Sat, 06 Aug 2022 03:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 재유행에 60세 이상 고령층 확진자가 늘고 있다. 이와 함께 위중증 환자도 증가세다. 중앙방역대책본부에 따르면 8월6일 0시 기준 코로나19 신규 확진자는 국내발생 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[식약처, 화이자 코로나19 다가백신 '코미나티2주0.1mg/mL' 사전검토 착수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805173342</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220802235828</guid>
             <pubDate>Wed, 03 Aug 2022 20:15:49 GMT</pubDate>
             <content:encoded><![CDATA[국내 원인불명 소아 급성간염 의심사례 6건이 추가 확인됐다. 1차 사례검토 1건을 포함하면 총 7건이 확인된 것이다. 질병관리청(질병청)에 따르면 의심신고사례 7건에 대해 2차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넥스모스, 항산화 DNA 압타머 복합체 동물실험 결과 국제학술지 게재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220802170249</link>
-            <guid>https://zdnet.co.kr/view/?no=20220802170249</guid>
-            <pubDate>Tue, 02 Aug 2022 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[넥스모스가 개발한 파킨슨병 치료제인 항산화 DNA 압타머 복합체 'NXP031'을 동물모델에 적용한 연구 결과가 국제 학술지 '플로스 원'에 발표됐다. 해당 논문은 넥스모스 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
