@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 04:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 05:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 540만 개 계정 정보 털렸다...3만 달러에 판매 중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220807123357</link>
+            <guid>https://zdnet.co.kr/view/?no=20220807123357</guid>
+            <pubDate>Sun, 07 Aug 2022 05:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 소셜미디어 트위터가 취약점 공격을 통해 540만 개에 이르는 사용자 계정 정보를 탈취 당했다고 인정했다. 다크웹(추적이 어려운 인터넷 환경)을 통해 3만 달러(약 3천9...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[체인파트너스, 'KBW 2022'서 가상자산 환전 플랫폼 소개한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805183134</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220804143752</guid>
             <pubDate>Thu, 04 Aug 2022 06:16:09 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 사이버 보안 업체 프루프포인트는 동남아시아 및 한국(SAK) 지역 부사장으로 에반 두마스를 선임한다고 4일 밝혔다. 프루프포인트는 기업의 가장 큰 자산과 가장 큰 위험인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS 그라운드스테이션, 싱가포르 정식 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220804143301</link>
-            <guid>https://zdnet.co.kr/view/?no=20220804143301</guid>
-            <pubDate>Thu, 04 Aug 2022 06:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)는 클라우드 기반 매니지드 지상국 서비스인 'AWS 그라운드 스테이션'을 싱가포르에 정식 출시했다고 4일 밝혔다. AWS 그라운드 스테이션의 싱가포르 출시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
