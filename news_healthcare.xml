@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 23:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 01:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진 10만5천507명…30대 포함 사망 27명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220807100630</link>
+            <guid>https://zdnet.co.kr/view/?no=20220807100630</guid>
+            <pubDate>Sun, 07 Aug 2022 01:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진으로 인한 재택치료자가 60만명을 넘었다. 또 30대에서 코로나19 위중증이 증가하고, 사망자도 지속적으로 발생하는 것으로 나타났다. 중앙방역대책본부에 따르면 8...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지자체 선별진료소에서 코로나19 PCR 검사 당일예약 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220805172436</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220803121917</guid>
             <pubDate>Wed, 03 Aug 2022 03:52:09 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 물류 기업 마켄(MARKEN)이 3일~5일 서울 코엑스에서 열리는 바이오플러스-인터펙스 코리아 2022에 참가한다. 이번 전시회에서는 냉동·냉장·초저온 등 온도별 해외...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 누적 확진자 2천만명 넘어서...신규는 12만명 육박]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220803101558</link>
-            <guid>https://zdnet.co.kr/view/?no=20220803101558</guid>
-            <pubDate>Wed, 03 Aug 2022 03:52:09 GMT</pubDate>
-            <content:encoded><![CDATA[국내 코로나19 확진자가 2천만 명을 넘어섰다. 이날 신규확진자도 12만 명에 육박한 것으로 나타났다. 3일 0시 기준 지역사회 확진자는 11만9천322명, 해외유입 사례 60...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
