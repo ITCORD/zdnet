@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA, ICT분쟁조정 국민참여단 모집]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220809160924</link>
+            <guid>https://zdnet.co.kr/view/?no=20220809160924</guid>
+            <pubDate>Tue, 09 Aug 2022 07:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 '제4기 ICT분쟁조정 국민참여단'을 모집한다고 9일 밝혔다. KISA는 ICT분쟁조정제도에 대한 이해도를 높이고, 대국민 시각에서 개선사항을 청취...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NHN클라우드, 2분기 55% 성장..."연내 투자 유치 마무리"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220809101233</link>
             <guid>https://zdnet.co.kr/view/?no=20220809101233</guid>
             <pubDate>Tue, 09 Aug 2022 05:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 NHN에서 분사한 클라우드 플랫폼 업체 NHN클라우드가 2분기 공공 시장에서 선전에 힘입어 전년 동기 대비 55% 가까운 성장율을 기록했다. 견조한 성장세를 하반기까...]]></content:encoded>
+            <content:encoded><![CDATA[지난 4월 NHN에서 분사한 클라우드 플랫폼 업체 NHN클라우드가 2분기 공공 시장에서 선전하며 전년 동기 대비 55% 가까운 성장율을 기록했다. 견조한 성장세를 하반기까지 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220808110819</guid>
             <pubDate>Mon, 08 Aug 2022 03:14:52 GMT</pubDate>
             <content:encoded><![CDATA[에스넷시스템 (대표 유홍준, 장병강)은 골프존뉴딘그룹 차세대 인프라 구축 프로젝트를 마무리하고, 2차 사업계약을 체결해 통합 시스템을 구축한다고 8일 밝혔다. 이 사업은 오는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다쏘시스템, 가상공간에 방사선 치료실 구현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220808105751</link>
-            <guid>https://zdnet.co.kr/view/?no=20220808105751</guid>
-            <pubDate>Mon, 08 Aug 2022 03:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[다쏘시스템은 프랑스 민간 방사선 치료 센터인 하트만, 프랑스 통합 의료 연구기관인 라파엘 등과 공동으로 방사선 치료실을 가상 공간에 구축하는 '보르덱(VORTHEx)' 프로젝트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
