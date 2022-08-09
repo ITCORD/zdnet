@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 차세대 CPU 출시 지연설...TSMC 3나노 공정에 '불똥']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220809140442</link>
+            <guid>https://zdnet.co.kr/view/?no=20220809140442</guid>
+            <pubDate>Tue, 09 Aug 2022 05:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 내년 출시를 앞둔 차세대 코어 프로세서 '메테오레이크'(Meteor Lake)의 대량 생산 일정을 내년 하반기 이후로 연기했다는 관측이 나왔다. 시장조사업체 트렌드포스와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 스마트싱스 홈 케어 서비스 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20220809090836</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220808101346</guid>
             <pubDate>Mon, 08 Aug 2022 03:15:02 GMT</pubDate>
             <content:encoded><![CDATA[주연테크가 8일 콘텐츠 제작용 노트북 '리오나인 L9W36'을 국내 출시했다. 이 노트북은 인텔 12세대 코어 i7-12700H 프로세서와 엔비디아 지포스 RTX 3060 그래...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["새 아이패드 프로, 4핀 커넥터 추가된다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220808095931</link>
-            <guid>https://zdnet.co.kr/view/?no=20220808095931</guid>
-            <pubDate>Mon, 08 Aug 2022 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[올해 말 출시될 예정인 새 아이패드 프로에 4핀 커넥터가 추가된다는 전망이 제기됐다. IT매체 나인투파이브맥은 7일(현지시간) 일본 IT 블로그 맥오타카라를 인용해 올해 나올 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
