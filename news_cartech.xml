@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 01:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기아, '신형 레이' 공개…"다음달 초 출시"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220810092352</link>
+            <guid>https://zdnet.co.kr/view/?no=20220810092352</guid>
+            <pubDate>Wed, 10 Aug 2022 01:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[기아는 디자인을 확 바꾼 '신형 레이'를 공개한다고 10일 밝혔다. 신형 레이는 기아 신규 디자인 철학 오퍼짓 유나이티드를 반영해 이전보다 세련된 분위기를 연출하는 것이 특징이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쌍용차, '수해차량 특별정비' 실시…수리비 40% 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20220809165929</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220803094653</guid>
             <pubDate>Wed, 03 Aug 2022 01:06:30 GMT</pubDate>
             <content:encoded><![CDATA[폭스바겐코리아가 올해 하반기 '신형 티구안 올스페이스'를 국내에 선보인다. 3일 업계에 따르면 폭스바겐코리아는 9월경 3열 시트를 장착하고 가솔린 엔진을 탑재한 신형 티구안 올...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 쏘렌토 HEV 엔진오일 증가 현상에 SW 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220802192029</link>
-            <guid>https://zdnet.co.kr/view/?no=20220802192029</guid>
-            <pubDate>Tue, 02 Aug 2022 12:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[기아가 쏘렌토 하이브리드(HEV) 엔진오일 증가 현상을 해결하고자 소프트웨어(SW) 업데이트를 진행한다. 2일 업계에 따르면 기아는 쏘렌토 HEV 구매자를 대상으로 결함 관련 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
