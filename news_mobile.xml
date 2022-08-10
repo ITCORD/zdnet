@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스틸시리즈 "한국은 전략 국가...신제품 지속 투입"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220810143936</link>
+            <guid>https://zdnet.co.kr/view/?no=20220810143936</guid>
+            <pubDate>Wed, 10 Aug 2022 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA["한국은 미국과 중국, 일본에 이어 전 세계에서 네 번재로 큰 게임 시장을 형성한 나라이며 많은 회사가 한국 게임 시장에 관심을 보이고 있다. 스틸시리즈 역시 한국을 전략 국가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['폴더블폰 세상' 꿈꾸는 삼성, 갤럭시Z 폴드·플립4 오늘밤 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220810080712</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220809083641</guid>
             <pubDate>Tue, 09 Aug 2022 01:03:50 GMT</pubDate>
             <content:encoded><![CDATA[애플이 개발 중인 혼합현실(MR) 헤드셋이 내년 초에 발표될 것이라는 소식이 나왔다. IT매체 맥루머스는 8일(현지시간) 애플 전문 분석가 궈밍치의 보고서를 인용해 이와 같이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[iOS16부터 아이폰 '배터리 잔량 표시' 부활]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220809083352</link>
-            <guid>https://zdnet.co.kr/view/?no=20220809083352</guid>
-            <pubDate>Tue, 09 Aug 2022 01:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰에서 사라졌던 배터리 잔량 표시 기능이 부활된다. 애플이 8일(현지시간) 개발자들에게 공개한 iOS16 베타5부터 배터리 잔량 표시하기를 되살렸다고 더버지를 비롯한 외신들...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
