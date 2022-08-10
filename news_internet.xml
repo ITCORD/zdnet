@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 02:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 04:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 'MY플레이스', 활동 리뷰어 1천만명 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220810094600</link>
+            <guid>https://zdnet.co.kr/view/?no=20220810094600</guid>
+            <pubDate>Wed, 10 Aug 2022 04:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 'MY플레이스'에서 활동하는 리뷰어가 1천만명을 웃돌았다고 10일 밝혔다. MY플레이스는 장소 리뷰를 핵심 콘텐츠로 하는 플랫폼으로 개인 리뷰를 모아 보거나, 다른 리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오 "카카오맵으로 부산 버스 실시간 확인"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220810092741</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220809084515</guid>
             <pubDate>Tue, 09 Aug 2022 01:04:02 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기반 임상, 비임상 행동 시험 분석 회사 액트노바(대표 김대건)가 카카오벤처스로부터 5억원 규모 시드 투자를 유치했다고 9일 밝혔다. 초기 기업이지만, 세계 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여기어때, '0원 해외여행' 프로모션]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220809083701</link>
-            <guid>https://zdnet.co.kr/view/?no=20220809083701</guid>
-            <pubDate>Tue, 09 Aug 2022 01:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[여기어때가 '0원 해외여행' 프로모션을 진행한다고 9일 밝혔다. 추첨을 통해 다낭, 방콕, 괌 2인 항공권과 프리미엄 호텔·리조트 숙박권을 제공하는 이벤트다. 당첨자는 여행지별...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
