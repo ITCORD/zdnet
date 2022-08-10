@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['폴더블폰 세상' 꿈꾸는 삼성, 갤럭시Z 폴드·플립4 오늘밤 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220810080712</link>
+            <guid>https://zdnet.co.kr/view/?no=20220810080712</guid>
+            <pubDate>Wed, 10 Aug 2022 05:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 오늘(10일) 밤 10시(한국시간) 미국 뉴욕에서 '갤럭시 언팩 2022' 행사를 열고 4세대 폴더블폰 '갤럭시Z 시리즈'를 공개한다. 이번 신제품 갤럭시Z 폴드4와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신일전자, 편의성·탈수력 강화 '고속 탈수기' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220810122511</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220809083352</guid>
             <pubDate>Tue, 09 Aug 2022 01:03:50 GMT</pubDate>
             <content:encoded><![CDATA[아이폰에서 사라졌던 배터리 잔량 표시 기능이 부활된다. 애플이 8일(현지시간) 개발자들에게 공개한 iOS16 베타5부터 배터리 잔량 표시하기를 되살렸다고 더버지를 비롯한 외신들...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 전문가용 '아크 프로' 그래픽칩셋 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220809075514</link>
-            <guid>https://zdnet.co.kr/view/?no=20220809075514</guid>
-            <pubDate>Mon, 08 Aug 2022 23:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 8일(미국 현지시간) 전문가용 그래픽칩셋인 '아크 프로' 라인업을 공개했다. 아크 프로는 모바일 워크스테이션용 '아크 프로 A30M', 데스크톱용 '아크 프로 A40·A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
