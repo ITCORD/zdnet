@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 2분기 영업이익 1760억원...전년비 5.7% 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220810160156</link>
+            <guid>https://zdnet.co.kr/view/?no=20220810160156</guid>
+            <pubDate>Wed, 10 Aug 2022 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[코웨이가 지난 2분기 매출액이 9천 782억원으로 전년 같은 기간 보다 8.0% 증가했다고 10일 공시했다. 영업이익은 1천 760억원, 당기순이익은 1천 325억원으로 전년 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스틸시리즈 "한국은 전략 국가...신제품 지속 투입"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220810143936</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220809094048</guid>
             <pubDate>Tue, 09 Aug 2022 01:03:50 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 9일 데스크톱PC용 고효율 전원공급장치 '위즈맥스 골드'를 국내 출시했다. 위즈맥스 골드는 전 세계 시장을 겨냥해 한미마이크로닉스 기업부설연구소가 자체 개발한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플 MR 헤드셋, 내년 1월 발표될 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220809083641</link>
-            <guid>https://zdnet.co.kr/view/?no=20220809083641</guid>
-            <pubDate>Tue, 09 Aug 2022 01:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 개발 중인 혼합현실(MR) 헤드셋이 내년 초에 발표될 것이라는 소식이 나왔다. IT매체 맥루머스는 8일(현지시간) 애플 전문 분석가 궈밍치의 보고서를 인용해 이와 같이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
