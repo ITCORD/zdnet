@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가트너, 몰입형 경험·AI 자동화 촉진하는 이머징 기술 전망 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220811171629</link>
+            <guid>https://zdnet.co.kr/view/?no=20220811171629</guid>
+            <pubDate>Thu, 11 Aug 2022 09:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[가트너는 '2022년 이머징 테크놀로지 하이프 사이클'을 11일 발표했다. 가트너는 주목해야 할 이머징 테크놀로지 25가지를 소개하고, 해당 기술이 몰입형 경험의 진화 및 확장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시큐센-페이크럭스, 생체인증 결제 서비스 파트너십]]></title>
             <link>https://zdnet.co.kr/view/?no=20220811163026</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["가비아의 클라우드 경쟁력은 오랜 인프라 구축 경험”]]></title>
+            <title><![CDATA["가비아의 클라우드 경쟁력은 오랜 인프라 구축 경험"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220811162758</link>
             <guid>https://zdnet.co.kr/view/?no=20220811162758</guid>
             <pubDate>Thu, 11 Aug 2022 08:14:46 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220811093223</guid>
             <pubDate>Thu, 11 Aug 2022 00:57:50 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)은 논산시에 틸론 VDI 솔루션 '디스테이션(Dstation) v9.0'을 기반으로 한 재택근무 지원 시스템을 성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스-중앙대, 융합보안 인재 양성 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220811090910</link>
-            <guid>https://zdnet.co.kr/view/?no=20220811090910</guid>
-            <pubDate>Thu, 11 Aug 2022 00:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표 박진효)는 중앙대학교와 우수 융합보안 인재 육성 및 채용을 위한 산학협력 업무협약(MOU)을 체결했다고 11일 밝혔다. 이번 협약을 통해 SK쉴더스는 중앙대학교...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
