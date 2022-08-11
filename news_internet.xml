@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브 커머스 이용자 만족도 '양호']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220811165605</link>
+            <guid>https://zdnet.co.kr/view/?no=20220811165605</guid>
+            <pubDate>Thu, 11 Aug 2022 23:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[실시간 온라인 쇼핑 채널 '라이브 커머스'의 이용자 만족도가 대체로 양호한 것으로 조사됐다. 한국소비자원은 누적 거래액, 시청 횟수 등을 고려해 라이브 커머스 소비자 이용실태와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡이츠, 전국 주유소에 안전배달 캠페인]]></title>
             <link>https://zdnet.co.kr/view/?no=20220811174938</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220810094600</guid>
             <pubDate>Wed, 10 Aug 2022 04:15:41 GMT</pubDate>
             <content:encoded><![CDATA[네이버는 'MY플레이스'에서 활동하는 리뷰어가 1천만명을 웃돌았다고 10일 밝혔다. MY플레이스는 장소 리뷰를 핵심 콘텐츠로 하는 플랫폼으로 개인 리뷰를 모아 보거나, 다른 리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 "카카오맵으로 부산 버스 실시간 확인"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220810092741</link>
-            <guid>https://zdnet.co.kr/view/?no=20220810092741</guid>
-            <pubDate>Wed, 10 Aug 2022 01:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 지도 앱 서비스 카카오맵에서 부산 지역 초정밀 버스 위치 정보를 제공한다고 10일 밝혔다. 제주, 울산, 춘천, 목포에 이어 5번째로, 카카오맵만의 특화 서비스를 통해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

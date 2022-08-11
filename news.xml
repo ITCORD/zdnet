@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브 커머스 이용자 만족도 '양호']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220811165605</link>
+            <guid>https://zdnet.co.kr/view/?no=20220811165605</guid>
+            <pubDate>Thu, 11 Aug 2022 23:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[실시간 온라인 쇼핑 채널 '라이브 커머스'의 이용자 만족도가 대체로 양호한 것으로 조사됐다. 한국소비자원은 누적 거래액, 시청 횟수 등을 고려해 라이브 커머스 소비자 이용실태와...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/11/57bc6fce7b924a00b14b13591f64e41e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한독립 헌신 외국인 기념우표 나온다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220811162452</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220809161154</guid>
             <pubDate>Thu, 11 Aug 2022 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[책상에 앉아 하루 종일 무언가를 열심히 생각하며 일하면 퇴근할 때쯤엔 너무나 피곤하다. 집에 와선 계획했던 생산적 활동은 미뤄둔 채 아무 생각 없이 유튜브 화면만 쳐다보며 시간...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/09/941c6629ec2bcf284116a2c65775552a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[람다256, 패션테크 기업 아보카도와 실물 연계 NFT 만든다]]></title>
@@ -155,15 +163,8 @@
             <title><![CDATA[[인사] 국토교통부]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Thu, 11 Aug 2022 22:10:48 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 23:12:02 GMT</pubDate>
             <content:encoded><![CDATA[◆국토교통부 ◇국장급 전보 ▲도로국장 이용욱 ▲철도국장 이윤상 ▲가덕도신공항건립추진단장 이상헌 ▲부산지방국토관리청장 진현환 ▲대변인 김영한 ▲국토정책관 김정희 ▲주택정책관 김효...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 과학기술정보통신부]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Thu, 11 Aug 2022 22:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[◇ 과장급 임용 ▲ 장관정책보좌관 김대정...]]></content:encoded>
         </item>
     </channel>
 </rss>
