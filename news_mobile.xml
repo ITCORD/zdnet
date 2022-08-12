@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 뉴욕을 보라빛으로 물들인 갤럭시Z4·BTS '어메이징']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220812172624</link>
+            <guid>https://zdnet.co.kr/view/?no=20220812172624</guid>
+            <pubDate>Fri, 12 Aug 2022 09:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 4세대 폴더블폰 갤럭시Z4 시리즈를 지난 10일(뉴욕 현지시간) '갤럭시 언팩'을 통해 오프라인과 온라인으로 전격 공개했다. 이번 신제품은 폴더블폰의 진정한 대중화를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴로메카, 코스닥 상장예비심사 승인]]></title>
             <link>https://zdnet.co.kr/view/?no=20220812165037</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220811001928</guid>
             <pubDate>Wed, 10 Aug 2022 16:16:09 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 10일 오전 9시(현지시간) 미국 뉴욕에서 진행한 '갤럭시 언팩 2022'를 통해 차세대 폴더블 스마트폰인 갤럭시 Z 플립4·폴드4를 공개했다. 갤럭시 Z 플립4는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["화면 주름은 전작과 비슷, 멀티태스킹 강화"...Z 폴드·플립4 외신 반응]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220811001041</link>
-            <guid>https://zdnet.co.kr/view/?no=20220811001041</guid>
-            <pubDate>Wed, 10 Aug 2022 16:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 폴더블폰 신제품 '갤럭시 Z 폴드4'와 '갤럭시 Z 플립4'가 10일 오전 9시(현지시간) 미국 뉴욕에서 공개된 가운데, 주요 외신들은 화면 주름 개선 정도와 큰 화면...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
