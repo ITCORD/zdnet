@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹 '포티투닷' 인수 배경은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220812155448</link>
+            <guid>https://zdnet.co.kr/view/?no=20220812155448</guid>
+            <pubDate>Fri, 12 Aug 2022 07:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차그룹이 12일 자율주행 스타트업 '포티투닷'을 인수한다고 발표했다. 레벨4 자율주행기술 확보를 통해 SDV(Software Defined Vehicle) 개발체계 조기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹, 美에 '로봇 AI 연구소' 설립…4억2400만달러 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220812142505</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220809154251</guid>
             <pubDate>Tue, 09 Aug 2022 07:12:20 GMT</pubDate>
             <content:encoded><![CDATA[8일 시작된 수도권 집중호우로 자동차 수천대가 침수되는 큰 피해가 발생했다. 이중에는 고전압 배터리를 탑재한 전기자동차도 상당수 포함돼 많은 이의 우려를 낳고 있다. 한국교통안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 인니 니켈 업체와 6조5천억 규모 공급계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220809114019</link>
-            <guid>https://zdnet.co.kr/view/?no=20220809114019</guid>
-            <pubDate>Tue, 09 Aug 2022 04:37:25 GMT</pubDate>
-            <content:encoded><![CDATA[전기자동차 기업 테슬라가 인도네시아 니켈 가공업체들과 50억달러(약 6조5천280억원) 규모의 공급계약을 체결했다고 로이터를 비롯한 외신들이 8일(현지시간) 보도했다. 루훗 빈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
