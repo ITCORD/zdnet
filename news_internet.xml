@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 09:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 10:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 네이버 압수수색…'부동산 갑질' 의혹]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220812173045</link>
+            <guid>https://zdnet.co.kr/view/?no=20220812173045</guid>
+            <pubDate>Fri, 12 Aug 2022 10:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 '부동산 갑질' 의혹으로 네이버에 대해 강제수사에 나섰다. 12일 법조계에 따르면 서울중앙지검 공정거래조사부는 공정거래법 위반 혐의로 경기 성남시 분당구에 위치한 네이버...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아프리카TV, '별풍선' 인앱결제 없앴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220812165706</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220811090344</guid>
             <pubDate>Thu, 11 Aug 2022 00:58:15 GMT</pubDate>
             <content:encoded><![CDATA[당근마켓은 마케팅 서비스들을 웹사이트 한 곳에서 통합적으로 제공하는 '당근비즈니스'를 출시했다고 11일 밝혔다. 당근비즈니스는 그간 당근마켓 앱에서 개별적으로 제공해오던 비즈프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["지마켓도 신선식품 배송"…쓱닷컴 연계 '스마일프레시' 열어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220811084724</link>
-            <guid>https://zdnet.co.kr/view/?no=20220811084724</guid>
-            <pubDate>Thu, 11 Aug 2022 00:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[지마켓은 쓱닷컴 '쓱배송(당일 시간대 지정 배송)'과 새벽배송 전용관 '스마일프레시'를 신설했다고 11일 밝혔다. 고객들은 지마켓 사이트에서 신선식품 새벽배송과 당일 주문한 장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
