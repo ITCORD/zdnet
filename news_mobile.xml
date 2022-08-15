@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 22:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 23:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 "소비자 가격 부담 없이 갤럭시 재활용 소재 확대할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220815045059</link>
+            <guid>https://zdnet.co.kr/view/?no=20220815045059</guid>
+            <pubDate>Mon, 15 Aug 2022 23:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴욕(미국)=이나리 기자] 삼성전자가 소비자에게 가격 부담을 주지 않는 선에서 갤럭시 제품에 재활용 소재 사용을 늘려 나가겠다고 밝혔다. 일반 플라스틱 보다 값이 비싼 재활용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자 물질분석공인랩, '항바이러스 시험소' 인증 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20220815091440</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220811084255</guid>
             <pubDate>Thu, 11 Aug 2022 02:57:34 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 업무용 디지털 사이니지에 도청 감지 솔루션을 적용한다고 11일 밝혔다. LG전자는 보안솔루션 기업 지슨(GITSN)과 업무 협약을 맺고, 디지털 사이니지 전용 도청 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK매직, '2022 레드닷 디자인 어워드' 4관왕]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220811092820</link>
-            <guid>https://zdnet.co.kr/view/?no=20220811092820</guid>
-            <pubDate>Thu, 11 Aug 2022 00:58:03 GMT</pubDate>
-            <content:encoded><![CDATA[SK매직이 세계 3대 디자인 어워드인 '2022 레드닷 디자인 어워드'에서 제품 디자인, 디자인 콘셉트, 브랜드&amp;커뮤니케이션 디자인 부문 본상(Winner)을 잇따라 수상하며 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
