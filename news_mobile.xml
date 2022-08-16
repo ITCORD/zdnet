@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 04:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 05:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PC·콘솔 게이머 잡는 궁극의 스크린 나왔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220816122907</link>
+            <guid>https://zdnet.co.kr/view/?no=20220816122907</guid>
+            <pubDate>Tue, 16 Aug 2022 05:17:00 GMT</pubDate>
+            <content:encoded><![CDATA["이번에 출시하는 오디세이 아크는 55인치 1000R 곡률, 화면 주사율 165Hz가 주는 압도적인 경험을 가로 뿐만 아니라 세로 등 원하는 다양한 각도로 즐길 수 있는 제품입...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국레노버, 탭 M10 플러스 3세대 국내 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220816131121</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220812172624</guid>
             <pubDate>Fri, 12 Aug 2022 09:13:15 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 4세대 폴더블폰 갤럭시Z4 시리즈를 지난 10일(뉴욕 현지시간) '갤럭시 언팩'을 통해 오프라인과 온라인으로 전격 공개했다. 이번 신제품은 폴더블폰의 진정한 대중화를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴로메카, 코스닥 상장예비심사 승인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220812165037</link>
-            <guid>https://zdnet.co.kr/view/?no=20220812165037</guid>
-            <pubDate>Fri, 12 Aug 2022 08:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[뉴로메카가 한국거래소로부터 상장예비심사 승인을 받았다고 12일 밝혔다. 2013년 설립된 뉴로메카는 협동로봇 전문기업으로 소프트웨어와 알고리즘 차별화를 통해 시장을 선도하고 있...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
