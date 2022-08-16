@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 23:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 01:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 8만4128명...위중증 환자 563명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220816100213</link>
+            <guid>https://zdnet.co.kr/view/?no=20220816100213</guid>
+            <pubDate>Tue, 16 Aug 2022 01:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규 확진자가 8만4천128명 발생했다. 16일 0시 기준 국내 지역사회 확진자는 8만3천665명, 해외유입 사례는 463명 등이다. 이날 권역별 확진자 현황은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빌 게이츠 만나는 김진표 국회의장, 국제 보건 협력 중요성 논의]]></title>
             <link>https://zdnet.co.kr/view/?no=20220815101807</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220812100132</guid>
             <pubDate>Fri, 12 Aug 2022 03:07:08 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 신규 확진자가 4일 연속, 주말 통계가 반영된 8일을 제외하면 9일 연속 10만명을 넘었다. 사망자도 30대 이상에서 높게 발생하고 있다. 중앙방역대책본부(이하 중대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[식의약 규제혁신 두고 제약업계 시큰둥…"기대 못 미쳐"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220811172248</link>
-            <guid>https://zdnet.co.kr/view/?no=20220811172248</guid>
-            <pubDate>Thu, 11 Aug 2022 20:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 임상진입 및 승인 단계를 간소화하고 개발기간을 6개월 이상 단축하는 등의 내용이 담긴 '식의약 규제혁신 100대 과제'를 발표한 가운데 국내 제약업계는 산업 경쟁력을 강...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

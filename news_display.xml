@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 23:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 01:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온세미, 미국 SiC 공장 준공…"생산량 5배"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220816094524</link>
+            <guid>https://zdnet.co.kr/view/?no=20220816094524</guid>
+            <pubDate>Tue, 16 Aug 2022 01:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[미국 전력 반도체 회사 온세미는 16일 미국 뉴햄프셔 허드슨에 있는 탄화규소(SiC·실리콘카바이드) 생산 시설을 준공했다고 밝혔다. 온세미는 생산 용량이 지난해보다 5배 늘었다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성D, '게임스컴'서 '검은사막'으로 QD-OLED 홍보]]></title>
             <link>https://zdnet.co.kr/view/?no=20220815103517</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220808171223</guid>
             <pubDate>Mon, 08 Aug 2022 09:13:01 GMT</pubDate>
             <content:encoded><![CDATA[이창양 산업통상자원부 장관은 8일 “미국이 주도하는 반도체 협의체 '칩4(Chip4)'는 경제 문제”라고 밝혔다. 미국은 한국·일본·대만에 칩4 협의체를 꾸려 반도체 공급망을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크론, 데이터센터용 176단 낸드 SSD 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220808152123</link>
-            <guid>https://zdnet.co.kr/view/?no=20220808152123</guid>
-            <pubDate>Mon, 08 Aug 2022 07:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[미국 반도체 회사 마이크론테크놀로지는 8일 데이터센터용 176단 낸드플래시 SATA 솔리드스테이트드라이브(SSD) '5400'을 출시했다. 11세대 사타 칩 구조·설계 방식(아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
