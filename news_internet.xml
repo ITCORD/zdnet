@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG CNS, 매출 1조원 돌파…2분기 역대 최대실적]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220816183035</link>
+            <guid>https://zdnet.co.kr/view/?no=20220816183035</guid>
+            <pubDate>Tue, 16 Aug 2022 10:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[LG CNS가 2분기 기준 사상 최대 실적을 달성했다. 16일 LG CNS가 공시한 2022년 반기보고서에 따르면, 2분기 연결기준 매출액은 전년동기 대비 35% 증가한 1조1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다나와, 코리아센터 흡수합병…'커넥트웨이브'로 새 출발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220816173153</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220812190641</guid>
             <pubDate>Sat, 13 Aug 2022 21:12:23 GMT</pubDate>
             <content:encoded><![CDATA[SSG닷컴이 통합 멤버십 '스마일클럽'을 출시한 지 100일이 되는 19일 전후로 기념행사를 연다. 고객 감사 차원에서 할인 혜택, 특가 행사, 추첨 이벤트 등을 준비했다. 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, '앱추적금지' 전 메타에 매출공유 요구]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220813102040</link>
-            <guid>https://zdnet.co.kr/view/?no=20220813102040</guid>
-            <pubDate>Sat, 13 Aug 2022 02:55:39 GMT</pubDate>
-            <content:encoded><![CDATA[메타는 지난 6월 마감된 2분기에 매출 1% 감소라는 충격적인 결과를 내놨다. 메타 창사 이후 처음으로 경험하는 분기 매출 감소였다. 메타의 매출이 줄어든 것은 애플이 iOS1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
