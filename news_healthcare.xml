@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 22:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 23:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성바이오에피스 '하드리마' 100㎎ 미국 FDA 허가…'휴미라' 바이오시밀러]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220818073841</link>
+            <guid>https://zdnet.co.kr/view/?no=20220818073841</guid>
+            <pubDate>Wed, 17 Aug 2022 23:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[삼성바이오에피스는 15일(현지시간) 미국 식품의약국(FDA)으로부터 휴미라 바이오시밀러 하드리마(Hadlima, 성분명: 아달리무맙)의 고농도 제형(100㎎/mL) 허가를 획득...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["의료빅데이터 인재양성하자”…심평원 대전지원, 공주대학교와 MOU]]></title>
             <link>https://zdnet.co.kr/view/?no=20220817171237</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220816103228</guid>
             <pubDate>Tue, 16 Aug 2022 03:44:01 GMT</pubDate>
             <content:encoded><![CDATA[한국애브비가 지난 12일, 임직원과 자녀 약 100여 명이 참여한 '제12회 패밀리 사이언스데이'를 개최했다. 패밀리 사이언스 데이는 임직원 자녀들이 의학 및 제약의 기초가 되...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 8만4128명...위중증 환자 563명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220816100213</link>
-            <guid>https://zdnet.co.kr/view/?no=20220816100213</guid>
-            <pubDate>Tue, 16 Aug 2022 01:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내 코로나19 신규 확진자가 8만4천128명 발생했다. 16일 0시 기준 국내 지역사회 확진자는 8만3천665명, 해외유입 사례는 463명 등이다. 이날 권역별 확진자 현황은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
