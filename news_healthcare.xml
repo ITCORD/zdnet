@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:59:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 18만803명...위중증 환자 469명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220817103802</link>
+            <guid>https://zdnet.co.kr/view/?no=20220817103802</guid>
+            <pubDate>Wed, 17 Aug 2022 03:56:30 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규확진자가 18만 명을 넘어선 것으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 17일 0시 기준 지역사회 확진자는 18만236명, 해외유입 사례 567명...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온제약, 2분기 매출액 1053억원…전년동기比 7%↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20220816165358</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220813120817</guid>
             <pubDate>Sat, 13 Aug 2022 20:15:01 GMT</pubDate>
             <content:encoded><![CDATA[국민건강보험공단의 적립금에 대해 중장기 자산의 투자비율 조정이 필요하다는 지적이다. 적립금 운용 수익률이 2021년 1%대에 그쳐 국민연금이나 공무원연금에 비해 턱없이 낮기 때...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 제약사들, 싱가포르 투자 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220813110215</link>
-            <guid>https://zdnet.co.kr/view/?no=20220813110215</guid>
-            <pubDate>Sat, 13 Aug 2022 02:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[다국적 제약·바이오 기업들이 싱가포르에 투자를 확대하고 있어 그 배경에 관심이 쏠린다. 최근 중국 우시바이오로직스는 싱가포르에 연구개발과 대규모 원료의약품 및 의약품 제조 강화...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
