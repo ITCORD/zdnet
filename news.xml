@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 22:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 23:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["놀면서 일이 돼?"...요즘 뜨는 '워케이션' 리얼 체험기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220818163645</link>
+            <guid>https://zdnet.co.kr/view/?no=20220818163645</guid>
+            <pubDate>Thu, 18 Aug 2022 23:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[직장인 대부분은 '놀다'와 '일한다'는 말이 공존할 수 없다는 명제에 동의할 것이다. 우리는 놀기 위해 일한다. 일이 끝나야 놀 수 있다. 또 능률을 높이고자, 휴가를 떠나며 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/18/06f0130a6114f952e83d30c21cf7520d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["국민이 내는 국민연금, 개혁 논의에 국민은 없다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220818173415</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220818173542</guid>
             <pubDate>Thu, 18 Aug 2022 13:37:24 GMT</pubDate>
             <content:encoded><![CDATA[애초 저렴한 유류의 대명사로 여겨지던 경유가 휘발유 가격을 넘어서는 이례적 상황이 장기간 지속되고 있다. 경유가 자체는 감소세를 보이고 있지만 휘발유에 비해 인하하는 속도가 더...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/18/a216f2a2d66d669c9be199a110a45cb0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스카이플레이, 레드로캣 신작 '프로젝트D' 온보딩 계약]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220818131255</guid>
             <pubDate>Thu, 18 Aug 2022 07:10:58 GMT</pubDate>
             <content:encoded><![CDATA[윤종인 개인정보보호위원장이 글로벌 소셜미디어 페이스북 운영사 메타에 대한 조사를 계속 진행하고 있다고 밝혔다. 메타는 개인정보 수집에 비동의할 경우 이용을 막겠다고 공지했다가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스홀딩스, 킹미디어 신작 '이터널 삼국지' 글로벌 계약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220818152528</link>
-            <guid>https://zdnet.co.kr/view/?no=20220818152528</guid>
-            <pubDate>Thu, 18 Aug 2022 07:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스홀딩스(대표 이용국)는 킹미디어(대표 장동훈)가 개발하고 있는 '이터널 삼국지(가제)'의 글로벌 퍼블리싱 계약을 체결했다고 18일 밝혔다. '이터널 삼국지'는 전략 RPG...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
