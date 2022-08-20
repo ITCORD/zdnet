@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 01:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 03:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 12만9천411명...위중증 환자 511명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220820101954</link>
+            <guid>https://zdnet.co.kr/view/?no=20220820101954</guid>
+            <pubDate>Sat, 20 Aug 2022 03:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규확진자가 12만9천411명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 20일 0시 기준 지역사회 확진자는 12만8천919명, 해외유입 사례 492명 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전 국민 42.6% 확진…중대본 "신속진단·표적방역으로 확산 억제"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220819111748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220816150712</guid>
             <pubDate>Tue, 16 Aug 2022 06:16:07 GMT</pubDate>
             <content:encoded><![CDATA[건국대학교는 건국대기술지주 자회사인 스템엑소원(대표 조쌍구·줄기세포재생공학과 교수)이 '고효율/고기능 줄기세포 엑소좀 대량 생산 기술기반 난치성 질환 치료제 개발'을 주제로 중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김진표 의장, 빌 게이츠에 "감염병 백신·치료제 연구 우리기업 지원해 달라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220816145935</link>
-            <guid>https://zdnet.co.kr/view/?no=20220816145935</guid>
-            <pubDate>Tue, 16 Aug 2022 06:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[김진표 국회의장이 16일 오전 국회 의장집무실에서 빌 게이츠 빌 앤 맬린다 게이츠 재단 공동이사장을 만나 글로벌 보건 위기 극복 및 미래 보건위기 대응 등 국제보건의료 협력 강...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
