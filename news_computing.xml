@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 23:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 01:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["퇴사 전 데이터 유출? 내부자 위협 관리 솔루션에 딱 걸린다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220821030134</link>
+            <guid>https://zdnet.co.kr/view/?no=20220821030134</guid>
+            <pubDate>Sun, 21 Aug 2022 00:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 말 미국 제약회사 화이자는 백신 개발 관련 기밀 데이터를 훔친 것으로 의심되는 내부 직원을 고소했다. 고소 당한 사람은 화이자에서 15년간 근무한 이사급 직원으로, 다른...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포블게이트 "예치금 100% 이상 자산 보유"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220819185933</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220818131650</guid>
             <pubDate>Thu, 18 Aug 2022 04:58:12 GMT</pubDate>
             <content:encoded><![CDATA[한국 소비자는 타 국가보다 기술에 높은 신뢰를 갖고 있으며, 새로운 애플리케이션에 높은 기대감을 가진 것으로 나타났다. VM웨어는 새로운 기술과 디지털 미래를 맞이하는 전 세계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러스트 1.63.0 버전 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220818124829</link>
-            <guid>https://zdnet.co.kr/view/?no=20220818124829</guid>
-            <pubDate>Thu, 18 Aug 2022 04:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[인기 프로그래밍 언어 '러스트(RUST)'의 최신 버전이 공개됐다. 러스트 개발팀은 최근 공식사이트를 통해 신규 버전 러스트 1.63.0 버전을 출시했다고 밝혔다. 1.63버전...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
