@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 20:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 21:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 드럼세탁기 10만 여대 자발적 무상 수리]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220822010509</link>
+            <guid>https://zdnet.co.kr/view/?no=20220822010509</guid>
+            <pubDate>Sun, 21 Aug 2022 21:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자는 최근 연이어 발생한 일부 드럼세탁기 도어 외부유리 이탈·파손사고 관련, 22일부터 해당 모델을 자발적으로 무상 수리한다고 밝혔다. 해당 모델은 지난해 9월부터 올해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 취향대로 고르는 '오브제컬렉션 인덕션 전기레인지' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220821090615</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220818094925</guid>
             <pubDate>Thu, 18 Aug 2022 01:05:51 GMT</pubDate>
             <content:encoded><![CDATA[애플이 다음 달 공개할 예정인 아이폰14 프로의 가격이 전작에 비해 100달러 오를 것이라는 전망이 나왔다. IT매체 맥루머스는 17일(현지시간) 댄 아이브스 웨드부시 증권 분...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠첸, 추석 맞이 주방가전 할인 판매 '강秋쇼핑' 프로모션 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220818092017</link>
-            <guid>https://zdnet.co.kr/view/?no=20220818092017</guid>
-            <pubDate>Thu, 18 Aug 2022 01:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[쿠첸이 추석을 맞아 명절 맞춤형 주방가전을 할인 판매하는 '강秋쇼핑' 프로모션을 실시한다고 18일 밝혔다. 이번 기획전은 쿠첸몰을 비롯한 온라인 직영몰과 롯데하이마트, 삼성 디...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
