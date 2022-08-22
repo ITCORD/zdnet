@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우저, 미국 물류센터 확장…신축건물 착공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220822174929</link>
+            <guid>https://zdnet.co.kr/view/?no=20220822174929</guid>
+            <pubDate>Mon, 22 Aug 2022 09:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체·전자부품 유통 기업 마우저일렉트로닉스는 22일 미국 텍사스주 댈러스 포트워스 남부에 있는 물류센터를 확장하고자 약 3만9천㎡ 면적, 3층 높이 신축 건물 확장 공사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반도체 SW 중국 수출 금지 타격 클 듯...美, 세계 EDA 62% 차지]]></title>
             <link>https://zdnet.co.kr/view/?no=20220822114157</link>
             <guid>https://zdnet.co.kr/view/?no=20220822114157</guid>
             <pubDate>Mon, 22 Aug 2022 03:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 중국에 3나노미터 이상 반도체 설계 소프트웨어 수출 규제를 시행하면 중국이 IC 설계에 큰 타격을 받을 것이란 전망이 나왔다. 전세계 공급되는 반도체 칩 생산 소프...]]></content:encoded>
+            <content:encoded><![CDATA[미국 정부가 중국에 3나노미터 이하 반도체 설계 소프트웨어 수출 규제를 시행하면 중국이 IC 설계에 큰 타격을 받을 것이란 전망이 나왔다. 전세계 공급되는 반도체 칩 생산 소프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220816164329</guid>
             <pubDate>Tue, 16 Aug 2022 08:14:31 GMT</pubDate>
             <content:encoded><![CDATA[미국 상무부가 차세대 프로세서를 만들 때 꼭 필요한 첨단 반도체 디자인 소프트웨어 수출 통제 명령을 발령했다고 프로토콜이 15일(현지시간) 보도했다. 이번 명령은 중국 반도체 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용 복권으로 삼성전자 M&A 탄력 붙나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220816162439</link>
-            <guid>https://zdnet.co.kr/view/?no=20220816162439</guid>
-            <pubDate>Tue, 16 Aug 2022 08:14:31 GMT</pubDate>
-            <content:encoded><![CDATA['박근혜 정부 국정 농단 사건' 유죄 판결로 취업이 제한됐던 이재용 삼성전자 부회장이 8·15 광복절 특별사면으로 복권돼 경영 활동을 할 수 있게 됐다. 이에 따라 삼성전자 대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
