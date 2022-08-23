@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 22:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 23:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["딜라이브TV, 올해 변화 원년…지역채널 패러다임 바꾸겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823153222</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823153222</guid>
+            <pubDate>Tue, 23 Aug 2022 23:12:00 GMT</pubDate>
+            <content:encoded><![CDATA["딜라이브TV의 목표는 전폭적인 신뢰를 바탕으로 지역사회에 활력을 불어넣고, 지역 시청자들에게 다양한 즐거움을 제공하는 채널이 되는 것이다." 딜라이브의 지역채널을 담당하는 딜...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 민관 합동 '미디어 정책 협의체' 꾸린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823171110</link>
@@ -91,7 +99,7 @@
             <title><![CDATA[KT, 안랩과 양자암호 VPN 기술 상용화]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 23 Aug 2022 22:12:09 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 23:12:00 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)가 안랩과 양자암호에 기반을 둔 무선 통신의 가상사설망(VPN) 기술을 상용화 했다고 23일 밝혔다. 상용화에 나선 양자암호 VPN 기술은 KT 융합기술원이 ...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822091319</guid>
             <pubDate>Mon, 22 Aug 2022 01:04:54 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 스마트레이더시스템과 함께 U+스마트레이더를 활용한 '실시간 공간객체 모니터링 플랫폼'을 개발했다고 22일 밝혔다. U+스마트레이더는 노인보호시설이나 장애인 화장실...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['넷플릭스 광고 요금제' 오리지널·어린이용 콘텐츠 제외]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220822081732</link>
-            <guid>https://zdnet.co.kr/view/?no=20220822081732</guid>
-            <pubDate>Mon, 22 Aug 2022 01:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 준비 중인 광고 요금제에 일부 광고가 붙지 않는 콘텐츠가 포함될 수 있다는 예측이 나왔다. 21일(현지시간) 블룸버그 통신은 업계 관계자의 말을 인용해 일부 넷플릭스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
