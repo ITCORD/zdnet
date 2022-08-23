@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 13:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 14:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰14 인도 생산 박차…"中과 격차 2개월로 단축"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823223558</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823223558</guid>
+            <pubDate>Tue, 23 Aug 2022 14:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 인도 아이폰 생산속도를 앞당기는 작업을 진행하고 있다는 보도가 나왔다. 월스트리트저널은 23일 애플이 이르면 오는 11월 중 인도에서 아이폰14 모델을 생산할 수 있을 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/09/29/c23d460d405d2c0590116b7e1e19555e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 민관 합동 '미디어 정책 협의체' 꾸린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823171110</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220823174629</guid>
             <pubDate>Tue, 23 Aug 2022 10:13:25 GMT</pubDate>
             <content:encoded><![CDATA[네이버 노동조합이 5개 계열사를 대상으로 진행한 쟁의행위의 수위를 높인다. 전국민주노동조합총연맹 화섬식품노조 네이버지회(공동성명)는 지난달 19일부터 카페 가입하기, 댓글달기 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/22/5ec62fdfe8841f884557dfc80ac4aceb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[안익진 몰로코 "연간 R&D 투자 1천억…고속 성장 이룰 것"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823161817</guid>
             <pubDate>Tue, 23 Aug 2022 07:20:38 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷기업협회(회장 박성호) 산하 디지털경제연구소는 22일 디지털 산업의 과거, 현재, 미래를 조명하고 새 비전을 제시하기 위한 간행물인 Digital Economy Vie...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 카운터사이드, 2.5주년 3주차 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823160751</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823160751</guid>
-            <pubDate>Tue, 23 Aug 2022 07:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 23일 스튜디오비사이드(대표 류금태)가 개발한 어반 판타지 RPG '카운터사이드(CounterSide)'의 서비스 2.5주년 3주차 업데이트로 신규 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
