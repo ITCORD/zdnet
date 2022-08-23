@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 11:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 12:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 민관 합동 '미디어 정책 협의체' 꾸린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823171110</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823171110</guid>
+            <pubDate>Tue, 23 Aug 2022 12:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회가 미디어 규제 완화와 디지털 플랫폼 이용자 보호에 나선다. OTT로 비롯된 미디어 시장의 변화에 대응하고, 디지털 플랫폼의 성장과 함께 이용자 보호 균형을 맞추기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/06/30/17a4efe2ada8e813e5f9726a051e19b2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠첸, 천안 공장 준공...2025년 매출 5천억 달성 목표]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823190347</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220823165148</guid>
             <pubDate>Tue, 23 Aug 2022 09:15:02 GMT</pubDate>
             <content:encoded><![CDATA[“몰로코는 8개국에서 사무실을 운영 중이며, 런던·싱가포르·베이징 등으로 계속 확장하고 있다. 연간 연구개발(R&amp;D) 비용으로 1천억원을 투자, 글로벌 회사로 성장하기 위해 노...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/23/53adfd22b2f81b77194235bd15e23d62-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['메타버스와 한반도 미래' 포럼 29일 열린다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823160751</guid>
             <pubDate>Tue, 23 Aug 2022 07:20:38 GMT</pubDate>
             <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 23일 스튜디오비사이드(대표 류금태)가 개발한 어반 판타지 RPG '카운터사이드(CounterSide)'의 서비스 2.5주년 3주차 업데이트로 신규 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 성능·공간 다 잡은 기업용 미니 PC...델 옵티플렉스 7000 마이크로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823151409</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823151409</guid>
-            <pubDate>Tue, 23 Aug 2022 07:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[델테크놀로지스 옵티플렉스 7000 마이크로는 인텔 12세대 코어 프로세서와 DDR4/5 메모리, PCI 익스프레스 4.0 SSD와 와이파이6E 모듈을 탑재한 미니PC다. 크기는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

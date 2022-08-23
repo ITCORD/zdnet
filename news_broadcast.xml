@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 11:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 12:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, 민관 합동 '미디어 정책 협의체' 꾸린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823171110</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823171110</guid>
+            <pubDate>Tue, 23 Aug 2022 12:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회가 미디어 규제 완화와 디지털 플랫폼 이용자 보호에 나선다. OTT로 비롯된 미디어 시장의 변화에 대응하고, 디지털 플랫폼의 성장과 함께 이용자 보호 균형을 맞추기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[5G 중간요금제 추가 경쟁 불 붙을까]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823163117</link>
@@ -83,7 +91,7 @@
             <title><![CDATA[KT, 안랩과 양자암호 VPN 기술 상용화]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 23 Aug 2022 11:10:25 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)가 안랩과 양자암호에 기반을 둔 무선 통신의 가상사설망(VPN) 기술을 상용화 했다고 23일 밝혔다. 상용화에 나선 양자암호 VPN 기술은 KT 융합기술원이 ...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822081732</guid>
             <pubDate>Mon, 22 Aug 2022 01:04:54 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 준비 중인 광고 요금제에 일부 광고가 붙지 않는 콘텐츠가 포함될 수 있다는 예측이 나왔다. 21일(현지시간) 블룸버그 통신은 업계 관계자의 말을 인용해 일부 넷플릭스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실 새 홍보수석 김은혜…정책기획수석에 이관섭]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220821153731</link>
-            <guid>https://zdnet.co.kr/view/?no=20220821153731</guid>
-            <pubDate>Sun, 21 Aug 2022 07:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령은 21일 대통령비서실에 정책기획수석을 신설하고, 이관섭 한국무역협회 상근부회장을 임명했다. 또 신임 홍보수석에 당선인 시절 대변인과 대선 후보시절 캠프 공보단장을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
