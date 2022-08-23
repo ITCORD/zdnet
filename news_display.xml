@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, IoT 기기용 12세대 코어 프로세서 추가 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823083338</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823083338</guid>
+            <pubDate>Tue, 23 Aug 2022 01:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 22일(미국 현지시간) IoT(사물인터넷) 기기용 12세대 코어 프로세서(개발명 '엘더레이크 PS')를 추가 출시했다. 이번에 출시된 12세대 코어 프로세서는 IoT 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, '핫칩스 34'서 차세대 제품 논문 대거 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220822154928</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220817171917</guid>
             <pubDate>Wed, 17 Aug 2022 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[국내 반도체설계(팹리스) 산업계를 대표하는 협회가 생겼다. 법적 근거를 가진 한국 최초의 반도체 팹리스 산업 단체다. 4차 산업혁명 시대에 국내에서 설계한 반도체 칩이 세계 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기 사장, 필리핀 장관에 부산엑스포 지지 요청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220817093620</link>
-            <guid>https://zdnet.co.kr/view/?no=20220817093620</guid>
-            <pubDate>Wed, 17 Aug 2022 01:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[장덕현 삼성전기 사장은 15일(현지시간) 필리핀 마닐라에서 알프레도 파스쿠알 산업부 장관을 만나 '2030 부산세계박람회(엑스포)' 유치를 지지해달라고 요청했다. 삼성그룹은 민...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
