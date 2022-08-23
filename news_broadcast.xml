@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5G 중간요금제 추가 경쟁 불 붙을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823163117</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823163117</guid>
+            <pubDate>Tue, 23 Aug 2022 08:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[통신 3사가 5G 중간요금제를 모두 선보였다. 새 정부가 인수위 시절부터 추진한 통신비 관련 정책이 일단락됐다. 통신사들은 요금 매출 감소를 감내하면서 정부 정책 방향에 호응하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 100만 명 떨어져 나간 넷플릭스, 하반기 기대 포인트는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823142440</link>
@@ -75,7 +83,7 @@
             <title><![CDATA[KT, 안랩과 양자암호 VPN 기술 상용화]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
-            <pubDate>Tue, 23 Aug 2022 07:20:49 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 08:16:14 GMT</pubDate>
             <content:encoded><![CDATA[KT(대표 구현모)가 안랩과 양자암호에 기반을 둔 무선 통신의 가상사설망(VPN) 기술을 상용화 했다고 23일 밝혔다. 상용화에 나선 양자암호 VPN 기술은 KT 융합기술원이 ...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220821153731</guid>
             <pubDate>Sun, 21 Aug 2022 07:11:15 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령은 21일 대통령비서실에 정책기획수석을 신설하고, 이관섭 한국무역협회 상근부회장을 임명했다. 또 신임 홍보수석에 당선인 시절 대변인과 대선 후보시절 캠프 공보단장을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG헬로비전, 케이블TV로 취약계층 아동 돌봄 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220821145356</link>
-            <guid>https://zdnet.co.kr/view/?no=20220821145356</guid>
-            <pubDate>Sun, 21 Aug 2022 06:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[케이블TV가 코로나19 장기화로 인해 소외된 지역 취약계층 아동들의 '돌봄 공백'을 지원하기 위해 나섰다. LG헬로비전이 부산, 대구, 경남 지역 취약계층 아동을 위해 케이블T...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
