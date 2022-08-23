@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤큐, '모비우스 EX240N' 게임용 모니터 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220823135325</link>
+            <guid>https://zdnet.co.kr/view/?no=20220823135325</guid>
+            <pubDate>Tue, 23 Aug 2022 05:50:29 GMT</pubDate>
+            <content:encoded><![CDATA[벤큐가 23일 24인치 풀HD(1920×1080 화소) 게임용 모니터 '모비우스 EX240N'을 국내 출시했다. 모비우스 EX240N은 165Hz 고주사율을 지원하며 응답속도는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 갤Z플립4∙폴드4, 사전 판매 97만대...역대 최고]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823114639</link>
@@ -16,11 +24,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[韓 TV, 상반기 글로벌 출하량 감소...수요 부진 영향]]></title>
+            <title><![CDATA[韓 TV, 글로벌 점유율 50% 깨져...수요 부진 영향]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823110650</link>
             <guid>https://zdnet.co.kr/view/?no=20220823110650</guid>
             <pubDate>Tue, 23 Aug 2022 04:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[전세계 경기 침체와 TV 수요 둔화로 인해 글로벌 TV 시장 양대 산맥인 삼성전자와 LG전자의 올 상반기 출하량이 감소한 것으로 나타났다. 작년 상반기 50.1%를 기록했던 양...]]></content:encoded>
+            <content:encoded><![CDATA[경기 침체와 TV 수요 둔화로 인해 글로벌 TV 시장 양대 산맥인 삼성전자와 LG전자의 올 상반기 출하량이 감소한 것으로 나타났다. 특히 작년 상반기 50.1%를 기록했던 양사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822085311</guid>
             <pubDate>Mon, 22 Aug 2022 03:34:37 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 '비스포크 오븐' 신제품을 올 3분기 유럽 주요 국가에 출시하며 비스포크 키친 패키지의 매출 확대를 이끌 예정이다. 동시에 '비스포크 인피니트 라인'을 12월부터 유...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스틸시리즈, 22일 11번가서 라이브 행사 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220822101829</link>
-            <guid>https://zdnet.co.kr/view/?no=20220822101829</guid>
-            <pubDate>Mon, 22 Aug 2022 03:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[스틸시리즈가 22일 오후 8시부터 '11번가 라이브 단독 특가' 행사를 통해 헤드셋·마우스 등 게임용 주변기기를 할인판매한다. 대상 제품은 지난 6월 출시한 게임용 헤드셋 '아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
