@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 22:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 23:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 모바일 '다음' 뉴스 개편..."이용자 선택권 강화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220825080451</link>
+            <guid>https://zdnet.co.kr/view/?no=20220825080451</guid>
+            <pubDate>Wed, 24 Aug 2022 23:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 뉴스 이용자의 선택권과 언론사의 편집권을 강화하는 방향의 개편을 이어간다. 카카오(각자대표 남궁훈, 홍은택)는 25일 모바일 다음(Daum) 뉴스를 개편하며 새로운 뉴...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트렌비 "크롤링·저작권 침해 무혐의 처분 받아"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220824170655</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823113502</guid>
             <pubDate>Tue, 23 Aug 2022 05:50:40 GMT</pubDate>
             <content:encoded><![CDATA[기계학습(머신러닝) 솔루션 기업 몰로코가 새로 확장 이전한 강남 센터필드 사무실에서 간담회를 23일 열고, 새로 영입한 글로벌 인재들과 함께 지속 성장하겠다는 목표를 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아프리카TV, 스포츠 레슨 콘텐츠 '배드민턴 스쿨' 연다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823133419</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823133419</guid>
-            <pubDate>Tue, 23 Aug 2022 05:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[아프리카TV가 BJ, 동호인들과 함께하는 스포츠 레슨 콘텐츠를 선보인다. 아프리카TV는 10월7일까지 약 2개월간, 배드민턴 전문 브랜드 테크니스트와 함께 레슨 콘텐츠 '배드민...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
