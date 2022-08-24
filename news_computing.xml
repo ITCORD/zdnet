@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 05:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 06:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 경영인이 옵저버빌리티 이해하고 논의해야 하는 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220824151356</link>
+            <guid>https://zdnet.co.kr/view/?no=20220824151356</guid>
+            <pubDate>Wed, 24 Aug 2022 06:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[기업 내 IT환경에 문제가 일어났을 때, 엔지니어가 '왜 이런 문제가 일어났는지'가 아닌 '무슨 일어나고 있는지'를 파악하는 데 급급한 경우가 있다. 이는 배송 지연, 불만족스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK(주) C&C, 의료 인공지능 심포지엄 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220824145745</link>
+            <guid>https://zdnet.co.kr/view/?no=20220824145745</guid>
+            <pubDate>Wed, 24 Aug 2022 06:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 박성하)는 대구에 위치한 경북대학교병원 대강당에서 '2022 의료인공지능 심포지엄'을 개최했다고 24일 밝혔다. 이번 행사는 경북대학교병원 및 산하 의료인공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[딥브레인AI, '엄마의 봄날' 참여… AI로 시한부 남편 구현]]></title>
             <link>https://zdnet.co.kr/view/?no=20220824110712</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822100130</guid>
             <pubDate>Mon, 22 Aug 2022 07:11:46 GMT</pubDate>
             <content:encoded><![CDATA[개발자들은 자기 발전에 대한 욕구가 클 수 밖에 없는 직군이다. 끊임 없이 새로운 것을 배우지 않으면 빠르게 변화하는 IT 산업에서 도태되기 쉽기 때문이다. 새로운 기술이 등장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팔라, '마리끌레르' 29주년 기념 NFT 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220822160329</link>
-            <guid>https://zdnet.co.kr/view/?no=20220822160329</guid>
-            <pubDate>Mon, 22 Aug 2022 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 기업 알체라와 네이버 자회사인 스노우의 합작 조인트벤처(VC) 팔라는 글로벌 매거진 마리끌레르 코리아와 대체불가토큰(NFT) 사업을 위한 업무협약(MOU)을 체결했다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴, 자체 OS '한컴구름' 이용 확산 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220822153047</link>
-            <guid>https://zdnet.co.kr/view/?no=20220822153047</guid>
-            <pubDate>Mon, 22 Aug 2022 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터(대표 김연수, 변성준)는 리눅스 운영체제(OS) '구름' 기반으로 자체 개발한 OS '한컴구름' 확산을 위해 운영기술(OT) 보안 전문 기업 오투원즈, 구름 플랫폼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
