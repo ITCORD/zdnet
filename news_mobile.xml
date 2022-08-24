@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 06:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자업계, 고환율 상황 예의주시...득실 엇갈려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220824152559</link>
+            <guid>https://zdnet.co.kr/view/?no=20220824152559</guid>
+            <pubDate>Wed, 24 Aug 2022 07:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[원·달러 환율이 연일 치솟으면서 삼성전자, LG전자 등 수출 비중이 큰 국내 전자 기업의 환차익이 기대되는 한편, 비용 상승 리스크도 동시에 발생해 이해득실이 엇갈리고 있다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 독일 '게임스컴 2022' 참가...오디세이 아크 유럽 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220824090146</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823083516</guid>
             <pubDate>Tue, 23 Aug 2022 01:09:50 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 23일 '제6회 삼성 보안 기술 포럼(Samsung Security Tech Forum, SSTF)'을 온라인으로 개최해 최신 보안 기술과 연구 활동을 소개했다. 삼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 상반기 올레드 TV 출하량 169만대...전년比 2.5% 감소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823090956</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823090956</guid>
-            <pubDate>Tue, 23 Aug 2022 01:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자 올레드(OLED) TV가 전세계 올레드 TV 시장서 출하량 1위를 기록했다. 하지만 글로벌 경기 침체와 수요 부진으로 출하량은 전년 대비 소폭 줄었다. 23일 시장조사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
