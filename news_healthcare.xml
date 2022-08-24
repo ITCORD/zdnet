@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 13만9천339명...위중증 환자 573명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220824095436</link>
+            <guid>https://zdnet.co.kr/view/?no=20220824095436</guid>
+            <pubDate>Wed, 24 Aug 2022 01:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규 확진자가 13만9천339명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 24일 0시 기준 지역사회 확진자는 13만8천883명, 해외유입 사례 456명...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["항공사는 승무원 우주방사선 피폭 관리 방안 마련해야”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220824093547</link>
+            <guid>https://zdnet.co.kr/view/?no=20220824093547</guid>
+            <pubDate>Wed, 24 Aug 2022 01:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[최근 근로복지공단이 '골수 형성이상 증후군' 진단을 받은 아시아나 항공 승무원에 대해 우주 방사선 노출로 인한 산업재해를 인정했다. 앞서 대한항공에 이어 아시아나에서도 방사선 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제약바이오 기업 대표들, 오유경 식약처장 만난다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220823164652</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822090510</guid>
             <pubDate>Mon, 22 Aug 2022 01:06:32 GMT</pubDate>
             <content:encoded><![CDATA[삼성서울병원이 뇌졸중 환자들을 대상으로 증강현실(AR) 재택 재활치료를 도입했다. 장원혁 재활의학과 교수팀에 따르면, 많은 뇌졸중 환자들이 균형 감각 저하로 인해 일상생활에 어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 코로나19 신규확진자 11만944명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220821102451</link>
-            <guid>https://zdnet.co.kr/view/?no=20220821102451</guid>
-            <pubDate>Sun, 21 Aug 2022 03:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[주말 국내 코로나19 신규확진자가 11만944명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 21일 0시 기준 지역사회 확진자는 11만548명, 해외유입 사례 396명 등...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 12만9천411명...위중증 환자 511명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220820101954</link>
-            <guid>https://zdnet.co.kr/view/?no=20220820101954</guid>
-            <pubDate>Sat, 20 Aug 2022 03:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내 코로나19 신규확진자가 12만9천411명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 20일 0시 기준 지역사회 확진자는 12만8천919명, 해외유입 사례 492명 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
