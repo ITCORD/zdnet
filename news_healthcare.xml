@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 01:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 11만3371명...위중증 환자 566명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220825100313</link>
+            <guid>https://zdnet.co.kr/view/?no=20220825100313</guid>
+            <pubDate>Thu, 25 Aug 2022 01:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 신규 확진자가 11만3천371명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 25일 0시 기준 지역사회 확진자는 11만3천2명, 해외유입 사례 369명 등...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[尹정부, 출산율 최저에도 저출산고령사회위원회 인력 30% 이상 감축]]></title>
             <link>https://zdnet.co.kr/view/?no=20220824173437</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823130022</guid>
             <pubDate>Tue, 23 Aug 2022 04:09:36 GMT</pubDate>
             <content:encoded><![CDATA[내달 1일부터 시작되는 정기국회를 앞두고 간호법 제정을 둘러싼 갈등이 재점화되고 있다. 법 제정을 찬성하는 측은 최근 발생한 간호사 사망 사건 등 간호사 처우개선을 더는 기다릴...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 본인부담상한액 초과 의료비 지급 시작…1인당 136만원 혜택]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823102457</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823102457</guid>
-            <pubDate>Tue, 23 Aug 2022 04:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[오늘부터 174만9천831명에 대해 본인부담상한액 초과 의료비 지급 절차가 시작된다. 지급액은 총 2조3천860억 원으로, 1인당 136만 원가량 지급될 전망이다. 보건복지부와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
