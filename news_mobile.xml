@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 22:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 23:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["맥북프로, 가을 신제품도 TSMC 5나노칩 탑재"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220827080959</link>
+            <guid>https://zdnet.co.kr/view/?no=20220827080959</guid>
+            <pubDate>Fri, 26 Aug 2022 23:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[올 가을 출시될 맥북프로에 TSMC의 3나노 칩을 탑재하기 힘들 것이란 전망이 제기됐다. 애플 전문가인 궈밍치 애널리스트는 26일(현지시간) 애플이 올 가을 내놓을 14인치와 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 美서 반독점 소송 위기…"앱스토어가 핵심"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220827075514</link>
+            <guid>https://zdnet.co.kr/view/?no=20220827075514</guid>
+            <pubDate>Fri, 26 Aug 2022 23:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[미국 법무부가 애플을 상대로 반독점 소송을 준비하고 있다고 폴리티코가 26일(현지시간) 보도했다. 보도에 따르면 법무부는 현재 자료 수집 작업을 진행하고 있으며, 이르면 올 연...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이재용 "어머니와 단 둘이 휴가...안 싸웠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220826171951</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220825161232</guid>
             <pubDate>Thu, 25 Aug 2022 08:18:16 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 25일 공개한 일반 소비자용 SSD 신제품 '990 프로'에 업계 예상과 달리 PCI 익스프레스 5.0이 아닌 기존 4.0 규격을 그대로 적용했다. 이 제품은 고용량...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['종합 가전' 쿠쿠 vs '프리미엄 주방' 쿠첸...누가 더 잘할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220825155002</link>
-            <guid>https://zdnet.co.kr/view/?no=20220825155002</guid>
-            <pubDate>Thu, 25 Aug 2022 07:24:06 GMT</pubDate>
-            <content:encoded><![CDATA['밥솥 명가'로 자리잡은 쿠쿠와 쿠첸이 서로 다른 행보로 성장 돌파구를 찾고 있다. 쿠쿠는 종합 가전 기업을 표방하고 주방을 벗어나는 전략인 반면 쿠첸은 프리미엄 주방 가전 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WD "한국 소비자, USB-A/C 듀얼 커넥터 저장장치 선호"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220825112422</link>
-            <guid>https://zdnet.co.kr/view/?no=20220825112422</guid>
-            <pubDate>Thu, 25 Aug 2022 04:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내 소비자들은 주요 저장장치로 USB 플래시 드라이브를 선호하며 제품은 평균 3개 이상 보유한 것으로 나타났다. 웨스턴디지털은 25일 이와 같은 내용을 담은 'USB 타입 C...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
