@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 "어머니와 단 둘이 휴가...안 싸웠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220826171951</link>
+            <guid>https://zdnet.co.kr/view/?no=20220826171951</guid>
+            <pubDate>Fri, 26 Aug 2022 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA["코로나19에 걸렸던 사람 있나요? 어느 정도로 아팠어요, 나는 아직 안 걸렸는데, 언제 걸릴지." 26일 경기 수원사업장을 방문한 이재용 삼성전자 부회장이 디바이스경험(DX)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC]]></title>
             <link>https://zdnet.co.kr/view/?no=20220826153057</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220825112422</guid>
             <pubDate>Thu, 25 Aug 2022 04:07:26 GMT</pubDate>
             <content:encoded><![CDATA[국내 소비자들은 주요 저장장치로 USB 플래시 드라이브를 선호하며 제품은 평균 3개 이상 보유한 것으로 나타났다. 웨스턴디지털은 25일 이와 같은 내용을 담은 'USB 타입 C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐논코리아, '시청 프로 서포트 센터' 확장 이전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220825110547</link>
-            <guid>https://zdnet.co.kr/view/?no=20220825110547</guid>
-            <pubDate>Thu, 25 Aug 2022 04:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[캐논코리아는 25일 서울 중구 무교동에 위치한 '시청 프로 서포트 센터'를 새롭게 확장·이전했다고 밝혔다. 프로 서포트 센터는 방송사 및 언론사 기자, 영상 프로덕션 등 프로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
