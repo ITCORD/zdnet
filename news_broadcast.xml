@@ -4,9 +4,16 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 전파규제 개선 요구에 화답]]></title>
+            <link>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</link>
+            <guid>https://zdnet.co.kr/news/?lstcode=0010&amp;page=1</guid>
+            <pubDate>Fri, 26 Aug 2022 04:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부가 전파 규제 관련 산업계 요구에 대한 제도 개선 방향을 내놨다. 지난달 열린 디지털 국정과제 연속간담회 후속조치로 약속대로 지난 24일 한달 내 답변한 것이다...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[IHQ-서울산업진흥원, 숏폼 콘텐츠 공모전 '서울버설숏투디오' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220826094938</link>
@@ -157,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823171110</guid>
             <pubDate>Tue, 23 Aug 2022 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 미디어 규제 완화와 디지털 플랫폼 이용자 보호에 나선다. OTT로 비롯된 미디어 시장의 변화에 대응하고, 디지털 플랫폼의 성장과 함께 이용자 보호 균형을 맞추기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5G 중간요금제 추가 경쟁 불 붙을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823163117</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823163117</guid>
-            <pubDate>Tue, 23 Aug 2022 08:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[통신 3사가 5G 중간요금제를 모두 선보였다. 새 정부가 인수위 시절부터 추진한 통신비 관련 정책이 일단락됐다. 통신사들은 요금 매출 감소를 감내하면서 정부 정책 방향에 호응하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
