@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 19:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 20:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://zdnet.co.kr/view/?no=20220827100834</guid>
             <pubDate>Sat, 27 Aug 2022 03:31:12 GMT</pubDate>
             <content:encoded><![CDATA[27일 0시 기준 국내 코로나19 신규 확진자 수는 지역사회 9만5천206명, 해외유입 사례 398명 등 총 9만5천604명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[터지면 초기 사망 위험 30% '뇌동맥류', 예방이 최선의 치료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220826162208</link>
+            <guid>https://zdnet.co.kr/view/?no=20220826162208</guid>
+            <pubDate>Sat, 27 Aug 2022 20:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[최근 뇌출혈로 인한 유명인의 잇따른 사망으로 인해 뇌혈관 질환에 대한 국민의 관심이 더욱 높아지고 있다. 이 중에서도 뇌혈관이 풍선처럼 부풀어 오르는 뇌동맥류는 파열 시 초기 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -155,16 +163,8 @@
             <title><![CDATA[[인사] 보건복지부]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</guid>
-            <pubDate>Sat, 27 Aug 2022 19:11:32 GMT</pubDate>
+            <pubDate>Sat, 27 Aug 2022 20:13:48 GMT</pubDate>
             <content:encoded><![CDATA[◆보건복지부 ◇과장급 승진 ▲글로벌백신허브화추진단 한미파트너십지원팀장 신은경...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['K-바이오헬스 전략센터' 26일 개소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220825150437</link>
-            <guid>https://zdnet.co.kr/view/?no=20220825150437</guid>
-            <pubDate>Thu, 25 Aug 2022 06:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국보건산업진흥원이 26일 서울 중구에 'K-바이오헬스 전략센터'를 개소했다. K-바이오헬스 전략센터는 지역의 바이오 클러스터와 연결해 수도권에 집중된 자원과 정보를 지역에 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
