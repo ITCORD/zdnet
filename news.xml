@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 04:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 05:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배민, 다회용기 주문 배달 시범 서비스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220828130024</link>
+            <guid>https://zdnet.co.kr/view/?no=20220828130024</guid>
+            <pubDate>Sun, 28 Aug 2022 05:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[배달의민족 운영사 우아한형제들은 애플리케이션 내 다회용 배달용기 선택 주문 배달 서비스 개발을 완료하고, 29일부터 시범 운영을 시작한다고 밝혔다. 배민이 지난 4월 서울시 등...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/28/10ec659dde1ddedbb817e2dfaa2afd13-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈 'P의 거짓', 게임스컴 2022에서 3관왕 차지]]></title>
             <link>https://zdnet.co.kr/view/?no=20220828103122</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220828091131</guid>
             <pubDate>Sun, 28 Aug 2022 03:53:04 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 애플 홈킷, 아카라에 이어 국내 IoT(사물인터넷) 브랜드 헤이홈의 다양한 기기를 LG 씽큐 앱에서 편리하게 사용할 수 있도록 연동 서비스를 제공한다. LG전자는 최...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/28/e7f277c52c8014a99477aa7f54224aef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 미세 플라스틱 저감 세탁기 'IFA 2022'서 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220826162208</guid>
             <pubDate>Sat, 27 Aug 2022 20:11:59 GMT</pubDate>
             <content:encoded><![CDATA[최근 뇌출혈로 인한 유명인의 잇따른 사망으로 인해 뇌혈관 질환에 대한 국민의 관심이 더욱 높아지고 있다. 이 중에서도 뇌혈관이 풍선처럼 부풀어 오르는 뇌동맥류는 파열 시 초기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공전하는 과방위...기약없는 '망 이용계약' 공청회]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220826164935</link>
-            <guid>https://zdnet.co.kr/view/?no=20220826164935</guid>
-            <pubDate>Fri, 26 Aug 2022 11:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회가 위원회 운영을 둘러싼 여야 대치가 계속되며 계속해서 파행을 빚고 있다. 상반기 진행될 예정이었던 망 이용계약 공청회도 계속해서 연기되고 있다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
