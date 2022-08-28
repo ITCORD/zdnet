@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 01:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 코로나19 확진자 8만5295명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220828095401</link>
+            <guid>https://zdnet.co.kr/view/?no=20220828095401</guid>
+            <pubDate>Sun, 28 Aug 2022 01:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[주말인 28일 0시 국내 코로나19 신규 확진자 수는 지역 8만4천932명, 해외유입 사례 363명 등 총 8만5천295명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 9만5604명...위중증 환자 579명]]></title>
             <link>https://zdnet.co.kr/view/?no=20220827100834</link>
@@ -158,13 +166,6 @@
             <pubDate>Thu, 25 Aug 2022 06:30:10 GMT</pubDate>
             <content:encoded><![CDATA[국민연금공단 기금운용본부가 이달 중 블랙스톤 크레딧의 지속가능 자원(Sustainable Resources) Credit 플랫폼 펀드에 약정했다고 25일 밝혔다. 국민연금 기금...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 보건복지부]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0058&amp;page=1</guid>
-            <pubDate>Sat, 27 Aug 2022 23:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[◆보건복지부 ◇과장급 승진 ▲글로벌백신허브화추진단 한미파트너십지원팀장 신은경...]]></content:encoded>
         </item>
     </channel>
 </rss>
