@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음달 본격 3나노 경쟁...삼성·TSMC 격돌]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220829161131</link>
+            <guid>https://zdnet.co.kr/view/?no=20220829161131</guid>
+            <pubDate>Mon, 29 Aug 2022 08:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자에 이어 대만 파운드리 업체 TSMC가 내달 3나노미터(nm) 공정 반도체 양산에 돌입하면서, 본격적인 3나노 공정 경쟁이 시작될 전망이다. 올해 전세계에서 3나노 공정...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크론, DDR5 서버 D램 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20220829155619</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822174929</guid>
             <pubDate>Mon, 22 Aug 2022 09:13:13 GMT</pubDate>
             <content:encoded><![CDATA[미국 반도체·전자부품 유통 기업 마우저일렉트로닉스는 22일 미국 텍사스주 댈러스 포트워스 남부에 있는 물류센터를 확장하고자 약 3만9천㎡ 면적, 3층 높이 신축 건물 확장 공사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 SW 중국 수출 금지 타격 클 듯...美, 세계 EDA 62% 차지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220822114157</link>
-            <guid>https://zdnet.co.kr/view/?no=20220822114157</guid>
-            <pubDate>Mon, 22 Aug 2022 03:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 중국에 3나노미터 이하 반도체 설계 소프트웨어 수출 규제를 시행하면 중국이 IC 설계에 큰 타격을 받을 것이란 전망이 나왔다. 전세계 공급되는 반도체 칩 생산 소프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
