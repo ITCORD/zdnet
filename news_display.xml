@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 07:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크론, DDR5 서버 D램 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220829155619</link>
+            <guid>https://zdnet.co.kr/view/?no=20220829155619</guid>
+            <pubDate>Mon, 29 Aug 2022 07:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[미국 마이크론테크놀로지는 29일 더블데이터레이트(DDR)5 서버 D램을 판매한다고 밝혔다. DDR은 국제반도체표준협의기구(JEDEC)가 정한 D램의 표준 규격이다. DDR1·2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "반도체 공장 오염물질 유출 보도, 사실과 달라"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220829085723</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220822114157</guid>
             <pubDate>Mon, 22 Aug 2022 03:35:05 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 중국에 3나노미터 이하 반도체 설계 소프트웨어 수출 규제를 시행하면 중국이 IC 설계에 큰 타격을 받을 것이란 전망이 나왔다. 전세계 공급되는 반도체 칩 생산 소프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무기발광 디스플레이 국제 표준 선점한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220819171650</link>
-            <guid>https://zdnet.co.kr/view/?no=20220819171650</guid>
-            <pubDate>Fri, 19 Aug 2022 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 차세대 무기발광 디스플레이 국제 표준 선점에 나섰다. 마이크로 발광 다이오드(LED)와 양자점(퀀텀닷·QD) 디스플레이 등 기술 격차를 벌리기로 했다. 산업통상자원부 국...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
