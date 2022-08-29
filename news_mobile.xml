@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 22:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 23:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 젠4 기반 데스크톱PC용 라이젠 7000 시리즈 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220830074229</link>
+            <guid>https://zdnet.co.kr/view/?no=20220830074229</guid>
+            <pubDate>Mon, 29 Aug 2022 23:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 30일(미국 현지시간) 온라인 행사를 통해 젠4(Zen 4) 아키텍처에 기반한 데스크톱PC용 라이젠 7000 프로세서를 공개했다. 젠4 아키텍처는 현재 판매중인 라이젠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국소비자원 "가격비교 사이트 10개 중 2개 가격정보 안 맞아"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220829170824</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220828092342</guid>
             <pubDate>Sun, 28 Aug 2022 01:04:34 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 세계적인 아트페어 '프리즈 서울(Frieze Seoul) 2022'에 참가해 LG 올레드(OLED) TV로 구현한 예술작품을 전시한다. 프리즈는 아트바젤(Art Ba...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 갤Z4 일본 출시 앞두고 '갤럭시 X BTS' 체험존 운영]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220828090151</link>
-            <guid>https://zdnet.co.kr/view/?no=20220828090151</guid>
-            <pubDate>Sun, 28 Aug 2022 01:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 9월 29일 일본에서 '갤럭시Z플립4·Z폴드4' 출시를 앞두고 도쿄 미드타운 캐노피 스퀘어에서 '갤럭시 X BTS' 특별 체험 이벤트를 9월 8일까지 운영한다. 방문...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
