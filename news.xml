@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 12:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 13:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달로 가는 길 만만치 않네...아르테미스 발사, 내달 2일로 연기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220829221239</link>
+            <guid>https://zdnet.co.kr/view/?no=20220829221239</guid>
+            <pubDate>Mon, 29 Aug 2022 13:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[29일 오전 (현지시간) 미국 플로리다주 케네디우주센터에서 발사 예정이던 '아르테미스 Ⅰ' 임무가 취소됐다. 미국 항공우주청(NASA)은 아르테미스 Ⅰ 임무를 수행할 발사체 S...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/18/47d5343aa6a438d6c6ead6d5624885f4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두나무, 2분기 영업익 2782억…전년 대비 79% ↓]]></title>
             <link>https://zdnet.co.kr/view/?no=20220829204542</link>
@@ -29,13 +37,13 @@
             <guid>https://zdnet.co.kr/view/?no=20220829203226</guid>
             <pubDate>Mon, 29 Aug 2022 12:23:23 GMT</pubDate>
             <content:encoded><![CDATA[포스코ICT(대표 정덕균)와 지능정보산업협회(회장 장홍성)는 지난 25일 포스코ICT 판교사옥에서 올해 3회를 맞이한 '전국 청소년 AI 창의 경진대회(2022 AI Youth...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/29/b9c2e772cc4a37edccefbe9ae8a73305-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 중기부]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Mon, 29 Aug 2022 12:23:23 GMT</pubDate>
+            <pubDate>Mon, 29 Aug 2022 13:35:16 GMT</pubDate>
             <content:encoded><![CDATA[광주·전남지방중소벤처기업청장 이현조...]]></content:encoded>
         </item>
         <item>
@@ -157,13 +165,6 @@
             <pubDate>Mon, 29 Aug 2022 10:15:48 GMT</pubDate>
             <content:encoded><![CDATA[김승연 한화그룹 회장의 장남인 김동관 한화솔루션 사장이 정기인사에서 부회장으로 승진했다. 김동관 사장의 승계 작업이 궤도에 오르면서 그룹내 실질적 지배력이 강화될 전망이다. 한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[부음] 김진희 넥슨 홍보실 파트장 부친상]]></title>
-            <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
-            <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Mon, 29 Aug 2022 12:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[▲김용식씨 별세, 김진희씨(넥슨코리아 홍보실 파트장)·김학진씨(SK에너지 산업에너지혁신사업부 PM) 부친상, 권백철씨(SK에너지 미래디자인센터 PM) 장인상 = 29일 오전6시...]]></content:encoded>
         </item>
     </channel>
 </rss>
