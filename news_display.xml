@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코아시아, 차량 전장용 AP 공급 계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220830170213</link>
+            <guid>https://zdnet.co.kr/view/?no=20220830170213</guid>
+            <pubDate>Tue, 30 Aug 2022 08:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[코아시아는 30일 세계 주요 완성차 업체에 전자장치용 애플리케이션 프로세서(AP)를 공급하기로 계약했다고 밝혔다. 코아시아는 차량의 인포테인먼트(IVI) 기능을 제어하는 반도체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 차량용 LDO 레귤레이터 신제품 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220830142413</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220823100945</guid>
             <pubDate>Tue, 23 Aug 2022 04:08:44 GMT</pubDate>
             <content:encoded><![CDATA[영국 반도체 설계(팹리스) 회사 Arm의 최고경영자(CEO)가 영국 반도체 산업이 발전하려면 해외 인재를 쉽게 채용할 수 있도록 해야 한다고 말했다. 르네 하스 Arm CEO는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, IoT 기기용 12세대 코어 프로세서 추가 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823083338</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823083338</guid>
-            <pubDate>Tue, 23 Aug 2022 01:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 22일(미국 현지시간) IoT(사물인터넷) 기기용 12세대 코어 프로세서(개발명 '엘더레이크 PS')를 추가 출시했다. 이번에 출시된 12세대 코어 프로세서는 IoT 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
