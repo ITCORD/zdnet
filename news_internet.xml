@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, '금토택시' 기사 모집]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901171228</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901171228</guid>
+            <pubDate>Thu, 01 Sep 2022 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[카카오모빌리티가 '금·토요일 야간 집중 근무형 단기 계약직(금토택시)' 택시 기사를 모집한다. 1일 모빌리티 플랫폼 업계에 따르면 카카오T 택시팀은 지난달 24일부터 금요일, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[배민·쿠팡이츠 "포장 주문 수수료 올해까지 안 받는다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220901144439</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220831093521</guid>
             <pubDate>Wed, 31 Aug 2022 01:15:43 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티가 다음 달부터 유럽에서도 카카오T 앱으로 현지 차량 호출 서비스를 이용할 수 있는 '모빌리티 로밍 서비스'를 시작한다고 31일 밝혔다. 내달 독일에서 시범 서비스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이엠택시, 예약 서비스 확대 개편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220831092317</link>
-            <guid>https://zdnet.co.kr/view/?no=20220831092317</guid>
-            <pubDate>Wed, 31 Aug 2022 01:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[아이엠(i.M)택시 운영사 진모빌리티가 예약 서비스를 확대, 개편한다고 31일 밝혔다. 기존 공항 예약, 골프 예약, 시간 대절 등으로 구분된 예약 서비스가 공항 예약은 '편도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
