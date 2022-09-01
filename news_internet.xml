@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 01:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, '소신상인 지원' 한 달만에 지급액 50억원 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901094016</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901094016</guid>
+            <pubDate>Thu, 01 Sep 2022 01:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[카카오는 지난 3일부터 시작한 '카카오 소신상인 지원 혜택'을 통해 지급한 금액이 8월 50억원을 돌파했다고 1일 밝혔다. 지원 금액을 수령한 소상공인은 약 1만7천여 명에 달...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 유료 기능 개발 부서 신설]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901083239</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901083239</guid>
+            <pubDate>Thu, 01 Sep 2022 01:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 유료 기능 개발 부서를 신설하고, 페이스북과 인스타그램, 왓츠앱에 유료 서비스를 도입할 전망이다. 미국 IT매체 더버지는 지난달 31일(현지시간) 메타가 지난주 직원들에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["메타버스 내 성범죄 대처 위해 제도·교육·인식전환 필요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220831164153</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220830095822</guid>
             <pubDate>Tue, 30 Aug 2022 01:11:02 GMT</pubDate>
             <content:encoded><![CDATA[비전공자를 위한 데이터 활용 교육 기업 에이블런이 지디넷과 공동 교육 과정 '일잘러 직장인을 위한 필수스킬 Top4 과정'을 모집하고 있다. 해당 과정은 직장인에게 필요한 업무...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 페이스북 NFT 게시 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220830083542</link>
-            <guid>https://zdnet.co.kr/view/?no=20220830083542</guid>
-            <pubDate>Tue, 30 Aug 2022 01:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 인스타그램에 이어 페이스북에서도 대체불가능토큰(NFT)을 게시할 수 있게 한다. 메타는 29일(현지시간) 자사 트위터를 통해 페이스북과 인스타그램에 디지털지갑을 연동해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오브레인, 이미지·텍스트 데이터셋 '코요' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220830092336</link>
-            <guid>https://zdnet.co.kr/view/?no=20220830092336</guid>
-            <pubDate>Tue, 30 Aug 2022 01:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[카카오브레인은 7억4천만개가량 이미지, 텍스트로 이루어진 데이터셋 '코요(Coyo)'를 31일 공식 홈페이지를 통해 공개한다고 밝혔다. 데이터셋은 초거대 인공지능(AI) 모델이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
