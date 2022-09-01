@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IFA 2022] 삼성전자, '스마트한 일상·에너지효율 1위' 비전 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901155358</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901155358</guid>
+            <pubDate>Thu, 01 Sep 2022 09:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 스마트싱스를 사물인터넷(IoT) 플랫폼으로 한정하지 않고, 이를 기반으로 창출되는 개인 맞춤형 멀티 디바이스 경험 전반으로 확장할 계획이다. 또 삼성전자의 제품·서비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대아이티, 전자칠판 '스마트보드 3.0' 시연회 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220901171048</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220831163338</guid>
             <pubDate>Wed, 31 Aug 2022 08:15:40 GMT</pubDate>
             <content:encoded><![CDATA[코웨이는 탑퍼·커버 교체형 매트리스 3종을 출시했다고 31일 밝혔다. 이 제품은 렌탈 기간 동안 탑퍼·커버를 무상 교체해 사용할 수 있다. 리사이클링 소재를 사용해 친환경성을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[QR코드 스캔으로 출석체크...삼성페이에 '모바일 학생증' 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220831145459</link>
-            <guid>https://zdnet.co.kr/view/?no=20220831145459</guid>
-            <pubDate>Wed, 31 Aug 2022 07:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 SK텔레콤과 함께 삼성페이에 국내 대학 학생증을 도입했다. 31일 삼성전자 뉴스룸에 따르면, 디지털 혁신공유대학 사업에 참여하는 7개 대학(서울대, 고려대, 부산대,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
