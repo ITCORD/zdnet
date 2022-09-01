@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 01:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 03:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이정규 칼럼] 트위터, 운명의 5%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901095307</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901095307</guid>
+            <pubDate>Thu, 01 Sep 2022 03:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7월 8일, 일론 머스크는 4월 25일에 맺은 트위터 인수계약을 취소했다. 머스크와 그의 재정자문인 모건 스탠리 측이 합리적인 비즈니스 목적을 위해 요청한 자료를 트위터가 제공하지 않는다는 이유이다. 이에 대해 트위터는 계약이행을 강제하려는 소송을 제기했다. 핵심 이슈는 가짜 및 스팸계정이 5% 미만이라는 트위터의 발표내용에 있다. 그러나 미국증권거래소(SEC)에 제출한 트위터의 공시 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/25/bfab36d9c8bd2e96c923bfa066161243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 디지털 경쟁력 확보 기반이 될 '디지털 인재양성 종합방안']]></title>
             <link>https://zdnet.co.kr/view/?no=20220830213524</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Jul 2022 09:15:37 GMT</pubDate>
             <content:encoded><![CDATA[인공지능의 범주를 나눌 때 일반적으로 기계학습(ML, 머신러닝)과 딥러닝으로 나눈다. 그러나 둘의 차이가 무엇인지를 명확히 이해하고 있는 사람은 드물다.기본적으로는 기계학습이 좀 더 포괄적인 인공지능을 의미하고, 딥러닝은 기계학습보다 좀 더 진일보된 고도화된 알고리즘으로 기계학습의 영역 안에 들어간다고 이해하면 좋겠다.인공지능을 처음 배우는 일반적인 사람들은 무엇부터 배워야 하는지, 그리고 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/07/11/a02e1cca51aec9d3e4ca8ce104c3559d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통합 물리보안 시스템, '영상·음원 분석 기술'로 가능해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220706111636</link>
-            <guid>https://zdnet.co.kr/view/?no=20220706111636</guid>
-            <pubDate>Fri, 08 Jul 2022 01:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안 산업에는 출입통제, 영상감시, 그리고 침입경보 시장이 포함되어 있다. 물리적 보안을 구축하기 위해서는 사용자 권한별로 출입을 통제하고, 이상 상황 발생을 감시하고, 불법적 침입이 있을 경우 적절한 경보를 울려야 한다. 이러한 물리보안 시스템을 고객에게 제공하는 산업이 바로 물리보안 산업이다.출입통제시스템·영상감시시스템·침입경보시스템은 각각의 독립적인 시장이 있으나, 최근 10여년 동...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/15/d916bf80649634b72c3b66cf06ece0f5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
