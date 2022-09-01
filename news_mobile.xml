@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 21:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 22:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IDC "올해 PC·태블릿 출하량 큰 폭 감소 전망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901231254</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901231254</guid>
+            <pubDate>Thu, 01 Sep 2022 22:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[올해 PC와 태블릿 출하량이 전년 대비 각각 12.8%, 6.8% 감소할 전망이다. 1일(미국 현지시간) 시장조사업체 IDC가 이 같은 전망치를 내놨다. IDC 전망에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[IFA 2022] 삼성전자, '스마트한 일상·에너지효율 1위' 비전 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20220901155358</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220901082516</guid>
             <pubDate>Thu, 01 Sep 2022 01:01:02 GMT</pubDate>
             <content:encoded><![CDATA[다음 주 공개될 아이폰14 프로 모델에 노치가 사라지고 2개의 펀치홀이 자리잡을 것으로 예상되는 가운데, 아이폰14 프로 화면에 대한 새로운 정보가 나왔다. IT매체 맥루머스는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 탑퍼·커버 교체형 매트리스 3종 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220831163338</link>
-            <guid>https://zdnet.co.kr/view/?no=20220831163338</guid>
-            <pubDate>Wed, 31 Aug 2022 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[코웨이는 탑퍼·커버 교체형 매트리스 3종을 출시했다고 31일 밝혔다. 이 제품은 렌탈 기간 동안 탑퍼·커버를 무상 교체해 사용할 수 있다. 리사이클링 소재를 사용해 친환경성을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>

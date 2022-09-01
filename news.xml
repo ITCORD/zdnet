@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 21:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 22:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IDC "올해 PC·태블릿 출하량 큰 폭 감소 전망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220901231254</link>
+            <guid>https://zdnet.co.kr/view/?no=20220901231254</guid>
+            <pubDate>Thu, 01 Sep 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[올해 PC와 태블릿 출하량이 전년 대비 각각 12.8%, 6.8% 감소할 전망이다. 1일(미국 현지시간) 시장조사업체 IDC가 이 같은 전망치를 내놨다. IDC 전망에 따르면 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/04/16/f84b77b96dec140844db98d0792d4366-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 히트2, 구글 매출 1위...기록 경신]]></title>
             <link>https://zdnet.co.kr/view/?no=20220901211205</link>
@@ -29,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220901201359</guid>
             <pubDate>Thu, 01 Sep 2022 12:21:31 GMT</pubDate>
             <content:encoded><![CDATA[한국방송통신전파진흥원(원장 정한근, 이하 KCA)은 지역사회 발전과 상생에 선도적 역할을 한 것을 인정받아 '2022년 제17회 대한민국 CSR/ESG대상'에서 농림축산식품부 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/01/caa28b99a3d1d2d31cebbf47dc2abcff-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NIA "클라우드 경쟁력 강화 OPA 발족"]]></title>
@@ -51,7 +59,7 @@
             <title><![CDATA[[인사] 세종대]]></title>
             <link>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</link>
             <guid>https://zdnet.co.kr/news/?lstcode=0000&amp;page=1</guid>
-            <pubDate>Thu, 01 Sep 2022 21:11:37 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2022 22:12:02 GMT</pubDate>
             <content:encoded><![CDATA[▲연구부총장 백성욱 ▲대외부총장 문승빈 ▲특임부총장 김경원  ▲영어영문학과장 김수연 ▲경제학과장 이태환 ▲스마트생명산업융합학과장 서현권 ▲전자공학과 주임교수 김동호 ▲반도체시스...]]></content:encoded>
         </item>
         <item>
@@ -156,14 +164,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220901172522</guid>
             <pubDate>Thu, 01 Sep 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[1천만 서울시민과 기업들의 디지털 기술 활용 및 혁신의 장이 될 서울스마트시티센터가 상암동에 새롭게 문을 열었다. 서울디지털재단은 1일 오후 마포구 상암동에서 서울스마트시티센터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조이시티 '건쉽배틀: 토탈워페어', 지아이조 콜라보 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220901172554</link>
-            <guid>https://zdnet.co.kr/view/?no=20220901172554</guid>
-            <pubDate>Thu, 01 Sep 2022 09:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[조이시티(대표 조성원)는 1일 모바일 시뮬레이션 게임 '건쉽배틀: 토탈워페어'에 미국 유명 완구 시리즈 지아이 조와 콜라보레이션을 진행했다고 밝혔다. 이번 콜라보레이션을 통해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
