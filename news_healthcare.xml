@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 01:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 8만9천586명...사망 64명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220902101310</link>
+            <guid>https://zdnet.co.kr/view/?no=20220902101310</guid>
+            <pubDate>Fri, 02 Sep 2022 04:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[2일 0시 기준 국내 코로나19 신규 확진자 수는 지역사회 8만9천269명, 해외유입 사례 317명 등 총 8만9천586명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[병원홍보협회, 29일 코엑스서 홍보 세미나 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20220902100136</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220831165517</guid>
             <pubDate>Wed, 31 Aug 2022 08:17:21 GMT</pubDate>
             <content:encoded><![CDATA[한국사회보장정보원(이하 정보원)은 8월29일, 30일 이틀에 걸쳐 2022년도 제6기 지역자문기관 간담회를 서울 중구 비즈허브 서울센터에서 개최했다고 밝혔다. 이번 행사는 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 코로나19 예방 및 치료 목적으로 아스트라제네카 '이부실드' 승인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220831165135</link>
-            <guid>https://zdnet.co.kr/view/?no=20220831165135</guid>
-            <pubDate>Wed, 31 Aug 2022 08:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[아스트라제네카의 장기지속형 항체복합제 이부실드(성분명: 틱사게비맙‧실가비맙, 이하 '이부실드')가 일본에서 코로나19 감염으로 인한 유증상 질환의 예방(노출 전 예방요법제) 및...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
     </channel>
