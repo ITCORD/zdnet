@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국방송대상 대상에 KBS대구 'GPS와 리어카']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220905180948</link>
+            <guid>https://zdnet.co.kr/view/?no=20220905180948</guid>
+            <pubDate>Mon, 05 Sep 2022 09:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[KBS 대구방송총국 다큐멘터리 'GPS와 리어카 : 폐지수집노동 실태보고서'가 제49회 한국방송대상 대상을 수상했다. 한국방송협회는 5일 오후 여의도 KBS TV공개홀에서 시상...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT CS, 노조와 대전 지역사회에 추석 온정 나눔]]></title>
             <link>https://zdnet.co.kr/view/?no=20220905162012</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220904101902</guid>
             <pubDate>Sun, 04 Sep 2022 04:04:51 GMT</pubDate>
             <content:encoded><![CDATA[통신 3사가 11호 태풍 힌남노에 대비해 비상 대응 체제에 돌입한다. 통신 3사는 모니터링을 강화하는 등 통신 시설 피해 예방에 만전을 기한다고 4일 밝혔다. SK텔레콤은 SK...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, '스마트메시지 플러스' 가입 대상, 개인으로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220904101403</link>
-            <guid>https://zdnet.co.kr/view/?no=20220904101403</guid>
-            <pubDate>Sun, 04 Sep 2022 04:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 종합 메시징 서비스인 'KT 스마트메시지 플러스'를 개인을 대상으로도 혜택을 확대하는 내용의 개편을 진행했다고 4일 밝혔다. KT는 이번 개편을 통해 개인 명의로도 KT...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
