@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 22:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 23:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브라질 정부, 충전기 없는 아이폰 판매중지 명령]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220907080017</link>
+            <guid>https://zdnet.co.kr/view/?no=20220907080017</guid>
+            <pubDate>Tue, 06 Sep 2022 23:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[브라질 정부가 충전기를 제공하지 않는 애플 아이폰의 판매 중단을 명령했다. 충전기가 없는 스마트폰은 고의적인 차별이란 이유다. 6일(현지시간) 애플인사이더에 따르면 브라질 법무...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["국내 소비자 USB-C·듀얼 커넥터 메모리 선호"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220906165423</link>
+            <guid>https://zdnet.co.kr/view/?no=20220906165423</guid>
+            <pubDate>Tue, 06 Sep 2022 23:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[USB-C 단자는 연결시 위·아래 단자 구분, 최대 충전 전력 제한, 부피 등 문제를 안은 기존 USB-A 단자를 대체할 목적으로 2014년 하반기 등장했다. 특히 2016년 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이폰14 공개 D-1…예상 스펙 총정리]]></title>
             <link>https://zdnet.co.kr/view/?no=20220905160631</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220905102544</guid>
             <pubDate>Mon, 05 Sep 2022 04:14:27 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 기존 갤럭시 폴더블 스마트폰과 갤럭시워치에 소프트웨어(SW) '원 UI 4.1.1'과 '원 UI 워치4.5' 업데이트를 5일부터 국내부터 실시한다. 이로써 기존 갤럭...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샤오미, 홈플러스 강서점 등 31개점에 입점...오프라인 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905104039</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905104039</guid>
-            <pubDate>Mon, 05 Sep 2022 04:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[샤오미가 국내 홈플러스에 오프라인 매장을 입점한다고 5일 밝혔다. 샤오미 제품은 홈플러스 강서점 브랜드샵을 포함해 9월 중순까지 홈플러스 매장 31개점에 입점할 예정이다. 샤오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미마이크로닉스, PNY 베르토 그래픽카드 국내 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905104838</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905104838</guid>
-            <pubDate>Mon, 05 Sep 2022 04:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[한미마이크로닉스가 5일 PNY 엔비디아 지포스 RTX 30 시리즈 그래픽카드 라인업 중 '베르토'(VERTO) 제품군을 국내 추가 출시했다. 베르토는 2002년 지포스 4시리즈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
