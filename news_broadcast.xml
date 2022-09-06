@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 '힌남노'로 통신·유료방송 30만여 회선 장애…84% 복구]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220906152010</link>
+            <guid>https://zdnet.co.kr/view/?no=20220906152010</guid>
+            <pubDate>Tue, 06 Sep 2022 07:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 6일 정오 기준 태풍 '힌남노'로 유무선 통신과 유료방송 30만5천986회선에 장애가 발생, 이 가운데 약 24만7천91회선이 복구됐다고 밝혔다. 분야별로는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[통신 3사, 태풍 '힌남노' 피해 지역 무료 와이파이  지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20220906134732</link>
@@ -104,19 +112,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[韓 제안 지능형 차량통신보안 ITU 국제표준안 3건 사전채택]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905104810</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905104810</guid>
-            <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부 국립전파연구원은 지난 2일까지 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화 부문(ITU-T) 정보보호 연구반(SG17) 회의에서 우리나라 주도로 개발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[글로벌 전파관리 포럼 열린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220905103830</link>
             <guid>https://zdnet.co.kr/view/?no=20220905103830</guid>
             <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 중앙전파관리소는 글로벌 전파관리 현안을 논의하고 상호협력 방안을 모색하기 위해 아시아, 남미, 중동 등 14개국 전파관리 기관이 참여하는 '글로벌 전파관리 포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[韓 제안 지능형 차량통신보안 ITU 국제표준안 3건 사전채택]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220905104810</link>
+            <guid>https://zdnet.co.kr/view/?no=20220905104810</guid>
+            <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 국립전파연구원은 지난 2일까지 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화 부문(ITU-T) 정보보호 연구반(SG17) 회의에서 우리나라 주도로 개발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220905100250</guid>
             <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
             <content:encoded><![CDATA[케이블TV 업계가 과학기술정보방송통신부가 추진하는 '추석 민생안정과 상생협력' 대책에 발맞춰, 지역채널 커머스 방송을 통해 지역경제 활성화 지원에 동참한다. 한국케이블TV방송협...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 한국리서치와 광고효과 검증 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905095606</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905095606</guid>
-            <pubDate>Mon, 05 Sep 2022 01:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드가 TV를 시청하는 집마다 서로 다른 광고를 보여주는 어드레서블TV 광고 효과를 검증한다. SK브로드밴드는 한국리서치와 어드레서블TV 광고효과 측정과 모델 개발을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
