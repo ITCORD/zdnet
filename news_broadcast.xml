@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사, 태풍 '힌남노' 피해 지역 무료 와이파이  지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220906134732</link>
+            <guid>https://zdnet.co.kr/view/?no=20220906134732</guid>
+            <pubDate>Tue, 06 Sep 2022 06:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[태풍 '힌남노'로 전국 곳곳에서 정전과 침수, 강풍 등에 따른 피해가 발생한 가운데, 통신 3사가 피해 지역을 중심으로 무료 충전 서비스를 제공하는 등 지원책을 마련하고 있다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태풍 '힌남노'로 통신·유료방송 14만여 회선 장애...복구율 58%]]></title>
             <link>https://zdnet.co.kr/view/?no=20220906113902</link>
@@ -96,19 +104,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[글로벌 전파관리 포럼 열린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905103830</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905103830</guid>
-            <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부 중앙전파관리소는 글로벌 전파관리 현안을 논의하고 상호협력 방안을 모색하기 위해 아시아, 남미, 중동 등 14개국 전파관리 기관이 참여하는 '글로벌 전파관리 포...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[韓 제안 지능형 차량통신보안 ITU 국제표준안 3건 사전채택]]></title>
             <link>https://zdnet.co.kr/view/?no=20220905104810</link>
             <guid>https://zdnet.co.kr/view/?no=20220905104810</guid>
             <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 국립전파연구원은 지난 2일까지 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화 부문(ITU-T) 정보보호 연구반(SG17) 회의에서 우리나라 주도로 개발...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 전파관리 포럼 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220905103830</link>
+            <guid>https://zdnet.co.kr/view/?no=20220905103830</guid>
+            <pubDate>Mon, 05 Sep 2022 04:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 중앙전파관리소는 글로벌 전파관리 현안을 논의하고 상호협력 방안을 모색하기 위해 아시아, 남미, 중동 등 14개국 전파관리 기관이 참여하는 '글로벌 전파관리 포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220905095606</guid>
             <pubDate>Mon, 05 Sep 2022 01:13:56 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드가 TV를 시청하는 집마다 서로 다른 광고를 보여주는 어드레서블TV 광고 효과를 검증한다. SK브로드밴드는 한국리서치와 어드레서블TV 광고효과 측정과 모델 개발을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드플레어, '사이버폭력' 우려에 키위팜스 차단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905085659</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905085659</guid>
-            <pubDate>Mon, 05 Sep 2022 01:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 콘텐츠전송네트워크(CDN)인 클라우드플레어가 커뮤니티 사이트 '키위팜스'에 대한 지원을 일시 중단했다. 이번 조치로 키위팜스는 인터넷에서 볼 수 없게 됐다. 4일(현지시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
