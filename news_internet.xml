@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["규제 샌드박스 희망고문 그만...지방 스타트업 목소리도 들어줘"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220907180414</link>
+            <guid>https://zdnet.co.kr/view/?no=20220907180414</guid>
+            <pubDate>Wed, 07 Sep 2022 10:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[“규제 샌드박스 신청 후, 승인까지 언제 끝날지 모른다. 희망고문이다. 30일, 60일, 그 이상으로 시간은 계속 흐른다. 가부결정에 있어, 정확한 (승인) 확정일자를 확인하고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스타트업 업계, '2022 스타트업코리아' 보고서 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20220907144519</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220906093327</guid>
             <pubDate>Tue, 06 Sep 2022 01:08:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티가 운영하는 카카오T 택시 배차 알고리즘에 가맹·비가맹 택시 간 호출 거리에 따른 차별 요소는 없다고, 모빌리티 투명성 위원회는 6일 밝혔다. 모빌리티 투명성 위원...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터, 넵튠·컬러버스와 메타버스 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220906092031</link>
-            <guid>https://zdnet.co.kr/view/?no=20220906092031</guid>
-            <pubDate>Tue, 06 Sep 2022 01:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터테인먼트가 넵튠, 컬러버스와 메타버스 사업·서비스 협력을 골자로 한 업무협약을 체결했다고 6일 밝혔다. 이번 협약으로 3차원(3D) 메타버스 플랫폼 컬러버스에 카카오엔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
