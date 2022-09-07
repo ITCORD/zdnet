@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 19:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 20:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 체온 측정 기능 더한 '애플워치 시리즈8' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908044413</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908044413</guid>
+            <pubDate>Wed, 07 Sep 2022 20:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 7일 오전 10시(한국시간 8일 오전 2시) 진행된 온라인 행사 '저 너머로'(Far out)를 통해 스마트워치 신제품 '애플워치 시리즈8', '애플워치SE 2세대' 등...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/08/1a3e326f0705d547f635189799d5ae0d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, 트랜지스터 160억 개 탑재 'A16 바이오닉' 칩 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908040440</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220907133625</guid>
             <pubDate>Wed, 07 Sep 2022 15:12:59 GMT</pubDate>
             <content:encoded><![CDATA[국내 연구진이 핵융합 발전의 안정성과 성능을 높일 새로운 플라즈마 운전 방식을 발견했다. 한국핵융합에너지연구원과 서울대 공동 연구진은 '초전도핵융합연구장치(KSTAR)'의 초고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/03/16/pym_ALkVY3sCI6fKIr1O-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서강대 메타버스 전문대학원 'S-META 최고위과정' 2기 시작]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220907174305</guid>
             <pubDate>Wed, 07 Sep 2022 09:13:01 GMT</pubDate>
             <content:encoded><![CDATA[이달 9일부터 시작되는 추석 연휴를 앞두고 태풍 힌남노가 일부 지역을 휩쓸고 간 가운데, 새벽·당일·익일 등 '빠른 배송' 경쟁력을 내세운 이커머스 기업의 배송 현황에 이목이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사 먹는 차례상에 혼추족, 역D턴족까지…건강하게 추석 즐기는 법]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220907174926</link>
-            <guid>https://zdnet.co.kr/view/?no=20220907174926</guid>
-            <pubDate>Wed, 07 Sep 2022 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[민족 최대의 명절인 '추석'이 목전으로 다가왔다. 사회적 거리두기 해제 이후 처음 맞는 명절인 만큼 간만에 친지들을 만나거나 늦은 여름휴가를 떠나는 등 각자 연휴를 즐기는 방법...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
