@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 01:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴, 스냅드래곤 6·4 1세대 칩 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220907080153</link>
+            <guid>https://zdnet.co.kr/view/?no=20220907080153</guid>
+            <pubDate>Wed, 07 Sep 2022 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 6일(미국 현지시간) 보급형 스마트폰용 칩인 스냅드래곤 6 1세대와 스냅드래곤 4 1세대를 공개했다. 스냅드래곤 6 1세대는 3개 카메라에서 입력받은 영상을 동시에 처리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["국내 첨단 센서, 스마트도시·의료·제조 분야 협업"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220906204717</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220901142536</guid>
             <pubDate>Thu, 01 Sep 2022 06:32:19 GMT</pubDate>
             <content:encoded><![CDATA[중국 '반도체 굴기'의 기세를 꺾으려는 미국 정부 공세가 강도를 더해가고 있다. 이번엔 인공지능(AI) 분야에 활용되는 고성능 칩 수출 통제를 시작한 정황이 공개됐다. 월스트리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 고성능 AI칩 중국수출 규제…엔비디아 주가 폭락]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220901082704</link>
-            <guid>https://zdnet.co.kr/view/?no=20220901082704</guid>
-            <pubDate>Thu, 01 Sep 2022 01:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 러시아와 중국에 대한 고성능 반도체 수출 규제를 본격 시작했다. 31일(현지시간) 프로토콜, 씨넷 등 주요 외신들에 따르면 엔비디아가 미국 정부로부터 러시아, 중국에 대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
