@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 17:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 18:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["심심한데 뭐볼까"...네이버, 추석맞이 웹툰·시리즈온 이벤트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908160822</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908160822</guid>
+            <pubDate>Thu, 08 Sep 2022 18:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 추석 연휴를 맞아 네이버웹툰·시리즈온 등 콘텐츠 서비스 무료·할인 이벤트를 제공한다. 네이버웹툰 모바일 앱에서는 12일까지 작품 당 10개 에피소드 이상 열람 시 매일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/08/c4191fc153a0c2d845e3099387889106-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[뭐볼래] 추석 연휴, 몰아보기 좋은 OTT 콘텐츠 모음]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908111809</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908111809</guid>
+            <pubDate>Thu, 08 Sep 2022 18:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[추석이 코앞으로 다가왔다. 이번 연휴 특별한 계획이 없다면 온라인 동영상 서비스(OTT)에 올라온 다양한 콘텐츠를 즐겨보는 건 어떨까. 이번 연휴 OTT에는 온 가족이 함께 즐...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/07/664e44538b04b5261f57ea24e5e2184c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 2세 영국 여왕 서거…향년 96세]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220909030046</link>
+            <guid>https://zdnet.co.kr/view/?no=20220909030046</guid>
+            <pubDate>Thu, 08 Sep 2022 18:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[엘리자베스 2세 영국 여왕이 8일 체재중인 영국 북부 스코틀랜드 발모럴성에서 서거했다고 니혼게이자이신문 등 외신이 보도했다. 향년 96세. 엘리자베스 2세 여왕의 재위한 70년...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[T맵 내비게이션 접속지연 현상 정상화]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908191126</link>
             <guid>https://zdnet.co.kr/view/?no=20220908191126</guid>
             <pubDate>Thu, 08 Sep 2022 10:13:48 GMT</pubDate>
             <content:encoded><![CDATA[귀성길이 시작된 8일 오후 접속 지연 현상을 빚은 T맵의 내비게이션 서비스가 복구됐다. 티맵모빌리티는 이날 오후 7시께 "티맵의 접속 지연은 100% 정상화됐다"며 "현재는 원...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/08/4e4358f26b45271d485c9dabc9a7800f-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[T맵, 서버 과부하로 접속 지연]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220908171058</guid>
             <pubDate>Thu, 08 Sep 2022 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[본격적인 추석 연휴를 앞두고 티맵 서버에 과부하가 발생해 접속이 지연되고 있다. 현재 이용자들은 티맵 앱에 접속이 어려운 상황이다. 8일 티맵모빌리티에 따르면 오후 3시 10분...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/08/4e4358f26b45271d485c9dabc9a7800f-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 산업통상자원부]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220908152314</guid>
             <pubDate>Thu, 08 Sep 2022 06:41:02 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈(대표 조계현)는 미국 개발사 콩 스튜디오가 개발한 모바일 RPG '가디언 테일즈'의 신규 월드 15 '강습'을 업데이트했다고 8일 밝혔다. 새롭게 선보인 월드 15...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[부음] 조신형 삼성전자 DS커뮤니케이션팀 상무 빙부상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908151400</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908151400</guid>
-            <pubDate>Thu, 08 Sep 2022 06:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[▲ 전용기씨 별세, 진종희씨 남편상, 전우방(휴브아이웨어 실장)·희진씨 부친상, 조신형(삼성전자 DS부문 커뮤니케이션팀 상무)씨 장인상, 우현주(김포고용복지플러스센터 주무관)씨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥노이드, 파주시 보건소 AI X레이 영상판독시스템 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908150203</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908150203</guid>
-            <pubDate>Thu, 08 Sep 2022 06:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[딥노이드(대표 최우식)가 파주시 보건소에 인공지능(AI)기반 '딥체스트(DEEP:CHEST XR-03)'를 구축했다고 8일 밝혔다. 딥체스트는 의료기관이나 의사들이 사람의 흉부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["1인 가구도 가입 가능해요"...SKT, '요즘가족결합' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908141131</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908141131</guid>
-            <pubDate>Thu, 08 Sep 2022 05:56:48 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 1인 가구 등 다양한 가족 구성 형태가 증가하는 사회적 트렌드를 고려해 가족 혼자서도 할인받을 수 있는 신규 유무선 결합상품 '요즘가족결합'을 출시한다고 8일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
