@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥노이드, 파주시 보건소 AI X레이 영상판독시스템 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908150203</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908150203</guid>
+            <pubDate>Thu, 08 Sep 2022 06:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[딥노이드(대표 최우식)가 파주시 보건소에 인공지능(AI)기반 '딥체스트(DEEP:CHEST XR-03)'를 구축했다고 8일 밝혔다. 딥체스트는 의료기관이나 의사들이 사람의 흉부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['증권플러스 비상장' 모바일 앱 개편…종목 조회 편의 ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908134329</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220907112947</guid>
             <pubDate>Wed, 07 Sep 2022 04:20:20 GMT</pubDate>
             <content:encoded><![CDATA[델테크놀로지스는 디지털 혁신을 위한 사람과 기술의 상호작용에 대한 연구를 담은 조사 결과 보고서를 7일 발표했다. 보고서에 따르면 많은 조직들이 업무 환경을 디지털로 전환하는데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, '클라우드 데스크톱' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220907112436</link>
-            <guid>https://zdnet.co.kr/view/?no=20220907112436</guid>
-            <pubDate>Wed, 07 Sep 2022 04:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[네이버클라우드(대표 박원기·김유원)는 SK브로드밴드와 '클라우드 데스크톱(Cloud Desktop)'을 출시하고 서비스형 데스크톱(DaaS) 공공 시장에 진출한다고 7일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
