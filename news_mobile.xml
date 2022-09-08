@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 18:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 19:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔·브로드컴, 와이파이 5Gbps 벽 깼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908224012</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908224012</guid>
+            <pubDate>Thu, 08 Sep 2022 19:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[인텔과 브로드컴이 8일(미국 현지시간) 차세대 와이파이 표준인 와이파이7(802.11be) 탑재 노트북과 유무선공유기를 이용해 초당 5Gbps 이상을 전송하는 시연 결과를 공개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에어로베이션, 에이수스와 공기청정 솔루션 공동 개발 MOU 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908141346</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220907150010</guid>
             <pubDate>Wed, 07 Sep 2022 06:22:22 GMT</pubDate>
             <content:encoded><![CDATA[롯데하이마트가 추석을 앞두고 중소 협력사에 상품 대금을 조기 지급한다고 7일 밝혔다. 롯데하이마트는 중소 협력사 260여 곳에 상품 대금 총 251억원을 최대 17일 앞서 지급...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에코백스, GS홈쇼핑서 추석맞이 '물걸레 로봇청소기' 할인 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220907142119</link>
-            <guid>https://zdnet.co.kr/view/?no=20220907142119</guid>
-            <pubDate>Wed, 07 Sep 2022 06:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[에코백스가 추석을 맞아 GS 홈쇼핑에서 로봇청소기 '디봇 T10 터보' 할인 판매를 실시한다고 밝혔다. 에코백스는 오는 12일 오후 4시 35분부터 1시간 동안 진행되는 GS ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
