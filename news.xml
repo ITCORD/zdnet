@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 22:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 23:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인태경제프레임워크(IPEF) 14개국, 공식협상 개시 선언]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220910080910</link>
+            <guid>https://zdnet.co.kr/view/?no=20220910080910</guid>
+            <pubDate>Fri, 09 Sep 2022 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[한국·미국 등 14개 인태경제프레임워크(IPEF) 참여국은 8일과 9일(현지시간) 미국 로스앤젤레스(LA)에서 열린 IPEF 장관회의에서 무역·공급망·청정경제·공정경제 등 4개...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/10/56beb9bfe7114f0ec804c9eb6bd53265-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["K-배터리 없이 美 전기차 없다?"…'IRA' 법안의 딜레마]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908175207</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220908154715</guid>
             <pubDate>Fri, 09 Sep 2022 21:11:41 GMT</pubDate>
             <content:encoded><![CDATA[추석 연휴 기간 동안 해외여행을 계획하고 있다면 코로나19와 원숭이두창 예방에 각별한 주의를 기울여야 한다. 해외여행을 계획하고 있다면 준비 단계부터 여행 국가에 발생한 감염병...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/07/05/8c2c3ef13b293cdc54262f120edf56ac-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI반도체가 초래할 미래는?···"데이터센터 등 혁신"]]></title>
@@ -144,14 +152,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['배민'에 도전장 낸 신한은행, 잘 '땡겼다']]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908150800</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908150800</guid>
-            <pubDate>Fri, 09 Sep 2022 01:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족과 요기요로 양분된 배달 시장에 출사표를 낸 신한은행 '땡겨요' 서비스가 출시 8개월 만에 조금씩 성장세를 보이고 있다. 9일 신한은행에 따르면 신한은행이 작년 금융위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA["가상인간, 누군가에겐 구원이자 기회"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908163743</link>
             <guid>https://zdnet.co.kr/view/?no=20220908163743</guid>
@@ -160,11 +160,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[크래프톤 배틀그라운드, 데스턴 맵 개선 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908105338</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908105338</guid>
+            <title><![CDATA['배민'에 도전장 낸 신한은행, 잘 '땡겼다']]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908150800</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908150800</guid>
             <pubDate>Fri, 09 Sep 2022 01:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤(대표 김창한)은 PUBG: 배틀그라운드의 19.2 업데이트 내용을 공개했다. 데스턴 맵을 즐기는 이용자들에게 보다 특별한 경험을 제공하기 위해 새로운 차량과 기능이 추...]]></content:encoded>
+            <content:encoded><![CDATA[배달의민족과 요기요로 양분된 배달 시장에 출사표를 낸 신한은행 '땡겨요' 서비스가 출시 8개월 만에 조금씩 성장세를 보이고 있다. 9일 신한은행에 따르면 신한은행이 작년 금융위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
