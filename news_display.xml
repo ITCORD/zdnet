@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 19:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 20:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI반도체가 초래할 미래는?···"데이터센터 등 혁신"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908111305</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908111305</guid>
+            <pubDate>Fri, 09 Sep 2022 20:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[딥 러닝(Deep Learning) 알고리즘이 개발되면서 인공지능(AI) 기술이 빠르게 발전했다. 대부분 산업에서 AI 기술이 활용될 만큼 응용 범위가 넓어지고 성능이 향상됐다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 해외 공장서 반도체 가성비 만든다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220908102329</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220906093608</guid>
             <pubDate>Tue, 06 Sep 2022 01:08:42 GMT</pubDate>
             <content:encoded><![CDATA[에임퓨처(대표 김창수)가 신용보증기금(KODIT)의 유망 스타트업 보증제도인 '퍼스트펭귄' 창업기업에 선정됐다고 5일 밝혔다. 신용보증기금의 퍼스트펭귄은 아이디어를 보유한 미래...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISDI, 미중 기술패권 10문10답 보고서 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905112924</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905112924</guid>
-            <pubDate>Mon, 05 Sep 2022 04:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[정보통신정책연구원(KISDI)은 미중 기술패권에 대한 신규 보고서를 발간했다고 5일 밝혔다. 미중 기술패권 경쟁은 4차 산업혁명의 핵심인 반도체, 컴퓨팅 스텍을 중심으로 경제 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
