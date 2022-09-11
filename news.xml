@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 05:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 06:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언 달, '오라클' 자바스크립트 상표 공개 전환 요구]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220911151136</link>
+            <guid>https://zdnet.co.kr/view/?no=20220911151136</guid>
+            <pubDate>Sun, 11 Sep 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[노드JS 개발자인 라이언 달이 자바스크립트 상표의 공개 도메인 전환을 요구하는 서한을 오라클에 발송했다. 3일(현지시간) 라이언 달은 상업적 가치가 없는 자바스크립트 상표를 공...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/11/f936d9a3755f6111b64489bcb84b484d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 정부, "엔화 하락에…필요에 따라 조치 취할 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220911104152</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220911111434</guid>
             <pubDate>Sun, 11 Sep 2022 04:03:11 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방준비제도(연준)의 금리 인상이 이어지면서 주택담보대출 금리도 2008년 이후 최고 수준으로 올랐다. 최근 CNN 비즈니스는 프레디맥 보고서를 인용해 지난 8일까지 30...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/27/f979471fd73a197a2ffe521a31b7f34a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨 서든어택, '2022시즌4: FEARLESS' 오픈]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220908154715</guid>
             <pubDate>Fri, 09 Sep 2022 21:11:41 GMT</pubDate>
             <content:encoded><![CDATA[추석 연휴 기간 동안 해외여행을 계획하고 있다면 코로나19와 원숭이두창 예방에 각별한 주의를 기울여야 한다. 해외여행을 계획하고 있다면 준비 단계부터 여행 국가에 발생한 감염병...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹3와 디지털 자산 미래는?···델리오, 15일 코엑스서 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908070335</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908070335</guid>
-            <pubDate>Sat, 10 Sep 2022 20:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[탈중앙화가 접목된 웹을 뜻하는 '웹3'의 대중화를 점치는 목소리가 커지고 있다. 가상자산 시장 침체를 뜻하는 '크립토 윈터'가 다시 찾아왔음에도 이전과는 사뭇 다른 분위기가 감...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
