@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 08:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 09:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔에 두고 간 VR헤드셋 '메타 퀘스트 프로' 패키지 이미지 유출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220912162608</link>
+            <guid>https://zdnet.co.kr/view/?no=20220912162608</guid>
+            <pubDate>Mon, 12 Sep 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[메타(구 페이스북)가 10월 발표 예정인 차세대 가상현실(VR) 헤드셋 '메타 퀘스트 프로' 패키지로 추정되는 이미지가 누설됐다. 레딧닷컴, 더버지 등 외신은 누군가 호텔에 깜...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/12/9312992b00b370e438d13f78ff84b06c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK이노 계열, 하반기 신입사원 000명 채용]]></title>
             <link>https://zdnet.co.kr/view/?no=20220912144257</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220912092936</guid>
             <pubDate>Mon, 12 Sep 2022 01:06:08 GMT</pubDate>
             <content:encoded><![CDATA[KT가 신입 공개채용과 채용전환형 인턴 채용을 실시한다고 12일 밝혔다. 오는 27일까지 약 2주간 ▲SW개발 ▲IT보안 ▲인프라기술 ▲에너지 기술 ▲컨설팅 수행 ▲비즈 영업 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, WRC 그리스 랠리서 '트리플 포디움' 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220912092554</link>
-            <guid>https://zdnet.co.kr/view/?no=20220912092554</guid>
-            <pubDate>Mon, 12 Sep 2022 01:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차가 WRC 그리스 랠리에서 트리플 포디움을 달성하는 쾌거를 거두었다. 현대차는 8일부터 11일까지 그리스 아크로폴리스에서 열린 2022 월드랠리챔피언십(WRC) 열 번...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
