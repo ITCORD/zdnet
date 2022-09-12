@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 01:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 04:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배로 늘어나는 SW 수업…교원 확보가 최대 관건]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220908052145</link>
+            <guid>https://zdnet.co.kr/view/?no=20220908052145</guid>
+            <pubDate>Mon, 12 Sep 2022 04:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 공교육 내 소프트웨어(SW) 수업 확대로 SW 개발자 인력 부족 문제 해결을 도모하고 있지만, 교원 확보의 문제가 정책의 큰 장애물로 작용할 것으로 예상된다. SW 인재...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라이언 달, '오라클' 자바스크립트 상표 공개 전환 요구]]></title>
             <link>https://zdnet.co.kr/view/?no=20220911151136</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220907181627</guid>
             <pubDate>Wed, 07 Sep 2022 10:25:43 GMT</pubDate>
             <content:encoded><![CDATA[아틀라스랩스(대표 류로빈)가 기업의 음성 데이터를 자산으로 구조화하는 대화 데이터 분석(CDA) 기술 개발을 위한 약 90억 원 규모의 시리즈A 투자를 유치했다고 7일 밝혔다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 2021년 신규회원 대상 후속간담회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220907165128</link>
-            <guid>https://zdnet.co.kr/view/?no=20220907165128</guid>
-            <pubDate>Wed, 07 Sep 2022 08:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 회원사와의 원활한 소통 및 회원사 간 네트워킹의 장을 마련하기 위해 2021년 신규회원 대상 후속간담회를 개최했다고 7일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
