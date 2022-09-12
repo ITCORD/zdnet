@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 15:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 16:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, CPU 신제품 명칭 공개..."13세대 코어 프로세서"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913011725</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913011725</guid>
+            <pubDate>Mon, 12 Sep 2022 16:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 이달 말 출시할 차세대 코어 프로세서, '랩터레이크'(Raptor Lake) 정식 명칭을 공개했다. 마이클 존스턴 홀터스 인텔 클라이언트 컴퓨팅 그룹 수석부사장은 12일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["하이브리드 구조 E코어, 향후 출시 게임 성능도 높여 줄 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220912220111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220908054607</guid>
             <pubDate>Wed, 07 Sep 2022 21:12:08 GMT</pubDate>
             <content:encoded><![CDATA[애플이 2014년 애플워치 첫 출시 이후 8년만에 다이빙·오리엔티어링·철인3종경기(트라이애슬론) 등 극한 스포츠를 즐기는 소비자를 위한 새 제품 '애플워치 울트라'를 추가했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[H2칩 탑재한 '에어팟 프로2', 한 번 충전에 6시간 쓴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908043617</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908043617</guid>
-            <pubDate>Wed, 07 Sep 2022 21:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 7일 오전 10시(한국시간 8일 오전 2시) 진행된 온라인 행사 '저 너머로'(Far out)를 통해 무선 이어폰 신제품 '에어팟 프로2'를 공개했다. 에어팟 프로2는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
