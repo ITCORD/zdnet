@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 12:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 13:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["하이브리드 구조 E코어, 향후 출시 게임 성능도 높여 줄 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220912220111</link>
+            <guid>https://zdnet.co.kr/view/?no=20220912220111</guid>
+            <pubDate>Mon, 12 Sep 2022 13:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[[텔아비브(이스라엘)=권봉석 기자] 인텔이 지난 해 하반기 출시한 12세대 코어 프로세서(엘더레이크)는 PC용 프로세서에 서로 다른 두 종류 코어를 조합한 하이브리드 구조로 만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 헬스케어·모빌리티·메타버스 스타트업 키운다]]></title>
             <link>https://zdnet.co.kr/view/?no=20220912090454</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220908043617</guid>
             <pubDate>Wed, 07 Sep 2022 21:12:08 GMT</pubDate>
             <content:encoded><![CDATA[애플이 7일 오전 10시(한국시간 8일 오전 2시) 진행된 온라인 행사 '저 너머로'(Far out)를 통해 무선 이어폰 신제품 '에어팟 프로2'를 공개했다. 에어팟 프로2는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 '애플워치 시리즈8' 공개...체온 측정하고 충돌 감지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908044413</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908044413</guid>
-            <pubDate>Wed, 07 Sep 2022 20:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 7일 오전 10시(한국시간 8일 오전 2시) 진행된 온라인 행사 '저 너머로'(Far out)를 통해 스마트워치 신제품 '애플워치 시리즈8', '애플워치SE 2세대' 등...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
