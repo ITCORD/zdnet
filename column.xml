@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 디지털 워크 필수조건, 클라우드로 협업하라]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913143340</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913143340</guid>
+            <pubDate>Tue, 13 Sep 2022 06:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[많은 전문가들이 ‘코로나 이전으로 돌아가지 못할 것’이라는 전망을 내놓고 있다. 실제로 백신이 개발되고 대면 경제가 조금씩 활성화되고 있음에도 불구, ‘업무’에 대한 인식은 과거와는 크게 다른 것을 알 수 있다. 여론조사업체 퓨리서치 조사 결과, 78%의 재택근무자가 ‘팬데믹이 끝난 뒤에도 재택근무를 하고 싶다’라고 응답했다. 여론조사기관 갤럽의 최근 조사에 따르면, 풀타임으로 재택근무를 하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/13/f7b76decfcbdb2d3d2a33f7e1b344c37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이정규 칼럼] 트위터, 운명의 5%]]></title>
             <link>https://zdnet.co.kr/view/?no=20220901095307</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Jul 2022 05:30:04 GMT</pubDate>
             <content:encoded><![CDATA[사이버가수 아담을 필두로 한 90년대의 가상인간 현상을 돌이켜보면 가상인간이 가진 가능성이 어느정도 검증된 반면 경제성 측면에서는 많은 숙제를 남겨주었던 것이 아닌가 생각된다.&nbsp;가상으로 만들어진 인간형 캐릭터가 실재 연예인처럼 활동할 수 있다는 개념적 사례로서 의미가 있었지만 제작비용이 매우 비쌌고 또한 당시의 기술적 한계로 인해 가상인간은 미리 만들어진 그림이나 영상으로 써만 존재...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/07/14/407bcef9dbf0236e7b5855f906b244d3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI 쉽게 이해하기 3-1. 기계학습 알고리즘]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220711172735</link>
-            <guid>https://zdnet.co.kr/view/?no=20220711172735</guid>
-            <pubDate>Mon, 11 Jul 2022 09:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능의 범주를 나눌 때 일반적으로 기계학습(ML, 머신러닝)과 딥러닝으로 나눈다. 그러나 둘의 차이가 무엇인지를 명확히 이해하고 있는 사람은 드물다.기본적으로는 기계학습이 좀 더 포괄적인 인공지능을 의미하고, 딥러닝은 기계학습보다 좀 더 진일보된 고도화된 알고리즘으로 기계학습의 영역 안에 들어간다고 이해하면 좋겠다.인공지능을 처음 배우는 일반적인 사람들은 무엇부터 배워야 하는지, 그리고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/11/a02e1cca51aec9d3e4ca8ce104c3559d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM, 차세대 리눅스원 서버 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913144437</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913144437</guid>
+            <pubDate>Tue, 13 Sep 2022 06:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 차세대 리눅스원 서버인 'IBM 리눅스원 엠퍼러 4'를 13일 공개했다. 새롭게 공개된 리눅스원 서버는 높은 확장성을 갖춘 리눅스 및 쿠버네티스 기반 플랫폼으로, 단일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] 디지털 워크 필수조건, 클라우드로 협업하라]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913143340</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913143340</guid>
+            <pubDate>Tue, 13 Sep 2022 06:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[많은 전문가들이 '코로나 이전으로 돌아가지 못할 것'이라는 전망을 내놓고 있다. 실제로 백신이 개발되고 대면 경제가 조금씩 활성화되고 있음에도 불구, '업무'에 대한 인식은 과...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[작년 정보보호 산업 매출 13.8조원…비대면 수요가 성장 견인]]></title>
             <link>https://zdnet.co.kr/view/?no=20220913094957</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220908114528</guid>
             <pubDate>Thu, 08 Sep 2022 04:08:01 GMT</pubDate>
             <content:encoded><![CDATA[2007년부터 15년간 다쏘시스템코리아 대표이사직을 수행해온 조영빈 대표가 사임했다. 8일 관계자에 따르면 조영빈 대표 사임 후 삼손 카우 아시아태평양 총괄이 한국 대표직을 겸...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델리오, 추석 맞이 가상자산 예치 상품 출시…이자 최대 60% 지급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908120754</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908120754</guid>
-            <pubDate>Thu, 08 Sep 2022 04:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 금융 서비스 기업 델리오(대표 정상호)는 추석을 앞두고 최대 60%의 이자를 지급하는 추석맞이 예치 이벤트 상품을 출시했다고 8일 밝혔다. 예치 상품은 신규 회원 대상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델리오 "PoW 하드포크 '이더리움' 지원 계획"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908115236</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908115236</guid>
-            <pubDate>Thu, 08 Sep 2022 04:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 금융 서비스 기업 델리오(대표 정상호)는 '머지' 업그레이드를 앞둔 이더리움에 대해 하드포크 체인도 지원할 예정이라고 지난 7일 밝혔다. 이더리움은 이달 중순 예정된 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
