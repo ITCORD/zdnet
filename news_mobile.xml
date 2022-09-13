@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 07:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 08:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손목 위 전쟁 뜨겁다...스마트워치 뭐 살까?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913152019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913152019</guid>
+            <pubDate>Tue, 13 Sep 2022 08:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자와 애플이 최근 한달 격차로 스마트워치 신제품을 출시한 가운데, 구글도 다음달 새 제품 공개를 예고하면서 관련 업체간 가을 손목 위 시장 쟁탈전이 뜨겁다. 삼성전자는 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[온도센서 첫 탑재했는데...갤워치5·애플워치8 차이점은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20220913152333</link>
@@ -40,19 +48,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 'IDEA 2022'서 비스포크 가전 금상 2개...총 42개 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220913124911</link>
-            <guid>https://zdnet.co.kr/view/?no=20220913124911</guid>
-            <pubDate>Tue, 13 Sep 2022 04:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 국제 디자인 공모전 'IDEA(International Design Excellence Awards) 2022'에서 금상 2개, 은상 5개, 동상 1개와 파이널리스트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[LG전자, IDEA 대거 수상...뒷면이 수납장 '올레드 TV 포제' 금상]]></title>
             <link>https://zdnet.co.kr/view/?no=20220913091034</link>
             <guid>https://zdnet.co.kr/view/?no=20220913091034</guid>
             <pubDate>Tue, 13 Sep 2022 04:23:08 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 세계적 권위를 인정받는 IDEA(International Design Excellence Awards) 시상식에서 최고상인 금상을 포함해 총 13개 상을 수상했다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 'IDEA 2022'서 비스포크 가전 금상 2개...총 42개 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913124911</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913124911</guid>
+            <pubDate>Tue, 13 Sep 2022 04:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 국제 디자인 공모전 'IDEA(International Design Excellence Awards) 2022'에서 금상 2개, 은상 5개, 동상 1개와 파이널리스트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220912090454</guid>
             <pubDate>Mon, 12 Sep 2022 01:07:43 GMT</pubDate>
             <content:encoded><![CDATA[LG전자 북미이노베이션센터(LG NOVA)가 이달 7일(현지시간)부터 이틀간 미국 샌프란시스코에서 스타트업 포럼 '2022 가을 이노베이션 페스티벌'을 개최하고, 헬스케어·모빌...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZD리뷰] 10만원대 '가성비' 건강관리 스마트워치...어메이즈핏 GTS 4 미니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908145425</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908145425</guid>
-            <pubDate>Mon, 12 Sep 2022 01:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[중국 스마트 웨어러블 기기 전문 기업 '어메이즈핏'이 지난달 8일 스마트워치 '어메이즈핏 GTS 4 미니'를 국내 출시했다. 제품을 대여해 약 2주간 사용해본 결과, 건강 관리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
