@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 01:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW, 인증부품·용품 값 최대 30% 할인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220913110643</link>
+            <guid>https://zdnet.co.kr/view/?no=20220913110643</guid>
+            <pubDate>Tue, 13 Sep 2022 04:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[BMW그룹코리아는 BMW·미니 인증부품·용품을 최대 30%까지 할인한 가격에 제공하는 '빌드 유어 드라이브 페스타 2022'를 13일부터 다음달 22일까지 6주간 진행한다고 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공정위, 쏘카 카셰어링 서비스 불공정약관 시정]]></title>
             <link>https://zdnet.co.kr/view/?no=20220912082906</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220906091346</guid>
             <pubDate>Tue, 06 Sep 2022 01:08:54 GMT</pubDate>
             <content:encoded><![CDATA[독일 자동차업체 폭스바겐의 스포츠카 브랜드 포르쉐 기업공개(IPO) 계획이 마침내 확정됐다. 블룸버그를 비롯한 외신들에 따르면 폭스바겐은 5일(현지시간) 스포츠 카 브랜드 포르...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[수도권 광역버스 79개 노선 출퇴근 운행횟수 216회 늘어난다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220905201950</link>
-            <guid>https://zdnet.co.kr/view/?no=20220905201950</guid>
-            <pubDate>Mon, 05 Sep 2022 12:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 수도권 광역버스 입석승차 문제를 해소하고자 79개 노선에 버스를 늘려 출퇴근 시간대 운행횟수를 216회 추가 확대하기로 했다. 2층 전기버스도 내년 5월까지 경기도 5개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
