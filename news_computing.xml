@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원, '보안 의식 강화' 사내 캠페인 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220914175520</link>
+            <guid>https://zdnet.co.kr/view/?no=20220914175520</guid>
+            <pubDate>Wed, 14 Sep 2022 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 사내 캠페인 '크립토피디아 시즌2:생활 보안 777'을 진행한다고 14일 밝혔다. 코인원은 이번 캠페인을 건강한 크립토 문화 형성을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[검찰, '테라사태' 권도형 체포영장...인터폴 적색 수배]]></title>
             <link>https://zdnet.co.kr/view/?no=20220914162154</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220913151225</guid>
             <pubDate>Tue, 13 Sep 2022 07:33:21 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어저작권협회(SPC, 회장 유병한)와 한국저작권보호원(원장 박주환, 이하 보호원)이 함께 주관하는 '제10회 소프트웨어산업보호대상'의 포상 후보자 신청(추천) 접수가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 차세대 리눅스원 서버 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220913144437</link>
-            <guid>https://zdnet.co.kr/view/?no=20220913144437</guid>
-            <pubDate>Tue, 13 Sep 2022 06:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 차세대 리눅스원 서버인 'IBM 리눅스원 엠퍼러 4'를 13일 공개했다. 새롭게 공개된 리눅스원 서버는 높은 확장성을 갖춘 리눅스 및 쿠버네티스 기반 플랫폼으로, 단일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
