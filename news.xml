@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 22:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 23:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴투스 '서머너즈워: 크로니클', 소환사 성장 돕는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220915080808</link>
+            <guid>https://zdnet.co.kr/view/?no=20220915080808</guid>
+            <pubDate>Wed, 14 Sep 2022 23:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[컴투스(대표 송재준, 이주환)는 소환형 MMORPG '서머너즈 워: 크로니클(이하 크로니클)'에 소환사의 성장을 돕고 소환수 및 아이템도 얻을 수 있는 다양한 콘텐츠와 이벤트를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/15/31b731702dbb6d28c62f05bad0fc1176-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중년의 적 부정맥, 심장 패치로 진단과 치료 동시에]]></title>
             <link>https://zdnet.co.kr/view/?no=20220914104105</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220914204055</guid>
             <pubDate>Wed, 14 Sep 2022 12:31:39 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 14일 전체회의를 열고, 서울 관악구 등 16개 지자체에 5천100만 원의 과태료 부과와 시정조치 권고를 의결했다. 개인정보위는 '텔레그램 n번방' 사건 등...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/14/cc7667136e22a395535be7249992ff15-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥스트비즈, 기술혁신형 이노비즈 A등급 인증 획득]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220914171459</guid>
             <pubDate>Wed, 14 Sep 2022 08:15:58 GMT</pubDate>
             <content:encoded><![CDATA[소니는 14일 스테이트오브플레이를 진행하고 갓오브워 라그나로크 스토리 영상과 새로운 로열티 프로그램 플레이스테이션 스타를 공개했다. 갓오브워 라그나로크 스토리 영상에서는 북유럽...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 전직원 대상 디지털 생태계 인터넷정책 방향 특강]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220914165240</link>
-            <guid>https://zdnet.co.kr/view/?no=20220914165240</guid>
-            <pubDate>Wed, 14 Sep 2022 08:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 14일 글로벌 방송통신 최신 동향을 파악하고 직원들의 정책 대응역량을 높이기 위해 '방송통신 최신 동향 특강'을 개최했다. 특강은 '디지털 생태계 선순환을 위한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
