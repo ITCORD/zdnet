@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arm "엔비디아, 데이터센터 CPU에 '네오버스' 활용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220915154910</link>
+            <guid>https://zdnet.co.kr/view/?no=20220915154910</guid>
+            <pubDate>Thu, 15 Sep 2022 07:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[영국 반도체 설계(팹리스) 회사 Arm은 고성능 컴퓨팅에 적합한 차세대 반도체 설계자산(IP) '네오버스 V2'를 발표했다. 미국 반도체 회사 엔비디아가 이를 적용했다. 크리스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 밝기·색 편차 줄인 1608크기 LED 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220915141927</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220907181716</guid>
             <pubDate>Wed, 07 Sep 2022 10:26:48 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회가 삼성전자를 비롯한 국내 제조사에 거래 지위를 악용했다는 혐의로 조사 받고 있는 미국 반도체 기업 브로드컴의 자진 시정 방안을 받아들였다. 브로드컴은 부품 공급을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 찾아가는 채용박람회…서울대 등]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220907173025</link>
-            <guid>https://zdnet.co.kr/view/?no=20220907173025</guid>
-            <pubDate>Wed, 07 Sep 2022 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이는 7일 서울대를 비롯한 전국 8개 대학에서 제품을 전시하고 채용을 상담한다고 밝혔다. 하반기 신입사원 채용을 앞두고 1일 경희대를 시작으로 14일까지 고려대·서울...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
