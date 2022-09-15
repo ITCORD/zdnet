@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SaaS의 효용? "구글·아마존과 같은 툴 쓸 수 있어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220915150951</link>
+            <guid>https://zdnet.co.kr/view/?no=20220915150951</guid>
+            <pubDate>Thu, 15 Sep 2022 06:41:28 GMT</pubDate>
+            <content:encoded><![CDATA["서비스형 소프트웨어(SaaS)의 핵심은 결국 아마존·구글과 같은 글로벌 리딩 기업이 쓰는 소프트웨어를 우리도 쓸 수 있다는 겁니다." 정우진 메가존클라우드 DX컨설팅부문 대표...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/15/1a86b60bd0675b56d4bad171196437a0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야놀자 이준영 부대표 "세계 테크 기업 만들기 위해 노력"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220915132406</link>
+            <guid>https://zdnet.co.kr/view/?no=20220915132406</guid>
+            <pubDate>Thu, 15 Sep 2022 06:41:28 GMT</pubDate>
+            <content:encoded><![CDATA["'야놀자'를 세계적인 테크 기업으로 만들기 위해서 연구개발(R&amp;D) 체제를 구축하고, 데이터 기술을 통한 의미 있는 일을 하기 위해 노력하겠다." 15일 서울 삼성동 코엑스에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/15/d67d2b8668bfed521ae080cd93b4de2f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[액션파워·CNAI·티맥스소프트, 4차산업혁명 '대상']]></title>
             <link>https://zdnet.co.kr/view/?no=20220915114136</link>
             <guid>https://zdnet.co.kr/view/?no=20220915114136</guid>
             <pubDate>Thu, 15 Sep 2022 05:58:57 GMT</pubDate>
             <content:encoded><![CDATA[액션파워·씨앤에이아이(CNAI)·티맥스소프트 3개사가 제6회 4차산업혁명대상 시상식에서 대상인 과학기술정보통신부 장관상을 수상했다. 지디넷코리아·머니투데이·한국소프트웨어산업협회...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/15/fc21bfb638e92db3386fe25070412347-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강종호 베스핀 "SaaS, 선택이 아닌 필수...디지털전환 핵심"]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220915142926</guid>
             <pubDate>Thu, 15 Sep 2022 05:58:57 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 딜리버리 플랫폼 기업 베스핀글로벌이 'SaaS 서밋2022'에 참여해 SaaS 시장 현황과 적용 사례, 미래 비전 등을 밝혔다. 베스핀글로벌의 강종호 전무는 15일 '...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/15/5102280608d54e9512b7ba7915e57145-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KISA, 정보보호 핵심기술 사례 5종 공개]]></title>
@@ -32,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[양희동 교수 "CSAP 등급제, 논리적 망분리 수용해야“]]></title>
+            <title><![CDATA[양희동 교수 "CSAP 등급제, 논리적 망분리 수용해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220915140735</link>
             <guid>https://zdnet.co.kr/view/?no=20220915140735</guid>
             <pubDate>Thu, 15 Sep 2022 05:58:57 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220915131236</guid>
             <pubDate>Thu, 15 Sep 2022 04:17:25 GMT</pubDate>
             <content:encoded><![CDATA[블리자드엔터테인먼트가 PC MMORPG 월드오브워크래프트 신규 확장팩 용군단 출시를 앞두고 이에 대한 이모저모를 확인할 수 있는 인터뷰를 진행했다. 이번 인터뷰에는 그레이엄 버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시프트업 '데스티니차일드', 신규 레이드 브레이킹 배드 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220915122612</link>
-            <guid>https://zdnet.co.kr/view/?no=20220915122612</guid>
-            <pubDate>Thu, 15 Sep 2022 04:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[시프트업(대표 김형태)은 15일 모바일 RPG 데스티니차일드에 신규 레이드 브레이킹 배드를 추가하고 이용자 의견을 반영한 업데이트를 진행했다. 브레이킹 배드는 악마의 씨앗을 먹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 버추얼 휴먼 애나, 디지털 싱글 발매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220915122102</link>
-            <guid>https://zdnet.co.kr/view/?no=20220915122102</guid>
-            <pubDate>Thu, 15 Sep 2022 04:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤(대표 김창한)는 버추얼 휴먼 '애나(ANA)'의 디지털 싱글을 국내외 온라인 온라인 음원사이트를 공개하며 가수로 공식 데뷔했다고 12일 밝혔다. 첫 디지털 싱글인 'S...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

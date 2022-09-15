@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SaaS의 효용? "구글·아마존과 같은 툴 쓸 수 있어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220915150951</link>
+            <guid>https://zdnet.co.kr/view/?no=20220915150951</guid>
+            <pubDate>Thu, 15 Sep 2022 06:42:21 GMT</pubDate>
+            <content:encoded><![CDATA["서비스형 소프트웨어(SaaS)의 핵심은 결국 아마존·구글과 같은 글로벌 리딩 기업이 쓰는 소프트웨어를 우리도 쓸 수 있다는 겁니다." 정우진 메가존클라우드 DX컨설팅부문 대표...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[액션파워·CNAI·티맥스소프트, 4차산업혁명 '대상']]></title>
             <link>https://zdnet.co.kr/view/?no=20220915114136</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[양희동 교수 "CSAP 등급제, 논리적 망분리 수용해야“]]></title>
+            <title><![CDATA[양희동 교수 "CSAP 등급제, 논리적 망분리 수용해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220915140735</link>
             <guid>https://zdnet.co.kr/view/?no=20220915140735</guid>
             <pubDate>Thu, 15 Sep 2022 06:00:20 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220914104748</guid>
             <pubDate>Wed, 14 Sep 2022 04:10:53 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드(대표 이주완)가 아시아나IDT와 퍼블릭 클라우드 사업 협력을 위한 전략적 업무협약을 체결했다고 14일 밝혔다. 서울시 종로구 우정국로 아시아나IDT 본사에서 열린...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK(주) C&C, API 테스트 솔루션 '에이티웍스' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220914102750</link>
-            <guid>https://zdnet.co.kr/view/?no=20220914102750</guid>
-            <pubDate>Wed, 14 Sep 2022 04:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 박성하)는 대규모 응용 프로그램 인터페이스(API) 테스트 자동화 솔루션 '에이티웍스(aTworks)'를 출시했다고 14일 밝혔다. API는 특정 소프트웨어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
