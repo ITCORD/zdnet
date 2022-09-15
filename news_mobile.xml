@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 04:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, iOS 16.1 베타버전 출시…"배터리 잔량 표시 확대 적용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220915135056</link>
+            <guid>https://zdnet.co.kr/view/?no=20220915135056</guid>
+            <pubDate>Thu, 15 Sep 2022 06:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 14일(이하 현지시간) 개발자 대상으로 iOS 16.1 베타버전을 출시했다고 맥월드 등 외신들이 보도했다. 지난 12일 iOS 16 출시에 곧이어 배포된 iOS 16.1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 2050년 탄소중립 '新환경경영전략' 선언...RE100 가입]]></title>
             <link>https://zdnet.co.kr/view/?no=20220915094213</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220914092305</guid>
             <pubDate>Wed, 14 Sep 2022 01:05:52 GMT</pubDate>
             <content:encoded><![CDATA[쿠첸이 올해 대규모 산불로 특별재난지역으로 지정된 강원도 동해시, 삼척시에 주방가전 수리 및 제품 후원을 위한 현장 지원에 나섰다고 14일 밝혔다. 이번 지원 활동은 쿠첸이 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI에 힘 실은 인텔 "연산 전용 칩 탑재 확대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220914093956</link>
-            <guid>https://zdnet.co.kr/view/?no=20220914093956</guid>
-            <pubDate>Wed, 14 Sep 2022 01:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[[하이파(이스라엘)=권봉석 기자] 인텔이 PC 환경에서 쓰임새가 늘어나는 AI 관련 처리를 위한 전용 SoC(맞춤형 반도체)에 힘을 실었다. 13일 오후(이하 현지시각) 이스라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
