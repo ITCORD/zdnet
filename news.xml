@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 08:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대 최대 '4차산업혁명 페스티벌 2022' 폐막···디지털 신기술에 환호와 찬사]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220917115636</link>
+            <guid>https://zdnet.co.kr/view/?no=20220917115636</guid>
+            <pubDate>Sat, 17 Sep 2022 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[역대 최대 규모로 열린 '대한민국 4차산업혁명 페스티벌 2022' 행사가 3일간의 일정을 끝내고 17일 폐막했다. 국내 최초, 최대 규모 4차산업혁명 종합 박람회인 이 행사는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/17/602c9ab22dbac281ec4ef816be6b9d5f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의사도 헷갈리는 갑상선 결절·암 진단…"우리가 판독 도와줄게요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220917142216</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20220917133454</guid>
             <pubDate>Sat, 17 Sep 2022 05:36:35 GMT</pubDate>
             <content:encoded><![CDATA["그동안 많은 기업은 클라우드의 효율성을 확인하기 위해 각 팀별로 여러 클라우드를 테스트하는 단계를 거쳤다. 이제는 팀별로 산재된 클라우드를 효율적으로 통합하고 운영·관리하는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/17/a3209cf0be28247aa573993bcd7665cc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[텐센트클라우드 "메타버스 분야서 우위···글로벌 톱 노려"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220916172816</guid>
             <pubDate>Fri, 16 Sep 2022 12:22:51 GMT</pubDate>
             <content:encoded><![CDATA[최재붕 성균관대학교 교수는 16일 "메타버스 세계관으로 가려면 팬덤을 창조해야 한다"고 밝혔다. 이날 오후 서울 삼성 코엑스 B홀에서 열린 '디지털 이노베이션 컨퍼런스 2022...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VTW "로우코드 플랫폼 'DnA'로 개발 생산성 높여"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220916170147</link>
-            <guid>https://zdnet.co.kr/view/?no=20220916170147</guid>
-            <pubDate>Fri, 16 Sep 2022 12:22:51 GMT</pubDate>
-            <content:encoded><![CDATA["로코드(Low Code)는 소프트웨어 개발 시간을 200% 줄여 생산성을 향상시킵니다. 기존 16개 단계를 거치던 개발 프로세스를 7단계로 간소화하는 식입니다" 유민혁 브이티...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
