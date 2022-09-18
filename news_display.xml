@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 04:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] 인텔 차세대 CPU 생산 심장, 이스라엘 '팹28'을 가다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220918012633</link>
+            <guid>https://zdnet.co.kr/view/?no=20220918012633</guid>
+            <pubDate>Sun, 18 Sep 2022 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[[키르얏 갓(이스라엘)=권봉석 기자] 인텔은 14일(이하 현지시각) 키르얏 갓(Kiryat Gat) 소재 반도체 생산시설 '팹28'(Fab 28)과 오는 2024년부터 가동될 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네오와인, 인공지능 적용한 보안반도체 출품 눈길]]></title>
             <link>https://zdnet.co.kr/view/?no=20220916161126</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220912084420</guid>
             <pubDate>Mon, 12 Sep 2022 04:21:52 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 반도체 장비 회사 ASML의 차세대 극자외선(EUV) 공정 반도체 생산 장비를 국내에 들여올 길이 열린다. ASML은 최첨단 EUV 공정 반도체 장비를 세계에서 유일하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[르포] 픽셀플러스 가보니…"차반도체 회사로 변신"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908170109</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908170109</guid>
-            <pubDate>Sun, 11 Sep 2022 22:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[픽셀플러스는 반도체 설계 전문(팹리스) 회사다. 상보성 금속 산화막 반도체(CMOS) 이미지 센서와 이미지 처리 집적회로(IC)를 개발한다. 스마트폰과 폐쇄회로TV(CCTV)를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

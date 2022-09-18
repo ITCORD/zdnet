@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 04:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] 인텔 차세대 CPU 생산 심장, 이스라엘 '팹28'을 가다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220918012633</link>
+            <guid>https://zdnet.co.kr/view/?no=20220918012633</guid>
+            <pubDate>Sun, 18 Sep 2022 05:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[[키르얏 갓(이스라엘)=권봉석 기자] 인텔은 14일(이하 현지시각) 키르얏 갓(Kiryat Gat) 소재 반도체 생산시설 '팹28'(Fab 28)과 오는 2024년부터 가동될 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/18/85ba0c7d6b4d3ffa4a70ae00acecbc04-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건국대, '2023 수시모집' 경쟁률 22.74대1…논술 수의예 최고 경쟁 441대1 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220918120229</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.zdnet.co.kr/2019/09/09/mjjoo_UN0w64Iuac7g26-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사업 규모 1천억원 이하는 예타 면제...기술 변화 따른 계획 변경도 가능 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[사업 규모 1천억원 이하는 예타 면제...기술 변화 맞춰 계획 변경도 가능 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220916135023</link>
             <guid>https://zdnet.co.kr/view/?no=20220916135023</guid>
             <pubDate>Sun, 18 Sep 2022 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[예비타당성조사를 받아야 하는 국가 연구개발 사업 규모 기준이 현재 500억원에서 1천억원으로 올라간다. 또 기술 변화에 맞춰 사업 내용을 중간에 변경할 수 있게 된다. 미중 기...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/13/3505ff27a3cc7d354cdb51770e660c95-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디즈니 드림라이트 밸리, 얼리엑세스 2주만에 이용자 100만 돌파 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,18 +168,10 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["기업 내 산재한 클라우드 통합, 지금이 적기" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220917133454</link>
-            <guid>https://zdnet.co.kr/view/?no=20220917133454</guid>
-            <pubDate>Sat, 17 Sep 2022 04:59:22 GMT</pubDate>
-            <content:encoded><![CDATA["그동안 많은 기업은 클라우드의 효율성을 확인하기 위해 각 팀별로 여러 클라우드를 테스트하는 단계를 거쳤다. 이제는 팀별로 산재된 클라우드를 효율적으로 통합하고 운영·관리하는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[SKT, 영상회의 '미더스' 웹 버전 베타 공개 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220918102740</link>
             <guid>https://zdnet.co.kr/view/?no=20220918102740</guid>
-            <pubDate>Sun, 18 Sep 2022 04:09:59 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 고품질 AI 영상회의 서비스 '미더스(MeetUs)'의 웹으로 참여하기 베타 버전을 공개하고 활성화 이벤트를 진행한다고 밝혔다. '미더스'는 사용자 연락처를 통해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -331,7 +331,7 @@
             <title><![CDATA["국회도서관 통합검색, PaaS 클라우드 덕분” (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220918102241</link>
             <guid>https://zdnet.co.kr/view/?no=20220918102241</guid>
-            <pubDate>Sun, 18 Sep 2022 04:10:13 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[국회도서관은 국내 학술정보를 한데 모은 대표적인 지식정보 플랫폼으로 꼽힌다. 수백만 권의 장서 외에도 다양한 학술정보와 지식정보가 구축됐고 학술정보를 융합하고 분석할 수 있도록...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -339,7 +339,7 @@
             <title><![CDATA[인프라닉스, PaaS 경쟁력 자신감..."클라우드 부스터 되겠다” (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220918102026</link>
             <guid>https://zdnet.co.kr/view/?no=20220918102026</guid>
-            <pubDate>Sun, 18 Sep 2022 04:10:13 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[인프라닉스가 '클라우드 인프라 부스터'가 되겠다고 거듭 강조했다. 클라우드 운영 관리 기술력을 바탕으로 클라우드를 도입하는 누구에게나 든든한 조력자가 되겠다는 것이다. 서비스형...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -491,7 +491,7 @@
             <title><![CDATA[삼성전자 "초저전력 반도체, 수자원 재활용으로 지구 지킨다" (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220916102751</link>
             <guid>https://zdnet.co.kr/view/?no=20220916102751</guid>
-            <pubDate>Sun, 18 Sep 2022 04:10:56 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 2050년 탄소중립을 달성한다는 '신(新)환경경영전략'을 전개한다. 초저전력 반도체를 개발해 전세계 데이터센터의 전력 절감에 기여하고, 초절전 제품의 가전제품으로 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -808,6 +808,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[르포] 인텔 차세대 CPU 생산 심장, 이스라엘 '팹28'을 가다 (지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220918012633</link>
+            <guid>https://zdnet.co.kr/view/?no=20220918012633</guid>
+            <pubDate>Sun, 18 Sep 2022 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[[키르얏 갓(이스라엘)=권봉석 기자] 인텔은 14일(이하 현지시각) 키르얏 갓(Kiryat Gat) 소재 반도체 생산시설 '팹28'(Fab 28)과 오는 2024년부터 가동될 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[네오와인, 인공지능 적용한 보안반도체 출품 눈길 (지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220916161126</link>
             <guid>https://zdnet.co.kr/view/?no=20220916161126</guid>
@@ -957,14 +965,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220912084420</guid>
             <pubDate>Mon, 12 Sep 2022 04:20:16 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 반도체 장비 회사 ASML의 차세대 극자외선(EUV) 공정 반도체 생산 장비를 국내에 들여올 길이 열린다. ASML은 최첨단 EUV 공정 반도체 장비를 세계에서 유일하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[르포] 픽셀플러스 가보니…"차반도체 회사로 변신" (지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220908170109</link>
-            <guid>https://zdnet.co.kr/view/?no=20220908170109</guid>
-            <pubDate>Sun, 11 Sep 2022 22:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[픽셀플러스는 반도체 설계 전문(팹리스) 회사다. 상보성 금속 산화막 반도체(CMOS) 이미지 센서와 이미지 처리 집적회로(IC)를 개발한다. 스마트폰과 폐쇄회로TV(CCTV)를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -2583,12 +2583,12 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사업 규모 1천억원 이하는 예타 면제...기술 변화 따른 계획 변경도 가능 (지디넷코리아 ─ 과학)]]></title>
+            <title><![CDATA[사업 규모 1천억원 이하는 예타 면제...기술 변화 맞춰 계획 변경도 가능 (지디넷코리아 ─ 과학)]]></title>
             <link>https://zdnet.co.kr/view/?no=20220916135023</link>
             <guid>https://zdnet.co.kr/view/?no=20220916135023</guid>
-            <pubDate>Sun, 18 Sep 2022 04:16:14 GMT</pubDate>
+            <pubDate>Sun, 18 Sep 2022 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[예비타당성조사를 받아야 하는 국가 연구개발 사업 규모 기준이 현재 500억원에서 1천억원으로 올라간다. 또 기술 변화에 맞춰 사업 내용을 중간에 변경할 수 있게 된다. 미중 기...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/13/3505ff27a3cc7d354cdb51770e660c95-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/18/e9fdf745c0364bca0262641335f8f891-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NASA 탐사로버, 화성서 최대 규모 유기물 발견 [여기는 화성] (지디넷코리아 ─ 과학)]]></title>
