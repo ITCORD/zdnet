@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 23:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 01:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 코로나19 신규확진 3만4764명...사망 46명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220918100221</link>
+            <guid>https://zdnet.co.kr/view/?no=20220918100221</guid>
+            <pubDate>Sun, 18 Sep 2022 01:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[주말인 18일 0시 기준 국내 코로나19 신규 확진자 수는 지역사회 3만4천523명, 해외유입 사례 241명 등 총 3만4천764명으로 집계됐다. 중앙방역대책본부(방대본)에 따...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[의사도 헷갈리는 갑상선 결절·암 진단…"우리가 판독 도와줄게요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220917142216</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220913153517</guid>
             <pubDate>Tue, 13 Sep 2022 07:35:22 GMT</pubDate>
             <content:encoded><![CDATA[한림대학교강남성심병원 성형외과 김성환 교수팀은 과학기술정보통신부가 주관, 한국지능정보사회진흥원(NIA)이 추진하는 '2022년도 인공지능 학습용 데이터 구축사업-헬스케어 분야 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[의료소식] 2022년 경기남부 지역의약품안전센터 합동 심포지엄 外]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220913144732</link>
-            <guid>https://zdnet.co.kr/view/?no=20220913144732</guid>
-            <pubDate>Tue, 13 Sep 2022 07:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[■ 2022년 경기남부 지역의약품안전센터 합동 심포지엄 한림대동탄성심병원·아주대병원·분당서울대병원, 온라인 개최…16일까지 사전 등록 한림대학교동탄성심병원·아주대학교병원·분당서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
