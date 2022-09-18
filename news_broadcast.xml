@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 01:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, 영상회의 '미더스' 웹 버전 베타 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220918102740</link>
+            <guid>https://zdnet.co.kr/view/?no=20220918102740</guid>
+            <pubDate>Sun, 18 Sep 2022 04:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 고품질 AI 영상회의 서비스 '미더스(MeetUs)'의 웹으로 참여하기 베타 버전을 공개하고 활성화 이벤트를 진행한다고 밝혔다. '미더스'는 사용자 연락처를 통해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 티맥스메타버스와 신규서비스 발굴 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20220917133658</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220915094531</guid>
             <pubDate>Thu, 15 Sep 2022 04:18:06 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 이동통신 기지국에 인공지능(AI) 기술을 적용, 무선망 성능을 향상시키고 6G 진화 기반을 강화한다. SK텔레콤은 글로벌 이동통신 네트워크 제조사인 에릭슨과 기지국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올레tv 키즈랜드 자연백과 '세계 동물 탐험대' 출범]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220915095214</link>
-            <guid>https://zdnet.co.kr/view/?no=20220915095214</guid>
-            <pubDate>Thu, 15 Sep 2022 04:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 올레tv 키즈랜드에 세계 각국 동물의 특별한 삶을 아이들의 눈높이에 맞게 담은 '키즈랜드 자연백과 : 세계 동물 탐험대'를 론칭한다고 15일 밝혔다. 키즈랜드 자연백과는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
