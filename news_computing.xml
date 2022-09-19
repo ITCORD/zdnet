@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 13:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 14:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑셈 APM 인터맥스 "가트너 제시 주요 요구사항 반영···상반기 매출 182% 증가"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220919224831</link>
+            <guid>https://zdnet.co.kr/view/?no=20220919224831</guid>
+            <pubDate>Mon, 19 Sep 2022 14:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 시대를 맞아 애플리케이션 성능 관리(APM, Appplication Performance Management) 솔루션에 대한 관심이 더 높아졌다. APM은 기업 업무나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애자일소다, 日 퓨처AI와 전략적 제휴 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20220919194105</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220917153715</guid>
             <pubDate>Sat, 17 Sep 2022 09:13:12 GMT</pubDate>
             <content:encoded><![CDATA[애플의 초대 창업자 스티브 잡스는 전자제품 기업 이미지에 당시엔 다소 이질적인 'Apple' 이라는 상호를 붙였다. 과거 차갑고 냉철한 분위기를 풍기던 전자제품 기업에 연성적인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["기업 내 산재한 클라우드 통합, 지금이 적기"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220917133454</link>
-            <guid>https://zdnet.co.kr/view/?no=20220917133454</guid>
-            <pubDate>Sat, 17 Sep 2022 04:59:22 GMT</pubDate>
-            <content:encoded><![CDATA["그동안 많은 기업은 클라우드의 효율성을 확인하기 위해 각 팀별로 여러 클라우드를 테스트하는 단계를 거쳤다. 이제는 팀별로 산재된 클라우드를 효율적으로 통합하고 운영·관리하는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
