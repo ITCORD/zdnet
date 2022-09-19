@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 구글·메타 과징금과 나의 개인정보 보호]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220919152312</link>
+            <guid>https://zdnet.co.kr/view/?no=20220919152312</guid>
+            <pubDate>Mon, 19 Sep 2022 07:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[지난 14일, 개인정보보호위원회가 구글과 페이스북의 모기업 메타에 각각 692억 원과 308억 원의 과징금을 부과했다. 이 사건 골자는 구글과 메타가 이용자의 개인정보를 수집하는 과정에서 개인정보보호법 제 39조의3 제1항에 해당하는‘정보통신서비스 제공자가 이용자의 개인정보를 이용하려고 수집하는 경우 이를 이용자에게 알리고 동의를 받아야 한다’라는 조항을 위반, 문제가 됐다.당국에 따르면 구...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/24/b991ddb7ba4484956336a6d76af25a82.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 랜섬웨어 위협 증가, '랜섬웨어 레질리언시' 강화하자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220919102346</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Jul 2022 01:01:15 GMT</pubDate>
             <content:encoded><![CDATA[기계학습 알고리즘 두 번째는 나이브 베이즈 분류기(Naive Bayes Classifier)다.이 알고리즘은 그림 1에서 표현된 베이즈 정리에 기반을 둔다. 이것은 각각의 사건들이 일어날 확률들을 측정하는 것인데 P(A ¦ B) = (P(A ∩ B)) / (P(B))를 설명한다면 다음과 같다.1. 전제: 두 사건 A, B가 있고, 사건 B가 발생한 이후에 사건 A가 발생한다고 가...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/07/25/48b38a2d92571115aa636f474ff9a17b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 기술을 통한 홍익인간의 실현 – 테크 포 굿]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220721144835</link>
-            <guid>https://zdnet.co.kr/view/?no=20220721144835</guid>
-            <pubDate>Fri, 22 Jul 2022 01:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[몇 년 전 작고한 세계적인 석학인 스티븐 호킹(Stephen Hawking) 박사를 생각하면 떠오르는 것이 몇 가지가 있다. 호킹 박사가 이룩한 학문적인 업적을 말할 것도 없고, 루게릭병으로 인한 신체장애로 활동이 불편하고 의사소통이 불편함에도 불구하고 각종 행사에서 적극적으로 발표하는 모습도 떠오른다.하지만 무엇보다 스티븐 호킹 박사 특유의 컴퓨터로 합성된 음성과 휠체어에 부착되어 신체의 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/31/2f757ff5d75af70b16cd10ad15d75962.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
