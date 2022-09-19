@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사피온 "AI반도체 국산화…원천기술 100% 보유"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220919173855</link>
+            <guid>https://zdnet.co.kr/view/?no=20220919173855</guid>
+            <pubDate>Mon, 19 Sep 2022 09:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 반도체 기업 사피온이 100% 원천기술을 확보, 세계 시장 진출의 교두보를 마련했다고 밝혔다. 사피온은 SK텔레콤에서 SK그룹 인공지능 인프라를 개선하는 프로젝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이창양 산업 장관 "산업·공급망 지역·다자 협력 중요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220919102328</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220913104246</guid>
             <pubDate>Tue, 13 Sep 2022 04:24:10 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 반도체 기업 사피온은 첫 상용화 인공지능 반도체 칩 'X220'이 최근 개최된 세계 AI 반도체 성능 시험(벤치마크) 대회 '엠엘퍼프(MLPerf)'에서 인공지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "PC 프로세서, 기획부터 출시까지 3년 걸린다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220913102020</link>
-            <guid>https://zdnet.co.kr/view/?no=20220913102020</guid>
-            <pubDate>Tue, 13 Sep 2022 04:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[[텔아비브(이스라엘)=권봉석 기자] PC용 프로세서는 연산을 담당하는 코어 이외에도 내장 그래픽칩셋, 메모리 제어, 전력 소모 제어, 입출력 등 다양한 회로를 탑재해 작동한다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
