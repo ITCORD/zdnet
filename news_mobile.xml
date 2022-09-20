@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 04:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플·에픽 앱스토어 소송, 美 법무부도 뛰어든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220920142652</link>
+            <guid>https://zdnet.co.kr/view/?no=20220920142652</guid>
+            <pubDate>Tue, 20 Sep 2022 06:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 법무부가 오는 10월 21일(이하 현지시간) 제9연방순회항소법원에서 시작되는 애플과 에픽게임즈 간의 앱스토어 소송 항소심에서 증언을 하기로 했다. 법무부의 이번 증언이 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 공간 맞춤형 '비스포크 무풍 시스템에어컨' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220920082031</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220916101642</guid>
             <pubDate>Fri, 16 Sep 2022 04:20:31 GMT</pubDate>
             <content:encoded><![CDATA[쿠첸이 국내 최초로 초고압, 중압, 무압 등 3가지 압력을 자유자재로 구현하는 '쿠첸 트리플' 밥솥을 출시했다고 16일 밝혔다. 쿠첸 트리플 밥솥은 업계 최초로 2.1초고압과 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 "아이폰 위성통신 기능, 다른 국가에도 곧 제공"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220916095833</link>
-            <guid>https://zdnet.co.kr/view/?no=20220916095833</guid>
-            <pubDate>Fri, 16 Sep 2022 01:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 아이폰14 시리즈에서 미국, 캐나다 지역에서 위성 연결을 통한 긴급구조요청 서비스를 제공하겠다고 밝힌 가운데, 추후 다른 국가에도 해당 서비스를 제공할 것이라고 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
