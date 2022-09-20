@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 01:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버클라우드, 정부 현안 분석에 '클라우드 데이터 박스' 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220920114848</link>
+            <guid>https://zdnet.co.kr/view/?no=20220920114848</guid>
+            <pubDate>Tue, 20 Sep 2022 04:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 박원기‧김유원)는 행정안전부 통합데이터분석센터가 데이터 분석 서비스인 '클라우드 데이터 박스'로 분석한 현안 결과를 공개했다고 20일 밝혔다. 이는 데이터 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["뉴스페이스 시대, 위성 데이터로 재난 최소화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220919165144</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220918102241</guid>
             <pubDate>Sun, 18 Sep 2022 04:10:13 GMT</pubDate>
             <content:encoded><![CDATA[국회도서관은 국내 학술정보를 한데 모은 대표적인 지식정보 플랫폼으로 꼽힌다. 수백만 권의 장서 외에도 다양한 학술정보와 지식정보가 구축됐고 학술정보를 융합하고 분석할 수 있도록...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인프라닉스, PaaS 경쟁력 자신감..."클라우드 부스터 되겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220918102026</link>
-            <guid>https://zdnet.co.kr/view/?no=20220918102026</guid>
-            <pubDate>Sun, 18 Sep 2022 04:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[인프라닉스가 '클라우드 인프라 부스터'가 되겠다고 거듭 강조했다. 클라우드 운영 관리 기술력을 바탕으로 클라우드를 도입하는 누구에게나 든든한 조력자가 되겠다는 것이다. 서비스형...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
