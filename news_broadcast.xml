@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 09:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] 화웨이, 모듈화된 풀스택 데이터센터]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220920122229</link>
+            <guid>https://zdnet.co.kr/view/?no=20220920122229</guid>
+            <pubDate>Tue, 20 Sep 2022 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이가 성장하는 클라우드 시장에서 본격적으로 사업 영역을 확장하고 있다. 화웨이는 올해 말까지 전 세계 29개 지역에 75개 화웨이 클라우드 가용 영역을 운영하고, 서비스도 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 데이터 가치평가기관 지정 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20220920154845</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220919163038</guid>
             <pubDate>Mon, 19 Sep 2022 08:21:29 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰 내장형 가입자식별모듈(eSIM) 활용이 본격화된 가운데 국내와 미국의 통신사업자 대응에 큰 차이를 보여 이목을 끈다. 국내에서는 eSIM 도입 이후 2개 번호를 쓰는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노키아 "5G위성·디지털트윈, 통신시장 주도"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220919160846</link>
-            <guid>https://zdnet.co.kr/view/?no=20220919160846</guid>
-            <pubDate>Mon, 19 Sep 2022 07:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[엣지 컴퓨팅 기술을 활용한 네트워크 엣지와 디지털 트윈, 5G 위성 등이 내년 이후 통신시장을 좌우할 주요 트렌드가 될 것이라고 통신기술기업 노키아가 전망했다. 노키아는 19일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
