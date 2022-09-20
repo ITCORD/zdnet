@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 클라우드, 마리아DB 로 DB 비용 50% 절감]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220920155836</link>
+            <guid>https://zdnet.co.kr/view/?no=20220920155836</guid>
+            <pubDate>Tue, 20 Sep 2022 07:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[마리아DB는 삼성전자 MX 사업부의 삼성 클라우드 서비스가 자사의 분산형 SQL 데이터베이스인 '마리아DB 엑스팬드(Xpand)'를 이용해 매일 수십 억 건에 달하는 트랜잭션을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[조선대-NHN 소프트웨어 아카데미 개소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220920155806</link>
+            <guid>https://zdnet.co.kr/view/?no=20220920155806</guid>
+            <pubDate>Tue, 20 Sep 2022 07:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 소프트웨어 전문인재 양성 사업에 선정된 '조선대-NHN 소프트웨어 아카데미'가 문을 열었다고 20일 밝혔다. 올해부터 시작된 '소프트웨어 전문인재 양성' 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알테어, 머신러닝 노코드 플랫폼 '래피드마이너' 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20220920154929</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220919101829</guid>
             <pubDate>Mon, 19 Sep 2022 04:23:24 GMT</pubDate>
             <content:encoded><![CDATA[오라클이 마이SQL 데이터베이스 서비스를 적진 아마존웹서비스(AWS)에 투하했다. 빠른 성능과 낮은 비용, 다양한 핵심기능 등을 앞세워 클라우드 시장의 오픈소스 DB 서비스 영...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, AWS 경계보안 MSSP 자격 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220919102922</link>
-            <guid>https://zdnet.co.kr/view/?no=20220919102922</guid>
-            <pubDate>Mon, 19 Sep 2022 04:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표 박진효)는 아마존웹서비스(AWS)의 경계보안 관리형 보안 서비스 공급자(MSSP) 자격을 획득했다고 19일 밝혔다. AWS 경계 보안 MSSP 자격은 다수의 고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 랜섬웨어 위협 증가, '랜섬웨어 레질리언시' 강화하자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220919102346</link>
-            <guid>https://zdnet.co.kr/view/?no=20220919102346</guid>
-            <pubDate>Mon, 19 Sep 2022 04:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[랜섬웨어 공격은 전 세계적으로 급증하고 있는데, 이제는 인더스트리, 조직의 규모에 상관없이 기업과 조직에 있어 가장 큰 비즈니스 리스크 중의 하나가 됐다. 조사에 따르면 기업을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
