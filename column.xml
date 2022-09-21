@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 04:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 18:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 끊임 없는 사고…정보보안은 걸림돌 아닌 디딤돌]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220921162049</link>
+            <guid>https://zdnet.co.kr/view/?no=20220921162049</guid>
+            <pubDate>Wed, 21 Sep 2022 18:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[“어이가 없네”.영화 ‘베테랑’의 유행어를 기억하는지. 조금 강하게 시작했지만, 분야를 막론하고 연이어 터지는 개인정보 유출 사고를 접하는 대다수 국민들의 심정이 이렇지 않을까 싶다.2021년 개인정보 유출 신고 공공기관 수는 22건, 유출 건수는 21만3천여건에 달한다고 한다. 멀리 갈 것도 없이 가장 최근에는 16개 지자체가 개인정보보호법 위반으로 제재를 받았고 지난달에는 한 공공기관이 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/21/996a9cbae571b66c3c3bd6d2fcb3699a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 구글·메타 과징금과 나의 개인정보 보호]]></title>
             <link>https://zdnet.co.kr/view/?no=20220919152312</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 01:06:18 GMT</pubDate>
             <content:encoded><![CDATA[“당신이 화성을 점령하고자 하는 동안 러시아는 우크라이나를 침략했습니다! 당신의 로켓이 우주 왕복 후 지상에 착륙할 때, 러시아 로켓은 우크라이나 시민들을 공격하고 있습니다! 우크라이나에 '스타링크(Starlink)’ 제공을 요청합니다.”러시아와 전쟁중인 우크라이나의 디지털 장관이 일론 머스크에게 SNS 메시지를 남기자 다음 날 우크라이나에 스페이스X의 '스타링크'가 등...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/07/25/b5dac41be1c634e1d4eb0462374a234f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI 쉽게 이해하기 3-2, 나이브 베이즈 분류기 알고리즘]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220725093548</link>
-            <guid>https://zdnet.co.kr/view/?no=20220725093548</guid>
-            <pubDate>Mon, 25 Jul 2022 01:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[기계학습 알고리즘 두 번째는 나이브 베이즈 분류기(Naive Bayes Classifier)다.이 알고리즘은 그림 1에서 표현된 베이즈 정리에 기반을 둔다. 이것은 각각의 사건들이 일어날 확률들을 측정하는 것인데 P(A ¦ B) = (P(A ∩ B)) / (P(B))를 설명한다면 다음과 같다.1. 전제: 두 사건 A, B가 있고, 사건 B가 발생한 이후에 사건 A가 발생한다고 가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/25/48b38a2d92571115aa636f474ff9a17b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
