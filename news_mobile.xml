@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 06:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 20:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가민, 자전거 라이더용 내비게이션 '엣지 익스플로어 2' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220922172511</link>
+            <guid>https://zdnet.co.kr/view/?no=20220922172511</guid>
+            <pubDate>Thu, 22 Sep 2022 20:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[가민이 GPS 스마트 내비게이션 사이클링 컴퓨터 '엣지 익스플로어 2' 와 '엣지 익스플로어 2 파워 마운트 번들'을 출시한다. 엣지 익스플로어 2는 3인치 크기의 컬러 터치스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[썸에이지, 멀티플랫폼 MMO '데카론G' 글로벌 사전등록 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20220922140555</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220921015511</guid>
             <pubDate>Wed, 21 Sep 2022 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 20일 오전(이하 미국 서부시간, 한국시간 21일 0시) PC용 새 GPU인 RTX 40 시리즈를 공개했다. 2020년 9월 '암페어'(Ampere) 아키텍처 기반 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플은 왜 하필 지금 앱가격을 기습 인상했을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220920233120</link>
-            <guid>https://zdnet.co.kr/view/?no=20220920233120</guid>
-            <pubDate>Tue, 20 Sep 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[왜 하필 지금 앱스토어 거래 가격을 올렸을까? 애플이 오는 10월5일(이하 미국 현지시간) 부터 앱 거래 가격을 인상한다는 소식을 접하면서 가장 먼저 떠오른 의문이다. 시점이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
