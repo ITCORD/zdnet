@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 06:58:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 클라우드 통해 로봇·직원의 사회적 행동 교육하려면]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220921160328</link>
+            <guid>https://zdnet.co.kr/view/?no=20220921160328</guid>
+            <pubDate>Thu, 22 Sep 2022 06:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[로봇은 공장, 창고, 리테일, 병원 등 많은 작업 환경에서 사람과 함께 일하는 기회를 늘려가고 있다. 인간이 로봇을 신뢰하고 로봇은 인간의 신호를 이해하는 과정을 더 쉽게 만들어야 한다. 이는 특히 자율 이동 로봇(AMR)이 업무 환경에 혼합되어 있을 때 더욱 그러한데, 로봇은 이름에서 알 수 있듯이 그야말로 '자율적(autonomous)'이기 때문이다.현재 원격 제어 또는 전...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/07/d2fc17a83d317dec9efeee625ab8f223.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 끊임 없는 사고…정보보안은 걸림돌 아닌 디딤돌]]></title>
             <link>https://zdnet.co.kr/view/?no=20220921162049</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Aug 2022 09:15:10 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 다양한 경력을 쌓아왔더라도 데브옵스(DevOps) 팀에 새로 합류했거나 익숙하지 않은 사람이라면 새롭게 배워야 할 점들이 많을 것이다. 데브옵스를 완벽히 습득하기 위해서는 완전히 새로운 사고방식을 기반으로 기술과 프로세스, 업무 단계를 파악하고 이해해야 한다.데브옵스를 배우는 이유는 무엇이고 어디서부터 시작할까? 데브옵스 전문가에 대한 수요가 폭발적으로 증가하고, 이런 직업의 연봉이...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/08/02/e31f91ba598ae06e62a0d7001bdf4ecd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IITP 기술산책] 우주인터넷 시대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220725220006</link>
-            <guid>https://zdnet.co.kr/view/?no=20220725220006</guid>
-            <pubDate>Tue, 26 Jul 2022 01:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[“당신이 화성을 점령하고자 하는 동안 러시아는 우크라이나를 침략했습니다! 당신의 로켓이 우주 왕복 후 지상에 착륙할 때, 러시아 로켓은 우크라이나 시민들을 공격하고 있습니다! 우크라이나에 '스타링크(Starlink)’ 제공을 요청합니다.”러시아와 전쟁중인 우크라이나의 디지털 장관이 일론 머스크에게 SNS 메시지를 남기자 다음 날 우크라이나에 스페이스X의 '스타링크'가 등...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/07/25/b5dac41be1c634e1d4eb0462374a234f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
