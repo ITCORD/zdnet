@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 21:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 01:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 美서 '창문 안전 문제'로 110만대 리콜]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220923090414</link>
+            <guid>https://zdnet.co.kr/view/?no=20220923090414</guid>
+            <pubDate>Fri, 23 Sep 2022 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[미국 도로교통안전국(NHTSA)이 테슬라의 '세이프티 파워 윈도우' 결함으로 승객이 부상을 입을 수 있다며 약 110만 대의 차량을 리콜한다고 공지했다고 월스트리트저널 등이 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[진성준 의원 "친환경차 보급률 전체 5.4% 불과"]]></title>
             <link>https://zdnet.co.kr/view/?no=20220922173853</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220918160145</guid>
             <pubDate>Sun, 18 Sep 2022 07:20:32 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부와 강릉시는 2026년 10월에 개최하는 제32회 지능형교통체계(ITS) 세계총회를 대만 타이베이를 제치고 강릉이 유치했다고 18일 밝혔다. 총회는 2026년 10월 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹, 'UX테크데이 2022'서 PBV UX 개발 방향성 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220918095552</link>
-            <guid>https://zdnet.co.kr/view/?no=20220918095552</guid>
-            <pubDate>Sun, 18 Sep 2022 01:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹이 2025년 이후 내놓을 목적기반모빌리티(PBV) 사용자경험(UX)를 미리 만나볼 수 있는 'UX테크데이 2022'를 개최했다. 현대차그룹은 지난 16일 서울시 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
