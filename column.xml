@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 07:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 18:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 성공적인 데브옵스 전략 수립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220928181019</link>
+            <guid>https://zdnet.co.kr/view/?no=20220928181019</guid>
+            <pubDate>Wed, 28 Sep 2022 18:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[깃랩의 2021년 글로벌 데브섹옵스(DevSecOps) 조사에 따르면, 응답자 대부분이 데브옵스(DevOps) 또는 데브섹옵스를 사용하여 소프트웨어를 개발하고 있었다.개발자의 약 60%가 데브옵스를 통해 이전보다 2배 더 빠르게 코드를 릴리스하고 있는 것으로 나타났다.데브옵스는 많은 비즈니스에 직접적인 영향을 미치고 있다. 그렇다면, 성공적인 데브옵스 전략을 개발하기 위해 필요한 사항들은 무...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/07/8c1ba262bd773631ac532b1a9120ea12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 컴퓨터를 가장 잘 쓰는 나라의 꿈, 이번에는 이뤄야]]></title>
             <link>https://zdnet.co.kr/view/?no=20220926093355</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Aug 2022 01:04:58 GMT</pubDate>
             <content:encoded><![CDATA[올해도 벌써 3분의 1이 지나간 지금, 전세계에 나타나고 있는 중요한 변화들로 예측할 수 있는 것은 내년에도 IT의 역할은 더욱 커질 것이고, 이 추세가 점점 더 빨라질 것이라는 점이다.IT는 멀티 클라우드, 대규모의 데이터 증가, 서비스형 모델 등과 같은 새로운 트렌드에 적응해 나가고 있다. 또한 직원들의 근무 장소가 사무실을 벗어나 다양한 장소로 다변화되고, IT의 범위가 계속해서 확장되...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/08/09/f40978cd9982c41022137da2bfc01d2c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 하이브리드 환경에서 IT 복잡성 극복하는 방법]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220803105323</link>
-            <guid>https://zdnet.co.kr/view/?no=20220803105323</guid>
-            <pubDate>Wed, 03 Aug 2022 03:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 도입은 꾸준히 가속화되고 있다. 가트너에 의하면 2022년 최종 사용자의 클라우드 서비스 관련 지출이 20%, 약 5천억 달러로 급증했다. 이와 같은 지출 열풍은 쉽게 식지 않을 전망이며 2023년에는 몇 천억 달러 더 증가할 것으로 예상된다.많은 기업이 압박을 느끼고 있는 것 또한 사실이다. 즉, 경쟁사가 일상으로의 복귀와 제품 및 서비스 개선에 집중하고 있을 때, 고객은 보다 나...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/03/499c016b796ea0494d43d27c9922cc7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
