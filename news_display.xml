@@ -4,11 +4,27 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 19:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 07:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성D, 17인치 슬라이더블 디스플레이 시제품 공개]]></title>
+            <title><![CDATA[NXP, 일렉트로비트와 전기차 배터리 관리용 SW 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220928150051</link>
+            <guid>https://zdnet.co.kr/view/?no=20220928150051</guid>
+            <pubDate>Wed, 28 Sep 2022 07:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 28일 차량 소프트웨어(SW) 기업 일렉트로비트와 손잡고 새로운 고전압 배터리 관리 시스템(HVBMS)용 소프트웨어를 개발한다고 밝혔다. 일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 "삼성전자·TSMC와 칩렛 생태계 표준화 추진"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220928045719</link>
+            <guid>https://zdnet.co.kr/view/?no=20220928045719</guid>
+            <pubDate>Wed, 28 Sep 2022 07:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 삼성전자·대만 TSMC 등 전 세계 주요 반도체 파운드리(위탁생산) 업체와 함께 칩렛(반도체 조각) 반도체 상호 연결 기술 표준화를 위한 UCIe(유니버설 칩렛 인터커넥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성디스플레이, 17인치 슬라이더블 디스플레이 깜짝 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20220928024446</link>
             <guid>https://zdnet.co.kr/view/?no=20220928024446</guid>
             <pubDate>Tue, 27 Sep 2022 19:19:11 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220921112707</guid>
             <pubDate>Wed, 21 Sep 2022 04:19:23 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이는 20일(현지시간) 독일 베를린에서 열린 세계 철도 기술 박람회 '이노트랜스 2022'에서 철도용 투명 유기발광다이오드(OLED)를 선보였다. LG디스플레이는 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에임퓨처 "가속기 하드웨어 NPU로 엣지컴퓨팅 지원"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220921103249</link>
-            <guid>https://zdnet.co.kr/view/?no=20220921103249</guid>
-            <pubDate>Wed, 21 Sep 2022 04:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[에임퓨처(대표: 김창수)가 지난 15일~17일 서울 코엑스에서 개최된 '대한민국 4차산업혁명 페스티벌'에 참가해 인공지능망 처리에 최적화된 가속기 하드웨어 NPU를 선보였다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기↔LG이노텍, 반도체패키징쇼서 FCBGA 격돌]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220920143049</link>
-            <guid>https://zdnet.co.kr/view/?no=20220920143049</guid>
-            <pubDate>Tue, 20 Sep 2022 06:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 부품 회사 삼성전기와 LG이노텍이 차세대 반도체 포장(패키지) 기술을 공개한다. 국제 인쇄회로기판(PCB)·반도체 패키징 산업 전시회(KPCA쇼)가 21일부터 23일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
