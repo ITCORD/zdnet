@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 23:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 07:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 정격전력 1W 션트 저항기 'LTR10L' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220930113512</link>
+            <guid>https://zdnet.co.kr/view/?no=20220930113512</guid>
+            <pubDate>Fri, 30 Sep 2022 07:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 30일 전류 검출용 칩 저항기(션트 저항기) 'LTR10L'을 개발했다고 밝혔다. 신제품은 1220 크기(1.25㎜×2.0㎜)로 정격전력 1W...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK실트론, 반도체 웨이퍼 증설에 2.3조 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20220929180955</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220923152939</guid>
             <pubDate>Fri, 23 Sep 2022 20:14:16 GMT</pubDate>
             <content:encoded><![CDATA[미국이 중국에 인공지능(AI)용 그래픽처리장치(GPU) 공급 금지에 이어 14나노미터(nm) 이하 장비 공급을 막는 법안을 추진하며 전세계 반도체 산업에 미치는 파장이 높아지고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 메르세데스-벤츠 차량에 스냅드래곤 기술 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220923103538</link>
-            <guid>https://zdnet.co.kr/view/?no=20220923103538</guid>
-            <pubDate>Fri, 23 Sep 2022 20:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴과 독일 메르세데스-벤츠는 23일(미국 현지시간) 앞으로 출시되는 메르세데스-벤츠 차량에 최신 디지털 기능을 탑재하기 위해 협업한다고 밝혔다. 메르세데스-벤츠는 스냅드래곤 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

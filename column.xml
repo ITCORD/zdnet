@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 23:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 07:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 경기 불황에 대응하기 위한 클라우드 환경]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220930120030</link>
+            <guid>https://zdnet.co.kr/view/?no=20220930120030</guid>
+            <pubDate>Fri, 30 Sep 2022 07:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 19 및 세계 정세 등의 다양한 이슈로 미래의 불확실성에 대응하기가 어려워 지고 있다. 경제 불황까지 겹치면서 기업의 사업을 영위하기 위한 인프라에 대한 투자는 더욱 신중할 수 밖에 없다. 시장의 요구는 수시로 바뀌고 있고, 변화에 민첩하게 대응하려면 클라우드 도입을 고려하게 될 것이다. 많은 기업들이 자사 인프라 환경을 클라우드로 전환하고 있는 것은 비즈니스의 변화 속도가 빨라진 상...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/30/6dd8e3bd237228eeb72e65a2cf772fe1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 양자 컴퓨팅의 현재와 과제]]></title>
             <link>https://zdnet.co.kr/view/?no=20220929181635</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Aug 2022 03:00:42 GMT</pubDate>
             <content:encoded><![CDATA[빅데이터 분석이나 AI 학습에 대한 연구는 10여년 이상 지속적으로 진행됐다. 이러한 연구는 디지털 데이터가 계속적으로 급증하면서 보다 빠른 처리를 요구하고 있으며 이에 따라 HPC(고성능 컴퓨팅) 역시 발전하고 있다.기업의 데이터는 비즈니스를 구성하는 중요한 자산이며 이를 얼마나 잘 분석하고 활용하느냐에 따라 기업 경쟁력이 좌우된다. 이는 이미 수 차례 강조되어 식상하게 느껴질 수 있다.과...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/08/11/b7549e44aca36aa4957e0d080d7ae272.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 불확실의 시기, 제조업은 데이터 활용해야 생존]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220811100230</link>
-            <guid>https://zdnet.co.kr/view/?no=20220811100230</guid>
-            <pubDate>Thu, 11 Aug 2022 03:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다도 신속하고 민첩하게 비즈니스 전략을 수립하고 수정해야만 했던 지난 2년. 기업들은 새로운 방식으로 고객들에게 서비스를 제공하고 비즈니스를 최적화해 나가기 시작했고, ‘기업 내 데이터가 얼마나 잘 공유돼 있는가’가 성과와 직결되며 데이터가 성장 동력으로써 더욱 중요해졌다.&nbsp;특히, 데이터를 분석해 운영 역량을 향상하는 일은 사업을 재정비하고 성공시키는데 빼놓을 수 없는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/11/a905b628aede9069dab1925ff57aa73e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
