@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 07:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 08:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사피온, NHN 데이터센터에 AI반도체 클라우드 인프라 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220930161107</link>
+            <guid>https://zdnet.co.kr/view/?no=20220930161107</guid>
+            <pubDate>Fri, 30 Sep 2022 08:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 반도체 기업 사피온은 30일 NHN의 데이터센터 'NCC(NHN Cloud Center)'에 AI 반도체 '사피온 X220' 기반 인프라를 구축했다고 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 정격전력 1W 션트 저항기 'LTR10L' 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20220930113512</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220926162320</guid>
             <pubDate>Tue, 27 Sep 2022 19:19:11 GMT</pubDate>
             <content:encoded><![CDATA[국내 양대 반도체 기업인 삼성전자와 SK하이닉스의 하반기 실적에 빨간불이 켜졌다. 메모리 반도체 가격이 3분기에 이어 4분기에도 하락할 것이란 전망이 이어지고, 매년 성장 중이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 메모리 수출 감소 불 보듯...'칩4 동맹'서 바로 잡아야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220923152939</link>
-            <guid>https://zdnet.co.kr/view/?no=20220923152939</guid>
-            <pubDate>Fri, 23 Sep 2022 20:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 중국에 인공지능(AI)용 그래픽처리장치(GPU) 공급 금지에 이어 14나노미터(nm) 이하 장비 공급을 막는 법안을 추진하며 전세계 반도체 산업에 미치는 파장이 높아지고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
