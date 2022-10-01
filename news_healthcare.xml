@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 21:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 07:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진자 2만6960명…사망 39명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221001101010</link>
+            <guid>https://zdnet.co.kr/view/?no=20221001101010</guid>
+            <pubDate>Sat, 01 Oct 2022 07:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진자가 감소세를 보이고 있다. 반면 사망자는 여전히 30~40명대를 유지하고 있다. 중앙방역대책본부에 따르면 10월1일 0시 기준으로 코로나19 신규 확진자는 국내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미래 감염병 대응, 더 빠르고 정확한 진단검사로]]></title>
             <link>https://zdnet.co.kr/view/?no=20220930105210</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220928104445</guid>
             <pubDate>Wed, 28 Sep 2022 07:33:53 GMT</pubDate>
             <content:encoded><![CDATA[정부가 코로나19 대응 의료기관에 대한 건강보험 한시 지원 기간을 연장한다. 코로나19 중앙재난안전대책본부에 따르면, 기간 연장은 겨울철 재유행을 대비한 조치다. 우선 환자가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 코로나19 지정병상 축소한다…신규확진 3만6159명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220928103030</link>
-            <guid>https://zdnet.co.kr/view/?no=20220928103030</guid>
-            <pubDate>Wed, 28 Sep 2022 07:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내 신규 확진자가 3만6천명 대를 기록한 가운데, 방역당국이 다음달까지 코로나19 지정병상을 축소한다. 중앙방역대책본부(방대본)에 따르면, 28일 0시 기준 국내 코로나19 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

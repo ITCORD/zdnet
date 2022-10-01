@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 21:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 07:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 자율주행 자회사 모빌아이 상장 단행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221001090103</link>
+            <guid>https://zdnet.co.kr/view/?no=20221001090103</guid>
+            <pubDate>Sat, 01 Oct 2022 07:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[인텔의 자율주행 전문 자회사 모빌아이가 결국 기업공개(IPO)를 단행한다. 모빌아이가 30일(현지시간) 미국 증권거래위원회(SEC)에 상장 신청을 했다고 블룸버그통신을 비롯한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[볼보 전동화 전환 징검다리…PHEV 'XC60·XC90·S90리차지']]></title>
             <link>https://zdnet.co.kr/view/?no=20220930152442</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220928092626</guid>
             <pubDate>Wed, 28 Sep 2022 07:33:43 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차는 자율주행·인공지능(AI) 기술을 결합한 로보셔틀을 29일부터 경기 판교 자율주행차 시범운행지구에서 시범운행한다고 밝혔다. 로보셔틀은 자율주행기술을 적용한 다인승 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 "레벨4 완전자율주행 2027년 상용화…안전체계도 강화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220927154700</link>
-            <guid>https://zdnet.co.kr/view/?no=20220927154700</guid>
-            <pubDate>Tue, 27 Sep 2022 19:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 2026년까지 레벨4 수준 완전자율주행 상용화 기반을 마련한다. 신산업으로 떠오르고 있는 친환경 모빌리티 안전체계도 확립하고, 애프터마켓 성장을 가로막는 각종 규제 역시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
