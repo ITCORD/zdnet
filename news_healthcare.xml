@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 04:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진 1만2150명...위중증 환자 361명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221003100924</link>
+            <guid>https://zdnet.co.kr/view/?no=20221003100924</guid>
+            <pubDate>Mon, 03 Oct 2022 05:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[3일 0시 기준 국내 코로나19 신규 확진자 수는 지역사회 1만2천18명, 해외유입 사례 132명 등 총 1만2천150명으로 집계됐다. 중앙방역대책본부(방대본)에 따르면, 신규...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주말 코로나19 신규확진 2만3597명...위중증 353명]]></title>
             <link>https://zdnet.co.kr/view/?no=20221002094920</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220928124822</guid>
             <pubDate>Wed, 28 Sep 2022 07:33:53 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 필수의료 강화 기조가 공공의료를 약화시키는 방향으로 추진될 수 있다는 주장이 국회에서 나왔다. 김민석 더불어민주당 의원에 따르면, 보건복지부는 대통령 업무보고 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[초고령화 목전인데 코로나19 된서리 맞은 치매안심병원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220928111702</link>
-            <guid>https://zdnet.co.kr/view/?no=20220928111702</guid>
-            <pubDate>Wed, 28 Sep 2022 07:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹의 여파로 치매안심병원 지정을 위한 시설•장비 기능보강 사업이 차질을 빚은 것으로 나타났다. 조명희 국민의힘 의원에 따르면, 최근 3년간 공립요양병원 기능보강사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

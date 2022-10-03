@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 04:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이직랜드 "세계 최고 반도체 디자인…한국 유일 TSMC 협력"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20220930151748</link>
+            <guid>https://zdnet.co.kr/view/?no=20220930151748</guid>
+            <pubDate>Mon, 03 Oct 2022 05:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[“판교보다 광교예요. 직원들이 출퇴근하기 좋은 곳을 찾아 이사만 몇 번 했는지 몰라요. 에이직랜드 재산은 직원이 전부니까요. 판교역에서는 산업단지가 멀더라고요. 요새 반도체 회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[손정의 회장 방한...이재용 만나 ARM 인수 담판 '주목']]></title>
             <link>https://zdnet.co.kr/view/?no=20221001213713</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220927162831</guid>
             <pubDate>Tue, 27 Sep 2022 19:19:11 GMT</pubDate>
             <content:encoded><![CDATA[신성이엔지가 베트남 LG디스플레이 공장에 클린룸을 공급한다. 클린룸이란 반도체·디스플레이 등을 만드는 공간이다. 먼지 한 톨 없을 정도로 깨끗하다는 뜻으로 클린룸이라 불린다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 소비전력 적은 AI 학습 시스템온칩 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220927151137</link>
-            <guid>https://zdnet.co.kr/view/?no=20220927151137</guid>
-            <pubDate>Tue, 27 Sep 2022 19:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 소비전력이 적은 인공지능(AI) 학습 시스템온칩(SoC)을 개발했다고 27일 밝혔다. 로옴은 AI 액셀레이터와 중앙처리장치(CPU)를 조합한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
