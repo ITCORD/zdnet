@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 07:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 20:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러스트, C언어와 연계성 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221004173600</link>
+            <guid>https://zdnet.co.kr/view/?no=20221004173600</guid>
+            <pubDate>Tue, 04 Oct 2022 20:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[프로그래밍 언어 러스트가 C언어와의 연계성을 강화하며, 주력언어로의 진입을 본격화하는 모양새다. 최근 러스트 개발팀은 러스트 1.64.0 버전을 공개했다고 공식 홈페이지를 통해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["클라우드 보안 인증 완화, 진흥 부처가 업계 앞길 막는 꼴"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221004162003</link>
+            <guid>https://zdnet.co.kr/view/?no=20221004162003</guid>
+            <pubDate>Tue, 04 Oct 2022 20:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 국내 업계 반발에도 클라우드보안인증(CSAP) 등급 세분화를 추진 중인 것에 대해, 무리한 행정이라는 지적이 국정감사장에서 제기됐다. CSAP는 클라우드 사업자들이 공공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에이아이트릭스, KHF 2022서 바이탈케어 선보여]]></title>
             <link>https://zdnet.co.kr/view/?no=20221004160025</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20221001153909</guid>
             <pubDate>Sat, 01 Oct 2022 07:25:14 GMT</pubDate>
             <content:encoded><![CDATA[휴먼아이티솔루션(대표 최봉두)은 2022년 3분기 해외조달시장 진출 유망기업(G-PASS기업)에 지정되었다고 1일 밝혔다. 'G-PASS기업'은 해외조달시장에 제품을 소개할 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진앤현웰파, 기억학교협회와 스마트치매시설 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221001153134</link>
-            <guid>https://zdnet.co.kr/view/?no=20221001153134</guid>
-            <pubDate>Sat, 01 Oct 2022 07:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[진앤현웰파(대표 김병익)가 기억학교협회와 인공지능 기반의 스마트치매시설 구축 및 운영을 위한 업무 협약을 체결했다고 1일 밝혔다. 협약식에는 김병익 진앤현웰파 이사장, 이은주 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 루나 거래 수수료 66억 전액 투자자 보호 활용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220930144430</link>
-            <guid>https://zdnet.co.kr/view/?no=20220930144430</guid>
-            <pubDate>Fri, 30 Sep 2022 07:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[두나무가 루나클래식(LUNC)의 수수료 수익 약 66억 원(29일 시세 기준)을 투자자 보호에 활용한다고 30일 밝혔다. 두나무는 지난 5월 루나·테라 폭락 사태로 많은 투자자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
