@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 20:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 23:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 러시아서 연말까지 완전 철수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221005032808</link>
+            <guid>https://zdnet.co.kr/view/?no=20221005032808</guid>
+            <pubDate>Tue, 04 Oct 2022 23:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 러시아 시장에서 올 연말까지 완전 철수하기로 했다. 포브스와 월스트리트저널(WSJ), 러시아 RT 등 주요 외신들은 5일 이같이 보도했다. 엔비디아는 우크라이나 침공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[양향자 의원 "정부 반도체 예산 8천억 겹쳐…필요한 곳엔 無"]]></title>
             <link>https://zdnet.co.kr/view/?no=20221004172603</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20220928045719</guid>
             <pubDate>Wed, 28 Sep 2022 07:33:34 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 삼성전자·대만 TSMC 등 전 세계 주요 반도체 파운드리(위탁생산) 업체와 함께 칩렛(반도체 조각) 반도체 상호 연결 기술 표준화를 위한 UCIe(유니버설 칩렛 인터커넥...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 17인치 슬라이더블 디스플레이 깜짝 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220928024446</link>
-            <guid>https://zdnet.co.kr/view/?no=20220928024446</guid>
-            <pubDate>Tue, 27 Sep 2022 19:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 27일 오전 9시(미국 현지시간, 한국시간 28일 1시)부터 진행된 기술 행사 '인텔 이노베이션' 기조연설을 통해 17인치 슬라이더블 PC용 디스플레이를 처음 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
