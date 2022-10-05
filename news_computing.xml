@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 09:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 16:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美백악관, AI 권리장전 발표…편견·유출 없어야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221005172248</link>
+            <guid>https://zdnet.co.kr/view/?no=20221005172248</guid>
+            <pubDate>Wed, 05 Oct 2022 16:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[미국 백악관이 인공지능(AI)의 부작용을 방지하기 위한 권고안 지침을 제시했다. 4일(현지시간) 미국 지디넷에 따르면 백악관 과학기술 정책실은 자동화 시스템의 설계, 사용 및 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[피스트트러스트, 블록체인 '국제 결제' 서비스 개발 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20221004172747</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20221004173600</guid>
             <pubDate>Tue, 04 Oct 2022 20:21:39 GMT</pubDate>
             <content:encoded><![CDATA[프로그래밍 언어 러스트가 C언어와의 연계성을 강화하며, 주력언어로의 진입을 본격화하는 모양새다. 최근 러스트 개발팀은 러스트 1.64.0 버전을 공개했다고 공식 홈페이지를 통해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["클라우드 보안 인증 완화, 진흥 부처가 업계 앞길 막는 꼴"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221004162003</link>
-            <guid>https://zdnet.co.kr/view/?no=20221004162003</guid>
-            <pubDate>Tue, 04 Oct 2022 20:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 국내 업계 반발에도 클라우드보안인증(CSAP) 등급 세분화를 추진 중인 것에 대해, 무리한 행정이라는 지적이 국정감사장에서 제기됐다. CSAP는 클라우드 사업자들이 공공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
