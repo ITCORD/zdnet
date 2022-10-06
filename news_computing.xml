@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 19:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 23:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하시코프 CEO "클라우드의 여정은 특정 패턴을 보인다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221007024510</link>
+            <guid>https://zdnet.co.kr/view/?no=20221007024510</guid>
+            <pubDate>Thu, 06 Oct 2022 23:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[로스앤젤레스(미국)=김우용 기자] “세계 여러 기업의 클라우드 채택 여정을 보면 과거 온프레미스 상황과 동일한 패턴을 볼 수 있다. 하시코프의 제품은 플랫폼팀이 직면하게 되는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['코드형 인프라' 선구자 하시코프, 노코드를 외치다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221007040244</link>
+            <guid>https://zdnet.co.kr/view/?no=20221007040244</guid>
+            <pubDate>Thu, 06 Oct 2022 23:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[[로스앤젤레스(미국)=김우용 기자] 코드형 인프라(Infra as Code, IAC)란 개념을 앞세워 IT인프라 관리의 패러다임을 바꿨던 하시코프가 '노코드' 트렌드에 올라탔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위 떠나는 윤종인 위원장 "데이터 안전한 활용 지원 노력해달라"]]></title>
             <link>https://zdnet.co.kr/view/?no=20221006205414</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20221006114225</guid>
             <pubDate>Thu, 06 Oct 2022 05:35:15 GMT</pubDate>
             <content:encoded><![CDATA[티맥스티베로(대표 이상철)는 '티베로7 DBMS 기술 웨비나' 참석자를 대상으로 시행한 설문조사 결과 현업 데이터베이스 관리자는 온프레미스 환경보다는 클라우드 환경을, 오픈소스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK(주) C&C, SBTi 가입하며 탄소 중립 가속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221006113832</link>
-            <guid>https://zdnet.co.kr/view/?no=20221006113832</guid>
-            <pubDate>Thu, 06 Oct 2022 05:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 박성하)는 과학 기반 온실가스 감축 목표 이니셔티브(SBTi)에 가입했다고 6일 밝혔다. SBTi는 파리기후협약 이행을 위해 기업 탄소배출 감축 목표 설정을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트, 디비아이엔씨와 엑스퍼DB 공급 협약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221006113114</link>
-            <guid>https://zdnet.co.kr/view/?no=20221006113114</guid>
-            <pubDate>Thu, 06 Oct 2022 05:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[인젠트(대표 남석우)가 디비아이엔씨(DB Inc)와 엑스퍼DB(eXperDB) 공급 확대를 위한 업무 협약을 체결했다고 6일 밝혔다. 이번 협약의 핵심 제품인 인젠트 eXper...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
