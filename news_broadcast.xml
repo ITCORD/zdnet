@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 06:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 08:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[망 무임승차 방지법, 어떤 주장이 왜곡됐나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221013163721</link>
+            <guid>https://zdnet.co.kr/view/?no=20221013163721</guid>
+            <pubDate>Thu, 13 Oct 2022 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[국내 통신사들이 망 무임승차 방지법을 두고 가짜뉴스 유포가 심각하다며 반박에 나서기 시작했다. 인터넷 서비스 회사들이 전용회선 계약을 맺고 협상에 따라 관련 대가를 지불하는 반...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["계약서 보냈다" vs "서명 안 했다"…SKB-넷플릭스 소송 공회전]]></title>
             <link>https://zdnet.co.kr/view/?no=20221013120517</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20221012103905</guid>
             <pubDate>Wed, 12 Oct 2022 05:45:19 GMT</pubDate>
             <content:encoded><![CDATA[세계 각국에서 구글과 넷플릭스와 같은 글로벌 빅테크 기업의 네트워크 무임승차 논란이 커지는 가운데 국내에서는 이 문제를 개선하려는 노력이 단순한 일방 논리의 여론전으로 변질됐다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT 팀스튜디오, 버추얼 프로덕션과 협력해 미디어 생태계 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221012083414</link>
-            <guid>https://zdnet.co.kr/view/?no=20221012083414</guid>
-            <pubDate>Wed, 12 Oct 2022 05:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 LED월 기반 미디어 콘텐츠 제작소 '팀스튜디오'가 국내 주요 버추얼 프로덕션 업체들과 컨소시엄을 이뤄 미디어 생태계 확장에 나선다고 12일 밝혔다. 지난 6월 개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

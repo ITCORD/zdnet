@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 06:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 08:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이 "2050년 탄소중립 달성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221013153421</link>
+            <guid>https://zdnet.co.kr/view/?no=20221013153421</guid>
+            <pubDate>Thu, 13 Oct 2022 08:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이가 2050년 탄소중립을 달성하겠다고 13일 밝혔다. 이산화탄소를 배출한 만큼 이산화탄소를 흡수하는 대책을 세워 실질적인 이산화탄소 배출량을 제로(0)로 만든다는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IPO 앞둔 저스템 "웨이퍼 습도 제어…이차전지로 사업 확장"]]></title>
             <link>https://zdnet.co.kr/view/?no=20221013144332</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20221005083946</guid>
             <pubDate>Wed, 05 Oct 2022 09:20:21 GMT</pubDate>
             <content:encoded><![CDATA[TSMC의 칩 가격 인상 요구를 거부했던 애플이 마침내 수용하기로 했다고 대만 이코노믹 데일리뉴스가 4일 보도했다. 보도에 따르면, TSMC는 8인치 칩 웨이퍼 가격을 최대 6...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 러시아서 연말까지 완전 철수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221005032808</link>
-            <guid>https://zdnet.co.kr/view/?no=20221005032808</guid>
-            <pubDate>Tue, 04 Oct 2022 23:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 러시아 시장에서 올 연말까지 완전 철수하기로 했다. 포브스와 월스트리트저널(WSJ), 러시아 RT 등 주요 외신들은 5일 이같이 보도했다. 엔비디아는 우크라이나 침공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
