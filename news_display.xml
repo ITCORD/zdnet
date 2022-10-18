@@ -4,11 +4,27 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 04:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 08:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자, LPDDR5X D램 업계 최고 동작 속도 8.5Gbps 구현]]></title>
+            <title><![CDATA[메모리→시스템, 국산화→세계 리딩…소부장 전략기술 150개로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221018151239</link>
+            <guid>https://zdnet.co.kr/view/?no=20221018151239</guid>
+            <pubDate>Tue, 18 Oct 2022 08:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 메모리 반도체에 편중된 국내 반도체 생태계를 비메모리(시스템) 반도체와 후공정까지 확대해 산업 생태계를 키우기로 했다. 일본에 기댄 소재·부품·장비를 국산화하는 데에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[반도체 장비부터 애플까지 '탈(脫) 중국' 가속화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20221018151219</link>
+            <guid>https://zdnet.co.kr/view/?no=20221018151219</guid>
+            <pubDate>Tue, 18 Oct 2022 08:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[미·중 패권 전쟁이 심화되면서 글로벌 반도체 장비와 IT 디바이스 위탁 생산 중심으로 탈 중국화가 가속화되고 있다. 중국에 대한 미국의 반도체 기술 수출 규제로 글로벌 반도체 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 차세대 D램 업계 최고 동작 속도 8.5Gbps 구현]]></title>
             <link>https://zdnet.co.kr/view/?no=20221018100629</link>
             <guid>https://zdnet.co.kr/view/?no=20221018100629</guid>
             <pubDate>Tue, 18 Oct 2022 04:18:12 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20221007142428</guid>
             <pubDate>Fri, 07 Oct 2022 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(ST)가 이탈리아 정부로부터 자금을 지원 받아 통합 실리콘 카바이드(SiC) 기판 제조시설을 건설한다. 5일(현지시간) EU 집행위원회는 ST마이크로가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 헝가리 신규 공장 '전기차 고전력 반도체 모듈' 생산 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221007132814</link>
-            <guid>https://zdnet.co.kr/view/?no=20221007132814</guid>
-            <pubDate>Fri, 07 Oct 2022 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[독일 반도체 기업 인피니언테크놀로지스가 헝가리 체글레드에 위치한 신규 공장이 가동을 시작했다고 7일 밝혔다. 신규 공장은 전기차용 고전력 반도체 모듈의 어셈블리와 테스트를 주력...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 "2030년 1000단 V낸드 선보인다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221006163947</link>
-            <guid>https://zdnet.co.kr/view/?no=20221006163947</guid>
-            <pubDate>Thu, 06 Oct 2022 09:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[“2030년까지 1천단 V낸드플래시를 선보이겠다. 내년에는 5세대 10나노급(1b) D램을 내놓겠다. 2025년 차량용 메모리 반도체 시장 1위가 목표다.” 삼성전자는 5일(현...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
