@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 08:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 16:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[훨훨 나는 대만 반도체...제자리 맴도는 한국]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230118145115</link>
+            <guid>https://zdnet.co.kr/view/?no=20230118145115</guid>
+            <pubDate>Thu, 26 Jan 2023 16:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 대만 작년 반도체 수출액 18% 증가...한국은 고작 1%에 그쳐]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/18/8b8636824862c55a7d524803c1760c7f-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이창용 "연내 금리 인하 가능성, 현재로선 의미없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230113114323</link>
@@ -269,22 +277,6 @@
             <pubDate>Wed, 14 Sep 2022 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 국가데이터정책위원회 닻 올랐다]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2021/12/29/5d50b52d2c90ec54ea019f58fbc49af9-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년요금제는 일반요금제보다 저렴하다?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220913161049</link>
-            <guid>https://zdnet.co.kr/view/?no=20220913161049</guid>
-            <pubDate>Tue, 13 Sep 2022 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 5G 중간요금제 이어 '특화요금제'도 손질 요구 많아]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/13/4983e4450217fbe7640d4b52e29066b9-300x300.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5G 중간요금제 추가 경쟁 불 붙을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220823163117</link>
-            <guid>https://zdnet.co.kr/view/?no=20220823163117</guid>
-            <pubDate>Tue, 23 Aug 2022 08:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 5G 중간요금제 출시 일단락]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/01/31/9f25f693e3d04a16b625573370812990-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
