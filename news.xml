@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 16:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RNA로 유전자 조절해 질병 치료····"단백질 엔지니어링 시대 온다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230222183611</link>
+            <guid>https://zdnet.co.kr/view/?no=20230222183611</guid>
+            <pubDate>Wed, 22 Feb 2023 16:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[유전자 발현 조절 등 생명 현상의 핵심 요소 중 하나인 RNA 작동 원리의 비밀이 또 한겹 풀렸다. 암이나 유전병, 감염병에 대한 RNA 기반 치료법 개발에 기여할 전망이다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/22/7c52587cb16555ad8af31725c4e12eec-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤미옥 13대 여성벤처협회장 "여성벤처플랫폼지원센터 구축"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230222231056</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230222200240</guid>
             <pubDate>Wed, 22 Feb 2023 11:09:38 GMT</pubDate>
             <content:encoded><![CDATA[푸드테크 기업 식신(대표 안병익)이 2023년 올해의 별맛집(스타 레스토랑) 리스트를 22일 발표했다. 식신은 2013년부터 사용자 추천과 리뷰를 중심으로 한 맛집 정보 서비스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/22/50407a26e212aa8492c29c045351fd40-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔씨소프트-아마존게임즈, TL 글로벌 서비스 맞손]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230222165118</guid>
             <pubDate>Wed, 22 Feb 2023 08:14:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 22일 한국전력·한국수력원자력·발전5사·가스공사·석유공사 등 에너지 공기업 14개사와 '에너지 공기업 경영혁신 점검회의'를 개최했다고 밝혔다. 이번 회의는 에너...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['이더리움' 스테이킹 출금 코앞...시세 영향 주목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222165254</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222165254</guid>
-            <pubDate>Wed, 22 Feb 2023 08:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[이더리움 블록체인이 스테이킹된 수량을 출금할 수 있게 지원하는 '상하이 업그레이드'를 내달 실시할 것으로 점쳐지면서 이더리움 시세에 어떤 영향을 미칠지 주목된다. 이더리움은 컴...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
