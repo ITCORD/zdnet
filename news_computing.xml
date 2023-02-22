@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이더리움' 스테이킹 출금 코앞...시세 영향 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230222165254</link>
+            <guid>https://zdnet.co.kr/view/?no=20230222165254</guid>
+            <pubDate>Wed, 22 Feb 2023 08:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[이더리움 블록체인이 스테이킹된 수량을 출금할 수 있게 지원하는 '상하이 업그레이드'를 내달 실시할 것으로 점쳐지면서 이더리움 시세에 어떤 영향을 미칠지 주목된다. 이더리움은 컴...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["데이터 관리·해킹 막아"...생성 AI, '사이버 보안관' 되다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230222151352</link>
+            <guid>https://zdnet.co.kr/view/?no=20230222151352</guid>
+            <pubDate>Wed, 22 Feb 2023 08:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[데이터를 자동 분석해 사이버 위협을 감지하고, 해커 공격 대처법을 직접 제시하는 생성 인공지능(AI)이 등장했다. 블랙버드AI는 생성 AI로 디지털 공격을 막는 솔루션 'RAV...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KOSA, 조준희 회장 재선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230222155813</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230222072750</guid>
             <pubDate>Wed, 22 Feb 2023 02:19:58 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)가 허깅페이스와 파트너십을 체결하며 인공지능(AI) 기술 경쟁에 뛰어들었다. 21일(현지시각) 실리콘앵글 등 외신에 따르면 AWS는 AI스타트업 허깅페이스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, '빙 챗봇' 문답 제한 늘렸다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222073347</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222073347</guid>
-            <pubDate>Wed, 22 Feb 2023 02:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 검색엔진 '빙'에 탑재한 인공지능(AI) 챗봇 문답 제한을 주제당 5회에서 6회로 늘렸다고 밝혔다. 빙 챗봇 사용자는 대화 주제당 문답을 6회까지 할 수 있다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["친구 돼 있어 톡드려요" 카톡 메시지로 악성앱 보내 연락처 탈취]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230221190750</link>
-            <guid>https://zdnet.co.kr/view/?no=20230221190750</guid>
-            <pubDate>Tue, 21 Feb 2023 20:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[최근 카카오톡으로 악성 앱이 유포되고 있어 사용자들의 각별한 주의가 요구된다. 이스트시큐리티 시큐리티대응센터(ESRC)는 21일 자사 블로그를 통해 카카오톡으로 악성 앱이 유포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

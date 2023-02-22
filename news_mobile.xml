@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지타임스 "대만 ODM 제조사, 크롬북 시장 회복 전망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230222161402</link>
+            <guid>https://zdnet.co.kr/view/?no=20230222161402</guid>
+            <pubDate>Wed, 22 Feb 2023 08:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 2분기 이후 지속적으로 출하량이 줄던 크롬북 시장이 올해부터 소폭 회복세로 돌아설 것으로 보인다. 주요 PC 제조사들은 공급망과 물류 문제 등을 겪으며 보급형 제품 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[써보니] 6.5km 밖 남산타워도 눈앞에...갤S23 울트라 vs 아이폰14 프로맥스 비교]]></title>
             <link>https://zdnet.co.kr/view/?no=20230221181356</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230220105504</guid>
             <pubDate>Tue, 21 Feb 2023 20:13:38 GMT</pubDate>
             <content:encoded><![CDATA[애플이 오는 6월 출시할 아이폰 운영체제 iOS 17 개발자 베타 버전을 무료로 설치하지 못하도록 막을 것이라는 전망이 나왔다. 20일(현지시간) 맥루머스는 iOS 16.4 베...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 작년 올레드 TV 출하량 382만대...10년 연속 1위]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230221080953</link>
-            <guid>https://zdnet.co.kr/view/?no=20230221080953</guid>
-            <pubDate>Tue, 21 Feb 2023 20:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 지난해 올레드(OLED) TV 시장 출하량에서 10년 연속 1위를 기록했다. 전세계 TV 시장 출하량에서는 삼성전자에 이어 2위다. 21일 시장조사업체 옴디아에 따르...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
