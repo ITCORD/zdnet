@@ -4,11 +4,35 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 00:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 02:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인텔, 시설투자 압박에 배당금 3분의 1 삭감..."1주당 年 50센트"]]></title>
+            <title><![CDATA[삼성·SK-정부, 반도체 전문가 양성에 2228억 투입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230223102542</link>
+            <guid>https://zdnet.co.kr/view/?no=20230223102542</guid>
+            <pubDate>Thu, 23 Feb 2023 02:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자와 SK하이닉스가 산업계를 대표해 반도체 전문가를 양성하는 데 정부와 2천228억원을 함께 투자하기로 했다. 산업통상자원부는 23일 서울 강남구 보코호텔에서 삼성전자·S...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 5G 기반 '위성통신용 모뎀' 국제표준기술 확보]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230223084204</link>
+            <guid>https://zdnet.co.kr/view/?no=20230223084204</guid>
+            <pubDate>Thu, 23 Feb 2023 02:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 5G 이동통신으로 모바일 기기와 인공위성을 연결하는 '비지상 네트워크(NTN, Non-Terrestrial Networks)' 표준기술을 확보했다. 삼성전자는 이동통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴, IoT 기술 지원 위한 '어웨어 플랫폼' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230223103001</link>
+            <guid>https://zdnet.co.kr/view/?no=20230223103001</guid>
+            <pubDate>Thu, 23 Feb 2023 02:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 IoT(사물인터넷) 기술 구현의 복잡성을 덜어줄 '어웨어 플랫폼'을 공개했다. 퀄컴 어웨어 플랫폼은 최근 공개된 퀄컴 216 IoT LTE 모뎀 등 칩셋과 지능형 위치 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 시설투자 압박에 배당금 3분의 2 삭감..."1주당 年 50센트"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230223063448</link>
             <guid>https://zdnet.co.kr/view/?no=20230223063448</guid>
             <pubDate>Thu, 23 Feb 2023 00:51:19 GMT</pubDate>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230219093738</guid>
             <pubDate>Tue, 21 Feb 2023 20:14:58 GMT</pubDate>
             <content:encoded><![CDATA[SKC의 이차전지용 동박사업 투자사 SK넥실리스가 스웨덴 이차전지 제조사 노스볼트에 동박을 장기 공급하기로 했다. SK넥실리스는 17일(현지시간) 스웨덴 스톡홀름 노스볼트 본사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 獨 드레스덴에 반도체 공장 건설]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230217165635</link>
-            <guid>https://zdnet.co.kr/view/?no=20230217165635</guid>
-            <pubDate>Tue, 21 Feb 2023 20:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[독일 반도체 회사 인피니언테크놀로지스는 17일 독일 드레스덴에 반도체 공장을 새로 짓겠다고 밝혔다. 아날로그·혼합신호 부품과 전력 반도체를 이곳에서 만들기로 했다. 아날로그·혼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성, 반도체 패키지 TSMC보다 10년 늦어"...생태계 강화 시급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230217171337</link>
-            <guid>https://zdnet.co.kr/view/?no=20230217171337</guid>
-            <pubDate>Tue, 21 Feb 2023 20:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[첨단 반도체 패키지 생태계를 구축하고 발전 방안을 논의하기 위해 국내 산·학·연 전문가들이 뭉쳤다. 대만, 미국, 일본과 파운드리 경쟁에서 첨단 반도체 패키지 기술 확보가 시급...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체특별법 2월에도 물 건너갈 듯]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230217161926</link>
-            <guid>https://zdnet.co.kr/view/?no=20230217161926</guid>
-            <pubDate>Tue, 21 Feb 2023 20:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[반도체·디스플레이 등 국가첨단전략산업 시설에 대기업이 투자하면 세액공제율을 8%에서 15%로 높이는 조세특례제한법(조특법) 개정이 이달에도 어려울 것으로 보인다. 17일 국회에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
