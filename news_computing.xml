@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 10:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사이버보안 스케일업 위해선 시큐리티 펀드 필요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230223174706</link>
+            <guid>https://zdnet.co.kr/view/?no=20230223174706</guid>
+            <pubDate>Thu, 23 Feb 2023 10:11:44 GMT</pubDate>
+            <content:encoded><![CDATA["정보보호 기업들의 실적이나 매출은 좋아지고 있으나 현장에서는 아쉬운 목소리가 많이 나옵니다. 기존의 패러다임을 스케일업할 수 있는 전략이 필요합니다. 스케일업을 위해서 제일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GS ITM, SW기업 경쟁력대상 클라우드 부문 최우수상 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230223175838</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230223101225</guid>
             <pubDate>Thu, 23 Feb 2023 02:17:26 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터프라이즈가 국산 AI 반도체 기업과 국내 앱 개발사와 함께 한국 클라우드 기술 경쟁력 확보에 앞장선다. 카카오엔터프라이즈는 국내 AI 반도체 기업 '퓨리오사AI'와 협...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[맥스트, MWC 2023에서 메타버스 개발 플랫폼 시연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230223101405</link>
-            <guid>https://zdnet.co.kr/view/?no=20230223101405</guid>
-            <pubDate>Thu, 23 Feb 2023 02:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[맥스트는 스페인 바르셀로나에서 27일부터 3월2일까지 열리는 'MWC 2023'에 참가해 메타버스 서비스 개발 플랫폼을 선보인다고 23일 밝혔다. 맥스트는 메타버스 서비스 개발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
