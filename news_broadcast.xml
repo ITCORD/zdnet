@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 14:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 15:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK스퀘어, 작년 별도 영업익 5163억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224000013</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224000013</guid>
+            <pubDate>Thu, 23 Feb 2023 15:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[SK스퀘어는 지난해 연결재무제표 기준 매출 4조5천107억원, 영업이익 1천628억원, 순이익 2천561억원을 기록했다고 23일 밝혔다. 연결 실적에는 SK하이닉스를 포함한 포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["KT 내부 vs 사외 후보"...CEO 경선에 쏠린 눈]]></title>
             <link>https://zdnet.co.kr/view/?no=20230223174038</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230222143635</guid>
             <pubDate>Wed, 22 Feb 2023 07:10:39 GMT</pubDate>
             <content:encoded><![CDATA[토스의 통신 자회사 토스모바일은 알뜰폰 통신 요금제 가입을 전국 단위로 시작한다고 22일 밝혔다. 토스모바일은 지난달 30일부터 사전 신청자를 대상으로 모바일 가입을 진행해왔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이블TV방송협회, '방만 행정 고발' 보도 등  우수프로그램 8개 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222141238</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222141238</guid>
-            <pubDate>Wed, 22 Feb 2023 06:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[한국케이블TV방송협회는 지자체 방만 행정을 고발한 SK브로드밴드 수원방송 보도 등 8개 콘텐츠를 우수 프로그램으로 선정했다. 한국케이블TV방송협회는 '제 56회 지역채널 우수프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
