@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 07:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 08:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자율주행 배달 로봇, 보도 통행 가능...업계는 '갈길 멀다' 예의주시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230223165039</link>
+            <guid>https://zdnet.co.kr/view/?no=20230223165039</guid>
+            <pubDate>Thu, 23 Feb 2023 08:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[자율주행로봇이 합법적으로 보도를 통행하게 하는 법안이 국회 소위를 통과했다. 지금까지는 관련 법안이 마련되지 않아 현장 요원이 동행해야 하는 등 제약이 있었다. 조만간 세부 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠쿠 "작년 무선청소기 판매량 전년比 두배 이상 증가"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230223133602</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230221181356</guid>
             <pubDate>Wed, 22 Feb 2023 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 갤럭시S23 시리즈를 공개한 후 울트라 모델의 역대급 카메라 기능에 호평이 쏟아지고 있다. 그래서 삼성전자의 강력한 경쟁사인 애플의 아이폰 최신 모델인 아이폰14 프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[독거노인 말벗 '돌봄로봇' 고령사회 해결사 될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230221171608</link>
-            <guid>https://zdnet.co.kr/view/?no=20230221171608</guid>
-            <pubDate>Wed, 22 Feb 2023 02:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능을 활용한 돌봄로봇이 복지 현장에서 부족한 인력 문제를 해결할 대안으로 떠오른다. 정부가 지난달 인공지능 일상화 추진 계획을 밝힌 이후, 각 지자체와 로봇 업체들이 맞춤...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
