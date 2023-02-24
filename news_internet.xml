@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 07:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 08:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 일부 국가 구독료 '최대 반값'...한국은 제외]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224164738</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224164738</guid>
+            <pubDate>Fri, 24 Feb 2023 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 유럽·중동·아프리카·중남미 등 일부 저소득 국가에서 구독 요금제 가격을 최대 반값으로 낮췄다. 상대적으로 선진국인 한국은 빠졌다. 24일 블룸버그·로이터 등 외신에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[지디 코믹스] 로톡이 사라져야 하는 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224154741</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230222163713</guid>
             <pubDate>Wed, 22 Feb 2023 08:15:06 GMT</pubDate>
             <content:encoded><![CDATA[종합 콘텐츠 스튜디오 플레이리스트(대표 박태원)가 일본의 주요 스트리밍 서비스 '훌루'의 오리지널 드라마인 '플레이, 플리'를 올해 제작하기로 결정했다고 22일 밝혔다. 훌루를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰, APEC 회원국 대상 저작권 보호 활동 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222151840</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222151840</guid>
-            <pubDate>Wed, 22 Feb 2023 08:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰이 글로벌 저작권 정책 담당자 대상으로 웹툰, 웹소설저작권 보호 중요성을 알렸다.네이버웹툰은 미국 캘리포니아 팜스프링에서 열린 아시아태평양경제협력체(APEC) 지식재산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
