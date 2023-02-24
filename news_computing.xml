@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보보호법학회 회장에 김현경 서울과학기술대 교수 선임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224110505</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224110505</guid>
+            <pubDate>Fri, 24 Feb 2023 09:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호법학회는 24일 총회를 개최하고, 김현경 서울과학기술대 IT정책전문대학원 교수를 회장으로 선출했다. 임기는 2023년 4월부터 2년이다. 김현경 신임 회장은 개인정보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이글루코퍼레이션, 연매출 1천억원 첫 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224155701</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224070749</guid>
             <pubDate>Fri, 24 Feb 2023 00:53:35 GMT</pubDate>
             <content:encoded><![CDATA[애플리케이션 개발 플랫폼 닷넷8(.NET 8.0)의 첫 번째 미리보기 버전이 공개됐다. 크로스플랫폼 개발 지원을 위해 ARM64와 리눅스 지원을 확대했다. 최근 마이크로소프트는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["사이버보안 스케일업 위해선 시큐리티 펀드 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230223174706</link>
-            <guid>https://zdnet.co.kr/view/?no=20230223174706</guid>
-            <pubDate>Thu, 23 Feb 2023 10:11:44 GMT</pubDate>
-            <content:encoded><![CDATA["정보보호 기업들의 실적이나 매출은 좋아지고 있으나 현장에서는 아쉬운 목소리가 많이 나옵니다. 기존의 패러다임을 스케일업할 수 있는 전략이 필요합니다. 스케일업을 위해서 제일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
