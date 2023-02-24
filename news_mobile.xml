@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 04:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 아이폰14 원가 3.7% 올라도 출고가 동결…한국은 인상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224111732</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224111732</guid>
+            <pubDate>Fri, 24 Feb 2023 04:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 아이폰 시리즈 중 최상위 모델인 아이폰14 프로맥스가 전작 보다 부품원가(BoM)가 3.7% 오른 것으로 나타났다. 애플은 부품원가 인상에도 아이폰14 프로맥스 판매 가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HP 오멘, 프로게임단 T1과 브랜드 캠페인 전개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224103841</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230222153148</guid>
             <pubDate>Thu, 23 Feb 2023 02:17:33 GMT</pubDate>
             <content:encoded><![CDATA[애플이 서울에 새로운 애플스토어 개점을 준비 중이란 관측이 제기되자 일부 애플 이용자들 사이에서 서울에만 애플스토어가 몰리는 것을 두고 불만의 목소리가 커지고 있다. 23일 업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 제주 빈 집 가전체험공간 '어나더 하우스' 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230223080002</link>
-            <guid>https://zdnet.co.kr/view/?no=20230223080002</guid>
-            <pubDate>Thu, 23 Feb 2023 02:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 3월 4일부터 제주 각지의 빈 집을 리모델링한 스테이(stay, 숙소)에 LG 생활가전을 체험할 수 있는 '어나더 하우스'를 선보인다. LG전자는 이번 이벤트를 위해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

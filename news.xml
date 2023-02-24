@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 04:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[가비아 그룹웨어 '하이웍스', 디도스 공격으로 서비스 지연]]></title>
+            <title><![CDATA[애플, 아이폰14 원가 3.7% 올라도 출고가 동결…한국은 인상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224111732</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224111732</guid>
+            <pubDate>Fri, 24 Feb 2023 04:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 아이폰 시리즈 중 최상위 모델인 아이폰14 프로맥스가 전작 보다 부품원가(BoM)가 3.7% 오른 것으로 나타났다. 애플은 부품원가 인상에도 아이폰14 프로맥스 판매 가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/09/13/1912c8b0eb82fa011a17961682ad5954-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DB손보, 보험금 청구 키오스크 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224105555</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224105555</guid>
+            <pubDate>Fri, 24 Feb 2023 04:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[DB손해보험은 보험금 청구 전용 키오스크를 개발해 강남고객센터에 서비스를 시작했다고 24일 밝혔다. 기존의 실손보험 청구 간소화 서비스는 대형 병원의 원내 키오스크나, 서비스 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/24/e9f5c38a6fda63e48b55f5744fd71f04-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[수입식품, 요리·육아 전문 블로거가 통관검사 현장서 확인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224122019</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224122019</guid>
+            <pubDate>Fri, 24 Feb 2023 04:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[식품의약품안전처는 수입식품 안전관리 정책과 집행 현황에 대해 소비자들의 이해를 돕기 위해 요리·육아 관련 '유명 블로거'를 대상으로 2월 23일 통관검사 전 과정을 참관하는 행...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[도메인 1위 업체 가비아, 디도스 공격으로 도메인·하이웍스 서비스 지연]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224115044</link>
             <guid>https://zdnet.co.kr/view/?no=20230224115044</guid>
             <pubDate>Fri, 24 Feb 2023 03:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[가비아 그룹웨어 '하이웍스'가 디도스 공격으로 인해 서비스가 지연되고 있다. 가비아 하이웍스는 24일 공지사항을 통해 "디도스 공격으로 인해 하이웍스 오피스 이용 시 지연이 발...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/24/e949fa23b3af8507dd1ea33467689e53-290x182.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[도메인 관리 및 그룹웨어 등을 서비스하는 업체인 가비아가 디도스 공격을 받았다. 디도스 공격으로 현재 가비아 도메인네임서버(DNS)를 사용하는 고객들의 사이트가 접속이 안 되고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["간호법·의료인면허법 강행처리 규탄한다!”]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230224121014</guid>
             <pubDate>Fri, 24 Feb 2023 03:14:37 GMT</pubDate>
             <content:encoded><![CDATA[대한의사협회(이하 의협)를 비롯한 보건복지의료연대는 오는 26일 오후 2시부터 여의도공원 앞 여의대로에서 '간호법·의료인면허법 강행처리 규탄 보건복지의료연대 400만 총궐기대회...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/05/23/ef6a1912964e60b63db1c45322302402-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김민석 의원 "AI는 선택 아닌 현실”]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224102721</guid>
             <pubDate>Fri, 24 Feb 2023 02:17:25 GMT</pubDate>
             <content:encoded><![CDATA[한국산업기술평가관리원(KEIT·원장 전윤종)은 산업통상자원부, 탄소다배출업종협회와 탄소중립 기술개발에 협력하고 성과확산을 위한 업무협약을 체결했다고 밝혔다. 탄소다배출업종협회에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FTX 창업자 뱅크먼-프리드 혐의 총 12개로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224091849</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224091849</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[사기 등의 혐의로 기소된 세계 3대 가상자산거래소 FTX의 창업자 샘 뱅크먼-프리드에게 자금세탁 등의 혐의가 추가됐다. 23일(현지시간) CNBC에 따르면 뉴욕 검찰은 연방법원...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생체 조직에서 전극이 저절로 자란다···몸 안에 간단히 주입 가능]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224094533</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224094533</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[뇌에 전극을 삽입해 신경질환을 진단 및 치료하고, 나아가 뇌가 외부 디지털 정보에 직접 연결된 증강 인간에 도전하는 것을 목표로 뇌-컴퓨터 인터페이스(BCI) 연구가 활발하다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글플레이스토어 인기앱 80%, 개인정보보호 거짓말"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224094146</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224094146</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[구글플레이스토어의 인기 앱 대부분이 개인정보보호 표시를 제대로 하지 않은 것으로 나타났다. 23일(현지시간) 아스테크니카에 따르면, 모질라는 전세계적으로 다운로드된 구글플레이스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
