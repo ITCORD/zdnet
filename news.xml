@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 00:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 02:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, MR헤드셋 소프트웨어 결함…생산차질 불가피"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230225100030</link>
+            <guid>https://zdnet.co.kr/view/?no=20230225100030</guid>
+            <pubDate>Sat, 25 Feb 2023 02:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 혼합현실(MR) 헤드셋 출시가 다소 지연될 수도 있다는 전망이 제기됐다고 애플인사이더가 24일(현지시간) 보도했다. 이런 예상을 내놓은 것은 애플 전문가인 궈밍치다. 그...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/25/e98aa425930285cdaa62287b7c49d1e1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한컴, 영업이익 423억원…3.2% 감소]]></title>
             <link>https://zdnet.co.kr/view/?no=20230225090106</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230225093824</guid>
             <pubDate>Sat, 25 Feb 2023 00:53:48 GMT</pubDate>
             <content:encoded><![CDATA[페이스북 모회사인 메타도 챗GPT 출시 이후 각광을 받고 있는 생성인공지능(AI) 경쟁에 출사표를 던졌다. 메타가 24일(현지시간) AI 기반 대용량언어모델(LLM)인 LLaM...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/10/29/37d4bbafe27b8341f2c5bcfe848ec526-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MWC23] 화웨이, 지능형 세상 비즈니스 청사진 예고]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224160214</guid>
             <pubDate>Fri, 24 Feb 2023 08:19:46 GMT</pubDate>
             <content:encoded><![CDATA[한국전력이 글로벌 에너지 가격 상승이라는 악재 탓에 32조원을 넘는 영업손실을 냈다. 한국전력은 지난해 매출액은 71조2천719억원, 영업비용은 103조8천753억원으로 영업손...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가, 지난해 최대 매출·적자 두배…IPO 순항할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224162833</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224162833</guid>
-            <pubDate>Fri, 24 Feb 2023 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 역대 최대 매출을 기록했으나 영업손실이 두 배가량 증가한 11번가가 올해 목표했던 기업공개(IPO)를 무사히 마칠 수 있을지 주목된다. 11번가 지난해 연간 매출액은 전...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

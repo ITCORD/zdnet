@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 00:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 02:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, MR헤드셋 소프트웨어 결함…생산차질 불가피"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230225100030</link>
+            <guid>https://zdnet.co.kr/view/?no=20230225100030</guid>
+            <pubDate>Sat, 25 Feb 2023 02:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 혼합현실(MR) 헤드셋 출시가 다소 지연될 수도 있다는 전망이 제기됐다고 애플인사이더가 24일(현지시간) 보도했다. 이런 예상을 내놓은 것은 애플 전문가인 궈밍치다. 그...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두산, 드론·로봇에 쓰이는 수소연료전지 솔루션 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224173404</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230223102304</guid>
             <pubDate>Thu, 23 Feb 2023 02:17:33 GMT</pubDate>
             <content:encoded><![CDATA[필립스오디오가 플래그십 라인업 피델리오의 무선 블루투스 이어폰 T1을 국내 정식 출시했다고 23일 밝혔다. '피델리오 T1'은 필립스 음향 엔지니어팀의 전문 튜닝 기술을 적용하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중소·해외 가전업체 사후 서비스 '전문 위탁 대행'이 대세]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222174122</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222174122</guid>
-            <pubDate>Thu, 23 Feb 2023 02:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[중소 가전업체들이 상담과 AS 등 서비스를 전문 업체에 위탁하는 사례가 점차 늘고 있다. 가전업체는 서비스 인프라를 갖추는 비용을 아낄 수 있고, 소비자는 구매 단계에서 사후 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
