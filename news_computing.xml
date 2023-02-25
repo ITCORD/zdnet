@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 23:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 00:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴, 영업이익 423억원…3.2% 감소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230225090106</link>
+            <guid>https://zdnet.co.kr/view/?no=20230225090106</guid>
+            <pubDate>Sat, 25 Feb 2023 00:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[한글과컴퓨터는 2022년 별도기준 매출액 1천261억원, 영업이익 423억원을 기록했다고 24일 잠정실적을 발표했다. 매출액은 전년도 대비 9.3% 오르고, 영업이익은 3.2%...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 챗GPT 대항마 공개…"용량 줄여 단일 GPU로도 구동"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230225093824</link>
+            <guid>https://zdnet.co.kr/view/?no=20230225093824</guid>
+            <pubDate>Sat, 25 Feb 2023 00:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북 모회사인 메타도 챗GPT 출시 이후 각광을 받고 있는 생성인공지능(AI) 경쟁에 출사표를 던졌다. 메타가 24일(현지시간) AI 기반 대용량언어모델(LLM)인 LLaM...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보보호법학회 회장에 김현경 서울과학기술대 교수 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224110505</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224100426</guid>
             <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
             <content:encoded><![CDATA[에지오는 '웹애플리케이션 및 API 보호(WAAP)' 기능을 강화한 보안 서비스와 DDoS 스크러빙 솔루션을 24일 발표했다. 새로운 DDoS 스크러빙 솔루션은 모든 프로토콜과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 강자 '대퍼랩스', 2차 정리해고 계획 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224082253</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224082253</guid>
-            <pubDate>Fri, 24 Feb 2023 00:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[대체불가토큰(NFT) 게임 '크립토키티', 'NBA 탑샷' 등으로 알려져 있는 기업 대퍼랩스가 인력 20%를 감축한다. 지난 11월 대퍼랩스는 인력 20%를 해고한다고 발표했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 닷넷8 첫번째 미리보기 공개...리눅스 지원 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224070749</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224070749</guid>
-            <pubDate>Fri, 24 Feb 2023 00:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[애플리케이션 개발 플랫폼 닷넷8(.NET 8.0)의 첫 번째 미리보기 버전이 공개됐다. 크로스플랫폼 개발 지원을 위해 ARM64와 리눅스 지원을 확대했다. 최근 마이크로소프트는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
