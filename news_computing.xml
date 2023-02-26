@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 05:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 06:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HPE, 아토넷 인수로 그린레이크에 프라이빗 5G 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230226132425</link>
+            <guid>https://zdnet.co.kr/view/?no=20230226132425</guid>
+            <pubDate>Sun, 26 Feb 2023 06:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[휴렛팩커드엔터프라이즈(HPE)가 엣지투클라우드 플랫폼 'HPE그린레이크' 서비스 확대를 위해 5G 전문 기업을 인수한다. 실리콘앵글 등 외신에 따르면 HPE는 프라이빗 4G 및...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA "기업 동의 없어도 침해사고 조사 가능해졌다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224171434</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224110132</guid>
             <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
             <content:encoded><![CDATA[안랩은 22~24일까지 3일간 임직원 초·중등학생 자녀 70명을 대상으로 온라인 코딩 교육 '2023 겨울시즌 미래상상 코딩캠프'를 성료했다고 밝혔다. 안랩이 에이스코드랩과 함...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코코리아, 2023 대한민국 일하기 좋은 기업 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224100344</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224100344</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[시스코 시스템즈는 GPTW코리아가 선정한 '2023년 대한민국 일하기 좋은 기업' 2위에 올랐다고 24일 밝혔다. '대한민국 여성 워킹맘이 일하기 좋은 기업', '대한민국 밀레...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
