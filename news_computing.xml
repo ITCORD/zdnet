@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 01:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 02:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호주, '바이낸스' 파생 상품 들여다본다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230226102647</link>
+            <guid>https://zdnet.co.kr/view/?no=20230226102647</guid>
+            <pubDate>Sun, 26 Feb 2023 02:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 가상자산 거래소 바이낸스가 호주 금융 당국의 조사를 받게 될 전망이다. 파생 상품 판매가 금지된 사용자 일부에게 판매가 된 점이 문제가 됐다. 블록체인 매체 디크립트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[노코드로우코드협의회, 챗GPT 기술 협력 방안 모색]]></title>
             <link>https://zdnet.co.kr/view/?no=20230226091427</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224094146</guid>
             <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
             <content:encoded><![CDATA[구글플레이스토어의 인기 앱 대부분이 개인정보보호 표시를 제대로 하지 않은 것으로 나타났다. 23일(현지시간) 아스테크니카에 따르면, 모질라는 전세계적으로 다운로드된 구글플레이스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 빙은 검색에 AI 채팅을 어떻게 결합했나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224094629</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224094629</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[조르디 리바스 마이크로소프트 기업검색 및 AI 부사장은 21일 블로그에서 새로운 빙 구축에 대한 기술적 세부 내용을 공개했다. 그는 "1년반 전 블로그에서 딥러닝 모델을 검색에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
