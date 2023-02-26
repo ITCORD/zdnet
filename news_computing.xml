@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 02:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 03:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA "기업 동의 없어도 침해사고 조사 가능해졌다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224171434</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224171434</guid>
+            <pubDate>Sun, 26 Feb 2023 03:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신망법이 개정되면서 기업이 동의하지 않아도, 침해사고 발생 시 한국인터넷진흥원(KISA)이 현황 조사를 할 수 있게 됐다. 지난해 KISA로 접수된 민간 분야 침해 사고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[호주, '바이낸스' 파생 상품 들여다본다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230226102647</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224100344</guid>
             <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
             <content:encoded><![CDATA[시스코 시스템즈는 GPTW코리아가 선정한 '2023년 대한민국 일하기 좋은 기업' 2위에 올랐다고 24일 밝혔다. '대한민국 여성 워킹맘이 일하기 좋은 기업', '대한민국 밀레...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글플레이스토어 인기앱 80%, 개인정보보호 거짓말"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224094146</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224094146</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[구글플레이스토어의 인기 앱 대부분이 개인정보보호 표시를 제대로 하지 않은 것으로 나타났다. 23일(현지시간) 아스테크니카에 따르면, 모질라는 전세계적으로 다운로드된 구글플레이스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

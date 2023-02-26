@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 02:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 03:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기, 여권 사진 크기만한 자율주행용 반도체 기판 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230226105704</link>
+            <guid>https://zdnet.co.kr/view/?no=20230226105704</guid>
+            <pubDate>Sun, 26 Feb 2023 03:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기는 26일 자율주행차 첨단운전자보조체계(ADAS)에 쓸 수 있는 전자장치용 반도체 기판(FCBGA)을 개발했다고 밝혔다. 삼성전기는 부분 자율주행 단계용 기판보다 회로 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/26/162466d03a58f62c5fbfc0523823393e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ZD 브리핑] 이번 주 꼭 챙겨봐야 할 뉴스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230226113902</link>
+            <guid>https://zdnet.co.kr/view/?no=20230226113902</guid>
+            <pubDate>Sun, 26 Feb 2023 03:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 시작합니다. '꼭 챙길 뉴스'에는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/16/6c09446ae3beb092067c7c4250e8befe-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA "기업 동의 없어도 침해사고 조사 가능해졌다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224171434</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224171434</guid>
+            <pubDate>Sun, 26 Feb 2023 03:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신망법이 개정되면서 기업이 동의하지 않아도, 침해사고 발생 시 한국인터넷진흥원(KISA)이 현황 조사를 할 수 있게 됐다. 지난해 KISA로 접수된 민간 분야 침해 사고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수입 중국산 '건목이버섯' 잔류농약 기준 초과 검출돼 회수]]></title>
             <link>https://zdnet.co.kr/view/?no=20230226112533</link>
             <guid>https://zdnet.co.kr/view/?no=20230226112533</guid>
             <pubDate>Sun, 26 Feb 2023 02:29:02 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 시중에서 판매 중인 중국산 '건목이버섯'(자실체, 건조)에서 잔류농약(카벤다짐)이 기준치(0.01mg/kg 이하) 보다 초과 검출(2.38mg/kg)돼 해당 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/26/3e2d3acd11d0b699ae9cc46e3ba12f0d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바싹 마른 투자 가뭄…모빌리티 업계 '버티기·성장' 전략은?]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230226111713</guid>
             <pubDate>Sun, 26 Feb 2023 02:29:02 GMT</pubDate>
             <content:encoded><![CDATA[지속되는 경기 침체에 스타트업 투자 시장이 가뭄기를 맞았다. 미국 시장조사업체 CB인사이트에 따르면 지난해 전 세계 스타트업 투자는 총 4천151억 달러(약 516조원)로, 전...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/26/739b5a6cc1e68a34103c7175ae5b6a4a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[호주, '바이낸스' 파생 상품 들여다본다]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230225161824</guid>
             <pubDate>Sun, 26 Feb 2023 00:58:17 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 글로벌 IT기업 델 테크놀로지스 손잡고 오픈랜(O-RAN) 플랫폼 분야 연구·개발 협력을 강화한다고 26일 밝혔다. 양사는 27일(현지시간) 스페인 바르셀로나에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "스팸차단 앱, 무료로 제공합니다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224183434</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224183434</guid>
-            <pubDate>Sun, 26 Feb 2023 00:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 오는 27일부터 모바일 가입자에 스팸 차단 서비스 'U+스팸전화알림'을 무료로 제공한다. 유심 무상 교체에 이어 개인정보보호 강화 대책의 일환이다. 'U+스팸전화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카이스트, 퓨처모빌리티 기술교류회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230225151923</link>
-            <guid>https://zdnet.co.kr/view/?no=20230225151923</guid>
-            <pubDate>Sun, 26 Feb 2023 00:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[카이스트가 대전 본원 학술문화관 일대에서 '2023 퓨처모빌리티 기술교류회'를 개최한다고 밝혔다. 카이스트와 한국자율주행산업협회(KAAMI), 한국자동차연구원(KATECH)이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아, 폴란드 원유 공급 사실상 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230226063218</link>
-            <guid>https://zdnet.co.kr/view/?no=20230226063218</guid>
-            <pubDate>Sun, 26 Feb 2023 00:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[러시아가 송유관을 통한 폴란드 원유 공급을 사실상 중단했다. 조 바이든 미국 대통령이 동유럽을 방문하는 등 압박 수위를 높혀 러시아가 대응을 한 것으로 해석된다. 25일(현지시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
