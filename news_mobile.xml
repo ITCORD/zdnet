@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 01:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 이라크에 '스마트싱스 홈' 개관…중동 IoT 시장 공략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230226090728</link>
+            <guid>https://zdnet.co.kr/view/?no=20230226090728</guid>
+            <pubDate>Sun, 26 Feb 2023 00:58:39 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 다양한 제품간 초연결 경험을 체험할 수 있는 '스마트싱스 홈'을 중동에서 개관해 현지에서 호응을 얻고 있다. 지난 2월 9일 이라크 바그다드에 문을 연 스마트싱스 홈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["애플, MR헤드셋 소프트웨어 결함…생산차질 불가피"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230225100030</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230223103541</guid>
             <pubDate>Thu, 23 Feb 2023 02:17:33 GMT</pubDate>
             <content:encoded><![CDATA[니콘이미징코리아가 이달 초 공개한 풀프레임 미러리스 카메라용 렌즈 '니코르 Z 26mm f/2.8' 예약판매를 실시한다. 니코르 Z 26mm f/2.8 렌즈는 무게와 길이를 최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[필립스, 프리미엄 무선 이어폰 '피델리오 T1' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230223102304</link>
-            <guid>https://zdnet.co.kr/view/?no=20230223102304</guid>
-            <pubDate>Thu, 23 Feb 2023 02:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[필립스오디오가 플래그십 라인업 피델리오의 무선 블루투스 이어폰 T1을 국내 정식 출시했다고 23일 밝혔다. '피델리오 T1'은 필립스 음향 엔지니어팀의 전문 튜닝 기술을 적용하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
