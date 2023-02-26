@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 09:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 10:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['와파린' 잘못된 처방으로 과용량 투약…환자안전 주의경보 발령]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230226182758</link>
+            <guid>https://zdnet.co.kr/view/?no=20230226182758</guid>
+            <pubDate>Sun, 26 Feb 2023 10:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[의료기관평가인증원은 '와파린의 잘못된 처방으로 과용량 투약'을 주제로 환자안전 주의경보를 발령했다. 환자안전사고의 예방 및 재발방지를 위해 이번에 발령한 환자안전 주의경보는 와...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/26/e6ceefe7e43540aedbc6388928f9dd1a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 기상청]]></title>
             <link>https://zdnet.co.kr/view/?no=20230226180813</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230226092726</guid>
             <pubDate>Sun, 26 Feb 2023 02:29:02 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 27일(현지시간) 스페인 바르셀로나에서 개막하는 '모바일 월드 콩그레스 2023(MWC23)'에서 '갤럭시 생태계'에 기반한 프리미엄 모바일 경험을 선보인다. 먼저 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC23] 삼성 갤럭시 생태계 강조...차세대 5G 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230225234359</link>
-            <guid>https://zdnet.co.kr/view/?no=20230225234359</guid>
-            <pubDate>Sun, 26 Feb 2023 02:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 27일(현지시간) 스페인 바르셀로나에서 개막하는 MWC23에서 갤럭시 생태계에 기반한 프리미엄 모바일 경험을 선보인다. 우선 지난 17일 출시한 갤럭시S23 시리즈를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
