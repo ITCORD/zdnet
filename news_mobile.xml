@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플워치, 작년 5천만대 판매 돌파...삼성과 격차 벌려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230227101214</link>
+            <guid>https://zdnet.co.kr/view/?no=20230227101214</guid>
+            <pubDate>Mon, 27 Feb 2023 06:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 전 세계 스마트워치 시장에서 애플이 신제품 애플워치8 시리즈의 판매 호조로 삼성의 갤럭시워치와 격차를 더 벌린 것으로 나타났다. 27일 시장조사업체 카운터포인트리서치에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아인스시스템, HP 오멘 17 게임용 노트북 3종 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230227131446</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224111732</guid>
             <pubDate>Fri, 24 Feb 2023 04:13:28 GMT</pubDate>
             <content:encoded><![CDATA[애플의 아이폰 시리즈 중 최상위 모델인 아이폰14 프로맥스가 전작 보다 부품원가(BoM)가 3.7% 오른 것으로 나타났다. 애플은 부품원가 인상에도 아이폰14 프로맥스 판매 가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HP 오멘, 프로게임단 T1과 브랜드 캠페인 전개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224103841</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224103841</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[HP 게임용 PC 브랜드 오멘이 e스포츠 팀 T1과 후원 계약을 연장하고 브랜드 캠페인을 전개한다. HP 오멘은 2021년부터 리그오브레전드 챔피언스 코리아(LCK)에 고성능 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

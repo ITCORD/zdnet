@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 '에어서치'는 어떻게 사용자 의도를 잘 알아챌까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230227144108</link>
+            <guid>https://zdnet.co.kr/view/?no=20230227144108</guid>
+            <pubDate>Mon, 27 Feb 2023 06:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[웹이나 모바일 앱에서 네이버를 누르면, 네모난 검색창이 나타난다. 네이버는 재작년 이 작은 공간에 인공지능(AI) 기술을 집약한 초개인화 검색 서비스 '에어서치'를 더해, 이용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 1784 사옥에 사우디아라비아 국가정보센터장 방문]]></title>
             <link>https://zdnet.co.kr/view/?no=20230227123408</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230223153523</guid>
             <pubDate>Thu, 23 Feb 2023 08:15:27 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 철학자이자 소설가인 움베르토 에코의 서재에는 3만권의 책이 꽂혀있다. 이 서재를 본 사람의 반응은 크게 두 가지였다. 첫 번째 부류는 에코가 이중에서 얼마나 읽었는지에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카페24-파이온, AI가 쇼핑몰 영상 제작 도와준다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230223142124</link>
-            <guid>https://zdnet.co.kr/view/?no=20230223142124</guid>
-            <pubDate>Thu, 23 Feb 2023 06:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)으로 온라인 사업자의 마케팅 영상 제작이 크게 쉬워진다. 글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 파이온코퍼레이션과 'AI 기반 제품 영상 자동제작을 위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
