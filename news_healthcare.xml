@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 00:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 02:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신규 확진자 4026명…사망 15명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230227104516</link>
+            <guid>https://zdnet.co.kr/view/?no=20230227104516</guid>
+            <pubDate>Mon, 27 Feb 2023 02:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 신규확진자가 2월27일 0시 기준 4천26명으로 집계됐다. 이에 따라 누적 확진자는 3050만2천904명으로 늘었다. 사망자는 15명이 늘어 누적 사망자는 3만3천9...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신약개발연구조합, '바이오헬스투자협의체' 발족]]></title>
             <link>https://zdnet.co.kr/view/?no=20230226233722</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224154706</guid>
             <pubDate>Fri, 24 Feb 2023 07:11:45 GMT</pubDate>
             <content:encoded><![CDATA[대웅제약이 자사 당뇨병 신약 '엔블로정(성분명 이나보글리플로진)'에 대해 브라질과 멕시코 수출을 본격화한다. 회사는 오는 2024년 현지 판매를 시작한다는 계획이다. 계약 규모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시의사회, 비급여 진료비용 보고 헌법소원 기각 유감]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224154425</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224154425</guid>
-            <pubDate>Fri, 24 Feb 2023 07:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[헌법재판소가 비급여 진료비용 보고에 대한 위헌소송을 기각하자 의료계의 반발이 크다. 앞서 지난 2020년 12월29일 법률 제17787호로 개정되고 2021년 6월 30일 시행...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
