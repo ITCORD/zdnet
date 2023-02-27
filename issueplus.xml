@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 07:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 08:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학에 반도체 패키지 인력 없다...산학연, 현장 맞춤형 인재 길러야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230224151529</link>
+            <guid>https://zdnet.co.kr/view/?no=20230224151529</guid>
+            <pubDate>Mon, 27 Feb 2023 08:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 韓 반도체 후공정 기술 경쟁력 어디쯤 왔나(하)]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/24/2eaf12837c946c8933a2e7e7eabc7009-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["6개월 걸릴 금융 AI모델 개발, HAC으로 1개월로 단축"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224131615</link>
@@ -253,22 +261,6 @@
             <pubDate>Thu, 20 Oct 2022 07:28:50 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 위메이드 위믹스, 위믹스3.0으로 판 바뀌어]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/10/20/9399056e0994eab38aa68d9b6130dc20-300x300.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['망 이용대가' 논쟁에 대한 팩트체크]]></title>
-            <link>https://zdnet.co.kr/view/?no=20221011164018</link>
-            <guid>https://zdnet.co.kr/view/?no=20221011164018</guid>
-            <pubDate>Wed, 12 Oct 2022 07:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] GCP-ISP, '망 무임승차 방지법' 두고 첨예한 대립]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/10/11/d7fb05a7b871d5017d01239271c38f70-300x300.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과방위, '망 무임승차법' 논의 본격화…깊어지는 갈등]]></title>
-            <link>https://zdnet.co.kr/view/?no=20220923163059</link>
-            <guid>https://zdnet.co.kr/view/?no=20220923163059</guid>
-            <pubDate>Fri, 23 Sep 2022 20:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] '망 이용계약' 두고 콘텐츠업계와 통신업계 대립]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/23/11d70d6c4651cbaff030e96fdf704dd0-300x300.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
