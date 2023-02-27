@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 04:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아인스시스템, HP 오멘 17 게임용 노트북 3종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230227131446</link>
+            <guid>https://zdnet.co.kr/view/?no=20230227131446</guid>
+            <pubDate>Mon, 27 Feb 2023 05:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[HP코리아 총판 아인스시스템이 27일 게임용 노트북 'HP 오멘 17' 3종을 국내 출시했다. 최상위 제품인 오멘 17-ck2017TX는 인텔 13세대 코어 i9-13900HX...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC23] 레노버, 씽크패드 X13 등 신제품 대거 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230227112826</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224103841</guid>
             <pubDate>Fri, 24 Feb 2023 02:17:50 GMT</pubDate>
             <content:encoded><![CDATA[HP 게임용 PC 브랜드 오멘이 e스포츠 팀 T1과 후원 계약을 연장하고 브랜드 캠페인을 전개한다. HP 오멘은 2021년부터 리그오브레전드 챔피언스 코리아(LCK)에 고성능 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD코리아, 라데온 그래픽카드 구매자 대상 행사 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224102736</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224102736</guid>
-            <pubDate>Fri, 24 Feb 2023 02:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[AMD코리아 CPU 세일즈 팀이 라데온 그래픽카드 구매자 대상 행사를 진행한다. 행사 대상 제품은 라데온 RX 6000·7000 탑재 그래픽카드이며 그래픽카드 단품과 이를 탑재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
