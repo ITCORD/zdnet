@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 15:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 16:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] KT 인터넷 와이파이 훨씬 더 빨라진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230301011010</link>
+            <guid>https://zdnet.co.kr/view/?no=20230301011010</guid>
+            <pubDate>Tue, 28 Feb 2023 16:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 와이파이7 무선 공유기를 선보일 준비를 마쳤다. 와이파이 새 표준(802.11be)이 완성되면 곧장 새 규격의 공유기(AP)를 내놓겠다는 전략이다. KT가 MWC23에서...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/01/295c439700eff220f50b1ccaf1162aae-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS, 윈도11에 '빙 AI 채팅' 전진 배치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230301000455</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230228233805</guid>
             <pubDate>Tue, 28 Feb 2023 15:11:22 GMT</pubDate>
             <content:encoded><![CDATA[간단한 키워드만 입력하면 자동으로 광고 문구가 생성된다. 똑같은 생성AI 기술로 생각을 글로 풀어내는 과정을 훈련하는 프로그램도 내놨다. 스페인 바르셀로나에서 열린 MWC23에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/28/421b12f8fb0a96ba64088a0007dc754c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MWC23] '워드·프레젠테이션 따로 사세요'...한컴, 오피스 개발 기술 모듈화']]></title>
@@ -112,7 +120,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[데뷰23] 네이버 '파파고' 높은 번역 품질…”빨간펜 선생님 덕분이죠”]]></title>
+            <title><![CDATA[[데뷰23] 네이버 '파파고' 높은 번역 품질…"빨간펜 선생님 덕분이죠"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228170421</link>
             <guid>https://zdnet.co.kr/view/?no=20230228170421</guid>
             <pubDate>Tue, 28 Feb 2023 09:11:48 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230228170451</guid>
             <pubDate>Tue, 28 Feb 2023 08:14:45 GMT</pubDate>
             <content:encoded><![CDATA[W쇼핑(대표 방선홍)은 지난 6일 튀르키예 지역에서 발생한 강진과 계속되는 여진으로 많은 피해를 입은 튀르키예의 복구를 지원하기 위해 긴급 구호 성금 1천만원을 기부 했다고 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["주먹밥에 쌀 없다"며 판매한 홈쇼핑사 '권고' 조치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230228170322</link>
-            <guid>https://zdnet.co.kr/view/?no=20230228170322</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[주먹밥 판매 방송에서 쌀이 포함되지 않았다고 표현해 소비자를 오인하도록 한 홈쇼핑 업체가 방송통신심의위원회로부터 행정지도 '권고' 결정을 받았다. 방심위는 28일 광고심의소위원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
