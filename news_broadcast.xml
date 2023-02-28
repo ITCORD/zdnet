@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 14:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] 뤼튼 "유럽에서 빨리 오라 손짓합니다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228233805</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228233805</guid>
+            <pubDate>Tue, 28 Feb 2023 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[간단한 키워드만 입력하면 자동으로 광고 문구가 생성된다. 똑같은 생성AI 기술로 생각을 글로 풀어내는 과정을 훈련하는 프로그램도 내놨다. 스페인 바르셀로나에서 열린 MWC23에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC23] 전성배 IITP "한국 정부 6G통신 준비한다”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228213712</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230225234359</guid>
             <pubDate>Sun, 26 Feb 2023 02:29:10 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 27일(현지시간) 스페인 바르셀로나에서 개막하는 MWC23에서 갤럭시 생태계에 기반한 프리미엄 모바일 경험을 선보인다. 우선 지난 17일 출시한 갤럭시S23 시리즈를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC23] LGU+, 델과 '오픈랜 플랫폼' 기술 개발 협력 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230225161824</link>
-            <guid>https://zdnet.co.kr/view/?no=20230225161824</guid>
-            <pubDate>Sun, 26 Feb 2023 00:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 글로벌 IT기업 델 테크놀로지스 손잡고 오픈랜(O-RAN) 플랫폼 분야 연구·개발 협력을 강화한다고 26일 밝혔다. 양사는 27일(현지시간) 스페인 바르셀로나에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 14:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 윈도11에 '빙 AI 채팅' 전진 배치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230301000455</link>
+            <guid>https://zdnet.co.kr/view/?no=20230301000455</guid>
+            <pubDate>Tue, 28 Feb 2023 15:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 윈도11 작업표시줄에 AI 기반 빙 검색엔진을 투입했다. 웹 검색에 AI 챗봇을 도입한 뒤 3주일 만에 빠른 속도로 AI 기반 대화형 검색을 제품 곳곳에 결합하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC23] '워드·프레젠테이션 따로 사세요'...한컴, 오피스 개발 기술 모듈화']]></title>
             <link>https://zdnet.co.kr/view/?no=20230228215118</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230228103539</guid>
             <pubDate>Tue, 28 Feb 2023 02:20:34 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 전문기업 아크릴(대표 박외진)은 KB손해보험(대표이사 사장 김기환)과 지난 21일 서울 강남구 역삼동에 위치한 KB손해보험 본사에서 보험 및 웰케어 데이터 산업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스냅챗, 오픈AI GPT 기반 챗봇 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230228092222</link>
-            <guid>https://zdnet.co.kr/view/?no=20230228092222</guid>
-            <pubDate>Tue, 28 Feb 2023 02:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[스냅챗에 오픈AI의 GPT 기반 인공지능(AI) 챗봇이 적용된다. 27일(현지시각) 테크크런치 등 외신에 따르면 스냅챗을 운영하는 스냅이 새로운 챗봇 '마이AI(My AI)'를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
