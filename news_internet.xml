@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[데뷰23] 네이버 '파파고' 높은 번역 품질…”빨간펜 선생님 덕분이죠”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228170421</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228170421</guid>
+            <pubDate>Tue, 28 Feb 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[“파파고는 번역 품질의 좋고 나쁨을 분별할 수 있는, 이른바 '빨간 펜' 선생 같은 역할을 하는 QE 모델을 마련했다. 글로벌 학회인 'WMT'에서도 경쟁력을 인정받은 만큼 고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블라인드, 가입자 800만 돌파…"삼성·SK·현대차 10명 중 8명 가입"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228132348</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230226063218</guid>
             <pubDate>Sun, 26 Feb 2023 00:58:47 GMT</pubDate>
             <content:encoded><![CDATA[러시아가 송유관을 통한 폴란드 원유 공급을 사실상 중단했다. 조 바이든 미국 대통령이 동유럽을 방문하는 등 압박 수위를 높혀 러시아가 대응을 한 것으로 해석된다. 25일(현지시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티가 여는 '하늘 길' 미리 살펴 보니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224164022</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224164022</guid>
-            <pubDate>Fri, 24 Feb 2023 09:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[카카오모빌리티는 작년 이맘때 첫 기술 컨퍼런스 'NEXT MOBILITY: 네모(NEMO) 2022'를 열어 '하늘길 개척'에 출사표를 던졌다. 지상에서 축적한 카카오 택시(카...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
