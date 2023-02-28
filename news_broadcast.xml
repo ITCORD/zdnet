@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 12:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 13:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[MWC23] 구현모 KT "9월 싱가포르 디지털물류 시장 진출”]]></title>
+            <title><![CDATA[[MWC23] 전성배 IITP "한국 정부 6G통신 준비한다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228213712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228213712</guid>
+            <pubDate>Tue, 28 Feb 2023 13:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[전성배 정보통신기획평가원(IITP) 원장이 28일(현지시간) MWC23에서 한국 정부가 6G 통신 개발에 나섰다고 밝혔다. 이종호 과학기술정보통신부 장관이 관절염을 이유로 불참...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC23] 구현모 KT "9월 싱가포르 디지털물류 시장 진출"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228205635</link>
             <guid>https://zdnet.co.kr/view/?no=20230228205635</guid>
             <pubDate>Tue, 28 Feb 2023 12:20:53 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230225161824</guid>
             <pubDate>Sun, 26 Feb 2023 00:58:24 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 글로벌 IT기업 델 테크놀로지스 손잡고 오픈랜(O-RAN) 플랫폼 분야 연구·개발 협력을 강화한다고 26일 밝혔다. 양사는 27일(현지시간) 스페인 바르셀로나에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "스팸차단 앱, 무료로 제공합니다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224183434</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224183434</guid>
-            <pubDate>Sun, 26 Feb 2023 00:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 오는 27일부터 모바일 가입자에 스팸 차단 서비스 'U+스팸전화알림'을 무료로 제공한다. 유심 무상 교체에 이어 개인정보보호 강화 대책의 일환이다. 'U+스팸전화...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

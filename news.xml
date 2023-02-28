@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 12:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 13:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[MWC23] 구현모 KT "9월 싱가포르 디지털물류 시장 진출”]]></title>
+            <title><![CDATA[[MWC23] 전성배 IITP "한국 정부 6G통신 준비한다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228213712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228213712</guid>
+            <pubDate>Tue, 28 Feb 2023 13:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[전성배 정보통신기획평가원(IITP) 원장이 28일(현지시간) MWC23에서 한국 정부가 6G 통신 개발에 나섰다고 밝혔다. 이종호 과학기술정보통신부 장관이 관절염을 이유로 불참...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/28/da07d8775fc93eb03ef230938eb2fe88-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC23] 구현모 KT "9월 싱가포르 디지털물류 시장 진출"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228205635</link>
             <guid>https://zdnet.co.kr/view/?no=20230228205635</guid>
             <pubDate>Tue, 28 Feb 2023 12:20:40 GMT</pubDate>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230228190611</guid>
             <pubDate>Tue, 28 Feb 2023 12:20:40 GMT</pubDate>
             <content:encoded><![CDATA[태블릿 카메라로 전시관을 스캔하니 3차원 글자와 그림이 나타났다. 메타버스 플랫폼 전문 기업 맥스트의 증강현실(AR) 개발 플랫폼 '맥스트 AR SDK'을 사용한 모습이다. 맥...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/28/d0c7c8850146f6548f9a5c5350d92c36-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MWC23] 한종희 삼성전자 "달 찍은 갤럭시 카메라, 다음엔 금성 찍어라"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230228163031</guid>
             <pubDate>Tue, 28 Feb 2023 08:14:45 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 기술 기업 다이슨이 헤어 스타일링과 잔머리 정리를 한 번에 할 수 있는 드라이어 신제품을 공개했다. 다이슨은 28일 서울 성수동의 한 스튜디오에서 '플라이어웨이 스무더 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에쓰오일, 가정폭력 피해 이주여성에 7천만원 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230228165813</link>
-            <guid>https://zdnet.co.kr/view/?no=20230228165813</guid>
-            <pubDate>Tue, 28 Feb 2023 08:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[에쓰오일은 28일 서울 마포구 공덕동 본사에서 한국이주여성인권센터에 가정폭력 피해 이주 여성을 돕기 위한 후원금 7천만원을 전달했다. 한국이주여성인권센터는 2001년에 설립되어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
