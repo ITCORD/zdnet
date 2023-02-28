@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 04:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[데뷰23] 누구나 웹툰 주인공 된다고?...네이버 '웹툰미' 개발기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228125137</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228125137</guid>
+            <pubDate>Tue, 28 Feb 2023 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[“웹툰미(WebtoonMe). 이름 그대로 웹툰 속 주인공이 돼, 작품 속으로 들어간다는 개념의 기술이다. 1년이라는 비교적 짧은 기간 프로젝트를 진행했다. 개발자는 총 3명이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오임팩트-카이스트, '사회문제 해결 위한 기술 생태계 조성' 협업]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228112905</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224171521</guid>
             <pubDate>Fri, 24 Feb 2023 09:11:39 GMT</pubDate>
             <content:encoded><![CDATA[유튜브가 유료 이용자에만 고화질 영상을 제공하는 방침을 시도해 이목이 집중되고 있다. 24일 더 버지 등 외신에 따르면, 최근 일부 유튜브 이용자들 영상 화질 목록에서 '108...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 일부 국가 구독료 '최대 반값'...한국은 제외]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224164738</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224164738</guid>
-            <pubDate>Fri, 24 Feb 2023 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 유럽·중동·아프리카·중남미 등 일부 저소득 국가에서 구독 요금제 가격을 최대 반값으로 낮췄다. 상대적으로 선진국인 한국은 빠졌다. 24일 블룸버그·로이터 등 외신에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
