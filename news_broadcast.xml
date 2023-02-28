@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 00:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] 인텔 "4세대 제온, 가상화 네트워크 성능 두 배로”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228054522</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228054522</guid>
+            <pubDate>Tue, 28 Feb 2023 02:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[사친 카티 인텔 수석부사장 겸 네트워크 및 엣지 그룹 총괄은 “4세대 인텔 제온 플랫폼에서 동일한 전력 범위 내에서 vRAN 성능을 두 배로 향상시키고, 5G 코어 UPF 처리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC23] 어딜가나 주목받는 AI 기업]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228053022</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230224181926</guid>
             <pubDate>Sat, 25 Feb 2023 00:53:56 GMT</pubDate>
             <content:encoded><![CDATA[화웨이가 오는 27일(현지시간) 스페인 바르셀로나에서 개막하는 MWC 23에 참가해 캐리어 네트워크, 엔터프라이즈, 컨슈머 등 세 가지 주요 사업 부문의 최신 제품과 솔루션을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털소사이어티, 전문위원회별 올해 논의 주제 공유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224182938</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224182938</guid>
-            <pubDate>Fri, 24 Feb 2023 10:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[디지털소사이어티가 지난 23일 2023년 정기총회를 열고 전문위원회별로 올해 논의 주제를 발표했다. 또 특별주제로 챗GPT 능력과 한계를 점검하고 지속적으로 논의키로 했다. 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

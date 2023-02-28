@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 00:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI, 두려움 넘어 '글로컬'하게 대처해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228100837</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228100837</guid>
+            <pubDate>Tue, 28 Feb 2023 02:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;인공지능(AI)이 만든 생성물의 법적 주체는 누구일까? 이 문제의 퍼즐을 풀기 위해 먼저 인공지능에 대한 두려움에 대처하는 법을 말하고 싶다. 챗GPT(ChatGPT) 등장에 뜨거운 환호와 더불어 인공지능에 대한 두려움을 호소하는 목소리도 부쩍 높아졌다. 도대체 챗GPT는 무엇을 얼마나 학습한 걸까? 어떤 근거와 논리로 이런 결과를 내놓은 걸까? 복잡함의 정도를 가늠할 수 없는 함...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/20/2a6be8b21f7720c2abc1ef753ff6da20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이정규 칼럼] 생산성의 역설]]></title>
             <link>https://zdnet.co.kr/view/?no=20230221211106</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Jan 2023 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[“황혼은 인생의 후반부를 뜻하기도 하지만 내일을 준비하는 시간, 미래를 준비하는 시간, 낮과 밤이 만나는 시간, 하늘과 땅이 만나는 시간이기도 합니다. 누군가는 사랑을, 누군가는 가족의 안정을, 어떤 누군가는 평화를 꿈꾸고, 세상을 떠난 누군가는 남겨진 이들의 안녕을, 모두의 염원이 모여 기적이 이루어지는 곳. 고인돌로 기억되는 사람들의 염원은 반딧불의 형태가 되어 떠오르고, 모두의 염원이 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/01/16/c63cf32ca000abaef7fb7bb9b2cf7197.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 현대 무선 시스템 설계 복잡성, AI로 극복한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230110105917</link>
-            <guid>https://zdnet.co.kr/view/?no=20230110105917</guid>
-            <pubDate>Tue, 17 Jan 2023 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[4차 산업혁명 시대에 발맞춰 모바일 무선 기술이 5G로 발전했다. 이에 따라 무선 시스템 설계와 무선 네트워크 관리도 복잡해지고 어려워졌다. 개발자들은 이러한 난제를 해결할 방안으로 인공지능(AI)에 눈을 돌렸다.AI는 자율주행 자동차의 통신 관리부터 모바일 통화의 자원 할당 최적화까지 현대 무선 응용 분야를 정교하게 만들었다. 네트워크에 연결된 기기 숫자와 범위가 늘면서 무선 영역에서 AI...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/10/2ce6788835f8aa23085df6c8d6f33ffe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
