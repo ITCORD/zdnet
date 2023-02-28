@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 00:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이모, 로스앤젤레스서 무인택시 시범 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230228083801</link>
+            <guid>https://zdnet.co.kr/view/?no=20230228083801</guid>
+            <pubDate>Tue, 28 Feb 2023 00:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[웨이모가 로스앤젤레스에서 무인 택시를 시범 운영한다. 미국 IT매체 엔가젯은 27일(현지시간) 웨이모가 로스앤젤레스에서 무인택시 시범 운영을 시작, 완전 자율주행차가 LA 거리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹, 美 안전평가 최고 등급 획득…4개 차종 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230224175734</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230217080604</guid>
             <pubDate>Tue, 21 Feb 2023 20:15:22 GMT</pubDate>
             <content:encoded><![CDATA[테슬라가 운전 보조기능인 완전자율주행(FSD) 소프트웨어 베타 버전 결함으로 차량 36만2천758대를 리콜한다. 16일(현지시간) CNBC, 로이터 등 외신에 따르면 미국 도로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국차, 올해 韓서 픽업트럭·CUV로 승부수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230216152211</link>
-            <guid>https://zdnet.co.kr/view/?no=20230216152211</guid>
-            <pubDate>Tue, 21 Feb 2023 20:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 부진했던 미국차 브랜드가 국내 시장에서 쇄신에 나선다. 제너럴모터스(GM)의 프리미엄 픽업 브랜드 GMC의 국내 진출과 포드의 픽업트럭을 위시한 신차 전략이 올해 수입차...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
