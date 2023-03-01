@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 15:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 16:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] 통신장비 회사도 거스를 수 없는 AI]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230302004125</link>
+            <guid>https://zdnet.co.kr/view/?no=20230302004125</guid>
+            <pubDate>Wed, 01 Mar 2023 16:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI의 챗GPT가 최근 일반 대중에게 큰 관심을 얻는 인공지능(AI) 기술로 자리를 잡았다. 과거 CES에서 아마존의 음성인식 AI 알렉사가 이름을 떨쳤고, 국내에선 구글 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/02/2863992790213c867ddaa866cca3815c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NASA 최고위직은 3억원 받는데...우주항공청 인재는 얼마나?]]></title>
             <link>https://zdnet.co.kr/view/?no=20230301101819</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230301235302</guid>
             <pubDate>Wed, 01 Mar 2023 15:11:36 GMT</pubDate>
             <content:encoded><![CDATA[차세대 통신에서 센싱 기술의 부상이 주목된다. 안테나와 모뎀 사이의 기본적인 이동통신 기술에 센싱 기술이 융합되는 형태로, MWC23에서 센싱 방식의 기술이 첫선을 보이기 시작...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/01/ace6639123f703f3c4bea4a686834cab-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MWC23] 스페인에서 3·1절 알리는 KT]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230301104614</guid>
             <pubDate>Wed, 01 Mar 2023 02:36:53 GMT</pubDate>
             <content:encoded><![CDATA[일렉트로닉아츠(EA)가 200여명 가량의 에이펙스 레전드 QA팀을 해고했다고 미국 게임매체 비디오 크로니클이 28일(현지시간) 보도했다. 외신에 따르면 EA는 이날 줌 회의를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한화테크윈 새 이름 '한화비전']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230301105227</link>
-            <guid>https://zdnet.co.kr/view/?no=20230301105227</guid>
-            <pubDate>Wed, 01 Mar 2023 02:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[한화테크윈이 '한화비전'으로 사명을 바꾸고 글로벌 비전 솔루션 기업으로의 행보를 시작한다. 글로벌 영상 보안 전문 기업으로 사업을 영위해 온 한화테크윈은 1일 새로운 사명 한화...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
