@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 23:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 01:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] LGU+, 상용망에 오픈랜 테스트베드 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230301015721</link>
+            <guid>https://zdnet.co.kr/view/?no=20230301015721</guid>
+            <pubDate>Wed, 01 Mar 2023 00:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 글로벌 통신장비 제조사인 노키아와 상용망 환경에서 오픈랜 장비 성능을 검증할 수 있는 '테스트베드'를 공동 구축한다. 양사는 스페인 바르셀로나에서 열린 MWC23...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC23] SKT, 메타버스 플랫폼 '이프랜드' 미주·유럽·동남아 본격 진출]]></title>
             <link>https://zdnet.co.kr/view/?no=20230301074751</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230227025246</guid>
             <pubDate>Sun, 26 Feb 2023 23:10:45 GMT</pubDate>
             <content:encoded><![CDATA[유영상 SK텔레콤 대표가 인공지능(AI)로 사회 전 영역을 전환하겠다고 밝혔다. CEO 취임 1년이 지난 지난해 11월 일반적인 통신회사에서 AI컴퍼니로 전환을 시도하겠다는 비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC23] 유영상 SKT "AI를 모든 곳에...AI 전환 추진"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230226224604</link>
-            <guid>https://zdnet.co.kr/view/?no=20230226224604</guid>
-            <pubDate>Sun, 26 Feb 2023 23:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[유영상 SK텔레콤 대표가 인공지능(AI)컴퍼니 핵심 비전으로 'AI를 모든 곳에(AI to Everywhere)'를 공개하면서 AI 전환 추진을 본격화한다고 밝혔다. 유 대표는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
