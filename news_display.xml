@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 01:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 02:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 반도체 보조금 받으면 10년간 중국 생산확충 금지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230301104311</link>
+            <guid>https://zdnet.co.kr/view/?no=20230301104311</guid>
+            <pubDate>Wed, 01 Mar 2023 02:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부의 반도체 보조금을 받을 경우 10년 동안 중국 생산 시설을 확장하지 못하는 것으로 알려졌다. 미국 상무부가 390억 달러 반도체 보조금 수령한 기업들에 대해 10년 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[결이 다른 삼성電-SK하이닉스...美 반도체 보조금 신청 주목]]></title>
             <link>https://zdnet.co.kr/view/?no=20230228151824</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230223084204</guid>
             <pubDate>Thu, 23 Feb 2023 02:17:49 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 5G 이동통신으로 모바일 기기와 인공위성을 연결하는 '비지상 네트워크(NTN, Non-Terrestrial Networks)' 표준기술을 확보했다. 삼성전자는 이동통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, IoT 기술 지원 위한 '어웨어 플랫폼' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230223103001</link>
-            <guid>https://zdnet.co.kr/view/?no=20230223103001</guid>
-            <pubDate>Thu, 23 Feb 2023 02:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴이 IoT(사물인터넷) 기술 구현의 복잡성을 덜어줄 '어웨어 플랫폼'을 공개했다. 퀄컴 어웨어 플랫폼은 최근 공개된 퀄컴 216 IoT LTE 모뎀 등 칩셋과 지능형 위치 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
