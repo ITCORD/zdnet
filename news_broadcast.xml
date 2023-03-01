@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 02:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] SKT, 글로모 어워드 2관왕]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230301051843</link>
+            <guid>https://zdnet.co.kr/view/?no=20230301051843</guid>
+            <pubDate>Wed, 01 Mar 2023 03:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 측위 AI 기술 VLAM을 적용한 고정밀 위치 기반 시각장애인용 내비게이션 'G-EYE 플러스'와 AI 기반 위치분석 플랫폼 '리트머스(LITMUS)'로 글로모 어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK스퀘어, 스웨덴 발렌베리家에 'SK쉴더스' 지분매각..."공동경영"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230301050529</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230227042208</guid>
             <pubDate>Mon, 27 Feb 2023 06:15:05 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 인공지능(AI) 스타트업과 'K-AI 얼라이언스' 파트너십을 맺고 AI컴퍼니 전략을 추진한다. 유영상 SK텔레콤 대표는 27일(현지시간) MWC23이 열리는 스페인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구현모 KT 대표의 연임 포기가 안타까운 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230227074157</link>
-            <guid>https://zdnet.co.kr/view/?no=20230227074157</guid>
-            <pubDate>Mon, 27 Feb 2023 02:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[구현모 KT 대표가 지난 23일 연임을 포기함에 따라 이제 관심사는 누가 새 최고경영자(CEO)가 될 것이냐의 문제로 옮겨간 듯하다. 또 향후 KT의 경영 슬로건이 어떻게 바뀔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
