@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 11:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 12:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틸론 공모가 7~8일 확정···금융위에 증권신고서 제출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230302205930</link>
+            <guid>https://zdnet.co.kr/view/?no=20230302205930</guid>
+            <pubDate>Thu, 02 Mar 2023 12:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)이 17일 금융위원회에 증권신고서를 제출, 코스닥 이전 상장을 위한 절차에 본격 나섰다. 틸론의 총 공모주식 수는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/02/002c98f26d651740af0fa05fd2603906-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시스원 임직원, 튀르키예 지진 피해 복구 기부]]></title>
             <link>https://zdnet.co.kr/view/?no=20230302180158</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230302173902</guid>
             <pubDate>Thu, 02 Mar 2023 09:11:25 GMT</pubDate>
             <content:encoded><![CDATA[국내 완성차 5개 기업이 지난 달 국내외에서 총 62만5천487대를 판매한 것으로 집계됐다. 지난 해 같은 기간에 비해 10% 성장한 수치다. 2일 각사 판매실적을 분석한 결과...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/24/4ed4f646a857a273515ed7f5803c0850-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[MWC23] 화웨이 "R&D에 연매출 29% 쏟아부었다”]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230302165922</guid>
             <pubDate>Thu, 02 Mar 2023 09:11:25 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)과 노코드, 로우코드(NCLC) 발전으로 인한 개발자의 역량 향상으로 디지털 혁신이 가속화될 전망이다. AI가 제공하는 폭넓은 정보를 바탕으로 가장 최적화된 코드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 딜로이트, '기업지배기구 인사이트' 창간호 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230302171712</link>
-            <guid>https://zdnet.co.kr/view/?no=20230302171712</guid>
-            <pubDate>Thu, 02 Mar 2023 09:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국 딜로이트 그룹(총괄대표 홍종성)의 기업지배기구발전센터가 기업 지배구조 선진화 및 기업 회계 투명성 제고를 위한 현안과 발전방안 인사이트를 담은 '기업지배기구 인사이트' 창...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
