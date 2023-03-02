@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 04:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 05:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스티베로, 하이퍼SQL 제품명 '티맥스 오픈SQL'로 변경]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230302123759</link>
+            <guid>https://zdnet.co.kr/view/?no=20230302123759</guid>
+            <pubDate>Thu, 02 Mar 2023 05:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스티베로가 자사 오픈소스 DBMS 플랫폼 '하이퍼SQL'제품명을 '티맥스 오픈SQL'로 변경했다고 2일 밝혔다. 티맥스 오픈SQL은 기업 비즈니스 환경에 맞춰 오픈소스와 상...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['책임 있는 AI' 제작·활용 가이드라인 나왔다...오픈AI도 참여]]></title>
             <link>https://zdnet.co.kr/view/?no=20230302105900</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230301125327</guid>
             <pubDate>Wed, 01 Mar 2023 07:11:24 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 C와 C++, 파이썬으로 양자컴퓨터용 소프트웨어(SW)를 제작할 수 있는 개발킷(SDK)을 공개했다. 28일(현지시각) 더레지스터 등 외신에 따르면 인텔은 양자컴퓨터 생...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 창업자의 새 SNS, 앱스토어 등장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230301091347</link>
-            <guid>https://zdnet.co.kr/view/?no=20230301091347</guid>
-            <pubDate>Wed, 01 Mar 2023 02:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 창업자인 잭 도시가 만든 SNS 앱 '블루스카이'가 애플 앱스토어에 등장했다. 28일(현지시간) 테크크런치 등 다수 외신에 따르면 블루스카이는 지난 17일 애플 앱스토어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
