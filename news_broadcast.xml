@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 20:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 21:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC23] 통신 생태계에 오픈랜 물결이 몰려온다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230302170154</link>
+            <guid>https://zdnet.co.kr/view/?no=20230302170154</guid>
+            <pubDate>Thu, 02 Mar 2023 21:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[“앱장터에서 스마트폰 앱을 내려받아 쓰는 것처럼 무선통신 인프라도 간편하게 새로운 기능을 더한다.” 인텔의 사친 카티 네트워크 및 엣지(NEX) 부문 수석부사장이 개방형 무선접...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, '민간중심·최소 규제'로 메타버스 산업 키운다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230302203523</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230301074751</guid>
             <pubDate>Tue, 28 Feb 2023 23:11:00 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 글로벌 통신사와 함께 미주·유럽·동남아 시장으로 메타버스 서비스 진출을 본격화한다. SK텔레콤은 스페인 바르셀로나에서 열린 MWC23에서 독일 도이치텔레콤, 미국 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC23] 韓-유럽 통신협회, 공정한 네트워크 투자 분담 '맞손']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230301012322</link>
-            <guid>https://zdnet.co.kr/view/?no=20230301012322</guid>
-            <pubDate>Tue, 28 Feb 2023 17:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[한국통신사업자연합회(KTOA)는 28일(현지시간) 스페인 바르셀로나에서 열린 MWC23 현장에서 유럽통신사업자협회(ETNO)와 네트워크 투자의 공정한 분담에 대한 업무협약을 체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
