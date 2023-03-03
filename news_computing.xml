@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOSA, AI기업 진흥 이끌 협의회 설립한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230303140911</link>
+            <guid>https://zdnet.co.kr/view/?no=20230303140911</guid>
+            <pubDate>Fri, 03 Mar 2023 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 '초거대AI발전협의회(가칭, 이하 협의회)'를 오는 5월 중 설립하고 본격적으로 국내 AI산업 진흥에 앞장서겠다고 3일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[좌초 위기 겪은 '러스트', 거버너스 혁신으로 지속성 확보]]></title>
             <link>https://zdnet.co.kr/view/?no=20230303114356</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230302105900</guid>
             <pubDate>Thu, 02 Mar 2023 04:13:39 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI를 비롯한 10개 기업이 인공지능(AI) 콘텐츠를 책임 있게 구축, 공유하자는 가이드라인을 제시했다. 생성 AI 제작이 윤리적으로 이뤄지고, AI로 인한 개인정보 유출 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 텔콤·시스코와 인도네시아 텔코 클라우드 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230302102226</link>
-            <guid>https://zdnet.co.kr/view/?no=20230302102226</guid>
-            <pubDate>Thu, 02 Mar 2023 02:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[네이버클라우드는 인도네시아 국영 통신사인 텔콤의 자회사 텔콤 데이터 에코시스템, 시스코와 인도네시아에 텔코 클라우드를 구축하기 위한 업무협약(MOU)을 체결했다고 2일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
