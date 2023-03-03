@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 10:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 11:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법원 "카카오, SM엔터 신주 취득 금지"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230303185523</link>
+            <guid>https://zdnet.co.kr/view/?no=20230303185523</guid>
+            <pubDate>Fri, 03 Mar 2023 11:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트 지분 9.05%를 확보하려던 카카오 계획에 제동이 걸렸다. 3일 법조계에 따르면 서울동부지방법원 민사합의21부(김유성 수석부장판사)는 SM엔터 창업자인 이수만 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 챗GPT 적용한 이메일 앱 업데이트 차단]]></title>
             <link>https://zdnet.co.kr/view/?no=20230303135858</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230302102000</guid>
             <pubDate>Thu, 02 Mar 2023 02:26:27 GMT</pubDate>
             <content:encoded><![CDATA[타다가 'N분의 1 요금 나눠서 정산하기' 기능을 새롭게 선보인다. 복수 이용자가 타다 경유지 설정 기능을 통해 이동한 경우, 하차 직후 각자 이동한 만큼 비례한 요금을 보여주...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['주정차 단속 알림' 휘슬, 하남서도 서비스 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230302095324</link>
-            <guid>https://zdnet.co.kr/view/?no=20230302095324</guid>
-            <pubDate>Thu, 02 Mar 2023 02:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[주정차 단속 사전 알림 앱 휘슬이 경기 하남에서 서비스를 시작한다고 2일 밝혔다. 경기도내 휘슬 서비스 지역은 총 11개시다. 휘슬은 지역 통합 주정차 단속 알림 서비스를 제공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
