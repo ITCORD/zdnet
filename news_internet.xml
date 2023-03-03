@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 05:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 06:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 챗GPT 적용한 이메일 앱 업데이트 차단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230303135858</link>
+            <guid>https://zdnet.co.kr/view/?no=20230303135858</guid>
+            <pubDate>Fri, 03 Mar 2023 06:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 오픈AI의 인공지능(AI) 챗봇 '챗GPT'를 적용한 이메일 앱의 업데이트를 차단했다고 월스트리트저널(WSJ) 등 외신들이 2일(현지시간) 보도했다. 이메일 앱 '블루메...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버웹툰, 美 경제지 '세계서 가장 혁신적인 기업'에 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230303111135</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230302095324</guid>
             <pubDate>Thu, 02 Mar 2023 02:26:27 GMT</pubDate>
             <content:encoded><![CDATA[주정차 단속 사전 알림 앱 휘슬이 경기 하남에서 서비스를 시작한다고 2일 밝혔다. 경기도내 휘슬 서비스 지역은 총 11개시다. 휘슬은 지역 통합 주정차 단속 알림 서비스를 제공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["에어비앤비, 위험 이용자와 연관되면 서비스 금지"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230302083030</link>
-            <guid>https://zdnet.co.kr/view/?no=20230302083030</guid>
-            <pubDate>Thu, 02 Mar 2023 02:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비가 금지된 이용자와 연관된 사람에게도 숙박 서비스를 제공하지 않는다. 마더보드, 엔가젯 등 외신은 1일(현지시간) 에어비앤비가 금지된 이용자와 여행 가능성이 있는 사람...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
