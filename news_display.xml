@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 07:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 08:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서버 출하량 또 하향 전망…DDR5 전환 속도 늦춰지나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230303154845</link>
+            <guid>https://zdnet.co.kr/view/?no=20230303154845</guid>
+            <pubDate>Fri, 03 Mar 2023 08:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 경기침체가 클라우드 시장에도 영향을 주면서 서버 투자가 미뤄지고 있다. 차세대 서버용 CPU로 전환이 늦춰지면서 서버용 메모리 주문량이 감소하고 DDR5 공급도 지연될 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기자수첩] 정부, 반도체 패권 경쟁에 강 건너 불구경 안돼]]></title>
             <link>https://zdnet.co.kr/view/?no=20230303152328</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230227172014</guid>
             <pubDate>Mon, 27 Feb 2023 09:13:45 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이는 27일부터 다음 달 2일까지 스페인 바로셀로나에서 열리는 'MWC23'에 5년 만에 참가해 '유기발광다이오드(OLED)를 통한 초연결'을 주제로 첫 공개 전시회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 무라타 데이터센터용 전원에 SiC SBD 탑재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230227103416</link>
-            <guid>https://zdnet.co.kr/view/?no=20230227103416</guid>
-            <pubDate>Mon, 27 Feb 2023 08:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체·전자부품 회사 로옴은 27일 3세대 탄화규소(SiC·실리콘카바이드) 쇼트키 배리어 다이오드(SBD) 'SCS308AH'를 일본 무라타파워솔루션의 데이터센터용 전원 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
