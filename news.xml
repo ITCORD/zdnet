@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 00:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 02:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 15인치 맥북에어 곧 출시…맥프로 새 모델도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230304095812</link>
+            <guid>https://zdnet.co.kr/view/?no=20230304095812</guid>
+            <pubDate>Sat, 04 Mar 2023 02:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 4월말 이전에 15인치 맥북에어를 비롯한 새로운 제품을 선보일 예정이라고 맥루머스가 3일(현지시간) 보도했다. 보도에 따르면 애플은 3월초부터 4월말 사이에 15인치 맥...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2018/12/28/bskwon_CnBcg68mW8Oct-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭스콘, 인도에 대형공장 건립…'탈중국' 속도]]></title>
             <link>https://zdnet.co.kr/view/?no=20230304093732</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230303192713</guid>
             <pubDate>Fri, 03 Mar 2023 12:18:59 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDI가 제너럴모터스(GM)와 손 잡고 미국에 배터리 합작공장을 건립한다. 3일 업계에 따르면 삼성SDI는 미국 미시간주에서 GM과 배터리 생산 공장 건립을 위한 업무협약(...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/18/52fba478e08f8179942e81a4a5b661cb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[법원 "카카오, SM엔터 신주 취득 금지"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230303164155</guid>
             <pubDate>Fri, 03 Mar 2023 08:13:57 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 코빗(대표 오세진)은 프랑스 소재 블록체인 데이터 분석 기업 카이코가 실시한 올해 1분기 거래소 평가에서 국내 거래소 중 1위로 선정됐다고 3일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두나무, 가상자산 보이스피싱 피해금 25억6천만원 환급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230303162854</link>
-            <guid>https://zdnet.co.kr/view/?no=20230303162854</guid>
-            <pubDate>Fri, 03 Mar 2023 08:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 '업비트' 운영사인 블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 지난해 보이스피싱 피해자 72명에게 총 25억5천751만원을 환급했다고 3일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
