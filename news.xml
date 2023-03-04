@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 00:53:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭스콘, 인도에 대형공장 건립…'탈중국' 속도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230304093732</link>
+            <guid>https://zdnet.co.kr/view/?no=20230304093732</guid>
+            <pubDate>Sat, 04 Mar 2023 00:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[애플 최대 위탁생산업체인 폭스콘이 인도에 공장을 건립한다고 블룸버그가 3일(현지시간) 보도했다. 보도에 따르면 폭스콘은 7억 달러를 투자해 인도 카르나타 주에 새 공장을 건설할...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/18/eef867e388079623577ee39a95e627c4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDI-GM, 美에 배터리 합작공장 건립…최대 5조원 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20230303192713</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230303185523</guid>
             <pubDate>Fri, 03 Mar 2023 11:09:41 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트 지분 9.05%를 확보하려던 카카오 계획에 제동이 걸렸다. 3일 법조계에 따르면 서울동부지방법원 민사합의21부(김유성 수석부장판사)는 SM엔터 창업자인 이수만 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/25/ed5298bddceb97d8265a2a82c5324fc9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 산업통상자원부]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230303162854</guid>
             <pubDate>Fri, 03 Mar 2023 08:13:57 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 거래소 '업비트' 운영사인 블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 지난해 보이스피싱 피해자 72명에게 총 25억5천751만원을 환급했다고 3일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서버 출하량 또 하향 전망…DDR5 전환 속도 늦춰지나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230303154845</link>
-            <guid>https://zdnet.co.kr/view/?no=20230303154845</guid>
-            <pubDate>Fri, 03 Mar 2023 08:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 경기침체가 클라우드 시장에도 영향을 주면서 서버 투자가 미뤄지고 있다. 차세대 서버용 CPU로 전환이 늦춰지면서 서버용 메모리 주문량이 감소하고 DDR5 공급도 지연될 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
