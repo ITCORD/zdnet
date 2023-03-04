@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 04:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틸론, 코스닥 이전 상장 지연···증권신고서 다시 내야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230304133317</link>
+            <guid>https://zdnet.co.kr/view/?no=20230304133317</guid>
+            <pubDate>Sat, 04 Mar 2023 05:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)의 코스닥 이전 상장이 당초 계획보다 지연될 전망이다. 틸론이 제출한 증권신고서에 대해 금융감독원이 정정 요청을 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/22/98e0d04b8ae7423e79fcb00d8ba7f9e9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, 15인치 맥북에어 곧 출시…맥프로 새 모델도]]></title>
             <link>https://zdnet.co.kr/view/?no=20230304095812</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230304093732</guid>
             <pubDate>Sat, 04 Mar 2023 00:51:32 GMT</pubDate>
             <content:encoded><![CDATA[애플 최대 위탁생산업체인 폭스콘이 인도에 공장을 건립한다고 블룸버그가 3일(현지시간) 보도했다. 보도에 따르면 폭스콘은 7억 달러를 투자해 인도 카르나타 주에 새 공장을 건설할...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/18/eef867e388079623577ee39a95e627c4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성SDI-GM, 美에 배터리 합작공장 건립…최대 5조원 투자]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230303164118</guid>
             <pubDate>Fri, 03 Mar 2023 08:13:57 GMT</pubDate>
             <content:encoded><![CDATA[국내 주요 대기업들이 미국에서 사업을 영위하기 위해 정관계에 막대한 로비자금을 쏟아부은 것으로 나타났다. 3일 재계에 따르면 삼성그룹, SK하이닉스, 현대기아차그룹이 지난해 로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 기업, 국내 가상자산 거래소 중 '코빗' 1위 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230303164155</link>
-            <guid>https://zdnet.co.kr/view/?no=20230303164155</guid>
-            <pubDate>Fri, 03 Mar 2023 08:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 코빗(대표 오세진)은 프랑스 소재 블록체인 데이터 분석 기업 카이코가 실시한 올해 1분기 거래소 평가에서 국내 거래소 중 1위로 선정됐다고 3일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
