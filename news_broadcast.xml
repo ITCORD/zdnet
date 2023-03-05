@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 12:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 13:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT CEO 누가 될까?...YB vs OB '격돌']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230305220627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230305220627</guid>
+            <pubDate>Sun, 05 Mar 2023 13:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[KT 이사회가 차기 대표이사 후보군을 전·현직 임원 등 4배수로 압축한 가운데, 최종후보가 YB(Young Boy) 대 OB(Old Boy) 구도를 띠고 있어 그 결과에 관심이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, '스포키'서 월드 베이스볼 클래식 생중계한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230305123220</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230302004125</guid>
             <pubDate>Wed, 01 Mar 2023 16:15:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI의 챗GPT가 최근 일반 대중에게 큰 관심을 얻는 인공지능(AI) 기술로 자리를 잡았다. 과거 CES에서 아마존의 음성인식 AI 알렉사가 이름을 떨쳤고, 국내에선 구글 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC23] "차세대 통신기술 핵심, '센싱' 주목하세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230301235302</link>
-            <guid>https://zdnet.co.kr/view/?no=20230301235302</guid>
-            <pubDate>Wed, 01 Mar 2023 15:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 통신에서 센싱 기술의 부상이 주목된다. 안테나와 모뎀 사이의 기본적인 이동통신 기술에 센싱 기술이 융합되는 형태로, MWC23에서 센싱 방식의 기술이 첫선을 보이기 시작...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
