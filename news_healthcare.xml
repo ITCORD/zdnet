@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 00:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 02:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위중증 환자 145명…신규확진 4300명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230306100210</link>
+            <guid>https://zdnet.co.kr/view/?no=20230306100210</guid>
+            <pubDate>Mon, 06 Mar 2023 02:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[6일 0시 기준 코로나19 신규 확진자 수는 국내 4천280명, 해외유입 사례 20명 등 총 4천300명으로 집계됐다. 코로나19 중앙방역대책본부(방대본)에 따르면, 주간 코로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국민연금 기준소득월액 상·하한액 조정…상한액 590만원, 하한액 37만원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230306002347</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230302092329</guid>
             <pubDate>Thu, 02 Mar 2023 00:59:13 GMT</pubDate>
             <content:encoded><![CDATA[GC녹십자는 미국 신약개발업체 카탈리스트 바이오사이언스(Catalyst Biosciences, 나스닥: CBIO)와 희귀 혈액응고 질환 관련 파이프라인에 대한 자산양수도계약(A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보령, 소세포폐암 도입신약 '젭젤카' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230302091749</link>
-            <guid>https://zdnet.co.kr/view/?no=20230302091749</guid>
-            <pubDate>Thu, 02 Mar 2023 00:59:13 GMT</pubDate>
-            <content:encoded><![CDATA[보령(구 보령제약)이 소세포폐암 신약 '젭젤카주'(성분명 러비넥테딘)를 국내에 정식 출시했다고 밝혔다. 젭젤카는 스페인 제약사 파마마(PharmaMar S.A.)에서 개발한 항...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
