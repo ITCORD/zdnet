@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 04:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 05:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 서버용 GPU '리알토 브리지' 출시 취소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230306114306</link>
+            <guid>https://zdnet.co.kr/view/?no=20230306114306</guid>
+            <pubDate>Mon, 06 Mar 2023 05:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 AI와 HPC(고성능 컴퓨팅)에 특화된 서버용 GPU 출시 간격을 2년 단위로 조정한다. 이에 올 하반기 시제품 공급에 이어 내년 정식 출시 예정이었던 '리알토 브리지'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, 개인정보 통합포털 서비스 개시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230306083520</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230303150015</guid>
             <pubDate>Fri, 03 Mar 2023 07:10:41 GMT</pubDate>
             <content:encoded><![CDATA["클라우드 생태계는 포인트 솔루션 도입으로 하나하나 다 보안을 하기에는 인력이 너무 많이 들어갑니다. 가시성부터 워크로드까지 책임지는 'CNAPP' 하나의 단일 플랫폼으로 보안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인도 수집? NFT 생태계 야금야금 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230303115331</link>
-            <guid>https://zdnet.co.kr/view/?no=20230303115331</guid>
-            <pubDate>Fri, 03 Mar 2023 06:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인 네트워크 기반의 대체불가토큰(NFT)이 올초 등장, 점차 생태계가 확장되고 있다. NFT 등록이 비트코인 네트워크에 바람직하지 않다는 비판론도 있으나 동참 세력이 늘어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
