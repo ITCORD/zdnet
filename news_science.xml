@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 01:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 02:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모바일 기기에서 3D 렌더링 하는 AI 반도체 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307095724</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307095724</guid>
+            <pubDate>Tue, 07 Mar 2023 02:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST(총장 이광형)는 모바일 기기에서 실사에 가까운 3D 렌더링을 할 수 있는 인공지능(AI) 반도체를 개발했다고 7일 밝혔다. 블렌더 같은 복잡한 소프트웨어 없이 3D ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/07/5d749dffb19edf26560851f611f445b3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세포 노화 되돌리고, AI가 단백질 설계한다...주목해야 할 바이오 미래 기술]]></title>
             <link>https://zdnet.co.kr/view/?no=20230306101806</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230306111232</guid>
             <pubDate>Mon, 06 Mar 2023 02:25:10 GMT</pubDate>
             <content:encoded><![CDATA[조절T세포는 면역반응을 일으키는 일반 T세포와는 달리 면역반응을 억제하는 T세포이다. 자기항원에 대한 면역반응을 억눌러 자가면역 질환을 막는 역할을 하지만, 암 환자의 경우 암...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/06/8c1ea65bd8de64a23bce33cf1bd639ed-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이태식 신임 과총 회장 취임, "창업 생태계 육성-과학기술 외교로 K-테크 창조"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230223114017</guid>
             <pubDate>Thu, 23 Feb 2023 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[차세대 에너지원으로 주목받는 핵융합 발전 국내 상용화를 위한 첫걸음을 뗐다. 정부가 2050년 핵융합 발전 상용화를 목표로, 연구개발의 방향타 역할을 할 핵융합 실증로의 청사진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[RNA로 유전자 조절해 질병 치료····"단백질 엔지니어링 시대 온다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222183611</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222183611</guid>
-            <pubDate>Wed, 22 Feb 2023 16:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[유전자 발현 조절 등 생명 현상의 핵심 요소 중 하나인 RNA 작동 원리의 비밀이 또 한겹 풀렸다. 암이나 유전병, 감염병에 대한 RNA 기반 치료법 개발에 기여할 전망이다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
