@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 02:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS코리아, 실직·구직자 대상 무료 교육 프로그램 시행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230307115804</link>
+            <guid>https://zdnet.co.kr/view/?no=20230307115804</guid>
+            <pubDate>Tue, 07 Mar 2023 03:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)코리아가 IT와 클라우드 경험을 갖지 못한 실직자와 구직자에게 기본 클라우드 기술 소양 교육을 제공하는 프로그램을 출시했다. AWS코리아는 7일 서울 사옥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고팍스, FIU에 바이낸스 출신 대표·임원 등록 신고]]></title>
             <link>https://zdnet.co.kr/view/?no=20230307101856</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230306214516</guid>
             <pubDate>Mon, 06 Mar 2023 13:21:43 GMT</pubDate>
             <content:encoded><![CDATA[마인즈랩(대표 유태준)은 캐나다 3대 인공지능연구소 중 하나인 알버타 인공지능 연구소 (Alberta Machine Intelligence Institute, AMII)와 공동...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국어 질문도 찰떡같이 알아듣는 챗GPT 나왔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230306171912</link>
-            <guid>https://zdnet.co.kr/view/?no=20230306171912</guid>
-            <pubDate>Mon, 06 Mar 2023 09:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[웹3 서비스 기업 체인파트너스(대표 표철민)는 6일 자회사 소사이어티99를 통해 한국어 기반 챗GPT 서비스인 '네이티브'를 출시한다고 밝혔다. 네이티브는 인공지능(AI) 기반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
