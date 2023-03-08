@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 00:58:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, F타일 내장 애질렉스 7 FPGA 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230308094251</link>
+            <guid>https://zdnet.co.kr/view/?no=20230308094251</guid>
+            <pubDate>Wed, 08 Mar 2023 00:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 8일 F타일을 내장한 애질렉스 7 FPGA를 신규 출시했다. 애질렉스 7 FPGA는 서로 다른 공정에서 생산된 반도체를 상호 연결하는 EMIB 기술을 통해 필요한 기능을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DB하이텍, 팹리스 사업 물적분할…'DB팹리스' 신설]]></title>
             <link>https://zdnet.co.kr/view/?no=20230307173643</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230303103357</guid>
             <pubDate>Fri, 03 Mar 2023 02:45:53 GMT</pubDate>
             <content:encoded><![CDATA[2월 무역 적자가 53억 달러로 집계됐다. 이로써 무역 적자 행진은 지난해 3월부터 1년째 이어지고 있다. 무역 적자가 12개월 이상 지속된 것은 '1995년 1월~1997년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 4분기 D램 매출 33% 급감…삼성, 나홀로 점유율 상승]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230303085947</link>
-            <guid>https://zdnet.co.kr/view/?no=20230303085947</guid>
-            <pubDate>Fri, 03 Mar 2023 02:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 4분기 글로벌 D램 메모리 반도체 매출이 전분기 보다 32.5% 감소한 것으로 나타났다. 다만, 삼성전자는 경쟁사 보다 매출이 가장 적게 줄면서 점유율은 전분기 보다 증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
