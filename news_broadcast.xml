@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[OTT 웨이브, 2023 WBC 생중계 나선다]]></title>
+            <title><![CDATA[애플, 아이폰 위성통신 서비스 지원 유럽으로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230308102624</link>
+            <guid>https://zdnet.co.kr/view/?no=20230308102624</guid>
+            <pubDate>Wed, 08 Mar 2023 05:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 아이폰 위성통신 서비스를 유럽으로 확대한다. 7일(현지시간) 미국 IT매체 애플인사이더에 따르면, 애플은 유럽 내 위성 긴급(SOS) 메시지 지원 국가를 기존 4개국에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OTT 웨이브, 2023 WBC 생중계한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230308124408</link>
             <guid>https://zdnet.co.kr/view/?no=20230308124408</guid>
             <pubDate>Wed, 08 Mar 2023 04:13:28 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230307094538</guid>
             <pubDate>Tue, 07 Mar 2023 02:29:46 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 인공지능(AI) 기술을 로봇에 접목해 순찰로봇 서비스 상품화에 나선다. SK텔레콤은 자사 AI기술을 바탕으로 자율주행 배달로봇 선도업체 뉴빌리티, 융합보안 서비스 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['홈쇼핑 송출수수료 가이드라인' 개정 초읽기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230306164726</link>
-            <guid>https://zdnet.co.kr/view/?no=20230306164726</guid>
-            <pubDate>Mon, 06 Mar 2023 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[유료방송-홈쇼핑 업계가 송출 수수료를 두고 갈등을 지속해온 가운데, 관련 가이드라인 개정이 임박해 개정 결과와 영향에 관심이 쏠린다. 6일 관련 업계에 따르면, 정부는 이르면 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
