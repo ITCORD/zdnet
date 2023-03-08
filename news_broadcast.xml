@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 06:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤경림 KT 대표 후보, 지배구조개선 시동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230308153144</link>
+            <guid>https://zdnet.co.kr/view/?no=20230308153144</guid>
+            <pubDate>Wed, 08 Mar 2023 07:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[KT 차기 대표이사 최종후보인 윤경림 그룹트랜스포메이션부문장이 본격적인 지배구조개선에 나섰다. KT는 윤 사장이 '지배구조개선TF'(가칭)를 조직하고 ▲대표이사 선임절차 ▲사외...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 아이폰 위성통신 서비스 지원 유럽으로 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20230308102624</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230307110348</guid>
             <pubDate>Tue, 07 Mar 2023 02:29:46 GMT</pubDate>
             <content:encoded><![CDATA[업스테이지가 싱가포르에서 열린 WSDM2023에서 우수 논문상을 수상했다고 7일 밝혔다. WSDM은 웹 검색과 데이터 마이닝 분야의 세계적인 학회로 ACM 주관으로 매년 개최,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 자율주행 AI순찰로봇 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230307094538</link>
-            <guid>https://zdnet.co.kr/view/?no=20230307094538</guid>
-            <pubDate>Tue, 07 Mar 2023 02:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 인공지능(AI) 기술을 로봇에 접목해 순찰로봇 서비스 상품화에 나선다. SK텔레콤은 자사 AI기술을 바탕으로 자율주행 배달로봇 선도업체 뉴빌리티, 융합보안 서비스 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
