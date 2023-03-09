@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 10:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 11:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5G 전국망 구축 국가 나오기 시작한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230309191154</link>
+            <guid>https://zdnet.co.kr/view/?no=20230309191154</guid>
+            <pubDate>Thu, 09 Mar 2023 11:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[5G 전국망 구축을 마치는 국가들이 속속 등장할 전망이다. 올해 30개 이상의 국가에서 새롭게 5G 서비스를 도입할 예정인 가운데 망 구축 완료 단계에 접어드는 통신사들이 등장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[화웨이 클라우드, 아태지역 파트너 생태계 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230309180112</link>
@@ -144,14 +152,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[윤경림 사장, KT 임직원에 "조직 안정화 힘쓰겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230308162030</link>
-            <guid>https://zdnet.co.kr/view/?no=20230308162030</guid>
-            <pubDate>Wed, 08 Mar 2023 08:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[KT 차기 대표이사 최종후보인 윤경림 그룹트랜스포메이션부문장이 임직원에게 "회사 안팎서 제기된 많은 우려를 불식시키고 회사를 빠르게 안착 시켜야 하는 막중한 책임감을 느낀다"고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[이종호 장관 "3월 중 초거대AI 산업 정책방향 발표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230308160445</link>
             <guid>https://zdnet.co.kr/view/?no=20230308160445</guid>
@@ -160,11 +160,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[윤경림 KT 대표 후보, 지배구조개선 시동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230308153144</link>
-            <guid>https://zdnet.co.kr/view/?no=20230308153144</guid>
-            <pubDate>Wed, 08 Mar 2023 07:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[KT 차기 대표이사 최종후보인 윤경림 그룹트랜스포메이션부문장이 본격적인 지배구조개선에 나섰다. KT는 윤 사장이 '지배구조개선TF'(가칭)를 조직하고 ▲대표이사 선임절차 ▲사외...]]></content:encoded>
+            <title><![CDATA[윤경림 사장, KT 임직원에 "조직 안정화 힘쓰겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230308162030</link>
+            <guid>https://zdnet.co.kr/view/?no=20230308162030</guid>
+            <pubDate>Wed, 08 Mar 2023 08:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[KT 차기 대표이사 최종후보인 윤경림 그룹트랜스포메이션부문장이 임직원에게 "회사 안팎서 제기된 많은 우려를 불식시키고 회사를 빠르게 안착 시켜야 하는 막중한 책임감을 느낀다"고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
