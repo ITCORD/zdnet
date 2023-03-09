@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 22:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 23:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메프, 인기 상품 선착순 한정 판매]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230310080802</link>
+            <guid>https://zdnet.co.kr/view/?no=20230310080802</guid>
+            <pubDate>Thu, 09 Mar 2023 23:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[위메프가 이달 13일부터 17일까지 핫딜 기획전 '오픈런 특가'를 진행한다고 10일 밝혔다. 오픈런 특가는 트렌드 인기 상품을 모아 한정 수량으로 판매하는 초특가 프로모션이다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/10/36f3adb630d0feb12ae9118824c8a342-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG생활건강, 스타트업 베끼기 논란…"업계 1위가 왜"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230309104556</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230309191154</guid>
             <pubDate>Thu, 09 Mar 2023 11:09:50 GMT</pubDate>
             <content:encoded><![CDATA[5G 전국망 구축을 마치는 국가들이 속속 등장할 전망이다. 올해 30개 이상의 국가에서 새롭게 5G 서비스를 도입할 예정인 가운데 망 구축 완료 단계에 접어드는 통신사들이 등장...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/11/07/0621d288ccfd6d2b6193c58025b3e15b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 한국전자통신연구원(ETRI) 본부장]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230309171157</guid>
             <pubDate>Thu, 09 Mar 2023 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[한국지멘스 디지털 인더스트리가 '스마트공장·자동화산업전 2023'에 4년만에 참가해 디지털 전환 솔루션을 제시했다. 티노 힐데브란트 한국지멘스 부사장은 9일 간담회를 열고 주요...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이블TV 지역채널 개표방송서 시청률 9.98% 기록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309173947</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309173947</guid>
-            <pubDate>Thu, 09 Mar 2023 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[서경방송이 지난 8일 3회 전국동시조합장선거 개표방송에서 최고 시청률 9.98%를 기록했다. 케이블TV 지역채널이 전체 채널 시청률 1위를 기록하며 이목이 집중된다. 개표방송은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
