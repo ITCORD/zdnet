@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 05:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 06:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중소SI들, 대기업 참여 완화 반발···"먼저 사업대가 정상화를"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230311145707</link>
+            <guid>https://zdnet.co.kr/view/?no=20230311145707</guid>
+            <pubDate>Sat, 11 Mar 2023 06:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 공공 정보화(SW) 사업에서 대기업 참여 제한 완화를 추진하고 있는 가운데 중소 SI 및 소프트웨어(SW) 기업들이 "사업대가 정상화가 먼저"라며 강력 반발했다. 10일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/11/d126fbbf683c1e937b24b2274b7a480f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오-하이브, SM엔터 인수 합의점 찾나]]></title>
             <link>https://zdnet.co.kr/view/?no=20230311131231</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230311123751</guid>
             <pubDate>Sat, 11 Mar 2023 04:12:02 GMT</pubDate>
             <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/11/870ffc96f2adc6bd36dad41568e51129-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 '실리콘밸리 돈줄' SVB 파산…IT업계 비상]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230310173304</guid>
             <pubDate>Fri, 10 Mar 2023 09:12:11 GMT</pubDate>
             <content:encoded><![CDATA[넥슨(대표 이정헌)은 10일 게임 서브 브랜드 '민트로켓(MINTROCKET)'의 첫 신작 '데이브 더 다이버(DAVE THE DIVER, 이하 데이브)'의 개발자 영상을 공개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[독일 마이크로소프트 "GPT-4 다음 주 나온다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230310160225</link>
-            <guid>https://zdnet.co.kr/view/?no=20230310160225</guid>
-            <pubDate>Fri, 10 Mar 2023 09:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[독일 마이크로소프트가 대규모 인공지능(AI) 모델 'GPT-4'를 다음 주 공개하겠다고 밝혔다. 안드레스 브라운 독일 마이크로소프트 최고기술책임자(CTO)는 9일(현지시간) 독...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
