@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 22:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 23:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨 바람의나라:연, 새 업데이트 로드맵 공개...새 직업에 지역 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230312072840</link>
+            <guid>https://zdnet.co.kr/view/?no=20230312072840</guid>
+            <pubDate>Sat, 11 Mar 2023 23:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨코리아가 모바일 게임 '바람의나라: 연'의 첫 오프라인 쇼케이스를 개최하고, 새 콘텐츠 업데이트 계획을 공개했다. 넥슨코리아는 지난 11일 판교 사옥 1994홀에서 '바람의...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/12/302324257884186873809f01f093e5d1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중소SI들, 대기업 참여 완화 반발···"먼저 사업대가 정상화를"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230311145707</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230311131231</guid>
             <pubDate>Sat, 11 Mar 2023 05:09:20 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트 경영권 인수를 두고 경쟁을 벌이는 카카오와 하이브가 최근 대면해 합의점 찾기에 나선 것으로 알려졌다. 11일 관련업계에 따르면 카카오와 하이브 측은 지난 10일...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/11/b8f1077f49ba136fcea8d0a135573ac8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["로봇 간 인수인계 하는 미래병원 만들어야죠"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230310173759</guid>
             <pubDate>Fri, 10 Mar 2023 09:12:11 GMT</pubDate>
             <content:encoded><![CDATA[BSG 파트너스는 아마존웹서비스(AWS)가 블로그를 통해 '라이즈 위드 SAP'(Rise with SAP) 분야에서 관련 대표기업 중 하나로 BSG 파트너스를 언급했다고 10일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 민트로켓 '데이브 더 다이버', 6월 정식 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230310173304</link>
-            <guid>https://zdnet.co.kr/view/?no=20230310173304</guid>
-            <pubDate>Fri, 10 Mar 2023 09:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨(대표 이정헌)은 10일 게임 서브 브랜드 '민트로켓(MINTROCKET)'의 첫 신작 '데이브 더 다이버(DAVE THE DIVER, 이하 데이브)'의 개발자 영상을 공개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
