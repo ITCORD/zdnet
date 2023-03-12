@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 05:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 06:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ZD 브리핑] 이번 주 꼭 챙겨봐야 할 뉴스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230312142549</link>
+            <guid>https://zdnet.co.kr/view/?no=20230312142549</guid>
+            <pubDate>Sun, 12 Mar 2023 06:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 시작합니다. '꼭 챙길 뉴스'에는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/11/234da4e65233faf6e563f9198ba87f16.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[현대차-UNDP '포 투모로우', SXSW 어워즈 최종후보에 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230312134904</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230312133220</guid>
             <pubDate>Sun, 12 Mar 2023 05:09:52 GMT</pubDate>
             <content:encoded><![CDATA[할리데이비슨 코리아는 지난 11일 할리데이비슨 용인점에서 120주년 기념 모델 6종을 공개하는 자리를 가졌다고 12일 밝혔다. 이날 할리데이비슨은 전 지점에서 120주년 기념 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/12/a6cfcec21875231d20362bd5af1e869c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MS, 이미지까지 이해하고 만드는 '비주얼챗GPT' 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230312103615</guid>
             <pubDate>Sun, 12 Mar 2023 02:19:51 GMT</pubDate>
             <content:encoded><![CDATA[워너브라더스가 오픈월드 어드벤처 게임 '수어사이드 스쿼드: 킬 더 저스티스 리그'(수어사이드 스쿼드) 출시를 올해 말로 연기했다고 영국 게임산업 매체 게임인더스트리가 10일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[실리콘밸리은행 직원, 파산 몇 시간 전 보너스 수령 의혹]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230312092227</link>
-            <guid>https://zdnet.co.kr/view/?no=20230312092227</guid>
-            <pubDate>Sun, 12 Mar 2023 02:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[파산한 미국 실리콘밸리은행(SVB)의 자산을 압류하기 불과 몇 시간 전에 연간 보너스를 받은 직원이 있다는 의혹이 일고 있다. CNBC는 11일(현지시간) SVB에 정통한 관계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
