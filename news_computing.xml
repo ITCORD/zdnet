@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 03:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 04:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS 동탄 데이터센터 "클라우드 사업 핵심"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230312115532</link>
+            <guid>https://zdnet.co.kr/view/?no=20230312115532</guid>
+            <pubDate>Sun, 12 Mar 2023 04:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[“동탄 데이터센터는 삼성SDS의 클라우드 사업에서 핵심적인 역할을 수행하게 될 것이다. 인공지능(AI), 기계학습(ML) 등으로 비즈니스를 체계화하고 싶은 고객에게 제공하는 답...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위기에 빠진 中 AI 챗봇..."출시 5일 남았는데 오류 해결 못해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230312112443</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230310095514</guid>
             <pubDate>Fri, 10 Mar 2023 02:28:10 GMT</pubDate>
             <content:encoded><![CDATA[오라클이 클라우드 사업에 힘입어 매출 성장을 보였지만, 강달러와 지출 증가로 전년보다 감소한 영업이익을 기록했다. 오라클은 9일(현지시간) 2023 회계연도 3분기 실적발표에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 애저 챗GPT 서비스 출시…천토큰당 0.002센트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230310083541</link>
-            <guid>https://zdnet.co.kr/view/?no=20230310083541</guid>
-            <pubDate>Fri, 10 Mar 2023 00:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 애저에서 오픈AI의 챗GPT를 API 서비스를 쓸 수 있게 됐다. 9일(현지시간) 마이크로소프트는 애저 오픈AI 서비스의 챗GPT 서비스 미리보기를 제공한다고 발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
