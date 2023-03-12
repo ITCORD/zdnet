@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 23:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 00:57:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 파산 은행 SVB에 돈 맡긴 스테이블코인 위기론 '솔솔']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230311224823</link>
+            <guid>https://zdnet.co.kr/view/?no=20230311224823</guid>
+            <pubDate>Sun, 12 Mar 2023 00:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[미국 실리콘밸리은행(SVB)이 파산함에 따라 SVB에 준비금 일부를 보관하던 스테이블코인 'USD코인(USDC)'에 대한 위기론이 번지고 있다. 이런 여파로 시세가 고정 가치인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미소정보기술, 부산 동구 통합 빅데이터 플랫폼 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230310181536</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230309183620</guid>
             <pubDate>Thu, 09 Mar 2023 10:12:14 GMT</pubDate>
             <content:encoded><![CDATA[개인정보 유관학회가 개인정보보호법 개정에 환영의 목소리를 냈다. 유관학회들은 입법자료집 발간을 요청했으며, 개인정보보호위원회가 마이데이터 업무를 수행하기 위해 그에 걸맞는 조직...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유플리트, KB국민은행 UX/UI 운영 3년 연속 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309182244</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309182244</guid>
-            <pubDate>Thu, 09 Mar 2023 10:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[유플리트가 KB국민은행의 UX/UI 연간 운영 사업을 3년 연속 수주했다고 9일 밝혔다. KB국민은행은 업무 확장에 따라 매년 전문 운영 태스크포스(TF)의 정원(TO)를 늘리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
