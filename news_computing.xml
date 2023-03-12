@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 04:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 05:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 이미지까지 이해하고 만드는 '비주얼챗GPT' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230312130707</link>
+            <guid>https://zdnet.co.kr/view/?no=20230312130707</guid>
+            <pubDate>Sun, 12 Mar 2023 05:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 문자뿐만 아니라 이미지까지 이해, 생성할 수 있는 '비주얼챗GPT'를 소개했다. 마이크로소프트는 깃허브에 11일(현지시간) 비주얼챗GPT 모델을 공개했다. 이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS 동탄 데이터센터 "클라우드 사업 핵심"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230312115532</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230310094308</guid>
             <pubDate>Fri, 10 Mar 2023 02:28:10 GMT</pubDate>
             <content:encoded><![CDATA[2016년 발생한 국방망 해킹 사건에 대해 하우리의 책임이 없다는 법원 판단이 확정됐다. 10일 업계에 따르면 국방부는 지난 7일 하우리와 LG CNS를 상대로 낸 50억 손해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클, 분기 영업이익 33억달러…클라우드 45% 성장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230310095514</link>
-            <guid>https://zdnet.co.kr/view/?no=20230310095514</guid>
-            <pubDate>Fri, 10 Mar 2023 02:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[오라클이 클라우드 사업에 힘입어 매출 성장을 보였지만, 강달러와 지출 증가로 전년보다 감소한 영업이익을 기록했다. 오라클은 9일(현지시간) 2023 회계연도 3분기 실적발표에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
