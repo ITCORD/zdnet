@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 금융</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 09 Mar 2023 20:14:33 GMT</pubDate>
             <content:encoded><![CDATA[일단 사고난 후 나중에 결제하는 '선구매 후지불(Buy now, pay later, 이하 BNPL)' 서비스가 주요국 Z세대를 중...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美 SVB 사태, 연준 고강도 금리정책 영향?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230313101436</link>
+            <guid>https://zdnet.co.kr/view/?no=20230313101436</guid>
+            <pubDate>Mon, 13 Mar 2023 03:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[미국 실리콘밸리은행(SVB) 사태로 시장이 술렁이고 있다. 미국 연방준비제도의 고강도 금리정책으로 기업가에 돈줄이 마르고 있는 상황인데 SVB 사태는 이러한 상황이 수면 위에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국은행 "美 SVB 사태, 리스크 확산 가능성 적어"]]></title>
@@ -205,14 +213,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230309135711</guid>
             <pubDate>Thu, 09 Mar 2023 05:12:57 GMT</pubDate>
             <content:encoded><![CDATA[지난달 은행 가계대출 잔액은 1월 대비 2조7척억원 감소한 1천50조7천억원을 기록한 것으로 나타났다. 9일 한국은행은 '2023년 2월중 금융시장 동향'을 발표했다. 한국은행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이창용 한국은행 총재, 'BIS 총재회의' 참석]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309134118</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309134118</guid>
-            <pubDate>Thu, 09 Mar 2023 05:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[이창용 한국은행 총재가 스위스 바젤에서 개최되는 '국제결제은행(BIS) 총재회의' 등에 참석한다. 9일 한국은행은 이 총재가 12일부터 13일까지 개최되는 ▲세계경제회의 ▲전체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
