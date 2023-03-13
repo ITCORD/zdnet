@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 06:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 07:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, '오픈채팅' 개인정보 유출 논란…"유저 아이디 유출 방지 완료"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230313144534</link>
+            <guid>https://zdnet.co.kr/view/?no=20230313144534</guid>
+            <pubDate>Mon, 13 Mar 2023 07:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한 데이터 추출 업체가 카카오톡 오픈채팅에 참여한 이용자 개인 정보를 빼낼 수 있다고 광고해 논란인 가운데, 카카오가 이용자 아이디 유출 방지 조치를 취했다고 밝혔다. 다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[신간소개] 실전 정보기술 컨설팅]]></title>
             <link>https://zdnet.co.kr/view/?no=20230313143900</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230312111005</guid>
             <pubDate>Sun, 12 Mar 2023 03:13:12 GMT</pubDate>
             <content:encoded><![CDATA[하이브가 SM엔터테인먼트 인수 중단을 결정하자 카카오는 "결정을 존중한다"면서 예정한 공개매수 일정대로 추가 지분을 확보한다고 했다. 카카오는 12일 입장문을 내고 “우리와 카...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, SM엔터 인수 중단…경영권은 카카오가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230312110403</link>
-            <guid>https://zdnet.co.kr/view/?no=20230312110403</guid>
-            <pubDate>Sun, 12 Mar 2023 02:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[하이브가 SM엔터테인먼트 인수를 중단하기로 했다. 하이브는 12일 SM엔터 인수 절차를 이날부터 중단한다고 밝혔다. 하이브는 카카오· 카카오엔터테인먼트와의 경쟁 구도로 인해 시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
