@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 06:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신간소개] 실전 정보기술 컨설팅]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230313143900</link>
+            <guid>https://zdnet.co.kr/view/?no=20230313143900</guid>
+            <pubDate>Mon, 13 Mar 2023 06:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[IT 시장은 최첨단 기술이 각축을 벌이는 현장이다. 그런만큼 시장 상황이 빠르게 변화한다. 이런 상황에서 생존과 번영의 길을 찾는 것이 말처럼 쉽지는 않다. IT 컨설턴트는 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공단기, 2023 국가직 9급 시험 대비 '파이널 라이브 특강' 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230313134902</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230312110403</guid>
             <pubDate>Sun, 12 Mar 2023 02:20:25 GMT</pubDate>
             <content:encoded><![CDATA[하이브가 SM엔터테인먼트 인수를 중단하기로 했다. 하이브는 12일 SM엔터 인수 절차를 이날부터 중단한다고 밝혔다. 하이브는 카카오· 카카오엔터테인먼트와의 경쟁 구도로 인해 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오-하이브, SM엔터 인수 합의점 찾나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230311131231</link>
-            <guid>https://zdnet.co.kr/view/?no=20230311131231</guid>
-            <pubDate>Sat, 11 Mar 2023 05:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트 경영권 인수를 두고 경쟁을 벌이는 카카오와 하이브가 최근 대면해 합의점 찾기에 나선 것으로 알려졌다. 11일 관련업계에 따르면 카카오와 하이브 측은 지난 10일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
