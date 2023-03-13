@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 08:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 10:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 최대 매출 신일전자, 영업익은 69% '뚝']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230313172000</link>
+            <guid>https://zdnet.co.kr/view/?no=20230313172000</guid>
+            <pubDate>Mon, 13 Mar 2023 10:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[신일전자가 지난해 창사 이래 최고 매출액을 기록했다. 동절기 가전 판매가 꾸준히 늘면서 주력 품목인 선풍기와 함께 실적을 이끌었다. 다만 고환율로 인해 영업이익은 줄었다. 신일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 'ISH 2023' 첫 참가...공조 솔루션 알린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230313100920</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230310143815</guid>
             <pubDate>Fri, 10 Mar 2023 06:14:52 GMT</pubDate>
             <content:encoded><![CDATA[AMD가 3년 전 출시한 프로세서인 라이젠 3 4300G를 이달 초부터 일본과 유럽 등 시장에 일반 소비자용으로 공급하기 시작했다. 라이젠 3 4300G는 젠2(Zen 2) 아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성 차세대 XR 기기, 안경이 아닌 헤드셋 형태"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230310141641</link>
-            <guid>https://zdnet.co.kr/view/?no=20230310141641</guid>
-            <pubDate>Fri, 10 Mar 2023 06:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 퀄컴, 구글과 협력해 개발 중이라고 알려진 XR(혼합현실) 기기가 가상현실(VR)/증강현실(AR) 콘텐츠와 외부 세계를 함께 보여주는 디스플레이가 장착된 헤드셋 형태...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
