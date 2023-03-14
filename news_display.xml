@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 파운드리 점유율 15.8%...TSMC와 격차 더 커졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230314134450</link>
+            <guid>https://zdnet.co.kr/view/?no=20230314134450</guid>
+            <pubDate>Tue, 14 Mar 2023 06:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 4분기 파운드리 시장에서 1위인 TSMC와 2위인 삼성전자의 점유율 격차가 이전보다 더 벌어졌다. 양사의 점유율 격차는 지난해 2분기 37%포인트(P)에서 3분기 40....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NXP, 마이크로컨트롤러 'MCUXpresso' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230314112849</link>
+            <guid>https://zdnet.co.kr/view/?no=20230314112849</guid>
+            <pubDate>Tue, 14 Mar 2023 06:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 14일 마이크로컨트롤러 'MCUXpresso' 도구 신제품을 출시했다. 새로운 통합개발환경(IDE)을 제공한다고 NXP는 소개했다. ▲마이크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ICT 수출 8개월 연속 감소...메모리반도체 반토막]]></title>
             <link>https://zdnet.co.kr/view/?no=20230314135852</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230309102407</guid>
             <pubDate>Thu, 09 Mar 2023 02:24:49 GMT</pubDate>
             <content:encoded><![CDATA[시장조사업체 옴디아가 '2023년 하반기 한국 디스플레이 컨퍼런스'를 이달 15일~16일 이틀간 삼성동 코엑스에서 개최한다. 컨퍼런스는 18명의 전 세계 옴디아 소속 디스플레이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DB하이텍, 가동률 80%대로 상승...전력반도체 수요 회복 덕분]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309093319</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309093319</guid>
-            <pubDate>Thu, 09 Mar 2023 02:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[파운드리(위탁생산) 업체 DB하이텍 가동률이 전력반도체 수요에 힘입어 지난 달 80% 중반대까지 상승했다. 지난 몇년간 반도체 시장 호황으로 DB하이텍의 가동률은 100%를 보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크론, 데이터센터용 SSD 9400 시리즈 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230309094622</link>
-            <guid>https://zdnet.co.kr/view/?no=20230309094622</guid>
-            <pubDate>Thu, 09 Mar 2023 00:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[마이크론이 9일 데이터센터용 고성능 SSD '마이크론 9400'을 출시하고 전세계 시장 공급에 들어갔다. 마이크론 9400은 PCI 익스프레스 4.0 기반으로 작동하며 최대 용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
