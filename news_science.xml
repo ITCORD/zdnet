@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D램 메모리 안에서 연산까지...KAIST, '메모리+AI반도체' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230314153611</link>
+            <guid>https://zdnet.co.kr/view/?no=20230314153611</guid>
+            <pubDate>Tue, 14 Mar 2023 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[연산과 저장 기능이 분리되지 않은 뇌처럼 D램 메모리 안에 연산 기능을 함께 구현한 PIM 반도체가 개발됐다. 챗GPT와 같은 거대 인공지능 모델을 낮은 전력으로 가동할 수 있...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/14/178a6d63e52136ec2385d7e99dd24c40-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대기 중 탄소포집 기술에 3년 간 197억원 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20230310120625</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230309083320</guid>
             <pubDate>Fri, 10 Mar 2023 00:57:14 GMT</pubDate>
             <content:encoded><![CDATA[초파리 애벌레 뇌 속 모든 뉴런과 시냅스의 구조와 연결 상태가 규명됐다. 이는 지금까지 인간이 완전한 구조를 밝혀 낸 뇌 중 가장 가장 복잡한 뇌다. 초파리 애벌레의 뇌는 30...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/09/05d92c8a3336fcef1b84cbc6d1e26101-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국가사회적 난제 해결할 '한계도전 R&D 프로젝트' 추진]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230228091903</guid>
             <pubDate>Tue, 28 Feb 2023 00:57:23 GMT</pubDate>
             <content:encoded><![CDATA[기술 패권 경쟁 시대 국가 안보에 핵심 역할을 할 12대 국가전략기술을 육성하기 위한 '국가전략기술 육성에 관한 특별법'이 27일 국회 본회의를 통과했다. 정부는 초격차 전략기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재해 방지·사고 예방, 이제 AI와 센서가 맡는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230227233249</link>
-            <guid>https://zdnet.co.kr/view/?no=20230227233249</guid>
-            <pubDate>Tue, 28 Feb 2023 00:57:23 GMT</pubDate>
-            <content:encoded><![CDATA[안전 의식이 높아지고 여러 규정과 규제가 촘촘하게 만들어져도 생각지 못한 곳에서 안전 사고나 재난은 터지곤 한다. 집중력이나 역량의 한계가 불가피한 사람의 안전불감증만 탓하기보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
