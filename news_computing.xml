@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 08:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["개인정보 유출사고, 해커와 내부자 분류해 대응해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230315172516</link>
+            <guid>https://zdnet.co.kr/view/?no=20230315172516</guid>
+            <pubDate>Wed, 15 Mar 2023 09:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보 유출사고에 제대로 대응하기 위해서는 유출 행위자인 해커와 내부자를 분류해야 한다는 의견이 나왔다. 개인정보보호위원회는 15일 은행회관 국제회의실에서 '개인 일상의 위협...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 창작자 주도형 NFT 생태계 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230315170339</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230315093716</guid>
             <pubDate>Wed, 15 Mar 2023 00:52:34 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트의 챗GPT 기반 오피스 제품군 발표를 하루 앞두고, 구글이 선수를 쳤다. 구글 워크스페이스 앱을 위한 생성 AI 기능 제품을 전격 발표한 것이다. 14일(현지시간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이니텍, 종이문서 데이터 변환 서비스 '다큐제로' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230315093257</link>
-            <guid>https://zdnet.co.kr/view/?no=20230315093257</guid>
-            <pubDate>Wed, 15 Mar 2023 00:52:34 GMT</pubDate>
-            <content:encoded><![CDATA[KT그룹의 금융·보안 전문기업 이니텍은 종이문서를 데이터로 변환해주는 서비스인 다큐제로를 출시했다고 15일 밝혔다. 다큐제로는 KT 공인전자문서센터와 연계, 전자화 문서 생성부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
