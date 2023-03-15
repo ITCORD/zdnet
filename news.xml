@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 19:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 20:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비대면진료 초진 제외시 '업계 셧 다운'…원산협 "시대 역행 규제"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230315153328</link>
+            <guid>https://zdnet.co.kr/view/?no=20230315153328</guid>
+            <pubDate>Wed, 15 Mar 2023 20:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[컨슈머워치 '초진 환자가 비대면 진료 원해' 의원협회 '어떠한 비대면 진료도 반대' 복지부 '재진, 의원급' 원칙 재확인 비대면진료 플랫폼 제공업체들이 보건복지부의 재진 환자 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/15/36ed7558c3d4917f3ca44af60d9f3b8e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭스콘, 중국 의존 줄인다…'생산다변화' 선언]]></title>
             <link>https://zdnet.co.kr/view/?no=20230315234419</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230315194813</guid>
             <pubDate>Wed, 15 Mar 2023 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[국내 의료 인공지능(AI) 1호 상장기업 제이엘케이(대표 김동민)와 삼성서울병원은 '인공지능 기반 혈류 구간 분류 방법 및 시스템' 에 대한 일본 특허를 등록했다고 15일 밝혔...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/15/97ca6ab94336f77278924a6dbea67538-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코웨이, 3월 봄맞이 프로모션 진행]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230315180623</guid>
             <pubDate>Wed, 15 Mar 2023 09:11:42 GMT</pubDate>
             <content:encoded><![CDATA[지방자치단체가 공익 목적으로 공공와이파이를 제공하는데 법적인 걸림돌이 사라질 전망이다. 국회 과학기술정보방송통신위원회는 15일 오후 법안심사소위를 열고 공공와이파이 서비스를 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["데이터가 산업 만든다"...네이버가 점찍은 차세대 '3D 기술 스타트업' 한자리]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230315163329</link>
-            <guid>https://zdnet.co.kr/view/?no=20230315163329</guid>
-            <pubDate>Wed, 15 Mar 2023 09:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[“기존에는 산업이 나타나야 데이터가 만들어지는 것이 아니냐는 생각을 했지만, 지금까지 흐름을 보면 데이터가 산업을 만든다. 다음 시대 주목해야 할 데이터는 3D 영역이다.” (...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
