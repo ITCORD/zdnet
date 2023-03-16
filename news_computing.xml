@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 03:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 04:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨어스토리지 "데이터센터에서 디스크 사라지게 하겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316122745</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316122745</guid>
+            <pubDate>Thu, 16 Mar 2023 04:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[“마지막으로 하드디스크에 남아있던 기업의 스토리지 영역을 올플래시로 전환하면, 전력 비용과 상면공간, 공조, 운영 등에서 얻는 고객의 이익이 크다. 고성능보다 저장을 우선하는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코인플러그, 공무원연금공단 '모바일 사원증' 구축 완료]]></title>
             <link>https://zdnet.co.kr/view/?no=20230316105750</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230315183159</guid>
             <pubDate>Wed, 15 Mar 2023 10:12:21 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무(대표 이석우)는 업비트 이용자들과 함께 튀르키예 지진 피해 복구를 위해 지난달 28일부터 진행한 구호기금 모금 캠페인이 성료됐다고 15일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원 "전년 대비 브랜드 인지도 향상"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230315181734</link>
-            <guid>https://zdnet.co.kr/view/?no=20230315181734</guid>
-            <pubDate>Wed, 15 Mar 2023 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 코인원(대표 차명훈)은 전국 20~59세 남녀 1천명 대상으로 진행한 가상자산 투자자 브랜드 인지도 조사 결과, 전 항목에 대한 코인원 브랜드의 적합도가 모두 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

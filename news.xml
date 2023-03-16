@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 03:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 04:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨어스토리지 "데이터센터에서 디스크 사라지게 하겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316122745</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316122745</guid>
+            <pubDate>Thu, 16 Mar 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[“마지막으로 하드디스크에 남아있던 기업의 스토리지 영역을 올플래시로 전환하면, 전력 비용과 상면공간, 공조, 운영 등에서 얻는 고객의 이익이 크다. 고성능보다 저장을 우선하는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/16/23425e04bc3641e0073848037d68706f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 '김종욱 찾기' 기념우표 나온다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230316091618</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230316085221</guid>
             <pubDate>Thu, 16 Mar 2023 03:11:17 GMT</pubDate>
             <content:encoded><![CDATA[환경공단이 커피찌꺼기(박) 재자원화를 촉진하고 지역사회 취약계층 일자리 창출에 손잡는다. 한국환경공단(이사장 안병옥)은 17일 스타벅스코리아(대표 손정현), 인천서구지역자활센터...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/16/0f0b72dec9688125915180fcc84d318d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[썸에이지, 모바일RPG 마녀자판기 3개국 소프트론칭]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230316105400</guid>
             <pubDate>Thu, 16 Mar 2023 02:11:00 GMT</pubDate>
             <content:encoded><![CDATA[온라인상에서 '어린이 키성장' 제품으로 부당 광고를 해온 226건이 적발됐다. 식품의약품안전처는 온라인 쇼핑몰과 누리 소통망(SNS)에서 '어린이 키성장', '아이키' 등으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지질자원연, 리튬 최대 생산지 서호주와 핵심광물 협력 약속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316093803</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316093803</guid>
-            <pubDate>Thu, 16 Mar 2023 02:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국지질자원연구원(KIGAM, 원장 이평구)이 배터리 핵심 소재 리튬의 최대 생산지 중 하나인 서호주와 협력해 광물 탐사 및 가공 기술을 공동 개발한다고 16일 밝혔다. 서호주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
