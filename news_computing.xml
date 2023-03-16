@@ -4,9 +4,49 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에퀴닉스, 4분기 2차 데이터센터 개소…서비스 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316165428</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316165428</guid>
+            <pubDate>Thu, 16 Mar 2023 08:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[에퀴닉스가 올해 4분기 하이퍼스케일러 데이터센터 SL2x를 개소하고, 에퀴닉스 메탈과 네트워크 엣지 등 신규 서비스를 선보이며 국내 서비스 공략에 박차를 가한다. 장혜덕 에퀴닉...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이경전 교수 "초거대 AI 개발사, 챗GPT만 쫓아선 안 돼"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316103732</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316103732</guid>
+            <pubDate>Thu, 16 Mar 2023 08:14:02 GMT</pubDate>
+            <content:encoded><![CDATA["국내 초거대 인공지능(AI) 개발기업은 챗GPT만 추격한다. 이 전략만으론 부족하다. GPT 성능을 뛰어넘는 모델을 위한 투자와 개발이 필요하다." 경희대 이경전 경영학과 교...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["韓 기업, 두바이 가상자산 산업 거점으로 오라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316161601</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316161601</guid>
+            <pubDate>Thu, 16 Mar 2023 08:14:02 GMT</pubDate>
+            <content:encoded><![CDATA["블록체인, 가상자산 산업의 70%가 두바이복합상품센터(DMCC)에서 이뤄지고 있다. DMCC 산하 크립토센터에 빈 공간이 거의 없는 상태인데, 지속적으로 공간을 확장할 계획이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이터널, 지정맥 인증 FIDO 시스템 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316112820</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316112820</guid>
+            <pubDate>Thu, 16 Mar 2023 08:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문업체 이터널-베인엑스가 세계 최초로 지정맥을 이용한 FIDO 시스템을 구축했다고 16일 밝혔다. 이번에 도입한 FIDO 시스템은 ISMS-P에 준하는 시스템 체계로 구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[노르마, 양자보안 솔루션 'Q 케어' 해외 수출 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230316160831</link>
+            <guid>https://zdnet.co.kr/view/?no=20230316160831</guid>
+            <pubDate>Thu, 16 Mar 2023 08:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[양자 보안 기술 기반 IoT 보안 전문 기업 노르마는 MWC23 참가를 계기로 양자 보안 솔루션 시리즈인 'Q 케어' 수출을 본격화한다고 16일 밝혔다. 노르마는 지난 2월 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈, 중앙대·아주대·을지대에 카카오워크 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20230316160729</link>
@@ -16,7 +56,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이글루코퍼레이션, 과기부-KISA '내서버돌보미' 사업 연속 진행]]></title>
+            <title><![CDATA[이글루코퍼레이션, 과기정통부-KISA '내서버돌보미' 사업 연속 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230316155827</link>
             <guid>https://zdnet.co.kr/view/?no=20230316155827</guid>
             <pubDate>Thu, 16 Mar 2023 07:10:58 GMT</pubDate>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230316092927</guid>
             <pubDate>Thu, 16 Mar 2023 00:53:33 GMT</pubDate>
             <content:encoded><![CDATA[게리 겐슬러 미국 증권거래위원회(SEC) 위원장이 가상자산을 맡겨 보상을 받는 '스테이킹'이 가능한 가상자산의 경우 현행법 상 증권으로 간주된다는 입장을 재차 확인했다. 블록체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로보쓰리-로아스, 로봇 공동마케팅 업무협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316085752</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316085752</guid>
-            <pubDate>Thu, 16 Mar 2023 00:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[로보쓰리는 스마트생산로봇 및 물류로봇 전문기업인 주식회사 로아스와 로봇 공동마케팅을 위한 업무협약을 15일 체결했다고 밝혔다. 이번 업무 협약으로 로봇산업의 각기 다른 영역에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비, 분기 영업익 16억달러…이익 전망치 상향]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316085720</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316085720</guid>
-            <pubDate>Thu, 16 Mar 2023 00:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[어도비가 전 사업부문의 고른 성장에 힘입어 견조한 실적을 유지했다. 올해 이익 전망도 상향 조정했다. 어도비가 2023 회계연도 1분기 동안 매출 46억6천만달러, 영업이익 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이오링크, 지난해 영업이익 114억…전년比 4%↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316084909</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316084909</guid>
-            <pubDate>Thu, 16 Mar 2023 00:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[네트워크 및 정보보호 전문기업 파이오링크는 지난해 누적 매출이 전년 동기 대비 13%가량 증가한 약 616억원을 기록했으며, 영업이익은 4%가량 증가한 약 114억원을 달성했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[센드버드, 사업 확대···"체팅넘어 마케팅 툴 제공 회사로"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316070122</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316070122</guid>
-            <pubDate>Wed, 15 Mar 2023 22:11:02 GMT</pubDate>
-            <content:encoded><![CDATA["단순 사용자간 채팅을 넘어 일대일 및 그룹채팅과 마케팅, 운영과 영업, 고객지원 등 비즈니스 경험을 제공하겠습니다. 하루 10억명이 쓰는 툴을 만드는게 우리 목표입니다. " ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이오트러스트, '경남제약' 웹3 플랫폼에 지갑 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230315185136</link>
-            <guid>https://zdnet.co.kr/view/?no=20230315185136</guid>
-            <pubDate>Wed, 15 Mar 2023 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 지갑 전문 회사 아이오트러스트(대표 백상수)는 경남제약스퀘어와 지갑 서비스 제공과 이용 관련해 전략적 파트너십을 체결했다고 16일 밝혔다. 아이오트러스트는 비수탁 지갑...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
