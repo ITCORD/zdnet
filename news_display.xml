@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 06:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구성원이 뽑은 SK하이닉스 대상…박정호 "기술 자부심 갖자"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230317150927</link>
+            <guid>https://zdnet.co.kr/view/?no=20230317150927</guid>
+            <pubDate>Fri, 17 Mar 2023 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 지난 14일 경기 이천캠퍼스에서 'SK하이닉스 대상' 시상식을 열고 지난해 회사 발전에 이바지한 사람들에게 포상했다고 17일 밝혔다. 박정호 부회장은 "SK하이닉...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ARM IPO, 결국 영국 떠나 뉴욕 간다..."4월 말 상장 개시"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230317140829</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230314171829</guid>
             <pubDate>Tue, 14 Mar 2023 09:13:48 GMT</pubDate>
             <content:encoded><![CDATA[지난해 2조원 넘게 적자를 낸 LG디스플레이가 연구개발비에도 2조원을 넘게 쏟아부은 것으로 나타났다. 14일 LG디스플레이가 공시한 지난해 사업보고서를 보면 회사는 지난해 연구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 연산 직접하는 메모리반도체...폰-노이만 구조 탈피]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230314170814</link>
-            <guid>https://zdnet.co.kr/view/?no=20230314170814</guid>
-            <pubDate>Tue, 14 Mar 2023 09:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[D램 메모리 셀 소자 내부에서 연산 기능을 수행하는 PIM(Processing-In-Memory) 반도체가 국내 연구진에 의해 개발됐다. 세계 최초로 하나의 메모리 셀에서 D램...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
