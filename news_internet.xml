@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 03:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 규범준수 경영시스템 국제 표준인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230317122408</link>
+            <guid>https://zdnet.co.kr/view/?no=20230317122408</guid>
+            <pubDate>Fri, 17 Mar 2023 04:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 규범준수 경영시스템 ISO37301 인증을 획득했다고 17일 밝혔다. ISO37301은 국제표준화기구(ISO)가 제정한 규범준수 경영시스템 관련 국제 표준으로, 회사가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사람인, 신입·인턴 페이지 개편]]></title>
             <link>https://zdnet.co.kr/view/?no=20230317105406</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230316083514</guid>
             <pubDate>Thu, 16 Mar 2023 02:11:36 GMT</pubDate>
             <content:encoded><![CDATA[구글이 기업용 스마트 글래스인 '글래스 엔터프라이즈 에디션' 헤드셋을 더 이상 판매하지 않기로 했다. 15일(현지시간) 구글은 이날부터 글래스 엔터프라이즈 에디션을 판매하지 않...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[링크드인, AI 프로필 작성 제안 기능 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316082629</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316082629</guid>
-            <pubDate>Thu, 16 Mar 2023 02:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[링크드인이 최근 생성형 인공지능(AI) 열풍이 불자 AI 프로필 작성 제안 등 기능을 추가한다. 미국 IT매체 엔가젯은 15일(현지시간) 링크드인이 주요 프로필 AI 제안, A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

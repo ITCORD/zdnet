@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 03:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사 '긴급구조 위치정보 품질' 향상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230317110046</link>
+            <guid>https://zdnet.co.kr/view/?no=20230317110046</guid>
+            <pubDate>Fri, 17 Mar 2023 04:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤, KT, LG유플러스 등 이동통신 3사의 긴급구조 위치기준 충족률, 위치정확도와 위치응답시간이 모두 개선된 것으로 나타났다. 방송통신위원회는 긴급구조기관과 경찰관서에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부 "3월 내 5G 중간 요금제 출시 유도"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230317091717</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230315180623</guid>
             <pubDate>Wed, 15 Mar 2023 09:11:51 GMT</pubDate>
             <content:encoded><![CDATA[지방자치단체가 공익 목적으로 공공와이파이를 제공하는데 법적인 걸림돌이 사라질 전망이다. 국회 과학기술정보방송통신위원회는 15일 오후 법안심사소위를 열고 공공와이파이 서비스를 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EBS 콘텐츠 해외로 나간다...디지캡과 업무협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230315174602</link>
-            <guid>https://zdnet.co.kr/view/?no=20230315174602</guid>
-            <pubDate>Wed, 15 Mar 2023 09:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[EBS미디어와 디지캡은 EBS 콘텐츠 해외 판매와 홍보를 위한 업무협약을 체결했다고 15일 밝혔다. 양질의 EBS 콘텐츠를 기반으로 콘텐츠 사업을 수행중인 EBS미디어와 방송장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
