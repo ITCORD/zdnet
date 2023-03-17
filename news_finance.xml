@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 금융</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 02:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 09 Mar 2023 20:14:33 GMT</pubDate>
             <content:encoded><![CDATA[일단 사고난 후 나중에 결제하는 '선구매 후지불(Buy now, pay later, 이하 BNPL)' 서비스가 주요국 Z세대를 중...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ECB, 인플레이션 대응 선택…기준금리 50bp 인상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230317111012</link>
+            <guid>https://zdnet.co.kr/view/?no=20230317111012</guid>
+            <pubDate>Fri, 17 Mar 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[유럽중앙은행(ECB)이 기준금리 50bp 인상을 결정했다. 최근 크레디트스위스의 최대주주 사우디국립은행이 추가 재정지원을 진행하지 않겠다고 밝히며 금융 시스템 이상 징후가 포착...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토스뱅크, 2천억원 유상증자 결의]]></title>
@@ -205,14 +213,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230314101432</guid>
             <pubDate>Tue, 14 Mar 2023 02:01:42 GMT</pubDate>
             <content:encoded><![CDATA[미국 실리콘밸리은행(SVB) 사태가 테크주에 호재로 작용할지, 악재로 작용할지에 대해 시장의 관심이 주목된다. 일각에선 “강력한 기준금리 통화정책을 고집한 연방준비제도의 태도가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[추경호 "국내 금융기관, 유동성 양호"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230314081544</link>
-            <guid>https://zdnet.co.kr/view/?no=20230314081544</guid>
-            <pubDate>Tue, 14 Mar 2023 02:01:42 GMT</pubDate>
-            <content:encoded><![CDATA[추경호 경제부총리 겸 기획재정부 장관은 실리콘밸리은행(SVB) 폐쇄 사태와 관련해 “국내 금융기관의 유동성은 양호한 상태”라고 밝혔다. 14일 기획재정부는 “비상거시경제금융회의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
