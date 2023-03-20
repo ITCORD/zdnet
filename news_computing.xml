@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 08:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[국정원-독일 정보기관 "'킴수키', 정상 구글 서비스 악용 공격"]]></title>
+            <title><![CDATA[개인정보위 "쿠팡 관련 개인정보 유출 확인 중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320174151</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320174151</guid>
+            <pubDate>Mon, 20 Mar 2023 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회는 쿠팡과 관련된 것으로 보이는 개인정보 유출 사고에 대해 사실 여부를 확인 중이라고 20일 밝혔다. 이날 한겨레는 쿠팡에서 물품을 구매한 기록이 있는 사람들의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국정원-독일 정보기관 "'킴수키', 악성 이메일 보내 정보 탈취"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230320162841</link>
             <guid>https://zdnet.co.kr/view/?no=20230320162841</guid>
             <pubDate>Mon, 20 Mar 2023 08:14:52 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230319091939</guid>
             <pubDate>Sun, 19 Mar 2023 02:19:13 GMT</pubDate>
             <content:encoded><![CDATA[최근 미국 중소 은행들의 경영 위기로 촉발된 금융 불안이 비트코인 등 가상자산 투자 시장에는 호재로 돌아온 상황이다. 글로벌 가상자산 평균 가격 집계 사이트 코인마켓캡에 따르면...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 저작권청, 사람의 창의성 입증된 AI작품 저작권 인정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230319092526</link>
-            <guid>https://zdnet.co.kr/view/?no=20230319092526</guid>
-            <pubDate>Sun, 19 Mar 2023 00:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[미국 저작권청(USCO)은 인공지능(AI) 생성작품도 저작권을 인정할 것이라고 밝혔다. 다만 최종 완성품에 사람의 창의적 노력이 포함됐다는 것을 증명할 수 있어야 한다. 더레지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
