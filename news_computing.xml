@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 00:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 02:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아웃룩 메일 읽지 않아도 정보 탈취된다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320103605</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320103605</guid>
+            <pubDate>Mon, 20 Mar 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 아웃룩 메일을 열지 않아도 정보가 탈취되는 보안 허점이 발견됐다. 마이크로소프트는 윈도용 마이크로소프트 아웃룩을 최신 버전으로 업데이트할 것을 권고했다. 마이크로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈AI, GPT-4 이용 횟수 제한···"3시간당 질문 25개까지"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320083717</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320083717</guid>
+            <pubDate>Mon, 20 Mar 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI는 인공지능(AI) 챗봇 챗GPT에 탑재된 초거대 멀티모달 GPT-4 이용 횟수를 매주 줄이는 것으로 나타났다. 현재 챗GPT플러스 사용자는 GPT-4에 질문을 3시간당...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미 연방기관 보안 결함, 해커들에게 노출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320100011</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320100011</guid>
+            <pubDate>Mon, 20 Mar 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국 연방기관이 3년 간 보안 취약점을 노출해 다수의 해킹그룹에서 이를 악용한 것으로 나타났다. 해커뉴스 등 외신에 따르면 다수의 해킹그룹이 프로그래스 텔러릭의 보안 취약점을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[업스테이지, '아숙업비즈' 베타 서비스 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320091541</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320091541</guid>
+            <pubDate>Mon, 20 Mar 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[업스테이지가 인공지능(AI) 챗봇 아숙업 비즈니스 버전 '아숙업비즈(AskUp Biz)'를 베타 서비스로 출시했다고 20일 밝혔다. 서비스 신청은 업스테이지 홈페이지에서 가능하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마크베이스, 美 스타트업 인터렉터와 기술 협력 MOU]]></title>
             <link>https://zdnet.co.kr/view/?no=20230320093317</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230317115242</guid>
             <pubDate>Fri, 17 Mar 2023 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 기계학습(ML) 라이브러리 파이토치의 정식 후속 버전이 4년 만에 출시됐다. 최근 주목 받는 챗GPT 같은 대규모 언어 모델(LLM) 개발에 맞춰 학습속도를 개선하고,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생성 AI가 워드 쓰고, PPT 만드네…엑셀 분석도 '척척']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230317112633</link>
-            <guid>https://zdnet.co.kr/view/?no=20230317112633</guid>
-            <pubDate>Fri, 17 Mar 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 생성AI 기술을 오피스 제품군에 통합한 '마이크로소프트365 코파일럿'을 선보였다. 20분간 진행된 시연에서 자연어 명령을 받은 생성AI는 워드 문서를 만들고,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, NH농협과 실명계좌 계약 1년 연장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230317111210</link>
-            <guid>https://zdnet.co.kr/view/?no=20230317111210</guid>
-            <pubDate>Fri, 17 Mar 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 빗썸(대표 이재원)은 NH농협과의 실명확인 입출금 서비스 제휴 계약을 1년 더 연장한다고 17일 밝혔다. 빗썸은 NH농협과의 실명계좌 발급을 위한 재계약이 마무...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 인천·대전에 '가명정보 활용 지원센터' 설치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230317112047</link>
-            <guid>https://zdnet.co.kr/view/?no=20230317112047</guid>
-            <pubDate>Fri, 17 Mar 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회는 인천광역시와 대전광역시에 '가명정보 활용 지원센터'를 올 하반기에 설치한다고 17일 밝혔다. 가명정보는 개인정보 일부 항목을 삭제, 변경해 원래의 상태로 복...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, AI로 정확도 높인 일기예보 모델 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230317090126</link>
-            <guid>https://zdnet.co.kr/view/?no=20230317090126</guid>
-            <pubDate>Fri, 17 Mar 2023 02:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 더 나은 날씨 예측를 위해 인공지능(AI) 기반 일기예보 모델을 공개했다. 최근 인포큐 등 외신에 따르면 마이크로소프트의 자동화 및 로봇연구 그룹은 날씨 및 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

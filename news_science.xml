@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 00:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 02:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 인공태양의 꿈, 한국서도 무르익는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230320092552</link>
+            <guid>https://zdnet.co.kr/view/?no=20230320092552</guid>
+            <pubDate>Mon, 20 Mar 2023 02:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[핵융합은 수소 원자를 융합시켜 막대한 에너지를 생산하는 기술로 인공 태양이라고도 불립니다. '꿈의 에너지'로 주목받으면서 전 세계적으로 연구 중인데요. 한국 역시 세계적인 성과...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/23/23bd53c21630069dc0aef594016004f8-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가전략기술 따라잡기] 전기연, 전고체전지 전해질 안정성 높일 핵심 소재 기술 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230317162730</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230316230136</guid>
             <pubDate>Fri, 17 Mar 2023 04:15:17 GMT</pubDate>
             <content:encoded><![CDATA[박테리아가 자기 세포 보호를 위해 형성하는 막을 이용해 콘크리트의 부식을 막는다. 뇌파를 분석해 드론 등 사물인터넷 기기를 조종한다. 과학기술정보통신부는 이같은 첨단 바이오 분...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/17/89dc224e8bf5a3b6561667ea0571ae98-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[늘어나는 전기차 충전 수요, 기존 전력망으로 맞출 수 있을까?]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230306101806</guid>
             <pubDate>Mon, 06 Mar 2023 02:25:10 GMT</pubDate>
             <content:encoded><![CDATA[세포의 재생 능력을 복원해 퇴행성 질환을 치료한다. 개인 맞춤형 암 백신을 개발하고, 인공지능(AI)이 유용한 기능의 단백질 구조를 새로 설계한다. 6일 한국생명공학연구원과 한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[항암 면역치료제 효과 떨어뜨리는 단백질 찾았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230306111232</link>
-            <guid>https://zdnet.co.kr/view/?no=20230306111232</guid>
-            <pubDate>Mon, 06 Mar 2023 02:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[조절T세포는 면역반응을 일으키는 일반 T세포와는 달리 면역반응을 억제하는 T세포이다. 자기항원에 대한 면역반응을 억눌러 자가면역 질환을 막는 역할을 하지만, 암 환자의 경우 암...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
