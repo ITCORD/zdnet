@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 00:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이스피싱 악용되는 심박스만 골라내 적발한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230321095830</link>
+            <guid>https://zdnet.co.kr/view/?no=20230321095830</guid>
+            <pubDate>Tue, 21 Mar 2023 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[심박스(SIM box)는 여러 개의 휴대전화 유심 칩을 꽂아 두고, 해외 전화가 마치 국내에서 걸려온 것처럼 전화번호를 표시하게 하는 장치다. 사업장과 주요 영업 대상이 지리적...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/21/7528277248daed7cf2a0bb2e0d5267f2-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 인공태양의 꿈, 한국서도 무르익는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230320092552</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230317162730</guid>
             <pubDate>Mon, 20 Mar 2023 00:55:27 GMT</pubDate>
             <content:encoded><![CDATA[전고체전지의 안정성을 높여 상용화를 앞당길 핵심 소재 기술이 개발됐다. 한국전기연구원(KERI, 원장 김남균)은 전고체전지에 쓰이는 아지로다이트 계열 고체전해질용 황화실리콘(S...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/17/77ba6a44f86353436882d79e88187805-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바이오 분야 중점기술 연구 성과 한자리에]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230307095724</guid>
             <pubDate>Tue, 07 Mar 2023 02:32:48 GMT</pubDate>
             <content:encoded><![CDATA[KAIST(총장 이광형)는 모바일 기기에서 실사에 가까운 3D 렌더링을 할 수 있는 인공지능(AI) 반도체를 개발했다고 7일 밝혔다. 블렌더 같은 복잡한 소프트웨어 없이 3D ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세포 노화 되돌리고, AI가 단백질 설계한다...주목해야 할 바이오 미래 기술]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230306101806</link>
-            <guid>https://zdnet.co.kr/view/?no=20230306101806</guid>
-            <pubDate>Mon, 06 Mar 2023 02:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[세포의 재생 능력을 복원해 퇴행성 질환을 치료한다. 개인 맞춤형 암 백신을 개발하고, 인공지능(AI)이 유용한 기능의 단백질 구조를 새로 설계한다. 6일 한국생명공학연구원과 한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
