@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 22:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 23:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비투엔, AI공급 기업 선정···요양병원에 '늘 실버 케어' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322074557</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322074557</guid>
+            <pubDate>Tue, 21 Mar 2023 23:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 전문 기업 비투엔(대표 조광원)은 정보통신산업진흥원(NIPA)이 주관하는 '2023년 AI 바우처 지원사업'의 공급기업에 선정됐다고 22일 밝혔다. 과기정통부와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파라메타-유하, 콘텐츠 조각투자 플랫폼 구축 '맞손']]></title>
             <link>https://zdnet.co.kr/view/?no=20230321185435</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230321092530</guid>
             <pubDate>Tue, 21 Mar 2023 02:03:15 GMT</pubDate>
             <content:encoded><![CDATA[텍스트만으로 간단한 영상 클립을 생성할 수 있는 인공지능(AI) 모델 젠2(Gen-2)가 공개됐다. 20일(현지시각) 실리콘앵글 등 외신에 따르면 스타트업 런웨이(runway)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 뮬소프트, 가트너 iPaaS 부문 리더 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230321094032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230321094032</guid>
-            <pubDate>Tue, 21 Mar 2023 02:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스는 뮬소프트가 가트너 서비스형 통합 플랫폼(iPaaS) 부문 리더로 선정됐다고 21일 발표했다. 가트너 측은 뮬소프트가 ▲다양한 산업 지원 ▲지속적인 업데이트 ▲글로벌...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
