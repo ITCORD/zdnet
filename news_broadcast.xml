@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위, TV조선 재승인 의결...승인유효기간 4년]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230321114711</link>
+            <guid>https://zdnet.co.kr/view/?no=20230321114711</guid>
+            <pubDate>Tue, 21 Mar 2023 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회가 다음달 21일 승인 유효기간이 만료되는 종합편성채널 조선방송(TV조선)에 대해 4년 재승인을 의결했다. 21일 방통위는 전체회의를 열고, 외부 심사위원회의 심사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG헬로비전, 지역 뉴스 홈페이지 통합 개편]]></title>
             <link>https://zdnet.co.kr/view/?no=20230321094418</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230317141537</guid>
             <pubDate>Fri, 17 Mar 2023 06:12:46 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 삼성전자 스마트폰 갤럭시S22 시리즈의 공시지원금을 최대 60만원까지 인상한다고 17일 밝혔다. 5G 프리미어 에센셜(월정액 8만5천원, VAT포함) 기준 갤럭시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT엠모바일, 보이스피싱 예방법 계속 알린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230317140321</link>
-            <guid>https://zdnet.co.kr/view/?no=20230317140321</guid>
-            <pubDate>Fri, 17 Mar 2023 06:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[KT엠모바일은 '보이스피싱 예방 활동'을 지속 시행할 계획이라고 17일 밝혔다. KT엠모바일은 지난 3일 신규 가입자 약 8만명을 대상으로 가족, 지인, 기관 사칭에 의한 보이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

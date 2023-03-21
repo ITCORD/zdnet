@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스클라우드, DGB캐피탈에 '하이퍼클라우드' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230321101038</link>
+            <guid>https://zdnet.co.kr/view/?no=20230321101038</guid>
+            <pubDate>Tue, 21 Mar 2023 05:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스클라우드가 DGB캐피탈에 쿠버네티스 기반 컨테이너 클라우드 플랫폼 '하이퍼클라우드'를 공급했다고 21일 밝혔다. 티맥스클라우드는 DGB캐피탈 여신업무를 위한 개인 신용평가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윈드리버 스튜디오, 인텔 4세대 제온 싱글 코어 설치 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230321130224</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230320163823</guid>
             <pubDate>Mon, 20 Mar 2023 08:14:52 GMT</pubDate>
             <content:encoded><![CDATA[라움소프트(대표 성해용)가 달콤랩과 미들웨어 플렉서스(FLEXUS) 제품군 단독 총판 계약을 체결했다고 20일 밝혔다. 라움소프트는 유망 솔루션 발굴 및 공공분야 솔루션 종합 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 대학 "챗GPT 피할 수 없어"···활용 가이드 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230320080706</link>
-            <guid>https://zdnet.co.kr/view/?no=20230320080706</guid>
-            <pubDate>Mon, 20 Mar 2023 08:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내 교육기관은 챗GPT 등 인공지능(AI)을 활용해 학생을 효과적으로 가르치는 데 초점 맞추기 시작했다. 챗GPT로 인한 표절 등을 줄이기 위해 AI를 무조건 배척했던 기존과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
