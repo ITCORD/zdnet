@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 06:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, '엔비디아 AI 파운데이션' 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322094427</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322094427</guid>
+            <pubDate>Wed, 22 Mar 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 생성 인공지능(AI) 애플리케이션 개발 도구 '엔비디아 AI 파운데이션'을 공개했다. 젠슨 황 엔비디아 최고경영자(CEO)는 21일(현지시간) 온라인으로 개최한 연례...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유아이패스, 아마존 세이지메이커 통합]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322151919</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322151919</guid>
+            <pubDate>Wed, 22 Mar 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[유아이패스는 엔드 투 엔드 기계학습(ML) 서비스인 아마존 세이지메이커를 유아이패스 솔루션에 통합했다고 22일 밝혔다. 이를 통해 복잡한 코딩 및 수동 작업 없이 기계학습 모델...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중앙제어, EVSIS로 사명 변경…사업확장 본격화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230322145948</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230322090326</guid>
             <pubDate>Wed, 22 Mar 2023 00:47:10 GMT</pubDate>
             <content:encoded><![CDATA[국내 기업 중 사이버보안 준비가 '성숙' 단계에 속한 기업은 7%에 불과한 것으로 나타났다. 이는 글로벌 평균인 15% 대비 낮은 수치다. 시스코 시스템즈가 이 같은 내용이 담...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 제로데이 취약점 공격 55건…"장기적으로 증가할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322084051</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322084051</guid>
-            <pubDate>Wed, 22 Mar 2023 00:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 제로데이 취약점 공격이 55건이었던 것으로 나타났다. 맨디언트는 20일(현지시간) 지난해 55건의 제로데이 취약점 공격을 확인했다고 밝혔다. 이는 역대 최대의 제로데이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['가상자산' 공통 상장 심사 기준 공개…재상장 규정도 마련]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322082511</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322082511</guid>
-            <pubDate>Wed, 22 Mar 2023 00:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[원화마켓을 운영하는 국내 가상자산 거래소 고팍스, 빗썸, 업비트, 코빗, 코인원이 모인 디지털자산거래소공동협의체(DAXA)'는 거래지원 심사 공통 가이드라인의 주요 항목을 21...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
