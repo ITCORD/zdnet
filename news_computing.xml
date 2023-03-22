@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시큐레터, 국내 사이버 보안 기업 최초로 사우디 투자부와 MOU]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322111434</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322111434</guid>
+            <pubDate>Wed, 22 Mar 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터는 최근 사우디아라비아 리야드에서 열린 'BIBAN 2023'에 참여해 국내 보안 기업 최초로 사우디아라비아 투자부(MISA)와 MOU를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, AI 챗봇 '바드' 미국·영국에 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230322082141</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230321144632</guid>
             <pubDate>Tue, 21 Mar 2023 06:14:04 GMT</pubDate>
             <content:encoded><![CDATA[지난해 하반기 가상자산 시장 약세가 지속되면서 국내 업계도 상반기보다 시가총액, 거래규모, 영업이익 등이 크게 감소한 것으로 나타났다. 금융정보분석원(FIU)은 국내 가상자산 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스클라우드, DGB캐피탈에 '하이퍼클라우드' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230321101038</link>
-            <guid>https://zdnet.co.kr/view/?no=20230321101038</guid>
-            <pubDate>Tue, 21 Mar 2023 05:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스클라우드가 DGB캐피탈에 쿠버네티스 기반 컨테이너 클라우드 플랫폼 '하이퍼클라우드'를 공급했다고 21일 밝혔다. 티맥스클라우드는 DGB캐피탈 여신업무를 위한 개인 신용평가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
