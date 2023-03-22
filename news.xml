@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 10:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 11:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, '검색량 변화 알림' 키워드 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322191847</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322191847</guid>
+            <pubDate>Wed, 22 Mar 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 지난해 3월 출시한 '검색량 변화 알림' 서비스 기능을 개선한다. 네이버는 22일 공지를 통해 검색량 변화 알림을 알 수 있는 키워드를 은행이나 증권, 카드, 페이 등...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/22/bc3c9182c675038ecf6a6a473182d833-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기상청, 대기 상층 온실가스 농도 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230322184222</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230322184221</guid>
             <pubDate>Wed, 22 Mar 2023 10:11:23 GMT</pubDate>
             <content:encoded><![CDATA[오는 11월 스페인 바르셀로나에서 글로벌 스마트시티 혁신 사례가 공유된다. 2011년부터 열린 '스마트시티 엑스포 월드 콩그레스(SCEWC)'는 스마트시티와 관련해 세계서 가장...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/22/ac7125c535e9e5565964fa3ce3ffb56d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[물산업 매출액 47조4220억원…전년대비 1.8% 증가]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230322160722</guid>
             <pubDate>Wed, 22 Mar 2023 08:12:43 GMT</pubDate>
             <content:encoded><![CDATA[GS칼텍스는 22일, 전국 2천여 개 주유소 및 충전소에 애플 간편결제 서비스인 애플페이를 도입했다. GS칼텍스는 정유사 중 유일하게 4개 간편결제 서비스인 카카오페이, 네이버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차량 폐자재를 패션 아이템化…현대차, '리스타일' 전시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322154650</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322154650</guid>
-            <pubDate>Wed, 22 Mar 2023 08:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차는 차량 폐자재를 패션 아이템으로 구성하는 '리스타일'(Re:Style) 프로젝트의 결과물을 소개하는 '현대 리스타일 전시'를 개최한다고 22일 밝혔다. 리스타일 프로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
