@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가비아-홍익대, '흘돋체', '온담체' 무료 배포]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230323142903</link>
+            <guid>https://zdnet.co.kr/view/?no=20230323142903</guid>
+            <pubDate>Thu, 23 Mar 2023 06:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[가비아(대표 김홍국)는 홍익대학교와 공동 제작한 글꼴 '가비아 흘돋체', '가비아 온담체'를 무료로 배포한다고 23일 밝혔다. 본문용 글꼴로 널리 쓰이는 돋움체를 부드럽게 재해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴렐릭, 챗GPT 통합 옵저버빌리티 기능 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230323142500</link>
+            <guid>https://zdnet.co.kr/view/?no=20230323142500</guid>
+            <pubDate>Thu, 23 Mar 2023 06:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[뉴렐릭은 오픈AI GPT API를 활용해 애플리케이션을 모니터링할 수 있는 머신러닝운영(MLOps) 기능을 출시한다고 23일 밝혔다. 엔지니어는 두 줄의 코드로 오픈AI 컴플리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업스테이지, '아숙업'에 실시간 검색 기능 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230323103114</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230322144428</guid>
             <pubDate>Wed, 22 Mar 2023 06:13:18 GMT</pubDate>
             <content:encoded><![CDATA[메타넷티플랫폼은 IT 인프라스트럭처 전문 기업 '지티플러스'를 인수했다고 22일 밝혔다. 2008년 설립한 지티플러스는 16년간 미들웨어와 데이터베이스, 시스템 모니터링 등 인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잡코리아·인크루트에서 구직할 때, 내 개인정보 어떻게 처리될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322142349</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322142349</guid>
-            <pubDate>Wed, 22 Mar 2023 06:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회가 구인구직 분야 온라인플랫폼이 구직자와 기업을 중개하는 과정에서 개인정보가 어떻게 처리되는지를 22일 상세하게 밝혔다. 구인구직 플랫폼은 지난해 5월 민관협력...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 애저 오픈AI 서비스에서 'GPT-4' 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322140542</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322140542</guid>
-            <pubDate>Wed, 22 Mar 2023 05:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트의 애저 오픈AI 서비스에서 GPT-4를 이용할 수 있게 됐다. 21일(현지시간) 외신에 따르면, 마이크로소프트는 애저 오픈AI 서비스의 'GPT-4' 미리보기를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

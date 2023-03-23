@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강문수 부사장 "비욘드 무어 시대…첨단 패키지 기술이 주도"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230323143817</link>
+            <guid>https://zdnet.co.kr/view/?no=20230323143817</guid>
+            <pubDate>Thu, 23 Mar 2023 06:13:54 GMT</pubDate>
+            <content:encoded><![CDATA["우리는 아날로그, RF 무선통신 등 다양한 기능을 하나로 통합한 다재 다능한 반도체를 원합니다. 하지만 공정이 미세화 될수록 아날로그 성능은 열화되는 문제가 있습니다. 이러한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DB하이텍 "파운드리·팹리스 나눠 기업가치 6조원 달성"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230323104113</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230320094932</guid>
             <pubDate>Mon, 20 Mar 2023 02:15:38 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기는 20일 흔들림 보정 기능을 2배 향상한 2억 화소급 카메라모듈를 선보였다. 이 제품의 손떨림 보정 각도는 3.0도로 기존 제품 보정 각도(1.5도)의 2배다. 보정 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGD OLED TV 패널, 업계 첫 탄소발자국 인증받아]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230319093839</link>
-            <guid>https://zdnet.co.kr/view/?no=20230319093839</guid>
-            <pubDate>Sun, 19 Mar 2023 02:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이는 19일 자사 유기발광다이오드(OLED) TV 패널이 영국 친환경 인증 기관 카본트러스트로부터 탄소발자국 인증을 받았다고 밝혔다. LG디스플레이는 국제 탄소배출량...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
