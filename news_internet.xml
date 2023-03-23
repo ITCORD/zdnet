@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 00:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 메시지 앱에 AI챗봇 '바드' 적용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230323083702</link>
+            <guid>https://zdnet.co.kr/view/?no=20230323083702</guid>
+            <pubDate>Thu, 23 Mar 2023 02:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 메시지 앱의 최신 베타버전에 인공지능(AI) 챗봇 '바드'를 적용했다. 22일(현지시간) 미국 IT매체 나인투파이브구글에 따르면, 구글은 메시지 앱에서 바드를 활용해 채...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[왓츠앱, 단톡방 참여자 승인 기능 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230323083908</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230322084026</guid>
             <pubDate>Wed, 22 Mar 2023 00:47:26 GMT</pubDate>
             <content:encoded><![CDATA['카페24 창업센터'가 최근 100호점 문을 열었다. 전국에 창업거점이 확대됨에 따라 온라인 창업이 더욱 활성화될 전망이다. 글로벌 전자상거래 플랫폼 카페24(대표 이재석)는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 인스타그램에 새 광고 모델 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230322074750</link>
-            <guid>https://zdnet.co.kr/view/?no=20230322074750</guid>
-            <pubDate>Wed, 22 Mar 2023 00:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 글로벌 경기 침체 속 광고 시장이 둔화한 데 따른 타개책으로 인스타그램에 새로운 광고 모델을 도입한다. 21일(현지시간) 메타는 '리마인더'와 검색 결과 내 광고 두 가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
