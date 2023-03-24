@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 02:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 03:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS·서비스나우, 노코드와 AI 결합으로 생산성 극대화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230324113422</link>
+            <guid>https://zdnet.co.kr/view/?no=20230324113422</guid>
+            <pubDate>Fri, 24 Mar 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트, 서비스나우 등 주요 IT기업에서 노코드로우코드(NCLC) 플랫폼에 챗GPT 등 대규모 언어모델(LLM)을 도입하고 있다. 두 서비스를 결합하는 이유는 생산성 및...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI "타인 대화노출되는 챗GPT 오류 해결"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230324075843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230323163726</guid>
             <pubDate>Thu, 23 Mar 2023 08:13:13 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 빗썸의 자회사 빗썸메타(대표 조현식)는 종합 콘텐츠 기업 엠스토리허브와 보유 지적재산권(IP)을 활용한 대체불가능토큰(NFT)·메타버스 산업 활성화를 위해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 공공 정보보호제품 구매 예산 9.9% 줄었다…총 6천679억원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230323140732</link>
-            <guid>https://zdnet.co.kr/view/?no=20230323140732</guid>
-            <pubDate>Thu, 23 Mar 2023 08:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[올해 공공부문 정보보호 관련 제품·서비스 구매 예산이 전년 대비 9.9% 감소했다. 과학기술정보통신부는 2023년 공공부문 SW·ICT·정보보호 수요를 조사해 23일 발표했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
