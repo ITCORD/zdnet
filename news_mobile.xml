@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 06:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위성통신 스마트폰 쏟아진다...삼성도 출격 준비]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230324152425</link>
+            <guid>https://zdnet.co.kr/view/?no=20230324152425</guid>
+            <pubDate>Fri, 24 Mar 2023 07:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[위성통신 기능이 탑재된 스마트폰이 올해 잇따라 출시를 예고하면서 삼성전자가 하반기 신제품에 관련 기능을 넣어 시장에 대응할 가능성이 높은 것으로 관측된다. 23일 업계 등에 따...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[벤큐, 발로란트 챔피언스 투어에 조위 모니터 후원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230324142401</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230323082525</guid>
             <pubDate>Thu, 23 Mar 2023 02:03:34 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 강력한 청소 성능에 펫 케어 기능을 강화한 2023년형 로봇청소기 '비스포크 제트 봇 AI'를 24일 출시한다. 2023년형 비스포크 제트 봇 AI는 새로운 브러시 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴로메카, 협동로봇 용접 솔루션 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230323100733</link>
-            <guid>https://zdnet.co.kr/view/?no=20230323100733</guid>
-            <pubDate>Thu, 23 Mar 2023 02:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[협동로봇 제조기업 뉴로메카는 협동로봇을 적용한 신개념 용접 솔루션을 개발하였다고 23일 밝혔다. 새로 개발된 용접 솔루션은 아크 센서를 이용한 용접선 추종과 3차원 카메라를 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
