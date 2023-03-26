@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 08:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 09:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 모델3, 보안대회서 SW시스템 해킹]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230326155345</link>
+            <guid>https://zdnet.co.kr/view/?no=20230326155345</guid>
+            <pubDate>Sun, 26 Mar 2023 09:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[최근 열린 해킹대회에서 테슬라 모델3의 소프트웨어 시스템이 해킹됐다. 대회서 공개된 취약점은 즉시 개선되는 만큼 실제 운행에 영향은 주지 않을 전망이다. 25일 (이하 현지시각...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 'NFT' 서비스 개시 코앞…프라임 비디오 구독자에 안내]]></title>
             <link>https://zdnet.co.kr/view/?no=20230326115000</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230324082521</guid>
             <pubDate>Fri, 24 Mar 2023 00:47:37 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 고학수 위원장이 국민의 질문에 직접 대답하는 '학수고대' 유튜브 코너를 개설했다고 24일 밝혔다. 이번 학수고대 코너에서 최근 챗GPT 등 인공지능(AI)에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["권도형 테라 대표, 몬테네그로서 체포"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230323230716</link>
-            <guid>https://zdnet.co.kr/view/?no=20230323230716</guid>
-            <pubDate>Thu, 23 Mar 2023 15:11:53 GMT</pubDate>
-            <content:encoded><![CDATA['테라·루나' 폭락 사태의 주요 인물인 권도형 테라폼랩스 대표가 몬테네그로에서 체포됐다. 필립 애드직 몬테네그로 내무부 장관은 23일 트위터를 통해 권도형 대표의 체포 사실을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
