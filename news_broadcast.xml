@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 02:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓 양자암호기술, '연구 쏠림' 현상 탓에 美보다 10년 뒤처져"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230325102645</link>
+            <guid>https://zdnet.co.kr/view/?no=20230325102645</guid>
+            <pubDate>Sun, 26 Mar 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[양자과학은 우주·항공·국방·바이오 등 다양한 산업의 바탕이 되는 기술이다. 정부가 2030년까지 양자컴퓨팅·통신·암호 분야에서 1조원 규모 로젝트를 추진하는 이유도 이 때문이다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 공중화장실 범죄 예방한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230326085943</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230323135647</guid>
             <pubDate>Thu, 23 Mar 2023 07:09:38 GMT</pubDate>
             <content:encoded><![CDATA[정부가 SK텔레콤에 이어 KT, LG유플러스도 다양한 중간요금제를 출시할 것이라고 예고했다. 정부는 통신비 절감을 통한 가계 부담 완화를 목표로 통신사들과 계층별·구간별 요금제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT 새 중간요금제, 5월부터 가입자 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230323141424</link>
-            <guid>https://zdnet.co.kr/view/?no=20230323141424</guid>
-            <pubDate>Thu, 23 Mar 2023 06:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부가 지난 17일 SK텔레콤이 신고한 5G 서비스 이용약관에 대해 전문가 의견 수렴을 거쳐 신고를 수리한다고 밝혔다. SK텔레콤은 5G 중간요금제를 비롯해 총 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
