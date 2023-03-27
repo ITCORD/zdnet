@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 23:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 00:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[테슬라 모델3, 보안대회서 SW시스템 해킹]]></title>
+            <title><![CDATA[두나무, 울진 산불 지역에 나무 3만그루 식수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230327085657</link>
+            <guid>https://zdnet.co.kr/view/?no=20230327085657</guid>
+            <pubDate>Mon, 27 Mar 2023 00:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[두나무(대표 이석우)는 산림청, 한국산림복지진흥원과 손잡고 진행한 '세컨포레스트와 함께 하는 회복의 숲' 캠페인이 약 2만명의 열띤 참여로 성황리에 종료됐다고 27일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라 모델3, 보안대회서 SW시스템 뚫렸다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230326155345</link>
             <guid>https://zdnet.co.kr/view/?no=20230326155345</guid>
             <pubDate>Sun, 26 Mar 2023 09:09:27 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230324090114</guid>
             <pubDate>Fri, 24 Mar 2023 00:47:37 GMT</pubDate>
             <content:encoded><![CDATA[국내 유명은행 보안메일을 사칭해 계정정보 탈취를 시도하는 공격이 발견돼 사용자 주의가 요구된다. 이스트시큐리티 시큐리티대응센터(ESRC)는 '[**은행,거래통지]_당발송금-국내...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민 질문에 고학수 개인정보위원장이 답한다…유튜브 '학수고대' 코너 개설]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230324082521</link>
-            <guid>https://zdnet.co.kr/view/?no=20230324082521</guid>
-            <pubDate>Fri, 24 Mar 2023 00:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회는 고학수 위원장이 국민의 질문에 직접 대답하는 '학수고대' 유튜브 코너를 개설했다고 24일 밝혔다. 이번 학수고대 코너에서 최근 챗GPT 등 인공지능(AI)에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
