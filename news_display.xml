@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 04:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화웨이, 반도체 설계·검증 SW 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230327104445</link>
+            <guid>https://zdnet.co.kr/view/?no=20230327104445</guid>
+            <pubDate>Mon, 27 Mar 2023 05:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[중국 통신장비 업체 화웨이가 전자 디자인 자동화(EDA) 도구를 개발했다. 영국 로이터통신은 24일(현지시간) 화웨이가 중국 토종 소프트웨어 기업들과 14나노미터(1㎚=10억분...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK실트론, 지구촌 전등 끄기 캠페인 '어스아워' 참여]]></title>
             <link>https://zdnet.co.kr/view/?no=20230327100540</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230322102351</guid>
             <pubDate>Wed, 22 Mar 2023 02:04:45 GMT</pubDate>
             <content:encoded><![CDATA[2017년 인텔에 합류했던 라자 코두리가 인텔을 떠나 생성형 AI를 만드는 스타트업으로 이직한다. 팻 겔싱어 인텔 CEO가 21일(미국 현지시간) 트위터를 통해 이와 같이 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[실리콘랩스 "스마트홈 연결 표준 '매터' 비용 절감"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230321171924</link>
-            <guid>https://zdnet.co.kr/view/?no=20230321171924</guid>
-            <pubDate>Wed, 22 Mar 2023 00:47:35 GMT</pubDate>
-            <content:encoded><![CDATA[사물인터넷(IoT) 전문 반도체 기업 실리콘랩스가 스마트홈 연결 표준 매터(Matter)를 사용하면 여러 제조사가 만든 가전제품의 IoT 기능을 저렴하게 쓸 수 있다고 주장했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
