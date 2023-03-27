@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[트위터, 일부 소스코드 깃허브에 유출]]></title>
+            <title><![CDATA[갤럭시아메타버스, '커핑' 결제 시 코인 보상 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230327110456</link>
+            <guid>https://zdnet.co.kr/view/?no=20230327110456</guid>
+            <pubDate>Mon, 27 Mar 2023 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 전문 기업 갤럭시아메타버스는 자체 코인 '갤럭시아(GXA)'의 실물 경제 서비스를 추진한다고 27일 밝혔다. 위메프오가 운영하는 커피 및 음료 전용 앱 '커핑'으로 커...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 일부 소스코드 깃허브에 유출]]></title>
             <link>https://zdnet.co.kr/view/?no=20230327090843</link>
             <guid>https://zdnet.co.kr/view/?no=20230327090843</guid>
             <pubDate>Mon, 27 Mar 2023 02:03:36 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230324131912</guid>
             <pubDate>Fri, 24 Mar 2023 05:09:59 GMT</pubDate>
             <content:encoded><![CDATA[포시에스가 에스디엑스(SDX재단)와 '탄소중립 및 ESG 실천'을 위한 업무 협약을 체결했다고 24일 밝혔다. MOU 체결식은 성남시 경기스타트업캠퍼스 컨퍼런스홀에서 SDX재단...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS·서비스나우, 노코드와 AI 결합으로 생산성 극대화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230324113422</link>
-            <guid>https://zdnet.co.kr/view/?no=20230324113422</guid>
-            <pubDate>Fri, 24 Mar 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트, 서비스나우 등 주요 IT기업에서 노코드로우코드(NCLC) 플랫폼에 챗GPT 등 대규모 언어모델(LLM)을 도입하고 있다. 두 서비스를 결합하는 이유는 생산성 및...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
