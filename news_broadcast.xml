@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 04:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 05:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유영상 SKT "5G 28GHz 망 구축 목표 달성 쉽지 않아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230328114039</link>
+            <guid>https://zdnet.co.kr/view/?no=20230328114039</guid>
+            <pubDate>Tue, 28 Mar 2023 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[유영상 SK텔레콤 대표가 5G 28GHz 망 구축 목표 달성이 쉽지 않을 것으로 내다봤다. 유 대표는 28일 서울 을지로 본사 T타워에서 열린 주주총회가 끝난 뒤 기자들과 만나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유영상 SKT "올해 AI컴퍼니 전환 미션 반드시 달성"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230328102306</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230326141439</guid>
             <pubDate>Sun, 26 Mar 2023 06:11:58 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 일상에서 만날 수 있는 AI를 소개하기 위한 신규 기업 브랜딩 광고 캠페인 'SKT의 AI는 어디에나 있다'를 선보였다고 26일 밝혔다. 캠페인은 유영상 사장이 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["韓 양자암호기술, '연구 쏠림' 현상 탓에 美보다 10년 뒤처져"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230325102645</link>
-            <guid>https://zdnet.co.kr/view/?no=20230325102645</guid>
-            <pubDate>Sun, 26 Mar 2023 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[양자과학은 우주·항공·국방·바이오 등 다양한 산업의 바탕이 되는 기술이다. 정부가 2030년까지 양자컴퓨팅·통신·암호 분야에서 1조원 규모 로젝트를 추진하는 이유도 이 때문이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
