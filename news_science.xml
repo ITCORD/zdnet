@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 00:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동하면 인지 기능 좋아지는 거 맞아?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230322155139</link>
+            <guid>https://zdnet.co.kr/view/?no=20230322155139</guid>
+            <pubDate>Tue, 28 Mar 2023 02:11:38 GMT</pubDate>
+            <content:encoded><![CDATA['치매 안 걸리려면 평소 운동해라' 나이 들수록 종종 듣게 되는 말이다. 적당한 운동이나 신체 활동은 인지 기능에 도움이 되는 것으로 알려져 있다. 하지만 이를 뒷받침하는 과학...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/22/f53fe559d026eee4fe8f862d619d260d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극한 환경 견디는 핵융합로용 로봇 시스템 개발한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230327130134</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.zdnet.co.kr/2023/03/27/946026f7eafacf95216e5121822ba3ee-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말미잘도 주변 자극 받아들여 학습한다]]></title>
+            <title><![CDATA[뇌가 없어도...말미잘, 주변 자극 받아들여 학습한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230327124603</link>
             <guid>https://zdnet.co.kr/view/?no=20230327124603</guid>
             <pubDate>Mon, 27 Mar 2023 04:16:36 GMT</pubDate>
             <content:encoded><![CDATA[말미잘이나 해파리, 산호 같은 자포동물은 뇌가 없다. 하지만 몸에 분산된 신경망이 주변 자극에 반응해 움직임을 조정하는 모습을 보인다. 뇌가 없는 이런 동물들도 과거의 일을 기...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/27/90b2477ca5b2dd5fa582355c48f61c83-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[화성 하늘 48번 날았다…화성 헬기 "50회 대기록 도전" [여기는 화성]]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230314153611</guid>
             <pubDate>Tue, 14 Mar 2023 07:13:20 GMT</pubDate>
             <content:encoded><![CDATA[연산과 저장 기능이 분리되지 않은 뇌처럼 D램 메모리 안에 연산 기능을 함께 구현한 PIM 반도체가 개발됐다. 챗GPT와 같은 거대 인공지능 모델을 낮은 전력으로 가동할 수 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대기 중 탄소포집 기술에 3년 간 197억원 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230310120625</link>
-            <guid>https://zdnet.co.kr/view/?no=20230310120625</guid>
-            <pubDate>Sun, 12 Mar 2023 03:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[대기 중에 있는 이산화탄소를 직접 거둬들여 별도 보관하거나 재활용해 기후변화를 막는 기술에 3년 간 197억원이 투입된다. 이상 기후에 대한 디지털 트윈을 만들어 기후위기의 피...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
