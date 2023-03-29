@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKB-넷플릭스 '망 이용대가' 재판에 글로벌 시선 집중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230329110859</link>
+            <guid>https://zdnet.co.kr/view/?no=20230329110859</guid>
+            <pubDate>Wed, 29 Mar 2023 06:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스와 SK브로드밴드 간의 망 이용대가 채무부존재 항소심이 29일 진행된다. 특히 이번 재판은 유럽연합(EU)이 관련 입법 절차에 나섰고, 지난달 MWC에서도 망 이용대가를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HCN, 안드로이드 셋톱박스 'skyHCN A+' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230329102610</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230327160240</guid>
             <pubDate>Mon, 27 Mar 2023 08:13:55 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드와 넷플릭스가 '망 이용대가'를 두고 올해도 법적 공방을 이어간다. 서울고등법원 민사 19-1부(부장판사 김유경, 황승태, 배용준)는 오는 29일 오후 4시 넷플릭...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조승래 의원, 국회서 '달 탐사 특별전' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230327142655</link>
-            <guid>https://zdnet.co.kr/view/?no=20230327142655</guid>
-            <pubDate>Mon, 27 Mar 2023 06:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 소속 조승래 의원(더불어민주당)은 28일부터 4월1일까지 국회 의원회관 제2 로비에서 '달 탐사 특별전'을 개최한다고 밝혔다. 국립중앙과학관 순회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
