@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 07:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 08:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Btv 시청자 사로잡은 '홈쇼핑 모아보기', 모바일로 연동된다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230329161801</link>
+            <guid>https://zdnet.co.kr/view/?no=20230329161801</guid>
+            <pubDate>Wed, 29 Mar 2023 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[SK브로드밴드 Btv '홈쇼핑 모아보기' 서비스가 출시 1년 만에 누적 시청 8억 뷰를 기록했다. 홈쇼핑 시청을 즐기는 이용자를 위한 플랫폼으로 자리매김한 것이다. SK브로드밴...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부 "6월까지 통신시장 경쟁촉진 대책 마련"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230329144346</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230328095757</guid>
             <pubDate>Tue, 28 Mar 2023 02:08:07 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 무선 네트워크 품질 관리 AI 솔루션인 A-STAR를 전국 기지국에 적용했다고 28일 밝혔다. SK텔레콤이 개발한 A-STAR는 전국 약 수십만개 기지국의 상태를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "글로벌 통신장비사와 오픈랜 생태계 함께 키운다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230327161637</link>
-            <guid>https://zdnet.co.kr/view/?no=20230327161637</guid>
-            <pubDate>Mon, 27 Mar 2023 08:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 개방형 무선접속망(Open RAN, 오픈랜) 기술 경쟁력을 확보하기 위해 노키아 등 글로벌 통신장비 제조기업들과 손을 잡는다. 이상헌 LG유플러스 네트워크선행개발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
