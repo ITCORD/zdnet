@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 23:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 00:57:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 "반도체 보조금 받으려면 가격·수율·생산량 엑셀 내라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230329090247</link>
+            <guid>https://zdnet.co.kr/view/?no=20230329090247</guid>
+            <pubDate>Wed, 29 Mar 2023 00:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 자국내 반도체 공장을 짓고 반도체과학법(반도체법) 지원금을 받으려는 기업에 가격·수율·생산량 같은 수익성 지표를 엑셀 파일로 내라고 요구했다. 미국 상무부는 27일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["300mm 반도체 생산량, 2026년 월 960만장 도달"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230328151439</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230323145011</guid>
             <pubDate>Thu, 23 Mar 2023 08:13:35 GMT</pubDate>
             <content:encoded><![CDATA[김형수 SK하이닉스 DRAM개발 부사장이 23일 사내 인터뷰에서 “고객의 가려움증을 긁어줘야 한다”며 “범용적이면서도 고객 문제를 해결하는 최적화가 중요하다”고 말했다. 김 부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강문수 부사장 "비욘드 무어 시대…첨단 패키지 기술이 주도"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230323143817</link>
-            <guid>https://zdnet.co.kr/view/?no=20230323143817</guid>
-            <pubDate>Thu, 23 Mar 2023 06:13:54 GMT</pubDate>
-            <content:encoded><![CDATA["우리는 아날로그, RF 무선통신 등 다양한 기능을 하나로 통합한 다재 다능한 반도체를 원합니다. 하지만 공정이 미세화 될수록 아날로그 성능은 열화되는 문제가 있습니다. 이러한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
