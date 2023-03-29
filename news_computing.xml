@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오토메이션애니웨어, 한국IDG 조사 2년 연속 선호도 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230329160018</link>
+            <guid>https://zdnet.co.kr/view/?no=20230329160018</guid>
+            <pubDate>Wed, 29 Mar 2023 07:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[오토메이션애니웨어가 국내 자동화 시장에서 2년 연속으로 고객 선호도 1위를 차지했다고 29일 밝혔다. 이번 결과는 한국 IDG가 국내 클라우드 로봇 프로세스 자동화(RPA) 현...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이스트소프트, '백엔드 개발자 부트캠프' 교육생 모집]]></title>
             <link>https://zdnet.co.kr/view/?no=20230329141035</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230328154328</guid>
             <pubDate>Tue, 28 Mar 2023 07:11:34 GMT</pubDate>
             <content:encoded><![CDATA[세일즈포스는 복산나이스에 '세일즈포스 세일즈클라우드'를 도입했다고 28일 밝혔다. 세일즈포스 세일즈클라우드는 영업 활동 전반에 걸쳐 데이터 기반 의사결정과 영업활동을 지원하는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["연결 내부회계관리 솔루션, 의사결정 도구로 주목"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230328141001</link>
-            <guid>https://zdnet.co.kr/view/?no=20230328141001</guid>
-            <pubDate>Tue, 28 Mar 2023 07:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[“연결 내부회계관리 솔루션은 신(新)외부감사법 시행으로 엄격하고 복잡해진 회계절차를 지원하기 위해 개발됐다. 하지만 지금은 기업의 의사결정을 위해 재무정보를 취합하는 핵심 도구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
