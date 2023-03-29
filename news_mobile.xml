@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 04:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PC용 DDR4 메모리 최저가, 2만원대 깨졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230329123254</link>
+            <guid>https://zdnet.co.kr/view/?no=20230329123254</guid>
+            <pubDate>Wed, 29 Mar 2023 04:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 PC 시장에서 데스크톱 PC용 DDR4 메모리 모듈 가격이 연일 최저가를 갱신하고 있다. 전통적인 PC 비수기에 올 초부터 두드러진 PC 수요 감소 등으로 재고 압박이 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국레노버, 아이디어패드 8세대 노트북 국내 정식 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230329113905</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230328100303</guid>
             <pubDate>Tue, 28 Mar 2023 02:08:25 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 28일 PNY 지포스 RTX 4070 Ti 베르토 화이트 에디션 그래픽카드를 출시했다. 이 그래픽카드는 7천680개 쿠다(CUDA) 코어가 최대 2.67GHz...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 미니멀 디자인에 가성비 갖춘 '휘센 타워II' 에어컨 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230328074258</link>
-            <guid>https://zdnet.co.kr/view/?no=20230328074258</guid>
-            <pubDate>Tue, 28 Mar 2023 02:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 심플한 디자인에 가격 부담을 줄인 'LG 휘센 타워II'를 28일 출시했다. 'LG 휘센 타워II'는 기존 휘센 타워 에어컨 전면의 원형 토출구를 없앤 미니멀한 디자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
