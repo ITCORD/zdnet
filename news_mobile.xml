@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 14:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 15:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래컴퍼니 "레보아이, 원자력병원 로봇수술 100례 달성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330232046</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330232046</guid>
+            <pubDate>Thu, 30 Mar 2023 15:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[수술로봇 업체 미래컴퍼니는 최근 원자력병원이 레보아이 로봇수술 100례를 달성했다고 30일 밝혔다. 원자력병원은 지난 24일 로봇수술 100례 달성을 축하하는 기념행사를 열었다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세라젬, 인도 뭄바이 디지털 교육 돕는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330180641</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롯데하이마트, 창립 23주년 프로모션 진행]]></title>
+            <title><![CDATA[롯데하이마트, 창립 23주년…인기 가전 최대 50% 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330224703</link>
             <guid>https://zdnet.co.kr/view/?no=20230330224703</guid>
             <pubDate>Thu, 30 Mar 2023 14:10:32 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230329141718</guid>
             <pubDate>Wed, 29 Mar 2023 06:14:10 GMT</pubDate>
             <content:encoded><![CDATA[주방가전 전문기업 테팔이 지정 온도에 맞춰 물을 끓일 수 있는 '무선주전자 카페 컨트롤'을 출시했다고 29일 밝혔다. 테팔 무선주전자 카페 컨트롤은 핸드드립 전문 포트다. 드립...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PC용 DDR4 메모리 최저가, 2만원대 깨졌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230329123254</link>
-            <guid>https://zdnet.co.kr/view/?no=20230329123254</guid>
-            <pubDate>Wed, 29 Mar 2023 04:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 PC 시장에서 데스크톱 PC용 DDR4 메모리 모듈 가격이 연일 최저가를 갱신하고 있다. 전통적인 PC 비수기에 올 초부터 두드러진 PC 수요 감소 등으로 재고 압박이 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
