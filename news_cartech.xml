@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 04:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충북대에 자율주행 실증인프라 들어서]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330121610</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330121610</guid>
+            <pubDate>Thu, 30 Mar 2023 04:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 31일 오후 비수도권 지역 자율주행 기술개발과 인력양성 수요에 부응해 실차 기반 실증기반시설(인프라)인 '충북 자율주행 테스트베드(C-Track)'를 정식 개소한다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['로봇이 전기차 자동 충전'…현대차, 로보틱스 청사진 제시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330100850</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230327092742</guid>
             <pubDate>Mon, 27 Mar 2023 00:47:42 GMT</pubDate>
             <content:encoded><![CDATA[르노코리아자동차가 'The New QM6(더 뉴 QM6)' 광고 영상을 공개하고 SK가스·SK에너지와 함께 더뉴 QM6 LPe 및 퀘스트 모델을 위한 고객 혜택 제공의 추가 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, '쏘나타 디 엣지' 디자인 공개…풀체인지급 부분변경]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230327090120</link>
-            <guid>https://zdnet.co.kr/view/?no=20230327090120</guid>
-            <pubDate>Mon, 27 Mar 2023 00:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차는 8세대 쏘나타의 풀체인지급 부분변경 모델인 '쏘나타 디 엣지'의 디자인을 27일 공개했다. 쏘나타 디 엣지의 차명은 풀체인지급으로 바뀐 쏘나타의 날렵하고 직선적인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
