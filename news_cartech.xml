@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 22:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 23:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울모빌리티쇼 개막…세계 최초 8종 등 신차 21종 전시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330235604</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330235604</guid>
+            <pubDate>Thu, 30 Mar 2023 23:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[모빌리티 산업 전시회 '2023 서울모빌리티쇼'가 30일 언론공개 행사를 시작으로 다음달 9일까지 일산 킨텍스 제1전시장 1~5홀에서 개최된다. 이번 전시는 세계 최초 공개 8...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포르쉐, 75주년 기념 스포츠카 '비전 357' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330155127</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230328110043</guid>
             <pubDate>Tue, 28 Mar 2023 02:08:54 GMT</pubDate>
             <content:encoded><![CDATA[금호타이어가 업계 최초로 모터스포츠 우수 인재 발굴을 위한 '금호 주니어 드라이버 프로그램'을 실시한다고 28일 밝혔다. 금호타이어는 젊은 레이싱 인재들을 적극적으로 육성하여 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쉐보레 '트랙스 크로스오버', 사전계약 4일만에 1만대 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230328103007</link>
-            <guid>https://zdnet.co.kr/view/?no=20230328103007</guid>
-            <pubDate>Tue, 28 Mar 2023 02:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[GM(제너럴모터스)의 쉐보레 트랙스 크로스오버(CUV)가 사전계약을 실시한 지 단 4일만에 계약 건수 1만대를 돌파했다고 28일 밝혔다. 쉐보레는 트랙스 크로스오버의 이 같은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

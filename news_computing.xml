@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 22:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 23:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 첫 자체 제작 양자컴퓨터 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330235257</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330235257</guid>
+            <pubDate>Thu, 30 Mar 2023 23:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[일본에서 자체 제작한 양자컴퓨터 1호기가 가동을 시작했다. 최근 닛케이 등 외신에 따르면 이화학연구소(이하 리켄)는 양자컴퓨터의 가동을 시작하고 클라우드를 서비스를 통해 대학 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지능형 자동화 확립 기업, 지속가능성 성숙도 향상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330191215</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230330104836</guid>
             <pubDate>Thu, 30 Mar 2023 02:08:27 GMT</pubDate>
             <content:encoded><![CDATA[그라운드엑스(대표 양주일)는 디지털 자산 지갑 '클립'과 카카오톡 지갑을 연동해 카카오톡 지갑에서 대체불가토큰(NFT)을 확인할 수 있는 서비스를 선보였다고 밝혔다. 이번 연동...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하시코프, SK브로드밴드 셀프서비스 인프라 자동화 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230330101317</link>
-            <guid>https://zdnet.co.kr/view/?no=20230330101317</guid>
-            <pubDate>Thu, 30 Mar 2023 02:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[하시코프는 SK(주) C&amp;C와 함께 SK브로드밴드에 하시코프 테라폼, 볼트, 패커,노마드 등의 솔루션을 활용한 인프라 자동화 환경을 성공적으로 구축했다고 30일 밝혔다. 이는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
