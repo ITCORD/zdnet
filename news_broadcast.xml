@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IDC 화재 방지...배터리 거리두고, 10초 단위 탐지해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330112031</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330112031</guid>
+            <pubDate>Thu, 30 Mar 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 인터넷데이터센터 배터리 간 이격거리를 두고 10초 주기로 배터리 탐지체계를 작동해야 한다. 디지털서비스는 장애가 발생하더라도 빠르게 복구할 수 있도록 서비스 분산 체계를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부 재산 1위는...100억 이상 자산가 3명]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330085928</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230328135334</guid>
             <pubDate>Tue, 28 Mar 2023 06:14:15 GMT</pubDate>
             <content:encoded><![CDATA[판매자가 생방송 중 욕설을 해 논란을 일으킨 현대홈쇼핑이 강한 수준의 법정제재를 받을 위기에 놓였다. 방송통신심의위원회 광고심의소위원회는 28일 회의를 열고 현대홈쇼핑에 법정제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[통신 대리점들 "금융권 알뜰폰, 이통 자회사 수준 규제 필요”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230328143733</link>
-            <guid>https://zdnet.co.kr/view/?no=20230328143733</guid>
-            <pubDate>Tue, 28 Mar 2023 06:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[이동통신 대리점과 판매점 회원사로 구성된 전국이동통신유통협회(KMDA)가 알뜰폰 사업의 은행 부수업무 지정 논란을 두고 최소한 도매대가 이하 상품 판매 금지와 시장점유율 제한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
