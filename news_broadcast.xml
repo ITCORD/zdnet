@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 05:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["7월부터 네이버·카카오도 재난관리 의무화 대상"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330111653</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330111653</guid>
+            <pubDate>Thu, 30 Mar 2023 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 이용자 수 1천만명 이상이거나 트래픽 비중 2% 이상인 부가통신사업자도 방송통신재난관리 대상에 포함된다. 매출액이 100억원 이상인 데이터센터 사업자 중 전산실 바닥면적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK스퀘어, 2025년까지 정기적 자사주 매입 소각]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330134927</link>
@@ -72,11 +80,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[IDC 화재 방지...배터리 거리두고, 10초 단위 탐지해야]]></title>
+            <title><![CDATA[제2 카카오 사태 막는다.."네이버·카카오도 방송통신재난관리 대상"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330112031</link>
             <guid>https://zdnet.co.kr/view/?no=20230330112031</guid>
             <pubDate>Thu, 30 Mar 2023 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 인터넷데이터센터 배터리 간 이격거리를 두고 10초 주기로 배터리 탐지체계를 작동해야 한다. 디지털서비스는 장애가 발생하더라도 빠르게 복구할 수 있도록 서비스 분산 체계를...]]></content:encoded>
+            <content:encoded><![CDATA[과학기술정보통신부가 지난해 SK C&amp;C 판교 데이터센터 화재로 발생한 카카오 서비스 장애 재발 방지 대책을 내놨다. 우선, 인터넷데이터센터(IDC)는 배터리 간 이격거리를 두고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230329110859</guid>
             <pubDate>Wed, 29 Mar 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스와 SK브로드밴드 간의 망 이용대가 채무부존재 항소심이 29일 진행된다. 특히 이번 재판은 유럽연합(EU)이 관련 입법 절차에 나섰고, 지난달 MWC에서도 망 이용대가를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HCN, 안드로이드 셋톱박스 'skyHCN A+' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230329102610</link>
-            <guid>https://zdnet.co.kr/view/?no=20230329102610</guid>
-            <pubDate>Wed, 29 Mar 2023 02:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[HCN이 안드로이드 기반 셋톱박스 'skyHCN A+'를 출시했다고 29일 밝혔다. skyHCN A+는 HCN의 기존 UHD 화질 방송서비스에 안드로이드OS 11을 탑재한 상품...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
