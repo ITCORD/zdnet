@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 10:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 11:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지능형 자동화 확립 기업, 지속가능성 성숙도 향상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230330191215</link>
+            <guid>https://zdnet.co.kr/view/?no=20230330191215</guid>
+            <pubDate>Thu, 30 Mar 2023 11:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[유아이패스는 기업 경영진 중 54%가 엔터프라이즈 자동화 기술을 활용해 지속가능성 이니셔티브를 구축하고 있으며, 24%는 향후 2년 내 지속가능성을 위해 자동화를 도입할 계획이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK(주) C&C, 삼양그룹 IT시스템 재해복구 체계 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230330185349</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230330101317</guid>
             <pubDate>Thu, 30 Mar 2023 02:08:27 GMT</pubDate>
             <content:encoded><![CDATA[하시코프는 SK(주) C&amp;C와 함께 SK브로드밴드에 하시코프 테라폼, 볼트, 패커,노마드 등의 솔루션을 활용한 인프라 자동화 환경을 성공적으로 구축했다고 30일 밝혔다. 이는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안드로이드·iOS 취약점 이용한 스파이웨어 발견]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230330082003</link>
-            <guid>https://zdnet.co.kr/view/?no=20230330082003</guid>
-            <pubDate>Thu, 30 Mar 2023 02:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[안드로이드와 iOS, 크롬의 제로데이 및 N데이 취약점을 이용해 상업용 스파이웨어를 설치하는 공격 행위가 발견됐다. 보안 전문 매체 블리핑컴퓨터는 29일(현지시간) 구글 위협 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
