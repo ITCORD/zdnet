@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 06:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배민, 작년 영업익 4천241억…3년 '줄적자' 탈출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230331135139</link>
+            <guid>https://zdnet.co.kr/view/?no=20230331135139</guid>
+            <pubDate>Fri, 31 Mar 2023 06:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[배달의민족(배민)이 3년 만에 흑자 전환에 성공했다. 배민 운영사 우아한형제들은 지난해 매출액 2조9천471억원, 영업이익 4천241억원을 기록했다고 31일 공시했다. 매출은 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/07/29/95cc3e8ccbaf76a96f9e76d244edca05-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2분기 전기·가스요금 인상안 잠정 연기…"충분한 검토 후 발표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230331124052</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230331101623</guid>
             <pubDate>Fri, 31 Mar 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤, KT, LG유플러스 등 통신 3사가 보급형 스마트폰 '갤럭시A34 5G'를 31일 출시했다. 갤럭시A34 5G는 ▲6.6인치, 슈퍼 아몰레드 120Hz 디스플레이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/31/2bad620c0acb090caf48f312481bf29c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네패스, CHAMP 협약기업 간담회 개최]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230331085653</guid>
             <pubDate>Fri, 31 Mar 2023 00:50:55 GMT</pubDate>
             <content:encoded><![CDATA[3월 31일은 '세계 백업의 날'(World Backup Day)이다. HDD를 잃어버린 한 소비자가 2011년 커뮤니티 '레딧'에 글을 올려 "중요한 데이터를 잘 백업하고 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뱀파이어 서바이버즈, BAFTA가 선정한 최고의 게임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230331091725</link>
-            <guid>https://zdnet.co.kr/view/?no=20230331091725</guid>
-            <pubDate>Fri, 31 Mar 2023 00:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[폰클이 개발한 액션 탄막 슈팅게임 뱀파이어 서바이즈가 BAFTA 2022에서 최고의 게임(GOTY)으로 선정됐다고 미국 게임매체 비디오 크로니클이 30일(현지시간) 보도했다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
