@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 11:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 12:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바디프랜드, 작년 영업익 241억원…전년比 65% 감소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230401174121</link>
+            <guid>https://zdnet.co.kr/view/?no=20230401174121</guid>
+            <pubDate>Sat, 01 Apr 2023 12:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드 지난해 영업이익이 전년보다 약 65% 감소했다. 매출은 헬스케어와 정수기 부문이 줄었고 매트리스는 상승했다. 1일 공시에 따르면 바디프랜드는 지난해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빅웨이브로보틱스, 100억원 규모 시리즈 A 투자유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230401160640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230330183715</guid>
             <pubDate>Thu, 30 Mar 2023 23:10:34 GMT</pubDate>
             <content:encoded><![CDATA[인도가 스마트폰 주요 생산국으로 급부상하고 있다. 중국보다 값싼 인건비와 더불어 인도 정부의 적극적인 세제 혜택 제공에 따른 이유다. 특히 중국에 아이폰 위탁생산을 80%가량 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미래컴퍼니 "레보아이, 원자력병원 로봇수술 100례 달성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230330232046</link>
-            <guid>https://zdnet.co.kr/view/?no=20230330232046</guid>
-            <pubDate>Thu, 30 Mar 2023 15:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[수술로봇 업체 미래컴퍼니는 최근 원자력병원이 레보아이 로봇수술 100례를 달성했다고 30일 밝혔다. 원자력병원은 지난 24일 로봇수술 100례 달성을 축하하는 기념행사를 열었다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
