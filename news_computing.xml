@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 05:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 06:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오케스트로, 1300억 투자 유치 나서···3일부터 투자제안서 배포]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230401145216</link>
+            <guid>https://zdnet.co.kr/view/?no=20230401145216</guid>
+            <pubDate>Sat, 01 Apr 2023 06:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[국내 프라이빗 클라우드 소프트웨어 기업 오케스트로(대표 김민준·김영광)가 시리즈B로 1300억원 투자유치에 나섰다. 1일 투자은행(IB)업계에 따르면 오케스트로는 삼정KPMG를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[14년만에 SP인증 3단계 SW기업 나왔다···삼성SDS 취득]]></title>
             <link>https://zdnet.co.kr/view/?no=20230401135218</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230331081237</guid>
             <pubDate>Fri, 31 Mar 2023 00:51:13 GMT</pubDate>
             <content:encoded><![CDATA[유니온커뮤니티(대표 신요식)는 보안 기술 전시회 '제22회 세계 보안 엑스포 2023(SECON 2023)'에 참가했다고 31일 밝혔다. 유니온커뮤니티는 전시회 참여를 통해 새...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본, 첫 자체 제작 양자컴퓨터 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230330235257</link>
-            <guid>https://zdnet.co.kr/view/?no=20230330235257</guid>
-            <pubDate>Thu, 30 Mar 2023 23:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[일본에서 자체 제작한 양자컴퓨터 1호기가 가동을 시작했다. 최근 닛케이 등 외신에 따르면 이화학연구소(이하 리켄)는 양자컴퓨터의 가동을 시작하고 클라우드를 서비스를 통해 대학 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
