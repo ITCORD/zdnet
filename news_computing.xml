@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 04:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[14년만에 SP인증 3단계 SW기업 나왔다···삼성SDS 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230401135218</link>
+            <guid>https://zdnet.co.kr/view/?no=20230401135218</guid>
+            <pubDate>Sat, 01 Apr 2023 05:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[14년만에 소프트웨어 프로세스 명품임을 인정하는 'SP(Software Process)인증 3등급' 기업이 나왔다. SP인증은 SW진흥법 제21조에 따라 우수 소프트웨어 프로세...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈, 한투증권 STO 발행 인프라 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230331182111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230330235257</guid>
             <pubDate>Thu, 30 Mar 2023 23:10:25 GMT</pubDate>
             <content:encoded><![CDATA[일본에서 자체 제작한 양자컴퓨터 1호기가 가동을 시작했다. 최근 닛케이 등 외신에 따르면 이화학연구소(이하 리켄)는 양자컴퓨터의 가동을 시작하고 클라우드를 서비스를 통해 대학 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지능형 자동화 확립 기업, 지속가능성 성숙도 향상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230330191215</link>
-            <guid>https://zdnet.co.kr/view/?no=20230330191215</guid>
-            <pubDate>Thu, 30 Mar 2023 11:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[유아이패스는 기업 경영진 중 54%가 엔터프라이즈 자동화 기술을 활용해 지속가능성 이니셔티브를 구축하고 있으며, 24%는 향후 2년 내 지속가능성을 위해 자동화를 도입할 계획이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
