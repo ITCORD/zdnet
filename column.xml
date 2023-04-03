@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 06:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 07:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 멈춰선 현장의 개인정보보호]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230403152248</link>
+            <guid>https://zdnet.co.kr/view/?no=20230403152248</guid>
+            <pubDate>Mon, 03 Apr 2023 07:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대학 선배가 보이스피싱 사기로 노후 생활비 2천만원을 날렸다. 은행 관계자인 것처럼 위장한 사기꾼은 선배 개인정보 일부를 알고 있었다. 사기꾼의 저금리 대환 대출 속임수에 빠져 선배 스스로 현금을 건넸다고 한다.이번 사건으로 인해 선배는 큰 충격을 받아 심한 자책과 우울증으로 은퇴 후 생활이 엉킨 실타래처럼 망가졌다.정보기술(IT) 시스템을 이용하지 않는 사회생활은 상상할 수 없다. 기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/03/bc91aef057757d575ea65def2e66b844.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI에 필요한 건 윤리가 아니라 수단성과 통제 가능성"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230402181609</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Feb 2023 20:16:24 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)이 글을 쓰고 그림을 그리고 작곡을 하는 시대가 왔다. 특히 대형 언어모델(LLM)을 기반으로 만들어진 챗GPT가 등장하면서 사람과 유사한 글과 언어가 쏟아지고 있다. AI가 작성한 글과 언어, 그림, 작곡물은 누구의 소유일까? 윤리 문제는 괜찮을까? 이런 궁금증을 풀어주기 위해 조원희 법무법인 디라이트 대표 변호사가 지디넷코리아에 ▲인공지능 활용에 따른 법적 책임 주체&amp;nbs...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/02/20/2a6be8b21f7720c2abc1ef753ff6da20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이랜서 칼럼] 챗GPT 열풍, 혁신 그리고 새로운 기회]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230218164836</link>
-            <guid>https://zdnet.co.kr/view/?no=20230218164836</guid>
-            <pubDate>Tue, 21 Feb 2023 20:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[[이랜서칼럼]은 ‘IT를 기반으로 자유롭게 일하는 21세기형 전문가 를 지칭하는 ‘이랜서’(e-Lancer)들이 21세기형 일과 생활에 대한 인사이트와 노하우를 공유하는 장입니다.챗GPT 열풍이 아이폰과 알파고처럼 폭발적이다. 챗GPT를 보면서 두개 영화가 떠올랐다. '트랜센던스(Transcendence)'와 '인터스텔라(Interstellar)'다. '트...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/27/ff516def3fa435b8bc6c92b341c5e9ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
