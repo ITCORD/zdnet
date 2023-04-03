@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 00:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 02:00:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키오시아-웨스턴디지털, 218단 낸드 플래시 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230403094012</link>
+            <guid>https://zdnet.co.kr/view/?no=20230403094012</guid>
+            <pubDate>Mon, 03 Apr 2023 01:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[키오시아와 웨스턴디지털이 8세대 218단 3D 낸드 플래시 메모리 기술 관련 세부 정보를 공개했다. 218단 3D 플래시 메모리는 미세화 공정과 웨이퍼 본딩 기술을 모두 적용해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG디스플레이, 대형OLED 시설 투자 미뤄]]></title>
             <link>https://zdnet.co.kr/view/?no=20230401100643</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230329134608</guid>
             <pubDate>Wed, 29 Mar 2023 07:10:41 GMT</pubDate>
             <content:encoded><![CDATA[박정호 SK하이닉스 부회장이 “1년에 20조원 넘게 투자하고 6개월 동안 600개 넘는 공정으로 만든 메모리 반도체 제품이 단돈 몇 센트에 팔린다”며 “업황이 지독하게 흔들리는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DB하이텍, 팹리스 물적분할 주총 통과...5월 'DB팹리스' 출범]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230329120456</link>
-            <guid>https://zdnet.co.kr/view/?no=20230329120456</guid>
-            <pubDate>Wed, 29 Mar 2023 03:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[DB하이텍이 팹리스를 담당하는 브랜드 사업부를 물적분할하기로 결정했다. 시스템반도체 파운드리(위탁생산)와 팹리스(설계사업)를 병행하던 DB하이텍이 두 사업을 분리하는 사업구조 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
