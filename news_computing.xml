@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 04:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹케시그룹, 올해 상반기 신입사원 공개 채용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230403133627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230403133627</guid>
+            <pubDate>Mon, 03 Apr 2023 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[웹케시그룹(회장 석창규)이 2023년 상반기 신입사원 공개 채용을 시작했다고 3일 밝혔다. 웹케시그룹은 이번 공채를 통해 ▲소프트웨어 개발 ▲UI/UX 디자인 ▲상품 ▲사업 ▲...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['일렉트론' 탈출한 MS 팀즈, 어떻게 바뀌었나]]></title>
             <link>https://zdnet.co.kr/view/?no=20230403130447</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230402141126</guid>
             <pubDate>Sun, 02 Apr 2023 06:12:10 GMT</pubDate>
             <content:encoded><![CDATA[구글이 AI 챗봇 바드에 초대형 언어모델 'PaLM'을 적용해 성능을 대폭 개선한다. 31일(현지시간) 더 버지 등 외신에 따르면 순다 피차이 구글 CEO는 바드를 초대형 언어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이데이터, 데이터 사이언스 부트캠프 교육생 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230402150922</link>
-            <guid>https://zdnet.co.kr/view/?no=20230402150922</guid>
-            <pubDate>Sun, 02 Apr 2023 06:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[엔코아(대표 이화식)는 교육센터 플레이데이터의 데이터 엔지니어링 트랙 25기와 데이터 애널리시스 트랙 31기를 모집한다고 29일 밝혔다. 이번 부트캠프는 이달 24일부터 10월...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
