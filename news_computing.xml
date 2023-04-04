@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 개발 속도 어떡할까…"잠시 쉬자" vs "공포 조장"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230404080909</link>
+            <guid>https://zdnet.co.kr/view/?no=20230404080909</guid>
+            <pubDate>Tue, 04 Apr 2023 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[생성 인공지능(AI) 개발 속도에 대한 논란이 커지고 있다. 일각에선 생성 AI 개발을 잠시 중단하자는 목소리가 나왔다. 반면 이는 AI에 대한 공포심을 조장한다며 개발 속도를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맥스핀테크, 배달원 위한 '공제조합 앱' 운영]]></title>
             <link>https://zdnet.co.kr/view/?no=20230404141100</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230403171029</guid>
             <pubDate>Mon, 03 Apr 2023 08:15:15 GMT</pubDate>
             <content:encoded><![CDATA[코오롱베니트(대표 강이구)가 KG ICT와 공동 추진한 KG스틸 'SAP S/4HANA 컨버전 프로젝트'를 완료했다고 3일 밝혔다. KG스틸은 이번 프로젝트로 기존 ERP 시스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["페이코인 상폐, 석연치 않아"…왜?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230403161749</link>
-            <guid>https://zdnet.co.kr/view/?no=20230403161749</guid>
-            <pubDate>Mon, 03 Apr 2023 08:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[결제 서비스 전문 기업 다날이 발행한 가상자산 '페이코인(PCI)' 국내 시장에서 사실상 상장 폐지된다. 거래소들이 상폐 사유를 밝혔음에도 가상자산 업계에선 석연치 않다는 반응...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
