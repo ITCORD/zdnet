@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 02:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세미파이브, 퓨리오사AI 반도체 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230405111757</link>
+            <guid>https://zdnet.co.kr/view/?no=20230405111757</guid>
+            <pubDate>Wed, 05 Apr 2023 03:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 디자인하우스 세미파이브는 5일 삼성전자 반도체 위탁생산(Foundry·파운드리) 14나노미터(1㎚=10억분의 1m) 공정에서 첫 번째 시스템온칩(SoC) 플랫폼 기반 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마우저, TI 차량용 레이더 센서 판매]]></title>
             <link>https://zdnet.co.kr/view/?no=20230405101844</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230331171204</guid>
             <pubDate>Fri, 31 Mar 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[미국 반도체 장비 업체 KLA가 지난 30일 경기도 용인에 위치한 서플러스 글로벌 반도체 장비 클러스터에 새로운 LKS(Learning and Knowledge Services...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네패스, CHAMP 협약기업 간담회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230331114646</link>
-            <guid>https://zdnet.co.kr/view/?no=20230331114646</guid>
-            <pubDate>Fri, 31 Mar 2023 03:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[네패스 30일 협약기업 및 유관기관 관계자 등이 참석한 가운데 '2023 네패스 국가인적자원개발컨소시엄(이하 CHAMP) 사업 협약기업 간담회'를 개최했다. 본 사업은 고용노동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
