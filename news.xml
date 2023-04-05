@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 03:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 04:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람인, 챗GPT가 더 정교한 면접 코칭 해준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230405130524</link>
+            <guid>https://zdnet.co.kr/view/?no=20230405130524</guid>
+            <pubDate>Wed, 05 Apr 2023 04:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[커리어 매칭 플랫폼 사람인(대표 김용환)이 자사의 AI 기술과 결합한 챗GPT 기반의 'Ai면접 코칭' 서비스를 선보였다고 5일 밝혔다. AI 기술을 연구해온 사람인은 이미 지...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/05/09f273668b9536fcf544c340bc7ab005-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알테어, 친환경 자동차 기술 찾는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230405120612</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230405120048</guid>
             <pubDate>Wed, 05 Apr 2023 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[HPE는 파일, 블록, 재해복구 및 백업 데이터 기능을 추가한 최신 스토리지 서비스를 5일 출시했다. 신규 파일 스토리지는 데이터 집약적인 워크로드를 다룰 수 있도록 엔터프라이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/05/8724210c61eead528f0e748b185d8e6a-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KISA, ISMS-P 신규 인증심사원 자격검정 시행]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230405111422</guid>
             <pubDate>Wed, 05 Apr 2023 02:17:21 GMT</pubDate>
             <content:encoded><![CDATA[한림대 도헌학술원이 이날 오후 '나의 삶, 나의 소명'이라는 주제로 CLC 비전홀에서 김훈 작가를 초청해 '시민지성 한림연단'을 개최한다. 시민지성 한림연단은 문명사적 격변기에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, 지자체 손잡고 해외진출기업 유턴 활성화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230405111233</link>
-            <guid>https://zdnet.co.kr/view/?no=20230405111233</guid>
-            <pubDate>Wed, 05 Apr 2023 02:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[산업부가 지자체와 손잡고 해외진출기업의 국내복귀(유턴) 활성화에 나선다. 산업통상자원부는 5일 한국산업단지공단에서 지자체 국내복귀 담당자 역량 강화 아카데미를 개최한다. 지난해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
