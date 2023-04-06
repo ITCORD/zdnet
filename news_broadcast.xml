@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 08:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국PP협회, '부부스캔들' 공동 제작·배급 나선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230406163710</link>
+            <guid>https://zdnet.co.kr/view/?no=20230406163710</guid>
+            <pubDate>Thu, 06 Apr 2023 08:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국방송채널사용사업협회(이하 한국PP협회)는 콘텐츠 공감 사업 일환으로 오리지널 콘텐츠 '부부스캔들' 공동 제작에 나섰다고 6일 밝혔다. 한국PP협회는 회원사인 베리미디어, 스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국회 과방위 1분기 전체회의 2번...계류 법안 596개 쌓였다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230406134317</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230405090320</guid>
             <pubDate>Wed, 05 Apr 2023 00:40:17 GMT</pubDate>
             <content:encoded><![CDATA[KT는 식목일을 맞이해 우편 명세서 이용자를 대상으로 디지털명세서 확대 프로모션을 진행한다고 5일 밝혔다. 다음달 19일까지 우편으로 받던 모바일명세서, 이메일명세서, kt.c...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 제조사 간 양자암호통신망 통합 운용 기술 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230405091521</link>
-            <guid>https://zdnet.co.kr/view/?no=20230405091521</guid>
-            <pubDate>Wed, 05 Apr 2023 00:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 세계최초로 각기 다른 제조사의 통신 장비로 구성된 양자암호통신망을 하나의 통합망으로 가상화해 양자키를 제공하는 자동 제어 운용 기술을 개발에 성공했다고 5일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
