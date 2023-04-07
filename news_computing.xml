@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 08:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 09:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해커 "돈·시간 아까워"…모의 해킹 도구 악용한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230407165958</link>
+            <guid>https://zdnet.co.kr/view/?no=20230407165958</guid>
+            <pubDate>Fri, 07 Apr 2023 09:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 공격이 보안 관리자의 감시를 피할 수 있게 점점 고도화되고 있다. 기업에서 조직 내부의 취약점을 알아내기 위해 만든 도구를 악용하거나, 컴퓨터에 이미 설치돼 있는 정상 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털 격차로 생존 위협 받는 중소기업, SaaS로 극복]]></title>
             <link>https://zdnet.co.kr/view/?no=20230407155649</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230406102500</guid>
             <pubDate>Thu, 06 Apr 2023 06:13:08 GMT</pubDate>
             <content:encoded><![CDATA[과기정통부가 상용 소프트웨어(상용SW) 산업 활성화와 제값받기를 위한 공공부문 수·발주자 협의회를 6일 개최했다. 이날 회의에서는 조달청이 내년 시행 예정인 상용 소프트웨어에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셈, 경찰청 지문·전과기록 통합 ISP 수행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230406143446</link>
-            <guid>https://zdnet.co.kr/view/?no=20230406143446</guid>
-            <pubDate>Thu, 06 Apr 2023 06:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[엑셈(대표 조종암)은 경찰청의 '지문 및 전과기록 시스템 구축 통합 ISP/BPR' 사업을 수행하고 있다고 5일 밝혔다. 최근 범죄(수사)경력 등의 과학수사 기초 자료는 자동 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
