@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 05:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 06:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 공공시스템 개인정보 안전조치 강화한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230407083245</link>
+            <guid>https://zdnet.co.kr/view/?no=20230407083245</guid>
+            <pubDate>Fri, 07 Apr 2023 06:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[민감한 개인정보를 대규모로 처리하는 공공시스템들의 안전한 데이터 이용 환경을 위해 정부가 적극 나섰다. 개인정보보호위원회는 7일 관련 부처가 참여한 '개인정보 정책협의회'를 개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈베이스, VM웨어 올해의 파트너 밸류상 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230407135054</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230406141541</guid>
             <pubDate>Thu, 06 Apr 2023 06:13:08 GMT</pubDate>
             <content:encoded><![CDATA[FSN 자회사 핑거랩스는 위메이드플레이와 게임 및 메타버스 분야가 주력인 벤처캐피탈(VC)로부터 40억 원 규모의 추가 투자를 유치했다고 밝혔다. 이로써 핑거랩스는 지난 12월...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 우주·항공 등 미래 서비스에 보안 강화 시범 사업 공모]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230406141940</link>
-            <guid>https://zdnet.co.kr/view/?no=20230406141940</guid>
-            <pubDate>Thu, 06 Apr 2023 06:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)과 과학기술정보통신부는 다양한 분야에서 미래를 선도할 융합서비스에 대한 보안 적용부터 사업화까지 지원하는 '신기술 적용 융합서비스 보안강화 시범사업' ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
