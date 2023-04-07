@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 07:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플워치, 앞으론 작은 손가락 움직임까지 알아챌까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230407162339</link>
+            <guid>https://zdnet.co.kr/view/?no=20230407162339</guid>
+            <pubDate>Fri, 07 Apr 2023 08:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 애플워치 밴드에 탑재된 전극을 통해 손가락 움직임을 감지하는 특허 기술을 미국 특허청에 등록했다고 IT매체 씨넷이 6일(현지시간) 보도했다. '제스처 인식을 위한 전극(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1분기 깜짝실적 LG전자, 올해 年매출 90조원 넘본다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230407151827</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230407090424</guid>
             <pubDate>Fri, 07 Apr 2023 00:41:40 GMT</pubDate>
             <content:encoded><![CDATA[오는 6월 WWDC 행사에서 공개되는 최신 아이폰 운영체제 iOS 17의 구형 모델 지원 여부를 두고 엇갈린 전망이 나왔다. IT매체 맥루머스는 소식통을 인용해 iOS 17 버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 맥OS에 5년간 비트코인 백서 숨겨둬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230407065202</link>
-            <guid>https://zdnet.co.kr/view/?no=20230407065202</guid>
-            <pubDate>Fri, 07 Apr 2023 00:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 2018년부터 5년간 맥OS 운영체제 안에 나카모토 사토시가 쓴 '비트코인 백서'를 탑재해 왔다는 사실이 드러났다. 5일(미국 현지시간) 맥 개발자 앤디 바이오는 자신의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
