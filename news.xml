@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 05:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 06:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원, 작년 매출 79.6% 감소…영업익 적자 전환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230408144032</link>
+            <guid>https://zdnet.co.kr/view/?no=20230408144032</guid>
+            <pubDate>Sat, 08 Apr 2023 06:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 코인원은 작년 매출 349억6천만원, 영업손실 210억1천만원, 순손실 124억7천만원을 기록했다고 지난 7일 공시했다. 전년 대비 매출은 79.6% 감소...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/08/85f8e236e4814d98c216f9436da5986d-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나에게 맞는 개발 업무와 회사는?···마이다스인, '디챔스' 16일까지 시행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230408133349</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230408122329</guid>
             <pubDate>Sat, 08 Apr 2023 04:10:55 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 컴퓨팅 및 디지털전환(DT) 전문 기업 이노그리드(대표 김명진)는 데이터 인프라 및 솔루션 전문 기업 효성인포메이션시스템(대표 양정규)과 클라우드 사업 협력을 위한 업...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/08/ec8fd1f3bf9cbc380deaa91dcaa0f7f8-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버 증권서 가상자산 시세 조회 가능]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230407171858</guid>
             <pubDate>Fri, 07 Apr 2023 09:09:32 GMT</pubDate>
             <content:encoded><![CDATA[사단법인 루트임팩트(대표 허재형)는 소셜임팩트뉴스(대표 모성훈)와 미디어 파트너 업무협약을 맺고 루트임팩트가 운영하는 헤이그라운드 입주사의 홍보역량 강화와 임팩트 확산을 위한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 격차로 생존 위협 받는 중소기업, SaaS로 극복]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230407155649</link>
-            <guid>https://zdnet.co.kr/view/?no=20230407155649</guid>
-            <pubDate>Fri, 07 Apr 2023 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[급변하는 시장 속 디지털 전환이 생존을 위한 필수요소로 자리 잡고 있다. 이에 대기업을 중심으로 클라우드와 인공지능(AI) 등의 도입에 박차를 가하는 중이다. 반면, 중소, 중...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
