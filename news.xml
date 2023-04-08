@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 증권서 가상자산 시세 조회 가능]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230408113052</link>
+            <guid>https://zdnet.co.kr/view/?no=20230408113052</guid>
+            <pubDate>Sat, 08 Apr 2023 03:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[네이버파이낸셜(대표 박상진)은 네이버 증권에서 가상자산 시세 조회 서비스를 시작했다고 8일 밝혔다. 네이버 증권에서 제공한 국내 및 해외 주식, 시장지표 시세 서비스가 가상자산...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/08/7c256f59e1c4310c71cfea7d3776bf0e-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오게임즈, 게임 접근성 높인다…ESG 경영 일환]]></title>
             <link>https://zdnet.co.kr/view/?no=20230407103912</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230408080644</guid>
             <pubDate>Fri, 07 Apr 2023 23:08:51 GMT</pubDate>
             <content:encoded><![CDATA[미국 전기차기업 테슬라가 또 다시 가격을 내렸다. 올 들어서만 세 번째다. 테슬라가 모델 S와 모델 X 미국 내 판매 가격을 5천 달러(약 660만 원)씩 인하했다고 아스테크니...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/01/14/22cb3eff345d8357d10d5876c98edc74-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털경제포럼-스타트업얼라이언스, 이커머스 발전 방향 논의한다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230407142657</guid>
             <pubDate>Fri, 07 Apr 2023 08:12:00 GMT</pubDate>
             <content:encoded><![CDATA[농수산 식품을 전문으로 판매하던 NS홈쇼핑이 식품 홈쇼핑 이미지 탈피에 나섰다. 올해를 '턴어라운드해'로 정한 만큼, 뷰티와 패션 등 새 분야 발굴에 적극적이다. 그 일환으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 산업통상자원부]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230407161422</link>
-            <guid>https://zdnet.co.kr/view/?no=20230407161422</guid>
-            <pubDate>Fri, 07 Apr 2023 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[◇국장급 승진 ▲수소경제정책관 이옥헌 ◇과장급 전보 ▲수소경제정책과장 김범수 ▲아주통상과장 김민혜...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
