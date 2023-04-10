@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 10:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 11:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유통업계, 봄맞이 이벤트 행사 '봇물']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230410171604</link>
+            <guid>https://zdnet.co.kr/view/?no=20230410171604</guid>
+            <pubDate>Mon, 10 Apr 2023 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[4월 본격적인 봄을 맞아 유통업계가 다양한 이벤트들을 선보이고 있다. 10일 유통업계에 따르면 현대백화점·지마켓·쿠팡 등은 봄 시즌을 맞아 상품권 증정 및 무이자 할부, 가격할...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/10/4262870a2942e876a7ab454eaa6fb264-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 거래소 '지닥' 해킹…코인 170억원 어치 유출]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410184438</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230410185745</guid>
             <pubDate>Mon, 10 Apr 2023 10:10:32 GMT</pubDate>
             <content:encoded><![CDATA[빅아이디언은 노코드 수집연동솔루션과 오픈소스 BI솔루션 슈퍼셋(Superset)을 이용해 데이터를 시각화하고 공유할 수 있는 대시보드 웹서비스 데모 서비스를 오픈했다고 10일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/10/2949fda4be900cd1b4e904cacdaa9b9b-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[머스트잇, 멤버십 VIP 등급 위한 전용관 2차 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410165949</guid>
             <pubDate>Mon, 10 Apr 2023 09:09:56 GMT</pubDate>
             <content:encoded><![CDATA[최수연 네이버 대표 등 경영진이 자사주 매입을 통해 주주가치 제고에 나선다. 네이버는 최수연 최고경영자(CEO)와 김남선 최고재무책임자(CFO)가 각각 자사주 1천26주, 51...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN벅스, 해비치 호텔앤드리조트 제주와 맞춤 음악 제휴]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410171034</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410171034</guid>
-            <pubDate>Mon, 10 Apr 2023 09:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[NHN벅스는 해비치 호텔앤드리조트 제주와 음악 큐레이션 제휴를 실시한다고 10일 밝혔다. 양사는 해비치 호텔앤드리조트 제주 숙박객에게 essential;(에센셜) 맞춤 음악을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
