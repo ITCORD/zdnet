@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 22:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 23:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스소프트-VM웨어, 일본 디지털 전환 비즈니스 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411070015</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411070015</guid>
+            <pubDate>Mon, 10 Apr 2023 23:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스소프트(대표 이형배) 일본지사가 VM웨어재팬과 메인프레임 사용 고객의 클라우드 전환을 지원하는 비즈니스를 공동 추진한다고 10일 밝혔다. 두 기업은 티맥스소프트 클라우드 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 거래소 '지닥' 해킹…코인 170억원 어치 유출]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410184438</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410093801</guid>
             <pubDate>Mon, 10 Apr 2023 01:58:18 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 엣지 브라우저에 빙 검색의 AI 이미지 생성기 바로가기 아이콘을 추가했다. 최근 마이크로소프트는 엣지 브라우저 사이드바에서 빙 이미지 크리에이터를 바로 이용할 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미래 AI 환경 위한 데이터 레이크하우스 전략은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410091407</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410091407</guid>
-            <pubDate>Mon, 10 Apr 2023 01:58:18 GMT</pubDate>
-            <content:encoded><![CDATA[데이터가 기업의 핵심 IT 자산으로 등극하면서, 데이터의 효과적인 저장과 관리 방안에 대한 관심이 높아지고 있다. 특히 데이터 분석과 AI 활용 등을 위한 핵심 자원으로 비정형...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
