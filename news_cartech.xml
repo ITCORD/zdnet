@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 07:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VW, 신형 플랫폼 전기차 'ID.7' 내주 공개…최대 700km 주행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230410164355</link>
+            <guid>https://zdnet.co.kr/view/?no=20230410164355</guid>
+            <pubDate>Mon, 10 Apr 2023 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[폭스바겐은 새로운 플래그십 전기 세단 ID.7을 오는 17일(현지시간) 월드 프미리어를 통해 최초 공개한다고 10일 밝혔다. ID.7은 폭스바겐의 신형 MEB 플랫폼을 기반으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[폭스콘, 전기차 배터리 공장에 1.8조원 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410093705</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230406143914</guid>
             <pubDate>Thu, 06 Apr 2023 06:13:43 GMT</pubDate>
             <content:encoded><![CDATA[중국의 전기차 기업인 비야디(BYD)의 1톤 전기트럭이 국내에 상륙했다. 특히 BYD는 전기 상용차 부문에서 70개 이상의 국가에 납품하는 업체다. 적정한 가격에 준수한 성능으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차 유니버스 수소전기버스 출시…1회 충전 최장 635㎞]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230406144400</link>
-            <guid>https://zdnet.co.kr/view/?no=20230406144400</guid>
-            <pubDate>Thu, 06 Apr 2023 06:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차는 고속형 대형버스급에 최초로 수소연료전지 시스템을 탑재한 친환경 차량 '유니버스 수소전기버스'를 출시했다고 6일 밝혔다. 유니버스 수소전기버스는 최고 출력 180㎾ ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

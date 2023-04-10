@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 07:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["실패 없는 디지털 전환, 비법은 체인지 매니지먼트"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230410163455</link>
+            <guid>https://zdnet.co.kr/view/?no=20230410163455</guid>
+            <pubDate>Mon, 10 Apr 2023 08:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[“급변하는 환경에 적응하기 위해 많은 기업이 디지털 전환(DX)을 시도하지만 상당수가 실패하고 기존 방식으로 돌아간다. 이를 방지하기 위해 필요한 것이 바로 체인지 매니지먼트(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가트너 "올해 세계 IT 지출 전년 대비 5.5% 증가”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410160526</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230409101716</guid>
             <pubDate>Sun, 09 Apr 2023 03:11:03 GMT</pubDate>
             <content:encoded><![CDATA[ㄱ씨 등은 지자체 공무원이 개인정보를 외부 업체에 유출한 것에 대한 손해배상을 요구하는 분쟁조정을 신청하였고, 분쟁조정위원회는 신청인들의 개인정보 유출에 대한 정신적 고통을 인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["이더리움 스테이킹 출금 몇 주 걸릴 수도"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230409082807</link>
-            <guid>https://zdnet.co.kr/view/?no=20230409082807</guid>
-            <pubDate>Sun, 09 Apr 2023 00:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[이더리움이 스테이킹된 수량을 출금할 수 있도록 네트워크를 업그레이드할 전망이다. 계획대로 업그레이드가 시행되어도, 스테이킹에 참여한 이더리움 보유자 전체가 스테이킹 보상을 받고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
