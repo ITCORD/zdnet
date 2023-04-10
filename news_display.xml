@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IPO] 마이크로투나노 "올해 D램 고사양 프로브카드 국산화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230410131622</link>
+            <guid>https://zdnet.co.kr/view/?no=20230410131622</guid>
+            <pubDate>Mon, 10 Apr 2023 06:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[“D램 전기적 선별(EDS·Electric Die Sorting)용 프로브 카드(Probe Card)를 올해 선보이겠습니다. 85%를 해외에 의존하던 D램 EDS용 프로브 카드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["삼성전자 '메모리 감산' 의미 있다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410092036</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230404154000</guid>
             <pubDate>Tue, 04 Apr 2023 08:13:54 GMT</pubDate>
             <content:encoded><![CDATA[삼성이 시스템 반도체와 디스플레이에 수백조원을 쏟아붓기로 한 것은 분야별 세계 1등 자리를 노린 투자다. 특히 삼성은 메모리 반도체 세계 1등이지만, 시스템반도체(파운드리) 분...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JOLED 파산의 교훈…삼성D, OLED 8.1조원 투자로 '승부수']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230404155403</link>
-            <guid>https://zdnet.co.kr/view/?no=20230404155403</guid>
-            <pubDate>Tue, 04 Apr 2023 08:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 4일 세계 최초로 8.6세대 IT용 OLED 생산공정 고도화에 2026년까지 총 4조1천억 원을 투자한다고 밝혔다. 삼성디스플레이는 이번 선제적 투자를 통해 스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
