@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, ICT 융합보안 분야 석·박사 양성한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411102041</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411102041</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부와 정보통신기획평가원(IITP)은 2023년도 융합보안대학원 신규 선정을 위해 11일부터 다음달 12일까지 모집 공고하고, 2개 대학원을 선정할 계획이라고 밝혔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["지닥 해커, 지갑 키 아닌 내부 시스템 권한 탈취"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411110627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411110627</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 지닥을 공격한 해커가 지갑 키가 아닌, 내부 시스템 접근 권한을 악용해 가상자산을 빼돌렸다는 분석이 제기됐다. 국내 정보보안 기업 티오리에서 웹3 보안 감...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알리바바 클라우드, 대규모언어모델 '통이치안웬' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230411111552</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410174034</guid>
             <pubDate>Mon, 10 Apr 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[코그넥스코리아(대표 알렉스 종)가 규칙 기반 툴과 인공지능(AI)을 활용하는 엣지러닝 툴이 내장된 스마트 카메라 '인사이트 3800(IN-SIGHT 3800)을 출시했다고 10...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["실패 없는 디지털 전환, 비법은 체인지 매니지먼트"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410163455</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410163455</guid>
-            <pubDate>Mon, 10 Apr 2023 08:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[“급변하는 환경에 적응하기 위해 많은 기업이 디지털 전환(DX)을 시도하지만 상당수가 실패하고 기존 방식으로 돌아간다. 이를 방지하기 위해 필요한 것이 바로 체인지 매니지먼트(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가트너 "올해 세계 IT 지출 전년 대비 5.5% 증가”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410160526</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410160526</guid>
-            <pubDate>Mon, 10 Apr 2023 07:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[가트너는 올해 전 세계 IT 지출이 작년보다 5.5% 증가한 총 4조 6천억 달러에 이를 것이라는 전망을 10일 발표했다. 세계적인 경제 혼란이 계속되고 있음에도 불구하고 20...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

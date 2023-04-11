@@ -4,16 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, ICT 융합보안 분야 석·박사 양성한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411102041</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411102041</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부와 정보통신기획평가원(IITP)은 2023년도 융합보안대학원 신규 선정을 위해 11일부터 다음달 12일까지 모집 공고하고, 2개 대학원을 선정할 계획이라고 밝혔...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/03/30/psooh_iaDvpJXlEgWve3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEA, H2KOREA와 수소·디지털 산업 상생 협력 협약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411115741</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411115741</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자정보통신산업진흥회(KEA·회장 한종희)는 11일 수소융합얼라이언스(H2KOREA·회장 문재도)와 서울 상암동 전자회관에서 '수소·디지털 산업 상생 협력 업무협약'을 체결...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/11/b6ed86d35eade5c07a14dbe15bc79614-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["지닥 해커, 지갑 키 아닌 내부 시스템 권한 탈취"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411110627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411110627</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 지닥을 공격한 해커가 지갑 키가 아닌, 내부 시스템 접근 권한을 악용해 가상자산을 빼돌렸다는 분석이 제기됐다. 국내 정보보안 기업 티오리에서 웹3 보안 감...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김동호 "소상공인전문은행, 잘 할 수 있다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411105652</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411105652</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[동네 가게 사장님이 '카카오톡' 만큼이나 본다는 '캐시노트' 서비스를 운영하는 한국신용데이터(KCD)가 올해 매출 턴어라운드를 확신하면서, 자영업자를 위한 토털 서비스를 제공하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인프라닉스, 베트남 스마트시티 전시회 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230411113045</link>
             <guid>https://zdnet.co.kr/view/?no=20230411113045</guid>
             <pubDate>Tue, 11 Apr 2023 02:31:40 GMT</pubDate>
             <content:encoded><![CDATA[인프라닉스(대표 송영선)가 베트남에서 열리는 스마트시티 전시회에 참가, 동남아 시장 진출을 모색한다. 11일 회사에 따르면 인프라닉스는 오는 13일~15일 베트남 호치민 SEC...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/11/0335cdbc1b47d3d0c6ed65c008b74d7e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TSMC, 미국 정부와 반도체 보조금 요건 논의]]></title>
@@ -21,7 +53,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230411095331</guid>
             <pubDate>Tue, 11 Apr 2023 02:31:40 GMT</pubDate>
             <content:encoded><![CDATA[세계 1위 반도체 위탁생산(Foundry) 회사 대만 TSMC가 미국 정부와 반도체 보조금 요건을 논의하고 있다고 로이터통신이 보도했다. 미국은 반도체지원법에 따라 보조금을 수...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/23/ecf0f04dae2cb3230fabb72d9848dde0-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[르노코리아, 프랑스 유명 사진작가 전시…부산엑스포 유치 지원]]></title>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230411101410</guid>
             <pubDate>Tue, 11 Apr 2023 02:00:07 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 카카오프렌즈 인기 캐릭터 춘식이 첫 단편 애니메이션 '도도도 춘식이'를 카카오TV에서 공개한다고 11일 밝혔다. 춘식이 데뷔 3주년을 맞아 진행하는 3가지 대형 프로젝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신한은행, 본인확인 서비스 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230411103833</link>
-            <guid>https://zdnet.co.kr/view/?no=20230411103833</guid>
-            <pubDate>Tue, 11 Apr 2023 02:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[신한은행은 방송통신위원회로부터 지정된 본인확인기관으로서 '신한 사인(SIGN) 본인확인서비스'를 시작한다고 11일 밝혔다. 신한인증서를 기반으로 서비스 이용자의 주민등록번호를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KB손보, 현장직원 간 소통 활성화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230411091840</link>
-            <guid>https://zdnet.co.kr/view/?no=20230411091840</guid>
-            <pubDate>Tue, 11 Apr 2023 02:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[KB손해보험은 현장직원 간 소통 활성화를 위해 지난 3월 '우리 만나, 봄' 캠페인을 시행했다고 11일 밝혔다. 해당 캠페인은 타 부서와 교류 기회가 많지 않고, 코로나19로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플루닛, EQBR 홀딩스와 NFT 사업 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230411101311</link>
-            <guid>https://zdnet.co.kr/view/?no=20230411101311</guid>
-            <pubDate>Tue, 11 Apr 2023 02:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[플루닛(대표 이경일)은 EQBR 홀딩스(대표 이현기)와 NFT(대체불가토큰) 사업 추진을 위한 업무협약을 체결했다고 11일 밝혔다. 플루닛 본사에서 진행된 이번 협약식에는 이경...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔씨, 장르 다변화-플랫폼 다각화로 글로벌 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230411102319</link>
-            <guid>https://zdnet.co.kr/view/?no=20230411102319</guid>
-            <pubDate>Tue, 11 Apr 2023 02:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[엔씨소프트가 장르 다변화를 통해 글로벌 시장 공략에 나선다. 이 회사는 MMORPG 장르를 비롯해 액션 배틀과 전략시뮬레이션(RTS) 등을 전면에 포진했다. 또한 PC·콘솔·모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
