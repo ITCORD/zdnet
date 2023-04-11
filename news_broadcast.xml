@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 00:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 02:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, AI APT 기반 이메일 보안 솔루션 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411095430</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411095430</guid>
+            <pubDate>Tue, 11 Apr 2023 02:00:16 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 이메일 해킹의 효과적인 방어를 위한 AI 지능형지속위협(APT) 분석 기술에 기반을 둔 이메일 보안 솔루션을 상용화했다고 11일 밝혔다. 이 솔루션은 지능화, 자동화를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["콘텐츠 세액공제 늘려야...국가적 지원 균형 필요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410170729</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230406112049</guid>
             <pubDate>Thu, 06 Apr 2023 02:31:22 GMT</pubDate>
             <content:encoded><![CDATA[CMB가 방송통신위원회와 시청자미디어재단에서 선정하는 '2022년 유료방송 자율개선 우수 사업자'로 선정됐다. '유료방송 자율개선 우수 사업자'는 방통위와 시청자미디어재단이 I...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이블TV 공동제작 첫 프로젝트 '트립 인 코리아' 10일 첫방송]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230406111749</link>
-            <guid>https://zdnet.co.kr/view/?no=20230406111749</guid>
-            <pubDate>Thu, 06 Apr 2023 02:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[한국케이블TV방송협회는 2023년 케이블공동제작협력단의 첫 프로젝트 '트립 인 코리아'가 오는 10일 첫 방송 한다고 밝혔다. SK브로드밴드, 한국직업방송, CMC가족오락TV,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
