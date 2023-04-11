@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 08:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PC 제조사 노린 해킹 기승..."업데이트 가장 악성코드 주의"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411153809</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411153809</guid>
+            <pubDate>Tue, 11 Apr 2023 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[2월 중순 에이서를 시작으로 3월 말 에이서, 4월 초 MSI 등 PC 관련 주요 글로벌 기업 대상으로 내부 제품 정보와 고객 정보 등을 노린 해킹 공격이 이어지고 있다. 해킹...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['올해 두배 성장' 서빙로봇 2세대戰…안정성 높이고 스크린 키워]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410212010</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410144100</guid>
             <pubDate>Mon, 10 Apr 2023 06:13:17 GMT</pubDate>
             <content:encoded><![CDATA[벤큐코리아가 10일 4K UHD 해상도 전자칠판 RP03 시리즈를 국내 출시했다. RP03 시리즈는 옥타코어 프로세서와 8GB 메모리, 안드로이드11 운영체제를 탑재해 고용량 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["갤S23, 삼성電 살렸다"...1분기 1100만대 팔려]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410141342</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410141342</guid>
-            <pubDate>Mon, 10 Apr 2023 06:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 올 1분기 동안 갤럭시S23 시리즈를 1천100만대 판매했다는 집계가 나왔다. 갤럭시S23은 전작 갤럭시S22 보다 높은 판매를 보이면서 올 1분기 삼성전자 반도체 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
