@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 02:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알리바바 클라우드, 대규모언어모델 '통이치안웬' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411111552</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411111552</guid>
+            <pubDate>Tue, 11 Apr 2023 02:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[알리바바 클라우드는 최신 대규모 언어 모델인 '통이치안웬(Tongyi Qianwen)'을 11일 발표했다. 알리바바 클라우드는 통이치안웬을 가까운 시일 내에 알리바바의 다양한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맥스, 에이버리데니슨과 RFID 기반 물류 시스템 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230411100432</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410160526</guid>
             <pubDate>Mon, 10 Apr 2023 07:09:56 GMT</pubDate>
             <content:encoded><![CDATA[가트너는 올해 전 세계 IT 지출이 작년보다 5.5% 증가한 총 4조 6천억 달러에 이를 것이라는 전망을 10일 발표했다. 세계적인 경제 혼란이 계속되고 있음에도 불구하고 20...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스노우플레이크, 데이터 클라우드 입문 워크숍 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410135918</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410135918</guid>
-            <pubDate>Mon, 10 Apr 2023 05:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[스노우플레이크는 IT 관리자, 데이터 아키텍트, 데이터 엔지니어, 데이터 사이언티스트 등 데이터 관련 광범위한 실무진 500여명이 참여한 기초 입문 워크숍 '스노우플레이크 어센...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
