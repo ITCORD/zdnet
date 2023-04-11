@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 04:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 05:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 유튜브 프리미엄 쉐어플레이 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230411084102</link>
+            <guid>https://zdnet.co.kr/view/?no=20230411084102</guid>
+            <pubDate>Tue, 11 Apr 2023 05:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 유튜브 프리미엄에 iOS '쉐어플레이'를 지원한다. 미국 IT매체 엔가젯은 10일(현지시간) 구글이 향후 몇 주 안에 유튜브 프리미엄에 iOS 쉐어플레이 기능을 지원할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플 카플레이에서 도미노 피자 주문한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230411113047</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410083507</guid>
             <pubDate>Mon, 10 Apr 2023 00:46:06 GMT</pubDate>
             <content:encoded><![CDATA[개발자 채용 플랫폼 점핏(대표 김용환)은 2023년 첫 북콘서트 '개취콘(개발자취업 콘서트)'을 실시한다고 10일 밝혔다. 이달 30일 서울 강남역 인근 모나코스페이스 오프라인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 이번 주말 中 방문…완전자율주행 시설 확장 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230409130900</link>
-            <guid>https://zdnet.co.kr/view/?no=20230409130900</guid>
-            <pubDate>Sun, 09 Apr 2023 05:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 이번 주말 중국을 방문한다. 8일(현지시간) CNBC에 따르면 머스크는 이번 주말 중국을 찾아 테슬라 상하이 공장을 살펴볼 예정이며, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
