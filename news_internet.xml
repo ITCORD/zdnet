@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 10:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 11:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글TV, 800개 이상 무료 채널 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230412093441</link>
+            <guid>https://zdnet.co.kr/view/?no=20230412093441</guid>
+            <pubDate>Wed, 12 Apr 2023 11:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[구글은 스트리밍 장치인 크롬 캐스트의 구글TV 소프트웨어와, 소니·씨엘·하이센스·필립스이 만든 일부 TV에 800개 이상의 무료 채널을 추가했다. 11일(현지시간) CNBC에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존 등 글로벌 플랫폼, 韓 진출 본격화…"국내 이커머스 긴장해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230412174032</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230411083412</guid>
             <pubDate>Tue, 11 Apr 2023 06:13:21 GMT</pubDate>
             <content:encoded><![CDATA[바로고가 전략적 투자를 단행한 식자재 통합 유통 플랫폼 오더히어로와 소형물류센터(MFC) 대리점 사업 협력에 나선다. 바로고는 오더히어로 운영사 딜리버리랩의 MFC 대리점 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 유튜브 프리미엄 쉐어플레이 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230411084102</link>
-            <guid>https://zdnet.co.kr/view/?no=20230411084102</guid>
-            <pubDate>Tue, 11 Apr 2023 05:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 유튜브 프리미엄에 iOS '쉐어플레이'를 지원한다. 미국 IT매체 엔가젯은 10일(현지시간) 구글이 향후 몇 주 안에 유튜브 프리미엄에 iOS 쉐어플레이 기능을 지원할 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
