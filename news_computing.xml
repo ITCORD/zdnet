@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 03:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 04:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스소프트, 한국지역정보개발원에 '미들웨어' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230412125051</link>
+            <guid>https://zdnet.co.kr/view/?no=20230412125051</guid>
+            <pubDate>Wed, 12 Apr 2023 04:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스소프트(대표 이형배)는 클라우드 기반 시스템 운영을 위해 한국지역정보개발원과 손잡았다고 12일 밝혔다. 티맥스소프트는 이번 협약에 따라 개발원에서 관리하는 시스템의 안정적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대오토에버, 18일 2분기 신입·경력 대규모 채용]]></title>
             <link>https://zdnet.co.kr/view/?no=20230412114811</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[생성AI 열풍, IT서비스 업계도 기술력 확보 경쟁 치열]]></title>
+            <title><![CDATA[IT서비스 업계 '생성AI' 기술력 확보경쟁 뜨겁다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230412113109</link>
             <guid>https://zdnet.co.kr/view/?no=20230412113109</guid>
             <pubDate>Wed, 12 Apr 2023 03:10:13 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230411232048</guid>
             <pubDate>Tue, 11 Apr 2023 15:11:30 GMT</pubDate>
             <content:encoded><![CDATA[한국지역정보개발원(KLID, 원장 이재영)은 티맥스소프트와 11일 업무협약(MOU)를 체결하고 클라우드 기반 시스템 운영을 위해 상호 협력하기로 했다고 밝혔다. MOU는 티맥스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔리코리아, BIM 설계 위한 프리미엄급 '아레스캐드 2024' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230411193514</link>
-            <guid>https://zdnet.co.kr/view/?no=20230411193514</guid>
-            <pubDate>Tue, 11 Apr 2023 11:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[캐드 소프트웨어 전문기업 인텔리코리아(대표 박승훈)는 빌딩정보모델(BIM) 설계를 위한 프리미엄급 '아레스캐드(AresCAD) 2024'를 출시했다고 11일 밝혔다. 인텔리코리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
