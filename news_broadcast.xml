@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 08:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["패스워드 필요 없는 로그인 당연해진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230412141413</link>
+            <guid>https://zdnet.co.kr/view/?no=20230412141413</guid>
+            <pubDate>Wed, 12 Apr 2023 08:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 iOS 본인확인 앱 패스(PASS)의 사용자 인증 수단으로 '패스키(Passkey)'를 적용했다. 패스키는 사용자의 단말에서 지문 스캔, 얼굴 인식 등으로 본인 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[100주년 맞이한 NAB쇼, 국내 기업 14곳 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230412103558</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410094520</guid>
             <pubDate>Mon, 10 Apr 2023 08:13:13 GMT</pubDate>
             <content:encoded><![CDATA[이종호 과학기술정보통신부 장관이 지난해 취임 뒤 10개월 동안 정보통신기술(ICT)·과학기술 현장 연구원, 실무자와 17번 만난 것으로 나타났다. 10일 과기정통부가 공개한 업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한덕수 총리 "KT 인사, 정부 개입할 수 없다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410103154</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410103154</guid>
-            <pubDate>Mon, 10 Apr 2023 02:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[한덕수 국무총리가 KT 지배구조에 대해 “정부가 주식을 하나도 안 가지고 있기 때문에 오직 주주만이 최종적인 중요한 인사에 개입하게 돼 있다고 생각한다”고 말했다. 한 총리는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
