@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 00:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산·학·연, '한국 첨단반도체 기술센터' 구축 논의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230413093419</link>
+            <guid>https://zdnet.co.kr/view/?no=20230413093419</guid>
+            <pubDate>Thu, 13 Apr 2023 02:00:07 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자, SK하이닉스, 글로벌 소재·부품·장비 기업 및 학계 및 연구소 전문가가 모여 '한국 첨단반도체 기술센터' 구축을 위해 논의에 나섰다. 산업통상자원부(장관 이창양)는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 파운드리, 왜 ARM과 손잡았나]]></title>
             <link>https://zdnet.co.kr/view/?no=20230413073321</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230407080016</guid>
             <pubDate>Fri, 07 Apr 2023 00:42:00 GMT</pubDate>
             <content:encoded><![CDATA[지난달 말 인텔을 퇴직한 반도체·그래픽 전문가인 라자 코두리가 RISC-V(리스크 파이브) 기반 AI 반도체 회사 이사회에 이름을 올렸다. 라자 코두리는 2016년 설립된 AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, AI 탑재 서버용 동영상 가속기 '알베오 MA35D' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230404160000</link>
-            <guid>https://zdnet.co.kr/view/?no=20230404160000</guid>
-            <pubDate>Thu, 06 Apr 2023 13:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 4일(미국 현지시간) 라이브 커머스, 라이브 생중계 등을 신속하게 송출할 수 있는 동영상 가속기 '알베오 MA35D'를 공개하고 주요 고객사를 대상으로 시제품 공급에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
