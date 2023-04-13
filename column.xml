@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 04:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 기업 내 보안 중심 엔지니어링을 강화하는 6가지 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230413133848</link>
+            <guid>https://zdnet.co.kr/view/?no=20230413133848</guid>
+            <pubDate>Thu, 13 Apr 2023 05:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난 연말 과학기술정보통신부와 한국인터넷진흥원(KISA)은 2023년 사이버 보안 위협 전망을 발표했다. 글로벌 해킹 조직의 공격과 지능형 공격이 증가하고 재난 상황 등 민감한 사회적 이슈를 악용한 사이버 공격도 지속될 것으로 예상되는 가운데, 기업 공급망이 갈수록 복잡해짐에 따른 공격 위협도 증가할 것이란 전망이 특히 눈에 띈다. 소프트웨어 엔지니어들이 깃허브와 같은 소스코드 사이트를 활용...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/24/55530f3ed4fcfe9894c59922016bd9cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[딜로이트 테크 인사이트⑥] 저궤도 가득 채운 군집위성은 혁신? 우주 쓰레기?]]></title>
             <link>https://zdnet.co.kr/view/?no=20230409155202</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Feb 2023 20:16:24 GMT</pubDate>
             <content:encoded><![CDATA[요즈음 미디어를 보면 온 세상이 AI 세계가 된 듯하다. 특히 작년 4분기에 출시된 인공지능 솔루션 ‘chatGPT’ 웹에 들어가면, 컴퓨터가 상황에 맞는 편지도 완벽하게 제시해 주며, 원하는 알고리즘 코드도 자동으로 만들어 준다. 후배 CEO의 말을 들으니 만든 코드 품질이 평균 개발자 이상이라고 한다. 이미 인공지능이 만든 우리말 책이 출판되었고, 주제에 맞는 삽화를 그리거나, 게임 캐릭...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/12/23/6b0ed0765666597e8b26f2461c336a38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 혁신과 안주 사이에서 고민하는 기업과 ‘안티프래질’]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230220112118</link>
-            <guid>https://zdnet.co.kr/view/?no=20230220112118</guid>
-            <pubDate>Tue, 21 Feb 2023 20:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업이 탄력성 확보와 혁신 추구 중 하나를 취사 선택하려는 경향이 강하다. 하지만, 올바른 데이터 중심 접근 방식으로 두 가지 장점을 모두 누릴 수 있다.아시아는 유럽의 전쟁 악화, 공격적인 중앙은행의 조치, 성장에 대한 우려 등 글로벌 경제의 침체 가운데서 비교적 나은 상황에 있었다. 하지만 IMF는 최근 아시아태평양 지역경제 전망 보고서를 통해 글로벌 금융 긴축, 우크라이나 전쟁, ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/20/8d0591d7a7b258d276c997af527cafd6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
