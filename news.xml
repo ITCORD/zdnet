@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 13:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 14:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포티투마루, 네이버와 협력 해외 시장 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230413224034</link>
+            <guid>https://zdnet.co.kr/view/?no=20230413224034</guid>
+            <pubDate>Thu, 13 Apr 2023 14:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[앤서링 AI(Answering AI) 스타트업 포티투마루(42Maru, 대표 김동환)는 중소벤처기업부(중기부)가 주관하는 대·중소기업 동반진출 사업에 참여, 네이버 클라우드의 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/13/317b5f0e1dd3f328123e67d950b87034-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈놀, 상장예비심사 승인받아···181억~222억 공모]]></title>
             <link>https://zdnet.co.kr/view/?no=20230413220537</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230413190249</guid>
             <pubDate>Thu, 13 Apr 2023 10:10:59 GMT</pubDate>
             <content:encoded><![CDATA[현대백화점은 이달 30일까지 매주 토·일 양일간 오후 12시부터 5시까지 더현대 서울 1층에서 미래형 4족 보행 로봇 체험 행사를 진행한다고 13일 밝혔다. 이번 행사에서는 산...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/13/da12dfebd8d242a88e99d21b91123eb1-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신세계라이브쇼핑, 가성비 식품 판매 방송 '쓰마트' 시작]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230413165312</guid>
             <pubDate>Thu, 13 Apr 2023 08:13:04 GMT</pubDate>
             <content:encoded><![CDATA[핑거(대표 안인주)는 SK증권과 토큰증권(STO) 사업협력을 위한 업무협약(MOU)을 체결했다고 13일 밝혔다. 이번 업무협약으로 핑거와 SK증권은 ▲특허권 STO 사업 협력 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리본카, '중고차 라이브 스튜디오' 부산서 개관]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230413164941</link>
-            <guid>https://zdnet.co.kr/view/?no=20230413164941</guid>
-            <pubDate>Thu, 13 Apr 2023 08:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[오토플러스가 부산에 중고차 라이브 커머스 스튜디오를 개관한다고 13일 밝혔다. 이번에 개관하는 리본카 부산스튜디오는 기존 리본카 청라스튜디오 면적의 3배 규모로 중고차 전용 라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
