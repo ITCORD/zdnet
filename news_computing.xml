@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 06:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비즈플레이 "경비지출관리, 종이 영수증 벗어나야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230413145837</link>
+            <guid>https://zdnet.co.kr/view/?no=20230413145837</guid>
+            <pubDate>Thu, 13 Apr 2023 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA["지금은 디지털전환 시대입니다. 기업도 이에 발맞춰 경비지출관리를 바꿔야 합니다. 우선 기업은 종이 영수증에서 벗어나야 합니다. 비즈플레이는 임직원·관리자 모두 비용과 시간을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 기업 내 보안 중심 엔지니어링을 강화하는 6가지 방법]]></title>
             <link>https://zdnet.co.kr/view/?no=20230413133848</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230412173119</guid>
             <pubDate>Wed, 12 Apr 2023 09:10:45 GMT</pubDate>
             <content:encoded><![CDATA[데이터 전문 기업 쿠콘이 데이터 결합 서비스를 확장한다. 올 2분기 금융, 비금융 데이터 결합 서비스를 제공할 계획이라고 밝혔다. 쿠콘 김용찬 실장은 12일 서울 잠실 롯데호텔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹케시 "지금은 대횡령시대...'브랜치'로 방지하자"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230412145841</link>
-            <guid>https://zdnet.co.kr/view/?no=20230412145841</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA["한국은 '대횡령시대'를 겪고 있습니다. 이 현상은 기업뿐 아니라 공공기관에서도 발생합니다. 웹케시는 '브랜치' 애플리케이션을 통해 기업·공공기관 자금 횡령을 사전에 방지하도록...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
