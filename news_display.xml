@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 07:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 08:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 저항 적은 N채널 모스펫 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230413161030</link>
+            <guid>https://zdnet.co.kr/view/?no=20230413161030</guid>
+            <pubDate>Thu, 13 Apr 2023 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본 반도체·전자제품 회사 로옴은 13일 N채널 금속 산화막 반도체 전계 효과 트랜지스터(MOSFET·모스펫) 'RS6xxxxBx'와 'RH6xxxxBx' 시리즈를 개발했다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[주성엔지니어링 "발전효율 35% 태양광장비 연내 양산 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230413153223</link>
+            <guid>https://zdnet.co.kr/view/?no=20230413153223</guid>
+            <pubDate>Thu, 13 Apr 2023 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[“발전 효율을 35% 이상으로 끌어올리는 차세대 태양광 장비를 올해 안에 세계에서 처음으로 양산할 계획입니다. 이 기술이 상용화되면 세계 표준이 될 수 있을 겁니다. 전기자동차...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스타 팹리스 키우자...삼성, 파운드리 MPW 지원 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230413151044</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410131622</guid>
             <pubDate>Mon, 10 Apr 2023 06:13:34 GMT</pubDate>
             <content:encoded><![CDATA[“D램 전기적 선별(EDS·Electric Die Sorting)용 프로브 카드(Probe Card)를 올해 선보이겠습니다. 85%를 해외에 의존하던 D램 EDS용 프로브 카드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성전자 '메모리 감산' 의미 있다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410092036</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410092036</guid>
-            <pubDate>Mon, 10 Apr 2023 01:58:42 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 반도체 생산량을 의미 있는 수준으로 줄인다고 미국 경제방송 CNBC가 7일(현지시간) 보도했다. CNBC는 세계에서 가장 큰 메모리 반도체 제조 업체가 1분기 이익이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["첨단 반도체 패키징 차세대 핵심 기술로 부상"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230407162020</link>
-            <guid>https://zdnet.co.kr/view/?no=20230407162020</guid>
-            <pubDate>Fri, 07 Apr 2023 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[첨단 반도체 제조 공정에서 패키징 기술의 중요성이 점점 커지고 있다. 사례로 미국 반도체 설계 전문(fabless·팹리스) 회사 엔비디아가 최근 선보인 칩이 소개됐다. 석민구 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
