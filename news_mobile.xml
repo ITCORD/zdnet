@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 02:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 02:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가민, GPS 사이클링 컴퓨터 '엣지540·840' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230414104457</link>
+            <guid>https://zdnet.co.kr/view/?no=20230414104457</guid>
+            <pubDate>Fri, 14 Apr 2023 02:29:25 GMT</pubDate>
+            <content:encoded><![CDATA[스마트 기기 업체 가민이 컴팩트한 디자인에 스마트한 사이클링 훈련 기능을 탑재한 GPS 사이클링 컴퓨터 '엣지540'과 '엣지840' 시리즈를 출시한다고 14일 밝혔다. 신제품...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠하이저, 차세대 디지털 무선 마이크 시스템 'EW-DX' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230414103748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230413091659</guid>
             <pubDate>Thu, 13 Apr 2023 01:59:50 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 엑시노스 2400을 내년 플래그십 스마트폰에 다시 도입할 것이란 소문과 함께 엑시노스 2400에 새로운 반도체 패키징 기술이 적용될 것이란 전망이 나왔다. 12일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 지포스 RTX 4070 그래픽칩셋 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230413101850</link>
-            <guid>https://zdnet.co.kr/view/?no=20230413101850</guid>
-            <pubDate>Thu, 13 Apr 2023 01:59:50 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 13일 에이다 러브레이스 아키텍처 기반 지포스 RTX 4070 그래픽칩셋을 출시했다. 지포스 RTX 4070은 쿠다(CUDA) 코어 5천888개를 탑재했고 GDDR6...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
