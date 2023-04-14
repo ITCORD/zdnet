@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 07:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 08:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 이달부터 4나노 MPW 시작...'수율 안정화 자신감']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230414115028</link>
+            <guid>https://zdnet.co.kr/view/?no=20230414115028</guid>
+            <pubDate>Fri, 14 Apr 2023 08:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 이달부터 처음으로 4나노미터(nm) 공정에서 멀티프로젝트웨이퍼(MPW) 서비스를 시작하면서 수율 안정화 달성을 입증했다. 2019년 5나노 공정에서 MPW를 시작한지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[작년 반도체 장비 매출액 1076억 달러…역대 최고]]></title>
             <link>https://zdnet.co.kr/view/?no=20230414150346</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230412115926</guid>
             <pubDate>Wed, 12 Apr 2023 05:10:39 GMT</pubDate>
             <content:encoded><![CDATA[국내 시스템반도체 생태계에 변화가 찾아오고 있다. 지금까지 반도체 설계자산(IP) 기술은 해외 기업에 의존도가 높았다. 지난 10년간 국내 팹리스 시장은 미국, 대만, 중국 등...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[워런 버핏이 TSMC 판 이유는..."지정학적 긴장"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230412101727</link>
-            <guid>https://zdnet.co.kr/view/?no=20230412101727</guid>
-            <pubDate>Wed, 12 Apr 2023 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA['오마하의 현인' 워런 버핏 버크셔해서웨이 회장이 세계 1위 반도체 위탁생산(Foundry) 회사인 대만 TSMC 지분을 대부분 매각한 이유로 지정학적 긴장을 꼽았다. 버핏 회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
