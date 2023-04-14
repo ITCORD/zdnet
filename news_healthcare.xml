@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 00:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 02:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10번째 '엠폭스' 국내 환자 확인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230414103932</link>
+            <guid>https://zdnet.co.kr/view/?no=20230414103932</guid>
+            <pubDate>Fri, 14 Apr 2023 02:00:15 GMT</pubDate>
+            <content:encoded><![CDATA[어제에 이어 오늘도 해외여행력이 없는 엠폭스(원숭이두창) 국내 환자가 확인됐다. 10번째 환자다. 앞서 보건당국은 13일 국내 발생으로 추정되는 9번째 엠폭스 환자가 발생함에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1분건강] 태아 콩팥 물차는 '선천성 수신증' 방치하면 안되는 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20230414093319</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기후위기, 감염질환, 식량문제 해결 위한 생물공학의 진전은]]></title>
+            <title><![CDATA[생물공학의 트렌드는 '미생물'과 '합성물질', '유전체']]></title>
             <link>https://zdnet.co.kr/view/?no=20230413145918</link>
             <guid>https://zdnet.co.kr/view/?no=20230413145918</guid>
             <pubDate>Thu, 13 Apr 2023 06:13:31 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230410150206</guid>
             <pubDate>Mon, 10 Apr 2023 06:13:50 GMT</pubDate>
             <content:encoded><![CDATA[간호법과 의사면허취소법을 두고 대한간호협회(이하 간협)가 대한의사협회(의협)에 대한 비판 수위를 높이고 있다. 김영경 대한간호협회 회장은 이날 오전 국회 앞에서 기자회견을 열고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[제약바이오] HK이노엔, 다파엔 심포지엄 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230410133931</link>
-            <guid>https://zdnet.co.kr/view/?no=20230410133931</guid>
-            <pubDate>Mon, 10 Apr 2023 05:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[HK이노엔이 '심신당부 다파엔 심포지엄'을 열고 SGLT-2억제제 계열 당뇨병 치료제 시장 진출을 공식화했다. 심포지엄은 온·오프라인으로 개최됐으며, 다양한 진료과의 의료진 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
