@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 02:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 03:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이, 음악 퀴즈 앱 '허들' 서비스 종료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230416110050</link>
+            <guid>https://zdnet.co.kr/view/?no=20230416110050</guid>
+            <pubDate>Sun, 16 Apr 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[스포티파이가 음악 퀴즈 앱 '허들(Heardle)'을 종료한다. 미국 IT매체 엔가젯은 14일(현지시간) 스포티파이가 지난해 7월 인수한 음악 퀴즈 앱 허들 서비스를 종료한다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 몬태나주, 틱톡 금지 법안 통과]]></title>
             <link>https://zdnet.co.kr/view/?no=20230416100049</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230413175433</guid>
             <pubDate>Thu, 13 Apr 2023 10:11:36 GMT</pubDate>
             <content:encoded><![CDATA[지난해 호텔·숙박 업계는 코로나19 엔데믹에 접어들면서 뚜렷한 회복세를 보였다. 온다가 국내 숙박업 동향과 글로벌 트렌드를 분석한 2022·2023 호스피탈리티 데이터·트렌드 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신간] 마지막 생존 코드, 디지털 트랜스포메이션]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230413164824</link>
-            <guid>https://zdnet.co.kr/view/?no=20230413164824</guid>
-            <pubDate>Thu, 13 Apr 2023 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[현직 서울대 교수진의 강의를 엄선한 '서가명강(서울대 가지 않아도 들을 수 있는 명강의)' 시리즈 스물아홉 번째 책 '마지막 생존 코드, 디지털 트랜스포메이션'이 출간됐다. 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
