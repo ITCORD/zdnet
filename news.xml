@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 22:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 23:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버커넥트2, 몬트리올 스튜디오 폐쇄]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418074917</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418074917</guid>
+            <pubDate>Mon, 17 Apr 2023 23:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[사이버커넥트2가 몬트리올 스튜디오를 오는 7월 말 폐쇄한다고 영국 게임산업매체 게임인더스트리가 17일(현지시간) 보도했다. 사이버커넥트2는 공식 트위터를 통해 "몬트리올에서 얻...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/18/04d38e86b4db654eaeb58e8a9e75d330-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["개발자 채용문화 혁신···5월 '잡다데브(잡다Dev)' 출시"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230417225008</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230417230446</guid>
             <pubDate>Mon, 17 Apr 2023 14:10:05 GMT</pubDate>
             <content:encoded><![CDATA[국제인공지능&amp;윤리협회(IAAE, 이사장 전창배)는 AI 학습용 데이터 라벨링 기업 크라우드웍스(대표 박민우)와 'AI 및 AI윤리에 관한 공동 사업 협약'을 체결했다고 17일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/17/d17609c18907f4d4eae1edbe0c324e9d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[화성 이주 꿈 실은 스타십, 발사 취소···"수요일 이후 재시도"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417172655</guid>
             <pubDate>Mon, 17 Apr 2023 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[한국로봇산업진흥원은 17일 임직원 모두의 안전할 권리와 지켜야 할 의무에 대한 책임과 의지를 다지는 '안전경영 선포식'을 개최했다. 이날 선포식은 한국로봇산업진흥원 본원 강당에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 카카오톡 쇼핑탭 개편 이벤트 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417170654</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417170654</guid>
-            <pubDate>Mon, 17 Apr 2023 09:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[카카오 커머스 사내독립법인(CIC)이 20일까지 카카오톡 쇼핑탭 개편 이벤트를 진행한다고 17일 밝혔다. 카카오는 카카오톡 네 번째 탭인 쇼핑탭 개편을 맞아, 오후 5시부터 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
