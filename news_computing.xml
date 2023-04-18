@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 06:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 CEO "AI 발전하려면 '환각' 현상 극복 필수"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418142546</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418142546</guid>
+            <pubDate>Tue, 18 Apr 2023 06:13:23 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 챗봇에 발생하는 환각(할루시네이션) 현상은 여전한 AI 걸림돌입니다. 발생 이유는 아무도 모릅니다. 그래서 명확한 해결책도 없습니다. 사회에 AI를 안전하게 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤동식 KT클라우드 대표 "GPU넘어 NPU→PIM까지 간다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230418125632</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417162738</guid>
             <pubDate>Mon, 17 Apr 2023 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[라인의 블록체인 사업 자회사 라인테크플러스(대표 김우석)는 글로벌 웹3 사업 확장을 본격화하기 위해 아랍에미리트 아부다비에 비영리 법인 '핀시아 재단'을 설립했다고 17일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[106억 디플정 인프라사업 설명회 18일 열려]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417164809</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417164809</guid>
-            <pubDate>Mon, 17 Apr 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[과기정통부가 106억 규모 디지털플랫폼정부(디플정, DPG) 인프라 사업 설명회를 18일 오후 2시 서울 무교동 소재 한국지능정보사회진흥원(NIA) 서울사무소에서 개최한다. 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
