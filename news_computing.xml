@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작년 국내 데이터산업 시장규모 25조원 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418171217</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418171217</guid>
+            <pubDate>Tue, 18 Apr 2023 08:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 국내 데이터산업 시장 규모가 25조원을 넘어선 것으로 추정됐다. 산업 종사 인력은 40만명대, 데이터 직무 인력은 13만명대로 조사됐다. 과학기술정보통신부와 한국데이터산...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안인증 악용해 국내 PC 해킹…北 '라자루스' 소행이었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418163825</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418163825</guid>
+            <pubDate>Tue, 18 Apr 2023 08:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 말 금융보안인증 소프트웨어의 보안 취약점을 악용해 국내외 주요 기관 60여 곳의 PC 210여 대를 해킹한 조직은 북한의 '라자루스'였던 것으로 밝혀졌다. 경찰청 국가수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시큐레터 "악성코드 진단 속도 12초로 향상"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230418153323</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417182701</guid>
             <pubDate>Mon, 17 Apr 2023 10:11:21 GMT</pubDate>
             <content:encoded><![CDATA[인젠트(대표 남석우)가 공식 유튜브 및 인스타그램 채널에 안될과학과 함께 작업한 '데이터는 어떻게 관리할까? DBMS의 역사와 오픈소스 DBMS'영상을 공개했다고 17일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행정안전부, 입체적 주소정보 제공 플랫폼 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417181806</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417181806</guid>
-            <pubDate>Mon, 17 Apr 2023 10:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[입체 주소체계 도입 및 주소정보 기반 산업 육성을 위한 디지털 주소정보 플랫폼이 구축된다. 행정안전부는 디지털 주소정보 플랫폼 구축 1단계 사업자를 선정하고, 정부세종청사 중앙...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스그룹, 헌혈 행사 '히어티맥스' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417165856</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417165856</guid>
-            <pubDate>Mon, 17 Apr 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스그룹이 자체 헌혈 행사인 '히어티맥스(Hear T-max)'를 개최했다고 17일 밝혔다. 이번 헌혈 행사는 성남시 분당구 티맥스 수내타워에서 진행됐다. 대한적십자사 남부혈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
