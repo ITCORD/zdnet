@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 02:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 02:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 코딩비서 AWS 코드위스퍼러 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418103356</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418103356</guid>
+            <pubDate>Tue, 18 Apr 2023 02:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)의 AI 보조 코딩도구 '코드위스퍼러'가 정식 출시했다. 사용자 저변 확대를 위해 개인사용자는 무료로 제공한다. 최근 더레지스터 등 외신에 따르면 AWS는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[먼저 쓰는 기업이 앞선다...챗GPT 도입 기업 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20230417173311</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417155818</guid>
             <pubDate>Mon, 17 Apr 2023 07:10:05 GMT</pubDate>
             <content:encoded><![CDATA[정부와 기업이 협력해 초거대 인공지능(AI) 기술을 공공분야에 도입할 방법을 논의했다. 정부와 기업은 초거대AI를 가장 쉽게 적용할 수 있는 분야부터 시작해 AI 기능을 개선하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 가장 활발했던 랜섬웨어는 '락빗'…다크웹 게시물 20% 차지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417152508</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417152508</guid>
-            <pubDate>Mon, 17 Apr 2023 07:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 가장 활발하게 활동했던 서비스형 랜섬웨어(RaaS) 조직은 '락빗(Lockbit)'인 것으로 나타났다. 랜섬웨어는 시스템을 잠그거나 데이터를 암호화해 사용할 수 없도록 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

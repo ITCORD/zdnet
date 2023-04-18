@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 02:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 02:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TI, 전자파 간섭 줄인 전력반도체 선보여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418110334</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418110334</guid>
+            <pubDate>Tue, 18 Apr 2023 02:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체 회사 텍사스인스트루먼트(TI)가 전자파 간섭(EMI)을 줄인 전력 반도체를 선보였다. 안병남 TI 한국지사 상무(오토모티브기술지원팀장)는 18일 서울 삼성동 사옥에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["상반기 세계 OLED 공장 가동률 60% 미만"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230418095107</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230413151044</guid>
             <pubDate>Thu, 13 Apr 2023 07:10:19 GMT</pubDate>
             <content:encoded><![CDATA[미국과 중국 등 전세계가 '미래산업의 쌀'이라고 불리는 반도체 기술과 생산능력을 확보하기 위한 패권 전쟁을 벌이고 있습니다. 한국 또한 파운드리와 팹리스 성장을 통해 시스템반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴 "韓 대법원 판단 존중"...공정위 1兆 과징금 확정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230413145508</link>
-            <guid>https://zdnet.co.kr/view/?no=20230413145508</guid>
-            <pubDate>Thu, 13 Apr 2023 07:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 13일 오후 공정거래위원회(이하 공정위) 과징금 부과를 확정한 대법원 판결에 대해 "한국 법원의 판단을 존중한다"는 공식 입장을 내놨다. 이어 "한국 및 한국 내 관계사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
