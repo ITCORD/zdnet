@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 04:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스로그 "실시간 수요 증가로 CDC 급성장, 1위 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230418120002</link>
+            <guid>https://zdnet.co.kr/view/?no=20230418120002</guid>
+            <pubDate>Tue, 18 Apr 2023 04:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[“데이터 복제 및 이관 시장은 계속 증가하고 있다. 실시간 데이터 통합, 빅데이터 플랫폼센터 구축, 실시간 데이터 분석 요구 증가, 클라우드 전환, 국내 데이터베이스 시장의 탈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 코딩비서 AWS 코드위스퍼러 정식 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230418103356</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417162447</guid>
             <pubDate>Mon, 17 Apr 2023 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 디지털플랫폼정부 인프라 사업 설명회를 사업에 참여하고자 하는 기업 및 공공기관·지자체 관계자를 대상으로 개최한다고 17일 밝혔다. 디지털플...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["초거대AI 공공분야 활용, 선적용·후개선 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417155818</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417155818</guid>
-            <pubDate>Mon, 17 Apr 2023 07:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[정부와 기업이 협력해 초거대 인공지능(AI) 기술을 공공분야에 도입할 방법을 논의했다. 정부와 기업은 초거대AI를 가장 쉽게 적용할 수 있는 분야부터 시작해 AI 기능을 개선하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
