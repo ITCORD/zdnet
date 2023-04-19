@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 09:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 10:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베스핀글로벌, 옵스나우360에 AI 챗봇 적용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230419175702</link>
+            <guid>https://zdnet.co.kr/view/?no=20230419175702</guid>
+            <pubDate>Wed, 19 Apr 2023 10:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[베스핀글로벌이 멀티 클라우드 관리 플랫폼 옵스나우360에 인공지능(AI) 챗봇 '옵스나우 어시스턴트'를 적용했다고 19일 밝혔다. 옵나스나우360 이용자는 키워드나 일상 언어로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[와이즈스톤, Eurofins KCTL과 IoT 사이버보안 분야 유럽 인증 나서]]></title>
             <link>https://zdnet.co.kr/view/?no=20230419175216</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419090923</guid>
             <pubDate>Wed, 19 Apr 2023 04:16:30 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 대규모언어모델(LLM)을 구동하는 자체 인공지능(AI) 칩을 개발중인 것으로 알려졌다. 엔비디아 GPU에 대한 의존도를 줄여 비용을 줄이기 위해서다. 18일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유아이패스, NTT도코모에 '유아이패스 테스트 스위트' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419100420</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419100420</guid>
-            <pubDate>Wed, 19 Apr 2023 04:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[유아이패스는 일본 통신사 NTT도코모가 '유아이패스 테스트 스위트'를 도입했다고 19일 밝혔다. 유아이패스 테스트 스위트는 인공지능 기반 자동화 플랫폼과 테스트 기능을 결합한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
