@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 04:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴아이디, LGU+와 FAST 솔루션 공급 계약 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230419105141</link>
+            <guid>https://zdnet.co.kr/view/?no=20230419105141</guid>
+            <pubDate>Wed, 19 Apr 2023 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[광고 기반 스트리밍 서비스 'FAST' 채널·솔루션 사업자 뉴아이디가 LG유플러스와 FAST 솔루션 공급 계약을 체결했다고 19일 밝혔다. 뉴아이디는 LG유플러스가 LG전자 스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2030 패션 메타버스 몰 '패스커', 글로벌 서비스 개시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230419111737</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417095423</guid>
             <pubDate>Mon, 17 Apr 2023 02:02:39 GMT</pubDate>
             <content:encoded><![CDATA[KT엠모바일은 LTE 스마트 폴더폰 '에이루트폴더A'을 출시했다고 17일 밝혔다. 에이루트폴더A1은 KT엠모바일과 에이루트가 협력해 선보인 제품이다. 에이루트폴더A1은 폴더폰에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[T맵에서 단어 3개로 전국 1평 단위 위치 찾는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230417100707</link>
-            <guid>https://zdnet.co.kr/view/?no=20230417100707</guid>
-            <pubDate>Mon, 17 Apr 2023 02:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[3개의 단어만으로 전국 방방곡곡을 1평 남짓한 세밀한 공간으로 구분해주는 혁신 기술이 T맵 API에 적용된다. 티맵모빌리티는 영국 IT 기업 왓쓰리워즈(what3words)와 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
