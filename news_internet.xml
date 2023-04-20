@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 09:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 10:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스타트업은 위기와 반전 가득한 영화같아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420183147</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420183147</guid>
+            <pubDate>Thu, 20 Apr 2023 10:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[“스타트업 생태계는 영화처럼 지루한 순간이 없다. 액션이 있고, 드라마로 가득하다. 24시간 새로운 위기의 연속이다. 반전이 있는 영화들이 인기를 끈다. 우린 '다음에 계속(T...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코스포 "정부 10조 지원책 환영…벤처·스타트업에 큰 도움"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420151822</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419204846</guid>
             <pubDate>Wed, 19 Apr 2023 12:19:03 GMT</pubDate>
             <content:encoded><![CDATA[큐텐 물류 자회사 큐익스프레스가 국내 이커머스 판매자를 대상으로 티몬과 함께 선보인 통합 풀필먼트 서비스 'Qx프라임' 알리기에 나섰다. Qx프라임은 상품 등록과 주문, 포장,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오톡에 '특정 단어' 입력하면 음란 사이트 노출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419175000</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419175000</guid>
-            <pubDate>Wed, 19 Apr 2023 09:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[카카오톡 채팅창에 특정 단어를 입력하면 음란물 사이트 링크가 노출된 후 연결되는 문제가 발생하고 있다. 19일 카카오톡 채팅창(개인 대화 포함)에 '서양.한국'을 게재하면 링크...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
