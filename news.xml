@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 04:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["4세대 아이폰SE, 2025년까지 안 나온다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420111143</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420111143</guid>
+            <pubDate>Thu, 20 Apr 2023 04:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 차기 보급형 아이폰 '아이폰SE 4'가 당분간 출시되지 않을 것이라는 전망이 나왔다. IT매체 폰아레나는 19일(이하 현지시간) 애플 전문 분석가 궈밍치의 트위터를 인용...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/30/fad4e5bcf5ba41bc54163795ccc05759-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매스웍스코리아, '매트랩 대학생 AI 경진대회' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420120604</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230420113457</guid>
             <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[구글이 대규모 언어모델(LLM) 스스로 디버깅해 정확도를 높이는 방식을 공개했다. 연구 결과 현재 최대 12%까지 정확도를 높였으며 이후 더욱 높은 효율을 기록할 수 있을 것이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/20/624b8e95b293bcc43c70ef1888f2a245-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지진탐지 시간 1.4초로 단축…지진대피 가능 '골든타임' 추가확보]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419160122</guid>
             <pubDate>Thu, 20 Apr 2023 02:32:08 GMT</pubDate>
             <content:encoded><![CDATA[미국과 중국 등 전세계가 '미래산업의 쌀'이라고 불리는 반도체 기술과 생산능력을 확보하기 위한 패권 전쟁을 벌이고 있습니다. 한국 또한 파운드리와 팹리스 성장을 통해 시스템반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀파파스, 블록체인 게임 개발 위한 NFT콘솔 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420111902</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420111902</guid>
-            <pubDate>Thu, 20 Apr 2023 02:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[웹3.0 개발사 젠틀파파스는 20일 블록체인 게임개발에 어려움을 겪고 있는 국내외 게임개발사들을 위한 '크로믹스 NFT콘솔 for GAME'을 출시했다고 밝혔다. '크로믹스 N...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

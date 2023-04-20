@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 04:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["4세대 아이폰SE, 2025년까지 안 나온다" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420111143</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420111143</guid>
+            <pubDate>Thu, 20 Apr 2023 04:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 차기 보급형 아이폰 '아이폰SE 4'가 당분간 출시되지 않을 것이라는 전망이 나왔다. IT매체 폰아레나는 19일(이하 현지시간) 애플 전문 분석가 궈밍치의 트위터를 인용...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/30/fad4e5bcf5ba41bc54163795ccc05759-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매스웍스코리아, '매트랩 대학생 AI 경진대회' 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420120604</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230420113457</guid>
             <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[구글이 대규모 언어모델(LLM) 스스로 디버깅해 정확도를 높이는 방식을 공개했다. 연구 결과 현재 최대 12%까지 정확도를 높였으며 이후 더욱 높은 효율을 기록할 수 있을 것이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/20/624b8e95b293bcc43c70ef1888f2a245-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지진탐지 시간 1.4초로 단축…지진대피 가능 '골든타임' 추가확보 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419160122</guid>
             <pubDate>Thu, 20 Apr 2023 02:32:08 GMT</pubDate>
             <content:encoded><![CDATA[미국과 중국 등 전세계가 '미래산업의 쌀'이라고 불리는 반도체 기술과 생산능력을 확보하기 위한 패권 전쟁을 벌이고 있습니다. 한국 또한 파운드리와 팹리스 성장을 통해 시스템반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀파파스, 블록체인 게임 개발 위한 NFT콘솔 출시 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420111902</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420111902</guid>
-            <pubDate>Thu, 20 Apr 2023 02:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[웹3.0 개발사 젠틀파파스는 20일 블록체인 게임개발에 어려움을 겪고 있는 국내외 게임개발사들을 위한 '크로믹스 NFT콘솔 for GAME'을 출시했다고 밝혔다. '크로믹스 N...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -331,7 +331,7 @@
             <title><![CDATA[매스웍스코리아, '매트랩 대학생 AI 경진대회' 개최 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420120604</link>
             <guid>https://zdnet.co.kr/view/?no=20230420120604</guid>
-            <pubDate>Thu, 20 Apr 2023 03:12:37 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[매스웍스코리아가 '매트랩 대학생 인공지능(AI) 경진대회'를 연다고 20일 밝혔다. 이 대회는 학생이 매트랩으로 교통, 산업 자동화, 바이오 의학을 포함한 다양한 분야에 AI ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -339,7 +339,7 @@
             <title><![CDATA[구글, 스스로 디버깅하는 대규모 언어모델 개발 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420113457</link>
             <guid>https://zdnet.co.kr/view/?no=20230420113457</guid>
-            <pubDate>Thu, 20 Apr 2023 03:12:37 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[구글이 대규모 언어모델(LLM) 스스로 디버깅해 정확도를 높이는 방식을 공개했다. 연구 결과 현재 최대 12%까지 정확도를 높였으며 이후 더욱 높은 효율을 기록할 수 있을 것이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -347,7 +347,7 @@
             <title><![CDATA[라온화이트햇, 'USIM 간편인증' 누적 이용 건수 1억 돌파 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420114753</link>
             <guid>https://zdnet.co.kr/view/?no=20230420114753</guid>
-            <pubDate>Thu, 20 Apr 2023 03:12:37 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[IT 통합보안·인증 선도기업 라온시큐어는 자회사 라온화이트햇의 휴대폰 인증 서비스 'USIM 간편인증' 누적 이용 건수가 1억 건을 돌파했다고 20일 밝혔다. USIM 간편인증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -355,7 +355,7 @@
             <title><![CDATA[스태빌리티AI, 언어모델 '스테이블LM' 공개 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420113613</link>
             <guid>https://zdnet.co.kr/view/?no=20230420113613</guid>
-            <pubDate>Thu, 20 Apr 2023 03:12:37 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[스태빌리티에이아이(AI)가 AI 언어모델 '스테이블LM'을 오픈소스로 공개했다. 개발자들은 깃허브와 허깅페이스에서 이 모델을 알파버전으로 이용할 수 있다. 테크크런치 등 외신은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -363,7 +363,7 @@
             <title><![CDATA[에지오, 봇 관리 솔루션 발표…악성 봇 방어 및 정상 봇 가시성 제공 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420114106</link>
             <guid>https://zdnet.co.kr/view/?no=20230420114106</guid>
-            <pubDate>Thu, 20 Apr 2023 03:12:37 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[에지오는 진화하는 다양한 악성 봇을 선제적으로 방어하는 동시에 정상 봇에 대한 가시성을 제공하는 새로운 '고급 봇 관리(Advanced Bot Management)' 솔루션을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -488,10 +488,18 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["4세대 아이폰SE, 2025년까지 안 나온다" (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420111143</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420111143</guid>
+            <pubDate>Thu, 20 Apr 2023 04:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 차기 보급형 아이폰 '아이폰SE 4'가 당분간 출시되지 않을 것이라는 전망이 나왔다. IT매체 폰아레나는 19일(이하 현지시간) 애플 전문 분석가 궈밍치의 트위터를 인용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[HP코리아, 자원순환연대와 '우리 순E 캠페인' 전개 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420113544</link>
             <guid>https://zdnet.co.kr/view/?no=20230420113544</guid>
-            <pubDate>Thu, 20 Apr 2023 03:12:46 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[HP코리아가 오는 5월부터 10월 말까지 6개월간 지속가능성 전략 일환으로 '우리 순E'(우리 순환 E-Waste) 캠페인'을 펼친다고 밝혔다. 이번 캠페인은 올해로 53주년을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -637,14 +645,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419103530</guid>
             <pubDate>Wed, 19 Apr 2023 04:16:09 GMT</pubDate>
             <content:encoded><![CDATA[주방가전기업 쿠첸이 6인용 '트리플' 밥솥, 3인용 '121 ME' 밥솥으로 'iF 디자인 어워드 2023' 제품 부문 주방가전 카테고리에서 본상을 받았다고 19일 밝혔다. 국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전자랜드, 가전청소 서비스 '선한청소' 판매량 136% 증가 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419125843</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419125843</guid>
-            <pubDate>Wed, 19 Apr 2023 04:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[전자랜드가 올해 가전청소 서비스 '선한청소'를 이용하는 고객이 증가하고 있다고 밝혔다. 전자랜드에 따르면 올해 1월 1일부터 4월 16일까지 선한청소의 판매 수량은 전년 동기 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -2370,7 +2370,7 @@
             <title><![CDATA[지하철 2호선 개찰구 업그레이드, 애플페이 연관? (지디넷코리아 ─ 금융)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420110943</link>
             <guid>https://zdnet.co.kr/view/?no=20230420110943</guid>
-            <pubDate>Thu, 20 Apr 2023 03:14:56 GMT</pubDate>
+            <pubDate>Thu, 20 Apr 2023 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[애플페이 출시 이후 교통카드 연동 시기에 대한 대중의 관심이 집중된 가운데 최근 2호선 지하철역 일부 개출구가 신형으로 교체됐다. 이를 두고 일부 아이폰 사용자들은 '애플페이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
