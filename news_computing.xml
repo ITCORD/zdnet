@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 23:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 00:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['금리 인하 멀었나'...비트코인 5% ↓]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420092507</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420092507</guid>
+            <pubDate>Thu, 20 Apr 2023 00:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 근시일 내 금리를 인하하지 않을 것이란 전망이 대두되면서 대표적 가상자산인 비트코인 시세가 하루 만에 5% 하락했다. 가상자산 평균 가격 집계 사이트 코인마켓캡에 따르면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM, 1분기 매출 143억달러 "하반기 반등할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420093605</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420093605</guid>
+            <pubDate>Thu, 20 Apr 2023 00:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 회계연도 2023년 1분기 동안 매출 143억달러, 순이익 9억달러(주당순익 1.02달러)를 기록했다고 19일(현지시간) 밝혔다. 매출은 전년동기대비 0.4% 늘었다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌, 옵스나우360에 AI 챗봇 적용]]></title>
             <link>https://zdnet.co.kr/view/?no=20230419175702</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419110538</guid>
             <pubDate>Wed, 19 Apr 2023 04:16:30 GMT</pubDate>
             <content:encoded><![CDATA[파수가 한국항공대학교와 손잡고 소프트웨어 인재양성에 나선다. 파수와 한국항공대는 18일 경기도 고양시 한국항공대 대학본관에서 '소프트웨어 인재양성 및 연구개발을 위한 산학협력 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드, 지코어와 손잡고 유럽 진출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419105643</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419105643</guid>
-            <pubDate>Wed, 19 Apr 2023 04:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드가 글로벌 클라우드 기업 지코어와 손잡고 유럽 시장에 진출한다. NHN클라우드는 지코어(GCore)와 글로벌 클라우드 시장 사업 확장을 위한 업무협약(MOU)을 체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 엔비디아 대체할 자체 AI 칩 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419090923</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419090923</guid>
-            <pubDate>Wed, 19 Apr 2023 04:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 대규모언어모델(LLM)을 구동하는 자체 인공지능(AI) 칩을 개발중인 것으로 알려졌다. 엔비디아 GPU에 대한 의존도를 줄여 비용을 줄이기 위해서다. 18일(현...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
