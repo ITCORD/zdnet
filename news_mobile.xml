@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD 다크호스, 라이젠 7 7800X3D 프로세서 판매량 급증]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420151435</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420151435</guid>
+            <pubDate>Thu, 20 Apr 2023 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 이달 초 출시한 게임 특화 프로세서, 라이젠 7 7800X3D가 초반 호조를 보이고 있다. 3D V캐시 탑재로 인텔 코어 i9-13900K 대비 12% 더 저렴하지만 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위닉스, 프리미엄 공기청정기 '타워엣지' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420140552</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419142122</guid>
             <pubDate>Wed, 19 Apr 2023 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[애플이 삼성전자가 주도해 온 인도 스마트폰 시장 공략에 본격 나선다. 애플은 인도를 아이폰 주요 생산기지로 낙점하며 전략적 판매거점이자 생산거점으로 삼고 있다. 18일(현지시간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 첫 폴더블폰 '픽셀 폴드' 6월 출시…"가격 220만원 수준"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419113302</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419113302</guid>
-            <pubDate>Wed, 19 Apr 2023 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 첫 폴더블폰 '픽셀 폴드'를 오는 6월에 출시할 전망이다. 미국 경제매체 CNBC는 18일(현지시간) 구글 내부 자료를 입수해 구글이 오랜 기간 준비해 온 폴러블폰을 다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

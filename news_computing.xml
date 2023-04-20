@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생성 AI 확장 전략의 새 트렌드 '플러그인' 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420152704</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420152704</guid>
+            <pubDate>Thu, 20 Apr 2023 07:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI의 챗GPT 플러그인 공개 후 소프트웨어 생태계 확장 공식에 변화의 바람이 거세다. 생성AI 플러그인은 개방형 생태계를 활용해 소프트웨어의 기능적 풍요를 확보하는 전통적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새로운 랜섬웨어 '다크파워' 등장…이중협박 전략 사용]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420142912</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230419175216</guid>
             <pubDate>Wed, 19 Apr 2023 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[와이즈스톤(대표 이영석)은 유로핀스KCL(Eurofins KCTL, 대표 최창영)과 상호협약을 통해 IoT 사이버보안 분야의 CE인증 서비스가 가능하게 됐다고 19일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클 "효과적 기업 의사결정, 직감 아닌 AI로 해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419155949</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419155949</guid>
-            <pubDate>Wed, 19 Apr 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[“이제 비즈니스 리더들은 인공지능(AI)에 기업 의사결정을 맡기고 싶어 합니다. 사람이 방대해진 기업 데이터를 분석하는 데 어려움을 겪고 있기 때문입니다. 기업은 AI로 데이터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
