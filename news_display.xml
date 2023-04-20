@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 06:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 100W·65W VIPerGaN 컨버터 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420110642</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420110642</guid>
+            <pubDate>Thu, 20 Apr 2023 06:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 20일 고전압 질화갈륨(GaN) 컨버터 'VIPerGaN100'와 'VIPerGaN65'를 출시했다. 100W와 65W의 단일 스위치...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시스템반도체 인재 확보에 사활 건다...해외서 뽑고, 직접 양성]]></title>
             <link>https://zdnet.co.kr/view/?no=20230419160122</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230417161322</guid>
             <pubDate>Mon, 17 Apr 2023 08:13:41 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자와 SK하이닉스, 미국 마이크론 등 메모리 업계가 지난 1분기 총 10조원 안팎의 영업손실을 냈을 것이라는 관측이 나왔다. 김정훈 한국신용평가 수석연구원은 17일 온라인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손 잡은 인텔-ARM, 삼성·TSMC와 파운드리 전운 예고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230414165826</link>
-            <guid>https://zdnet.co.kr/view/?no=20230414165826</guid>
-            <pubDate>Mon, 17 Apr 2023 06:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[미국 반도체 기업 인텔이 영국 반도체 설계자산(IP) 업체 ARM과 파운드리 협업을 발표한 가운데, 이를 두고 다양한 해석이 나온다. 인텔이 ARM과의 협력으로 파운드리 경쟁력...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
