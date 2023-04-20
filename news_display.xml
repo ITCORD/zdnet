@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 08:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 1Q 순익 9조…2% 증가에 그쳐]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230420155720</link>
+            <guid>https://zdnet.co.kr/view/?no=20230420155720</guid>
+            <pubDate>Thu, 20 Apr 2023 08:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[세계 1위 반도체 위탁생산(Foundry) 업체 대만 TSMC는 20일(현지시간) 1분기 순이익이 지난해 같은 기간보다 2% 늘어난 2천69억8천700만 대만달러(약 8조9천6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["XR기기 디스플레이 패널 증착 기술 확보해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230420145555</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230418110334</guid>
             <pubDate>Tue, 18 Apr 2023 02:31:41 GMT</pubDate>
             <content:encoded><![CDATA[미국 반도체 회사 텍사스인스트루먼트(TI)가 전자파 간섭(EMI)을 줄인 전력 반도체를 선보였다. 안병남 TI 한국지사 상무(오토모티브기술지원팀장)는 18일 서울 삼성동 사옥에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["상반기 세계 OLED 공장 가동률 60% 미만"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230418095107</link>
-            <guid>https://zdnet.co.kr/view/?no=20230418095107</guid>
-            <pubDate>Tue, 18 Apr 2023 02:00:16 GMT</pubDate>
-            <content:encoded><![CDATA[해외 시장조사업체 옴디아는 상반기 세계 유기발광다이오드(OLED) 공장 가동률이 60%도 안 될 것으로 18일 내다봤다. 옴디아는 스마트폰·TV용 OLED 수요가 상반기까지 완...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
