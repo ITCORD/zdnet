@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 02:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨일 브라우저, '폴라리스오피스' 기반 문서작업 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230421105711</link>
+            <guid>https://zdnet.co.kr/view/?no=20230421105711</guid>
+            <pubDate>Fri, 21 Apr 2023 02:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 웨일 브라우저에서 웹기반 문서작업 SW(소프트웨어)인 '폴라리스오피스 웹'을 사용할 수 있다고 21일 밝혔다. 폴라리스오피스웹에는 ▲문서 뷰어 ▲편집 ▲저장 ▲공유 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디즈니플러스, 스파이더맨 시리즈·베놈 영화 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230421082425</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420085447</guid>
             <pubDate>Thu, 20 Apr 2023 00:45:27 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크는 19일(현지시간) 마이크로소프트(MS)가 트위터의 데이터를 인공지능(AI) 훈련에 불법적으로 사용했다며 고소하겠다고 위협했다고 CNBC 등 외신들이 보도했다. 머...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스냅챗, GPT 기반 마이AI 서비스 전 이용자 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420082126</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420082126</guid>
-            <pubDate>Thu, 20 Apr 2023 00:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[스냅챗이 오픈AI GPT 기반 인공지능(AI) 챗봇 '마이AI' 서비스를 전 이용자를 대상으로 확대했다. 미국 IT매체 엔가젯은 19일(현지시간) 스냅챗이 올해 2월 구독 서비...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
