@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 22:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 23:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 옐런 장관 "비은행 금융사 규제 강화”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230423071151</link>
+            <guid>https://zdnet.co.kr/view/?no=20230423071151</guid>
+            <pubDate>Sat, 22 Apr 2023 23:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[최근 실리콘밸리은행 사태와 시그니처은행 사태를 겪은 미국이 보험사, 헤지펀드사, 가상화폐 거래소 등 비은행 금융사를 연방준비제도 감독 대상인 '시스템적으로 중요한 금융기관'으로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/06/07/041b168d282d72130976dcc35b0c5cef-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 美 반도체 특허소송서 4천억원 배상 판결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230422132125</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230421150551</guid>
             <pubDate>Sat, 22 Apr 2023 02:01:49 GMT</pubDate>
             <content:encoded><![CDATA[로봇청소기 기능이 매년 눈에 띄게 발전하고 있다. 단순 주행이나 청소 성능이 개선될 뿐만 아니라 사용자가 관여해야 하는 부분이 점차 줄어드는 것이 체감된다. 로보락이 지난 10...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/21/3097a4cab9b6a74871f56434cfc5623d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[컴투스홀딩스 '제노니아' 흥행 하나...예약자 100만 돌파]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230421181805</guid>
             <pubDate>Fri, 21 Apr 2023 10:10:15 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈(대표 조계현)는 21일 사이게임즈(대표 와타나베 코우이치)가 개발한 모바일 게임 우마무스메 프리티 더비(우마무스메)에 신규 의상 육성 우마무스메 2명을 공개했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오버워치 리그, 4월 28일 다이너스티-인페르날 대결로 개막]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230421181446</link>
-            <guid>https://zdnet.co.kr/view/?no=20230421181446</guid>
-            <pubDate>Fri, 21 Apr 2023 10:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[블리자드엔터테인먼트는 오버워치 리그 2023 시즌이 오는 28일 개막한다고 21일 밝혔다. 오버워치 리그 2023 시즌의 핵심은 개방형 생태계의 적용이다. 지역 토너먼트를 통과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
