@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 03:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 04:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 이용자 일상 기록 저널링 앱 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230423110934</link>
+            <guid>https://zdnet.co.kr/view/?no=20230423110934</guid>
+            <pubDate>Sun, 23 Apr 2023 04:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 저널링 앱을 개발 중이다. 미국 IT매체 엔가젯은 21일(현지시간) 애플이 아이폰용 저널링 앱을 개발 중이라고 보도했다. 앱 코드명은 '쥐라기'로, 이용자의 일상, 방문...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["트위터서 광고하려면, '월 유료 서비스' 구독해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230423084631</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420093712</guid>
             <pubDate>Thu, 20 Apr 2023 02:00:28 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 스타트업 행사 컴업(COMEUP) 주관기관인 코리아스타트업포럼이 올해 성공적인 행사 개최를 위해 자문위원회 킥오프 미팅을 열고, 로드맵과 비전을 논의했다고 20일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 장애인의 날 맞아 '장벽 없는 세상' 캠페인 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420101250</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420101250</guid>
-            <pubDate>Thu, 20 Apr 2023 02:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 20일 장애인의 날을 맞아 이동 약자와 장애인을 위한 소통과 참여의 장을 마련했다. 회사는 카카오 서비스를 통해 '장벽 없는 세상' 캠페인을 전개한다고 밝혔다. 사회공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
