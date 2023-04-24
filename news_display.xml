@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 06:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 07:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 에이투스와 이벤트 기반 비전 센서 플랫폼 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230424153642</link>
+            <guid>https://zdnet.co.kr/view/?no=20230424153642</guid>
+            <pubDate>Mon, 24 Apr 2023 07:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[AMD는 24일 국내 임베디드 FPGA 개발 기업 에이투스(ATUS)와 함께 이벤트 기반 비전 센서 개발 플랫폼을 개발했다고 밝혔다. 이벤트 기반 비전 센서는 이미지의 밝기를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["中 마이크론 제재 공백, 삼성·SK하이닉스가 채우지 말라"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230424095318</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420102459</guid>
             <pubDate>Thu, 20 Apr 2023 02:01:14 GMT</pubDate>
             <content:encoded><![CDATA[정부가 반도체,디스플레이·이차전지 3개 분야 정밀화학소재 개발에 280억을 지원한다. 산업통상자원부는 약 280억원 규모로 올해부터 2026년까지 지원하는 '국가 필수전략기술 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 12단 적층 HBM3 개발…"세계 최초"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420094401</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420094401</guid>
-            <pubDate>Thu, 20 Apr 2023 02:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 20일 D램 단품 칩 12개를 수직으로 쌓아 용량 24GB를 구현한 고대역폭메모리(HBM)3 신제품을 개발했다고 밝혔다. HBM은 D램 여러 개를 수직으로 연결해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
