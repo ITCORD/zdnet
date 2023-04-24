@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 14:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 15:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 SW생산 68.8조···순수 개발자 17만명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230425000641</link>
+            <guid>https://zdnet.co.kr/view/?no=20230425000641</guid>
+            <pubDate>Mon, 24 Apr 2023 15:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 기준(잠정치) 국내 소프트웨어(SW) 산업 생산액은 68조8000억원으로 집계됐다. 전년대비 2.7% 늘었다. 같은 기간 국내 SW기업의 수출액은 177.8억달러(약...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['SW 스타랩'에 고려대 이원준 교수 연구실 등 3곳 새로 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230424204837</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230424095237</guid>
             <pubDate>Mon, 24 Apr 2023 03:11:20 GMT</pubDate>
             <content:encoded><![CDATA[리눅스재단이 분산 모델링 전용 프로그래밍 언어인 TLA+ 활성화를 위해 산하 재단을 만들었다 최근 인포월드 등 외신에 따르면 리눅스재단이 프로그래밍 언어 TLA+와 커뮤니티의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IT인력 66%, 시스템 문제 챗GPT에 물어봐]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230424085812</link>
-            <guid>https://zdnet.co.kr/view/?no=20230424085812</guid>
-            <pubDate>Mon, 24 Apr 2023 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[시스템 장애 발생 시 검색을 먼저하던 IT 엔지니어들도 챗GPT에 더 많이 의지하는 것으로 나타났다. 최근 미국 지디넷에 따르면, 일렉트릭의 설문조사에서 IT관련 조언을 어디서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
