@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMAT, 새 전자빔 계측장비 공개..."하이-NA EUV 노광 공정 속도 개선"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230424160345</link>
+            <guid>https://zdnet.co.kr/view/?no=20230424160345</guid>
+            <pubDate>Mon, 24 Apr 2023 08:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체 장비 회사 어플라이드머티어리얼즈(AMAT)가 최근 선보인 전자빔 계측 장비 '베리티SEM10'으로 반도체 생산 능력을 30%까지 개선할 수 있다고 밝혔다. 베리티S...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 에이투스와 이벤트 기반 비전 센서 플랫폼 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230424153642</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420110428</guid>
             <pubDate>Thu, 20 Apr 2023 02:32:51 GMT</pubDate>
             <content:encoded><![CDATA[솔리다임은 20일 D5-P5316 QLC(4비트) SSD 어레이를 적용한 시스템을 통해 원주율(파이, π) 100조 자릿수 계산 시간을 갱신했다고 밝혔다. 원주율 계산은 슈퍼컴...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 반도체·디스플레이·이차전지 소재에 280억 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420102459</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420102459</guid>
-            <pubDate>Thu, 20 Apr 2023 02:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 반도체,디스플레이·이차전지 3개 분야 정밀화학소재 개발에 280억을 지원한다. 산업통상자원부는 약 280억원 규모로 올해부터 2026년까지 지원하는 '국가 필수전략기술 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

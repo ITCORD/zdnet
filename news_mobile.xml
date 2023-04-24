@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이슨 "국내 초미세먼지, 국제 안전권고기준보다 1.3배 높아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230424140845</link>
+            <guid>https://zdnet.co.kr/view/?no=20230424140845</guid>
+            <pubDate>Mon, 24 Apr 2023 08:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 기술 기업 다이슨은 자체 측정 장비로 국내 공기 질을 확인한 결과 초미세먼지 수치가 세계보건기구 일평균 안전권고 기준보다 최대 1.3배 높았다고 24일 밝혔다. 다이슨은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[벤큐코리아, 전자칠판 RE03 시리즈 3종 국내 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230424152403</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230421150551</guid>
             <pubDate>Sat, 22 Apr 2023 02:02:18 GMT</pubDate>
             <content:encoded><![CDATA[로봇청소기 기능이 매년 눈에 띄게 발전하고 있다. 단순 주행이나 청소 성능이 개선될 뿐만 아니라 사용자가 따로 관여해야 하는 부분이 점차 줄어드는 것이 체감된다. 로보락이 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바디프랜드, 신제품 '메디컬팬텀' 홈쇼핑 론칭]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230421161532</link>
-            <guid>https://zdnet.co.kr/view/?no=20230421161532</guid>
-            <pubDate>Fri, 21 Apr 2023 08:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드는 의료기기 신제품 '메디컬팬텀'을 오는 22~23일 GS홈쇼핑과 현대홈쇼핑에서 론칭한다. 방송에서 제품을 구매, 렌탈한 고객은 안마의자 1개를 더 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
