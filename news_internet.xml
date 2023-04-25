@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 15:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU, 애플·아마존 등 19개 대형 플랫폼 집중 규제]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230425233650</link>
+            <guid>https://zdnet.co.kr/view/?no=20230425233650</guid>
+            <pubDate>Tue, 25 Apr 2023 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU)이 아마존, 애플, 페이스북 등 19개 서비스를 '대형 온라인 플랫폼'이나 검색 서비스로 지정했다. 대형 온라인 플랫폼으로 지정된 서비스는 EU 디지털서비스(DS...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리디 "50분기 연속 성장"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230425183143</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230424142313</guid>
             <pubDate>Mon, 24 Apr 2023 06:13:36 GMT</pubDate>
             <content:encoded><![CDATA[혁신벤처단체협의회(혁단협)가 국회에서 추진하고 있는 '여객자동차운수사업법' 개정안에 반대 의사를 내비쳤다. 이 여객자동차운수사업법 개정안은 택시 호출 플랫폼에서 승객 목적지 표...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 마이플레이스 개편…동영상 후기 기능 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230424105053</link>
-            <guid>https://zdnet.co.kr/view/?no=20230424105053</guid>
-            <pubDate>Mon, 24 Apr 2023 03:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 방문 인증과 후기 작성이 가능한 장소를 확대하고, 후기에 동영상을 첨부할 수 있도록 업데이트했다고 24일 밝혔다. 이 기능은 장소 저장, 방문 기록 등 다양한 지역별 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
