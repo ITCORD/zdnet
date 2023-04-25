@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["당국 가이드 상 가상자산 '증권' 영역 구획 불명확"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230425160941</link>
+            <guid>https://zdnet.co.kr/view/?no=20230425160941</guid>
+            <pubDate>Tue, 25 Apr 2023 08:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 가상자산 중 자본시장법상 증권으로 간주되는 경우에 대해 명확한 입장을 내놓지 않아 시장 혼란이 지속되고 있다는 지적이 나왔다. 그간 금융 당국이 조각투자, 토큰증권 관련...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울대 천정희 교수, 세계암호학회 석학회원 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230425153111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230425103206</guid>
             <pubDate>Tue, 25 Apr 2023 02:02:34 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 및 핀테크 전문 기업 두나무(대표 송치형)는 오는 26일부터 사흘간 미국 오스틴에서 열리는 블록체인 컨퍼런스 '컨센서스 2023'에 참가한다고 25일 밝혔다. 2015...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바이낸스, '러시아' 서비스 제한 조용히 해제]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230425092108</link>
-            <guid>https://zdnet.co.kr/view/?no=20230425092108</guid>
-            <pubDate>Tue, 25 Apr 2023 02:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 가상자산 거래소 바이낸스가 러시아 사용자에 대한 서비스 제한을 조용히 해제한 것으로 드러났다. 블록체인 매체 코인데스크는 다른 매체 포크로그를 인용, 바이낸스가 우크...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
