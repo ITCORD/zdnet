@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 00:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 02:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASML, 신규 반도체 연구센터 건립...인재 직접 키운다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230425091426</link>
+            <guid>https://zdnet.co.kr/view/?no=20230425091426</guid>
+            <pubDate>Tue, 25 Apr 2023 02:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 장비 업체 ASML이 네덜란드 에인트호번 공과대학과 협력해 최첨단 클린룸을 포함한 새로운 연구센터를 건설할 계획이라고 24일(현지시간) 밝혔다. ASML과 에인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 반도체 딜레마…尹에 좋은 선택지 없어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230425085819</link>
+            <guid>https://zdnet.co.kr/view/?no=20230425085819</guid>
+            <pubDate>Tue, 25 Apr 2023 02:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령이 미국과 중국 사이에서 외교적 줄타기를 하고 있지만, 자국 반도체 산업을 위한 좋은 선택지는 윤 대통령에게 없다고 영국 로이터통신이 24일(현지시간) 보도했다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMAT, 새 전자빔 계측장비 공개..."하이-NA EUV 노광 공정 속도 개선"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230424160345</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420110642</guid>
             <pubDate>Thu, 20 Apr 2023 06:20:41 GMT</pubDate>
             <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 20일 고전압 질화갈륨(GaN) 컨버터 'VIPerGaN100'와 'VIPerGaN65'를 출시했다. 100W와 65W의 단일 스위치...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스템반도체 인재 확보에 사활 건다...해외서 뽑고, 직접 양성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230419160122</link>
-            <guid>https://zdnet.co.kr/view/?no=20230419160122</guid>
-            <pubDate>Thu, 20 Apr 2023 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[미국과 중국 등 전세계가 '미래산업의 쌀'이라고 불리는 반도체 기술과 생산능력을 확보하기 위한 패권 전쟁을 벌이고 있습니다. 한국 또한 파운드리와 팹리스 성장을 통해 시스템반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔리다임, QLC SSD 어레이로 원주율 기록 갱신]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420110428</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420110428</guid>
-            <pubDate>Thu, 20 Apr 2023 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[솔리다임은 20일 D5-P5316 QLC(4비트) SSD 어레이를 적용한 시스템을 통해 원주율(파이, π) 100조 자릿수 계산 시간을 갱신했다고 밝혔다. 원주율 계산은 슈퍼컴...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
