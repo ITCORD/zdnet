@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 02:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 03:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["디스플레이 기술 유출 안돼"…LG·삼성·국정원·정부 등 뭉쳤다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230425110439</link>
+            <guid>https://zdnet.co.kr/view/?no=20230425110439</guid>
+            <pubDate>Tue, 25 Apr 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국디스플레이산업협회는 25일 서울 삼성동 그랜드인터컨티넨탈서울파르나스호텔에서 '디스플레이 분야 산업기술 보안협의회 3기'를 발족했다. 국가정보원 산업기밀보호센터, 산업통상자원...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ASML, 신규 반도체 연구센터 건립...인재 직접 키운다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230425091426</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230420145555</guid>
             <pubDate>Thu, 20 Apr 2023 07:10:30 GMT</pubDate>
             <content:encoded><![CDATA[한국디스플레이산업협회는 20일 서울 삼성동 소노펠리체컨벤션에서 '확장현실(XR) 디스플레이 산업 전략 포럼'을 열고 국내 업계가 갖춰야 할 15대 전략기술을 발표했다. XR 산...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 100W·65W VIPerGaN 컨버터 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230420110642</link>
-            <guid>https://zdnet.co.kr/view/?no=20230420110642</guid>
-            <pubDate>Thu, 20 Apr 2023 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 20일 고전압 질화갈륨(GaN) 컨버터 'VIPerGaN100'와 'VIPerGaN65'를 출시했다. 100W와 65W의 단일 스위치...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
