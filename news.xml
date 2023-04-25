@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 17:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 18:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일 민간 달 착륙선 실패? 착륙 앞두고 신호 끊겨 상태 확인 안 돼]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230426021258</link>
+            <guid>https://zdnet.co.kr/view/?no=20230426021258</guid>
+            <pubDate>Tue, 25 Apr 2023 18:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[일본 우주 기업 아이스페이스의 달 착륙선 '하쿠토-R'의 달 착륙이 실패한 것으로 보인다. 하쿠토-R은 26일 오전 1시 40분 달 북동부 지역 아틀라스 크레이터 지역에 착륙을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/26/ce425f73af78a54749ae617f81a5b6ec-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EU, 애플·아마존 등 19개 대형 플랫폼 집중 규제]]></title>
             <link>https://zdnet.co.kr/view/?no=20230425233650</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230425225022</guid>
             <pubDate>Tue, 25 Apr 2023 14:09:36 GMT</pubDate>
             <content:encoded><![CDATA[솔리데오시스템즈(대표 김숙희)는 한국공인중개사협회(협회장 이종혁)와 25일 관악구 소재 한국공인중개사협회 본사에서 '부동산 중개산업 디지털 혁신을 위한 업무협약'(MOU)를 체...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/25/501a538105eeefa9bb031970b81ac277-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[틸론, 제주도민 체육대회 메타버스로 구현]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230425145426</guid>
             <pubDate>Tue, 25 Apr 2023 09:10:19 GMT</pubDate>
             <content:encoded><![CDATA[CJ온스타일이 의류 판매 방송에서 매진 표현을 허위로 사용하고, 화장품 방송에서 근거 없는 최상급 표현을 사용해 방송통신심의위원회로부터 각 방송에 대해 행정지도 '권고'를 의결...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이태현 웨이브 "넷플릭스 3조원 투자...환영할 일"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230425163306</link>
-            <guid>https://zdnet.co.kr/view/?no=20230425163306</guid>
-            <pubDate>Tue, 25 Apr 2023 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[이태현 콘텐츠웨이브 대표가 넷플릭스의 향후 4년간 국내 콘텐츠 3조3천억원 투자 발표에 관해 환영한다고 밝혔다. 이 대표는 25일 오후 서울 여의도에서 열린 '2023 웨이브 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
