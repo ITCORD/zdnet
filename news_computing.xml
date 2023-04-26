@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[체험기] 구글 '바드' vs. MS '빙'...누가 검색 더 잘할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230426165227</link>
+            <guid>https://zdnet.co.kr/view/?no=20230426165227</guid>
+            <pubDate>Wed, 26 Apr 2023 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[구글 인공지능(AI) 챗봇 '바드'가 이달 한국에 상륙했다. 구글은 바드를 검색엔진에 탑재해 서비스를 제공하고 있다. 바드는 마이크로소프트 검색엔진에 탑재된 '빙' 경쟁 상대다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔리코리아, 아레스캐드 '1+1 프로모션']]></title>
             <link>https://zdnet.co.kr/view/?no=20230426164944</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230426092001</guid>
             <pubDate>Wed, 26 Apr 2023 02:02:28 GMT</pubDate>
             <content:encoded><![CDATA[디노도코리아는 카카오뱅크에 데이터 통합관리 솔루션인 '디노도 플랫폼'을 공급했다고 26일 밝혔다. 국내 협력사 플랜잇파트너사와 협력해 카카오뱅크에 공급한 디노도 플랫폼은 데이터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, 대웅제약에 CRM 플랫폼 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230426091321</link>
-            <guid>https://zdnet.co.kr/view/?no=20230426091321</guid>
-            <pubDate>Wed, 26 Apr 2023 02:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스는 고객관계관리(CRM) 플랫폼을 대웅제약에 공급했다고 26일 밝혔다. 대웅제약은 세일즈포스 플랫폼으로 고객 데이터 40가지 항목을 수집·분석해 고객 맞춤형 서비스를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
