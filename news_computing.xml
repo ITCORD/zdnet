@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 메타버스 기업 수출 지원에 올해 119억 투입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427172316</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427172316</guid>
+            <pubDate>Thu, 27 Apr 2023 09:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호, 이하 '과기정통부')와 정보통신산업진흥원(원장 허성욱)은 119억원을 투입해 2023년도 '디지털콘텐츠 글로벌 역량강화' 사업을 시행한다고 27...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[복잡한 데이터 현대화, 솔루션 하나로 해결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427165726</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427134341</guid>
             <pubDate>Thu, 27 Apr 2023 05:10:03 GMT</pubDate>
             <content:encoded><![CDATA[SaaS 제공기업 비즈니스온커뮤니케이션(대표 라민상, 강민철, 이병두)은 2023년 1분기 동안 매출 150억6천만원, 영업이익 50어4천만원, 당기순이익 40억5천만원을 기록...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["API 에코시스템에 대응하려면 마이크로서비스로 가야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427131945</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427131945</guid>
-            <pubDate>Thu, 27 Apr 2023 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA["API 에코시스템에 대응하기 위해선 충분히 작은 형태의 마이크로 서비스가 나와야 합니다. 마이크로서비스를 빠르게 조합할 수 있는 능력이 기업의 비즈니스 경쟁력을 좌지우지할 겁...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
