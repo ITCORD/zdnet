@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 19:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 20:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 의료로봇 제대로 키우려면 온 병원이 필요하다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427171834</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427171834</guid>
+            <pubDate>Thu, 27 Apr 2023 20:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/27/27f386038c53f92366bc99b9df6ae33b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 전 세계 유방암 전문가‧리더 한자리에 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427122603</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230428000259</guid>
             <pubDate>Thu, 27 Apr 2023 15:09:46 GMT</pubDate>
             <content:encoded><![CDATA[카카오페이(대표 신원근)가 미국 종합증권사 시버트 인수를 추진한다. 카카오페이는 27일 시버트가 유상증자를 통해 발행할 약 1천7백만달러(약 228억원)규모의 신주를 인수하는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/29/4cc11be6e485e13e49d296a497a1013a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바다에 공해 없는 수소 생산 플랫폼 띄우는 날 올까? (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427172439</guid>
             <pubDate>Thu, 27 Apr 2023 10:10:36 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 1분기 스마트 TV 웹OS 플랫폼 사업 매출이 전년 동기 대비 40% 이상 증가했고, 현재 기준 200여개사와 파트너십을 구축했다고 밝혔다. LG전자는 27일 202...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] LG전자 "렌털 매출 두자릿수 성장 목표…1조원 육박 전망" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427172514</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427172514</guid>
-            <pubDate>Thu, 27 Apr 2023 10:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 렌털사업을 본격적으로 강화하며 1조원 매출을 향해 달려간다. LG전자는 렌털·케어십 등 비 하드웨어(HW) 영역에 해당하는 서비스 사업을 새로운 성장동력으로 삼고 있...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -1128,6 +1128,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[영상] 의료로봇 제대로 키우려면 온 병원이 필요하다 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427171834</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427171834</guid>
+            <pubDate>Thu, 27 Apr 2023 20:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[3년 만에 전 세계 유방암 전문가‧리더 한자리에 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427122603</link>
             <guid>https://zdnet.co.kr/view/?no=20230427122603</guid>
@@ -1277,14 +1285,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230425114420</guid>
             <pubDate>Tue, 25 Apr 2023 03:10:43 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부와 건강보험심사평가원이 일차의료 방문진료 수가 시범사업에 참여할 의료기관을 내달 12일까지 추가 공모한다. 이 사업은 거동이 불편해 의료기관에 내원하기 어려운 환자를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금, 전국 복지관 31개소서 디지털·노후준비 교육 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230425111504</link>
-            <guid>https://zdnet.co.kr/view/?no=20230425111504</guid>
-            <pubDate>Tue, 25 Apr 2023 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[국민연금공단이 5월~11월 전국 노인·사회복지관 31개소에서 국민연금 수급자 930명을 대상으로 '국민연금 아카데미' 사업을 진행한다. 국민연금 아카데미는 2학기제로 운영되고,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -2327,14 +2327,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['토스뱅크 부실?'…은행 진화나섰다 (지디넷코리아 ─ 금융)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230327095947</link>
-            <guid>https://zdnet.co.kr/view/?no=20230327095947</guid>
-            <pubDate>Mon, 27 Mar 2023 02:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[최근 일부 커뮤니티를 중심으로 인터넷전문은행 '토스뱅크'가 부실할 수 있다는 우려가 나오면서, 토스뱅크 측이 진화에 나섰다.27일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA["주 4일 근무위해 다니던 직장 관둘수도" (지디넷코리아 ─ 금융)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230410081835</link>
             <guid>https://zdnet.co.kr/view/?no=20230410081835</guid>
@@ -2364,6 +2356,14 @@
             <guid>https://zdnet.co.kr/view/?no=20230330144012</guid>
             <pubDate>Thu, 20 Apr 2023 20:11:37 GMT</pubDate>
             <content:encoded><![CDATA[신한은행을 시작으로 우리은행도 가계부채 대출 금리를 내리겠다고 공언하면서, 차주들의 숨통이 조금은 트일 것으로 보인다.31일 금융업계에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[최소 1개월 단위로도 적금 가입 가능…은행권 리뉴얼 박차 (지디넷코리아 ─ 금융)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230405082530</link>
+            <guid>https://zdnet.co.kr/view/?no=20230405082530</guid>
+            <pubDate>Thu, 27 Apr 2023 20:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[최소 6개월 이상이었던 적금 만기 규정이 지난 1일부터 풀리면서 은행들이 만기를 짧게 가져가는 적금을 속속 내놓고 있다.5일 은행업계에 따르면 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>

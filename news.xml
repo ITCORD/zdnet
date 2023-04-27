@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 19:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 20:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 의료로봇 제대로 키우려면 온 병원이 필요하다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427171834</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427171834</guid>
+            <pubDate>Thu, 27 Apr 2023 20:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/27/27f386038c53f92366bc99b9df6ae33b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 전 세계 유방암 전문가‧리더 한자리에]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427122603</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230428000259</guid>
             <pubDate>Thu, 27 Apr 2023 15:09:46 GMT</pubDate>
             <content:encoded><![CDATA[카카오페이(대표 신원근)가 미국 종합증권사 시버트 인수를 추진한다. 카카오페이는 27일 시버트가 유상증자를 통해 발행할 약 1천7백만달러(약 228억원)규모의 신주를 인수하는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/29/4cc11be6e485e13e49d296a497a1013a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바다에 공해 없는 수소 생산 플랫폼 띄우는 날 올까?]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427172439</guid>
             <pubDate>Thu, 27 Apr 2023 10:10:36 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 1분기 스마트 TV 웹OS 플랫폼 사업 매출이 전년 동기 대비 40% 이상 증가했고, 현재 기준 200여개사와 파트너십을 구축했다고 밝혔다. LG전자는 27일 202...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] LG전자 "렌털 매출 두자릿수 성장 목표…1조원 육박 전망"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427172514</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427172514</guid>
-            <pubDate>Thu, 27 Apr 2023 10:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 렌털사업을 본격적으로 강화하며 1조원 매출을 향해 달려간다. LG전자는 렌털·케어십 등 비 하드웨어(HW) 영역에 해당하는 서비스 사업을 새로운 성장동력으로 삼고 있...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
