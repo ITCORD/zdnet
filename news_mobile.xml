@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 03:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 04:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 1분기 실적 이끈 '갤럭시'…작년보다 적게 팔고 더 벌었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427123941</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427123941</guid>
+            <pubDate>Thu, 27 Apr 2023 04:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 올해 1분기 실적에서 부진을 면치 못한 가운데 모바일(MX) 사업부가 반도체(DS)사업부 적자를 메우며 실적을 견인했다. 삼성전자는 27일 연결 기준 매출액과 영업이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[컨콜] 삼성전자, 1분기 스마트폰 판매량 6천만대...태블릿 700만대]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427114805</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230426155819</guid>
             <pubDate>Wed, 26 Apr 2023 08:16:11 GMT</pubDate>
             <content:encoded><![CDATA[웰니스 테크 기업 테라바디가 가정의 달을 앞두고 오는 27일 롯데홈쇼핑 최유라쇼 방송에서 마사지건 '테라건 엘리트'를 최초 론칭한다고 26일 밝혔다. 테라건 엘리트는 감각적인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['과열' 부른 그래픽카드용 12VHPWR 전원 단자, 이젠 믿어도 될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230426153050</link>
-            <guid>https://zdnet.co.kr/view/?no=20230426153050</guid>
-            <pubDate>Wed, 26 Apr 2023 08:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[그래픽카드에 최대 600W급 전력을 안정적으로 공급하기 위해 지난 해 등장한 ATX 3.0 규격 12VHPWR 단자 관련 과열 등 문제가 소강 상태에 들어섰다. ATX 3.0 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
