@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 00:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 02:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뤼튼 "AI모델 개발사·응용 기업, 파트너 관계로 가야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427173856</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427173856</guid>
+            <pubDate>Fri, 28 Apr 2023 02:03:15 GMT</pubDate>
+            <content:encoded><![CDATA["챗GPT를 뛰어넘는 서비스를 만들려면 인공지능(AI)모델 개발사와 응용 기업 협력이 관건입니다. 특히 응용 기업은 범용 모델을 활용해 특화된 비즈니스를 만들어야 할 것입니다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 생성AI 기반 디자인 앱 미리보기로 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230428091327</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427144319</guid>
             <pubDate>Thu, 27 Apr 2023 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA["슬랙은 연동된 앱만 2천600개입니다. 기업은 생산성 핵심인 '소통'과 '정보 공유'를 슬랙으로 원활히 할 수 있습니다. 최근 오픈AI GPT까지 접목해 기능을 강화했습니다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["인하우스 앱 쉽고 빠르게 만들 수 있어야 디지털 전환"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427145219</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427145219</guid>
-            <pubDate>Thu, 27 Apr 2023 06:13:23 GMT</pubDate>
-            <content:encoded><![CDATA["기존 솔루션으로는 기업의 고유한 활동을 디지털 전환하기는 어렵습니다. 기업이 자체 애플리케이션을 빠르고 쉽게 구현할 수 있도록 파이프라인을 제공합니다." 권오림 영림원소프트랩...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
