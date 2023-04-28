@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 23:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 00:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드리프트 탐지 및 IaC를 통해 보안 인프라를 유지하는 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427155750</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427155750</guid>
+            <pubDate>Fri, 28 Apr 2023 00:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[인프라 프로비저닝은 올바른 프로세스와 기능을 갖추지 않는다면, 시간을 낭비하는 끝없는 루프처럼 느껴질 수도 있을 것이다. 많은 기업들은 이에 대한 솔루션으로 코드형 인프라(IaC, Infrastructure-as-Code)를 채택해 여러 퍼블릭 클라우드 및 프라이빗 데이터센터에 걸쳐 프로비저닝을 자동화하고 있다.IaC는 병목현상 없이 인프라 및 인프라 변경사항을 배포할 수 있는 보다 현대적이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/27/2d9a58fd95adf99197573036e29ed645.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이정규 칼럼] AI를 앞지르는 비선형 멘탈]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427093434</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 05:12:57 GMT</pubDate>
             <content:encoded><![CDATA[한국 딜로이트 그룹(총괄대표 홍종성)은 최근 특집호 '딜로이트 전문가가 분석하는 첨단기술, 미디어, 통신산업 2023' 한글판을 발간했다. 딜로이트는 이 한글판에서 글로벌 경영 환경 불확실성에도 불구하고 2023년은 신기술 개발과 혁신을 바탕으로 새로운 비즈니스 모델 확장과 기회를 창출할 수 있을 것으로 전망했다. 지디넷코리아는 세계적 산업전문가 그룹인 딜로이트 TMT(Tech...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/03/13/99248efbf2eee6437ac2ad20a1f35091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 활용에 따른 법적 책임 주체는?···기존 법은 모호]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230313072928</link>
-            <guid>https://zdnet.co.kr/view/?no=20230313072928</guid>
-            <pubDate>Sun, 12 Mar 2023 23:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)이 산출한 결과물은 소유권이 누구일까? 또 인공지능이 촉발한 사고나 사건의 책임은 누가 져야 할까?자율주행에 대한 기대가 한참 커가던 2016년 5월 미국 플로리다에서 테슬라가 대형 트레일러와 충돌해 운전자가 즉사하는 사고가 일어났다. 테슬라의 자율주행 시스템이 흰색 트레일러 옆면을 제대로 감지하지 못해 발생한 사고였다. 사고 책임을 누가 져야하는지 공방이 있었다. 자율주행 모...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/20/2a6be8b21f7720c2abc1ef753ff6da20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

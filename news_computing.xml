@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 23:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 00:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 생성AI 기반 디자인 앱 미리보기로 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428091327</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428091327</guid>
+            <pubDate>Fri, 28 Apr 2023 00:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 오픈AI 달리(DALL-E)로 구동되는 생성AI 기반 디자인 저작도구 '마이크로소프트 디자이너'를 미리보기 버전으로 공개했다. 대기자 신청을 받아 일부 사용자에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드리프트 탐지 및 IaC를 통해 보안 인프라를 유지하는 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230427155750</link>
+            <guid>https://zdnet.co.kr/view/?no=20230427155750</guid>
+            <pubDate>Fri, 28 Apr 2023 00:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[인프라 프로비저닝은 올바른 프로세스와 기능을 갖추지 않는다면, 시간을 낭비하는 끝없는 루프처럼 느껴질 수도 있을 것이다. 많은 기업들은 이에 대한 솔루션으로 코드형 인프라(Ia...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS, 1분기 영업이익 51억달러…성장률도 둔화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428081451</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428081451</guid>
+            <pubDate>Fri, 28 Apr 2023 00:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)가 회계연도 2023년 1분기 동안 매출 214억달러, 영업이익 51억 달러를 기록했다고 27일(현지시간) 밝혔다. 매출은 전년대비 16% 증가했지만, 영...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지역정보개발원, 네덜란드 정부 실무단에 지자체 보안 '코치']]></title>
             <link>https://zdnet.co.kr/view/?no=20230427213237</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427145219</guid>
             <pubDate>Thu, 27 Apr 2023 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA["기존 솔루션으로는 기업의 고유한 활동을 디지털 전환하기는 어렵습니다. 기업이 자체 애플리케이션을 빠르고 쉽게 구현할 수 있도록 파이프라인을 제공합니다." 권오림 영림원소프트랩...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생성AI·DX·노코드, 글로벌 리딩 기술에 관심 집중]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427111016</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427111016</guid>
-            <pubDate>Thu, 27 Apr 2023 06:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[급변하는 시대의 흐름 속에서 한발 앞서 나갈 수 있는 전략을 제시하고, 선두 IT 리더들과 다양한 의견을 교류할 수 있는 ACC+ 2023이 개최해 업계 관계자의 인기를 끌어모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크베이스, 시계열DBMS 멤버십 회원사 15개 유치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427135218</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427135218</guid>
-            <pubDate>Thu, 27 Apr 2023 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[IoT용 데이터베이스관리시스템(DBMS) 전문기업 마크베이스(대표 김성진)는 지난달 선보인 멤버십 프로그램이 출시 한 달 만에 15개의 기업에서 채택됐다고 27일 밝혔다. 이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가비아, 하이웍스 전자계약 출시…3개월 무료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427134809</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427134809</guid>
-            <pubDate>Thu, 27 Apr 2023 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[가비아(대표 김홍국)는 하이웍스 전자계약 서비스를 출시하고, 무료 사용 이벤트를 실시한다고 27일 밝혔다. 가비아는 사내 인사 계약을 간편하게 체결하고 관리할 수 있도록 지원하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
