@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 07:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 08:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 "3조원대 파격 투자 맞다…작년 투자 추정액은 오류"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428161124</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428161124</guid>
+            <pubDate>Fri, 28 Apr 2023 08:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스는 향후 4년간 한국 콘텐츠 투자액 3조3천억원이 통상적인 수준이라는 정치권 주장을 부인했다. 지난해 콘텐츠 투자액이 8천억원이라는 추정에는 실제 제작비가 반영되지 않았...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['누누티비' 같은 불법 스트리밍 사이트, 왜 안사라질까]]></title>
             <link>https://zdnet.co.kr/view/?no=20230427114925</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230426135912</guid>
             <pubDate>Wed, 26 Apr 2023 09:10:09 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤, KT, LG유플러스 등 통신 3사가 5G 중간요금제와 함께 시니어 전용 요금제를 선보였다. 만 65세 이상 어르신 대상으로 보다 저렴한 요금제를 통해 통신비 부담을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[월 4만원대 5G 새 요금제 비교해보니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230426095725</link>
-            <guid>https://zdnet.co.kr/view/?no=20230426095725</guid>
-            <pubDate>Wed, 26 Apr 2023 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤, LG유플러스에 이어 KT가 30GB에서 110GB 구간 5G 중간 요금제를 내놨다. 26일 KT는 데이터 30GB를 제공하던 월 6만1천원 요금제에 데이터 50·7...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
