@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 06:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 07:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSG닷컴, 가정의 달 맞아 '메이 쇼핑 페스타' 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230430121855</link>
+            <guid>https://zdnet.co.kr/view/?no=20230430121855</guid>
+            <pubDate>Sun, 30 Apr 2023 07:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[SSG닷컴이 가정의 달을 맞아 1일부터 5일까지 'MAY 쇼핑 페스타'를 진행한다고 30일 밝혔다. 선물하기 좋은 라이프스타일 카테고리 상품과 브랜드를 중심으로 총 500억원에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/30/33e0a6f10689e2b0fb28f289ce368da5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK ZIC, 스피드메이트와 엔진오일 교환 공임비 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230430113610</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230430113407</guid>
             <pubDate>Sun, 30 Apr 2023 06:11:50 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아가 개인 정보 보호를 이유로 금지했던 챗GPT 사용을 해제했다. 미국 IT매체 엔가젯은 28일(현지시간) 오픈AI가 몇 가지 이탈리아 규제 당국이 제시한 데이터 보호 관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/21/581166740866f65c1fcdd59d2efbd56d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인스타그램 사진 스와이프 하면서 노래 듣는다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230430075306</guid>
             <pubDate>Sun, 30 Apr 2023 00:52:11 GMT</pubDate>
             <content:encoded><![CDATA[대규모 예금 인출(뱅크런) 사태를 겪은 '퍼스트리퍼블릭은행'이 매각을 앞두고 있다. 현재 연방예금보험공사(FDIC)가 매각을 주관하고 있으며 JP모건과 PNC파이낸셜서비스그룹 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["우주경제, 선언은 충분 이제 보여줘야 할 때"···A- 학점]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428215129</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428215129</guid>
-            <pubDate>Sun, 30 Apr 2023 00:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[지디넷코리아는 오는 5월20일 창간 23주년을 맞아 윤석열 정부 1년을 평가했습니다. 지난해 12월 윤 정부는 새 정부 출범 이후 내놓은 반도체·바이오헬스·자동차·디지털 등 산...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
