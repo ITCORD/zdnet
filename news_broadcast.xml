@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 23:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 00:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 자율주행 기술로 도시환경 관리한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230430085219</link>
+            <guid>https://zdnet.co.kr/view/?no=20230430085219</guid>
+            <pubDate>Sun, 30 Apr 2023 00:52:21 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 도로 노면 청소·미세먼지 정화 등 자율주행 기반 도시환경관리 서비스 연구개발에 나선다. 이 연구개발 과제는 국토교통부가 주관하는 '자율주행 기술개발 혁신사업'의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알뜰폰 가입자 수에서 'IoT 회선' 빠진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230428150131</link>
+            <guid>https://zdnet.co.kr/view/?no=20230428150131</guid>
+            <pubDate>Sun, 30 Apr 2023 00:52:21 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 알뜰폰 가입자 수 집계에서 차량용 사물인터넷(IoT) 회선을 제외하는 방안을 고민 중이다. 알뜰폰 IoT 회선은 차량용 내비게이션·차량관제 등 커넥티드카 서비스와 무선결...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 "3조원대 파격 투자 맞다…작년 투자 추정액은 오류"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230428161124</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427093500</guid>
             <pubDate>Thu, 27 Apr 2023 00:50:04 GMT</pubDate>
             <content:encoded><![CDATA[KT는 자사 임직원 700여명을 대상으로 5G 기반 음성통화(VoNR) 시범 서비스를 진행한다고 27일 밝혔다. 5G 음성통화는 현재 제공 중인 LTE 기반 음성통화(VoLTE...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, '민원신고 링크' 제공해 콜센터 대기시간 줄인다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427091201</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427091201</guid>
-            <pubDate>Thu, 27 Apr 2023 00:50:04 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 T전화 이용자가 기업 콜센터 번호를 누르면 통화 연결 전에 다양한 민원 처리 링크를 제공하는 '비즈니스링크' 서비스를 출시했다고 27일 밝혔다. 비즈니스링크는 T전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["어르신, 5G 요금제 비교해보고 쓰세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230426135912</link>
-            <guid>https://zdnet.co.kr/view/?no=20230426135912</guid>
-            <pubDate>Wed, 26 Apr 2023 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤, KT, LG유플러스 등 통신 3사가 5G 중간요금제와 함께 시니어 전용 요금제를 선보였다. 만 65세 이상 어르신 대상으로 보다 저렴한 요금제를 통해 통신비 부담을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
