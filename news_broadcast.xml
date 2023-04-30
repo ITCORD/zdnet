@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 06:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 기지국 데이터 활용 감염병 대응 연구 완료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230430102945</link>
+            <guid>https://zdnet.co.kr/view/?no=20230430102945</guid>
+            <pubDate>Sun, 30 Apr 2023 06:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[KT는 '감염병 대비를 위한 차세대 방역 연구'를 마치고 수집된 일부 데이터를 익명화해 일반에 공개한다고 30일 밝혔다. 이 연구는 빌&amp;멜린다 게이츠 재단의 펀딩을 받아 202...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 자율주행 기술로 도시환경 관리한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230430085219</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427094216</guid>
             <pubDate>Thu, 27 Apr 2023 02:02:15 GMT</pubDate>
             <content:encoded><![CDATA[KT는 경기 성남시 분당본사타워에서 '병원 디지털 전환 세미나'를 개최했다고 27일 밝혔다. KT 강남서부광역본부 주최로 개최한 이 세미나에는 서울·경기 등 수도권 지역 중대형...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, '5G 음성통화' 시범 서비스 개시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427093500</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427093500</guid>
-            <pubDate>Thu, 27 Apr 2023 00:50:04 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 자사 임직원 700여명을 대상으로 5G 기반 음성통화(VoNR) 시범 서비스를 진행한다고 27일 밝혔다. 5G 음성통화는 현재 제공 중인 LTE 기반 음성통화(VoLTE...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
