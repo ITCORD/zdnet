@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 04:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 05:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 왜 셀카를 찍을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230501085707</link>
+            <guid>https://zdnet.co.kr/view/?no=20230501085707</guid>
+            <pubDate>Mon, 01 May 2023 05:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램엔 하루에 9천500만 장의 사진이 올라온다. 이중 상당수는 자신의 모습이 담긴 셀카다. 사람들은 왜 셀카를 찍을까. 흔히 생각하는 바와는 달리, 자신을 과시하고 싶어...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/01/09644020922a9569324d8a83b0ae1447-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아바타 로봇은 어떤 일을 해낼 수 있을까]]></title>
             <link>https://zdnet.co.kr/view/?no=20230430174110</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230428215129</guid>
             <pubDate>Sun, 30 Apr 2023 00:55:17 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아는 오는 5월20일 창간 23주년을 맞아 윤석열 정부 1년을 평가했습니다. 지난해 12월 윤 정부는 새 정부 출범 이후 내놓은 반도체·바이오헬스·자동차·디지털 등 산...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/14/b19a96358b763d39f7da16a0d161e9d4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KAIST, 하버드 의대 및 모더나 손잡고 의사과학자 기른다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230425083838</guid>
             <pubDate>Tue, 25 Apr 2023 02:04:31 GMT</pubDate>
             <content:encoded><![CDATA[스페이스X의 우주선 스타십이 시험 비행에서 발사 4분만에 폭발하면서 미립자 등 환경오염물질이 대거 유출됐다는 우려가 나왔다. 24일(현지시간) CNBC에 따르면, 미국 환경단체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무선으로 심혈관 환자 상태 실시간 진단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230424100438</link>
-            <guid>https://zdnet.co.kr/view/?no=20230424100438</guid>
-            <pubDate>Mon, 24 Apr 2023 05:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[배터리 없이 무선으로 심혈관 기능을 진단할 수 있게 된다. KAIST(총장 이광형)는 전기및전자공학부 권경하 교수가 배터리 없이 실시간으로 심혈관 내 압력·유량·온도를 측정해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
