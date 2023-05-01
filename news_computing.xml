@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 02:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU, 'AI 학습에 사용된 자료 저작권 표시' 법안 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230501011329</link>
+            <guid>https://zdnet.co.kr/view/?no=20230501011329</guid>
+            <pubDate>Mon, 01 May 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU)이 인공지능(AI) 모델 학습에 사용된 저작권 있는 자료를 공개하도록 하는 법안을 추진 중이다. 사이버보안 전문 매체 사이버뉴스는 최근 EU가 AI 모델에 대한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유럽 중앙은행, '블록체인' 도매 금융 시스템 검토]]></title>
             <link>https://zdnet.co.kr/view/?no=20230430134136</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230428132808</guid>
             <pubDate>Fri, 28 Apr 2023 05:09:31 GMT</pubDate>
             <content:encoded><![CDATA[GS ITM(대표 변재철, 정보영)은 과학기술정보통신부가 주관하는 '중소기업 클라우드 서비스 이용지원(바우처) 사업'의 공급기업으로 3년 연속 선정된 것을 기념해 특별 프로모션...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍용정보통신, 5기 복권수탁사업자 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428131950</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428131950</guid>
-            <pubDate>Fri, 28 Apr 2023 05:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[쌍용정보통신(대표 신장호)은 동행복권 컨소시엄이 복권수탁사업자로 선정되면서 엔터테인먼트 개발 역량 강화에 나선다고 28일 밝혔다. 동행복권 컨소시엄은 내년부터 2028년까지 복...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
