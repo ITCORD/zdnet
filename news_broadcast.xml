@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 00:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차량 전용 e심 요금제 나왔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230502094214</link>
+            <guid>https://zdnet.co.kr/view/?no=20230502094214</guid>
+            <pubDate>Tue, 02 May 2023 00:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[통신 3사가 BMW와 함께 2일 차량 전용 e심요금제를 출시한다. 차량용 e심은 별도의 물리적인 칩 없이 차량에 내장된 식별칩을 활용해 모바일데이터를 사용할 수 있는 서비스다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유사한 규제샌드박스, 승인 기간 2개월로 단축된다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230501161646</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427101346</guid>
             <pubDate>Thu, 27 Apr 2023 02:02:15 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전은 MBN과 기획·제작한 지역채널 오리지널 프로그램 '강석우의 종점여행 시즌2'를 첫 방송한다고 27일 밝혔다. 이 프로그램은 오는 29일 오후 5시에 지역채널 25...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 오케스트라 베를린 필하모닉 '2023 유로파 콘서트' 국내 독점 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427100008</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427100008</guid>
-            <pubDate>Thu, 27 Apr 2023 02:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 프랑스 화가 앙드레 브라질리에의 다큐멘터리와 오케스트라 베를린 필하모닉의 '2023 유로파 콘서트' 콘텐츠 공동 제작에 참여하고, 이를 자사 IPTV인 'U+tv...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
