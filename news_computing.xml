@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 03:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 04:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["퀘스트는 기업의 리스크 관리 방안을 제공하는 회사"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230502113101</link>
+            <guid>https://zdnet.co.kr/view/?no=20230502113101</guid>
+            <pubDate>Tue, 02 May 2023 04:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[“퀘스트소프트웨어는 더 이상 포인트 솔루션이나 툴을 제공하는 회사가 아니다. 고객의 리스크를 줄여주는 실질적 대응책을 제시하는 회사다. 사용자 계정 데이터, 데이터베이스, 데이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IT혁신에 드리워진 그림자 '빅코드']]></title>
             <link>https://zdnet.co.kr/view/?no=20230502114127</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230429203811</guid>
             <pubDate>Sun, 30 Apr 2023 03:10:01 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 학습용 데이터 310종(약 15억건)이 추가로 개방된다. 이달 30일부터 오는 7월말까지 매달 약 80여종씩 순차적으로 선보인다. 과기정통부가 2021년부터 매...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스태빌리티AI, 오픈소스형 AI 챗봇 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230430011704</link>
-            <guid>https://zdnet.co.kr/view/?no=20230430011704</guid>
-            <pubDate>Sun, 30 Apr 2023 00:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[스태빌리티AI가 오픈소스형 인공지능(AI) 챗봇을 공개했다. 스태빌리티AI는 28일(현지시간) AI 챗봇 '스테이블비쿠냐(StableVicuna)'를 오픈소스 형식으로 만들어 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
