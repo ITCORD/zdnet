@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 02:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT혁신에 드리워진 그림자 '빅코드']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230502114127</link>
+            <guid>https://zdnet.co.kr/view/?no=20230502114127</guid>
+            <pubDate>Tue, 02 May 2023 03:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI), 자동화, 노코드 등 개발자의 생산성을 극대화하는 도구로 인해 과도하게 빨라진 개발 속도가 오히려 산업과 개발에 악영향을 줄 수 있다는 지적이 일부에서 제기되고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[S2W-구름, 미래 정보보안 전문가 과정 운영]]></title>
             <link>https://zdnet.co.kr/view/?no=20230502103650</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230430011704</guid>
             <pubDate>Sun, 30 Apr 2023 00:52:30 GMT</pubDate>
             <content:encoded><![CDATA[스태빌리티AI가 오픈소스형 인공지능(AI) 챗봇을 공개했다. 스태빌리티AI는 28일(현지시간) AI 챗봇 '스테이블비쿠냐(StableVicuna)'를 오픈소스 형식으로 만들어 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼테크놀로지스, 생성AI로 일본 간다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230430004704</link>
-            <guid>https://zdnet.co.kr/view/?no=20230430004704</guid>
-            <pubDate>Sun, 30 Apr 2023 00:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[뤼튼테크놀로지스가 국내 생성 인공지능(AI) 스타트업 중 처음으로 일본에 진출한다. 이세영 뤼튼테크놀로지스는 이달 28일 열린 '생성 AI 아시아 2023 도쿄 컨퍼런스'에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
