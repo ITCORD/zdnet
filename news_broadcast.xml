@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, K팝 오디션 투표시스템 특허 출원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230502171331</link>
+            <guid>https://zdnet.co.kr/view/?no=20230502171331</guid>
+            <pubDate>Tue, 02 May 2023 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM이 K-POP 오디션 최초로 글로벌 투표 시스템 특허를 출원했다. 자체 시스템 개발을 통해 기존 온라인 투표 서비스가 중요시하고 있는 트래픽 제어, 각종 어뷰징 행위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['TV조선 점수조작 의혹' 한상혁 방통위원장 불구속 기소]]></title>
             <link>https://zdnet.co.kr/view/?no=20230502154649</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230430085219</guid>
             <pubDate>Sun, 30 Apr 2023 00:52:21 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 도로 노면 청소·미세먼지 정화 등 자율주행 기반 도시환경관리 서비스 연구개발에 나선다. 이 연구개발 과제는 국토교통부가 주관하는 '자율주행 기술개발 혁신사업'의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알뜰폰 가입자 수에서 'IoT 회선' 빠진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428150131</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428150131</guid>
-            <pubDate>Sun, 30 Apr 2023 00:52:21 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 알뜰폰 가입자 수 집계에서 차량용 사물인터넷(IoT) 회선을 제외하는 방안을 고민 중이다. 알뜰폰 IoT 회선은 차량용 내비게이션·차량관제 등 커넥티드카 서비스와 무선결...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
