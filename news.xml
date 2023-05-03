@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 10:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KTNET, 경기도 수출기업 디지털전환 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230503183619</link>
+            <guid>https://zdnet.co.kr/view/?no=20230503183619</guid>
+            <pubDate>Wed, 03 May 2023 10:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[한국무역정보통신(KTNET·대표 차영환)은 3일 경기도경제과학진흥원(GBSA·원장 강성천)과 경기도 수출기업의 디지털전환(DX) 활성화를 위한 업무협약(MOU)을 체결했다. 두...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/03/c5fb1bfc348a3b6bbdc1e2eb1708bf9e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤앤에스피, 글로벌기업 트렐릭스와 산업보안 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230503180237</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230503180008</guid>
             <pubDate>Wed, 03 May 2023 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[한국애브비와 한국엘러간은 비즈니스 운영 관리 시스템 전반을 통합하고 5월1일부로 국내에서 단일 법인으로 출범했다. 2023년은 애브비가 지난 2013년 기업 분사를 통해 창립된...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/03/a73568e453e37e64d49d6890ba553c7f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산업부-대전시-머크 라이프사이언스, 원부자재 생산시설 투자 협력]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230503162850</guid>
             <pubDate>Wed, 03 May 2023 08:11:45 GMT</pubDate>
             <content:encoded><![CDATA[이창용 한국은행 총재는 “글로벌 리스크가 대되는 상황에서 더 이상 예금은 안정적인 수단이 아니다”고 주장했다. 향후 경기전망에 대해선 올해 중반기 물가상승률 둔화를 예상하면서도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터스트림즈, '2023년 D.N.A. 대·중소 동반진출' 사업 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230503164439</link>
-            <guid>https://zdnet.co.kr/view/?no=20230503164439</guid>
-            <pubDate>Wed, 03 May 2023 08:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 공모한 '2023년 D.N.A. 대중소 파트너십 동반진출 사업' 디지털 헬스케어 분야에 주관 수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
