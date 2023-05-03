@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 03:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 04:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["양자 컴퓨팅의 환상에서 벗어나자"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230503120627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230503120627</guid>
+            <pubDate>Wed, 03 May 2023 04:11:29 GMT</pubDate>
+            <content:encoded><![CDATA["양자 컴퓨팅으로 해결할 수 있는 문제는 제한적이다. 환상에서 벗어나자." 마이크로소프트가 양자컴퓨터 애플리케이션 개발을 위한 지침을 발표했다. 지나친 기대와 과대광고에 빠지지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['AI 대부'는 왜 갑자기 구글을 떠났을까]]></title>
             <link>https://zdnet.co.kr/view/?no=20230503111026</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230502141901</guid>
             <pubDate>Tue, 02 May 2023 06:14:34 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스는 오는 3일부터 4일까지 코엑스 컨벤션센터에서 개최되는 'AWS 서밋 서울'에 참가한다고 2일 밝혔다. 올해로 9회를 맞이한 AWS 서밋 서울은 IT·클라우드 실무자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 세계 첫 인공지능법 연내 제정 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230502140458</link>
-            <guid>https://zdnet.co.kr/view/?no=20230502140458</guid>
-            <pubDate>Tue, 02 May 2023 05:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU)이 올해 인공지능(AI) 법안을 통과시키겠다는 포부를 밝혔다. 로이터는 1일(현지시간) 마르그레테 베스타게르 유럽연합집행위원회(EC) 부위원장이 이같이 밝혔다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
