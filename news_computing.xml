@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 02:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['AI 대부'는 왜 갑자기 구글을 떠났을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230503111026</link>
+            <guid>https://zdnet.co.kr/view/?no=20230503111026</guid>
+            <pubDate>Wed, 03 May 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[천문학 박사 과정 학생인 케이트 디비아스키는 새로운 혜성을 발견한다. 기쁨에 겨운 그는 지도교수인 렌달 민디 박사에게 이 사실을 알린다. 민디 박사 역시 기쁜 마음으로 축하해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AWS코리아 "디지털 인재 육성·한국어 기술 적극 지원"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230503100808</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230502140458</guid>
             <pubDate>Tue, 02 May 2023 05:09:22 GMT</pubDate>
             <content:encoded><![CDATA[유럽연합(EU)이 올해 인공지능(AI) 법안을 통과시키겠다는 포부를 밝혔다. 로이터는 1일(현지시간) 마르그레테 베스타게르 유럽연합집행위원회(EC) 부위원장이 이같이 밝혔다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 중소기업 위한 '파수 매니지드 서비스' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230502133539</link>
-            <guid>https://zdnet.co.kr/view/?no=20230502133539</guid>
-            <pubDate>Tue, 02 May 2023 05:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[파수는 자체적인 보안 관리가 어려운 중소기업을 위한 '파수 매니지드 서비스'를 출시했다고 2일 밝혔다. 파수 매니지드 서비스는 악성메일 훈련과 보안 모니터링, 암호화·백업 서비...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
