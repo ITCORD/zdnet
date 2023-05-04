@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 06:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, 1분기 영업손실 503억원...적자전환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230504141627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230504141627</guid>
+            <pubDate>Thu, 04 May 2023 06:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM은 한국채택국제회계 연결기준으로 지난 1분기 매출 9천490억원, 영업손실 503억원을 기록했다고 4일 공시했다. 엔터 사업은 경기 침체에 따른 광고 시장 위축으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이상인 위원 "방통위, 대통령 국정 운영철학 따라야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230504131711</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230502132311</guid>
             <pubDate>Tue, 02 May 2023 05:09:14 GMT</pubDate>
             <content:encoded><![CDATA[KT엠모바일은 매월 영화관람권을 제공하는 메가박스 요금제 3종을 출시한다고 2일 밝혔다. 이 요금제는 24개월간 매월 메가박스 영화관람권 1매와 2천원 상당 콤보 할인 쿠폰 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT스카이라이프, '반려견 돌보미' 해피독TV 개방형 플랫폼서 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230502134115</link>
-            <guid>https://zdnet.co.kr/view/?no=20230502134115</guid>
-            <pubDate>Tue, 02 May 2023 05:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[KT스카이라이프는 반려견을 위한 채널인 해피독TV를 개방형 플랫폼을 통해 TV앱 형태로 출시했다고 2일 밝혔다. 해피독TV는 반려견의 무료함과 외부 소음 등으로 인한 스트레스를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
