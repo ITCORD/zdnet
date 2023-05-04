@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 19:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 20:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,6 +45,14 @@
             <guid>https://zdnet.co.kr/view/?no=20230504091341</guid>
             <pubDate>Thu, 04 May 2023 00:47:16 GMT</pubDate>
             <content:encoded><![CDATA[다음의 증상들이 있는지를 확인해보자. 만약 아침에 척추가 뻣뻣하여 머리를 숙이기 어렵다가 움직이면 호전된다. 허리 통증이 소염진통제를 먹으면 가라진다. 간헐적인 엉덩이 통증으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['마이 헬스웨이' 도입 앞두고 개인 정보 유출 막아라]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230503172328</link>
+            <guid>https://zdnet.co.kr/view/?no=20230503172328</guid>
+            <pubDate>Thu, 04 May 2023 20:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[의료산업의 디지털 전환이 가속화되면서 이전보다 편리한 의료 서비스를 누릴 수 있게 됐지만 각종 해킹으로 인한 환자들의 개인 정보 유출 등 사이버 범죄 사례가 끊이지 않고 있다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230502155921</guid>
             <pubDate>Tue, 02 May 2023 07:10:41 GMT</pubDate>
             <content:encoded><![CDATA[요즈마, SKT 등이 투자한 나녹스는 1일 (현지시간) 미국 FDA 510(K) 승인을 받았다고 발표했다. 이로써 주력 제품인 '나녹스클라우드'와 멀티소스 '나녹스아크'가 미국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금, 모바일 서비스 25종으로 강화…"이용자 편의성↑”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230502145455</link>
-            <guid>https://zdnet.co.kr/view/?no=20230502145455</guid>
-            <pubDate>Tue, 02 May 2023 06:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[국민연금공단이 지난 2010년 도입한 '공적연금 연계 정보시스템'의 재구축을 마치고 모바일 서비스의 확대 운영을 시작했다. 공적연금 연계 정보시스템은 국민연금과 직역연금 간 가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
