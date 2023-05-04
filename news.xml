@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 10:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 11:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["금융기관 접근 막은 '가상자산' 규제 재고할 때"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230504160449</link>
+            <guid>https://zdnet.co.kr/view/?no=20230504160449</guid>
+            <pubDate>Thu, 04 May 2023 11:08:41 GMT</pubDate>
+            <content:encoded><![CDATA["작년 말 국제결제은행(BIS) 산하기관인 바젤은행가독위원회(BCBS)은 은행이 전체 자산의 2% 미만까지 가상자산을 보유할 수 있게 하는 내용을 담은 규제안을 발표했다. 그럼...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/04/ecabf1b3a33c8dcb07d83cd503de9108-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌-스타허브, 통신업계 디지털전환 협업]]></title>
             <link>https://zdnet.co.kr/view/?no=20230504184200</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230504180633</guid>
             <pubDate>Thu, 04 May 2023 09:09:46 GMT</pubDate>
             <content:encoded><![CDATA[롯데정보통신이 5월 가정의 달을 맞이하여 직원들과 함께하는 다양한 사회공헌활동을 실시했다고 4일 밝혔다. 3일 버려진 장난감으로 플라스틱 문제를 해결하는 NGO '트루(TRU)...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/04/c8899d2f72476869c86092acd039b859-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사람인 HR연구소, AI 시대 HR 변화 방향 제시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230504155844</guid>
             <pubDate>Thu, 04 May 2023 07:09:12 GMT</pubDate>
             <content:encoded><![CDATA[정부가 난방비 지원대책 집행 점검에 나선다. 복지 사각지대 해소를 목표로 추가 지원대책 등을 수립한다. 산업통상자원부는 4일 천영길 에너지정책실장 주재로 무역보험공사에서 제3차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스오피스, 'WAPL 독스'에 AI 탑재...하반기 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230504150604</link>
-            <guid>https://zdnet.co.kr/view/?no=20230504150604</guid>
-            <pubDate>Thu, 04 May 2023 07:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스오피스가 하반기에 인공지능(AI) 기능을 접목한 'WAPL 독스'를 출시할 예정이라고 4일 밝혔다. WAPL 독스는 업무용 소프트웨어로 이뤄진 협업 플랫폼이다. 티맥스오피...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
