@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 04:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 탈탄소화를 위한 ‘친환경 데이터센터’]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230504132307</link>
+            <guid>https://zdnet.co.kr/view/?no=20230504132307</guid>
+            <pubDate>Thu, 04 May 2023 05:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[데이터센터는 많은 에너지를 소비한다. 데이터센터가 전 세계 온실가스 배출 총량의 4%를 차지한다는 분석도 있다. 따라서 전력소비, 냉각 비용, 공간 요구사항 등의 절감이 지속가능한 데이터센터 운영을 위한 핵심이 되고 있다. 지능적인 전원 분배 장치(PDU), 분기 회로 모니터링 및 컴퓨팅 기기 등의 기술적 진보가 일부 효율은 제공할 수 있지만, 데이터센터의 탄소 배출을 줄이고 폭증하는 비용을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/04/204fe2f290a82c980ebd8f79c544e307.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[딜로이트 테크 인사이트⑨] 미디어 새 기회 AVOD 성장세 주목]]></title>
             <link>https://zdnet.co.kr/view/?no=20230502111335</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;방사선 내성 반도체 칩은 작지만 충분히 스마트하고, 기존 반도체와는 달리 고준위 방사선 환경에 노출되어도 견딜 수 있는 특징이 있다. 올해 전 세계 방사선 내성 반도체 시장 규모는 매출 기준으로 약 15억 달러 이상이 될 전망이다. 전체 반도체 시장 규모 약6600억 달러에 비하면 미미한 수치일 수 있지만, 중요한 것은 매출 숫자가 아니라 방사능 내성 반도체가 보유하고 있는 확장성...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/03/07/2d8621cdc2fe3c32d4e1fd12092f0eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 12년 만의 한일 양자 방문…‘솔로몬의 지혜’ 기대한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230316154828</link>
-            <guid>https://zdnet.co.kr/view/?no=20230316154828</guid>
-            <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[16일 한일정상회담이 열린다고 한다. 지난 15일 일본 공영방송 NHK는 한국의 오늘을 소개한다며 아침부터 법석이었다. 각종 신문·방송에도 12년 만에 이뤄진 양자 차원의 정상 방문으로 일본을 방문한 한국 대통령과 관련한 온갖 뉴스를 쏟아냈다. 얼마 전까지만 해도 한국 때리기에 몰두하던 일본 언론은 언제 그랬냐는 듯 한국 띄우기에 여념이 없다. 호들갑 떨며 한국 대통령을 환영하는 모습이 고맙...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/16/1c8fd6be8d2663e20e6886820c075020.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
