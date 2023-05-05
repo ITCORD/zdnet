@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 02:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS의 AI 반도체 '아테나', AMD가 생산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230505120503</link>
+            <guid>https://zdnet.co.kr/view/?no=20230505120503</guid>
+            <pubDate>Fri, 05 May 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 인공지능(AI) 추론 전용 칩으로 개발중인 '아테나'를 AMD에서 생산할 것으로 알려졌다. 4일(현지시간) 블룸버그통신은 마이크로소프트가 AMD와 AI 반도체 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['폴드가 너와 함께 하길' 구글 폴더폰 티저 영상 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230505115323</link>
+            <guid>https://zdnet.co.kr/view/?no=20230505115323</guid>
+            <pubDate>Fri, 05 May 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 폴더블폰 '픽셀폴드'의 티저 영상을 공개했다. 구글 픽셀폴드는 오는 10일 열리는 개발자 컨퍼런스 '구글 I/O 2023'에서 공개될 예정이다. 4일(현지시간) 미국 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 챗GPT 후 AI 논문 공개 제한]]></title>
             <link>https://zdnet.co.kr/view/?no=20230505111302</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230504132307</guid>
             <pubDate>Thu, 04 May 2023 05:10:11 GMT</pubDate>
             <content:encoded><![CDATA[데이터센터는 많은 에너지를 소비한다. 데이터센터가 전 세계 온실가스 배출 총량의 4%를 차지한다는 분석도 있다. 따라서 전력소비, 냉각 비용, 공간 요구사항 등의 절감이 지속가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[명령어 한줄로 인트라넷의 PPT가 웹 페이지로 변신]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230504125019</link>
-            <guid>https://zdnet.co.kr/view/?no=20230504125019</guid>
-            <pubDate>Thu, 04 May 2023 04:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 셰어포인트에도 생성 AI 기반 '코파일럿'을 투입한다. 셰어포인트를 활용하면 회사 내부 프리젠테이션 파일을 이용해 웹사이트를 디자인할 수 있다. 지난 2일 마이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["가명정보 반출 시 법적 책임 우려로 데이터 확보 어려워"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230504124642</link>
-            <guid>https://zdnet.co.kr/view/?no=20230504124642</guid>
-            <pubDate>Thu, 04 May 2023 04:11:33 GMT</pubDate>
-            <content:encoded><![CDATA["가명정보 제3자 반출시 발생할 수 있는 개인정보 침해 등 법적 책임에 대해 우려하는 기관이 많아 적합한 데이터를 확보하는 데 어려움이 많습니다." 가명정보 제도에 대한 낮은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

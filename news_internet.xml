@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 02:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이모, 자율주행 택시 서비스 지역 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230505110947</link>
+            <guid>https://zdnet.co.kr/view/?no=20230505110947</guid>
+            <pubDate>Fri, 05 May 2023 03:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[웨이모가 미국에서 자율주행 택시 서비스 지역을 확대한다. 미국 IT매체 엔가젯은 4일(현지시간) 웨이모가 피닉스, 샌프란시스코에서 자율주행 택시 서비스 지역을 두 배 이상 늘린...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쏘카, 심야 쏘카존 편도 요금 반값 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230504171351</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230504075941</guid>
             <pubDate>Thu, 04 May 2023 00:46:19 GMT</pubDate>
             <content:encoded><![CDATA[카카오는 올해 1분기 매출이 전년 동기 대비 5% 늘어난 1조7천403억원, 영업이익은 55% 줄어든 711억원을 기록했다고 4일 밝혔다. 영업이익은 데이터 센터 다중화 작업에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지적되는 AI 위험성은 사실 인간의 문제다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230503153718</link>
-            <guid>https://zdnet.co.kr/view/?no=20230503153718</guid>
-            <pubDate>Wed, 03 May 2023 07:10:22 GMT</pubDate>
-            <content:encoded><![CDATA['AI 대부'로 불린다는 제프리 힌튼 캐나다 토론토대 교수가 화제의 인물이 됐다. 10년 넘게 다닌 회사인 구글을 그만두면서까지 인공지능(AI)의 위험성을 경고하고 나섰기 때문...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
