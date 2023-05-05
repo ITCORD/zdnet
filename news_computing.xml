@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 06:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 07:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해빗 해커, 도쿄서 열린 이더리움 글로벌 해커톤서 3개 부문 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230505151411</link>
+            <guid>https://zdnet.co.kr/view/?no=20230505151411</guid>
+            <pubDate>Fri, 05 May 2023 07:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 블록체인 프로젝트 해빗 해커(Habit Hacker)는 지난달 14~16일 일본 도쿄에서 열린 '이더리움 글로벌 해커톤'에 참가해 3개 부문에서 수상했다고 5일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS의 AI 반도체 '아테나', AMD가 생산]]></title>
             <link>https://zdnet.co.kr/view/?no=20230505120503</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230504111714</guid>
             <pubDate>Thu, 04 May 2023 05:10:11 GMT</pubDate>
             <content:encoded><![CDATA[중견 IT서비스 기업들이 지속된 불황 속에도 전년보다 높은 1분기 실적을 기록하며 성공적인 신사업 전환을 이뤘다. 각 기업들은 시스템통합(SI), 시스템유지보수(SM) 등 IT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 탈탄소화를 위한 '친환경 데이터센터']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230504132307</link>
-            <guid>https://zdnet.co.kr/view/?no=20230504132307</guid>
-            <pubDate>Thu, 04 May 2023 05:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[데이터센터는 많은 에너지를 소비한다. 데이터센터가 전 세계 온실가스 배출 총량의 4%를 차지한다는 분석도 있다. 따라서 전력소비, 냉각 비용, 공간 요구사항 등의 절감이 지속가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
