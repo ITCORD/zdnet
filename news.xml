@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 15:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 16:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["국립공원에서 아토피 등 환경성 질환 치유해요”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508001011</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508001011</guid>
+            <pubDate>Sun, 07 May 2023 16:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[환경부와 국립공원공단(이사장 송형근)은 아토피 피부염 등 환경성질환을 앓고 있는 어린이와 가족이 참여하는 '국립공원 건강나누리 캠프'를 운영한다고 7일 밝혔다. 건강나누리 캠프...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/08/c51d10563ee8d8aa0e29df3d5c544f3e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국표원, 위니아 딤채 노후 김치냉장고 안전점검]]></title>
             <link>https://zdnet.co.kr/view/?no=20230507233921</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230507231316</guid>
             <pubDate>Sun, 07 May 2023 15:09:38 GMT</pubDate>
             <content:encoded><![CDATA[지방에 공장을 짓는 기업에 제때 인력을 공급하는 프로그램이 가동된다. 산업통상자원부는 공장 신·증설을 앞둔 지방투자기업에 '한국형 퀵스타트(Quick Start) 프로그램'을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/06/08/86a8ea5b4d5aadb7b96a59586461218b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무협, 강원랜드·강원창조경제혁신센터와 오픈이노베이션 추진]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230507080712</guid>
             <pubDate>Sun, 07 May 2023 00:50:24 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 '트위터 서클' 시스템상 보안 오류 문제를 인정하고 수정 조치했다. 트위터 서클은 트위터 이용자가 원하는 지인 150명을 따로 선택해, 트윗을 공유할 수 있도록 한 비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 돌봄 긴급 구조 500건 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230507091635</link>
-            <guid>https://zdnet.co.kr/view/?no=20230507091635</guid>
-            <pubDate>Sun, 07 May 2023 00:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 인공지능(AI) 스피커 누구(NUGU) 기반 긴급 SOS 서비스와 연계된 구조 사례가 누적 500건을 돌파했다고 7일 밝혔다. SK텔레콤의 AI 돌봄 서비스는 고령...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
