@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 03:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 04:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["개인정보 유출, 내부 부주의 단속만 해선 안 돼…해킹 방지 조치도 해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230507122804</link>
+            <guid>https://zdnet.co.kr/view/?no=20230507122804</guid>
+            <pubDate>Sun, 07 May 2023 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[기업이 행해야 하는 개인정보 안전 조치 의무 위반 유형 중 개인정보 공개·유출 방지 조치 의무를 위반한 경우가 19%에 달하는 것으로 나타났다. 특히 개인정보 공개·유출 방지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파업 나선 할리우드 작가 "생성AI 악용 부당거래 반대"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230507055115</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230504134117</guid>
             <pubDate>Thu, 04 May 2023 05:10:11 GMT</pubDate>
             <content:encoded><![CDATA[IoT 및 양자 보안 전문 기업 노르마는 3일 서울 성수 본사 주변 송정제방길에서 환경정화 활동인 플로깅 캠페인을 진행했다. 플로깅이란 '이삭을 줍는다'는 스웨덴어 '플로카업(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리나 칸 FTC 위원장 "소수 기업의 AI 권력 남용 예의주시"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230504130742</link>
-            <guid>https://zdnet.co.kr/view/?no=20230504130742</guid>
-            <pubDate>Thu, 04 May 2023 05:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[리나 칸 미국 연방거래위원회(FTC) 위원장이 생성 인공지능(AI) 기술 제공 기업의 권력 남용을 주시하고 있다고 밝혔다. 리나 칸 위원장은 3일(현지시간) 뉴욕타임스 기고문에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
