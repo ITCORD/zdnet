@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 06:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한은 "CBDC, 금융 IT 시스템 15곳과 연계 시 정상 작동"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508095527</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508095527</guid>
+            <pubDate>Mon, 08 May 2023 07:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국은행은 모의 실험 결과 디지털화폐(CBDC)이 실제 금융 IT 시스템과 연계돼 정상적으로 동작하는 것을 확인했다고 8일 밝혔다. 한은은 기존 단일 클라우드 환경에 구축됐던 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전북 'XR소재⋅부품⋅장비 개발지원센터', 올해 11.4억원 기업지원 사업 나서]]></title>
             <link>https://zdnet.co.kr/view/?no=20230508140244</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230505115323</guid>
             <pubDate>Fri, 05 May 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[구글이 폴더블폰 '픽셀폴드'의 티저 영상을 공개했다. 구글 픽셀폴드는 오는 10일 열리는 개발자 컨퍼런스 '구글 I/O 2023'에서 공개될 예정이다. 4일(현지시간) 미국 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 챗GPT 후 AI 논문 공개 제한]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230505111302</link>
-            <guid>https://zdnet.co.kr/view/?no=20230505111302</guid>
-            <pubDate>Fri, 05 May 2023 02:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 내부 연구 성과의 논문 출판을 장려해온 구글이 지난 2월부터 인공지능(AI) 기술 논문의 공개를 제한해온 것으로 알려졌다. 오픈AI의 챗GPT 때문이다. 4일(현지시간)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

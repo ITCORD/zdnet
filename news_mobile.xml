@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 06:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 야심작 '픽셀폴드·픽셀8' 보니...'삼성 부품과 함께 했네']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508151724</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508151724</guid>
+            <pubDate>Mon, 08 May 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 구글이 출시하는 차세대 스마트폰 '픽셀 시리즈'에 반도체와 디스플레이 기술을 대량 공급한다. 구글은 오는 10일 미국 캘리포니아에서 개최되는 'I/O 2023'에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국로봇산업진흥원, 수요 맞춤형서비스로봇 개발과제 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230508135545</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230507043809</guid>
             <pubDate>Sun, 07 May 2023 00:51:22 GMT</pubDate>
             <content:encoded><![CDATA[지네 형상을 한 로봇이 등장했다. 로봇은 수 많은 다리로 긴 몸을 이끌며 복잡한 지형에서도 안정적으로 움직인다. 꿈틀거리는 모습은 마치 벌레를 연상시킨다. 조지아 공과대학 연구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데하이마트, 1분기 영업손실 258억원…적자 늘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230506055629</link>
-            <guid>https://zdnet.co.kr/view/?no=20230506055629</guid>
-            <pubDate>Sat, 06 May 2023 00:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[롯데하이마트가 지난 1분기 적자폭을 키웠다. 매출이 큰 폭으로 하락한 데 더해 악성재고를 처분하면서 발생한 일회성 비용이 실적에 영향을 미쳤다. 6일 공시에 따르면 롯데하이마트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
