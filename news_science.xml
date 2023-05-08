@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 08:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 09:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주도에서 우주 스타트업 꿈 쏘아올린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508163511</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508163511</guid>
+            <pubDate>Mon, 08 May 2023 09:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[페리지에어로스페이스가 제주도와 협력, 민간 해상 로켓 발사장을 구축한다. 페리지에어로스페이스(대표 신동윤)는 8일 제주도청에서 열린 '스페이스 데이(Space Day)' 행사에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/08/fa359fa848af5f1ec57049644b1ea255-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유연한 태양전지에 메모리까지 구현했다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230508120227</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230506235321</guid>
             <pubDate>Sun, 07 May 2023 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[빗살이 조금씩 강해지던 3일 오후, 전남 고흥 나로우주센터 발사체 종합조립동에 들어섰다. 100m에 이르는 긴 레일이 깔린 조립동 안쪽에 한국형 발사체 누리호가 1단과 2단이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/06/2d36e338e4835d13921ce75af79acc94-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전략 기술 위성, 우리 손으로 쏘아올린다···누리호 함께 하는 위성들]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230427071349</guid>
             <pubDate>Wed, 26 Apr 2023 23:11:51 GMT</pubDate>
             <content:encoded><![CDATA[우리나라와 미국이 양자과학기술 분야에서 전략적 협력을 강화한다. 이종호 과학기술정보통신부 장관과 아라티 프라바카 백악관 과학기술정책실(OSTP) 실장은 25일(현지시간) 미국 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 모델 학습 '가지치기'로 빛 이용 양자 컴퓨팅 신뢰도 높였다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230426101446</link>
-            <guid>https://zdnet.co.kr/view/?no=20230426101446</guid>
-            <pubDate>Wed, 26 Apr 2023 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 모델을 학습시킬 때 중요한 파라미터는 살리고 그렇지 않은 파라미터는 덜어내 모델을 가볍게 하는 '가지치기' 기법이 많이 쓰인다. 광자 집적회로에 이같은 가자치기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
