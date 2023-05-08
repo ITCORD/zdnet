@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 07:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 08:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗, 이화여대 축제 참여…NFT 지급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508164851</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508164851</guid>
+            <pubDate>Mon, 08 May 2023 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 코빗(대표 오세진)은 이화여대의 블록체인학회 '이화체인'과 함께 '아이스 체인' 행사 기념 대체불가토큰(NFT)를 발행하며 이화여대 축제에 참여한다고 8일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코드-웁살라시큐리티, '가상자산 지갑 위험 판단 시스템' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508164020</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508164020</guid>
+            <pubDate>Mon, 08 May 2023 08:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[코드(CODE)와 블록체인 규제기술 기업 웁살라시큐리티는 회원사들의 가상자산 입∙출금 시 외부 지갑 주소에 대한 위험도를 판단해 차단할 수 있는 블랙리스트 지갑 주소 탐지 시스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한은 "CBDC, 금융 IT 시스템 15곳과 연계 시 정상 작동"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230508095527</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230505151411</guid>
             <pubDate>Fri, 05 May 2023 07:09:00 GMT</pubDate>
             <content:encoded><![CDATA[국내 블록체인 프로젝트 해빗 해커(Habit Hacker)는 지난달 14~16일 일본 도쿄에서 열린 '이더리움 글로벌 해커톤'에 참가해 3개 부문에서 수상했다고 5일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS의 AI 반도체 '아테나', AMD가 생산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230505120503</link>
-            <guid>https://zdnet.co.kr/view/?no=20230505120503</guid>
-            <pubDate>Fri, 05 May 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 인공지능(AI) 추론 전용 칩으로 개발중인 '아테나'를 AMD에서 생산할 것으로 알려졌다. 4일(현지시간) 블룸버그통신은 마이크로소프트가 AMD와 AI 반도체 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['폴드가 너와 함께 하길' 구글 폴더블폰 티저 영상 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230505115323</link>
-            <guid>https://zdnet.co.kr/view/?no=20230505115323</guid>
-            <pubDate>Fri, 05 May 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 폴더블폰 '픽셀폴드'의 티저 영상을 공개했다. 구글 픽셀폴드는 오는 10일 열리는 개발자 컨퍼런스 '구글 I/O 2023'에서 공개될 예정이다. 4일(현지시간) 미국 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
