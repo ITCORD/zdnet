@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 19:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 20:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓·덴마크 의료진, 디지털 노하우 공유 미래협력 물꼬]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508201506</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508201506</guid>
+            <pubDate>Mon, 08 May 2023 20:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이지만, '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/08/35e93511b1e4d4b0ebf5cde04fcf5b19-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[욕설·고인모독 논란 현대·CJ…방심위 중징계  피한 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20230508145449</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230508181407</guid>
             <pubDate>Mon, 08 May 2023 10:10:37 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 9일 '2023년도 지식서비스산업 비즈니스 아이디어(BI) 연계형 연구개발 과제'를 공고한다. BI 연계형 R&amp;D는 창의적이고 도전적인 제조서비스 모델 창출을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/08/edb632b1db15ed979d4cda399dcb2f5d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[수서신세계백화점, 2024년 10월 착공·2029년 완공]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230508152722</guid>
             <pubDate>Mon, 08 May 2023 08:12:40 GMT</pubDate>
             <content:encoded><![CDATA[미국 환경보호국(EPA)에 따르면 2019년에 미국에서 버려진 PC는 총 6천350만 대이며 데스크톱PC와 노트북의 비율은 거의 비슷한 수준이다. 그러나 이 중 재활용된 PC는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코드-웁살라시큐리티, '가상자산 지갑 위험 판단 시스템' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230508164020</link>
-            <guid>https://zdnet.co.kr/view/?no=20230508164020</guid>
-            <pubDate>Mon, 08 May 2023 08:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[코드(CODE)와 블록체인 규제기술 기업 웁살라시큐리티는 회원사들의 가상자산 입∙출금 시 외부 지갑 주소에 대한 위험도를 판단해 차단할 수 있는 블랙리스트 지갑 주소 탐지 시스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
