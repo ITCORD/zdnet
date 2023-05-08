@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 04:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유연한 태양전지에 메모리까지 구현했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230508120227</link>
+            <guid>https://zdnet.co.kr/view/?no=20230508120227</guid>
+            <pubDate>Mon, 08 May 2023 05:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[메모리 기능을 가진 태양전지를 국내 연구진이 개발했다. 지능형 태양광 발전 모듈이나 IoT 등에 활용이 기대된다. 고려대학교(총장 김동원)는 전기전자공학부 김태근 교수 연구팀이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/08/9c4defe49f42ad8b9e95c9e08819c4cd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[르포] 세번째 비행  앞둔 누리호, 고도화된 한국형 발사체로 우주 또 간다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230506235321</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230507074114</guid>
             <pubDate>Sun, 07 May 2023 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[지난해 6월, 누리호는 성공적으로 이륙해 목표 궤도에 성능검증위성을 띄움으로써 한국형 발사체 시대를 열었다. 앞으로 누리호는 2027년까지 4번 더 발사하며 인공위성을 투입하는...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/06/61e06d034f0d52de557bda1fb5b20b82-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한미 '기술 동맹' 후속 협력 계획 짠다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230426101446</guid>
             <pubDate>Wed, 26 Apr 2023 08:17:50 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 모델을 학습시킬 때 중요한 파라미터는 살리고 그렇지 않은 파라미터는 덜어내 모델을 가볍게 하는 '가지치기' 기법이 많이 쓰인다. 광자 집적회로에 이같은 가자치기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보령, 미 우주기업 액시엄스페이스와 합작사 설립]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230426121150</link>
-            <guid>https://zdnet.co.kr/view/?no=20230426121150</guid>
-            <pubDate>Wed, 26 Apr 2023 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[보령이 미국 액시엄스페이스와 우주 사업 공동 추진을 위한 합작사 설립 계약을 체결했다고 26일 밝혔다. 액시엄스페이스는 민간 우주정거장 건설 등 우주 인프라를 제공하는 기업이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
