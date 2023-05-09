@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 07:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인피니언 "전기차 SiC 반도체 1위할 것…생산량 10배 확대"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230509115600</link>
+            <guid>https://zdnet.co.kr/view/?no=20230509115600</guid>
+            <pubDate>Tue, 09 May 2023 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[독일 반도체 업체 인피니언테크놀로지스가 차세대 전기자동차용 반도체 재료로 꼽히는 탄화규소(SiC·실리콘카바이드) 제품 시장에서도 세계 1위를 차지하겠다고 밝혔다. SiC 전력 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC "세계 반도체 매출 30% 차지...2나노 자신 있어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230509095732</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230503174013</guid>
             <pubDate>Wed, 03 May 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스는 연차 휴가 소진을 독려하고 휴일 근무를 자제해 반도체 불황을 극복하자는 구성원 의견을 받아들여 이달부터 실행한다고 3일 밝혔다. 기업 문화를 개선해 회사 운영 효...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1분기 세계 반도체 웨이퍼 출하량 11% 줄어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230503163002</link>
-            <guid>https://zdnet.co.kr/view/?no=20230503163002</guid>
-            <pubDate>Wed, 03 May 2023 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[1분기 세계에서 출하된 반도체 실리콘 원판(Wafer·웨이퍼) 면적이 줄었다. 국제반도체장비재료협회(SEMI)는 1분기 세계에서 출하된 실리콘 웨이퍼 면적이 32억6천500만 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
