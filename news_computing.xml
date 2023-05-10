@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 12:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 14:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고학수 위원장 "급변하는 모빌리티, 규제보다 유연성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230510191015</link>
+            <guid>https://zdnet.co.kr/view/?no=20230510191015</guid>
+            <pubDate>Wed, 10 May 2023 14:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[“인공지능(AI), 자율주행 등을 첨단 기술이 결합된 모빌리티는 국가의 미래 경쟁력을 좌우하는 핵심 산업이다. 특히 급격하게 빠른 발전 속도로 인해 법만으로 규제하는 것은 오히...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KOSA, 모빌리티 직무분석 연구보고서 발간]]></title>
             <link>https://zdnet.co.kr/view/?no=20230510204119</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230510084515</guid>
             <pubDate>Wed, 10 May 2023 02:00:45 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 생성 AI 기능을 오피스 제품군에 접목한 '마이크로소프트365 코파일럿'의 조기접근 프로그램을 확대한다. 9일(현지시간) 미국 지디넷에 따르면, 마이크로소프트는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마드라스체크, 글로벌 협업툴 '모닝메이트' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230510095704</link>
-            <guid>https://zdnet.co.kr/view/?no=20230510095704</guid>
-            <pubDate>Wed, 10 May 2023 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[협업툴 '플로우'를 서비스하는 마드라스체크가 자사 협업툴의 글로벌 버전 '모닝메이트'를 출시했다고 10일 밝혔다. 모닝메이트는 플로우에 대한 글로벌 수요가 증가함에 따라 해외 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
