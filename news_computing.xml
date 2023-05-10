@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 22:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 23:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨이랩 "언노운 탐험···데이터와 AI로 고객 및 산업발전 기여"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230511075631</link>
+            <guid>https://zdnet.co.kr/view/?no=20230511075631</guid>
+            <pubDate>Wed, 10 May 2023 23:10:42 GMT</pubDate>
+            <content:encoded><![CDATA["언노운(unknown) 탐험은 지식(날리지) 비즈니스에서 새로운 시장을 개척하는 일입니다. 씨이랩의 언노운 탐험은 데이터에 집중하고 데이터로 컨텍스트(context)를 만들어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고학수 위원장 "급변하는 모빌리티, 규제보다 유연성"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230510191015</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230510102411</guid>
             <pubDate>Wed, 10 May 2023 02:00:45 GMT</pubDate>
             <content:encoded><![CDATA[지란지교소프트가 이달 내 자사 웹에디터 '나모 크로스에디터'에 챗GPT 기술을 적용한다고 10일 밝혔다. 나모 크로스에디터는 다양한 접속 환경과 OS 지원을 통해 안정적인 콘텐...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트365 코파일럿, 조기 접근 프로그램 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230510084515</link>
-            <guid>https://zdnet.co.kr/view/?no=20230510084515</guid>
-            <pubDate>Wed, 10 May 2023 02:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 생성 AI 기능을 오피스 제품군에 접목한 '마이크로소프트365 코파일럿'의 조기접근 프로그램을 확대한다. 9일(현지시간) 미국 지디넷에 따르면, 마이크로소프트는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
