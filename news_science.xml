@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 06:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] NASA가 개발한 뱀 로봇 "무섭게 생겼네"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230510143920</link>
+            <guid>https://zdnet.co.kr/view/?no=20230510143920</guid>
+            <pubDate>Wed, 10 May 2023 06:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[미국 항공우주국(NASA) 제트추진연구소(JPL) 연구진이 얼음 많은 지표면 아래 좁은 틈도 쉽게 미끄지며 이동할 수 있는 뱀 모양 로봇을 개발했다고 IT매체 기즈모도가 9일(...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/10/8ee181cfb545b7323afae55aa0a8089c.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이종호 장관 "기술 패권경쟁 시대, 반도체 중장기 지원 고민"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230509151957</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230509141843</guid>
             <pubDate>Tue, 09 May 2023 07:10:53 GMT</pubDate>
             <content:encoded><![CDATA[현재 D램에 비해 처리 속도는 빠르고 전력 소모는 적은 강유전체 기반 반도체 소자를 2028년까지 개발한다. 메모리 기술력을 활용, 연산과 저장을 통합한 PIM 구조 반도체를 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/10/182d70a0bef48a5c371e6da685b05c3b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제임스웹, 태양계 너머에서 최초로 소행성대 이미지 포착 [우주로 간다]]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230428221711</guid>
             <pubDate>Fri, 28 Apr 2023 16:14:40 GMT</pubDate>
             <content:encoded><![CDATA[미국을 방문 중인 윤석열 대통령이 첨단 바이오의 '성지' 보스턴에서 바이오 석학들을 만났다. 윤 대통령은 28일(현지시간) 보스턴에 있는 MIT를 방문, 'MIT 디지털바이오 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 유전자 가위, AI로 안전하게 설계한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230428150212</link>
-            <guid>https://zdnet.co.kr/view/?no=20230428150212</guid>
-            <pubDate>Fri, 28 Apr 2023 15:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 유전자 가위 기술인 '프라임 편집기'를 정밀하고 안전하게 설계하는 인공지능(AI) 모델을 국내 연구진이 개발했다. 빅데이터 분석을 통해 프라임 편집의 효율이 결정되는 원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
