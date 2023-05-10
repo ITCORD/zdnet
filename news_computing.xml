@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 23:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 00:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴 "현금성 자산으로 SaaS·AI 사업에 집중 투자”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230510091256</link>
+            <guid>https://zdnet.co.kr/view/?no=20230510091256</guid>
+            <pubDate>Wed, 10 May 2023 00:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[한글과컴퓨터(대표 변성준, 김연수, 이하 한컴)는 2023년 상반기 주주서한을 발송했다고 10일 밝혔다. 한컴은 2021년 첫 주주서한을 발송했으며, 이번이 세 번째 주주서한이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SAS "산업 특화솔루션 개발에 3년간 10억 달러 투자"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230510063453</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[페이코인, 싱가폴 거래소 '비트겟' 상장]]></title>
+            <title><![CDATA[페이코인, 싱가포르 거래소 '비트겟' 상장]]></title>
             <link>https://zdnet.co.kr/view/?no=20230509173754</link>
             <guid>https://zdnet.co.kr/view/?no=20230509173754</guid>
             <pubDate>Tue, 09 May 2023 09:09:57 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230509090513</guid>
             <pubDate>Tue, 09 May 2023 02:03:17 GMT</pubDate>
             <content:encoded><![CDATA[구글이 10일 개막하는 연례 개발자 행사 '구글 I/O' 행사에서 생성 AI 업데이트를 대거 발표할 것으로 전망됐다. 8일(현지시간) CNBC에 따르면, 구글은 10일 온라인에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN두레이, 국정원 보안성 검토 통과…"공공기관 업무망 도입 추진"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230509095536</link>
-            <guid>https://zdnet.co.kr/view/?no=20230509095536</guid>
-            <pubDate>Tue, 09 May 2023 02:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[NHN두레이는 공공기관 업무망에 협업 솔루션 '두레이'를 공급하기 위한 국정원의 보안성 검토를 통과했다고 9일 밝혔다. NHN두레이는 공공기관 업무망에 SaaS 기반의 협업 솔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
