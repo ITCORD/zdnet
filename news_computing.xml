@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 03:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 04:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔-BCG, 기업용 생성형 AI 구현 위한 협업]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230511125128</link>
+            <guid>https://zdnet.co.kr/view/?no=20230511125128</guid>
+            <pubDate>Thu, 11 May 2023 04:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 11일 보스턴컨설팅그룹(BCG)과 기업용 생성형 AI 개발을 위해 협력한다고 밝혔다. BCG는 인텔 제온 스케일러블 프로세서와 AI 연산을 가속하는 하바나 가우디 가속기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK(주) C&C, 생성AI 디지털 혁신 방안 제시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230511122000</link>
+            <guid>https://zdnet.co.kr/view/?no=20230511122000</guid>
+            <pubDate>Thu, 11 May 2023 04:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 윤풍영)는 기업의 생성AI 적용 방안과 실사례를 직접 확인해 볼 수 있는 '생성형 AI 토털 서비스 론칭 웨비나'를 개최한다고 11일 밝혔다. 오는 17일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에스넷시스템, 직무 역량 강화 사내교육 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230511114836</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230510144828</guid>
             <pubDate>Wed, 10 May 2023 06:15:59 GMT</pubDate>
             <content:encoded><![CDATA[비아이매트릭스는 김범재 전 SAP 코리아 부사장을 대표이사로 신규 선임했다고 11일 밝혔다. 비아이매트릭스는 사업 부문별 전문성 및 효율성을 강화하여, 급속도로 커지고 있는 국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 사람처럼 학습하는 AI 모델 '이미지바인드' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230510114302</link>
-            <guid>https://zdnet.co.kr/view/?no=20230510114302</guid>
-            <pubDate>Wed, 10 May 2023 06:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 사람처럼 학습하는 다감각 인공지능(AI) 모델을 공개했다. 9일 엔가젯 등 외신에 따르면 메타는 6종의 데이터를 동시에 입력 받아 분석 및 학습할 수 있는 오픈소스 AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이오링크, 1분기 역대 최대 매출 134억…"일본 매출 호조"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230510143839</link>
-            <guid>https://zdnet.co.kr/view/?no=20230510143839</guid>
-            <pubDate>Wed, 10 May 2023 06:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[파이오링크가 10일 공시를 통해 올 1분기 매출이 전년 동기 대비 27% 가량 증가한 약 134억원을 기록했으며, 영업이익은 21% 증가한 약 8억원을 달성했다고 10일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
