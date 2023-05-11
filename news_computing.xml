@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 07:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 08:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['테더' 승승장구…1분기 순이익 2조원 육박]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230511153648</link>
+            <guid>https://zdnet.co.kr/view/?no=20230511153648</guid>
+            <pubDate>Thu, 11 May 2023 08:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[시가총액 1위 스테이블코인 테더가 올해 1분기 2조원에 육박하는 순이익을 내는 등 좋은 실적을 올렸다. 한때 준비금 정보가 불투명하다는 지적을 받으면서 자금이 이탈하기도 했으나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박윤규 차관 "AI 윤리·신뢰성 확보, 기업 생존과 직결"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230511140853</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230511091654</guid>
             <pubDate>Thu, 11 May 2023 02:01:00 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 2028년부터 핵융합 발전소를 통해 전력을 공급받는다. 10일(현지시각) 테크크런치 등 외신에 따르면 헬리온 에너지(이하 헬리온)는 마이크로소프트가 2028년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 차세대 LLM 'PaLM 2' 공개…'원조의 진화']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230511095644</link>
-            <guid>https://zdnet.co.kr/view/?no=20230511095644</guid>
-            <pubDate>Thu, 11 May 2023 02:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 차세대 대규모언어모델(LLM) 'PaLM 2(Pathways Language Model)'를 공개했다. 대화형 AI 서비스 '바드'는 향후 파운데이션 모델을 현 LaMD...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
