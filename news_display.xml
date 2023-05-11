@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TI, 절연게이트드라이버 출시…"전기차 충전하면 11㎞ 더 주행"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230511142628</link>
+            <guid>https://zdnet.co.kr/view/?no=20230511142628</guid>
+            <pubDate>Thu, 11 May 2023 06:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체 회사 텍사스인스트루먼트(TI)는 전기자동차 주행거리를 늘릴 수 있는 절연 게이트 드라이버 신제품 'UCC5880-Q1'을 선보였다. 마크 응 TI 전기차·파워트레인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울반도체, 1분기 138억 적자…"하반기 개선"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230511144241</link>
+            <guid>https://zdnet.co.kr/view/?no=20230511144241</guid>
+            <pubDate>Thu, 11 May 2023 06:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[광반도체 기업 서울반도체는 11일 연결 재무제표 기준 1분기 영업손실이 138억원으로 잠정 집계됐다고 공시했다. 1년 전보다 적자 규모가 68억원 커졌다. 매출액은 2천245억...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울바이오시스, 1Q 198억 적자…"2Q 와이캅 매출↑"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230511101447</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230509115600</guid>
             <pubDate>Tue, 09 May 2023 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[독일 반도체 업체 인피니언테크놀로지스가 차세대 전기자동차용 반도체 재료로 꼽히는 탄화규소(SiC·실리콘카바이드) 제품 시장에서도 세계 1위를 차지하겠다고 밝혔다. SiC 전력 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC "세계 반도체 매출 30% 차지...2나노 자신 있어"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230509095732</link>
-            <guid>https://zdnet.co.kr/view/?no=20230509095732</guid>
-            <pubDate>Tue, 09 May 2023 06:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[세계 1위 파운드리(위탁생산) 업체 대만 TSMC가 지난해 메모리 칩을 제외한 전 세계 IC 산업 총 매출에서 30% 비중을 차지한 것으로 나타났다. 이는 세계 반도체 시장에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 지능형 모션센서 지원 툴체인·SW 패키지 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230509144012</link>
-            <guid>https://zdnet.co.kr/view/?no=20230509144012</guid>
-            <pubDate>Tue, 09 May 2023 06:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 9일 지능형 초소형정밀기계기술(MEMS) 관성측정장치(IMU)인 'ISM330IS'와 'LSM6DSO16IS'에 내장된 모션센서 프로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
