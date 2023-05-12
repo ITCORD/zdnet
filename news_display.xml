@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 10:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 11:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB하이텍, 1Q 영업익 830억…"파운드리 2위 수익률"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230512185701</link>
+            <guid>https://zdnet.co.kr/view/?no=20230512185701</guid>
+            <pubDate>Fri, 12 May 2023 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[DB하이텍은 12일 연결 재무제표 기준 영업이익이 지난해 같은 기간보다 54.29% 줄어든 830억원으로 집계됐다고 공시했다. 매출액도 2천982억원으로 24.52% 감소했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경계현 삼성전자 사장 "AI에서 뒤떨어져서는 경쟁하기 어려운 세상"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230512161520</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230510102805</guid>
             <pubDate>Wed, 10 May 2023 02:01:44 GMT</pubDate>
             <content:encoded><![CDATA[국내 AI 반도체 기업 딥엑스(대표 김녹원)가 비전 응용 엣지 분야 최대 전시회인 '임베디드 비전 서밋 2023'에서 메인 전시 업체로 참가하며 글로벌 시장 공략을 가속화한다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈엣지, 노바칩스 SSD 컨트롤러에 PHY IP 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230510102428</link>
-            <guid>https://zdnet.co.kr/view/?no=20230510102428</guid>
-            <pubDate>Wed, 10 May 2023 02:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계자산(IP) 업체 오픈엣지테크놀로지가 노바칩스의 SSD(솔리드 스테이트 드라이브) 컨트롤러 SoC(시스템온칩)에 PHY IP를 공급한다. 노바칩스의 SSD 컨트롤러에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
