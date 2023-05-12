@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, SKT 28㎓ 주파수 할당취소 사전통지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230512111053</link>
+            <guid>https://zdnet.co.kr/view/?no=20230512111053</guid>
+            <pubDate>Fri, 12 May 2023 03:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부가 SK텔레콤에 5G 28㎓ 주파수 종료시점 이행점검을 실시하고 할당취소 처분을 사전 통지했다고 12일 밝혔다. 과기정통부는 지난해 말 2018년 5G 주파수 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 친환경 케이블 보빈 도입한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230512092934</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230510095112</guid>
             <pubDate>Wed, 10 May 2023 03:10:25 GMT</pubDate>
             <content:encoded><![CDATA[KT가 중소벤처기업부, 한국표준협회, 한국전자기술연구원과 함께 시스템반도체 및 로봇 분야 초격차 스타트업 육성을 위해 올해 처음 시행되는 초격차 스타트업 1000+ 혁신분야 창...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 경기방송 재허가 관련 방통위 압수수색]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230510111101</link>
-            <guid>https://zdnet.co.kr/view/?no=20230510111101</guid>
-            <pubDate>Wed, 10 May 2023 02:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 경기방송 재허가 심사 조작 의혹으로 방송통신위원회 압수수색에 나섰다. 서울북부지검 형사5부(박경섭 부장검사)는 10일 오전 정부과천종합청사 내 방통위 사무실과 수원시청에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
