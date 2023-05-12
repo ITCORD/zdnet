@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 00:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 02:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 자율주행차 시장 겨냥 '이미지센서' 기술 알린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230512093122</link>
+            <guid>https://zdnet.co.kr/view/?no=20230512093122</guid>
+            <pubDate>Fri, 12 May 2023 01:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 세계 최대 자율주행 및 자동차 센서 전시회에 참가해 차량용 이미지센서 기술을 알렸다. 삼성전자는 모바일용 이미지센서 시장에서는 1위 소니에 이어 선두를 달리고 있지만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TI, 절연게이트드라이버 출시…"전기차 충전하면 11㎞ 더 주행"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230511142628</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230509153057</guid>
             <pubDate>Tue, 09 May 2023 08:12:56 GMT</pubDate>
             <content:encoded><![CDATA[진입장벽이 높은 글로벌 반도체 설계자산(IP) 시장에서 국내 기업이 두각을 나타내기 시작했다. 2017년 12월 설립된 AI 반도체 IP 업체 오픈엣지테크놀로지는 6년 만에 국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언 "전기차 SiC 반도체 1위할 것…생산량 10배 확대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230509115600</link>
-            <guid>https://zdnet.co.kr/view/?no=20230509115600</guid>
-            <pubDate>Tue, 09 May 2023 07:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[독일 반도체 업체 인피니언테크놀로지스가 차세대 전기자동차용 반도체 재료로 꼽히는 탄화규소(SiC·실리콘카바이드) 제품 시장에서도 세계 1위를 차지하겠다고 밝혔다. SiC 전력 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
