@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 06:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 07:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["데이터 분석 속도, 기업 성과 좌우"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230515153216</link>
+            <guid>https://zdnet.co.kr/view/?no=20230515153216</guid>
+            <pubDate>Mon, 15 May 2023 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA["SAS는 기업 생산성 향상을 주요 목표로 뒀습니다. 특히 'SAS 바이야'는 다른 데이터분석 플랫폼보다 빠른 속도를 갖췄습니다. 기업은 더 저렴한 클라우드 비용으로 목표 달성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지멘스, 가트너 매직 쿼드런트 6회 연속 MES 리더]]></title>
             <link>https://zdnet.co.kr/view/?no=20230515135152</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230512140259</guid>
             <pubDate>Fri, 12 May 2023 05:09:36 GMT</pubDate>
             <content:encoded><![CDATA[국가정보원은 국가보안기술연구소와 합동으로 '2023 사이버공격방어대회(CCE 2023)'를 개최한다고 12일 밝혔다. 국정원이 주최하는 '사이버공격방어대회'는 2017년부터 사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠로, 케이카 적정 중고차 판매가 예측 AI서비스 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512135212</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512135212</guid>
-            <pubDate>Fri, 12 May 2023 05:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[엠로(대표 송재민)가 '케이카(K Car)'와 시장 변화에 선제적으로 대응할 수 있도록 인공지능(AI) 기반 중고차 판매 소요 기간(판매 확률) 및 적정 판매 가격 예측 서비스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
