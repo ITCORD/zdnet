@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 19:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 20:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 로봇 메카 덴마크 오덴세의 의료로봇 눈길]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230515172701</link>
+            <guid>https://zdnet.co.kr/view/?no=20230515172701</guid>
+            <pubDate>Mon, 15 May 2023 20:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이지만, '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/15/82e292da54c5428906e6cbd0e567aebc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환경부, 전기차 폐배터리 재활용 활성화…환경규제 개선 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20230515212838</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230515190103</guid>
             <pubDate>Mon, 15 May 2023 13:13:38 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드와 넷플릭스가 망 이용대가 산정 방식을 두고 공방을 이어갔다. SK브로드밴드는 지난 3월29일 재판에서 제시한 유사사례비교법을 활용해 대가를 산정할 수 있다는 주장...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/04/14/sun1108_TCDhFyEkMI0G-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쌍용정보통신, 2023년 1분기 매출 1069억…흑자전환]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230515173007</guid>
             <pubDate>Mon, 15 May 2023 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[국내 기술사업화 분야 대표 지원기관인 한국산업기술진흥원과 연구개발특구진흥재단이 우수 기술을 보유한 기술창업 기업 사업화 성과 창출을 위해 손을 잡았다. 한국산업기술진흥원(KIA...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[수원대-솔브레인-수원과학대, 산학협력 MOU]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230515172905</link>
-            <guid>https://zdnet.co.kr/view/?no=20230515172905</guid>
-            <pubDate>Mon, 15 May 2023 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[수원대학교(총장 임경숙)와 수원과학대학교는 솔브레인과 반도체 분야 인재양성 및 정부지원 사업에 협력하기 위한 업무협약을 15일 오후 수원대학교 본관 대회의실에서 체결했다고 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
