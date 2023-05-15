@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 04:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 05:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지멘스, 가트너 매직 쿼드런트 6회 연속 MES 리더]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230515135152</link>
+            <guid>https://zdnet.co.kr/view/?no=20230515135152</guid>
+            <pubDate>Mon, 15 May 2023 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어(지멘스 DISW)가 2023년 가트너 매직 쿼드런트 제조 실행 시스템(MES) 부문 리더로 선정됐다고 15일 밝혔다. 이로써 6회 연속으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아쿠아시큐리티, 공급망 공격 예방하는 무결성 스캐닝 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230515130742</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230512135212</guid>
             <pubDate>Fri, 12 May 2023 05:09:36 GMT</pubDate>
             <content:encoded><![CDATA[엠로(대표 송재민)가 '케이카(K Car)'와 시장 변화에 선제적으로 대응할 수 있도록 인공지능(AI) 기반 중고차 판매 소요 기간(판매 확률) 및 적정 판매 가격 예측 서비스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델 테크놀로지스, 파워스토어·스토리지 성능향상 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512133348</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512133348</guid>
-            <pubDate>Fri, 12 May 2023 05:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[델 테크놀로지스가 멀티 클라우드 전환을 위해 스토리지 포트폴리오 전반에 걸쳐, 사이버 복원력, 에너지 효율성 및 자동화를 향상시킨 소프트웨어(SW) 업데이트를 진행했다고 12일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
