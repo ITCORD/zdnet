@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 08:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 09:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 클라우드, 생성AI로 보안 생태계 장벽 낮춘다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230515174513</link>
+            <guid>https://zdnet.co.kr/view/?no=20230515174513</guid>
+            <pubDate>Mon, 15 May 2023 09:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[“전 세계적으로 급증하는 사이버공격으로 인해 인력만으로 보호가 불가능한 상황이다. 이를 극복하기 위해선 대규모 언어모델(LLM)과 생성AI로 보편적이고 수준 높은 보안 서비스가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[영림원소프트랩, 1분기 매출 126억원···공공 수주 상반기 목표 달성]]></title>
             <link>https://zdnet.co.kr/view/?no=20230515160418</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230512163032</guid>
             <pubDate>Fri, 12 May 2023 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[lT 통합 성능관리 전문기업 엑셈(대표 조종암)은 2023년 1분기 실적을 12일 공시했다. 연결 기준 1분기 매출액은 82억 5천만 원이고, 영업손실 25억 3천만 원, 당기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸, 신규 가입자에 2만원 준다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512162236</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512162236</guid>
-            <pubDate>Fri, 12 May 2023 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 빗썸(대표 이재원)은 오는 31일까지 빗썸 최초 회원가입자 중 NH농협은행 계좌를 등록하고, 연결된 계좌에서 빗썸으로 1원 이상을 입금 시 2만원을 주는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
