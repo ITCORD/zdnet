@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플표 폴더블, 언제 베일벗나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230515110454</link>
+            <guid>https://zdnet.co.kr/view/?no=20230515110454</guid>
+            <pubDate>Mon, 15 May 2023 03:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 폴더블 아이폰과 폴더블 아이패드의 시제품을 내부적으로 테스트하고 있다는 소식은 오래 전부터 흘러나왔으나, 아직 제품 출시 관련 소식은 들리지 않고 있다. IT매체 나인투...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 비스포크 인피니트 라인 '무풍 시스템에어컨' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230515082748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230514094404</guid>
             <pubDate>Sun, 14 May 2023 02:05:23 GMT</pubDate>
             <content:encoded><![CDATA[에너지 소비효율 1등급 무풍에어컨이 인기를 끌면서 삼성전자의 1분기 국내 에어컨 시장 점유율이 높아졌다. 시장조사기관 GfK에 따르면, 삼성전자 1분기 국내 에어컨 시장점유율은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경계현 삼성전자 사장 "AI에서 뒤떨어져서는 경쟁하기 어려운 세상"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512161520</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512161520</guid>
-            <pubDate>Fri, 12 May 2023 08:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[경계현 삼성전자 DS부문장 사장이 "AI(인공지능)에서 뒤떨어져서는 경쟁하기 어려운 세상이 코앞"이라고 언급하며 AI 기술 개발의 중요성을 강조했다. 경계현 사장은 12일 사회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
