@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 00:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 02:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기, 전기차 33nF·10µF 고용량 MLCC 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230516100101</link>
+            <guid>https://zdnet.co.kr/view/?no=20230516100101</guid>
+            <pubDate>Tue, 16 May 2023 02:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기는 16일 전기자동차용 적층세라믹캐패시터(MLCC) 고용량 신제품을 개발했다고 밝혔다. MLCC는 전자제품 회로에 전류가 일정하게 흐르도록 제어하는 부품이다. 자동차에는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[키옥시아·웨스턴디지털, 합병 추진 가속화...낸드 1위 삼성 '긴장']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230516091257</link>
+            <guid>https://zdnet.co.kr/view/?no=20230516091257</guid>
+            <pubDate>Tue, 16 May 2023 02:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[메모리 업체 일본 키옥시아와 미국 웨스턴디지털(WD)이 합병 협상을 적극 추진하고 있다는 소식이 나온다. 양사가 합병할 경우 시장 점유율이 낸드플래시 업계 1위인 삼성전자와 비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스 자회사 솔리다임, 노종원·딕슨 각자대표 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230516084524</link>
@@ -44,7 +60,7 @@
             <link>https://zdnet.co.kr/view/?no=20230515150709</link>
             <guid>https://zdnet.co.kr/view/?no=20230515150709</guid>
             <pubDate>Mon, 15 May 2023 08:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 회사들이 향후 100조원 규모의 시장을 형성할 곳으로 기대되는 차량용 반도체 시장에서 각축전을 벌이고 있다. 전기자동차와 자율주행차가 보급돼 차량에 들어가는 반도체가 늘...]]></content:encoded>
+            <content:encoded><![CDATA[반도체 회사들이 향후 100조원 규모의 시장을 형성할 것으로 기대되는 차량용 반도체 시장에서 각축전을 벌이고 있다. 전기자동차와 자율주행차가 보급돼 차량에 들어가는 반도체가 늘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230512104719</guid>
             <pubDate>Fri, 12 May 2023 02:29:24 GMT</pubDate>
             <content:encoded><![CDATA[일본 반도체 장비 업체 도쿄일렉트론(TEL)은 순이익이 사상 최고치에서 3분의 1 이상 줄어들 것으로 11일(현지시간) 내다봤다. 반도체 칩을 만드는 고객들이 신규 공장 투자를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥엑스, '제58회 발명의 날' 단체 부문 최고상 '대통령 표창' 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512105904</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512105904</guid>
-            <pubDate>Fri, 12 May 2023 02:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[딥엑스(대표 김녹원)가 12일 서울 코엑스에서 열린 '제58회 발명의 날' 기념식에서 단체 부문 최고상인 '발명 장려 유공' 대통령 표창을 수상했다. AI 반도체 기업이 발명의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 자율주행차 시장 겨냥 '이미지센서' 기술 알린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512093122</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512093122</guid>
-            <pubDate>Fri, 12 May 2023 01:59:30 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 세계 최대 자율주행 및 자동차 센서 전시회에 참가해 차량용 이미지센서 기술을 알렸다. 삼성전자는 모바일용 이미지센서 시장에서는 1위 소니에 이어 선두를 달리고 있지만...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
