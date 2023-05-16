@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 02:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 03:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, AI·슈퍼컴퓨터용 D램 '샤인볼트·플레임볼트' 개발 중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230516102425</link>
+            <guid>https://zdnet.co.kr/view/?no=20230516102425</guid>
+            <pubDate>Tue, 16 May 2023 03:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 AI·슈퍼컴퓨터 시장을 겨냥한 차세대 차세대 고대역폭 메모리(HBM) D램 제품명을 '샤인볼트'와 '플레임볼트'로 준비 중인 것으로 파악된다. 16일 업계에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, 전기차 33nF·10µF 고용량 MLCC 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230516100101</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230512140323</guid>
             <pubDate>Fri, 12 May 2023 05:09:58 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 업계 최초로 CXL 2.0을 지원하는 128GB CXL D램을 개발했다. CXL(컴퓨트 익스프레스 링크)은 고성능 서버 시스템에서 CPU와 함께 사용되는 가속기, D...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄일렉트론 "순이익 30% 줄어들 듯…칩 제조사 투자 둔화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512104719</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512104719</guid>
-            <pubDate>Fri, 12 May 2023 02:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체 장비 업체 도쿄일렉트론(TEL)은 순이익이 사상 최고치에서 3분의 1 이상 줄어들 것으로 11일(현지시간) 내다봤다. 반도체 칩을 만드는 고객들이 신규 공장 투자를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
