@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 04:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 05:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍, 대학생 유튜브 공모전…총상금 1000만원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230516104838</link>
+            <guid>https://zdnet.co.kr/view/?no=20230516104838</guid>
+            <pubDate>Tue, 16 May 2023 05:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[LG이노텍은 오는 7월 7일까지 대학생 유튜브 광고 공모전을 개최한다. 'LG이노텍의 혁신 기술과 제품이 선사하는 차별화된 고객 경험'과 '수평적인 조직문화를 만들어 나가는 L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, AI·슈퍼컴퓨터용 D램 '샤인볼트·플레임볼트' 개발 중]]></title>
             <link>https://zdnet.co.kr/view/?no=20230516102425</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230512141140</guid>
             <pubDate>Fri, 12 May 2023 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[이성국 LG이노텍 책임연구원이 특허청과 한국발명진흥회가 12일 개최한 '제58회 발명의 날' 기념식에서 '올해의 발명왕' 및 '산업포장'을 동시 수상했다. '발명의 날(5월 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 차세대 메모리 'CXL 2.0 D램' 개발…연내 양산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230512140323</link>
-            <guid>https://zdnet.co.kr/view/?no=20230512140323</guid>
-            <pubDate>Fri, 12 May 2023 05:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 업계 최초로 CXL 2.0을 지원하는 128GB CXL D램을 개발했다. CXL(컴퓨트 익스프레스 링크)은 고성능 서버 시스템에서 CPU와 함께 사용되는 가속기, D...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
