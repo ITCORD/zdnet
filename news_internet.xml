@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 02:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 03:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, 앱으로 편의점 결제시 포인트 0.5% 적립 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230517101312</link>
+            <guid>https://zdnet.co.kr/view/?no=20230517101312</guid>
+            <pubDate>Wed, 17 May 2023 03:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이가 5월 가정의 달을 맞이해 편의점 결제시 포인트 적립해주는 이벤트를 마련했다고 17일 밝혔다. GS25·CU·세븐일레븐·이마트24·미니스톱에서 카카오페이앱으로 결제하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔하이픈과 DDP 에어비앤비·패션위크 함께 즐긴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230517080445</link>
             <guid>https://zdnet.co.kr/view/?no=20230517080445</guid>
             <pubDate>Wed, 17 May 2023 02:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비가 동대문디자인플라자(DDP) 최상층을 에어비앤비 숙소로 제공하며 올해 가을 서울패션위크 알리기에 나선다. 에어비앤비는 17일 DDP에서 기자간담회를 열고 서울디자인재...]]></content:encoded>
+            <content:encoded><![CDATA[에어비앤비가 동대문디자인플라자(DDP) 최상층을 에어비앤비 숙소로 제공하며 DDP와 서울패션위크 알리기에 나선다. 에어비앤비는 17일 DDP에서 기자간담회를 열고 서울디자인재단...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230516081327</guid>
             <pubDate>Tue, 16 May 2023 02:04:25 GMT</pubDate>
             <content:encoded><![CDATA[왓츠앱이 새로운 보안 정책 일환으로 채팅 숨기기 기능인 '챗 락(Chat Lock)'을 선보였다. 미국 IT매체 엔가젯은 15일(현지시간) 왓츠앱이 특정 채팅을 잠금 폴더에 숨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 자살 예방 노력↑...문자 메시지만 선택하면 전문가 도움]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516083919</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516083919</guid>
-            <pubDate>Tue, 16 May 2023 02:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 자살 관련 용어를 검색한 사용자가 자신이 처한 상황에 가까운 문자 메시지를 선택하면 전문가 도움을 받을 수 있도록 지원한다. 구글은 15일(현지시간) 자사 블로그를 통해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
