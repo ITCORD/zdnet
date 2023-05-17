@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지자체 디지털플랫폼정부 이렇게 구축"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230517151508</link>
+            <guid>https://zdnet.co.kr/view/?no=20230517151508</guid>
+            <pubDate>Wed, 17 May 2023 07:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[한국지역정보개발원(klid, 원장 이재영, 이하 개발원)은 17일 지역정보화 실무네트워크를 개최했다. 이번 실무네트워크는 윤석열 정부의 핵심국정과제인 '디지털플랫폼정부(디플정)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SAS "40년 경영 성공비결, 통 큰 기술 투자···내년 IPO 준비"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230517145812</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230516152837</guid>
             <pubDate>Tue, 16 May 2023 08:15:34 GMT</pubDate>
             <content:encoded><![CDATA[오라클은 '오라클 자율운영 데이터 웨어하우스(ADW)'를 업데이트했다고 밝혔다. 오라클 조지 럼킨 제품개발 부문 부사장은 16일 온라인으로 진행한 미디어브리핑에서 "이번 업데이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지, 개인화 검색·추천 챗봇 '아숙업 서제스트' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516134808</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516134808</guid>
-            <pubDate>Tue, 16 May 2023 05:09:19 GMT</pubDate>
-            <content:encoded><![CDATA["인류는 곧 인공지능(AI) 챗봇에서 모든 해답을 찾을 수 있을 것입니다. '아숙업 서제스트'가 이를 위한 첫걸음입니다. 업스테이지는 아숙업 서제스트로 인류에게 초개인화된 검색...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
