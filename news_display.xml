@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔리다임, 데이터센터용 SSD 'D5-P5430' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518115944</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518115944</guid>
+            <pubDate>Thu, 18 May 2023 03:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[솔리다임이 18일 데이터센터용 SSD 'D5-P5430'을 출시했다. D5-P5430은 PCI 익스프레스 4.0 인터페이스 기반으로 작동하며 SK하이닉스가 개발한 192단 3D...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 12나노급 D램 양산 시작…생산성 20% 향상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230518094352</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230516102425</guid>
             <pubDate>Tue, 16 May 2023 03:11:50 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 AI·슈퍼컴퓨터 시장을 겨냥한 차세대 차세대 고대역폭 메모리(HBM) D램 제품명을 '샤인볼트'와 '플레임볼트'로 준비 중인 것으로 파악된다. 16일 업계에 따르면 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 전기차 33nF·10µF 고용량 MLCC 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516100101</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516100101</guid>
-            <pubDate>Tue, 16 May 2023 02:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전기는 16일 전기자동차용 적층세라믹캐패시터(MLCC) 고용량 신제품을 개발했다고 밝혔다. MLCC는 전자제품 회로에 전류가 일정하게 흐르도록 제어하는 부품이다. 자동차에는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
