@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 00:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 12나노급 D램 양산 시작…생산성 20% 향상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518094352</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518094352</guid>
+            <pubDate>Thu, 18 May 2023 02:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 업계 최선단 12나노급 공정으로 16Gb(기가 비트) DDR5 D램 양산을 시작했다고 18일 밝혔다. 삼성전자 12나노급 D램은 최선단 기술을 적용, 전 세대 제품 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ST, AI 구동 2세대 마이크로프로세서 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230518095807</link>
+            <guid>https://zdnet.co.kr/view/?no=20230518095807</guid>
+            <pubDate>Thu, 18 May 2023 02:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 18일 2세대 'STM32' 마이크로프로세서(MPU)를 출시했다. STM32MP25는 1.5GHz에서 실행되는 단일·듀얼 64비트 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팻 겔싱어 인텔 CEO, 이번주 방한...이재용 회장 만남 주목]]></title>
             <link>https://zdnet.co.kr/view/?no=20230517164407</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230516100101</guid>
             <pubDate>Tue, 16 May 2023 02:04:33 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기는 16일 전기자동차용 적층세라믹캐패시터(MLCC) 고용량 신제품을 개발했다고 밝혔다. MLCC는 전자제품 회로에 전류가 일정하게 흐르도록 제어하는 부품이다. 자동차에는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[키옥시아·웨스턴디지털, 합병 추진 가속화...낸드 1위 삼성 '긴장']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516091257</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516091257</guid>
-            <pubDate>Tue, 16 May 2023 02:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[메모리 업체 일본 키옥시아와 미국 웨스턴디지털(WD)이 합병 협상을 적극 추진하고 있다는 소식이 나온다. 양사가 합병할 경우 시장 점유율이 낸드플래시 업계 1위인 삼성전자와 비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스 자회사 솔리다임, 노종원·딕슨 각자대표 선임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516084524</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516084524</guid>
-            <pubDate>Tue, 16 May 2023 00:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스 낸드플래시 솔루션 자회사 솔리다임이 11일(미국 현지시간) 이사회를 열고, SK하이닉스 노종원 사장과 솔리다임 데이비드 딕슨(David M. Dixon) 부문장을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
