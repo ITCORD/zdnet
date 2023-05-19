@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 04:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 PaLM 2, 더 작아졌지만 더 많이 공부했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230519112943</link>
+            <guid>https://zdnet.co.kr/view/?no=20230519112943</guid>
+            <pubDate>Fri, 19 May 2023 04:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[베일 속에 가려졌던 구글의 최신 대규모언어모델(LLM) 'PaLM 2'의 세부 정보가 알려졌다. 1년 전 버전인 PaLM보다 매개변수(파라미터) 규모는 오히려 줄어든 반면, 학...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HPE, 데이터 분석 플랫폼 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230519114812</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230518135346</guid>
             <pubDate>Thu, 18 May 2023 05:09:44 GMT</pubDate>
             <content:encoded><![CDATA[퓨어스토리지는 플래시어레이용 파일 서비스를 출시하고, 단일 스토리지 환경에서 블록과 파일 서비스를 모두 이용할 수 유니파이드 스토리지를 제공하게 됐다고 18일 밝혔다. 퓨어스토...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS "파트너사와 글로벌 물류 DX 선도 박차"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518140005</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518140005</guid>
-            <pubDate>Thu, 18 May 2023 05:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[삼성SDS가 글로벌 물류 시장 공략을 위해 파트너사와 함께 '첼로스퀘어 유니버스'를 구축한다. 오구일 삼성SDS 물류사업부장(부사장)은 18일 삼성SDS 잠실 캠퍼스에서 개최한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
