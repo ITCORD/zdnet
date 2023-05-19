@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 00:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 02:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 텐진항에는 사람이 없다…"10km 밖서 원격 제어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230519083354</link>
+            <guid>https://zdnet.co.kr/view/?no=20230519083354</guid>
+            <pubDate>Fri, 19 May 2023 02:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[컨테이너를 실어 나르는 항구에 작업자가 없다. 수십 미터 상공의 크레인에 사람이 오를 일도 없고, 컨테이너를 옮기는 트럭도 스스로 움직인다. 인건비뿐 아니라 에너지 소비도 줄였...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 차세대 지능형 SDDC 기반 DIDC 사업 보고회 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230519092320</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230517091145</guid>
             <pubDate>Wed, 17 May 2023 00:49:50 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 SK스퀘어 자회사 IDQ, 국내 네트워크 보안장비 회사 엑스게이트와 양자암호통신 기반 가상사설망(VPN) 기술 개발을 완료했다고 17일 밝혔다. SK텔레콤은 엑스게...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ 반려동물 서비스 플랫폼 '포동' 가입자 20만명 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230517085639</link>
-            <guid>https://zdnet.co.kr/view/?no=20230517085639</guid>
-            <pubDate>Wed, 17 May 2023 00:49:50 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 반려견 커뮤니티 겸 훈련서비스 플랫폼 '포동'의 가입자 수가 20만명을 돌파했다고 17일 밝혔다. LG유플러스는 지난해 7월 포동을 출시했다. 포동은 통신사 관계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
