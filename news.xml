@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 08:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 09:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화웨이 "전 제품 보안, 3단계 독립 검증 거친다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230521173906</link>
+            <guid>https://zdnet.co.kr/view/?no=20230521173906</guid>
+            <pubDate>Sun, 21 May 2023 09:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이가 모든 제품과 솔루션에 3단계 독립 검증 시스템을 구축했다고 밝혔다. 외부의 우려, 제품 안전성, 백도어 여부, 직원 신뢰도, 각국의 정보보호 규제 등을 고려해 각계의 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/21/94dafb3120e8d86aa0861739301cfba9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난임치료 휴가 3일에서 10일로 연장 법안 발의]]></title>
             <link>https://zdnet.co.kr/view/?no=20230521155638</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230521151523</guid>
             <pubDate>Sun, 21 May 2023 07:08:24 GMT</pubDate>
             <content:encoded><![CDATA[유유제약이 6회 연속 제로금리 자금 조달에 성공해 향후 기업 성장에 탄력을 받을 전망이다. 유유제약은 표면이자율 및 만기이자율 제로(0.0%) 금리로 245억원 규모의 전환사채...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/21/7c02a25b54a301d44fbf0b5103327537-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[의약품안전원, '마약류 취급보고 제도' 시행 5주년 대국민 이벤트]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230519174334</guid>
             <pubDate>Sun, 21 May 2023 02:08:56 GMT</pubDate>
             <content:encoded><![CDATA[그룹 방탄소년단을 키워낸 엔터테인먼트 플랫폼 기업 하이브가 자사 음악 사업에 인공지능(AI) 등 기술을 접목하며 업계 주목을 받고 있다. 방시혁 의장이 K팝 경쟁력 제고와 하이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[英 "러시아 다이아몬드 금지"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230521095320</link>
-            <guid>https://zdnet.co.kr/view/?no=20230521095320</guid>
-            <pubDate>Sun, 21 May 2023 02:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[영국이 러시아에 유입되는 현금을 제한하기 위해 러시아산 다이아몬드를 금지했다. 20일(현지시간) BBC는 영국이 러시아의 우크라이나 전쟁에 대한 제재를 강화하기 위한 이 같은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
