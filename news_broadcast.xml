@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 09:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 10:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기차도, 칫솔도 파는 화웨이 플래그십 스토어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230521182453</link>
+            <guid>https://zdnet.co.kr/view/?no=20230521182453</guid>
+            <pubDate>Sun, 21 May 2023 10:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[중국 광둥성 선전시의 만상천지(万象天地) 구역. 중국의 경제 규모를 가늠케 할 고층 빌딩이 즐비한 상권에 3층 규모의 독립된 건물에 화웨이 플래그십 스토어가 오롯이 있다. 지난...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[화웨이 "전 제품 보안, 3단계 독립 검증 거친다”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230521173906</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230518084919</guid>
             <pubDate>Thu, 18 May 2023 00:47:07 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 5G 마이크로웨이브 통신에 주파수 결합 기술 슈퍼 듀얼 밴드(SDB)를 도입하고, 이를 도서지역 공동망에 적용했다고 18일 밝혔다. 마이크로웨이브 통신이란 무선 통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "한강대로 매장서 멤버십 할인 받으세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518090111</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518090111</guid>
-            <pubDate>Thu, 18 May 2023 00:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 골목상권 활성화와 멤버십 이용 경혐 혁신을 위해 'U+우리동네멤버십-용산 한강대로편'을 진행한다고 18일 밝혔다. 오는 28일까지 총 11일간 운영되는 U+우리동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
