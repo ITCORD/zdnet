@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 23:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 00:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中, 美 마이크론에 첫 제재...보안문제로 구매 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522084044</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522084044</guid>
+            <pubDate>Mon, 22 May 2023 00:51:55 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 미국 반도체 기업 마이크론의 제품에서 보안 문제가 발생했다는 이유로 주요 수요처의 구매를 중단시켰다. 중국이 미국의 반도체 기업을 표적 삼아 제재를 가한 것은 이번이 처...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGD 80인치 OLED·스트레처블 기술, 국제학회 올해의 우수논문 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230521101636</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230518095807</guid>
             <pubDate>Thu, 18 May 2023 02:02:27 GMT</pubDate>
             <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 18일 2세대 'STM32' 마이크로프로세서(MPU)를 출시했다. STM32MP25는 1.5GHz에서 실행되는 단일·듀얼 64비트 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팻 겔싱어 인텔 CEO, 이번주 방한...이재용 회장 만남 주목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230517164407</link>
-            <guid>https://zdnet.co.kr/view/?no=20230517164407</guid>
-            <pubDate>Wed, 17 May 2023 08:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[인텔의 팻 겔싱어 최고경영자(CEO)가 오는 20일 방한한다. 겔싱어 CEO의 방한은 지난해 12월 이후 5개월 만이다. 17일 업계에 따르면 팻 겔싱어 CEO는 대만, 일본을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
