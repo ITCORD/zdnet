@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 04:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["재무·인사 직원 이메일 노린 사이버 범죄 급증”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522140454</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522140454</guid>
+            <pubDate>Mon, 22 May 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[전세계적으로 기업 업무 이메일을 노린 사이버 범죄 활동이 급증한 것으로 조사됐다. 회사 업무 관련 핵심 정보를 다루는 임원이나 재무, 인사 담당자의 이메일이 표적이다. 마이크로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터센터 서버, 192코어 시대 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522131035</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522131035</guid>
+            <pubDate>Mon, 22 May 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[Arm 아키텍처 기반의 데이터센터 서버용 CPU를 개발하는 암페어컴퓨팅이 192코어 서버 프로세서를 공개했다. 인텔과 AMD의 x86 프로세서 중심 데이터센터 서버 시장을 재구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["아태지역 금융 서비스 API 공격 약 250% 증가"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522132615</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522132615</guid>
+            <pubDate>Mon, 22 May 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[아시아태평양 지역 금융 서비스를 겨냥한 API 공격이 전년보다 약 250% 증가한 것으로 나타났다. 아카마이는 인터넷 보안의 최신 현황을 다룬 보고서인 '보안 격차의 허점: 애...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[젯브레인, 안드로이드와 iOS UI 한 번에 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522124627</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522124627</guid>
+            <pubDate>Mon, 22 May 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[젯브레인이 컴포즈 멀티플랫폼을 통해 iOS와 안드로이드의 UI 한 번에 개발할 수 있는 기능을 지원한다. 최근 인포월드 등 외신에 따르면 젯브레인이 컴포즈 멀티플랫폼에서 iOS...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[G7 "국제 프레임워크서 AI 윤리 논의하자"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522082550</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230519114812</guid>
             <pubDate>Fri, 19 May 2023 03:10:49 GMT</pubDate>
             <content:encoded><![CDATA[HPE는 멀티클라우드 환경의 데이터 분석 플랫폼인 'HPE 에즈메랄 소프트웨어 플랫폼'을 출시했다고 19일 밝혔다. HPE 에즈메랄 소프트웨어 플랫폼은 하이브리드 멀티 클라우드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 전용 초거대AI 수출 물꼬 튼다...구축 선봉에 선 '디·플·정']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519101425</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519101425</guid>
-            <pubDate>Fri, 19 May 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[“대통령이 이해하고 있느냐는 질문은 맞지 않다. 내가 얼마나 이해하고 있느냐를 물어보는 것이 맞다.” 디지털플랫폼정부위원회는 윤석열 대통령의 디지털 분야 첫 공약이다. 인공지능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뤼튼테크놀로지스, 노코드 AI 툴빌더 개방]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519103123</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519103123</guid>
-            <pubDate>Fri, 19 May 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[뤼튼테크놀로지스(대표 이세영)가 노코드 AI(인공지능) 툴빌더를 전면 개방하겠다고 19일 밝혔다. 뤼튼은 이 툴빌더를 AI 툴 제작 플랫폼인 '뤼튼 스튜디오'로 만들어 모든 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, 'AI 휴먼 앵커 데빈' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519105413</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519105413</guid>
-            <pubDate>Fri, 19 May 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[AI 휴먼에 MS 기술 접목해 110여 개국 75종 언어, 450여 명 목소리 구현 성공… 자사 AI 휴먼 서비스 'AI 스튜디오 페르소' 탑재해 글로벌 경쟁력 강화 이스트소프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글클라우드, 카카오웹툰 글로벌 서비스 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519104057</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519104057</guid>
-            <pubDate>Fri, 19 May 2023 02:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[구글클라우드는 카카오엔터테인먼트의 카카오웹툰 글로벌 서비스 운영 환경 전체를 자사 클라우드 서비스로 이전하고, 다양한 사업 부문에서 양사 협력을 확장해 나갈 계획이라고 19일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
