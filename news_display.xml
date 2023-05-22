@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 00:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 02:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["미국 반도체 인력 30만명 이상 부족"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522094931</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522094931</guid>
+            <pubDate>Mon, 22 May 2023 02:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체 인력이 크게 부족하다는 전망이 제기됐다. 정부의 대대적인 지원으로 반도체 관련 일 자리 수 십만개가 창출될 예정이지만 그 자리를 채울 사람이 충분하지 않다는 것이다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中, 美 마이크론에 첫 제재...보안문제로 구매 중단]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522084044</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230518094352</guid>
             <pubDate>Thu, 18 May 2023 02:02:27 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 업계 최선단 12나노급 공정으로 16Gb(기가 비트) DDR5 D램 양산을 시작했다고 18일 밝혔다. 삼성전자 12나노급 D램은 최선단 기술을 적용, 전 세대 제품 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, AI 구동 2세대 마이크로프로세서 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230518095807</link>
-            <guid>https://zdnet.co.kr/view/?no=20230518095807</guid>
-            <pubDate>Thu, 18 May 2023 02:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 18일 2세대 'STM32' 마이크로프로세서(MPU)를 출시했다. STM32MP25는 1.5GHz에서 실행되는 단일·듀얼 64비트 A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
