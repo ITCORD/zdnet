@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 07:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 08:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["API플렉스, 기업 혁신 가속 지원하는 개발 포털"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522165807</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522165807</guid>
+            <pubDate>Mon, 22 May 2023 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[“실무에서 개발하다 보면 불필요하게 반복적인 작업이나 업무로 생산력이 하락되거나 개발속도가 지연되는 경우가 있다. 이런 문제를 개선하고 개발 생태계 발전을 위해 API 플렉스를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[티맥스, 하반기 '배달서비스공제조합' 플랫폼 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522153624</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522153624</guid>
+            <pubDate>Mon, 22 May 2023 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스핀테크는 '배달서비스공제조합'이 설립인가를 받았다고 22일 밝혔다. 해당 플랫폼은 티맥스 '슈퍼앱'으로 개발돼 올 하반기 출시될 예정이다. 배달서비스공제조합은 국토교통부와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["생성 AI 기반 가짜뉴스, 선거철 영향 미쳐"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522152521</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230519145744</guid>
             <pubDate>Fri, 19 May 2023 06:14:25 GMT</pubDate>
             <content:encoded><![CDATA[에쓰핀테크놀로지와 한국소프트웨어산업협회(KOSA) 그리고 한국 마이크로소프트(MS)는 국내 소프트웨어(SW) 산업 내 SaaS 생태계 마련 및 글로벌 진출을 위한 업무협약(MO...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바인테크-열린기술, 위존으로 합병…내년 IPO 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519145153</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519145153</guid>
-            <pubDate>Fri, 19 May 2023 06:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 회원사 바인테크와 열린기술이 위존으로 통합한다고 19일 밝혔다. 바인테크는 반도체·디스플레이 등의 데이터센터에 특화된 컴퓨팅솔루...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 PaLM 2, 더 작아졌지만 더 많이 공부했다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519112943</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519112943</guid>
-            <pubDate>Fri, 19 May 2023 04:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[베일 속에 가려졌던 구글의 최신 대규모언어모델(LLM) 'PaLM 2'의 세부 정보가 알려졌다. 1년 전 버전인 PaLM보다 매개변수(파라미터) 규모는 오히려 줄어든 반면, 학...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
