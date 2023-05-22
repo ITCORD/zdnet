@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 06:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 07:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["재무·인사 직원 이메일 노린 사이버 범죄 급증”]]></title>
+            <title><![CDATA["생성 AI 기반 가짜뉴스, 선거철 영향 미쳐"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522152521</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522152521</guid>
+            <pubDate>Mon, 22 May 2023 07:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)을 사용한 허위 정보 확산 위험성으로 국내외 정치계가 경계하고 있다. 생성 AI로 제작된 거짓 텍스트, 이미지, 동영상이 인터넷을 통해 빠르게 전파될 수 있어서다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["재무·인사 직원 이메일 노린 사이버 범죄 급증"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522140454</link>
             <guid>https://zdnet.co.kr/view/?no=20230522140454</guid>
             <pubDate>Mon, 22 May 2023 05:10:15 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230519112943</guid>
             <pubDate>Fri, 19 May 2023 04:11:50 GMT</pubDate>
             <content:encoded><![CDATA[베일 속에 가려졌던 구글의 최신 대규모언어모델(LLM) 'PaLM 2'의 세부 정보가 알려졌다. 1년 전 버전인 PaLM보다 매개변수(파라미터) 규모는 오히려 줄어든 반면, 학...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE, 데이터 분석 플랫폼 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519114812</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519114812</guid>
-            <pubDate>Fri, 19 May 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[HPE는 멀티클라우드 환경의 데이터 분석 플랫폼인 'HPE 에즈메랄 소프트웨어 플랫폼'을 출시했다고 19일 밝혔다. HPE 에즈메랄 소프트웨어 플랫폼은 하이브리드 멀티 클라우드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
