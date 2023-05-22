@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 12:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 13:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU, 메타에 1조7천억원 벌금…"개인정보 무단 전송"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522214335</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522214335</guid>
+            <pubDate>Mon, 22 May 2023 13:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북을 운영하는 메타가 유럽연합(EU)에서 12억 유로(약 1조7천억원) 벌금 폭탄을 맞았다. 메타 유럽 본사가 자리잡고 있는 아일랜드의 데이터보호위원회(DPB)는 22일(...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/09/8e108772ec9348dbfd1471802b11d2f7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌-창소프트, 스마트시티 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522201035</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230522195831</guid>
             <pubDate>Mon, 22 May 2023 11:08:23 GMT</pubDate>
             <content:encoded><![CDATA[롯데정보통신이 한국자동차연구원과 모빌리티 분야 협력체계 구축을 위한 업무협약(MOU)를 체결했다고 22일 밝혔다. 롯데정보통신은 자율주행셔틀 및 자율협력주행(C-ITS)을 비롯...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/22/6e6110ae9957c10df4717a95da8116d6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[안랩, 의심파일 실행하면 일단 정지...악성코드 방지]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230522164103</guid>
             <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
             <content:encoded><![CDATA[볼보트럭코리아가 지난 15일부터 19일까지 전국 17개 거점에서 2023 서비스 캠프 및 안전 운행 캠페인'과 '퓨얼 세이브' 순회전시를 성공리에 마쳤다고 22일 밝혔다. 보트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[르노코리아, 부산에 연구개발센터 설립 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230522163453</link>
-            <guid>https://zdnet.co.kr/view/?no=20230522163453</guid>
-            <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[르노코리아자동차가 부산에 연구개발센터 설립을 추진한다. 르노코리아는 22일 오전 11시 부산역에서 부산시, 부산자동차부품공업협동조합, 부울경 대학 산학협력단장 협의회, 부산테크...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
