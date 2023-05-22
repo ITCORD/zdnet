@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 14:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 15:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통증 치료 새 장 열까? 머신러닝으로 뇌 통증 신호 읽었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522112826</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522112826</guid>
+            <pubDate>Mon, 22 May 2023 15:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[신경 이상으로 인한 만성통증은 현대인을 가장 괴롭히는 질병 중 하나다. 하지만 뚜렷한 치료법이 없고, 각 사람마다 다르게 느끼는 통증의 정도를 정확히 측정하기도 어려운 것이 현...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/22/171696523d4bab58b29f55e30672983a-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["ICT 연구개발비 이렇게 사용하세요"···IITP, 설명회 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522221449</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230522214335</guid>
             <pubDate>Mon, 22 May 2023 13:12:25 GMT</pubDate>
             <content:encoded><![CDATA[페이스북을 운영하는 메타가 유럽연합(EU)에서 12억 유로(약 1조7천억원) 벌금 폭탄을 맞았다. 메타 유럽 본사가 자리잡고 있는 아일랜드의 데이터보호위원회(DPB)는 22일(...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/02/09/8e108772ec9348dbfd1471802b11d2f7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[베스핀글로벌-창소프트, 스마트시티 사업 협력]]></title>
@@ -120,19 +128,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[넵튠 자회사 플레이하드, 신작 '우르르용병단' 구글-애플 인기 1위]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230522165931</link>
-            <guid>https://zdnet.co.kr/view/?no=20230522165931</guid>
-            <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[넵튠 자회사 플레이하드(대표 신중혁)는 모바일 캐주얼 롤플레잉 게임 '우르르용병단'이 지난 주말 구글 플레이 스토어와 애플 앱스토어에서 나란히 인기 게임 순위 1위를 기록했다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA["API플렉스, 기업 혁신 가속 지원하는 개발 포털"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230522165807</link>
             <guid>https://zdnet.co.kr/view/?no=20230522165807</guid>
             <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
             <content:encoded><![CDATA[“실무에서 개발하다 보면 불필요하게 반복적인 작업이나 업무로 생산력이 하락되거나 개발속도가 지연되는 경우가 있다. 이런 문제를 개선하고 개발 생태계 발전을 위해 API 플렉스를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[넵튠 자회사 플레이하드, 신작 '우르르용병단' 구글-애플 인기 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230522165931</link>
+            <guid>https://zdnet.co.kr/view/?no=20230522165931</guid>
+            <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[넵튠 자회사 플레이하드(대표 신중혁)는 모바일 캐주얼 롤플레잉 게임 '우르르용병단'이 지난 주말 구글 플레이 스토어와 애플 앱스토어에서 나란히 인기 게임 순위 1위를 기록했다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230522163408</guid>
             <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 3.4GHz 주파수 대역에서 100MHz폭을 활용한 5G 서비스를 시작할 준비를 마쳤다. LG유플러스가 5G 상용화 이후 4년여 동안 SK텔레콤과 KT 등 경쟁사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메프-불스원, 슈퍼투데이 특가 행사]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230522164822</link>
-            <guid>https://zdnet.co.kr/view/?no=20230522164822</guid>
-            <pubDate>Mon, 22 May 2023 08:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[위메프가 자동차 생활 문화기업 불스원과 함께 슈퍼투데이특가를 선보인다. 위메프는 22일 단 하루 동안 불스원과 자동차용품 특가 행사를 열고 모든 고객에 최대 33% 할인 쿠폰을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
