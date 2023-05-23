@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 21:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 22:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아크릴, 차세대 기술 관련 국책과제 2건 연달아 수행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523223918</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523223918</guid>
+            <pubDate>Tue, 23 May 2023 22:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 전문기업 아크릴(대표 박외진)이 주목할 만한 국책과제 2건에 연속 참여, 기술 경쟁력을 인정받았다. 24일 아크릴은 과학기술정보통신부가 주관한 차세대 기술과 관련한 연...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/23/9513f1862ff6badac1c5e7d232e93feb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이마트, 농가 소비 활성화 위해 토마토 15종 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230523185017</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230523225609</guid>
             <pubDate>Tue, 23 May 2023 17:10:16 GMT</pubDate>
             <content:encoded><![CDATA["개발자는 마이크로소프트365 코파일럿에서 애플리케이션을 마음껏 개발, 배포할 것이다. 이를 통해 앱 접근성을 확장하고, 수익 창출까지 할 수 있게 된다. 모두 코파일럿에 추가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/23/e24dbacab41add674be2bc1fd8db5381-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[시민 개발자는 생성 AI로 더 강해진다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230523183713</guid>
             <pubDate>Tue, 23 May 2023 10:11:23 GMT</pubDate>
             <content:encoded><![CDATA[위메프가 25일까지 3일간 '브랜드 페스타' 행사를 진행한다고 23일 밝혔다. '브랜드 페스타'는 인기 브랜드의 특가 기획전으로 랭킹·베스트 리뷰 등 다양한 콘셉트의 세부 코너...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지마켓, 제철 농산물 최대 30% 할인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230523182847</link>
-            <guid>https://zdnet.co.kr/view/?no=20230523182847</guid>
-            <pubDate>Tue, 23 May 2023 10:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[지마켓과 옥션이 28일까지 '농산甲(갑)' 기획전을 열고, 우수 제철 농산물을 엄선해 최대 30% 할인가에 판매한다고 23일 밝혔다. 이번 행사는 신선식품 카테고리 강화를 위해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
