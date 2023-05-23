@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한상혁 방통위원장 "면직 절차, 헌법 가치 심각하게 침해"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523110505</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523110505</guid>
+            <pubDate>Tue, 23 May 2023 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[한상혁 방송통신위원회 위원장이 “방통위 독립성 보장을 위한 제도를 무력화시키고, 헌법적 원리인 무죄추정의 원칙에 반하는 면직 처분이 이루어져서는 안 된다”고 밝혔다. 한 위원장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 오늘 SKT 대상 28GHz 할당취소 청문 연다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230523101654</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230519083354</guid>
             <pubDate>Fri, 19 May 2023 02:02:28 GMT</pubDate>
             <content:encoded><![CDATA[컨테이너를 실어 나르는 항구에 작업자가 없다. 수십 미터 상공의 크레인에 사람이 오를 일도 없고, 컨테이너를 옮기는 트럭도 스스로 움직인다. 인건비뿐 아니라 에너지 소비도 줄였...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 차세대 지능형 SDDC 기반 DIDC 사업 보고회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230519092320</link>
-            <guid>https://zdnet.co.kr/view/?no=20230519092320</guid>
-            <pubDate>Fri, 19 May 2023 00:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 컨소시엄 업체들과 '차세대 지능형 소프트웨어 정의 데이터센터(SDDC) 기반 국방통합데이터센터(DIDC) 구축사업' 설계 보고회를 진행했다고 19일 밝혔다. 차세대 지능...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
