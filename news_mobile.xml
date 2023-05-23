@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 04:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일부 애플워치 사용자, 새OS 업데이트 후 녹조현상 호소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523133007</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523133007</guid>
+            <pubDate>Tue, 23 May 2023 05:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[최근 출시된 애플워치 운영체제(OS) 워치OS 9.5로 업데이트한 일부 애플워치 사용자들이 디스플레이 녹조 현상을 호소하고 있다고 맥루머스 등 외신들이 23일(현지시간) 보도했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 국민 상대 ICT 디바이스 공모전]]></title>
             <link>https://zdnet.co.kr/view/?no=20230523100849</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230522095646</guid>
             <pubDate>Mon, 22 May 2023 02:08:51 GMT</pubDate>
             <content:encoded><![CDATA[에이수스가 22일 무게 1kg대 초경량 노트북 '젠북 S 13 OLED'를 국내 출시했다. 젠북 S 13 OLED는 지난 4월 말 공개된 제품이며 알루미늄·마그네슘 합금을 CN...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우로보틱스, 美 오토메이트 2023 참가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230522094514</link>
-            <guid>https://zdnet.co.kr/view/?no=20230522094514</guid>
-            <pubDate>Mon, 22 May 2023 00:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[로봇 플랫폼 전문기업 레인보우로보틱스가 오는 25일까지 미국 디트로이트에서 열리는 북미 최대 규모 자동화 기술 솔루션 전시회인 '오토메이트 2023'에 참가한다고 22일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

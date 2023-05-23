@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 04:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포털 뉴스에서 조중동과 한경오를 뺄까요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523125439</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523125439</guid>
+            <pubDate>Tue, 23 May 2023 05:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[언론사와 네이버 및 카카오 사이에서 뉴스 제휴와 제재 심사를 맡아왔던 뉴스제휴평가위원회(제평위)가 활동을 잠정 중단키로 했다. 정부·여당의 '포털 때리기'가 영향을 미쳤을 것이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뮤직카우, 600억원 규모 투자 유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230523104434</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230522004024</guid>
             <pubDate>Mon, 22 May 2023 02:08:59 GMT</pubDate>
             <content:encoded><![CDATA[자동차 사고시 급발진이 의심되는 경우 의무적으로 원인을 조사하도록 하는 법안이 발의됐다. 더불어민주당 한준호 의원(고양시을)이 18일 자동차 급발진 의심 사고 피해자를 보호하기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰 "툰필터 출시 일주일 만에 신규 이용자 480%↑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230522095137</link>
-            <guid>https://zdnet.co.kr/view/?no=20230522095137</guid>
-            <pubDate>Mon, 22 May 2023 02:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰은 인공지능(AI) 기술을 통해 개발한 '툰필터' 베타 서비스가 출시 일주일 만에 2천만장 이상 변환 이미지를 생성했다고 22일 밝혔다. 툰필터는 원하는 사진을 좋아하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
