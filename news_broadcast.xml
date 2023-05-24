@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, '5G 과장광고' 통신 3사에 과징금 336억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230524114701</link>
+            <guid>https://zdnet.co.kr/view/?no=20230524114701</guid>
+            <pubDate>Wed, 24 May 2023 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회가 SK텔레콤, KT, LG유플러스에 5G 서비스 속도를 과장 광고했다는 점을 들어 과징금을 잠정 336억원 부과하로 결정했다. 공정위가 대표적으로 문제를 삼는 부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 광고 청약 플랫폼 '바로광고' 대시보드 솔루션 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230524091836</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230521071150</guid>
             <pubDate>Sun, 21 May 2023 00:54:51 GMT</pubDate>
             <content:encoded><![CDATA[미국 통신사 AT&amp;T가 우주 개발 기업 스페이스X와 통신사 T모바일의 위성 통신 서비스를 반대하고 나섰다. 20일(현지시간) 블룸버그 등 외신에 따르면, AT&amp;T는 미국 연방통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 아이들나라서 오리지널 '똑똑! 보이는 백과사전' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230521065132</link>
-            <guid>https://zdnet.co.kr/view/?no=20230521065132</guid>
-            <pubDate>Sun, 21 May 2023 00:54:51 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 어린이 전용 서비스 '아이들나라'에 DK백과사전 기반 필수 지식을 알기 쉽게 풀어낸 오리지널 콘텐츠 '똑똑! 보이는 백과사전'을 공개했다고 21일 밝혔다. 아이들...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
