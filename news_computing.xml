@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 06:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 07:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["당신만의 챗GPT, 코파일럿을 만드세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230524145605</link>
+            <guid>https://zdnet.co.kr/view/?no=20230524145605</guid>
+            <pubDate>Wed, 24 May 2023 07:14:32 GMT</pubDate>
+            <content:encoded><![CDATA["당신만의 코파일럿을 만들 수 있게, 마이크로소프트가 코파일럿 구축에 사용한 플랫폼을 개방한다. 검색 코파일럿, 보안 코파일럿, 생산성 코파일럿, 그리고 여러분 모두 스스로 만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[프라다, 오라클 클라우드로 고객 경험 개선]]></title>
             <link>https://zdnet.co.kr/view/?no=20230524150248</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230523191151</guid>
             <pubDate>Tue, 23 May 2023 11:10:31 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 회원사들과 소프트웨어(SW)기업들을 위한 가이드북 2종을 발간했다고 23일 밝혔다. 가이드북은 KOSA 회원사들을 위한 서비스 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 취약계층 대상 개인정보 보호 교육 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230523185247</link>
-            <guid>https://zdnet.co.kr/view/?no=20230523185247</guid>
-            <pubDate>Tue, 23 May 2023 10:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(이하 개인정보위)는 셰어런팅(Sharenting)에 대한 올바른 보호수칙을 담은 학부모, 교사 대상 교육과정이 오는 6월부터 신설된다. 셰어런팅은 공유(sha...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
