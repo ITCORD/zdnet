@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 23:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 00:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 100% 복구에 도전하는 데이터센터 재해복구 전략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230523142437</link>
+            <guid>https://zdnet.co.kr/view/?no=20230523142437</guid>
+            <pubDate>Wed, 24 May 2023 00:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 주요 자산인 데이터를 관리하는 인프라에 발생하는 재해는 자산 손실과 매출 감소를 넘어, 서비스 사용자 또는 사회적인 불편과 혼란을 초래하는 ‘재난’이라고 할 수 있다. 자연 재해를 비롯해 인프라 장애, 사람에 의해 발생하는 데이터 삭제나 손실, 사이버 공격까지 합치면 100% 안전한 데이터센터는 없다고 해도 과언이 아니다. 따라서 위험으로부터 인프라를 예방하고 보호, 복구하려는 노력이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/23/bf784b9e010edad620b1f476b0bbef20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디지털트윈 칼럼] 도시 지속가능성과 버츄얼 트윈]]></title>
             <link>https://zdnet.co.kr/view/?no=20230521084701</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;자립형(standalone, SA) 5세대(5G) 네트워크 출시로 통신 서비스 신뢰성 향상과 더불어 지연 문제가 해소될 것으로 전망된다. 미래 커넥티비티(연결성)는 단순히 정보통신망 또는 IT를 훨씬 뛰어넘는 차원이다. 이는 커넥티비티 구현 기업 및 이를 활용해 혁신 제품과 솔루션을 창조하는 기업을 모두 포함한다. 그 어느 때보다 저렴하고 빨라진 컴퓨팅 및 기기 덕분에 모든 산업에...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/04/16/4d522dc3b79667a6437779544127da6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 기업 내 보안 중심 엔지니어링을 강화하는 6가지 방법]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230413133848</link>
-            <guid>https://zdnet.co.kr/view/?no=20230413133848</guid>
-            <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[지난 연말 과학기술정보통신부와 한국인터넷진흥원(KISA)은 2023년 사이버 보안 위협 전망을 발표했다. 글로벌 해킹 조직의 공격과 지능형 공격이 증가하고 재난 상황 등 민감한 사회적 이슈를 악용한 사이버 공격도 지속될 것으로 예상되는 가운데, 기업 공급망이 갈수록 복잡해짐에 따른 공격 위협도 증가할 것이란 전망이 특히 눈에 띈다. 소프트웨어 엔지니어들이 깃허브와 같은 소스코드 사이트를 활용...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/24/55530f3ed4fcfe9894c59922016bd9cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
