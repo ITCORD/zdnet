@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 04:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["엣지 브라우저에 '나만의 AI 비서' 생겼다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230525111850</link>
+            <guid>https://zdnet.co.kr/view/?no=20230525111850</guid>
+            <pubDate>Thu, 25 May 2023 05:10:01 GMT</pubDate>
+            <content:encoded><![CDATA["기업 마케팅 전략 상황을 실시간으로 알고 싶나요? 엣지 브라우저에 접속하면 바로 확인할 수 있습니다. 앞으로 마이크로소프트365 코파일럿이 엣지에서도 활약할 예정입니다. 코파...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무하유, 서울관광재단에 AI 서류평가 '프리즘' 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525090027</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230524102847</guid>
             <pubDate>Wed, 24 May 2023 02:07:17 GMT</pubDate>
             <content:encoded><![CDATA[나무기술(대표 정철)은 미국 보스턴에서 열리는 레드햇 서밋 2023에 참가해 컨테이너 플랫폼 및 멀티클라우드 자원을 통합 관리하는 기술과 솔루션을 소개한다고 24일 밝혔다. 나...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클립소프트, 저축은행중앙회 디지털창구 '클립이폼' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230524100002</link>
-            <guid>https://zdnet.co.kr/view/?no=20230524100002</guid>
-            <pubDate>Wed, 24 May 2023 02:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[클립소프트(대표 김양수, 남도현)가 저축은행중앙회 디지털창구시스템 구축 사업에 전자서식 솔루션 '클립이폼'을 공급했다고 24일 밝혔다. 저축은행중앙회에 공급된 클립이폼은 서명이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
