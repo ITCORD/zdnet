@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 07:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 08:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["니콘 Z8, 향후 10년 내다 본 미래 지향적 카메라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230525153502</link>
+            <guid>https://zdnet.co.kr/view/?no=20230525153502</guid>
+            <pubDate>Thu, 25 May 2023 08:14:07 GMT</pubDate>
+            <content:encoded><![CDATA["니콘 Z8은 시간의 흐름 중 한 순간을 잘라내는 사진, 사진의 흐름을 그대로 담는 동영상을 구분 없이 담아 낼 수 있는 카메라다. 향후 10년간 쓸 수 있는 미래를 향한 카메...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK매직, 용산 '워커힐 매트리스' 팝업스토어 오픈]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525143059</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230524142305</guid>
             <pubDate>Wed, 24 May 2023 06:12:41 GMT</pubDate>
             <content:encoded><![CDATA[젠하이저의 음향 소프트웨어 자회사 디어 리얼리티는 음향 엔지니어·아티스트 등을 위해 사운드에 인위적인 왜곡 효과를 부여하는 음향 편집 소프트웨어 '미야'를 출시한다고 24일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코닝, 디스플레이 유리 가격 20% 인상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230524140345</link>
-            <guid>https://zdnet.co.kr/view/?no=20230524140345</guid>
-            <pubDate>Wed, 24 May 2023 06:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[디스플레이 유리 전문기업 코닝은 디스플레이 기판 유리 가격을 20% 인상한다고 24일 발표했다. 코닝의 이번 글로벌 가격 인상은 오는 3분기부터 전 지역에 걸쳐 모든 유리 조성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
