@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 14:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 15:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기어때, 국내 숙소 5만원 할인 쿠폰 쏜다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230525231321</link>
+            <guid>https://zdnet.co.kr/view/?no=20230525231321</guid>
+            <pubDate>Thu, 25 May 2023 15:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[여행·여가 플랫폼 여기어때(대표 정명훈)가 문화체육관광부와 한국관광공사가 주관하는 '대한민국 숙박 세일 페스타 지역편'에 참여한다. 이달 30일부터 다음달 2일까지 국내 숙소 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/25/465dc32832390c6f00a72320e9cd8f29-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이리얼트립, 5만원 초과 숙박 예약하면 3만원 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525230752</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230525223653</guid>
             <pubDate>Thu, 25 May 2023 14:09:37 GMT</pubDate>
             <content:encoded><![CDATA[한국 디지털트윈 워킹그룹(KDT-WG) 발대식이 오는 30일 오후 1시30분 서울 코엑스 컨퍼런스룸 317호에서 열린다. 한국인더스트리4.0협회(회장 박원주)가 주관하는 이 행...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/25/d2295c0d4c7accf9d0e1a82b4f51f88b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국오츠카제약 '아빌리파이정 2밀리그램' 제조업무 1개월 정지]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230525174722</guid>
             <pubDate>Thu, 25 May 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[해긴(대표 이영일)은 소셜 네트워크 게임(SNG) '플레이투게더'에 신규 맵 '휴양지'와 함께 새로운 낚시 콘텐츠를 추가했다고 25일 밝혔다. 드넓은 바다와 하얀 모래사장, 그...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포자랩스, AI 음악 서비스 '비오디오' 모바일 버전 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230525165243</link>
-            <guid>https://zdnet.co.kr/view/?no=20230525165243</guid>
-            <pubDate>Thu, 25 May 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[포자랩스가 자사 인공지능(AI) 배경음악 구독 서비스 '비오디오'를 모바일 버전으로 출시한다고 25일 밝혔다. 비오디오는 지난해 9월 데스크톱 버전으로 출시된 바 있다. 모바일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
