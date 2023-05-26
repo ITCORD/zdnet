@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 03:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 04:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공 클라우드, 빠르고 안전한 도입 방법은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526130637</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526130637</guid>
+            <pubDate>Fri, 26 May 2023 04:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[삼성SDS가 공공 클라우드 도입을 준비 중인 지자체 및 정부부처를 위해 실제 사례를 기반으로 한 구축 정보를 제공했다. 삼성SDS는 24일 서울 삼성동 오크우드 프리미어 코엑스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/26/c11f2a2de700c42190f590b5023f8cce-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI가 데이터 찾아 분석…'마이크로소프트 패브릭'의 정체]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526122204</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526122204</guid>
+            <pubDate>Fri, 26 May 2023 04:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 애저를 비롯한 자사의 모든 데이터 관련 제품과 서비스를 한데 묶은 통합 데이터 분석 플랫폼을 내놨다. 데이터 수집부터 분석, 시각화에 이르는 일련의 데이터 프로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/26/33fddb56bfb3416bfecedd4989a62179-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시프트업, 챗GPT 개발자 김태훈 영입...게임 AI 역량 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230526113825</link>
             <guid>https://zdnet.co.kr/view/?no=20230526113825</guid>
             <pubDate>Fri, 26 May 2023 03:10:20 GMT</pubDate>
             <content:encoded><![CDATA[시프트업(대표 김형태)은 게임의 인공지능(AI) 기술 고도화를 위해 실리콘밸리 출신의 AI 개발자 김태훈 씨를 영입했다고 26일 밝혔다. 김태훈 엔지니어는 일론 머스크 등 실리...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/26/82816d92fa397c1d998e70f1346287ab-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네오위즈·스마일게이트 끌고 위메이드 밀고…韓 인디게임 투심 커진다]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230526112124</guid>
             <pubDate>Fri, 26 May 2023 03:10:20 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트, 네오위즈가 인디게임 투자로 꾸준히 성과를 내면서 중견급의 게임사들이 후발주자로 합류하고 있다. 특히 그라비티, 위메이드 등도 공격적인 투자로 인디게임 시장도 빠르...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/26/db11a47e2e84ea4df6c4a5dc32a2cd1c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[김한준 기자의 e게임] 베일드 엑스퍼트, BM 빼고 모두 담은 얼리액세스]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230526103942</guid>
             <pubDate>Fri, 26 May 2023 02:02:25 GMT</pubDate>
             <content:encoded><![CDATA[위메이드가 P2E 관련 법안을 위해 입법로비를 했다는 주장을 펼친 한국게임학회와 위정현 학회장을 향한 위믹스 홀더의 갈등이 심화되는 모습이다. 위믹스 투자자 커뮤니티인 네이버 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 열풍 탄 엔비디아 주가 폭등…테슬라에겐 독 될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526093055</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526093055</guid>
-            <pubDate>Fri, 26 May 2023 02:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI) 열풍에 힘입어 엔비디아 주가가 폭등하면서 그 동안 미국 증시에서 큰 관심을 받아 온 테슬라에게 좋지 않은 영향을 줄 수 있다는 분석이 제기돼 눈길을 끌었...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11번가, 슈팅배송 LG생건 생활용품 싸게 판다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526095432</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526095432</guid>
-            <pubDate>Fri, 26 May 2023 02:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[11번가는 27일부터 닷새간 LG생활건강 테크·온더바디·홈스타 등 대표 생활용품을 최대 48% 할인 판매한다고 26일 밝혔다. LG생활건강은 11번가 슈팅배송 캠페인 '하루만에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
