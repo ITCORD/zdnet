@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 02:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 03:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 내달 3나노 2세대 공정 첫 공개...TSMC 맞대결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526094157</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526094157</guid>
+            <pubDate>Fri, 26 May 2023 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 내달 11일부터 16일까지 일본 교토에서 개최되는 반도체 학회 'VLSI 심포지엄'에 참가해 3나노미터(mn) 2세대(SF3) 공정과 4나노 4세대(SF4X) 공정 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[D램 시장 지각 변동...美마이크론, SK하이닉스 제치고 2위 올라]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525230237</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230524074717</guid>
             <pubDate>Wed, 24 May 2023 00:48:56 GMT</pubDate>
             <content:encoded><![CDATA[중국이 미국 반도체 기업 마이크론에 첫 제재를 가하며 반격에 나서자 미국 의회에서는 중국에 맞서기 위해 동맹을 만들어야 한다는 강력한 주장이 나왔다. 동시에 이번 조치로 인한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 크롬북용 라이젠·애슬론 프로세서 4종 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230524081242</link>
-            <guid>https://zdnet.co.kr/view/?no=20230524081242</guid>
-            <pubDate>Wed, 24 May 2023 00:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 23일(미국 현지시간) 크롬북용 프로세서 4종을 공개했다. 프로세서 신제품은 일반 소비자용 크롬북에 최적화된 라이젠 5 7520C와 라이젠 3 7320C, 교육용 크롬...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
