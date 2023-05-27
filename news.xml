@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 13:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 14:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, AI 스피커 특허소송 패소…배상금 431억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230527221021</link>
+            <guid>https://zdnet.co.kr/view/?no=20230527221021</guid>
+            <pubDate>Sat, 27 May 2023 14:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 미국 국제무역위원회(ITC)에 이어 연방법원에서 진행된 스마트 스피커 특허침해 소송에서도 패소했다. 미국 샌프란시스코 법원 배심원들은 구글이 소노스의 스마트 스피커 특허...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/11/f4e1fbabb1132a37c7a6853fe6e7ea67-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수원대 창업지원단, '2023 예비창업패키지' 발대식 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230527143903</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230527094617</guid>
             <pubDate>Sat, 27 May 2023 00:48:23 GMT</pubDate>
             <content:encoded><![CDATA[테슬라가 주행 보조장치인 완전자율주행(FSD) 기능의 안전 문제로 소비자들의 많은 항의를 받은 사실이 공개됐다. 특히 2015년부터 2022년 사이에 FSD 관련 소비자 항의 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/01/0e642f93d39697563dfbd937b2e102ca-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[챗GPT iOS앱, 6일만에 다운로드 50만회 돌파]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230526153106</guid>
             <pubDate>Fri, 26 May 2023 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤(대표 김창한)은 '배틀그라운드 모바일 프로 시리즈(PUBG Mobile Pro Series, 이하 PMPS) 2023' 시즌 2를 27일 개최한다고 밝혔다. PMPS ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포시에스, 3년 연속 '비대면 바우처' 공급기업 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526154535</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526154535</guid>
-            <pubDate>Fri, 26 May 2023 07:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[포시에스가 3년 연속 중소벤처기업부 '비대면 바우처' 사업의 공급기업에 선정됐다고 26일 밝혔다. 이에 전자계약 서비스 '이폼사인' 이용 요금의 70% 할인 혜택을 제공한다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
