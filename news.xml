@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 10:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 11:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["컴퓨텍스 2023, HPC·AI 혁신 역량 집결"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230529193036</link>
+            <guid>https://zdnet.co.kr/view/?no=20230529193036</guid>
+            <pubDate>Mon, 29 May 2023 11:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[동북아권 최대 ICT 전시회, 컴퓨텍스 타이베이 2023(이하 컴퓨텍스 2023)이 오는 30일 타이베이 시 소재 난강1·2전람관에서 개막한다. 컴퓨텍스를 주관하는 타이트라(대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/29/224cae553767528a22861ea9928760f5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[컴퓨텍스 2023] "모든 것이 AI 컴퓨터, 그 안에 ARM 있다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230529184511</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230529162021</guid>
             <pubDate>Mon, 29 May 2023 10:10:46 GMT</pubDate>
             <content:encoded><![CDATA[두산에너빌리티가 '꿈의 에너지'로 불리는 인공태양 프로젝트에 직접 설계, 제작한 기기를 공급한다. 두산에너빌리티는 국제핵융합실험로(이하 ITER) 국제기구에 공급하는 가압기(P...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/29/aa719e0999e197a1c61229a616ec61f5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주 비밀 더 가까이···중이온 가속기 저에너지 빔 시운전 성공]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230529092524</guid>
             <pubDate>Mon, 29 May 2023 02:09:38 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 여름철 피부관리에 최적화한 미세 초음파 클렌저 'LG 프라엘 워시멜로'를 출시했다. LG 프라엘 워시멜로는 제품 헤드에 달린 브러시로 얼굴 피부를 부드럽게 문질러 세...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티몬, 여름 선케어 아이템 할인 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230529094313</link>
-            <guid>https://zdnet.co.kr/view/?no=20230529094313</guid>
-            <pubDate>Mon, 29 May 2023 00:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[티몬이 30일부터 3일간 '뷰티 맞짱데이' 행사를 열고 여름 시즌 필요한 뷰티 아이템을 최대 55% 할인 판매한다. 뷰티 맞짱데이는 3일간 매일 다른 콘셉트로 진행된다. 30일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
