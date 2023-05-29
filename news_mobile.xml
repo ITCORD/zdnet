@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 21:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 22:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴퓨텍스 2023] 차세대 인텔 코어 프로세서, AI로 효율성 ↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530063250</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530063250</guid>
+            <pubDate>Mon, 29 May 2023 22:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] "12·13세대 코어 프로세서는 성능 향상에 초점을 맞췄다면 향후 출시될 코어 프로세서, 메테오레이크(Meteor Lake)는 다양한 방면에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["컴퓨텍스 2023, HPC·AI 혁신 역량 집결"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230529193036</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230526095739</guid>
             <pubDate>Fri, 26 May 2023 02:02:50 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 26일 엔비디아 지포스 RTX 4060 Ti 탑재 PNY 그래픽카드를 국내 출시했다. 지포스 RTX 4060 Ti는 4천352개 쿠다(CUDA) 코어를 이용해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠쿠복지재단, 경남 자립준비청년에 생활가전 259대 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230526094457</link>
-            <guid>https://zdnet.co.kr/view/?no=20230526094457</guid>
-            <pubDate>Fri, 26 May 2023 00:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠가 경남지역 자립 준비 청년·보호아동의 성공적인 홀로서기를 위해 2천543만원 상당 생활가전을 후원했다고 26일 밝혔다. 쿠쿠사회복지재단은 전기밥솥과 전...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
