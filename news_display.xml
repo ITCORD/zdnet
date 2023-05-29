@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 09:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 10:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴퓨텍스 2023] "모든 것이 AI 컴퓨터, 그 안에 ARM 있다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230529184511</link>
+            <guid>https://zdnet.co.kr/view/?no=20230529184511</guid>
+            <pubDate>Mon, 29 May 2023 10:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] "향후 5년간 기술이 어떻게 발전할지는 상상하기 힘들다. 그러나 여러 측면에서 요구하는 연산량이 급증할 것이며 AI는 어디에나 존재할 것이다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반도체 계약학과 확대..."현장 적재적소 인력 수급이 중요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230526155922</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230524130440</guid>
             <pubDate>Wed, 24 May 2023 05:10:05 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 글로벌 반도체 장비 기업 ASM이 1억 달러(약 1천300억원)를 투자해 화성에 제2생산공장을 신설하고, 연구개발(R&amp;D) 센터를 증설한다. ASM은 24일 오전 10...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울반도체, SID서 와이캅픽셀·눈건강 LED 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230524115740</link>
-            <guid>https://zdnet.co.kr/view/?no=20230524115740</guid>
-            <pubDate>Wed, 24 May 2023 03:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[광반도체 기업 서울반도체는 25일(현지시간)까지 미국 로스앤젤레스에서 열리는 국제정보디스플레이학회(SID) 디스플레이주간(Display Week)에 참가해 '와이캅 픽셀(WIC...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
