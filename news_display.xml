@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 22:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 23:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴퓨텍스 2023] ARM, 새 CPU·GPU 담은 플랫폼 'TCS 23' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530080135</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530080135</guid>
+            <pubDate>Mon, 29 May 2023 23:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] ARM이 29일(이하 대만 현지시간) 오전 그랜드 하얏트 타이베이 호텔에서 진행된 기자간담회를 통해 올 하반기 이후 스마트폰과 태블릿 등에 적용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[컴퓨텍스 2023] "모든 것이 AI 컴퓨터, 그 안에 ARM 있다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230529184511</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230524112023</guid>
             <pubDate>Wed, 24 May 2023 05:10:05 GMT</pubDate>
             <content:encoded><![CDATA[화학 전문 기업 OCI는 24일 서울 중구 본사에서 이사회를 열고 일본 화학 기업 도쿠야마와 반도체용 폴리실리콘 소재를 생산하는 합작법인(JV)을 말레이시아에 설립하기로 했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ASM, 韓에 반도체 장비공장·R&D 센터 첫 삽]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230524130440</link>
-            <guid>https://zdnet.co.kr/view/?no=20230524130440</guid>
-            <pubDate>Wed, 24 May 2023 05:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 글로벌 반도체 장비 기업 ASM이 1억 달러(약 1천300억원)를 투자해 화성에 제2생산공장을 신설하고, 연구개발(R&amp;D) 센터를 증설한다. ASM은 24일 오전 10...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
