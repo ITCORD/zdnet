@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓·덴마크 의료기관들, 소규모 협력부터 뚜벅뚜벅 가야”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530150556</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530150556</guid>
+            <pubDate>Tue, 30 May 2023 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이지만, '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국민 10명 중 6명, 편의점 안전상비약 품목 더 늘려야]]></title>
             <link>https://zdnet.co.kr/view/?no=20230530120114</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230525145832</guid>
             <pubDate>Thu, 25 May 2023 06:13:24 GMT</pubDate>
             <content:encoded><![CDATA[“출근해서 하는 모든 일이 불법 진료다” 김성주 의원이 현재의 의료법상 간호사들의 업무가 불법진료라며 국회에서 재표결을 앞둔 간호법의 통과를 촉구했다. 25일 더불어민주당 김성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디지털헬스] 60만대 팔린 대웅제약의 '프리스타일 리브레']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230525134516</link>
-            <guid>https://zdnet.co.kr/view/?no=20230525134516</guid>
-            <pubDate>Thu, 25 May 2023 05:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[대웅제약이 2020년 출시한 '연속혈당측정기'(Continuous Glucose Monitoring, CGM) '프리스타일 리브레'가 지금까지 60만대가 팔렸다. 프리스타일 리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
