@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 22:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 23:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 모바일 한때 접속 장애]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230531073436</link>
+            <guid>https://zdnet.co.kr/view/?no=20230531073436</guid>
+            <pubDate>Tue, 30 May 2023 23:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[31일 오전 한때 네이버 모바일에서 접속 장애가 발생했다. 서비스는 현재 정상화됐다. 관련 업계에 따르면 이날 오전 6시40분께부터 7시까지 네이버 모바일에서 일시적으로 장애가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/31/457f63c78d048f4de11ad9f27a95c8a7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인이지 등 51개 스타트업 아기유니콘 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230530224314</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230530212524</guid>
             <pubDate>Tue, 30 May 2023 13:13:13 GMT</pubDate>
             <content:encoded><![CDATA[한국천문연구원이 우주날씨 관측을 위해 개발해 누리호에 탑재된 4기의 도요샛 위성 중 아직 교신이 안 되고 있는 3호기는 아예 누리호에서 분리되지 않았을 가능성이 큰 것으로 나타...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/06/13ace8aaaf580ffa9e0252a927293c01-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[젝시믹스, 새 뮤즈 윤성빈 TV광고 캠페인 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230530161855</guid>
             <pubDate>Tue, 30 May 2023 08:12:45 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 '퍼스트 무버' 전략을 한 차례 더 가동할 전망이다. 성공적인 전동화 전환과 함께 전 세계 전기차 시장이 고착화되면서 상대적으로 선점 분야가 적은 수소연료를 공략할...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올림플래닛, 엘리펙스에 '앙리 마티스 특별전' 예고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230530164650</link>
-            <guid>https://zdnet.co.kr/view/?no=20230530164650</guid>
-            <pubDate>Tue, 30 May 2023 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[올림플래닛(대표 권재현)은 전시기획사 주식회사 씨씨오씨(대표 강욱)의 앙리 마티스 특별전을 3D가상공간 SaaS 플랫폼 엘리펙스로 선보일 예정이라고 30일 밝혔다. 마티스 서거...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
