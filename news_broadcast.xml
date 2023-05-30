@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 00:54:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, 네번째 양자보안 스마트폰 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530093603</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530093603</guid>
+            <pubDate>Tue, 30 May 2023 00:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 삼성전자와 함께 양자보안 5G 스마트폰 '갤럭시 퀀텀 4'를 출시한다. 6월8일부터 개통이 가능하며 출고가는 61만8천200원이다. '갤럭시 퀀텀 4'는 SK텔레콤...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KT DS, 통신정보 활용 신용평가시스템 구축 사업 수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530092517</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530092517</guid>
+            <pubDate>Tue, 30 May 2023 00:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[KT DS가 통신대안평가준비법인이 발주한 '통신정보를 활용한 신용평가시스템 구축' 사업을 수주했다고 30일 밝혔다. 이 사업은 비금융 통신 데이터를 활용한 새로운 신용평가시스템...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털소사이어티, AI 윤리 국제 심포지엄 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230529113138</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230525095352</guid>
             <pubDate>Thu, 25 May 2023 02:02:58 GMT</pubDate>
             <content:encoded><![CDATA[국내 1호 이음5G(특화망) 사업자인 네이버클라우드가 호반건설과 함께 국내 최초로 건설 현장서 이음5G 융합서비스 실증에 나섰다. 지난 2021년 말부터 네이버 신사옥에 이음5...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노인 요금제 '봇물'...부모님께 적당한 요금제는]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230524155011</link>
-            <guid>https://zdnet.co.kr/view/?no=20230524155011</guid>
-            <pubDate>Thu, 25 May 2023 02:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤, KT, LT유플러스 등 통신 3사가 5G 중간요금제 다양화 일환으로 만 65세 이상 노인 전용 요금제를 출시했다. 데이터 사용량이 적은 노인 세대 특징에 맞춰 가격...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 에릭슨과 5G+LTE 신규 장비 상용망 검증 완료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230525103209</link>
-            <guid>https://zdnet.co.kr/view/?no=20230525103209</guid>
-            <pubDate>Thu, 25 May 2023 02:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 5G와 LTE 안테나가 결합된 신규 RU의 상용망 기술검증(PoC)을 성공적으로 완료했다고 25일 밝혔다. 이를 통해 실제 사용 환경에서 성능저하 없이 5G와 LTE 통...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
