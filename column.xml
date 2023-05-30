@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 04:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 05:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 글로벌 스트리밍 지원하는 미디어 인프라 구현 방안]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530132722</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530132722</guid>
+            <pubDate>Tue, 30 May 2023 05:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[라이브 스트리밍은 방송 생중계와 달리 양방향 커뮤니케이션이 가능해 호스트가 청중과 직접 만나는 것처럼 친밀한 상호 작용을 가능하게 한다. 온라인 환경에서 실시간으로 동영상을 시청하면서 댓글로 소통하는 것뿐만 아니라 동시에 여러 명이 진행하는 멀티 게스트, 이벤트 및 투표 운영, 쇼핑을 접목한 라이브 커머스까지 라이브 스트리밍의 형태는 다양한 방식으로 진화하고 있다.이렇게 라이브 스트리밍의 &amp;...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/30/24f98313e1451deb0f4807adf5cd3966.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 디지털플랫폼정부의 이상과 현실]]></title>
             <link>https://zdnet.co.kr/view/?no=20230528165037</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
             <content:encoded><![CDATA[100달러 미만 5세대(5G) 스마트폰이 출시되면 세계 스마트폰 이용자가 늘어나고 5G 도입이 더 가속화된다. 디지털 보편화 시대를 견인하는 소프트웨어, 광고, 콘텐츠 같은 산업도 새로운 시장 기회를 맞을 것이다.&nbsp;5G는 커녕 스마트폰을 전혀 소유하지 않은 인구가 아직 세계에 수 십억 명이다. 비싼 가격이 가장 큰 장벽이다. 하지만 이제 세계 모든 소비자가 스마트폰을 소유할 날이 멀...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/04/23/2f5441c613455d0230c5cf0090eaabc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 업무 혁신 공유오피스, 지속 성장 위한 소통·보안 고민할 때]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230421153708</link>
-            <guid>https://zdnet.co.kr/view/?no=20230421153708</guid>
-            <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 3월부터 현재까지 지속된 코로나19 범유행은 그동안 우리가 당연하게 생각했던 '상식'을 송두리째 바꿔 놓았다.매일 교통체증과 인파에 시달리며 출퇴근하는 번거로움 없이 사실은 어디서나 일할 수 있었다는 것을 우리 모두가 깨달았다. 익숙치 않았던 비대면 화상 회의와 같은 업무 방식이 더욱 보편화되었다.이런 흐름은 공유 오피스 성장에도 큰 영향을 미쳤다.많은 기업들이 유동...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/21/7dff07935266593eff4dfed96fe80331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
