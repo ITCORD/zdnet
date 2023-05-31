@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 22:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 23:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴퓨텍스 2023] 시놀로지, 타이베이서 자체 전시회 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230601073415</link>
+            <guid>https://zdnet.co.kr/view/?no=20230601073415</guid>
+            <pubDate>Wed, 31 May 2023 23:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 대만 소재 스토리지 전문 기업 시놀로지는 지난 30일부터 4일간 일정으로 자체 행사 '시놀로지 전시회'(Synology Exhibition)를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[컴퓨텍스 2023] "시놀로지, B2C·B2B 영역 포트폴리오 확대중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230601020320</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230531031723</guid>
             <pubDate>Wed, 31 May 2023 00:57:25 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 29일(현지시간) '컴퓨텍스 타이베이 2023'(이하 컴퓨텍스2023)에서 차세대 자율주행로봇(AMR) 대열을 관리하는 신규 플랫폼 '아이작 AMR'을 공개했다. 아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 중국서 89형 마이크로 LED TV 첫 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230531082249</link>
-            <guid>https://zdnet.co.kr/view/?no=20230531082249</guid>
-            <pubDate>Wed, 31 May 2023 00:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 89형 마이크로 LED TV를 중국 시장에 처음으로 출시하며 초프리미엄 시장 리더십 강화에 나섰다. 삼성전자는 지난해 중국에 110형 마이크로 LED를 출시한 데 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
