@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 04:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 05:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, AI+디지털트윈으로 '지니버스' 구현]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230530153337</link>
+            <guid>https://zdnet.co.kr/view/?no=20230530153337</guid>
+            <pubDate>Wed, 31 May 2023 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 인공지능(AI)과 디지털트윈 기술을 바탕으로 메타버스 플랫폼 '지니버스'를 개선한다. KT는 지난 3월부터 지니버스를 시험버전으로 서비스했다. 올 하반기에는 생성형 AI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKB "Btv에서 서울국제환경영화제 44편 무료로 보세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230531103033</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230530092517</guid>
             <pubDate>Tue, 30 May 2023 00:52:42 GMT</pubDate>
             <content:encoded><![CDATA[KT DS가 통신대안평가준비법인이 발주한 '통신정보를 활용한 신용평가시스템 구축' 사업을 수주했다고 30일 밝혔다. 이 사업은 비금융 통신 데이터를 활용한 새로운 신용평가시스템...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털소사이어티, AI 윤리 국제 심포지엄 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230529113138</link>
-            <guid>https://zdnet.co.kr/view/?no=20230529113138</guid>
-            <pubDate>Mon, 29 May 2023 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[디지털소사이어티는 지난 26일 디지털문화위원회 국제 심포지엄을 개최했다고 밝혔다. 디지털소사이어티는 디지털전환 촉진과 디지털문명 발전여건 조성을 위해 2022년 10월 발족한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
