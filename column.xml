@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 00:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 02:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IITP 기술산책] 차세대 메모리, AI시장 확대 필수 요소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230531104337</link>
+            <guid>https://zdnet.co.kr/view/?no=20230531104337</guid>
+            <pubDate>Wed, 31 May 2023 02:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 11월 챗GPT(Chat GPT) 서비스 등장 이후 인공지능을 개인이 직접 활용하는 시장이 활짝 열렸다. 고용량·고속 연산이 가능한 슈퍼컴퓨터급 성능을 기반으로 한 서비스 모델이 소비자 가까이로 확대됐다. Chat GPT로 대표되는 생성형 AI서비스 등 인공지능 발전은 눈부신 속도로 진행 중이다. AI가 정교화, 고도화할수록 처리해야 할 데이터 양과 속도도 기하급수로 증가함에 따라...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/31/c992ec34042fdb220fa23cf45cd8df81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 글로벌 스트리밍 지원하는 미디어 인프라 구현 방안]]></title>
             <link>https://zdnet.co.kr/view/?no=20230530132722</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
             <content:encoded><![CDATA[온라인 서비스 사용이 많아지면서 그 결과 값이 의아할 때마다 종종 '왜?'라는 질문을 떠올린다. 하지만 어디서도 그 답을 들을 수 없다. 이동이 잦은 편이라 택시를 잡기 위해 ‘카카오T’ 서비스를 자주 이용한다. 여기에는 일반호출, 블루, 벤티, 블랙 등 다양한 서비스 종류가 있다. 가장 저렴한 일반호출이 되지 않을 경우 블루나 벤티 등 프리미엄 서비스가 추천된다. 굳이 급하지...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/02/20/2a6be8b21f7720c2abc1ef753ff6da20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[딜로이트 테크 인사이트⑧] 99달러 5G 스마트폰 올해 등장···세계 디지털 보편화 실현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230423095751</link>
-            <guid>https://zdnet.co.kr/view/?no=20230423095751</guid>
-            <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[100달러 미만 5세대(5G) 스마트폰이 출시되면 세계 스마트폰 이용자가 늘어나고 5G 도입이 더 가속화된다. 디지털 보편화 시대를 견인하는 소프트웨어, 광고, 콘텐츠 같은 산업도 새로운 시장 기회를 맞을 것이다.&nbsp;5G는 커녕 스마트폰을 전혀 소유하지 않은 인구가 아직 세계에 수 십억 명이다. 비싼 가격이 가장 큰 장벽이다. 하지만 이제 세계 모든 소비자가 스마트폰을 소유할 날이 멀...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/23/2f5441c613455d0230c5cf0090eaabc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
