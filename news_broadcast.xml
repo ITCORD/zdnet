@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["망 이용대가 논쟁, '공유지의 비극' 될까 우려"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230601163416</link>
+            <guid>https://zdnet.co.kr/view/?no=20230601163416</guid>
+            <pubDate>Thu, 01 Jun 2023 08:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내 인터넷 사업자(ISP)가 망 이용대가를 내지 않는 콘텐츠 사업자(CP)인 유튜브를 대신해 국내 이용자에게 제공한 편익이 연간 약 5천811억원인 것으로 나타났다. 호서대 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, IPTV 품질 문제 '한달→하루'…"MSA 기술이 핵심"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230601114002</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230530153121</guid>
             <pubDate>Tue, 30 May 2023 07:09:15 GMT</pubDate>
             <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 윤영찬 의원(더불어민주당)이 31일 오전 10시 국회 의원회관 제2소회의실에서 '초거대 AI 시대의 대한민국 그리고 AI 주권'을 주제로 관련 산...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이블TV방송협회, 1분기 우수프로그램 8개 작품상 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230530140512</link>
-            <guid>https://zdnet.co.kr/view/?no=20230530140512</guid>
-            <pubDate>Tue, 30 May 2023 06:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[한국케이블TV방송협회는 제 57회 지역채널 우수프로그램 시상식을 개최하고 우수프로그램 8작을 선정했다고 30일 밝혔다. 우수프로그램은 보도 4편, 정규 2편, 특집 2편 등 총...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
