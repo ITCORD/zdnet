@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 11:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틸론, 정정신고서 제출···7월 초 상장 목표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230603190929</link>
+            <guid>https://zdnet.co.kr/view/?no=20230603190929</guid>
+            <pubDate>Sat, 03 Jun 2023 11:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)은 금융위원회에 정정신고서를 제출하고 코스닥 시장 이전 상장을 재개한다고 2일 밝혔다. 틸론은 투자자 보호와 회사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/03/a2145773d292441723a13fac5e5c9416-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이노핏파트너스, 캡스톤파트너스서 프리AI 투자유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230603175218</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230603172943</guid>
             <pubDate>Sat, 03 Jun 2023 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[초거대 인공지능(AI) 기술은 마케팅에 어떤 영향을 줄까? 이에 대한 현황과 바람직한 방향을 논한 세미나가 한국마케팅학회(학회장 박철)와 한국경영학회(학회장 김재구) 공동주최로...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/03/a5f30a49d79bd745dd4403f9b19cca94-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[4년만에 돌아온 컴퓨텍스 2023, 생성형 AI 바람 거셌다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602162748</guid>
             <pubDate>Fri, 02 Jun 2023 08:13:04 GMT</pubDate>
             <content:encoded><![CDATA[개발자가 환영받는 '소프트웨어 중심' 사회다. 어떤 기업이든 능력 있는 개발자를 찾기 위해 많은 공을 들이고 있다. 그런데 능력 있는 개발자로 성장하기 위한 방법을 터득하는 건...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[굿어스, 엔비디아 파트너십 기반 AI 서비스 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602162828</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602162828</guid>
-            <pubDate>Fri, 02 Jun 2023 08:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[굿어스는 글로벌 인공지능(AI) 열풍에 힘입어 엔비디아 파트너십 기반 AI 비즈니스를 확대한다고 2일 밝혔다. 엔비디아와 파트너십을 체결하한 굿어스는 엔터프라이즈 AI를 위한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
