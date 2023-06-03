@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 18:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 19:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플라나, 美 어바인 시와 민관협력 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230604035911</link>
+            <guid>https://zdnet.co.kr/view/?no=20230604035911</guid>
+            <pubDate>Sat, 03 Jun 2023 19:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[미래항공모빌리티 스타트업 플라나가 미국 캘리포니아주 오렌지카운티 어바인시와 교류·협력을 진행한다. 1일 미국 어바인시 태미 김 부시장은 경기 이천 플라나 연구개발 시설을 방문했...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/04/c7a2ddf093ce75769bca7fa2e832d90b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틸론, 정정신고서 제출···7월 초 상장 목표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230603190929</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230603175218</guid>
             <pubDate>Sat, 03 Jun 2023 09:08:35 GMT</pubDate>
             <content:encoded><![CDATA[디지털전환(DX) 기업교육·컨설팅 전문기관 이노핏파트너스(대표 윤정원)는 최근 캡스톤파트너스로에서 시리즈 프리 A(Pre-A) 투자를 유치했다고 3일 밝혔다. 이노핏파트너스는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/03/e6e133c2dbd71cc353684b793428127b-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[초거대AI 시대 마케팅은?···"데이터 편중없는 모델 개발 필요"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602153726</guid>
             <pubDate>Fri, 02 Jun 2023 08:13:04 GMT</pubDate>
             <content:encoded><![CDATA[네이버 '뷰티윈도'와 '해외직구윈도' 서비스가 종료된다. 대신 이 두 카테고리는 인공지능(AI) 기반 개인화 추천 기능이 적용된 '패션타운'에 들어간다. 패션과 뷰티 카테고리에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신간소개] 필독! 개발자 온보딩 가이드]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602162748</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602162748</guid>
-            <pubDate>Fri, 02 Jun 2023 08:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[개발자가 환영받는 '소프트웨어 중심' 사회다. 어떤 기업이든 능력 있는 개발자를 찾기 위해 많은 공을 들이고 있다. 그런데 능력 있는 개발자로 성장하기 위한 방법을 터득하는 건...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
