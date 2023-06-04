@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 05:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 06:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지하철역 혼잡도, AI로 실시간 알려준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230604145449</link>
+            <guid>https://zdnet.co.kr/view/?no=20230604145449</guid>
+            <pubDate>Sun, 04 Jun 2023 06:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 지하철역의 혼잡도를 실시간으로 모니터링할 수 있는 인공지능(AI) 기반 데이터분석 모델을 개발한다. 행정안전부 통합데이터분석센터는 지하철역 승강장의 혼잡도를 실시간으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["공공SW사업 정당 대가 실현을"···IT서비스산업협회 13일 국회서 세미나]]></title>
             <link>https://zdnet.co.kr/view/?no=20230604131542</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602101401</guid>
             <pubDate>Sat, 03 Jun 2023 16:11:51 GMT</pubDate>
             <content:encoded><![CDATA[역대 최대 인원이 지원한 '제 14기 소프트웨어(SW) 마에스트로' 연수과정 발대식이 2일 서울 양재동 엘타워에서 열린다. SW 마에스트로 과정은 소프트웨어 분야에 재능과 열정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오케스트로, 제1금융권 클라우드 네이티브 사업 연속 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602110542</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602110542</guid>
-            <pubDate>Sat, 03 Jun 2023 16:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 소프트웨어 전문 기업 오케스트로(대표 김민준, 김영광)는 최근 제1금융권의 클라우드 네이티브 환경을 위한 대규모 프로젝트를 연이어 수주했다고 2일 밝혔다. 4대 금융그...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
