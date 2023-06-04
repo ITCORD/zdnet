@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 10:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 11:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오픈랜, 지능·속도 다 잡은 6G 시대 필수기술"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230602153814</link>
+            <guid>https://zdnet.co.kr/view/?no=20230602153814</guid>
+            <pubDate>Sun, 04 Jun 2023 11:07:33 GMT</pubDate>
+            <content:encoded><![CDATA["6G의 가장 큰 특징은 인공지능(AI)이다. 네트워크에 AI 기술을 적용해 5G 보다 성능을 올릴 것으로 기대된다. 이 때문에 6G에서는 개방화, 지능화가 특징인 오픈랜 기술...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 통신 네트워크 분야 R&D 성과 점검회의 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230604100228</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230531151514</guid>
             <pubDate>Wed, 31 May 2023 07:12:24 GMT</pubDate>
             <content:encoded><![CDATA[KT, LG유플러스에 이어 SK텔레콤까지 28GHz 주파수 할당취소 처분을 받았다. 통신 3사가 모두 초고주파 대역의 주파수 이용 권리를 잃은 것이다. 할당취소 처분 과정에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI+디지털트윈으로 '지니버스' 구현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230530153337</link>
-            <guid>https://zdnet.co.kr/view/?no=20230530153337</guid>
-            <pubDate>Wed, 31 May 2023 05:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 인공지능(AI)과 디지털트윈 기술을 바탕으로 메타버스 플랫폼 '지니버스'를 개선한다. KT는 지난 3월부터 지니버스를 시험버전으로 서비스했다. 올 하반기에는 생성형 AI...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
