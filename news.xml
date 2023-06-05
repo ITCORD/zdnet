@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 03:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 04:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이, '바로 발급되는 카드 보기' 서비스 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230605112453</link>
+            <guid>https://zdnet.co.kr/view/?no=20230605112453</guid>
+            <pubDate>Mon, 05 Jun 2023 04:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[·카카오페이가 사전에 신용카드 발급 가능 여부한도를 확인해 볼 수 있는 '바로 발급되는 카드 보기' 서비스를 개시한다고 5일 밝혔다. 바로 발급되는 카드 보기는 만 19세 이상...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/05/ab6a7da902046fcd5b3aab79129a9118-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BMW, 뉴 7시리즈 PHEV 공식 출시…1억8940만원부터]]></title>
             <link>https://zdnet.co.kr/view/?no=20230605115034</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230605114305</guid>
             <pubDate>Mon, 05 Jun 2023 03:12:47 GMT</pubDate>
             <content:encoded><![CDATA[토요타코리아는 5일 서울옥션 강남센터에서 토요타를 대표하는 플래그십 모델 크라운을 공식 출시했다고 밝혔다. 크라운은 토요타코리아가 지난 2월 한국 고객에게 다양한 전동화 차량의...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/05/16bf6b58261ece2a49988bdf473c0b4a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넷마블 마브렉스, 니어 재단과 MBX 생태계 확장 위한 전략적 파트너십 구축]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230605102100</guid>
             <pubDate>Mon, 05 Jun 2023 02:22:56 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스는 5일 일반 소비자용 휴대용(Portable) 보조저장장치(SSD) '비틀 X31'을 국내 시장에 공개했다. X31은 SK하이닉스의 첫 번째 외장형 SSD다. 동작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 환경의날 맞아 '이용자 환경 기여 지표' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230605094214</link>
-            <guid>https://zdnet.co.kr/view/?no=20230605094214</guid>
-            <pubDate>Mon, 05 Jun 2023 02:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[카카오T 전기 택시와 자전거 이동, 카카오페이-카카오톡 전자문서, 카카오메이커스 업사이클링 등 카카오를 통한 이용자 친환경 기여 활동이 지표로 공개됐다. 카카오는 세계 환경의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
