@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 19:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 20:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 기술력 총집합 '비전 프로' 공개…"눈·손가락 움직여 제어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230606041630</link>
+            <guid>https://zdnet.co.kr/view/?no=20230606041630</guid>
+            <pubDate>Mon, 05 Jun 2023 20:10:07 GMT</pubDate>
+            <content:encoded><![CDATA["우리가 만든 최초의 착용형 공간 컴퓨터다." 애플은 이날 본사가 있는 미 캘리포니아주 쿠퍼티노 애플 파크에서 연례 세계 개발자 회의(WWDC)를 열고 MR 헤드셋 '비전 프로...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/06/47a9b9700519b35ff60c81a6fffcc84c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 SEC, '바이낸스' 기소…"이용자 자산 유용" 혐의 주장]]></title>
             <link>https://zdnet.co.kr/view/?no=20230606032919</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230605180506</guid>
             <pubDate>Mon, 05 Jun 2023 09:10:23 GMT</pubDate>
             <content:encoded><![CDATA[한국기계전기전자시험연구원(KTC·원장 안성일)은 충청북도·음성군·충북과학기술혁신원과 5일 KTC 음성에너지본부에서 음성군 기업 경쟁력 강화를 위한 '시군 산업거점 고도화 패키지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/05/17c87a713d37963f7acc4201ed1615fd-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신규 간호사, 과도한 업무로 1년 내 절반 이상이 사표]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230605152654</guid>
             <pubDate>Mon, 05 Jun 2023 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[BNK경남은행은 사내 연수원에서 올해 상반기 신입행원 입소식을 가졌다고 5일 밝혔다. 올해 상반기 신입행원은 모두 20명으로 대부분 지역인재 전형에 합격한 직원들이다. 최은주 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생명연-연세대 의료원, 위암 치료 원천 기술 이전···기술료 수익 340억 이상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230605145117</link>
-            <guid>https://zdnet.co.kr/view/?no=20230605145117</guid>
-            <pubDate>Mon, 05 Jun 2023 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[한국생명공학연구원이 위암 치료 원천 기술을 이전, 340억원 이상의 기술료 수익이 예상된다. 한국생명공학연구원(원장 김장성)은 2일 연세대 의료원과 함께 미만형 위암 치료타겟의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
