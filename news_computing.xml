@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 18:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 19:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 SEC, '바이낸스' 기소…"이용자 자산 유용" 혐의 주장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230606032919</link>
+            <guid>https://zdnet.co.kr/view/?no=20230606032919</guid>
+            <pubDate>Mon, 05 Jun 2023 19:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 세계 최대 가상자산 거래소 바이낸스 및 최고경영자(CEO)인 창펑 자오를 증권법 위반 혐의로 기소했다. SEC는 이런 이유로 바이낸스 운영사인 바...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[슈나이더 일렉트릭, 자동화 솔루션 '팩드라이브3' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230605162638</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602171345</guid>
             <pubDate>Sat, 03 Jun 2023 16:11:51 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 관리 플랫폼 '샌드뱅크' 운영사 디에이그라운드는 인공지능(AI) 기반 가상자산 지수를 출시했다고 2일 밝혔다. 이번에 선보인 '샌드뱅크 인덱스'는 레이어2, 디파이, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[토스랩, 창립 기념 이벤트 '나도 캠핑 가9 싶다' 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602144103</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602144103</guid>
-            <pubDate>Sat, 03 Jun 2023 16:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[토스랩(대표 김대현)이 창립 9주년을 맞아 잔디 사용자 대상으로 '나도 캠핑 가9 싶다' 이벤트를 진행한다고 2일 밝혔다. 토스랩은 올해 창립 9주년을 맞았다. 잔디로 열심히 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 18:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 19:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 SEC, '바이낸스' 기소…"이용자 자산 유용" 혐의 주장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230606032919</link>
+            <guid>https://zdnet.co.kr/view/?no=20230606032919</guid>
+            <pubDate>Mon, 05 Jun 2023 19:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 세계 최대 가상자산 거래소 바이낸스 및 최고경영자(CEO)인 창펑 자오를 증권법 위반 혐의로 기소했다. SEC는 이런 이유로 바이낸스 운영사인 바...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/11/09/a1a2fbeb2b5a113408a00650e461fec6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KTC, 음성군 기업 경쟁력 강화 지원…전기차 충전기 전자파 적합성 평가 기반 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230605180506</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230605174325</guid>
             <pubDate>Mon, 05 Jun 2023 09:10:23 GMT</pubDate>
             <content:encoded><![CDATA[사직한 간호사 절반 가까이가 간호업무 외에 불법진료 지시 등 과도한 업무로 인해 타병원으로 이직하거나 업무 부적응으로 '사직'을 결심한 것으로 조사됐다. 또 간호사를 아예 그만...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/05/b7a44777f295de57a3a75e96fcb16104-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['다시 찾은 건강 미소, 함께 하는 구강 관리'…제78회 구강보건의 날]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230605145117</guid>
             <pubDate>Mon, 05 Jun 2023 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[한국생명공학연구원이 위암 치료 원천 기술을 이전, 340억원 이상의 기술료 수익이 예상된다. 한국생명공학연구원(원장 김장성)은 2일 연세대 의료원과 함께 미만형 위암 치료타겟의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1분기 기업용 SSD 매출 '반토막'…"삼성 감소폭 제일 커"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230605154135</link>
-            <guid>https://zdnet.co.kr/view/?no=20230605154135</guid>
-            <pubDate>Mon, 05 Jun 2023 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[올 1분기 전 세계 기업용(엔터프라이즈) SSD 시장 규모가 절반 수준으로 축소됐다. 메모리반도체 시장 불황이 지속되는 상황에서 제품 거래량과 가격이 동시에 감소한 데 따른 영...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
