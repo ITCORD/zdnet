@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자급제 갤럭시폰 한국이 가장 싸다...환율 영향?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230605155458</link>
+            <guid>https://zdnet.co.kr/view/?no=20230605155458</guid>
+            <pubDate>Mon, 05 Jun 2023 08:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서 자급제로 판매되는 갤럭시S23과 갤럭시Z플립4 가격이 주요 국가 중 가장 저렴한 것으로 나타났다. 5일 와이즈유저의 5월 기준 휴대폰 가격 국내외 비교 결과에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT "코딩 교육 플랫폼 'AI 코디니' 원하는 기능만 골라 쓰세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230605091750</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230601085922</guid>
             <pubDate>Thu, 01 Jun 2023 01:06:09 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 통신장비 제조업체 에릭슨엘지와 손잡고 네트워크에 AI·서비스 품질(QoS) 등 기능을 더한 네트워크 기술을 개발한다고 1일 밝혔다. 양사는 5G 네트워크에 AI·...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 청년 요금제 출시…최대 50GB데이터 추가 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230601083709</link>
-            <guid>https://zdnet.co.kr/view/?no=20230601083709</guid>
-            <pubDate>Thu, 01 Jun 2023 01:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 만 34세 이하 이용자 대상 '0 청년 요금제'를 출시했다고 1일 밝혔다. 0 청년 요금제는 기존 5G 요금제와 같은 가격에 데이터 제공량을 최대 50GB 늘렸다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
