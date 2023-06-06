@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 02:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 03:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, AI사업 조직 확대 개편...사업부로 격상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230606121215</link>
+            <guid>https://zdnet.co.kr/view/?no=20230606121215</guid>
+            <pubDate>Tue, 06 Jun 2023 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 기존 A.(에이닷) 추진단 조직을 'AI서비스 사업부'와 '글로벌·AI 테크 사업부'로 개편했다. AI 컴퍼니 전환이라는 목표를 위해 기존 추진단을 사업부로 격상시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 애드테크 기업 '디지털캠프'와 맞손…광고 콘텐츠 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230606092821</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230601114002</guid>
             <pubDate>Thu, 01 Jun 2023 06:17:36 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 U+tv와 모바일tv 플랫폼에 '마이크로서비스아키텍쳐'(MSA) 기술을 적용해 IPTV 품질을 개선했다. MSA는 서비스 단위를 잘게 분할해 운영하는 설계 기술이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT엠모바일, 월 1만원대 52.5GB LTE 요금제 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230601091017</link>
-            <guid>https://zdnet.co.kr/view/?no=20230601091017</guid>
-            <pubDate>Thu, 01 Jun 2023 01:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[KT엠모바일은 월 1만원대 LTE 정량 요금제 '모두다 많이 요금제' 2종을 출시했다고 1일 밝혔다. 이 요금제 가격은 월 1만7천800원이다. 각각 ▲모두다 많이 2.5GB·...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
