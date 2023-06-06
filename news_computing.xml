@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 00:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 02:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스코드 15, 비전OS 앱도 한 번에 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230606102214</link>
+            <guid>https://zdnet.co.kr/view/?no=20230606102214</guid>
+            <pubDate>Tue, 06 Jun 2023 02:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[애플 전용 앱 개발도구 엑스코드(Xcode)의 신규 버전이 공개됐다. 새롭게 선보인 혼합현실(MR) 헤드셋용 앱 개발을 위해 비전OS를 지원하며 개발자의 생산성 강화를 위한 새...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 SEC, 바이낸스 기소…"이용자 자산 유용 혐의"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230606032919</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230603190929</guid>
             <pubDate>Sat, 03 Jun 2023 16:11:51 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)은 금융위원회에 정정신고서를 제출하고 코스닥 시장 이전 상장을 재개한다고 2일 밝혔다. 틸론은 투자자 보호와 회사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드뱅크, AI 기반 '가상자산 시장 지수' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602171345</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602171345</guid>
-            <pubDate>Sat, 03 Jun 2023 16:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 관리 플랫폼 '샌드뱅크' 운영사 디에이그라운드는 인공지능(AI) 기반 가상자산 지수를 출시했다고 2일 밝혔다. 이번에 선보인 '샌드뱅크 인덱스'는 레이어2, 디파이, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
