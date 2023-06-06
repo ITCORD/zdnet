@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 03:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 04:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울대 이은주 교수, 한국학자 첫 국제커뮤니케이션학회장 취임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230606123630</link>
+            <guid>https://zdnet.co.kr/view/?no=20230606123630</guid>
+            <pubDate>Tue, 06 Jun 2023 04:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[서울대학교는 사회과학대학 언론정보학과 이은주 교수가 한국 학자로는 처음으로 언론정보학 분야를 대표하는 국제커뮤니케이션학회(International Communication As...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/06/469d37239ffc73b76d0484ad38d60d0c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아이스크림, 로봇이 만들면 좋은 점은"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230605170811</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230606105245</guid>
             <pubDate>Tue, 06 Jun 2023 03:16:08 GMT</pubDate>
             <content:encoded><![CDATA[애플TV에서 페이스타임을 즐길 수 있게 됐다. 5일(현지시간) 애플은 미국 캘리포니아 쿠퍼티노에서 열린 연례 세계개발자회의(WWDC)에서 올가을에 선보일 TV 운영체제 tvOS...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/06/0001e892b6286cca58326c838a1450f9-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SKT, AI사업 조직 확대 개편...사업부로 격상]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230606095444</guid>
             <pubDate>Tue, 06 Jun 2023 00:56:07 GMT</pubDate>
             <content:encoded><![CDATA[블리자드엔터테인먼트는 할시와 방탄소년단 멤버 슈가와 협업해 작곡한 디아블로4 테마곡 릴리트의 공식 뮤직비디오를 5일(현지시간) 공개했다. 헨리 홉슨이 감독한 뮤직 비디오는 디아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 QD-OLED, 팬톤 색채 인증…"디스플레이 최초"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230606093354</link>
-            <guid>https://zdnet.co.kr/view/?no=20230606093354</guid>
-            <pubDate>Tue, 06 Jun 2023 00:56:07 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이는 6일 TV용 77·65·55형 양자점(QD·퀀텀닷)-유기발광다이오드(OLED) 패널이 해외 색채 전문 기업 팬톤으로부터 '컬러 인증'과 '스킨톤 인증'을 받았다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
