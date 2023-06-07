@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 02:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 03:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG헬로비전 "제철장터에서 지역별 대표 농수산물 구매하세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230607105635</link>
+            <guid>https://zdnet.co.kr/view/?no=20230607105635</guid>
+            <pubDate>Wed, 07 Jun 2023 03:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[LG헬로비전은 리얼커머스와 지역 우수 상품 공동 개발·유통을 위한 업무협약(MOU)을 체결했다고 7일 밝혔다. 이번 협약으로 LG헬로비전은 지역채널 커머스 '제철장터'에 입점한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 벤처기업 친환경·디지털포용 역량 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230607104444</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602091302</guid>
             <pubDate>Fri, 02 Jun 2023 02:21:07 GMT</pubDate>
             <content:encoded><![CDATA[KT는 인공지능(AI)과 빅데이터 기술을 활용해 축제 운영을 지원하는 문화축제 빅데이터 서비스를 출시했다고 2일 밝혔다. KT는 코로나19 방역 완화 뒤 여행 수요 증가를 고려...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 지자체와 탄소배출 연간 4200톤 감축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602085500</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602085500</guid>
-            <pubDate>Fri, 02 Jun 2023 02:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 고효율 LED 조명 도입·스마트 관제시스템 적용을 통한 지자체의 전력 사용량과 온실가스 배출량 감축 실적을 기반으로 탄소배출권 환경부 공식 인증을 추진한다. SK텔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
