@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 08:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로칩, 미드레인지 FPGA 산업용 엣지 스택·개발 리소스 지원 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230607095844</link>
+            <guid>https://zdnet.co.kr/view/?no=20230607095844</guid>
+            <pubDate>Wed, 07 Jun 2023 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체 회사 마이크로칩테크놀로지는 폴라파이어(PolarFire) FPGA와 SoC로 전환하는 시스템 개발자를 위한 새로운 개발 리소스 및 설계 서비스를 지원한다고 7일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스 휴대용SSD '비틀X31' 나오자마자 완판]]></title>
             <link>https://zdnet.co.kr/view/?no=20230607154809</link>
             <guid>https://zdnet.co.kr/view/?no=20230607154809</guid>
             <pubDate>Wed, 07 Jun 2023 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 내놓은 일반 소비자용 휴대용(Portable) 보조저장장치(SSD·솔리드스테이트드라이브)를 출시되자 마자 완판됐다. 제품 출시는 경쟁사보다 늦었지만, 커지는 개인...]]></content:encoded>
+            <content:encoded><![CDATA[SK하이닉스가 내놓은 일반 소비자용 휴대용(Portable) 보조저장장치(SSD·솔리드스테이트드라이브)가 출시되자 마자 완판됐다. 제품 출시는 경쟁사보다 늦었지만, 커지는 개인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230602143636</guid>
             <pubDate>Fri, 02 Jun 2023 06:17:10 GMT</pubDate>
             <content:encoded><![CDATA[사물인터넷(IoT) 전문 반도체 기업 실리콘랩스는 2일 '제4회 연례 개발자 콘퍼런스' 참가자를 모집한다고 밝혔다. 이번 행사는 오는 8월 22~23일(미국 현지시간) 온라인에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 반도체 딥엑스, '넥스트라이즈 어워즈'서 이노베이션상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230602133540</link>
-            <guid>https://zdnet.co.kr/view/?no=20230602133540</guid>
-            <pubDate>Fri, 02 Jun 2023 05:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 반도체 기업 딥엑스(대표 김녹원)는 지난 1일 한국무역협회와 KDB 산업은행에서 선정한 '제1회 넥스트라이즈 어워즈'에서 332개의 국내외 스타트업을 제치고 '...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
