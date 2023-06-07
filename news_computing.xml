@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 06:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI가 클라우드 비용 관리부터 챗봇 구축까지"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230607142300</link>
+            <guid>https://zdnet.co.kr/view/?no=20230607142300</guid>
+            <pubDate>Wed, 07 Jun 2023 06:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)이 연구실을 넘어 산업에 스며들기 시작했습니다. AI는 전사적자원관리(ERP), 고객관계관리(CRM), 인적자본관리(HR) 등 기업용 소프트웨어(SW)에 들어섰습...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시스코, 보안 조력자로 '생성 AI' 접목했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230607140132</link>
+            <guid>https://zdnet.co.kr/view/?no=20230607140132</guid>
+            <pubDate>Wed, 07 Jun 2023 06:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김윤희 기자] 주문에 맞춰 다양한 입력값을 도출하는 생성 인공지능(AI)이 IT 업계 전반 화두로 대두됐다. 시스코는 보안 담당자 업무를 덜어주는 조력자로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[슬랙, 글로벌 업무 현황 보고서 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230607102601</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230605115535</guid>
             <pubDate>Mon, 05 Jun 2023 06:13:34 GMT</pubDate>
             <content:encoded><![CDATA[한국시스템엔지니어링학회(회장 이주연 아주대 교수)가 지난 1~2일 개최한 '2023년 춘계학술대회'가 강릉 라카이샌즈파인리조트 컨벤션에서 성공적으로 막을 내렸다. 특히 이번 행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리콘랩스, '2023 아기유니콘' 기업 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230605094054</link>
-            <guid>https://zdnet.co.kr/view/?no=20230605094054</guid>
-            <pubDate>Mon, 05 Jun 2023 02:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[리콘랩스는 '2023 아기유니콘' 기업에 선정됐다고 5일 밝혔다. 아기유니콘은 2020년부터 진행된 글로벌 유니콘 프로젝트다. 중소벤처기업부가 기업을 직접 선정한다. 중기부가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지, 롯데온에 '초개인화 추천 API' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230605092230</link>
-            <guid>https://zdnet.co.kr/view/?no=20230605092230</guid>
-            <pubDate>Mon, 05 Jun 2023 02:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지(대표 김성훈)는 롯데온과 '추천 API 도입 및 이용 계약'을 체결했다고 5일 밝혔다. 이번 계약으로 업스테이지는 지난 3월 공개한 추천 API 시스템을 롯데온에 제...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
