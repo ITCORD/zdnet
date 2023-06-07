@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 07:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 08:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PC용 프로세서에 부는 AI 엔진 탑재 바람, 올해 더 거세진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230607160116</link>
+            <guid>https://zdnet.co.kr/view/?no=20230607160116</guid>
+            <pubDate>Wed, 07 Jun 2023 08:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[PC용 프로세서에 AI 특화 엔진 탑재 바람이 거세다. 지난 해까지만 해도 애플 M1·M2, 퀄컴 스냅드래곤 8cx 3세대 등 Arm IP 기반 프로세서만 AI 엔진을 탑재해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미래컴퍼니, 연제일신병원에 수술로봇 레보아이 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20230607142915</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230606094551</guid>
             <pubDate>Tue, 06 Jun 2023 02:25:21 GMT</pubDate>
             <content:encoded><![CDATA[미국의 대중국 견제가 지속되는 가운데, 중국의 첨단 반도체 기술을 과소평가하면 안된다는 기술 전문가들의 분석이 나왔다. 5일(현지시간) CNBC에 따르면, 관련 업계 전문가들은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, '가전 페어링' 체험 공간 오픈..."가전 2개 모으니, 편리함은 2배"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230606094207</link>
-            <guid>https://zdnet.co.kr/view/?no=20230606094207</guid>
-            <pubDate>Tue, 06 Jun 2023 02:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 '가전 페어링' 체험존을 열어 2개 이상의 제품 결합이나 연동으로 편리한 경험을 제공하는 프리미엄 가전을 선보인다. LG전자는 오는 9일부터 11일까지 서울 성수동 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
