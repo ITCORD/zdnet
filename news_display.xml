@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 06:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 07:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NXP, 애플리케이션 프로세서 i.MX 91 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230608160354</link>
+            <guid>https://zdnet.co.kr/view/?no=20230608160354</guid>
+            <pubDate>Thu, 08 Jun 2023 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 8일 'i.MX 91' 애플리케이션 프로세서를 출시했다. i.MX 91은 차세대 리눅스 기반 사물인터넷(IoT)과 산업 응용처에 필요한 보안...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NPU IP 스타트업 '에임퓨처' 50억 시리즈A 투자 유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230608140211</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230607093606</guid>
             <pubDate>Wed, 07 Jun 2023 02:25:58 GMT</pubDate>
             <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어, 지멘스 EDA 사업부는 OSAT(반도체외주패키징·테스트) 업체인 SPIL과 협력해 첨단 패키징 기술력을 강화했다고 7일 밝혔다. 양사는 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 日에 제2공장 건설 논의…레거시 캐파 확대 나설 듯]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230607090426</link>
-            <guid>https://zdnet.co.kr/view/?no=20230607090426</guid>
-            <pubDate>Wed, 07 Jun 2023 02:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리 TSMC가 일본 구마모토현에 두 번째 반도체 공장을 짓기 위해 논의 중이라고 포커스타이완 등 대만 현지 매체들이 6일(현지시간) 보도했다. 보도에 따르면 마크 리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
