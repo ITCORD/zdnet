@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 05:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 06:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["방대한 기업 데이터, '가상화'로 통합·연결해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230608135731</link>
+            <guid>https://zdnet.co.kr/view/?no=20230608135731</guid>
+            <pubDate>Thu, 08 Jun 2023 06:13:21 GMT</pubDate>
+            <content:encoded><![CDATA["기업은 감당하기 힘들 정도로 많은 데이터를 갖고 있습니다. 데이터가 이리저리 흩어져 있어 관리하기도 버겁습니다. 이젠 데이터를 한 곳에 통합, 연결해야 기업 생산성을 높일 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오i클라우드, 멀티AZ 지원하는 새 리전 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230608133322</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230607162234</guid>
             <pubDate>Wed, 07 Jun 2023 08:13:14 GMT</pubDate>
             <content:encoded><![CDATA[슈나이더 일렉트릭 코리아(대표 김경록)가 글로벌 공모전 '고 그린(Go Green) 2023'의 참가자를 모집한다고 7일 밝혔다. 슈나이더 일렉트릭의 고 그린은 미래를 위한 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클로잇, 'ISO 27001' 획득 기반 클라우드 사업 박차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230607160922</link>
-            <guid>https://zdnet.co.kr/view/?no=20230607160922</guid>
-            <pubDate>Wed, 07 Jun 2023 08:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[클로잇(대표 이영수)이 정보보호 분야의 권위 있는 국제표준 정보보호 인증 ISO 27001을 획득했다고 7일 밝혔다. ISO 27001은 국제표준화기구(ISO)와 국제전기기술위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
