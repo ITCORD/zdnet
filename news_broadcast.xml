@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 07:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 08:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 K-예능 바람, 여기서 시작됐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230608141319</link>
+            <guid>https://zdnet.co.kr/view/?no=20230608141319</guid>
+            <pubDate>Thu, 08 Jun 2023 08:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[서울 망원동 조용한 주택가엔 5층 짜리 벽돌 건물이 있다. 이 건물 2~4층엔 넷플릭스 예능 편집실이 자리잡고 있다. 이 곳은 '피지컬 100', '솔로지옥2' 등 넷플릭스 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김의철 "수신료 분리징수 철회하면 KBS 사장직 내려놓겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230608143539</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230607092517</guid>
             <pubDate>Wed, 07 Jun 2023 02:25:26 GMT</pubDate>
             <content:encoded><![CDATA[KT는 서울 강남구청과 함께 로봇 친화형 미래도시 구현을 위해 '실외 로봇 배송 서비스 제공 업무협약(MOU)'을 체결했다고 7일 밝혔다. 이번 협약은 KT의 로봇 기술과 강남...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 직장인 특화 메타버스 '메타슬랩' 체험단 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230607093301</link>
-            <guid>https://zdnet.co.kr/view/?no=20230607093301</guid>
-            <pubDate>Wed, 07 Jun 2023 02:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 직장인 특화 업무용 메타버스 서비스 '메타슬랩' 체험단을 모집한다고 7일 밝혔다. 그간 진행해온 사내 검증에서 나아가 외부 이용자를 대상으로 체험단을 꾸려, 직장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
