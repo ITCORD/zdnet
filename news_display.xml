@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 05:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 파운드리 이어 패키징 '에코시스템' 만든다…TSMC 추격 고삐]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230609082231</link>
+            <guid>https://zdnet.co.kr/view/?no=20230609082231</guid>
+            <pubDate>Fri, 09 Jun 2023 05:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 삼성전자가 패키징 협력사들을 폭넓게 아우르는 새로운 생태계 조성에 나선 것으로 파악됐다. 주요 경쟁사인 TSMC가 이미 지난해 대규모 최첨단 패키징 얼라이언스를 구축한 만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 동국대와 4족보행 로봇 자율주행 연구]]></title>
             <link>https://zdnet.co.kr/view/?no=20230609111005</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230607123510</guid>
             <pubDate>Wed, 07 Jun 2023 04:12:08 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 현대자동차와 차량용 인포테인먼트 반도체 분야에서 첫 협력을 시작한다. 삼성전자는 현대자동차의 차량에 프리미엄 인포테인먼트(IVI, In-Vehicle Infotain...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 방수 MEMS 압력 센서 출시…10년 공급 보증]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230607103445</link>
-            <guid>https://zdnet.co.kr/view/?no=20230607103445</guid>
-            <pubDate>Wed, 07 Jun 2023 02:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[유럽 반도체 회사 ST마이크로일렉트로닉스는 10년 공급을 보증하는 방수·방액 초소형정밀기계기술(MEMS) 절대 압력 센서 'ILPS28QSW'를 7일 출시했다. 이 센서는 밀폐...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
