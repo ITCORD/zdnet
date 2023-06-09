@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 10:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 11:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샘 알트먼, 尹 대통령 만나 '반도체' 중요성 강조]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230609190609</link>
+            <guid>https://zdnet.co.kr/view/?no=20230609190609</guid>
+            <pubDate>Fri, 09 Jun 2023 11:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[샘 알트먼 오픈AI 최고경영자(CEO)가 9일 윤석열 대통령을 만나 반도체 분야 중요성을 강조했다. 이도운 대통령실 대변인에 따르면 윤 대통령은 이날 오후 서울 용산 대통령실에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[샘 알트먼 "AI, 상상하기 힘든 일자리 만들 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230609160455</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230609094140</guid>
             <pubDate>Fri, 09 Jun 2023 00:56:50 GMT</pubDate>
             <content:encoded><![CDATA[IBM은 메인프레임 IBM z16과 IBM 리눅스원 4의 단일 프레임 옵션을 출시한다고 9일 밝혔다. IBM 텔럼 프로세서를 기반으로 친환경 고효율 데이터센터 구현을 목표로 설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[통합 디자인툴 '어도비 익스프레스' 생성 AI 달았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230609085837</link>
-            <guid>https://zdnet.co.kr/view/?no=20230609085837</guid>
-            <pubDate>Fri, 09 Jun 2023 00:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[통합 콘텐츠 제작도구 '어도비 익스프레스'가 이미지 생성 인공지능(AI)을 달았다. 어도비는 소셜 미디어 포스트, 동영상, 이미지, PDF, 전단지, 로고 등 다양한 콘텐츠를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
