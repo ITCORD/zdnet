@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 02:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 03:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이, 재생한 음악 자동 다운로드 기능 테스트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230611114344</link>
+            <guid>https://zdnet.co.kr/view/?no=20230611114344</guid>
+            <pubDate>Sun, 11 Jun 2023 03:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[미국 음원 스트리밍서비스 스포티파이가 한 번 재생한 음악을 자동으로 다운로드 하는 기능을 테스트 중이다. 9일(현지시간) 더버지와 엔가젯 등 외신은 스포티파이가 인터넷이 연결돼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 빙챗 데스크톱 버전에 AI 보이스·TTS 탑재]]></title>
             <link>https://zdnet.co.kr/view/?no=20230611104203</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230608105642</guid>
             <pubDate>Thu, 08 Jun 2023 02:26:02 GMT</pubDate>
             <content:encoded><![CDATA[생각대로 운영사 로지올이 고용노동부 '플랫폼종사자 일터 개선 지원사업'에 선정됐다고 8일 밝혔다. 고용부는 지난 3월 해당 사업 공모 결과로 지방자치단체 15곳, 민간기업 1곳...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 제페토, 생성형 AI로 아바타 제작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230608104737</link>
-            <guid>https://zdnet.co.kr/view/?no=20230608104737</guid>
-            <pubDate>Thu, 08 Jun 2023 02:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 플랫폼 제페토가 신규 이용자들이 생성형 인공지능(AI) 기술을 활용해 간편히 콘텐츠를 제작할 수 있는 이벤트를 마련했다. 제페토 운영사 네이버제트는 신규 이용자를 대상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
