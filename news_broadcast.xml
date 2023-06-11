@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 03:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 04:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지디 브리핑] 망 이용대가 글로벌 논의 위해 전문가 모인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230611122453</link>
+            <guid>https://zdnet.co.kr/view/?no=20230611122453</guid>
+            <pubDate>Sun, 11 Jun 2023 04:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 시작합니다. '꼭 챙길 뉴스'에는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT-팬직-모비드림, 산업용 대형 스마트 실링팬 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230611093849</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230607163004</guid>
             <pubDate>Wed, 07 Jun 2023 08:13:06 GMT</pubDate>
             <content:encoded><![CDATA[이동통신 시장 경쟁 촉진을 위해 5G 요금제 도매대가 인하 등 알뜰폰사업자의 경쟁력 확보를 위한 지원이 필요하다는 의견이 나왔다. 5G 시장은 SK텔레콤, KT, LG유플러스 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이콘 LA, 올해 역대 최대 규모로 열린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230607163519</link>
-            <guid>https://zdnet.co.kr/view/?no=20230607163519</guid>
-            <pubDate>Wed, 07 Jun 2023 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA['케이콘(KCON) LA 2023'이 올해 역대 최대 규모로 열린다. 8월18일부터 사흘간 크립토닷컴아레나와 LA컨벤션센터에서 3개 쇼로 확대한 점이 특징이다. 케이콘이 LA에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
