@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 23:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 01:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 데이터 주권 보장 '정부용 애저 오픈AI' 서비스 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230611031842</link>
+            <guid>https://zdnet.co.kr/view/?no=20230611031842</guid>
+            <pubDate>Sun, 11 Jun 2023 00:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 정부기관의 요구수준에 맞춘 생성AI 서비스를 공개했다. 최근 벤처비트 등 외신에 따르면 마이크로소프트는 '정부용 애저 오픈AI' 서비스를 출시했다고 공식...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[샘 알트먼, 尹 대통령 회동…"한국과 반도체 협력 중요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230609190609</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230609094630</guid>
             <pubDate>Fri, 09 Jun 2023 00:56:50 GMT</pubDate>
             <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 신한금융그룹 손해보험 자회사 신한EZ손해보험의 차세대IT시스템 구축 사업을 수주했다고 9일 밝혔다. 신한EZ손보의 차세대IT시스템 구축 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM,  z16·리눅스원 4 단일 프레임 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230609094140</link>
-            <guid>https://zdnet.co.kr/view/?no=20230609094140</guid>
-            <pubDate>Fri, 09 Jun 2023 00:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 메인프레임 IBM z16과 IBM 리눅스원 4의 단일 프레임 옵션을 출시한다고 9일 밝혔다. IBM 텔럼 프로세서를 기반으로 친환경 고효율 데이터센터 구현을 목표로 설...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
