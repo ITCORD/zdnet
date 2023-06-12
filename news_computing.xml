@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 08:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 09:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 13일 윈도10 서비스 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230612173710</link>
+            <guid>https://zdnet.co.kr/view/?no=20230612173710</guid>
+            <pubDate>Mon, 12 Jun 2023 09:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 13일 모든 버전의 윈도10 서비스를 종료한다. 12일 마이크로소프트 측은 13일 제공하는 마지막 업데이트를 끝으로 윈도10의 서비스를 중단한다고 밝혔다. 마이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리미니스트리트, 글로벌 IT리더 교류 커뮤니티 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230612164800</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스켈러탭스, 대형언어모델 브랜드 '벨라' 론칭]]></title>
+            <title><![CDATA[스켈터랩스, 대형언어모델 브랜드 '벨라' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230612152819</link>
             <guid>https://zdnet.co.kr/view/?no=20230612152819</guid>
             <pubDate>Mon, 12 Jun 2023 07:10:01 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230611031842</guid>
             <pubDate>Sun, 11 Jun 2023 00:59:34 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)가 정부기관의 요구수준에 맞춘 생성AI 서비스를 공개했다. 최근 벤처비트 등 외신에 따르면 마이크로소프트는 '정부용 애저 오픈AI' 서비스를 출시했다고 공식...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 알트먼, 尹 대통령 회동…"한국과 반도체 협력 중요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230609190609</link>
-            <guid>https://zdnet.co.kr/view/?no=20230609190609</guid>
-            <pubDate>Fri, 09 Jun 2023 11:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트먼 오픈AI 최고경영자(CEO)가 9일 윤석열 대통령을 만나 반도체 분야 중요성을 강조했다. 이도운 대통령실 대변인에 따르면 윤 대통령은 이날 오후 서울 용산 대통령실에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
