@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 10:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 11:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇팔로 전기차 충전…서울시, 전국 최초 실증]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230613173925</link>
+            <guid>https://zdnet.co.kr/view/?no=20230613173925</guid>
+            <pubDate>Tue, 13 Jun 2023 11:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 비대면·비접촉으로 전기차를 충전하는 '무인 로봇충전 시스템' 실증 사업을 추진한다고 13일 밝혔다. 이전까지 자동차 업체가 연구나 시연을 위해 로봇충전기를 사용했지만 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['서빙로봇' 베어로보틱스, 대구에 테크센터 짓는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230613164208</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230613083623</guid>
             <pubDate>Tue, 13 Jun 2023 00:54:23 GMT</pubDate>
             <content:encoded><![CDATA[인수를 막기 위해 캘리포니아 북부지역법원에 임시제한명령을 신청했다고 CNBC가 12일(현지시간) 보도했다. FTC는 두 회사 합병을 방치할 경우 마이크로소프트가 가격, 게임 품...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 태양광 인버터 기업 솔라엣지와 '넷 제로 홈' 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230613080840</link>
-            <guid>https://zdnet.co.kr/view/?no=20230613080840</guid>
-            <pubDate>Tue, 13 Jun 2023 00:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 글로벌 1위 태양광 스마트 인버터 기업인 '솔라엣지(SolarEdge)'와 파트너십을 체결한다. 이번 협력으로 삼성전자는 글로벌 시장에서 미래형 주거형태인 '넷 제로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
