@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[공정위, 삼성전자에 갑질한 '브로드컴' 동의의결안 기각]]></title>
+            <title><![CDATA[삼성전자·SK하이닉스, 월1회 '주4일 근무']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230613141333</link>
+            <guid>https://zdnet.co.kr/view/?no=20230613141333</guid>
+            <pubDate>Tue, 13 Jun 2023 06:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자와 SK하이닉스 직원은 필수 근무 시간만 채우면 한 달에 한 번, 금요일에 쉴 수 있다. 13일 각 사에 따르면 삼성전자는 이달부터 직원이 필수 근무 시간을 채우면 매달...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공정위, 삼성전자에 갑질한 브로드컴 자정시정 기각]]></title>
             <link>https://zdnet.co.kr/view/?no=20230613095331</link>
             <guid>https://zdnet.co.kr/view/?no=20230613095331</guid>
             <pubDate>Tue, 13 Jun 2023 03:11:48 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230608153133</guid>
             <pubDate>Thu, 08 Jun 2023 08:12:34 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이와 LG이노텍, SK하이닉스 등 국내 반도체·디스플레이·부품 회사가 애플 신제품 '비전 프로(Vision Pro)' 공급망에 참여하는 것으로 알려졌다. 애플은 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP, 애플리케이션 프로세서 i.MX 91 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230608160354</link>
-            <guid>https://zdnet.co.kr/view/?no=20230608160354</guid>
-            <pubDate>Thu, 08 Jun 2023 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 8일 'i.MX 91' 애플리케이션 프로세서를 출시했다. i.MX 91은 차세대 리눅스 기반 사물인터넷(IoT)과 산업 응용처에 필요한 보안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM "똑똑한 AI, '데이터 레이크하우스'부터 달라야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230613140542</link>
+            <guid>https://zdnet.co.kr/view/?no=20230613140542</guid>
+            <pubDate>Tue, 13 Jun 2023 06:13:09 GMT</pubDate>
+            <content:encoded><![CDATA["신뢰가 보장되지 않은 인공지능(AI)이라면 기업은 쓸 수 없다. 결국 근간이 되는 데이터를 신뢰할 수 있는지다. 기업이 데이터가 있는 곳 어디서든 AI를 활용할 수 있게 하겠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[영림원소프트랩, ERP 아이디어 공모전 성료]]></title>
             <link>https://zdnet.co.kr/view/?no=20230613095000</link>
@@ -96,11 +104,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마이크로소프트, 13일 윈도10 서비스 중단]]></title>
+            <title><![CDATA[마이크로소프트, 13일 윈도10 21H2 마지막 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20230612173710</link>
             <guid>https://zdnet.co.kr/view/?no=20230612173710</guid>
             <pubDate>Mon, 12 Jun 2023 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 13일 모든 버전의 윈도10 서비스를 종료한다. 12일 마이크로소프트 측은 13일 제공하는 마지막 업데이트를 끝으로 윈도10의 서비스를 중단한다고 밝혔다. 마이...]]></content:encoded>
+            <content:encoded><![CDATA[마이크로소프트가 윈도10 21H2 버전 지원을 종료한다고 밝혔다. 12일 마이크로소프트는 13일 제공하는 마지막 업데이트를 끝으로 윈도10 21H2 버전 서비스를 중단한다고 밝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230612151451</guid>
             <pubDate>Mon, 12 Jun 2023 07:10:01 GMT</pubDate>
             <content:encoded><![CDATA[자버가 교보정보통신과 전자문서 서비스 공급 계약을 맺었다고 12일 밝혔다. 자버는 설문, 공지, 계약 문서 등 다양한 문서를 카톡, 문자, 메일로 발송하고 관리할 수 있는 전자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포시에스, 이폼사인 '공공부문 SW 어워드' 과기부 장관상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230612150607</link>
-            <guid>https://zdnet.co.kr/view/?no=20230612150607</guid>
-            <pubDate>Mon, 12 Jun 2023 06:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[포시에스가 전자계약 서비스 이폼사인이 '제3회 공공부문 SW 어워드'에서 최고상인 과학기술정보통신부 장관상을 수상했다고 12일 밝혔다. '공공부문 SW 어워드'는 공공분야 정보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
