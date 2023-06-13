@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 07:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 08:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[딜로이트 테크 인사이트⑫] 모바일이 대세···소셜 커머스 부활]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230611232539</link>
+            <guid>https://zdnet.co.kr/view/?no=20230611232539</guid>
+            <pubDate>Tue, 13 Jun 2023 08:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[소셜미디어 인플루언서와 디지털 네이티브 소비자들 덕분에 소셜커머스(social commerce)가 무섭게 성장하며, 쇼퍼블 미디어(shoppable media) 영역이 한층 확장되고 있다. 소셜미디어 피드는 디지털 시대에 새로 등장한 쇼윈도라 할 수 있다. 그것도 소셜미디어 사용자들의 실제 구매를 다량 유도하는 강력한 쇼윈도다. 딜로이트 글로벌은 2023년 소셜 커머스 세계시장 규모가 1조 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/11/aa8c009e26531dac22581128f2a836ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[딜로이트 테크 인사이트⑪] 차세대 미디어 제작방식 ‘버추얼 프로덕션’ 시선]]></title>
             <link>https://zdnet.co.kr/view/?no=20230603185331</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 May 2023 00:49:09 GMT</pubDate>
             <content:encoded><![CDATA[요즘 하루가 멀다 하고 인공지능(AI)이 무언가를 창작했다는 기사들이 쏟아져 나온다. 소설이나 그림, 사진 등은 이제 기본이 됐다. 베토벤의 피아노 소나타나 고흐의 인상주의 작품과 같이 일정한 특징을 가진 작품들을 창작하는가 하면, 애니메이션이나 동영상과 같이 많은 작업이 필요한 일도 AI가 해내고 있다.이렇게 인공지능이 ‘창작’의 영역에서까지 사용되기 시작하면서 인간의 창작물을 규율해 온 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/02/20/2a6be8b21f7720c2abc1ef753ff6da20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드리프트 탐지 및 IaC를 통해 보안 인프라를 유지하는 방법]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230427155750</link>
-            <guid>https://zdnet.co.kr/view/?no=20230427155750</guid>
-            <pubDate>Mon, 01 May 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[인프라 프로비저닝은 올바른 프로세스와 기능을 갖추지 않는다면, 시간을 낭비하는 끝없는 루프처럼 느껴질 수도 있을 것이다. 많은 기업들은 이에 대한 솔루션으로 코드형 인프라(IaC, Infrastructure-as-Code)를 채택해 여러 퍼블릭 클라우드 및 프라이빗 데이터센터에 걸쳐 프로비저닝을 자동화하고 있다.IaC는 병목현상 없이 인프라 및 인프라 변경사항을 배포할 수 있는 보다 현대적이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/27/2d9a58fd95adf99197573036e29ed645.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

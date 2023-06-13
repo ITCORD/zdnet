@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 07:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 08:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아수스토어, SSD 기반 NAS '플래시스토어' 2종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230613162237</link>
+            <guid>https://zdnet.co.kr/view/?no=20230613162237</guid>
+            <pubDate>Tue, 13 Jun 2023 08:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[에이수스 산하 NAS(네트워크 저장장치) 제조사인 아수스토어가 13일 NVMe SSD 기반 고성능 NAS '플래시스토어' 신제품을 국내를 포함 글로벌 출시했다. 신제품은 NVM...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로봇청소기 신제품 쏟아진다…물걸레 온수세척 기능도]]></title>
             <link>https://zdnet.co.kr/view/?no=20230613154402</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230612160503</guid>
             <pubDate>Mon, 12 Jun 2023 08:13:37 GMT</pubDate>
             <content:encoded><![CDATA[애플이 최근 선보인 MR(혼합현실) 헤드셋 '비전 프로'와 동일한 상표명을 화웨이에서 먼저 출원한 것으로 나타났다. 12일(현지시간) 폰아레나는 중국 매체 보도를 인용해 화웨이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새 맥프로 '심장' M2 울트라, 벤치마크 성능은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230612143203</link>
-            <guid>https://zdnet.co.kr/view/?no=20230612143203</guid>
-            <pubDate>Mon, 12 Jun 2023 08:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 자체 개발한 PC용 프로세서 중 최상위 제품인 M2 울트라를 탑재한 맥 스튜디오·맥프로 등이 이번 주부터 미국 등 시장에 공급된다. 그러나 성능 평가 등을 위해 제품을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
