@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 19:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 20:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 생성형 AI 가속 위한 인스팅트 MI300X GPU 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230614042336</link>
+            <guid>https://zdnet.co.kr/view/?no=20230614042336</guid>
+            <pubDate>Tue, 13 Jun 2023 20:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 13일(미국 현지시간) 거대언어모델(LLM) 등 생성형 AI와 고성능 컴퓨팅(HPC) 가속을 위한 서버용 칩인 '인스팅트 MI300X' GPU를 공개했다. 인스팅트 M...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/14/672fbb74f7995b8d8a90e9ebaa067e26-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AMD, 클라우드 겨냥 서버용 CPU '4세대 에픽 97X4' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230614035939</link>
+            <guid>https://zdnet.co.kr/view/?no=20230614035939</guid>
+            <pubDate>Tue, 13 Jun 2023 20:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 13일(미국 현지시간) 클라우드 컴퓨팅에 최적화된 새 프로세서인 4세대 에픽(EPYC) 97X4 프로세서(개발명 '베르가모')를 공개했다. 4세대 에픽 97X4 프로세...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/14/c0f3266bdee4f179e1f8eb004dc33973-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDI-GM, 美 인디애나에 연산 30GWh 규모 배터리 공장 건설]]></title>
             <link>https://zdnet.co.kr/view/?no=20230613223227</link>
             <guid>https://zdnet.co.kr/view/?no=20230613223227</guid>
             <pubDate>Tue, 13 Jun 2023 14:09:34 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDI와 제너럴모터스(GM)는 미국 인디애나주 북중부 지역인 세인트조셉 카운티 내 뉴 칼라일에 배터리 합작법인을 건설한다고 13일 밝혔다. 양사는 오는 2026년 가동을 목...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/12/09/efce0ff78ed6c5bc7e78a2267d09312b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경콘진, 말레이시아 정부 관계자 연수에서 'K-게임산업 육성 노하우' 공유]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230613205842</guid>
             <pubDate>Tue, 13 Jun 2023 12:18:04 GMT</pubDate>
             <content:encoded><![CDATA[경기콘텐츠진흥원(원장 민세희, 경콘진)은 기획재정부가 주최하고 한국개발연구원이 주관하는 '한-말레이시아 동방정책 40주년 기념 디지털 콘텐츠 산업 역량강화 연수'에서 경기도 게...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/13/b84817c2e349f4ea10d22846f667b0b7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로봇팔로 전기차 충전…서울시, 전국 최초 실증]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230613152636</guid>
             <pubDate>Tue, 13 Jun 2023 09:09:23 GMT</pubDate>
             <content:encoded><![CDATA[네이버 관계사 라인이 일본 온라인 증권거래서비스에서 철수한다. 13일 일본 니케이 아시아 등 외신에 따르면 라인이 증권 대기업 노무라 홀딩스와 합작 투자하며 운영한 증권업 철수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 국내 방송사업매출 20조 문턱...증가세 둔화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230613164312</link>
-            <guid>https://zdnet.co.kr/view/?no=20230613164312</guid>
-            <pubDate>Tue, 13 Jun 2023 09:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 방송사업매출이 전년 대비 2.6% 늘어난 19조9천137억원으로 조사됐다. 20조 문턱에서 증가세는 유지했지만 증가폭이 둔화된 점이 특징이다. 방송통신위원회는 13일 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에퀴닉스, 파트너사 친환경 에너지 절감 통합 관리]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230613171603</link>
-            <guid>https://zdnet.co.kr/view/?no=20230613171603</guid>
-            <pubDate>Tue, 13 Jun 2023 09:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[세계적으로 탄소절감 활동 중인 에퀴닉스가 올해 비즈니스 파트너의 온실가스 배출 및 에너지 절감까지 함께 관리한다. 13일 장혜덕 에퀴닉스 한국 대표는 2022 지속 가능성 보고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
