@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 22:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 23:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['초당 32GB' PCI 익스프레스 7.0 규격 초안 공개…2027년 상용화 목표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230614050939</link>
+            <guid>https://zdnet.co.kr/view/?no=20230614050939</guid>
+            <pubDate>Tue, 13 Jun 2023 23:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[PCI 익스프레스 규격을 주관하는 업계 표준화 단체인 PCI-SIG가 13일(미국 현지시간) 차세대 규격인 PCI 익스프레스 7.0 초안(버전 0.3)을 공개했다. PCI-SI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 생성형 AI 가속 위한 인스팅트 MI300X GPU 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230614042336</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230609134552</guid>
             <pubDate>Fri, 09 Jun 2023 06:13:03 GMT</pubDate>
             <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 신규 반도체 패키징 공장을 공식 개장했다. 해당 공장은 기존 TSMC의 패키징 공장 4개를 합한 것보다 1.3배 큰 면적으로, 연간 100만개 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 파운드리 이어 패키징 '에코시스템' 만든다…TSMC 추격 고삐]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230609082231</link>
-            <guid>https://zdnet.co.kr/view/?no=20230609082231</guid>
-            <pubDate>Fri, 09 Jun 2023 05:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 삼성전자가 패키징 협력사들을 폭넓게 아우르는 새로운 생태계 조성에 나선 것으로 파악됐다. 주요 경쟁사인 TSMC가 이미 지난해 대규모 최첨단 패키징 얼라이언스를 구축한 만...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
