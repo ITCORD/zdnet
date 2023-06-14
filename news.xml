@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 15:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 16:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨어스토리지 "데이터센터에서 HDD를 치워라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230614235222</link>
+            <guid>https://zdnet.co.kr/view/?no=20230614235222</guid>
+            <pubDate>Wed, 14 Jun 2023 16:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] “하드디스크는 더 이상 답이 아니다. 콜드 데이터와 하드디스크의 관계를 끝낼 시간이다.” 퓨어스토리지는 14일(현지시간) 미국 라스베이거스에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/14/d3a46439cdf340f910a9e6806b704d15-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 카페 1시간째 '먹통'…"긴급 점검 중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230614224134</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230614231107</guid>
             <pubDate>Wed, 14 Jun 2023 15:09:31 GMT</pubDate>
             <content:encoded><![CDATA[한국지능웰케어산업협회(회장 박외진)는 13일 충북 오송시에 위치한 H호텔 세종시티 그랜드 홀에서 '디지털 헬스케어 융합 웰케어 데이터 활용 세미나'를 성공적으로 개최했다고 밝혔...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/14/a4b8e4fff6cd981ccd8a8c7ccea7eeb3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이영 중기부 장관 프랑스 '비바텍 2023'서 기조연설···"세계 창업생태계 연결 필요"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230614173044</guid>
             <pubDate>Wed, 14 Jun 2023 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼 아즈메타 운영사 한컴프론티스는 16일까지 사흘간 서울 코엑스에서 열리는 '2023 메타버스 엑스포'에 참가해, 아즈메타 새 로드맵과 팝아티스트 앤디워홀 작품을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 탄소국경세 이행 초안 발표…정부 "국내 기업 배출량 의무 경감 전망"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230614173257</link>
-            <guid>https://zdnet.co.kr/view/?no=20230614173257</guid>
-            <pubDate>Wed, 14 Jun 2023 09:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU) 집행위원회가 13일(현지시간) '탄소국경조정제도 전환기간중 보고의무 이행을 위한 이행법' 초안을 발표한 가운데 정부는 국내 철강기업의 배출량 보고 의무가 경감될...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
