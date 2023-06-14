@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ADI, 차세대 무선통신용 '아폴로 MxFE' 플랫폼 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230614170148</link>
+            <guid>https://zdnet.co.kr/view/?no=20230614170148</guid>
+            <pubDate>Wed, 14 Jun 2023 08:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[아나로그디바이스는 최첨단 소프트웨어 정의 직접 RF 샘플링(direct RF-sampling) 광대역 혼성신호 프런트엔드 플랫폼 '아폴로(Apollo) MxFE'를 출시한다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK실트론, 구미 초등학생과 함께 지역사회 '행복메이커' 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230614155018</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230613091121</guid>
             <pubDate>Tue, 13 Jun 2023 00:54:41 GMT</pubDate>
             <content:encoded><![CDATA[반도체 장비업체 원익아이피에스(원익IPS)가 환경부 주관으로 진행된 '2023년 스마트 생태 공장 구축 사업'에서 생태 공장 구축을 위한 지원대상 기업으로 선정됐다고 13일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 1분기 파운드리 점유율 12.4% '뒷걸음'...TSMC와 격차 더 벌어져]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230613082015</link>
-            <guid>https://zdnet.co.kr/view/?no=20230613082015</guid>
-            <pubDate>Tue, 13 Jun 2023 00:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[올해 1분기 파운드리 시장에서 1위인 TSMC와 2위인 삼성전자의 점유율 격차가 이전 보다 더 벌어졌다. 양사의 점유율 격차는 지난해 2분기 37%포인트(P)에서 3분기 40....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
