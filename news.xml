@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 22:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 23:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 엑스박스 원 게임 개발 공식 종료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616074255</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616074255</guid>
+            <pubDate>Thu, 15 Jun 2023 23:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 이전 세대 콘솔인 엑스박스 원과 공식 작별한다. 영국 게임산업 매체 게임인더스트리는 마이크로소프트가 엑스박스 원 신규 게임을 개발 중인 내부 개발팀이 없다고 밝...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2013/09/21/djv3MIn8pU34rPB5gcxb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퓨어스토리지, 구독 기반 랜섬웨어 복구 SLA 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616051642</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230615231602</guid>
             <pubDate>Thu, 15 Jun 2023 15:10:01 GMT</pubDate>
             <content:encoded><![CDATA[앤서링 AI(Answering AI) 스타트업 포티투마루(42Maru, 대표 김동환)가 처음으로 글로벌 SaaS 서비스를 영국 런던에서 론칭했다. 15일 회사에 따르면 '사이트...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/15/a8ccbe291e835a13fcf33f123eba8881-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울중등진학지도연구회, AI·에듀테크 학교 현장 적용 세미나 연다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230615171011</guid>
             <pubDate>Thu, 15 Jun 2023 08:12:14 GMT</pubDate>
             <content:encoded><![CDATA[컴투스홀딩스는 정철호 사내이사가 신임 대표로 취임한다고 15일 밝혔다. 컴투스홀딩스에서 다년간 최고 재무책임자(CFO)와 지주정책부문 기획실장 등을 역임한 정철호 신임 대표이사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로스트레티지, 통합 분석 플랫폼 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230615165610</link>
-            <guid>https://zdnet.co.kr/view/?no=20230615165610</guid>
-            <pubDate>Thu, 15 Jun 2023 08:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로스트레티지 코리아(MSTR, 대표 양천금)는 오픈 통합 분석 플랫폼으로 제공하는 '마이크로스트레티지 원'을 출시했다고 15일 밝혔다. 미국 올랜도에서 열린 '마이크로스트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
