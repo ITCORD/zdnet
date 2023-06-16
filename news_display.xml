@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 07:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 08:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NXP, 상단 냉각 RF 증폭기 모듈 선봬]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616151011</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616151011</guid>
+            <pubDate>Fri, 16 Jun 2023 08:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 16일 상단 냉각(top-side cooled) 무선주파수(RF) 증폭기 모듈을 선보였다. NXP는 더 얇고 가벼운 5세대(5G) 이동통신용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TSMC, 일본 반도체 2공장 토지 부족으로 난항]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616153127</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616153127</guid>
+            <pubDate>Fri, 16 Jun 2023 08:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 일본에 두번째 반도체 공장 건설을 추진 중이지만, 부지 확보에 어려움을 겪고 있다고 일본 닛케이 아시아가 15일 보도했다. 마크 리우 TSMC 회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["한국, 전기차 보급 도약대…반도체기업에 기회"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616141020</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230614093900</guid>
             <pubDate>Wed, 14 Jun 2023 02:13:42 GMT</pubDate>
             <content:encoded><![CDATA[한국에서 반도체 장비 매출액이 9% 성장하는 데 그쳤다. 북미와 대만, 유럽에도 성장률이 밀렸다. 14일 국제반도체장비재료협회(SEMI)에 따르면 1분기 세계 반도체 장비 매출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, ARM 상장에 '핵심투자자' 참여 협의 중]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230614090154</link>
-            <guid>https://zdnet.co.kr/view/?no=20230614090154</guid>
-            <pubDate>Wed, 14 Jun 2023 00:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[영국 반도체 설계자산(IP) 업체 ARM이 연내 뉴욕 증시 기업공개(IPO)를 앞둔 가운데, 인텔이 ARM의 주요 투자자로 참여하는 방안을 논의하고 있다. 13일(현지시간) 로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알엔투테크놀로지, 전기차용 방열기판 등 신사업에 집중 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230614082913</link>
-            <guid>https://zdnet.co.kr/view/?no=20230614082913</guid>
-            <pubDate>Wed, 14 Jun 2023 00:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[국내 통신 부품 전문업체 알엔투테크놀로지가 사업 확장에 적극 나서고 있다. 올해 초 국내 완성차 업체와 전기차용 방열기판 공동 개발 프로젝트를 수주했으며, 국내외 방산 업체와 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
