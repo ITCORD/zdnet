@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 10:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 11:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["올플래시의 GB당 가격 10센트까지 떨어질 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616195442</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616195442</guid>
+            <pubDate>Fri, 16 Jun 2023 11:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 퓨어스토리지는 오는 2026년까지 외장형 스토리지에 장착하는 단일 플래시모듈의 용량을 300TB로 확대하겠다고 밝혔다. 이를 통해 플래시 매...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["소규모 AI 모델, 비즈니스에 더 효율적"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616173820</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616081219</guid>
             <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 주가는 3.2% 올라 사상 최고치를 기록했다. 주요 외신은 15일(현지시간) 마이크로소프트 주식이 뉴욕증권거래소(NYSE)에서 3.2% 오른 348.10달러(약 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글도 직원에게 "AI 챗봇 조심해라" 경고...왜]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616083447</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616083447</guid>
-            <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 자체 인공지능(AI) 챗봇 '바드'를 계속 개선 중인 가운데 자사 직원들에게 바드를 포함한 AI 챗봇에 기밀정보를 입력하지 말 것을 경고했다고 로이터 통신이 15일(현지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
