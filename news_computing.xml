@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 12:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠버네티스에 별도 데이터 계층이 필요한 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616211153</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616211153</guid>
+            <pubDate>Fri, 16 Jun 2023 12:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] “쿠버네티스는 기본적으로 로컬 스토리지에서 출발했습니다. 쿠버네티스의 컨테이너스토리지인터페이스(CSI)가 외부 스토리지를 위한 요소지만, 쿠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["올플래시의 GB당 가격 10센트까지 떨어질 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616195442</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616090124</guid>
             <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
             <content:encoded><![CDATA[뤼튼테크놀로지스(대표 이세영)가 150억원 규모 시리즈A 투자를 유치했다고 16일 밝혔다. 이번 투자는 지난해 11월 38억원 규모의 프리-A 시리즈에 이은 투자다. 현재 누적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트 주가 2021년 이후 최고치...이유는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616081219</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616081219</guid>
-            <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 주가는 3.2% 올라 사상 최고치를 기록했다. 주요 외신은 15일(현지시간) 마이크로소프트 주식이 뉴욕증권거래소(NYSE)에서 3.2% 오른 348.10달러(약 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

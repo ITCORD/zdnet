@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 12:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠버네티스에 별도 데이터 계층이 필요한 이유 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616211153</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616211153</guid>
+            <pubDate>Fri, 16 Jun 2023 12:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] “쿠버네티스는 기본적으로 로컬 스토리지에서 출발했습니다. 쿠버네티스의 컨테이너스토리지인터페이스(CSI)가 외부 스토리지를 위한 요소지만, 쿠...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/16/20faa5764acd2026920a5c5b8f72f7ab-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["올플래시의 GB당 가격 10센트까지 떨어질 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616195442</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230616180724</guid>
             <pubDate>Fri, 16 Jun 2023 10:10:24 GMT</pubDate>
             <content:encoded><![CDATA[올 여름 예정된 일본 후쿠시마 원전 오염수 방류 시점이 코앞까지 다가오자 온오프라인 유통 채널에서 '소금 사재기'가 현실화되고 있다. 네이버, 쿠팡, SSG닷컴 등 이커머스 플...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/05/23/cd7e53ce42dfd2c9802c879263569c89-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[폴리곤 박성모 한국사업 총괄, 블록체인 메인넷 역할 강연 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616153127</guid>
             <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 일본에 두번째 반도체 공장 건설을 추진 중이지만, 부지 확보에 어려움을 겪고 있다고 일본 닛케이 아시아가 15일 보도했다. 마크 리우 TSMC 회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 공정거래위원회 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616154304</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616154304</guid>
-            <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[◇과장급 승진 ▲국제협력과장 양동훈 ▲OECD대한민국정책센터 파견 송명현 ◇과장급 전보 ▲소비자거래정책과장 이강수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -328,10 +328,18 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쿠버네티스에 별도 데이터 계층이 필요한 이유 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616211153</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616211153</guid>
+            <pubDate>Fri, 16 Jun 2023 12:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] “쿠버네티스는 기본적으로 로컬 스토리지에서 출발했습니다. 쿠버네티스의 컨테이너스토리지인터페이스(CSI)가 외부 스토리지를 위한 요소지만, 쿠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA["올플래시의 GB당 가격 10센트까지 떨어질 것" (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616195442</link>
             <guid>https://zdnet.co.kr/view/?no=20230616195442</guid>
-            <pubDate>Fri, 16 Jun 2023 11:09:06 GMT</pubDate>
+            <pubDate>Fri, 16 Jun 2023 11:08:45 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 퓨어스토리지는 오는 2026년까지 외장형 스토리지에 장착하는 단일 플래시모듈의 용량을 300TB로 확대하겠다고 밝혔다. 이를 통해 플래시 매...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -477,14 +485,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616090124</guid>
             <pubDate>Fri, 16 Jun 2023 02:11:59 GMT</pubDate>
             <content:encoded><![CDATA[뤼튼테크놀로지스(대표 이세영)가 150억원 규모 시리즈A 투자를 유치했다고 16일 밝혔다. 이번 투자는 지난해 11월 38억원 규모의 프리-A 시리즈에 이은 투자다. 현재 누적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트 주가 2021년 이후 최고치...이유는? (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616081219</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616081219</guid>
-            <pubDate>Fri, 16 Jun 2023 02:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 주가는 3.2% 올라 사상 최고치를 기록했다. 주요 외신은 15일(현지시간) 마이크로소프트 주식이 뉴욕증권거래소(NYSE)에서 3.2% 오른 348.10달러(약 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
