@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 13:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 14:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블레이드와 어레이' 퓨어스토리지 아키텍처의 차이]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616221947</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616221947</guid>
+            <pubDate>Fri, 16 Jun 2023 14:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 퓨어스토리지는 2종류의 하드웨어 아키텍처를 갖고 있다. 초저지연시간 기반 고성능 스토리지인 '플래시어레이'와, 스케일아웃형 고성능 스토리지인...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/16/124382ca83e3f8f28c0e4ce7b96de21e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠버네티스에 별도 데이터 계층이 필요한 이유]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616211153</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230616195442</guid>
             <pubDate>Fri, 16 Jun 2023 11:08:45 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 퓨어스토리지는 오는 2026년까지 외장형 스토리지에 장착하는 단일 플래시모듈의 용량을 300TB로 확대하겠다고 밝혔다. 이를 통해 플래시 매...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/16/c48bafb9eacee13dfe5077eccce6ad5e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부는 괜찮댔는데...日 오염수 불안감에 '소금 사재기' 뚜렷]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616151011</guid>
             <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 16일 상단 냉각(top-side cooled) 무선주파수(RF) 증폭기 모듈을 선보였다. NXP는 더 얇고 가벼운 5세대(5G) 이동통신용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 일본 반도체 2공장 토지 부족으로 난항]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616153127</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616153127</guid>
-            <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 일본에 두번째 반도체 공장 건설을 추진 중이지만, 부지 확보에 어려움을 겪고 있다고 일본 닛케이 아시아가 15일 보도했다. 마크 리우 TSMC 회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
