@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 19:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 20:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 낮 기온 30℃ 이상 더위…이른 더위로 온열질환 다수 발생 우려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616142248</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616142248</guid>
+            <pubDate>Fri, 16 Jun 2023 20:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[주말 낮 기온이 30℃ 이상 상승할 것으로 알려지며 온열질환에 대한 건강 관리가 필요해 보인다. 질병관리청은 주말인 17일부터 월요일까지 낮 최고기온이 30℃ 이상 오르면서 일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/16/545b45cf969f18cdf087e84634e7e1d2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블레이드와 어레이' 퓨어스토리지 아키텍처의 차이]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616221947</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230616211153</guid>
             <pubDate>Fri, 16 Jun 2023 12:22:14 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] “쿠버네티스는 기본적으로 로컬 스토리지에서 출발했습니다. 쿠버네티스의 컨테이너스토리지인터페이스(CSI)가 외부 스토리지를 위한 요소지만, 쿠...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/16/20faa5764acd2026920a5c5b8f72f7ab-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["올플래시의 GB당 가격 10센트까지 떨어질 것"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616163429</guid>
             <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT로 대표되는 생성형 AI의 급격한 발전을 두고 게임업계 내에 의견이 엇갈린다. 게임산업 발전에 기여할 것이라는 전망이 주를 이루지만 반대로 게임업계 종사자에게는 고용 안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP, 상단 냉각 RF 증폭기 모듈 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616151011</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616151011</guid>
-            <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 16일 상단 냉각(top-side cooled) 무선주파수(RF) 증폭기 모듈을 선보였다. NXP는 더 얇고 가벼운 5세대(5G) 이동통신용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

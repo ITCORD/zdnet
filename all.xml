@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 19:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 20:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 낮 기온 30℃ 이상 더위…이른 더위로 온열질환 다수 발생 우려 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616142248</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616142248</guid>
+            <pubDate>Fri, 16 Jun 2023 20:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[주말 낮 기온이 30℃ 이상 상승할 것으로 알려지며 온열질환에 대한 건강 관리가 필요해 보인다. 질병관리청은 주말인 17일부터 월요일까지 낮 최고기온이 30℃ 이상 오르면서 일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/16/545b45cf969f18cdf087e84634e7e1d2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블레이드와 어레이' 퓨어스토리지 아키텍처의 차이 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616221947</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230616211153</guid>
             <pubDate>Fri, 16 Jun 2023 12:22:14 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] “쿠버네티스는 기본적으로 로컬 스토리지에서 출발했습니다. 쿠버네티스의 컨테이너스토리지인터페이스(CSI)가 외부 스토리지를 위한 요소지만, 쿠...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/16/20faa5764acd2026920a5c5b8f72f7ab-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["올플래시의 GB당 가격 10센트까지 떨어질 것" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616163429</guid>
             <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT로 대표되는 생성형 AI의 급격한 발전을 두고 게임업계 내에 의견이 엇갈린다. 게임산업 발전에 기여할 것이라는 전망이 주를 이루지만 반대로 게임업계 종사자에게는 고용 안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP, 상단 냉각 RF 증폭기 모듈 선봬 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616151011</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616151011</guid>
-            <pubDate>Fri, 16 Jun 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 반도체 회사 NXP반도체는 16일 상단 냉각(top-side cooled) 무선주파수(RF) 증폭기 모듈을 선보였다. NXP는 더 얇고 가벼운 5세대(5G) 이동통신용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -1128,6 +1128,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[주말 낮 기온 30℃ 이상 더위…이른 더위로 온열질환 다수 발생 우려 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616142248</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616142248</guid>
+            <pubDate>Fri, 16 Jun 2023 20:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[주말 낮 기온이 30℃ 이상 상승할 것으로 알려지며 온열질환에 대한 건강 관리가 필요해 보인다. 질병관리청은 주말인 17일부터 월요일까지 낮 최고기온이 30℃ 이상 오르면서 일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[5개국 수출식품 부적합 사례 전년대비 15% 감소 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616150253</link>
             <guid>https://zdnet.co.kr/view/?no=20230616150253</guid>
@@ -1224,6 +1232,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['치아우식증' 5명 중 1명 이상은 9세 이하…영유아기부터 예방 필요 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230615174024</link>
+            <guid>https://zdnet.co.kr/view/?no=20230615174024</guid>
+            <pubDate>Fri, 16 Jun 2023 20:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[치아우식증 5명 중 1명은 9세 이하로 영유아기부터 예방이 필요하다는 지적이다. 치아우식증이란 치아 면에 부착된 세균이 만들어낸 산(acid)에 의해 치질이 파괴되는 질환을 말...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[코스닥 이전 상장 앞둔 '프로테옴텍', 실적 개선에 최선 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230615172837</link>
             <guid>https://zdnet.co.kr/view/?no=20230615172837</guid>
@@ -1269,22 +1285,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230615141555</guid>
             <pubDate>Thu, 15 Jun 2023 06:12:26 GMT</pubDate>
             <content:encoded><![CDATA[의약계가 보험업법 개정안에 대해 즉각 폐기를 요구했다. 대한의사협회·대한병원협회·대한치과의사협회·대한약사회 등은 이날 “보험업법 개정안은 국민을 위한 법안이라는 본연의 취지를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[씨젠, 스페인 진단기업과 기술공유 업무협약…유럽공략 본격화 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230614174433</link>
-            <guid>https://zdnet.co.kr/view/?no=20230614174433</guid>
-            <pubDate>Thu, 15 Jun 2023 06:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[씨젠의 기술공유 사업이 잇따른 성과를 내고 있다. 씨젠은 스페인 진단기업 웨펜(Werfen)과 기술공유 업무협약을 체결하고 스페인과 포르투갈 현지 맞춤형 제품에 대한 개발 논의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1분건강] 키 크고 싶은 아이, 탄산음료 섭취 안돼요 (지디넷코리아 ─ 뉴스 ─ 헬스케어)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230615135200</link>
-            <guid>https://zdnet.co.kr/view/?no=20230615135200</guid>
-            <pubDate>Thu, 15 Jun 2023 05:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[자녀가 또래보다 키가 작고 잘 크지 않는 느낌이 든다면 부모입장에서는 걱정이 이만저만이 아닐 것이다. 전문가들은 음식·운동 등 생활 습관 개선이 필요하다고 권고한다. 성장장애는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -2296,14 +2296,6 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대 중심으로 '해외여행=환전' 공식 깨진다 (지디넷코리아 ─ 금융)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516095304</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516095304</guid>
-            <pubDate>Tue, 16 May 2023 02:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[해외여행 가기 전 은행을 찾아 돈을 환전해야 한다는 불문율이 조금씩 깨지고 있다.16일 금융업계에서는 젊은 세대를 중심으로 환전없이도 해외여행서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[이창용 "금통위원 전원 '금리 추가 인상' 의견 제시" (지디넷코리아 ─ 금융)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525122332</link>
             <guid>https://zdnet.co.kr/view/?no=20230525122332</guid>
@@ -2328,19 +2320,27 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[재닛 옐런 "美, 첫 채무불이행 6월 1일 예상" (지디넷코리아 ─ 금융)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230516083500</link>
-            <guid>https://zdnet.co.kr/view/?no=20230516083500</guid>
-            <pubDate>Fri, 09 Jun 2023 20:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[재닛 옐런 재무장관이 오는 6월 1일 미국의 첫 번째 디폴트(채무 불이행)을 예고했다.15일(현지시간) 주요 외신은 “옐런 재무장관이 백악관과 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[속보] 한국은행, 기준금리 '동결'…3.50% 유지 (지디넷코리아 ─ 금융)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230525090958</link>
             <guid>https://zdnet.co.kr/view/?no=20230525090958</guid>
             <pubDate>Wed, 14 Jun 2023 20:14:25 GMT</pubDate>
             <content:encoded><![CDATA[한국은행은 25일 금융통회위원회 본회의를 열고, 기준금리를 현재 수준(3.50%)으로 유지하기로 결정했다고 밝혔다.한편 금통위는 작년부터 올해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한은 "30일부터 가중평균금리에 주택담보·전세대출 추가" (지디넷코리아 ─ 금융)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230526142024</link>
+            <guid>https://zdnet.co.kr/view/?no=20230526142024</guid>
+            <pubDate>Fri, 16 Jun 2023 20:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 한국은행이 가중평균금리에 예금은행의 고정·변동 주택담보대출 상황을 추가한다.29일 금융권에 따르면 한국은행은 30일부터 예금은행 가중평균...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 은행가 "美 달러 지배력 종말 임박" (지디넷코리아 ─ 금융)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230611003344</link>
+            <guid>https://zdnet.co.kr/view/?no=20230611003344</guid>
+            <pubDate>Fri, 16 Jun 2023 20:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 은행가에서 기축통화인 미국 달러의 지배력 종말이 임박했다는 주장이 등장했다.10일(현지시간) 주요외신 보도에 따르면 러시아 제2의 국영은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
