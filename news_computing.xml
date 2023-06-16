@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["소규모 AI 모델, 비즈니스에 더 효율적"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616173820</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616173820</guid>
+            <pubDate>Fri, 16 Jun 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA["앞으로 범용 인공지능(AI) 모델보다 소규모 AI 모델이 사업화에 더 효율적일 것입니다. 기업 비공개 문서와 데이터만 학습해 '나만의 비즈니스' 모델을 만들 수 있기 때문입니...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플랜티넷-경찰대, 최신형 '보이스피싱' 예방 서비스 준비 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616171640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616083447</guid>
             <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
             <content:encoded><![CDATA[구글이 자체 인공지능(AI) 챗봇 '바드'를 계속 개선 중인 가운데 자사 직원들에게 바드를 포함한 AI 챗봇에 기밀정보를 입력하지 말 것을 경고했다고 로이터 통신이 15일(현지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨어스토리지, 구독 기반 랜섬웨어 복구 SLA 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616051642</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616051642</guid>
-            <pubDate>Thu, 15 Jun 2023 21:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 퓨어스토리지는 14일 미국 라스베이거스에서 개최한 연례 컨퍼런스 '퓨어//액셀러레이트 2023'에서 사이버 공격 발생 이후에도 깨끗한 스토리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
