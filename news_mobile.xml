@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["아이폰15 시험생산 시작…이달 말 양산 돌입”]]></title>
+            <title><![CDATA[삼성청년 SW아카데미 8기 수료…누적 취업자 4천명]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616084924</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616084924</guid>
+            <pubDate>Fri, 16 Jun 2023 06:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[삼성이 청년 취업 경쟁력을 높이기 위해 운영하는 삼성청년SW아카데미(Samsung Software Academy For Youth, 이하 SSAFY)'가 8기를 마치며 누적 취...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["아이폰15 시험생산 시작…이달 말 양산 돌입"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230616134812</link>
             <guid>https://zdnet.co.kr/view/?no=20230616134812</guid>
             <pubDate>Fri, 16 Jun 2023 05:09:35 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230615141236</guid>
             <pubDate>Thu, 15 Jun 2023 06:13:22 GMT</pubDate>
             <content:encoded><![CDATA[토탈로봇 플랫폼 마로솔은 청소로봇과 로봇 전문가를 파견해 청소문제를 해결해주는 '마로솔 청소특공대'에 참여할 기업과 기관 사연을 모집한다고 15일 밝혔다. 이번 프로그램은 마로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK매직, 밀키트 구독 연계상품 출시…렌탈료 최대 2만원 할인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230615135934</link>
-            <guid>https://zdnet.co.kr/view/?no=20230615135934</guid>
-            <pubDate>Thu, 15 Jun 2023 05:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[SK매직이 밀키트 정기구독 가전 할인 서비스 'M스토랑, 가전할인플랜'에 이어 매월 렌탈료를 최대 2만 원까지 추가 할인 받을 수 있는 'M스토랑, 렌탈할인플랜'을 출시했다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
