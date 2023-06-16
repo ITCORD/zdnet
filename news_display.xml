@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 00:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 02:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·SK, AMD AI칩에 'HBM3' 공급…첨단 메모리 확대 가속화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230616084811</link>
+            <guid>https://zdnet.co.kr/view/?no=20230616084811</guid>
+            <pubDate>Fri, 16 Jun 2023 02:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[AMD의 차세대 AI 반도체에 삼성전자, SK하이닉스의 HBM(고대역폭메모리)가 함께 채택됐다. AMD가 이번 신제품을 통해 AI 반도체 시장을 적극 공략할 예정인 만큼, 국내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디스플레이도 AI다…"공짜로 배우세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230615144213</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230614050939</guid>
             <pubDate>Tue, 13 Jun 2023 23:09:46 GMT</pubDate>
             <content:encoded><![CDATA[PCI 익스프레스 규격을 주관하는 업계 표준화 단체인 PCI-SIG가 13일(미국 현지시간) 차세대 규격인 PCI 익스프레스 7.0 초안(버전 0.3)을 공개했다. PCI-SI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 생성형 AI 가속 위한 인스팅트 MI300X GPU 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230614042336</link>
-            <guid>https://zdnet.co.kr/view/?no=20230614042336</guid>
-            <pubDate>Tue, 13 Jun 2023 20:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 13일(미국 현지시간) 거대언어모델(LLM) 등 생성형 AI와 고성능 컴퓨팅(HPC) 가속을 위한 서버용 칩인 '인스팅트 MI300X' GPU를 공개했다. 인스팅트 M...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
