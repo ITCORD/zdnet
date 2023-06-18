@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 06:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 07:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 상업용 거대 언어모델 오픈소스로 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230618144712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230618144712</guid>
+            <pubDate>Sun, 18 Jun 2023 07:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 거대 언어모델(LLM)을 오픈소스로 내놓는다. 개발자는 이 오픈소스 모델을 상업적으로도 활용할 수 있다. 미국 디인포메이션은 15일(현지시간) 메타가 기존 LLM '라마...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세계 최대 가상자산 거래소 '바이낸스US', 자산 동결 위기 면했다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230618054404</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230616110721</guid>
             <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)은 13일 틸론 마곡 사옥에서 행정안전부 주관 '온북 민간협의체' 참여기업들과 공공DaaS 시장 활성화를 위한 온...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中해커, 보안 취약점 노려 미국·APJ 국방·통신 공격]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230616105209</link>
-            <guid>https://zdnet.co.kr/view/?no=20230616105209</guid>
-            <pubDate>Fri, 16 Jun 2023 02:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[중국 정부지원 해킹그룹으로 알려진 UNC3886이 윈도와 리눅스의 보안 취약점을 악용해 미국과 아시아태평양일본(APJ) 지역을 공격했다. 14일(현지시간) 해커뉴스 등 외신에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

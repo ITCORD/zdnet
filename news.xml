@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 06:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 07:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 상업용 거대 언어모델 오픈소스로 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230618144712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230618144712</guid>
+            <pubDate>Sun, 18 Jun 2023 07:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 거대 언어모델(LLM)을 오픈소스로 내놓는다. 개발자는 이 오픈소스 모델을 상업적으로도 활용할 수 있다. 미국 디인포메이션은 15일(현지시간) 메타가 기존 LLM '라마...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/01/04/1221a4591c29739c86e39bc0df7b5e20-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우체국 모바일 금융 새 이름 '잇다']]></title>
             <link>https://zdnet.co.kr/view/?no=20230618151054</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.zdnet.co.kr/2023/06/18/b63d09593db1e5dbeb8802c6086bbdc7-290x182.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[정부 "누누티비 시즌2 하루 수차례 접속차단 강화"]]></title>
+            <title><![CDATA[정부 "도둑 시청 '누누티비 시즌2' 하루 수차례 접속차단 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230618150455</link>
             <guid>https://zdnet.co.kr/view/?no=20230618150455</guid>
             <pubDate>Sun, 18 Jun 2023 06:12:01 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 국내 OTT 콘텐츠를 불법 스트리밍하던 누누티비가 종료된 지 2개월여 만에 최근 유사 사이트 개설되면서 기존 보다 더욱 강화된 접속차단을 시행하기 위해 대응...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/03/10/182d70a0bef48a5c371e6da685b05c3b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[기자수첩] 'AI 주권' 무심한 정부…규제 프레임서 벗어나야]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230618094911</guid>
             <pubDate>Sun, 18 Jun 2023 02:27:27 GMT</pubDate>
             <content:encoded><![CDATA[조주완 LG전자 사장이 여름 서비스 성수기를 앞두고 서비스 현장 점검에 나섰다. 점차 더워지는 날씨에 에어컨 등 여름 필수 가전 고장으로 불편을 겪는 고객이 없도록 하기 위해서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 시네마 LED 스크린으로 4K HDR '엘리멘탈' 본다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230618091538</link>
-            <guid>https://zdnet.co.kr/view/?no=20230618091538</guid>
-            <pubDate>Sun, 18 Jun 2023 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 시네마 LED 스크린 '오닉스(Oynx)'에서 디즈니·픽사의 신작 애니메이션 영화 '엘리멘탈(Elemental)'을 4K HDR 콘텐츠로 생생하게 감상할 수 있다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
