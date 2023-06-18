@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 05:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부 "누누티비 시즌2 하루 수차례 접속차단 강화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230618150455</link>
+            <guid>https://zdnet.co.kr/view/?no=20230618150455</guid>
+            <pubDate>Sun, 18 Jun 2023 06:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 국내 OTT 콘텐츠를 불법 스트리밍하던 누누티비가 종료된 지 2개월여 만에 최근 유사 사이트 개설되면서 기존 보다 더욱 강화된 접속차단을 시행하기 위해 대응...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 모바일 포털 U+Page 콘텐츠 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20230618112627</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230614164256</guid>
             <pubDate>Wed, 14 Jun 2023 08:12:18 GMT</pubDate>
             <content:encoded><![CDATA[성남시 중원구청 대강당에서 오는 8월19일 오후 2시 EBS 대학입시설명회가 열린다. 더불어민주당 윤영찬 의원과 성남시교육지원청의 요청으로 말녀된 자리다. EBS 대표강사인 정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 수신료 별도 징수 행정절차 시동...정치권 논쟁 격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230614150925</link>
-            <guid>https://zdnet.co.kr/view/?no=20230614150925</guid>
-            <pubDate>Wed, 14 Jun 2023 07:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회가 전기요금과 함께 징수하는 KBS 수신료를 분리하는 행정 절차에 돌입했다. 대통령실의 권고 이후 일주일 만에 방송법 시행령 개정안을 마련키로 한 것이다. 사회적 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
