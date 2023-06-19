@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 21:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 22:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI가 피겨·크로스핏 코칭하고 심판도 본다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230619224321</link>
+            <guid>https://zdnet.co.kr/view/?no=20230619224321</guid>
+            <pubDate>Mon, 19 Jun 2023 22:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[피겨는 빙상에서 빠른 동작이 이뤄지는 스포츠다. 현재까지 국내에서 피겨 동작을 인공지능(AI)화한 사례는 없다. IT프리랜서 대표기업으로 최근 AI 동작 인식 및 분석 분야에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고팍스, 이중훈 신임 대표 선임…"당국 소통 적임자"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230619185042</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230619101658</guid>
             <pubDate>Mon, 19 Jun 2023 02:13:43 GMT</pubDate>
             <content:encoded><![CDATA[엔코아(대표 이화식)는 지난 12일부터 16일까지 미국 워싱턴D.C에서 개최된 ISO 국제표준화회의에서 그래프데이터베이스 언어 GQL 표준을 정의하는 워킹 그룹 활동에 국내 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이달초 MS 아웃룩 장애, 해커 DDoS 공격 때문]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230619094844</link>
-            <guid>https://zdnet.co.kr/view/?no=20230619094844</guid>
-            <pubDate>Mon, 19 Jun 2023 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 이달초 아웃룩 이메일과 원드라이브 앱 등 오피스 제품군과 클라우드 서비스에서 발생한 장애의 원인을 특정 해커집단의 디도스(DDoS) 공격에 따른 것이라고 발표했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
