@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 거버넌스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 07:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 08:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영상 이미지로 생생한 아바타 제작기술 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230619210815</link>
+            <guid>https://zdnet.co.kr/view/?no=20230619210815</guid>
+            <pubDate>Tue, 20 Jun 2023 08:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자기술연구원(KETI·원장 신희동)은 광주과학기술원(GIST) AI대학원과 공동연구로 '인공지능(AI) 기반 3D 객체 미디어 복원 기술'을 개발, 컴퓨터비전 분야 세계 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, VR 헤드셋 이용 연령 13세→10세 낮춰]]></title>
             <link>https://zdnet.co.kr/view/?no=20230618082716</link>
@@ -133,14 +141,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230531151055</guid>
             <pubDate>Wed, 07 Jun 2023 02:26:39 GMT</pubDate>
             <content:encoded><![CDATA[메타버스의 인기가 한 차례 휘몰아 친 후 시장은 생성형 AI로 떠들썩하며 열풍이 사그라든 모양새를 보이고 있다. 하지만 메타버스를 이루는 기술인 이머시브 테크는 계속 발전하며 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI+디지털트윈으로 '지니버스' 구현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230530153337</link>
-            <guid>https://zdnet.co.kr/view/?no=20230530153337</guid>
-            <pubDate>Mon, 05 Jun 2023 08:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 인공지능(AI)과 디지털트윈 기술을 바탕으로 메타버스 플랫폼 '지니버스'를 개선한다. KT는 지난 3월부터 지니버스를 시험버전으로 서비스했다. 올 하반기에는 생성형 AI...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
