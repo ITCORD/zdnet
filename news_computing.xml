@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 23:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 00:54:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국마이크로소프트, '빌드 코리아' 28일 온라인 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230620092249</link>
+            <guid>https://zdnet.co.kr/view/?no=20230620092249</guid>
+            <pubDate>Tue, 20 Jun 2023 00:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[한국마이크로소프트는 오는 28일 '마이크로소프트 빌드 코리아'를 온라인으로 개최한다고 20일 밝혔다. 이 행사는 누구나 사전 신청을 통해 무료로 참가할 수 있다. 마이크로소프트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이더리움 '스마트컨트랙트' AI로 알려준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230620083524</link>
+            <guid>https://zdnet.co.kr/view/?no=20230620083524</guid>
+            <pubDate>Tue, 20 Jun 2023 00:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[이더리움 블록체인 탐색기인 이더스캔이 오픈AI의 챗GPT API를 기반으로 스마트컨트랙트의 소스코드를 해석해주는 기능을 선보였다. 20일(미국시간) 블록체인 매체 코인데스크, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI가 피겨·크로스핏 코칭하고 심판도 본다”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230619224321</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230619102411</guid>
             <pubDate>Mon, 19 Jun 2023 02:13:43 GMT</pubDate>
             <content:encoded><![CDATA[굿모닝아이텍(대표 이주찬)은 사이버 보안 전문기업 파고네트웍스(대표 권영목)와 매지니드형 탐지 및 대응(MDR) 서비스 사업에서 상호 협력하는 전략적 제휴 협약을 체결했다고 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 통한 '가상자산' 불법 결제 시도 꾸준…왜?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230619092339</link>
-            <guid>https://zdnet.co.kr/view/?no=20230619092339</guid>
-            <pubDate>Mon, 19 Jun 2023 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[국내 신용카드로 해외 가상자산 거래소에서 불법으로 가상자산을 거래하려 시도한 건수가 117만건이 넘고, 불법 거래 시도 금액도 5천602억원에 달한 것으로 드러났다. 19일 금...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔코아, 그래프DB 언어 ISO 표준 논의에 참가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230619101658</link>
-            <guid>https://zdnet.co.kr/view/?no=20230619101658</guid>
-            <pubDate>Mon, 19 Jun 2023 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[엔코아(대표 이화식)는 지난 12일부터 16일까지 미국 워싱턴D.C에서 개최된 ISO 국제표준화회의에서 그래프데이터베이스 언어 GQL 표준을 정의하는 워킹 그룹 활동에 국내 대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
