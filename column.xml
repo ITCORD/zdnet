@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 04:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 서버 시장의 변화 이끄는 '새로운 워크로드']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230620134520</link>
+            <guid>https://zdnet.co.kr/view/?no=20230620134520</guid>
+            <pubDate>Tue, 20 Jun 2023 05:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[엔터프라이즈 시장은 24시간 365일 안정적인 서비스를 제공해야 한다는 특성상 일반 소비자용 PC 대비 변화와 발전 속도가 더디다. 그러나 서버용 프로세서에 요구되는 기본기는 큰 변함이 없다.그 기본기란, 게임이나 스트리밍 등 최종 이용자의 요구에 맞춰 주어진 데이터를 최단 시간내에 처리하는 것이다. 또 여러 이용자를 위해 복합적인 작업을 효율적으로 처리할 수 있다면 금상첨화다.이는 서버와 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/11/b7549e44aca36aa4957e0d080d7ae272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이정규 칼럼] AI와 공감의 뿌리, 그리고 인공감성(AE)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230619105014</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 May 2023 05:11:26 GMT</pubDate>
             <content:encoded><![CDATA[데이터센터는 많은 에너지를 소비한다. 데이터센터가 전 세계 온실가스 배출 총량의 4%를 차지한다는 분석도 있다. 따라서 전력소비, 냉각 비용, 공간 요구사항 등의 절감이 지속가능한 데이터센터 운영을 위한 핵심이 되고 있다. 지능적인 전원 분배 장치(PDU), 분기 회로 모니터링 및 컴퓨팅 기기 등의 기술적 진보가 일부 효율은 제공할 수 있지만, 데이터센터의 탄소 배출을 줄이고 폭증하는 비용을...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/05/04/204fe2f290a82c980ebd8f79c544e307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[딜로이트 테크 인사이트⑨] 미디어 새 기회 AVOD 성장세 주목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230502111335</link>
-            <guid>https://zdnet.co.kr/view/?no=20230502111335</guid>
-            <pubDate>Tue, 02 May 2023 02:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;할인 가격이나 무료로 다양한 스트리밍 비디오를 즐길 수 있기 때문에 광고 기반 주문형 비디오(advertising video-on-demand, AVOD)를 찾는 시청자들이 늘고 있다. 실리를 좇는 소비자 및 산업의 니즈 때문에 AVOD가 최근 경쟁력 있는 사업 모델로 부상하고 있다. 딜로이트 글로벌은 2023년 말까지 선진국에서 월간 1개 이상의 AVOD를 구독하는 소비자가 전체...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/02/d691f785f70fd8b241f2b5a6a0bb9247.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
