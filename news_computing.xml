@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 02:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 03:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한글과컴퓨터-케이단모바일, '케이단오피스' 8월 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230621104649</link>
+            <guid>https://zdnet.co.kr/view/?no=20230621104649</guid>
+            <pubDate>Wed, 21 Jun 2023 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[한글과컴퓨터(대표 변성준·김연수)가 대만 기업 케이단모바일과 손잡고 '케이단오피스'를 8월 출시한다고 21일 밝혔다. 한컴은 케이단오피스 개발을 위해 케이단모바일에 자사 소프트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스 "급증하는 랜섬웨어 배후는 IAB"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230621095757</link>
+            <guid>https://zdnet.co.kr/view/?no=20230621095757</guid>
+            <pubDate>Wed, 21 Jun 2023 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA["최근 랜섬웨어가 급증하는 이유는 복잡한 기술 없이도 이를 가능하게하는 '초기 침투 전문 브로커'(IAB)의 문제가 크다. 이들의 규모가 점점 커지고 있는 만큼 기업들은 더욱 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수세리눅스, 컨피덴셜 컴퓨팅 내장한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230621104927</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230620162118</guid>
             <pubDate>Tue, 20 Jun 2023 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[에퀴닉스가 '2023 글로벌 기술 동향 조사' 보고서를 발표했다고 20일 밝혔다. 해당 보고서는 국내100명을 포함해 29개 시장에서 2천900명 이상의 IT업계 의사 결정권자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[북미 최대 커뮤니티 '레딧', 유료화 선언 후 후폭풍]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230620154322</link>
-            <guid>https://zdnet.co.kr/view/?no=20230620154322</guid>
-            <pubDate>Tue, 20 Jun 2023 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[미국 온라인 커뮤니티인 레딧(Reddit) 서버를 해킹한 랜섬웨어 그룹이 레딧에게 API (응용프로그램 인터페이스) 서비스 가격 인상 계획을 철회하지 않으면 자신들이 지난 2월...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아신아이, 서버보안 솔루션 '나니시스 v2.0' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230620155926</link>
-            <guid>https://zdnet.co.kr/view/?no=20230620155926</guid>
-            <pubDate>Tue, 20 Jun 2023 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[아신아이(대표 나상국)는 서버 접근 통제를 강화하는 차세대 서버보안 솔루션 '나니시스 v2.0'의 공통평가기준(CC) 인증을 획득하고 시장에 출사표를 던졌다고 10일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
