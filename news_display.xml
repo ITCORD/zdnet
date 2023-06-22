@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 02:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 차량용 고내압 홀 IC 양산 개시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230622105050</link>
+            <guid>https://zdnet.co.kr/view/?no=20230622105050</guid>
+            <pubDate>Thu, 22 Jun 2023 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[로옴은 자기 검출을 사용한 자동차기기용 홀 IC 'BD5310xG-CZ', 'BD5410xG-CZ' 시리즈를 개발했다고 22일 밝혔다. 해당 시리즈는 업계 최고 수준의 42V ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[깊어지는 美·印 반도체 동맹…마이크론·AMAT 투자 '러시']]></title>
             <link>https://zdnet.co.kr/view/?no=20230622095316</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230620091209</guid>
             <pubDate>Tue, 20 Jun 2023 00:53:18 GMT</pubDate>
             <content:encoded><![CDATA[일본 반도체 업체 로옴은 전장부품 전문업체 비테스코 테크놀로지(Vitesco Technologies; 이하 비테스코)와 SiC(탄화규소) 파워 디바이스에 관한 장기 공급 파트너...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 獨 정부와 마그데부르크 반도체 팹 최종 보조금 합의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230620014156</link>
-            <guid>https://zdnet.co.kr/view/?no=20230620014156</guid>
-            <pubDate>Tue, 20 Jun 2023 00:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 독일 마그데부르크에 신설할 반도체 생산 시설을 두고 독일 정부와 보조금 규모에 최종 합의했다. 19일(독일 현지시간) 인텔은 독일 연방 정부와 마그데부르크 반도체 생산 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
