@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 06:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 07:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["中 소부장 국산화 속도 빨라...일부 韓 앞서"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230622143422</link>
+            <guid>https://zdnet.co.kr/view/?no=20230622143422</guid>
+            <pubDate>Thu, 22 Jun 2023 07:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 반도체 성숙(legacy·레거시) 공정과 디스플레이 장비를 스스로 만들 정도로 자립도가 상당하다는 분석이 나왔다. 오랫동안 정부가 투자를 뒷받침하며 국산화를 이끈 결과로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI·HBM 수요에 첨단 패키징 생산능력 40% 급성장 전망...TSMC '방긋']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230622115433</link>
+            <guid>https://zdnet.co.kr/view/?no=20230622115433</guid>
+            <pubDate>Thu, 22 Jun 2023 07:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[최근 AI 산업의 급격한 발달이 AI칩, HBM(고대역폭메모리) 등 고성능 반도체의 수요를 촉진하고 있다. 이에 최첨단 패키징 생산능력도 대만 TSMC를 중심으로 급격한 성장세...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 차량용 고내압 홀 IC 양산 개시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230622105050</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230620092844</guid>
             <pubDate>Tue, 20 Jun 2023 02:09:08 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 차량용 메모리반도체 시장을 공략하기 위한 준비에 적극 나서고 있다. SK하이닉스는 국내 반도체 기업 최초로 '오토모티브 스파이스(Automotive SPICE, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈엣지, 삼성 '오토모티브 5nm' 공정용 PHY IP 제작 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230620101254</link>
-            <guid>https://zdnet.co.kr/view/?no=20230620101254</guid>
-            <pubDate>Tue, 20 Jun 2023 02:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계자산(IP) 플랫폼 전문기업 오픈엣지테크놀로지(이하 오픈엣지)는 삼성전자 파운드리 사업부에서 'SF5A(5nm)' 공정을 지원하는 8533Mbps LPDDR5X/5/...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴·비테스코, SiC 전력반도체 장기 공급 파트너십 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230620091209</link>
-            <guid>https://zdnet.co.kr/view/?no=20230620091209</guid>
-            <pubDate>Tue, 20 Jun 2023 00:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[일본 반도체 업체 로옴은 전장부품 전문업체 비테스코 테크놀로지(Vitesco Technologies; 이하 비테스코)와 SiC(탄화규소) 파워 디바이스에 관한 장기 공급 파트너...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
