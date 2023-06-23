@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 23:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 01:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 랩스, 360도 3D 콘텐츠 만드는 생성형 AI 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230622234029</link>
+            <guid>https://zdnet.co.kr/view/?no=20230622234029</guid>
+            <pubDate>Fri, 23 Jun 2023 01:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 내 선행 기술 연구 조직인 인텔 랩스가 문장으로 360도 3D 이미지를 만드는 생성형 모델인 'LDM3D'를 개발했다. 현재까지 공개된 대부분의 생성형 AI는 이용자가 입...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 협업 플랫폼 '스윗', 지놈 리포트서 서울 창업생태계 대표 기업 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230623081822</link>
+            <guid>https://zdnet.co.kr/view/?no=20230623081822</guid>
+            <pubDate>Fri, 23 Jun 2023 01:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 워크OS '스윗(Swit)'을 공급하는 스윗테크놀로지스(대표 이주환)는 글로벌 창업생태계 평가기관 '스타트업 지놈'이 공개한 '2023 글로벌 창업생태계 보고서'에서 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업라이즈-웰로, 정부 지원 희망 스타트업 돕는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230622185959</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230622102732</guid>
             <pubDate>Thu, 22 Jun 2023 02:17:38 GMT</pubDate>
             <content:encoded><![CDATA[트래블룰 솔루션 기업 코드는 홈페이지를 전면 개편했다고 22일 밝혔다. 트래블룰 솔루션은 가상자산을 통한 자금세탁을 방지하기 위해 가상자산 거래 정보를 기록하는 시스템이다. 코...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JP모건, 금융 데이터 분석에 AI 확대 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230622085631</link>
-            <guid>https://zdnet.co.kr/view/?no=20230622085631</guid>
-            <pubDate>Thu, 22 Jun 2023 02:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[JP모건체이스가 금융 데이터 분석 등에 인공지능(AI) 기술을 확대 적용한다. 주요 외신은 21일(현지시간) JP모건체이스가 금융 데이터 분석을 비롯한 은행 업무, 서비스에 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE, LLM용 AI 클라우드 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230622095830</link>
-            <guid>https://zdnet.co.kr/view/?no=20230622095830</guid>
-            <pubDate>Thu, 22 Jun 2023 02:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[HPE는 20일(현지시간) 미국 라스베이거스에서 개최한 연례행사 'HPE 디스커버 라스베이거스 2023'에서 대규모언어모델(LLM)용 HPE 그린레이크를 제공한다고 밝혔다. L...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
