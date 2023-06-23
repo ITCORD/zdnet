@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["연내 서버 D램 절반이 DDR5" 전망…삼성·SK '방긋']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230623140405</link>
+            <guid>https://zdnet.co.kr/view/?no=20230623140405</guid>
+            <pubDate>Fri, 23 Jun 2023 06:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[서버용 D램 시장에서 더블데이터레이트(DDR)5 비중이 올해 말 절반까지 확대될 것으로 보인다. 최근 대만 시장조사업체 트렌드포스에 따르면 서버용 D램에서 차지하는 DDR5 비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["정말 잘 될까"…인텔 파운드리 사업에 '엇갈린 시선']]></title>
             <link>https://zdnet.co.kr/view/?no=20230623105116</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230621082232</guid>
             <pubDate>Wed, 21 Jun 2023 00:56:29 GMT</pubDate>
             <content:encoded><![CDATA[인도 정부가 미국 마이크론의 신규 반도체 패키징 공장 투자에 대한 계획을 승인했다고 로이터통신이 20일(현지시간) 보도했다. 마이크론의 신규 패키징 공장은 총 27억 달러(약 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 美 실리콘밸리 'SK 글로벌 포럼'서 첨단기술 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230621090445</link>
-            <guid>https://zdnet.co.kr/view/?no=20230621090445</guid>
-            <pubDate>Wed, 21 Jun 2023 00:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 오는 22일부터 25일까지(현지시간) 미국 캘리포니아주 실리콘밸리의 중심지인 산호세(San Jose)에서 '2023 SK 글로벌 포럼'을 열고 첨단 기술을 발표한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
