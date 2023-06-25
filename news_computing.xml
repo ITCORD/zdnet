@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 09:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 10:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비타소프트, '2023 데이터바우처' 일환 4곳과AI가공 협약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230625190526</link>
+            <guid>https://zdnet.co.kr/view/?no=20230625190526</guid>
+            <pubDate>Sun, 25 Jun 2023 10:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[과기정통부와 정보통신산업진흥원(NIPA, 원장 허성욱)이 시행하는 AI융합불법복제판독시스템구축 사업을 진행하고 있는 비타소프트(대표 홍순기)는 '2023 데이터 바우처 지원사업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JP모건, 자체 코인 '유로' 결제 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230625105326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230623093240</guid>
             <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
             <content:encoded><![CDATA[쿠콘(대표 김종현)이 신한은행 '금융 상품 추천 비교 서비스'에 데이터 중계 서비스를 제공한다고 23일 밝혔다. 신한은행은 이달 21일 금융 상품 추천 비교 서비스를 출시했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 랩스, 360도 3D 콘텐츠 만드는 생성형 AI 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230622234029</link>
-            <guid>https://zdnet.co.kr/view/?no=20230622234029</guid>
-            <pubDate>Fri, 23 Jun 2023 01:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[인텔 내 선행 기술 연구 조직인 인텔 랩스가 문장으로 360도 3D 이미지를 만드는 생성형 모델인 'LDM3D'를 개발했다. 현재까지 공개된 대부분의 생성형 AI는 이용자가 입...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
