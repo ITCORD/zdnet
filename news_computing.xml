@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 01:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 03:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JP모건, 자체 코인 '유로' 결제 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230625105326</link>
+            <guid>https://zdnet.co.kr/view/?no=20230625105326</guid>
+            <pubDate>Sun, 25 Jun 2023 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 최대 투자은행 JP모건이 자체 가상자산 기반 유로화 결제를 지원한다. 블록체인 매체 코인데스크, 디크립트 등은 블룸버그를 인용, JP모건이 자체 토큰 'JPM코인'으로 유...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쟁글 대체하나…'가상자산 평가' 후발 업체 사업 박차]]></title>
             <link>https://zdnet.co.kr/view/?no=20230623150320</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230622234029</guid>
             <pubDate>Fri, 23 Jun 2023 01:00:40 GMT</pubDate>
             <content:encoded><![CDATA[인텔 내 선행 기술 연구 조직인 인텔 랩스가 문장으로 360도 3D 이미지를 만드는 생성형 모델인 'LDM3D'를 개발했다. 현재까지 공개된 대부분의 생성형 AI는 이용자가 입...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 협업 플랫폼 '스윗', 지놈 리포트서 서울 창업생태계 대표 기업 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623081822</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623081822</guid>
-            <pubDate>Fri, 23 Jun 2023 01:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 워크OS '스윗(Swit)'을 공급하는 스윗테크놀로지스(대표 이주환)는 글로벌 창업생태계 평가기관 '스타트업 지놈'이 공개한 '2023 글로벌 창업생태계 보고서'에서 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
