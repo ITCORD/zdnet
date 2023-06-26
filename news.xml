@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 02:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오T, SRT 예매-발권 서비스 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626103031</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626103031</guid>
+            <pubDate>Mon, 26 Jun 2023 03:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[카카오모빌리티가 행정안전부에서 주관하는 디지털서비스 개방 선도 서비스에 참여, SRT 예매·발권 서비스를 시작한다고 26일 밝혔다. 이로써 카카오T에서도 SRT 승차권 예매, ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/26/d99cd31b89be72a55dacdb9a06e57aba-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국투자증권 "조이시티, 하반기 눈여겨 볼 중소형주"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230626112720</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230626091027</guid>
             <pubDate>Mon, 26 Jun 2023 02:41:54 GMT</pubDate>
             <content:encoded><![CDATA[소니가 일본 구마모토현에 새로운 이미지센서 공장을 건설할 예정이다. 일본 매체 마이니치에 따르면 테루시 시미즈 소니 반도체 부문 사장 "신규 공장은 일본 남서부의 코시(Kosh...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/17/9f4c25a55c07a1242ad71aa88132284a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버 커넥트재단, '도란도란 쥬니버스쿨' 모집]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230626092242</guid>
             <pubDate>Mon, 26 Jun 2023 02:41:54 GMT</pubDate>
             <content:encoded><![CDATA[정태영 현대카드 부회장이 비자와 데이터 파트너십을 체결했으나 협상과정이 까다로웠다고 밝혔다. 26일 정태영 부회장은 개인 소셜미디어 채널을 통해 “현대카드와 비자는 데이터 플랫...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["흥행수입 1조3천억원"…머스크·저커버그 UFC대결 성사될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230626093020</link>
-            <guid>https://zdnet.co.kr/view/?no=20230626093020</guid>
-            <pubDate>Mon, 26 Jun 2023 02:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)와 마크 저커버그 메타 CEO와의 격투기 대결이 성사되면 약 10억 달러(약 1조3천억원) 흥행 수입을 올릴 것이라는 보도가 나왔다. 미국...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
