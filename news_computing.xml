@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 04:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 05:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앞서가는 유럽…가상자산 업계 '호응']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626111846</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626111846</guid>
+            <pubDate>Mon, 26 Jun 2023 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[유럽이 가상자산 규제 고도화에 속도를 내고 있다. 업계는 그 동안 규제 불확실성 때문에 시름해온 만큼, 유럽의 이런 행보가 성과를 거둬 각국이 경쟁적으로 가상자산 규제 도입을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스노우플레이크코리아, 데이터 전문가 '팬덤' 만든다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230626104144</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230623140027</guid>
             <pubDate>Fri, 23 Jun 2023 06:15:41 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 퍼블릭 클라우드 및 에지컴퓨팅 전문기업인 지코어가 국내 인공지능(AI) 및 클라우드 시장에 진출한다. 지코어는 강점인 엣지클라우드 인프라를 기반으로 고부하 엔터프라이즈 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["챗GPT 글 베낀 논문·자소서, 12년산 기술로 잡겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623105546</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623105546</guid>
-            <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
-            <content:encoded><![CDATA["무하유는 12년 넘게 논문, 보고서, 자기소개서 표절 검출 서비스를 운영했습니다. 이젠 생성 인공지능(AI) 글 표절도 잡아내야 하는 시대입니다. 무하유는 올바른 생성 AI ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
