@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 01:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클, 엑사데이터 X10M 발표…"분석 3.6배 빨라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626091757</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626091757</guid>
+            <pubDate>Mon, 26 Jun 2023 01:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 온라인트랜잭션처리(OLTP)와 데이터 분석 워크로드 모두에서 고성능과 가용성을 제공하는 '오라클 엑사데이터X10M' 버전을 26일 공개했다. 오라클 엑사데이터 X10M...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 작년 버그바운티 포상에 1천200만달러 지급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626090538</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626090538</guid>
+            <pubDate>Mon, 26 Jun 2023 01:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[구글의 버그바운티 금액이 마이크로소프츠에 근접했다. 최근 더레지스터 등 외신에 따르면, 구글은 보안 허점을 발견하고 관련 정보를 공개한 버그 헌터에게 작년 1천200만달러의 포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EDB "데이터 자원 시대, 기업 맞춤 채굴 환경 제공"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626031013</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626031013</guid>
+            <pubDate>Mon, 26 Jun 2023 01:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 1천 500개 이상의 기업에 오픈소스 DBMS 서비스를 제공 중인 EDB는 기업의 특성과 목표에 맞춰 최적화된 DBMS 솔루션을 제시한다. EDB 게이브 브리먼 글로벌...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코인원, 웹·앱 편의 개선…거래 방식 다양화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626083428</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626083428</guid>
+            <pubDate>Mon, 26 Jun 2023 01:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)이 자사 웹과 앱의 거래 편의성을 높였다고 26일 밝혔다. 코인원은 고객센터에 접수된 문의 사항 등을 취합, 분석해 업데이트했다. 거래...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비타소프트, '2023 데이터바우처' 일환 4곳과AI가공 협약]]></title>
             <link>https://zdnet.co.kr/view/?no=20230625190526</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230623103353</guid>
             <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표, 조준희)는 가평 마이다스밸리 호텔에서 '초거대AI 시대, 소프트웨어 기업 대응 전략 워크숍'을 개최했다고 23일 밝혔다. 이번 워크샵은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이블 디퓨전, 자연스러운 손가락 묘사한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623100517</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623100517</guid>
-            <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[보다 정확하고 자연스럽게 손과 손가락을 묘사할 수 있는 이미지 생성 인공지능(AI) 스테이블 디퓨전의 신규 버전이 공개됐다. 22일(현지시간) 디지털트렌드 등 외신에 따르면 스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[피그마, 개발자 모드 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623095515</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623095515</guid>
-            <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 도구 피그마가 개발자 친화적인 작업 공간을 제공하는 '개발 모드(Dev Mode)'를 도입했다. 피그마는 22일(현지시간) 미국 샌프란시스코에서 개최한 '콘피그 2023...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 가상자산 수탁사 '프라임트러스트', 운영 중단…"자금 부족"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623092345</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623092345</guid>
-            <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[미국 가상자산 수탁 기업 프라임트러스트가 자금 부족으로 서비스를 중단했다. 블록체인 매체인 코인데스크, 디크립트 등에 따르면 가상자산 수탁 기업 비트고는 프라임트러스트 인수 협...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠콘, 신한은행에 '데이터 중계 서비스' 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623093240</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623093240</guid>
-            <pubDate>Fri, 23 Jun 2023 02:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[쿠콘(대표 김종현)이 신한은행 '금융 상품 추천 비교 서비스'에 데이터 중계 서비스를 제공한다고 23일 밝혔다. 신한은행은 이달 21일 금융 상품 추천 비교 서비스를 출시했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
