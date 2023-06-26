@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인피니언, 전력 밀도 높인 차세대 차량용 SiC MOSFET 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626112222</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626112222</guid>
+            <pubDate>Mon, 26 Jun 2023 06:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[인피니언 테크놀로지스는 회사의 패키지 시리즈인 'TO263-7'을 적용한 최신형 차량용 1200V CoolSiC MOSFET을 출시한다고 26일 밝혔다. 새로운 1200V Co...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3천억 규모 '반도체 생태계 펀드' 출범...소부장·팹리스 육성]]></title>
             <link>https://zdnet.co.kr/view/?no=20230626134504</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230622143422</guid>
             <pubDate>Thu, 22 Jun 2023 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[중국이 반도체 성숙(legacy·레거시) 공정과 디스플레이 장비를 스스로 만들 정도로 자립도가 상당하다는 분석이 나왔다. 오랫동안 정부가 투자를 뒷받침하며 국산화를 이끈 결과로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI·HBM 수요에 첨단 패키징 생산능력 40% 급성장 전망...TSMC '방긋']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230622115433</link>
-            <guid>https://zdnet.co.kr/view/?no=20230622115433</guid>
-            <pubDate>Thu, 22 Jun 2023 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[최근 AI 산업의 급격한 발달이 AI칩, HBM(고대역폭메모리) 등 고성능 반도체의 수요를 촉진하고 있다. 이에 최첨단 패키징 생산능력도 대만 TSMC를 중심으로 급격한 성장세...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생성 AI 개발 확장한 中…성능도 키웠나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230626140152</link>
+            <guid>https://zdnet.co.kr/view/?no=20230626140152</guid>
+            <pubDate>Mon, 26 Jun 2023 06:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[중국 기업이 생성 인공지능(AI) 개발 확장에 나섰다. 미국 기술 의존성을 줄이고 자국 AI 산업을 키우기 위해서다. 다수 외신은 AI 개발 수 자체는 늘었지만 성능은 뛰어나지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[앞서가는 유럽…가상자산 업계 '호응']]></title>
             <link>https://zdnet.co.kr/view/?no=20230626111846</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230623140907</guid>
             <pubDate>Fri, 23 Jun 2023 06:15:41 GMT</pubDate>
             <content:encoded><![CDATA[애플이 비전OS용 앱 개발을 위한 소프트웨어개발도구(SDK)와 샘플 코드, 개발자 문서를 공개했다. 애플이 개발 문서에서 새롭게 공유한 내용을 정리했다. 애플은 지난 21일 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지코어, AI·엣지 특화 서비스로 국내 시장 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230623140027</link>
-            <guid>https://zdnet.co.kr/view/?no=20230623140027</guid>
-            <pubDate>Fri, 23 Jun 2023 06:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 퍼블릭 클라우드 및 에지컴퓨팅 전문기업인 지코어가 국내 인공지능(AI) 및 클라우드 시장에 진출한다. 지코어는 강점인 엣지클라우드 인프라를 기반으로 고부하 엔터프라이즈 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
