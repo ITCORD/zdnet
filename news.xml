@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 03:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 04:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 4년 만에 한국 '화이트리스트' 복원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230627130802</link>
+            <guid>https://zdnet.co.kr/view/?no=20230627130802</guid>
+            <pubDate>Tue, 27 Jun 2023 04:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[2019년 7월 일본의 반도체 분야 3개 품목 수출규제와 화이트리스트 제외조치로 경색된 한일 수출규제 현안이 4년 만에 해소됐다. 산업통상자원부는 27일 일본 정부가 우리나라를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/08/13/sun1108_BfeATUI09tnh-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레인보우로보틱스, 경찰청과 '과학치안' 발전 방향 모색]]></title>
             <link>https://zdnet.co.kr/view/?no=20230627114950</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230627110659</guid>
             <pubDate>Tue, 27 Jun 2023 03:24:41 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 한국인터넷진흥원(KISA)은 올해 블록체인 기술 선도 적용 사업을 본격적으로 추진한다고 27일 밝혔다. 이는 정부 '블록체인 산업 진흥 전략'의 일환으로 올...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/27/d2ac2efd90f97fe3f447ccfe81c1b1cc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[달 탐사선 다누리, 임무 운영 기간 3년으로 연장]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230627110606</guid>
             <pubDate>Tue, 27 Jun 2023 02:35:57 GMT</pubDate>
             <content:encoded><![CDATA[스노우플레이크는 26일부터 29일까지 미국 라스베이거스에서 개최되는 '스노우플레이크 서밋 2023'에서 엔비디아와 파트너십을 체결했다고 밝혔다. 다양한 규모의 기업은 자체 보유...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무더위에 제습기 판매 '날개'…신제품 출시 행렬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230627081752</link>
-            <guid>https://zdnet.co.kr/view/?no=20230627081752</guid>
-            <pubDate>Tue, 27 Jun 2023 02:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 무더위가 찾아오면서 제습기 인기가 폭발적으로 늘어나는 추세다. 올해는 유독 작년 동기간보다 판매량이 치솟았다. 가전업계는 폭발적인 수요에 부응해 신제품 출시를 서두르고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
