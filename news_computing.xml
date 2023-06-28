@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 03:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 04:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["안전하고 쾌적한 로그인, 앱 비즈니스의 시작"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230628125742</link>
+            <guid>https://zdnet.co.kr/view/?no=20230628125742</guid>
+            <pubDate>Wed, 28 Jun 2023 04:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[“디지털 경험에 있어서 첫 시작은 로그인이다. 안전하고 쾌적한 로그인 환경을 구축하지 못하면 이후의 디지털 콘텐츠는 경험할 수 없고 기업 브랜드의 가치는 하락한다.” 네빌 빈센...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유라클-씨유박스, 모바일 신원 인증 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230628103258</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230627135650</guid>
             <pubDate>Tue, 27 Jun 2023 05:11:14 GMT</pubDate>
             <content:encoded><![CDATA[“그동안 웹3 게임 생태계는 관련 기술을 강조하면서 게임성이 떨어지는 등 유저 접근성이 부족했다. 마브렉스는 개발사가 게임의 재미에만 집중할 수 있는 기반을 제공해 기업과 유저...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["시스코, 'HW+SW' 혁신 지원 강자"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230627125637</link>
-            <guid>https://zdnet.co.kr/view/?no=20230627125637</guid>
-            <pubDate>Tue, 27 Jun 2023 05:11:14 GMT</pubDate>
-            <content:encoded><![CDATA["시스코는 네트워킹, 하드웨어(HW)와 연계되는 소프트웨어(SW) 부문 사업이 급속히 확장됐다. 서비스형소프트웨어(SaaS) 등 순수 SW 부문도 같이 성장했다. 그 결과 매출...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
