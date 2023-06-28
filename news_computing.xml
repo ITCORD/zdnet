@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 08:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국정원, 北 보안인증 취약점 악용 해킹 경고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230628180906</link>
+            <guid>https://zdnet.co.kr/view/?no=20230628180906</guid>
+            <pubDate>Wed, 28 Jun 2023 09:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원은 북한 정찰총국이 보안인증 소프트웨어(SW)의 보안 취약점을 악용, 해킹 공격을 지속적으로 시도하고 있다며, 신속하게 해당 SW를 업데이트하거나 삭제할 것을 28일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현대오토에버 "2027년 매출 5조 목표..5년간 1조 투자”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230628180050</link>
+            <guid>https://zdnet.co.kr/view/?no=20230628180050</guid>
+            <pubDate>Wed, 28 Jun 2023 09:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[현대오토에버(대표 서정식)는 '2023 CEO 인베스터 데이'를 개최하고 강화된 미래 성장 전략 및 재무 목표 등을 공개했다고 28일 밝혔다. 지난 2021년 CEO 인베스터 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이온큐, 양자 컴퓨터 '포르테' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230628171114</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230627152505</guid>
             <pubDate>Wed, 28 Jun 2023 01:09:07 GMT</pubDate>
             <content:encoded><![CDATA[“웹3와 코인 시장을 노린 해킹 공격은 매년 규모가 커지고 복잡해지고 있지만 리소스가 제한된 기업이 이를 모두 막기엔 한계가 있다. 이를 극복하기에 가장 적합한 방법이 바로 버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['알파고'의 딥마인드, 챗GPT 대항마 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230627164020</link>
-            <guid>https://zdnet.co.kr/view/?no=20230627164020</guid>
-            <pubDate>Tue, 27 Jun 2023 08:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[알파고로 유명한 딥마인드가 이번엔 챗GPT 대항마를 개발하고 있다는 소식이다. 딥마인드가 알파고에 사용된 기술을 토대로 제미니(Gemini)라는 인공지능 챗봇을 개발하고 있다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피닛블록, 고려대와 '블록체인 보안' 연구 맞손]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230627162612</link>
-            <guid>https://zdnet.co.kr/view/?no=20230627162612</guid>
-            <pubDate>Tue, 27 Jun 2023 08:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 핀테크 기업 인피닛블록(대표 정구태)은 고려대학교 블록체인보안연구센터와 업무협약을 체결했다고 26일 밝혔다. 인피닛블록과 고려대학교 블록체인보안연구센터는 이번 업무협약...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
