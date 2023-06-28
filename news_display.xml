@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 05:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이런 첨단 반도체 장비 처음 봐요...직접 만들어 볼래요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230628130132</link>
+            <guid>https://zdnet.co.kr/view/?no=20230628130132</guid>
+            <pubDate>Wed, 28 Jun 2023 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[“학교에서는 이런 첨단 반도체 장비를 직접 볼 기회가 없었는데 여기서 직접 설계하고 조립까지 할 수 있다니 너무 설레요.” “열심히 배워서 취업할래요.” 반도체아카데미에 첫발을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 반도체협회장 "반도체 공급망서 韓 등 아시아 동맹 중요해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230628101509</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230626112222</guid>
             <pubDate>Mon, 26 Jun 2023 06:15:26 GMT</pubDate>
             <content:encoded><![CDATA[인피니언 테크놀로지스는 회사의 패키지 시리즈인 'TO263-7'을 적용한 최신형 차량용 1200V CoolSiC MOSFET을 출시한다고 26일 밝혔다. 새로운 1200V Co...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3천억 규모 '반도체 생태계 펀드' 출범...소부장·팹리스 육성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230626134504</link>
-            <guid>https://zdnet.co.kr/view/?no=20230626134504</guid>
-            <pubDate>Mon, 26 Jun 2023 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[메모리 중심의 국내 반도체 밸류체인을 시스템반도체 및 소부장으로 확장하기 위한 목표로 3천억원 규모의 '반도체 생태계 펀드'가 본격 조성된다. 이를 위해 삼성전자와 SK하이닉스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
