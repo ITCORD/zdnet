@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 21:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 22:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘센트에 충전기 꽂으면 전기차 충전에서 결제까지 해결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230628131224</link>
+            <guid>https://zdnet.co.kr/view/?no=20230628131224</guid>
+            <pubDate>Wed, 28 Jun 2023 22:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[국내 연구진이 전기차 충전 단자를 220V 콘센트에 꽂기만 하면 충전과 결제가 이뤄지는 기술을 개발, 국제 인증을 받았다. 한국전기연구원(KERI, 원장 김남균)은 이재조 박사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/28/54cbc79a2f99011dd43d0a7e16477584-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복지부, 임시신생아번호만 있는 아동 2123명 전수조사 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230629005408</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230628212057</guid>
             <pubDate>Wed, 28 Jun 2023 13:21:13 GMT</pubDate>
             <content:encoded><![CDATA[“데이터스트림즈는 데이터만 20년 넘게 다뤄왔습니다. 거버넌스든 품질관리든 데이터 이슈에 관한 건 뭐든 자신 있습니다.” 창립 22년째인 데이터 전문기업 데이터스트림즈(대표 이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/28/5a180899196ac344d8f559ca1be52cf4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빗썸, 실시간 이용자 투자 현황 데이터 알려준다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230628171650</guid>
             <pubDate>Wed, 28 Jun 2023 09:11:09 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 디바이스 기업 텐마인즈는 AI 코골이 완화 시스템 모션필로우를 오는 29일 CJ온스타일에서 홈쇼핑 업계 최초로 단독 론칭한다고 28일 밝혔다. 방송은 오는 29일 오후...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이온큐, 양자 컴퓨터 '포르테' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230628171114</link>
-            <guid>https://zdnet.co.kr/view/?no=20230628171114</guid>
-            <pubDate>Wed, 28 Jun 2023 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[아이온큐는 서울 동대문 디자인 플라자(DDP)에서 퀀텀 코리아 2023에 참가한다고 28일 밝혔다. 26일부터 29일까지 열리는 이번 행사에서 아이온큐는 국내 양자산업 업계와 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
