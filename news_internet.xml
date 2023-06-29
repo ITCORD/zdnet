@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 11:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 12:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["부산 도시 문제 해결, 스타트업이 해결하고파"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230629203838</link>
+            <guid>https://zdnet.co.kr/view/?no=20230629203838</guid>
+            <pubDate>Thu, 29 Jun 2023 12:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[“부산은 수도권행이 가장 빈번한 지역이다. 이곳에서 제조 스타트업을 찾기란 어려운 일이다.” “부산이 직면한 도시문제를 해결하는 데 보탬이 되고 싶다. 특색 있는 부산 음식을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라인, 프로필 이미지 만들어주는 'AI 사진관' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230629152201</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230628133930</guid>
             <pubDate>Wed, 28 Jun 2023 05:11:03 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)와 마크 저커버그 메타 CEO와의 격투기 대결 성사에 많은 관심이 쏠리고 있는 가운데, 일론 머스크가 최근 주짓수 특훈을 받은 사실이 알려...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지니뮤직, AI 편곡 서비스 공개…"전 국민 작곡 시대 올 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230628113915</link>
-            <guid>https://zdnet.co.kr/view/?no=20230628113915</guid>
-            <pubDate>Wed, 28 Jun 2023 05:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[“AI 기술로 인해 창작자 문턱이 많이 낮아져 조만간 전국민이 작곡하는 날이 올 것 같다.” (김형석 피디) 지니뮤직과 자회사 인공지능(AI) 스타트업 주스가 베타 출시한 AI...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
