@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 12:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 13:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국IBM, 이은주 신임 사장 선임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230630220545</link>
+            <guid>https://zdnet.co.kr/view/?no=20230630220545</guid>
+            <pubDate>Fri, 30 Jun 2023 13:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 이은주 박사를 한국IBM 신임 사장에 임명한다고 30일 발표했다. 이은주 신임 사장은 삼성SDS에서 클라우드 관리, 기술 영업, 가격 및 전략, 마케팅 및 교육, 파트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DAXA "가상자산 이용자 보호법 제정 환영"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230630163419</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230629180353</guid>
             <pubDate>Thu, 29 Jun 2023 09:11:55 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 개인정보보호책임자 역할 강화를 위한 협력과 지원방안을 주제로 30여 명의 개인정보보호책임자(CPO)와 간담회를 개최했다고 29일 밝혔다. 서울시 중구 정동 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행, AWS 로 금융 슈퍼앱 구현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230629162700</link>
-            <guid>https://zdnet.co.kr/view/?no=20230629162700</guid>
-            <pubDate>Thu, 29 Jun 2023 08:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)는 KB국민은행의 KB스타뱅킹 슈퍼앱 전략에 클라우드 서비스를 제공했다고 29일 밝혔다. 지난 'AWS 서밋 서울'에서 발표된 AWS 기반 KB금융 그룹의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
