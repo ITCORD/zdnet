@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 07:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 08:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DAXA "가상자산 이용자 보호법 제정 환영"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230630163419</link>
+            <guid>https://zdnet.co.kr/view/?no=20230630163419</guid>
+            <pubDate>Fri, 30 Jun 2023 08:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내 원화마켓 운영 가상자산 거래소인 고팍스, 빗썸, 업비트, 코빗, 코인원으로 구성된 디지털자산거래소공동협의체(DAXA)는 '가상자산 이용자 보호 등에 관한 법률' 제정을 환...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["개인 정보 훔쳐서 AI 모델 훈련" 오픈AI 피소]]></title>
             <link>https://zdnet.co.kr/view/?no=20230630143331</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230629162700</guid>
             <pubDate>Thu, 29 Jun 2023 08:24:45 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)는 KB국민은행의 KB스타뱅킹 슈퍼앱 전략에 클라우드 서비스를 제공했다고 29일 밝혔다. 지난 'AWS 서밋 서울'에서 발표된 AWS 기반 KB금융 그룹의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틸론, 롯데정보통신에 VDI 시스템 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230629162517</link>
-            <guid>https://zdnet.co.kr/view/?no=20230629162517</guid>
-            <pubDate>Thu, 29 Jun 2023 08:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)은 롯데그룹 IT 서비스 전문 기업 롯데정보통신에 자사가 개발한 가상 데스크톱 인프라(VDI) 솔루션 '디스테이션...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
