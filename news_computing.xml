@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 04:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 05:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토카막 네트워크, 자체 메인넷 '타이탄' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230630135734</link>
+            <guid>https://zdnet.co.kr/view/?no=20230630135734</guid>
+            <pubDate>Fri, 30 Jun 2023 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[주문형 레이어2 플랫폼 토카막 네트워크는 자체 메인넷 '타이탄'을 출시했다고 30일 밝혔다. 이더리움 확장성 솔루션 '옵티미스틱 롤업' 기반 메인넷으로 속도, 경제성, 개발자 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이온큐, 과기정통부와 양자컴퓨터 산업 육성 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230630115612</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230629142727</guid>
             <pubDate>Thu, 29 Jun 2023 08:24:45 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터(대표 변성준·김연수)가 정부 클라우드 기반 전자문서 시스템 '온나라'에 웹기안기를 공급한다고 29일 밝혔다. 웹기안기는 웹브라우저에서 문서 편집과 변환 기능 등을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디플정, 차세대 공공시스템 발전 위해 TF 꾸린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230629112118</link>
-            <guid>https://zdnet.co.kr/view/?no=20230629112118</guid>
-            <pubDate>Thu, 29 Jun 2023 08:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[디지털플랫폼정부위원회가 차세대 공공시스템 사업 발전을 위해 태스크포스(TF)를 꾸린다. 차세대 공공시스템에 발생한 문제 원인을 분석하고 이를 방지하기 위한 대책을 마련하기 위해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
