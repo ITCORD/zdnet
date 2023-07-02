@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 02:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 03:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 소프트뱅크, 기업용 생성 AI 만든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230702111956</link>
+            <guid>https://zdnet.co.kr/view/?no=20230702111956</guid>
+            <pubDate>Sun, 02 Jul 2023 03:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[일본 소프트뱅크가 기업용 생성 인공지능(AI) 개발에 나선다. 니혼게이자이신문 등 주요 외신은 지난 30일 소프트뱅크가 올해 안에 생성 AI 개발에 필요한 슈퍼컴퓨터를 구축한다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수천억 세금들인 대규모 SW사업, 대책 없는 오류 반복]]></title>
             <link>https://zdnet.co.kr/view/?no=20230702033309</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230630095519</guid>
             <pubDate>Fri, 30 Jun 2023 02:21:56 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 지난 5월 공개한 윈도11 코파일럿 기능 업데이트가 미리보기로 나왔다. 29일(현지시간) 아스테크니카 등 외신에 따르면, 마이크로소프트는 최근 윈도인사이더프로그...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공공 SW사업의 본질과 대기업 참여 제한의 충돌]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230630091227</link>
-            <guid>https://zdnet.co.kr/view/?no=20230630091227</guid>
-            <pubDate>Fri, 30 Jun 2023 02:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어(SW) 업계가 10년 된 화두로 다시 시끄럽다. 하나는 공공 SW 사업에서 대기업 참여를 제한하는 제도를 손보는 문제다. 또 하나는 교육부가 추진한 4세대 교육행정정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
