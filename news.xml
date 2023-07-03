@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 14:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 15:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이증권, 일부 서비스 오류..."현재 정상화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230703232612</link>
+            <guid>https://zdnet.co.kr/view/?no=20230703232612</guid>
+            <pubDate>Mon, 03 Jul 2023 15:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이증권에서 3일 오후 10시 35분께부터 일부 서비스 접속이 지연되는 등 오류가 발생했으나 현재 해결됐다. 이날 카카오페이 모바일 앱 주식 탭에서 실시간 순위 보기 등 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/03/4d0d8f4a0615567f24a2687c686d8bfe-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, D램·파운드리 부사장급 인사 단행... 차세대 제품 개발 주력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230703193150</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230703164630</guid>
             <pubDate>Mon, 03 Jul 2023 08:14:19 GMT</pubDate>
             <content:encoded><![CDATA[스웨덴 종합가전기업 일렉트로룩스가 유·무선 청소기, 공기청정기 등 5개 제품으로 iF 디자인 어워드와 레드닷 디자인 어워드에서 수상했다고 3일 밝혔다. iF 디자인 어워드와 레...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라온시큐어, 자회사 라온화이트햇 합병]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230703164312</link>
-            <guid>https://zdnet.co.kr/view/?no=20230703164312</guid>
-            <pubDate>Mon, 03 Jul 2023 08:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[라온시큐어(대표 이순형)는 사업 역량 집중과 글로벌 사업의 확대, 경영구조 개선을 위해 자회사인 라온화이트햇을 흡수합병 했다고 3일 밝혔다. 지난 6월 30일 이사회를 열고, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

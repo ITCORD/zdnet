@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 14:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 15:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이증권, 일부 서비스 오류..."현재 정상화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230703232612</link>
+            <guid>https://zdnet.co.kr/view/?no=20230703232612</guid>
+            <pubDate>Mon, 03 Jul 2023 15:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이증권에서 3일 오후 10시 35분께부터 일부 서비스 접속이 지연되는 등 오류가 발생했으나 현재 해결됐다. 이날 카카오페이 모바일 앱 주식 탭에서 실시간 순위 보기 등 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티-LGU+, 하늘길·땅길 힘모아 달린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230703180900</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230703093344</guid>
             <pubDate>Mon, 03 Jul 2023 01:00:27 GMT</pubDate>
             <content:encoded><![CDATA[NHN페이코(대표 정연훈)가 이용자 편의성 증대를 위해 포인트 관리 기능 통합을 주요 내용으로 하는 모바일 앱 개편을 진행했다고 3일 밝혔다. 올해 1분기 기준 페이코 포인트 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[지디의 타임캡슐] 부동산 스타트업 '집토스' 2년간의 생존기록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230630172533</link>
-            <guid>https://zdnet.co.kr/view/?no=20230630172533</guid>
-            <pubDate>Mon, 03 Jul 2023 01:00:27 GMT</pubDate>
-            <content:encoded><![CDATA['지디의 타임캡슐'은 기업가치 1조원을 꿈꾸는 '내일의 유니콘 기업'을 만나는 인터뷰 코너입니다. "회사의 2년 뒤를 예상해보고, 2년 뒤 다시 만나 그 때 그 다짐과 약속을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
