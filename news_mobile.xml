@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 05:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 06:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플 비전 프로, VR 게임 컨트롤러 지원 계획 없다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230703133847</link>
+            <guid>https://zdnet.co.kr/view/?no=20230703133847</guid>
+            <pubDate>Mon, 03 Jul 2023 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 혼합현실(MR) 헤드셋 '비전 프로'에 VR 게임 컨트롤러를 지원할 계획이 없다는 보도가 나왔다. 블룸버그 통신은 2일(현지시간) 파워온 뉴스레터를 통해 "애플이 비전 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴로메카, 큐렉소에 90억원 규모 로봇팔 납품 계약]]></title>
             <link>https://zdnet.co.kr/view/?no=20230703133830</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230627173829</guid>
             <pubDate>Sun, 02 Jul 2023 01:01:26 GMT</pubDate>
             <content:encoded><![CDATA[서울 강동구의 한 아파트 단지는 최근 로봇 배달 직원을 도입했다. 로봇은 단지 입구에 위치한 카페에서 단지 중앙 휴게공간으로 음료를 배달한다. 아직 로봇 1대가 하루 2시간만 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모토로라 폴더블폰, 이달 인도 출시...한국은 언제?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230630165338</link>
-            <guid>https://zdnet.co.kr/view/?no=20230630165338</guid>
-            <pubDate>Sun, 02 Jul 2023 01:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[모토로라 폴더블폰 '레이저40' 시리즈가 7월 인도에서 공식 출시된다. 하지만 국내는 이달 중 출시가 어려울 것이라는 전망이 나온다. 2일 업계에 따르면 모토로라 레이저40 울...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
