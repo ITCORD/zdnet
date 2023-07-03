@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 07:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 08:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, 카카오페이 본사 압수수색]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230703161626</link>
+            <guid>https://zdnet.co.kr/view/?no=20230703161626</guid>
+            <pubDate>Mon, 03 Jul 2023 08:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[서울경찰청 반부패공공범죄수사대가 3일 경기 성남시 분당구 카카오페이 본사를 압수수색에 착수한 것으로 알려졌다. 업계에 따르면, 경찰은 이날 오전 카카오페이에 수사관을 투입해 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버랩스-네이버클라우드-LX, 디지털트윈 플랫폼 구축·해외 진출 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230703154943</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230702101937</guid>
             <pubDate>Sun, 02 Jul 2023 10:10:59 GMT</pubDate>
             <content:encoded><![CDATA[또 다시 네이버 뉴스 알고리즘이 도마위에 올랐다. 국민의힘 박성중 의원실의 문제 제기로 시작된 이번 논쟁은 뉴스 검색 노출 알고리즘 조작과 정치권 외압설로 확대되고 있다. 네이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이 앱서 뮤직비디오 전체 볼 수 있을 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230702094754</link>
-            <guid>https://zdnet.co.kr/view/?no=20230702094754</guid>
-            <pubDate>Sun, 02 Jul 2023 02:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[스포티파이가 앱에서 전체 길이 뮤직 비디오를 지원할 전망이다. 블룸버그, 엔가젯 등 외신은 지난달 30일(현지시간) 스포티파이가 앱에서 뮤직비디오 서비스를 탑재하기 위해 여러 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
