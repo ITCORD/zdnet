@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 01:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 02:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포티넷 방화벽 69%, 치명적 버그에 3주일째 노출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706103746</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706103746</guid>
+            <pubDate>Thu, 06 Jul 2023 02:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 포티넷이 방화벽에서 보안취약점을 발견하고 패치를 배포했지만, 3주일 지난 시점에도 대다수 고객 환경에 설치되지 못한 것으로 나타났다. 치명적인 보안취약점이 해결되지 못한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[라이너, AI 검색 서비스 '라이너 코파일럿' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706090833</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706090833</guid>
+            <pubDate>Thu, 06 Jul 2023 02:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[라이너(대표 김진우)가 '라이너 코파일럿'을 출시했다고 6일 밝혔다. 라이너 코파일럿은 라이너의 인공지능(AI) 검색 기능 '라이너 AI'를 업그레이드한 대화형 검색 서비스다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[팀뷰어, 메르세데스-AMG 페트로나스 F1 팀 경기력 향상 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230706093855</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230705105225</guid>
             <pubDate>Wed, 05 Jul 2023 02:35:52 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)으로 사람 생각을 읽는 기술이 나왔다. CNN 등 주요 외신은 4일(현지시간) 미국 텍사스대 오스틴캠퍼스 신경학과 연구팀이 뇌 활동을 AI로 해석하는 기술을 찾아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플루닛, DB손해보험에 생성 AI 기술 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230705094112</link>
-            <guid>https://zdnet.co.kr/view/?no=20230705094112</guid>
-            <pubDate>Wed, 05 Jul 2023 02:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[플루닛(대표 이경일)은 생성 인공지능(AI)을 보험 업무에 적용하기 위해 DB손해보험(대표 정종표)과 손잡았다고 5일 밝혔다. DB손해보험 본사에서 진행한 협약식에는 이경일 플...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비즈플레이, 사내근로복지기금용 '복지카드' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230705094827</link>
-            <guid>https://zdnet.co.kr/view/?no=20230705094827</guid>
-            <pubDate>Wed, 05 Jul 2023 02:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[비즈플레이(대표 김홍기)가 사내근로복지기금 전용 '복지카드'를 출시했다고 5일 밝혔다. 사내근로복지기금이란, 회사가 수익 일부를 별도 법인에 출연해 해당 기금으로 근로자 복지증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
