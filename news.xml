@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 22:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 23:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미장브리핑] 6월 美 민간 일자리 '서프라이즈'…금리 인상 힘실려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230707074225</link>
+            <guid>https://zdnet.co.kr/view/?no=20230707074225</guid>
+            <pubDate>Thu, 06 Jul 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[◇ 6일(현지시간) 미국 증시 ▲다우존스산업평균(다우)지수 전 거래일 대비 1.07% 하락한 33922.26. ▲스탠다드앤푸어스(S&amp;P)500 지수 전 거래일 0.79% 하락한...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/08/b02b87288c12ca26138f6801b1cd5c27-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑셈, 빅데이터 과제 순항···전기차·AMI, 클라우드 전문성 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230706224518</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230706225418</guid>
             <pubDate>Thu, 06 Jul 2023 21:10:35 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 컴퓨팅 및 디지털 전환(DT) 전문 기업 이노그리드(대표 김명진)는 자사의 PaaS 솔루션 'SE클라우드잇'이 클라우드 네이티브 컴퓨팅 재단(CNCF)의 '쿠버네티스 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/06/0a58b206af5ce126dbf3a72cd5378937-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[기술경영경제학회 하계학술대회···"새로운 R&I 생태계 필요"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706173014</guid>
             <pubDate>Thu, 06 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[남부발전이 LNG 복합발전소에서 운영 중인 가스터빈을 활용해 전력계통에 관성력을 제공하기 위한 동기조상 모드 운전기술 확보·실증에 나선다. 한국남부발전(대표 이승우)은 5일 부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈 프렌즈팝콘, 환경의 달 맞아 3천만 원 기부]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706172407</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706172407</guid>
-            <pubDate>Thu, 06 Jul 2023 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈(대표 조계현)는 6일 모바일 퍼즐게임 '프렌즈팝콘' 이용자와 함께 모은 기부금 총 3천만 원을 WWF(세계자연기금)에 전달했다고 밝혔다. 기부금 전달식은 지난 5일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
