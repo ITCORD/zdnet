@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 06:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 07:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 아크 A500M GPU, 노트북 아닌 임베디드·IoT 기기에 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706160018</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706160018</guid>
+            <pubDate>Thu, 06 Jul 2023 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 아크 그래픽칩셋(GPU) 정식 출시 이후 1년 4개월간 소식을 감췄던 모바일(노트북)용 제품인 A550M이 올 3분기부터 본격 시장에 공급된다. 모바일용 아크 그래픽칩셋은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NPU IP 에임퓨처, 50억 시리즈A 투자 유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230706144654</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230704132712</guid>
             <pubDate>Tue, 04 Jul 2023 07:11:25 GMT</pubDate>
             <content:encoded><![CDATA[국내 유망 반도체 스타트업 10개사가 한 자리에 모였다. 이들 기업은 나노계측, 통신, 센서, 차세대 메모리 등 다양한 분야에서 혁신을 이뤄낸 기업들로, 세계 최초·최고 수준의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이던스, 삼성 파운드리와 '설계 마이그레이션 플로우' 공동 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230704134715</link>
-            <guid>https://zdnet.co.kr/view/?no=20230704134715</guid>
-            <pubDate>Tue, 04 Jul 2023 06:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 IP(설계자산) 업체 케이던스가 삼성전자 파운드리와 AI 기반의 '설계 마이그레이션 플로우'를 공동 개발해 공급한다고 발표했다. 케이던스와 삼성전자는 양사 고객들에게 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
