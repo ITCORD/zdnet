@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 09:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 10:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스포, 덴마크·뉴질랜드·파키스탄 슬러시드 개최기관 협업]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706180532</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706180532</guid>
+            <pubDate>Thu, 06 Jul 2023 10:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[코리아스타트업포럼은 부산 슬러시드 개최를 기념해 오르후스(덴마크), 웰링턴(뉴질랜드), 카라치(파키스탄) 등 해외 슬러시드 개최기관과 업무협약을 체결했다고 6일 밝혔다. 지난달...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/06/949fba3b20ca645dca1c73242122c0ed-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인젠트, '포스트그레SQL 마이그레이션 기술 백서' 발간]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706184210</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706184210</guid>
+            <pubDate>Thu, 06 Jul 2023 10:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[인젠트(대표 남석우)가 인젠트 엑스퍼디비(eXperDB) 백서 시리즈의 두 번째로 오라클 사용자를 위한 포스트그레SQL(PostgreSQL) 마이그레이션 가이드를 발간했다고 6...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/06/95bc3a2e339e8384a5798ee5803109db-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래로티 팀82, 이블 PLC 공격 시나리오 시연]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706182145</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706182145</guid>
+            <pubDate>Thu, 06 Jul 2023 10:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[클래로티가 보안 세미나를 개최하고 산하 연구조직 팀82(Team82)가 발견한 '이블 PLC 공격(Evil PLC Attack)'을 공개했다고 6일 밝혔다. 이블 PLC 공격이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버페이 빠른정산, 외부몰에서도 사용 가능해졌다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230706180309</link>
             <guid>https://zdnet.co.kr/view/?no=20230706180309</guid>
             <pubDate>Thu, 06 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[이제 네이버페이를 연동한 외부몰 가맹점도 '빠른정산'을 이용해 집화처리 다음날이면 대금 정산을 받을 수 있게 된다. 네이버파이낸셜(대표 박상진)이 온라인 사업자의 자금회전을 돕...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/06/669febcd1eb6cd14ff473cf87d1b7836-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[클로잇, 스윗테크놀로지스와 DX 가속 파트너십 체결]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230706180827</guid>
             <pubDate>Thu, 06 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[클로잇(대표 이영수)이 스윗테크놀로지스와 디지털 혁신 가속화를 위한 전략적 파트너십을 체결했다고 6일 밝혔다. 이번 파트너 협약을 통해 클로잇의 고객을 중심으로 디지털 혁신 솔...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/06/fb30a636103ce93804e5a7202d33beb3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, AI CCTV 탑재 자율주행 순찰로봇 실증 실시]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706150059</guid>
             <pubDate>Thu, 06 Jul 2023 08:15:28 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 하반기 갤럭시 언팩 초청장을 발송했다. 언팩을 앞두고 신제품 라인업과 예상 스펙에 관한 전망이 쏟아진다. 6일 업계에 따르면 삼성전자는 이번 언팩에서 갤럭시Z폴드5와...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, e-모빌리티 산업 확산…지역 기반 연계·협력 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706165406</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706165406</guid>
-            <pubDate>Thu, 06 Jul 2023 08:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 e-모빌리티 산업 확산을 위해 기술개발과 실증사업 연계 등 관련 제도를 마련한다. 산업통상자원부는 6일 관련 기관과 '소형 e-모빌리티 지역 기반 연계·협력 강화를 위한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스레드, 출시 2시간만에 가입자 200만 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706143437</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706143437</guid>
-            <pubDate>Thu, 06 Jul 2023 08:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 새롭게 출시한 소셜 미디어 스레드가 2시간 만에 가입자 200만 명을 돌파했다. 5일(현지시간) IT전문지 테크크런치 등 외신은 트위터 경쟁 서비스이자 메타가 운영하는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, 전기안전관리에 디지털 기술 접목…전기재해 감축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706164508</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706164508</guid>
-            <pubDate>Thu, 06 Jul 2023 08:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[기존 인력중심의 노동집약적 현장 안전점검 형태의 전기안전관리가 디지털 방식의 상시‧비대면‧원격점검 체계로 전환된다. 산업통상자원부는 6일 사물인터넷(IoT) 기술이 접목된 전기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
