@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 02:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 03:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG CNS, 스마트 물류센터 로봇 통합 관리 플랫폼 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230706115659</link>
+            <guid>https://zdnet.co.kr/view/?no=20230706115659</guid>
+            <pubDate>Thu, 06 Jul 2023 03:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[LG CNS가 스마트 물류센터에서 다양한 로봇을 제어·관리·운영할 수 있는 '로봇 통합운영 플랫폼(이하 로봇 플랫폼)'을 개발했다고 6일 밝혔다. 제어 시스템이 서로 다른 이기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포티넷 방화벽 69%, 치명적 버그에 3주일째 노출]]></title>
             <link>https://zdnet.co.kr/view/?no=20230706103746</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230705093418</guid>
             <pubDate>Wed, 05 Jul 2023 02:35:52 GMT</pubDate>
             <content:encoded><![CDATA[라이언로켓(대표 정승환)은 생성 인공지능(AI) 플랫폼 '포킷'으로 미국, 캐나다, 싱가폴 등 전 세계 57개국에 진출했다고 5일 밝혔다. 포킷은 이미지 생성 AI 워크플로 웹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 연구팀 "AI로 사람 생각 읽을 수 있어"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230705105225</link>
-            <guid>https://zdnet.co.kr/view/?no=20230705105225</guid>
-            <pubDate>Wed, 05 Jul 2023 02:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)으로 사람 생각을 읽는 기술이 나왔다. CNN 등 주요 외신은 4일(현지시간) 미국 텍사스대 오스틴캠퍼스 신경학과 연구팀이 뇌 활동을 AI로 해석하는 기술을 찾아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
