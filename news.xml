@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 02:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, GPT-4 API 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230707104829</link>
+            <guid>https://zdnet.co.kr/view/?no=20230707104829</guid>
+            <pubDate>Fri, 07 Jul 2023 03:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 GPT-4 API 상용화 버전(GA)를 출시한다. 7일(현지시간) 테크크런치 등 외신에 따르면 오픈AI는 GPT-4 API 상용화 버전을 공개하며 이전 모델에 대한 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/07/50d783c25549f3367da6a8ef9c9ff8ef-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스 '크로니클', 길드 콘텐츠 개선...점령전 공략 자유 부여]]></title>
             <link>https://zdnet.co.kr/view/?no=20230707113435</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230707114445</guid>
             <pubDate>Fri, 07 Jul 2023 02:53:54 GMT</pubDate>
             <content:encoded><![CDATA[인도에 진출한 국내 기업의 애로사항을 해소하기 위한 방안을 논의하는 자리가 마련됐다. 한국무역협회는 7일 삼성동 트레이드타워에서 인도산업협회(CII)와 공동으로 'KITA-CI...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/07/83d15077b4f506bb7bb298a61e119631-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['콘솔 독점' 비판한 사티아 나델라…마이크로소프트의 복잡한 속내]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230707103311</guid>
             <pubDate>Fri, 07 Jul 2023 02:53:54 GMT</pubDate>
             <content:encoded><![CDATA[종합교육기업 에듀윌이 8일 제26회 주택관리사보 1차시험 종료 즉시 가장 빠르고 정확한 가답안을 공개한다고 7일 밝혔다. 2023년도 제26회 주택관리사보 1차시험이 8일 치러...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 "반도체 클러스터 전력공급 로드맵 조기 발표 예정"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230707081635</link>
-            <guid>https://zdnet.co.kr/view/?no=20230707081635</guid>
-            <pubDate>Fri, 07 Jul 2023 02:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 용인 반도체 클러스터의 성공적인 조성을 위해 안정적 전력공급 방안을 차질 없이 준비 중이라고 밝혔다. 클러스터 조성에 따른 대규모 전력을 안정적으로 공급하기 위해 발전설...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

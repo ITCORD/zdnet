@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 02:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, GPT-4 API 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230707104829</link>
+            <guid>https://zdnet.co.kr/view/?no=20230707104829</guid>
+            <pubDate>Fri, 07 Jul 2023 03:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 GPT-4 API 상용화 버전(GA)를 출시한다. 7일(현지시간) 테크크런치 등 외신에 따르면 오픈AI는 GPT-4 API 상용화 버전을 공개하며 이전 모델에 대한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[록키리눅스가 RHEL 클론 프로젝트를 유지하는 방법]]></title>
             <link>https://zdnet.co.kr/view/?no=20230707101453</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706135411</guid>
             <pubDate>Thu, 06 Jul 2023 06:15:35 GMT</pubDate>
             <content:encoded><![CDATA[전주시와 전주정보문화산업진흥원은 지역 XR·메타버스 분야 디지털미디어 경쟁력 강화를 위해 XR⋅메타버스 기술융합 세미나를 개최했다. 지난달 6월 28일과 29일에 진행된 이 행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀘스트, 백업 스토리지 '코어스토어 7.2' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706132700</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706132700</guid>
-            <pubDate>Thu, 06 Jul 2023 05:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[퀘스트소프트웨어는 데이터 손실과 사이버 공격에 대한 보호 기능을 제공하는 소프트웨어 정의 백업 스토리지 솔루션인 코어스토어 v7.2를 출시했다고 6일 밝혔다. 최신 버전의 코어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
