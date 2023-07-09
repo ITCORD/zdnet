@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 01:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 03:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JP모건 "美 비트코인 현물 ETF, 큰 호재 아냐"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230709095522</link>
+            <guid>https://zdnet.co.kr/view/?no=20230709095522</guid>
+            <pubDate>Sun, 09 Jul 2023 03:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[블랙록을 비롯한 미국 금융권들의 비트코인 현물 상장지수펀드(ETF) 출시 신청이 받아들여지더라도 가상자산 시장에 큰 변화가 없을 것이란 보고서가 나왔다. 블룸버그, 코인데스크 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라이트닝랩스, LLM활용 비트코인 거래 도구 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230709054733</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706180024</guid>
             <pubDate>Thu, 06 Jul 2023 09:12:07 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스(대표 박진효)가 산업통상자원부로부터 '자율주행 순찰로봇 운영 실증' 규제 샌드박스 승인을 받고 실증 사업에 나선다고 6일 밝혔다. 규제 샌드박스는 신산업 혁신성장을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日최대 항만 나고야항, 랜섬웨어 공격으로 마비]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706165624</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706165624</guid>
-            <pubDate>Thu, 06 Jul 2023 08:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[일본 최대 항만인 나고야항의 관제기관이 랜섬웨어 공격을 받았다. 이로 인해 컨테이너 하역 등 수출입 작업이 중단되는 등 큰 혼란을 겪고 있다. 실리콘앵글 등 외신에 따르면 랜섬...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
