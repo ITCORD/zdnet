@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 05:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 06:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년부터 인터넷익스플로러에서 한컴 문서 못 본다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710132932</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710132932</guid>
+            <pubDate>Mon, 10 Jul 2023 06:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[내년부터 인터넷 익스플로러(IE) 사용자는 한글과컴퓨터 문서를 열어볼 수 없다. 한글과컴퓨터(대표 변성준·김연수)는 IE에 공급했던 '한글 OCX 컨트롤' 공급을 올해 12월 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 엔드포인트 보안시장 1위됐다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230710133903</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230707111431</guid>
             <pubDate>Fri, 07 Jul 2023 02:54:42 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드가 멘딕스와 글로벌 로우코드 세미나 '멘딕스10 서울 서밋'을 개최했다고 7일 밝혔다. 6일 서울 여의도 콘래드서울 그랜드볼룸에서 개최한 행사에서는 국내 기업 IT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠로, 한국거래소 '코스닥 라이징스타' 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230707110631</link>
-            <guid>https://zdnet.co.kr/view/?no=20230707110631</guid>
-            <pubDate>Fri, 07 Jul 2023 02:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[엠로(대표 송재민)가 '2023 코스닥 라이징스타'로 선정됐다고 7일 밝혔다. 코스닥 라이징스타는 한국거래소에서 매년 선정해 지원하는 사업이다. 우수한 기술력과 경쟁력을 갖추고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
