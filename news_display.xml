@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 04:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기 FCBGA, 작지만 강하다…왜?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710110032</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710110032</guid>
+            <pubDate>Mon, 10 Jul 2023 05:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기 패키지솔루션사업부가 사내 3대 사업부 가운데 매출 비중은 가장 작지만 영업이익률은 제일 높은 것으로 나타났다. 플립칩 볼그리드 어레이(FCBGA) 부가가치가 그만큼 높...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브로드컴, 스페인에 반도체 시설 투자…EU 보조금 지급]]></title>
             <link>https://zdnet.co.kr/view/?no=20230710092203</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706160018</guid>
             <pubDate>Thu, 06 Jul 2023 07:11:48 GMT</pubDate>
             <content:encoded><![CDATA[인텔 아크 그래픽칩셋(GPU) 정식 출시 이후 1년 4개월간 소식을 감췄던 모바일(노트북)용 제품인 A550M이 올 3분기부터 본격 시장에 공급된다. 모바일용 아크 그래픽칩셋은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NPU IP 에임퓨처, 50억 시리즈A 투자 유치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706144654</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706144654</guid>
-            <pubDate>Thu, 06 Jul 2023 06:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[AI 반도체 설계자산(IP) 기업 에임퓨처가 총 50억원의 시리즈 A 투자유치를 종료했다고 발표했다. 이번 투자에 참여한 투자사는 L&amp;S벤처캐피탈, 하이투자파트너스, 대덕벤처파...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
