@@ -4,9 +4,49 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 01:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부 "한국형 제로트러스트 구축한다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710094553</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710094553</guid>
+            <pubDate>Mon, 10 Jul 2023 00:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[정부 부처에서 새로운 보안 체계인 제로트러스트 도입에 앞서 가이드라인을 제시했다. 국내 기업과 서비스 환경에 최적화된 보안환경을 구축하기 위함이다. 과학기술정보통신부(이하 과기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LXD, 리눅스컨테이너(LXC)에서 캐노니컬로 이관]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710093028</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710093028</guid>
+            <pubDate>Mon, 10 Jul 2023 00:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[캐노니컬이 리눅스 컨테이너 하이퍼바이저인 'LXD' 프로젝트를 리눅스컨테이너(LXC)재단에서 자사로 이전한다고 발표했다. 최근 더레지스터에 따르면, 캐노니컬은 LXD 프로젝트를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우데라, LLM 위한 데이터 레이크하우스 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710094743</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710094743</guid>
+            <pubDate>Mon, 10 Jul 2023 00:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[클라우데라는 기업에서 대규모 언어모델(LLM)을 안전하고 신뢰할 수 있게 활용하게 해주는 개방형 데이터 레이크하우스 전략을 10일 발표했다. 클라우데라의 개방형 데이터 레이크하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데호텔, MS 파워 플랫폼으로 초자동화 업무 환경 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710094157</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710094157</guid>
+            <pubDate>Mon, 10 Jul 2023 00:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[한국마이크로소프트는 롯데호텔에 파워플랫폼 기반 업무 자동화 환경을 구축했다고 10일 밝혔다. 파워 플랫폼은 마이크로소프트의 로우코드/노코드 솔루션이다. 전문 개발자 외에 누구나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[다날, '삼성페이' 휴대폰 결제 첫 이용 즉시할인 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710092018</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710092018</guid>
+            <pubDate>Mon, 10 Jul 2023 00:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[결제 전문 기업 다날은 삼성페이 휴대폰 결제 첫 결제 즉시할인 행사를 실시한다고 10일 밝혔다. 이번 행사는 10일부터 내달 31일까지 알뜰폰을 포함한 전 통신사 가입자 대상으...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JP모건 "美 비트코인 현물 ETF, 큰 호재 아냐"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230709095522</link>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706224518</guid>
             <pubDate>Thu, 06 Jul 2023 22:10:40 GMT</pubDate>
             <content:encoded><![CDATA[엑셈(대표 조종암)은 국토교통부(이하 국토부)가 주관하고 국토교통과학기술 진흥원이 관리하는 '전기차 안전 모니터링 대국민 실증 서비스 개발' 과제와 산업통상자원부(산자부)가 주...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이노그리드 'SE클라우드잇', 쿠버네티스 적합성 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706225418</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706225418</guid>
-            <pubDate>Thu, 06 Jul 2023 21:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 컴퓨팅 및 디지털 전환(DT) 전문 기업 이노그리드(대표 김명진)는 자사의 PaaS 솔루션 'SE클라우드잇'이 클라우드 네이티브 컴퓨팅 재단(CNCF)의 '쿠버네티스 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트, '포스트그레SQL 마이그레이션 기술 백서' 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706184210</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706184210</guid>
-            <pubDate>Thu, 06 Jul 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[인젠트(대표 남석우)가 인젠트 엑스퍼디비(eXperDB) 백서 시리즈의 두 번째로 오라클 사용자를 위한 포스트그레SQL(PostgreSQL) 마이그레이션 가이드를 발간했다고 6...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클래로티 팀82, 이블 PLC 공격 시나리오 시연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706182145</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706182145</guid>
-            <pubDate>Thu, 06 Jul 2023 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[클래로티가 보안 세미나를 개최하고 산하 연구조직 팀82(Team82)가 발견한 '이블 PLC 공격(Evil PLC Attack)'을 공개했다고 6일 밝혔다. 이블 PLC 공격이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클로잇, 스윗테크놀로지스와 DX 가속 파트너십 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706180827</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706180827</guid>
-            <pubDate>Thu, 06 Jul 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[클로잇(대표 이영수)이 스윗테크놀로지스와 디지털 혁신 가속화를 위한 전략적 파트너십을 체결했다고 6일 밝혔다. 이번 파트너 협약을 통해 클로잇의 고객을 중심으로 디지털 혁신 솔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, AI CCTV 탑재 자율주행 순찰로봇 실증 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706180024</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706180024</guid>
-            <pubDate>Thu, 06 Jul 2023 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표 박진효)가 산업통상자원부로부터 '자율주행 순찰로봇 운영 실증' 규제 샌드박스 승인을 받고 실증 사업에 나선다고 6일 밝혔다. 규제 샌드박스는 신산업 혁신성장을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
