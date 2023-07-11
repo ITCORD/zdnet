@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 06:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제4이통 28GHz 주파수 최저경쟁가 740억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230711150051</link>
+            <guid>https://zdnet.co.kr/view/?no=20230711150051</guid>
+            <pubDate>Tue, 11 Jul 2023 07:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[28GHz 대역 주파수 800MHz 폭과 앵커 주파수 20MHz 폭에 대한 최저경쟁가격은 전국 단위 할당 기준 약 740억원으로 책정됐다. 앞서 28GHz 대역의 주파수 할당취...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KBS·EBS 수신료 분리징수 국무회의 의결...이르면 12일 시행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230711112455</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230708214315</guid>
             <pubDate>Sun, 09 Jul 2023 01:03:01 GMT</pubDate>
             <content:encoded><![CDATA[KT가 토종 AI반도체 기업 리벨리온과 함께 산업통상자원부 산하 한국산업기술평가원이 전담 기관으로 운영하고 한국반도체연구조합이 주관하는 시스템반도체 수요연계 온라인플랫폼 지원사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 패션 메타버스 시장 진출한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230708213639</link>
-            <guid>https://zdnet.co.kr/view/?no=20230708213639</guid>
-            <pubDate>Sun, 09 Jul 2023 01:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 에이션패션, 지이모션과 패션 메타버스 사업 협력을 위한 양해각서를 체결했다고 9일 밝혔다. 에이션패션은 캐주얼 브랜드 '폴햄', 아동복 브랜드 '폴햄키즈', 비즈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
