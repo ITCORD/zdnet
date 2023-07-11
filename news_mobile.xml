@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 02:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 03:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IDC "올 2분기 세계 PC 출하량, 전년比 13.4% 감소"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230711114533</link>
+            <guid>https://zdnet.co.kr/view/?no=20230711114533</guid>
+            <pubDate>Tue, 11 Jul 2023 03:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[올 2분기 세계 완제 PC 출하량이 6천160만 대로 집계됐다. 이는 전년 동기(7천110만 대) 대비 13.4% 감소한 것이며 코로나19 범유행 이전인 2018년 2분기(6천...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 86개 기업에 특허 123건 무상 이전..."동반성장 구축"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230711081514</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230710104651</guid>
             <pubDate>Mon, 10 Jul 2023 02:38:33 GMT</pubDate>
             <content:encoded><![CDATA[현대엘리베이터가 2022~2023년 ESG보고서를 발간했다고 10일 밝혔다. 이번 보고서는 기후변화 대응을 위해 과학 기반 감축목표 이니셔티브(SBTi) 1.5도 시나리오에 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세라젬, 마스터 V7 브라운 에디션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230710103431</link>
-            <guid>https://zdnet.co.kr/view/?no=20230710103431</guid>
-            <pubDate>Mon, 10 Jul 2023 02:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 세라젬이 의료기기 마스터 V7 메디테크 브라운 에디션을 출시했다고 10일 밝혔다. 제품은 안정감과 편안함을 선사하는 색감을 적용해 아늑하면서도 따뜻한 공간 분...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
