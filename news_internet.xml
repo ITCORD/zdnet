@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 04:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 05:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크의 트위터, 스레드 링크 차단했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230712131909</link>
+            <guid>https://zdnet.co.kr/view/?no=20230712131909</guid>
+            <pubDate>Wed, 12 Jul 2023 05:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 경쟁 서비스 '스레드'의 링크가 포함된 검색 결과 일부를 차단했다는 보도가 나왔다. IT매체 테크크런치는 12일(현지시간) 유명 개발자 앤디 바이오(Andy Baio)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SNS '스레드' 인기에 나스미디어 수혜 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20230712115935</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230711091939</guid>
             <pubDate>Tue, 11 Jul 2023 02:20:31 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티가 여름 휴가철 해외를 찾는 국내 이용자들을 위해 '카카오T 해외차량호출' 쿠폰 이벤트를 이달 진행한다고 11일 밝혔다. ▲베트남 ▲동남아시아 5개국(말레이시아·인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위치, 숏폼 영상 제작 '디스커버리 피드' 기능 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230711083243</link>
-            <guid>https://zdnet.co.kr/view/?no=20230711083243</guid>
-            <pubDate>Tue, 11 Jul 2023 02:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[트위치가 숏폼 동영상을 만들 수 있는 기능인 '디스커버리 피드'를 출시한다. 10일(현지시간) 테크크런치는 트위치가 최근 열린 트위치콘파리에서 여러 새로운 기능을 발표하며 디스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
