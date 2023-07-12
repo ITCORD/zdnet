@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 01:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 02:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불붙는 수소차 한일전…"정부 지원이 판가름"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230710143841</link>
+            <guid>https://zdnet.co.kr/view/?no=20230710143841</guid>
+            <pubDate>Wed, 12 Jul 2023 02:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[현재 시장에서 수소연료를 활용한 차를 판매하는 국가는 한국과 일본뿐이다. 현대자동차 넥쏘와 토요타 미라이는 세계 시장에서 수소연료전지차로 판매되고 있는 유일한 차량이다. 두 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기아, 유럽법인에 '비즈니스 전문가' 영입…PBV전환 박차]]></title>
             <link>https://zdnet.co.kr/view/?no=20230711161945</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230706145327</guid>
             <pubDate>Thu, 06 Jul 2023 08:16:17 GMT</pubDate>
             <content:encoded><![CDATA[올해 1월부터 5월까지 현대자동차와 기아의 글로벌 전기차 판매량이 둔화되면서 글로벌 7위로 내려앉았다. 지난해 같은 기간 테슬라를 턱 밑까지 바짝 추격했던 것과 매우 다른 양상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[멕시코, 전기차 생산기지로 급부상…테슬라 이어 아우디도 동참]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230706103831</link>
-            <guid>https://zdnet.co.kr/view/?no=20230706103831</guid>
-            <pubDate>Thu, 06 Jul 2023 05:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 2위 판매량을 자랑하는 유럽 완성차업체 폭스바겐그룹의 브랜드 아우디가 멕시코에서 전기 자동차 생산 계획을 발표할 것이라는 전망이 제기됐다. 만약 이 발표가 공식화되면 테...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
