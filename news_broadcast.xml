@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 02:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["러닝머신, 모기퇴치기 전자파 안심하세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230713112207</link>
+            <guid>https://zdnet.co.kr/view/?no=20230713112207</guid>
+            <pubDate>Thu, 13 Jul 2023 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 조명기기류, 러닝머신 등 국민들이 신청한 제품 7종과 모기퇴치기, 제빙기 등 하계계절 제품 3종에 대한 전자파 노출량을 측정한 결과 모두 인체보호기준을 만족...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 용인시에 반려견 훈련소 열었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230713111543</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230711171519</guid>
             <pubDate>Tue, 11 Jul 2023 09:11:31 GMT</pubDate>
             <content:encoded><![CDATA[“앵커주파수를 신호처리로만 (용도를) 제한하면 경쟁 촉진 측면에서는 기존 통신 3사가 앵커주파수로 5G 서비스를 하는데 (신규사업자가) 투자하는 상황이 된다.” 트리세스네트웍스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10월부터 TV수신료-전기요금 완전 분리 징수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230711161730</link>
-            <guid>https://zdnet.co.kr/view/?no=20230711161730</guid>
-            <pubDate>Tue, 11 Jul 2023 08:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 11일 국무회의에서 TV수신료와 전기요금을 분리해 고지하고 징수하는 방송법 시행령 개정안이 의결되면서 12일 이를 공포하고 시행한다고 밝혔다. 다만, 한국전력의 TV수신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
