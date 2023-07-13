@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 10:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 11:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[센드버드, 노코드 모바일 AI챗봇 '스마트 어시스턴트' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230713194636</link>
+            <guid>https://zdnet.co.kr/view/?no=20230713194636</guid>
+            <pubDate>Thu, 13 Jul 2023 11:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[센드버드가 노코드 생성형 AI 솔루션 '스마트 어시스턴트'를 13일 출시했다. '스마트 어시스턴트'는 다양한 상황에서 사용자 문의에 유연히 답하는 모바일 AI 챗봇이다. 자주 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이노룰스-케이씨넷, DX 기반 통관·물류 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230713185124</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230713103102</guid>
             <pubDate>Thu, 13 Jul 2023 02:38:10 GMT</pubDate>
             <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 모든 종류의 이미지 내 글자를 판독할 수 있는 신규 클라우드 상품 '범용 OCR(General OCR)' 서비스를 출시한다고 13일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, 생성AI 플랫폼 '아인슈타인 GPT' 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230713090902</link>
-            <guid>https://zdnet.co.kr/view/?no=20230713090902</guid>
-            <pubDate>Thu, 13 Jul 2023 01:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스가 생성 인공지능(AI) 분석 플랫폼 '아인슈타인 GPT'에 신기능을 추가했다고 13일 밝혔다. 이번 새로운 기능은 '마케팅 GPT'를 비롯한 '커머스 GPT' '세일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
