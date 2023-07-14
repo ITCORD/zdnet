@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 23:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 01:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔코아, 전북 공공기관에 데이터 자산화 구축전략 제시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230714095800</link>
+            <guid>https://zdnet.co.kr/view/?no=20230714095800</guid>
+            <pubDate>Fri, 14 Jul 2023 01:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 비즈니스 전문 기업 엔코아(대표 이화식)는 13일 열린 전북 빅데이터 기술교류 공동연구회 세미나에서 공공기관과 기업을 위한 데이터 거버넌스 기반의 데이터 자산화 구축 전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[센드버드, 노코드 모바일 AI챗봇 '스마트 어시스턴트' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230713194636</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230713090251</guid>
             <pubDate>Thu, 13 Jul 2023 02:38:10 GMT</pubDate>
             <content:encoded><![CDATA[유럽위원회가 브로드컴의 VM웨어 인수를 조건부 승인했다. 12일(현지시간) 더레지스터 등 외신에 따르면 브로드컴은 “이번 인수로 변하지 않을 상호 운용성을 보존하는 기술 액세스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드, 범용 OCR 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230713103102</link>
-            <guid>https://zdnet.co.kr/view/?no=20230713103102</guid>
-            <pubDate>Thu, 13 Jul 2023 02:38:10 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 모든 종류의 이미지 내 글자를 판독할 수 있는 신규 클라우드 상품 '범용 OCR(General OCR)' 서비스를 출시한다고 13일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
