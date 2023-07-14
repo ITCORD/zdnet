@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 02:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 03:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[액션스퀘어 신작 '킹덤: 왕가의피', 8월 테스트 예고...영상 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230714113138</link>
+            <guid>https://zdnet.co.kr/view/?no=20230714113138</guid>
+            <pubDate>Fri, 14 Jul 2023 03:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[액션스퀘어(대표 김연준)는 '킹덤' 지식재산권(IP)을 활용한 기대작 '킹덤 : 왕가의 피'의 비공개 테스트(CBT)를 앞두고 신규 캐릭터의 영상을 공개했다고 14일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/14/9246e222c6d89518bfff5ff84e243f4f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴리곤, 자체 토큰 'MATIC→POL' 전환]]></title>
             <link>https://zdnet.co.kr/view/?no=20230714113451</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230714112149</guid>
             <pubDate>Fri, 14 Jul 2023 02:36:31 GMT</pubDate>
             <content:encoded><![CDATA[네이버클라우드(대표 김유원)가 초대규모 AI '하이퍼클로바X'를 활용해 스타트업의 성장을 지원하는 프로젝트 '네이버 AI RUSH 2023'을 개최한다고 14일 밝혔다. 네이버...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/14/00477be4e39d30b19733dc6e4ef3545a-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TSMC, 내년에 日 파운드리 2공장 건설 착수]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230714085621</guid>
             <pubDate>Fri, 14 Jul 2023 02:36:31 GMT</pubDate>
             <content:encoded><![CDATA[LG AI연구원이 특허청과 함께 '특허 전문가 AI' 개발에 나섰다. LG AI연구원과 특허청은 14일 서울 강서구 마곡 LG사이언스파크에서 '특허 전용 초거대 AI 모델 구축...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원 "리플, 증권으로 볼 수 없다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230714100324</link>
-            <guid>https://zdnet.co.kr/view/?no=20230714100324</guid>
-            <pubDate>Fri, 14 Jul 2023 02:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[미국 법원이 거래소나 알고리즘을 통해 판매되는 암호화폐는 증권으로 보기 힘들다고 판결했다. 이번 판결은 미국 규제 당국과 갈등 중인 암호화폐 업계에겐 모처럼 날아든 승전보다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
