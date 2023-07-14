@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 04:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 05:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로칩, 오토모티브 인증 이더넷 PHY '10BASE-T1S' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230714102308</link>
+            <guid>https://zdnet.co.kr/view/?no=20230714102308</guid>
+            <pubDate>Fri, 14 Jul 2023 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로칩테크놀로지(이하 마이크로칩)는 자사 제품 최초로 오토모티브 인증을 받은 이더넷 PHY(물리계층)인 '10BASE-T1S' 제품군을 14일 공개했다. LAN8670, L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 내년에 日 파운드리 2공장 건설 착수]]></title>
             <link>https://zdnet.co.kr/view/?no=20230714095655</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230711111418</guid>
             <pubDate>Tue, 11 Jul 2023 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 올 상반기 다소 부진한 실적을 기록했다. 대형 고객사의 AI 반도체 주문량 확대에도 스마트폰 등 핵심 시장의 회복세가 여전히 더딘 탓이다. 삼성전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 신규 GaN 드라이버 출시...안전성·신뢰성 ↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230711102758</link>
-            <guid>https://zdnet.co.kr/view/?no=20230711102758</guid>
-            <pubDate>Tue, 11 Jul 2023 02:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 GaN(질화갈륨) 트랜지스터를 지원하는 ST 최초의 갈바닉 절연 게이트 드라이버인 STGAP2GS를 출시했다고 11일 밝혔다. 해당 드라이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
