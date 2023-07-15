@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 22:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 23:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이낸스, 직원 1천명 이상 정리해고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230715235408</link>
+            <guid>https://zdnet.co.kr/view/?no=20230715235408</guid>
+            <pubDate>Sat, 15 Jul 2023 23:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 가상자산 거래소 바이낸스가 최근 몇 주간 1천명 이상을 정리해고한 것으로 밝혀졌다. 월스트리트저널은 지난 14일 소식통을 인용해 이런 사실을 최초 보도했다. 소식통은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["비트코인·이더리움, 중앙화 강해져"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230714154545</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230714101331</guid>
             <pubDate>Fri, 14 Jul 2023 02:36:48 GMT</pubDate>
             <content:encoded><![CDATA[SW엔지니어링협회(회장 박병용)는 국내 SW기업의 SW품질향상을 위한 LCDP 보급사업을 지원한다고 14일 밝혔다. 1년에 1만건 이상 시행하는 공공 부문의 정보화 프로젝트 성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM 컨설팅, 생성형 AI 엑설런스 센터 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230714100245</link>
-            <guid>https://zdnet.co.kr/view/?no=20230714100245</guid>
-            <pubDate>Fri, 14 Jul 2023 02:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[IBM 컨설팅은 생성형 AI를 위한 엑설런스 센터를 구축했다고 14일 밝혔다. IBM 컨설팅은 지금까지 4만여 건의 엔터프라이즈 고객 프로젝트를 수행한 2만1천여 명의 데이터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
