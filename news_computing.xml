@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 23:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 01:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 멀티모달 이미지 생성AI '카멜레온' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230716054940</link>
+            <guid>https://zdnet.co.kr/view/?no=20230716054940</guid>
+            <pubDate>Sun, 16 Jul 2023 01:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 이미지 생성과 분석을 모두 지원하는 멀티모달 이미지 생성AI 모델 '카멜레온(CM3leon)'을 소개했다. 14일(현지시간) 테크크런치 등 외신에 따르면 메타는 단일 멀...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바이낸스, 직원 1천명 이상 정리해고]]></title>
             <link>https://zdnet.co.kr/view/?no=20230715235408</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230714102130</guid>
             <pubDate>Fri, 14 Jul 2023 02:36:48 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터프라이즈가 희망퇴직 프로그램을 시행한다. 카카오엔터프라이즈는 13일 오후 5시 오픈톡을 통해 전직원에게 희망퇴직 프로그램을 공지했다. 안내에 따르면, 회사는 17일부터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SW엔지니어링협회, 로우코드 플랫폼 지원 사업 시행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230714101331</link>
-            <guid>https://zdnet.co.kr/view/?no=20230714101331</guid>
-            <pubDate>Fri, 14 Jul 2023 02:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[SW엔지니어링협회(회장 박병용)는 국내 SW기업의 SW품질향상을 위한 LCDP 보급사업을 지원한다고 14일 밝혔다. 1년에 1만건 이상 시행하는 공공 부문의 정보화 프로젝트 성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
