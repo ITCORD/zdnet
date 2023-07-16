@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 16:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 17:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타르색소 사용한 '마카롱'에 천연색소 사용한 것처럼 부당광고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230716233045</link>
+            <guid>https://zdnet.co.kr/view/?no=20230716233045</guid>
+            <pubDate>Sun, 16 Jul 2023 17:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[식품의약품안전처는 마카롱에 타르색소(식품의 다양한 색을 내기 위해 사용되는 합성 착색료)를 사용하고 천연색소를 사용한 것처럼 거짓 표시‧광고한 업체 등 10개소를 식품등의표시‧...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/16/463086d96a6174b1ec89649399e9cb04-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[논란 '아스파탐' 발암 가능성은 있지만, 섭취 기준은 문제 없다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230716225039</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230716111023</guid>
             <pubDate>Sun, 16 Jul 2023 04:12:00 GMT</pubDate>
             <content:encoded><![CDATA[미국서 가장 오래된 수제 맥주 제조업체 '앵커(Anchor)'가 127년 역사를 뒤로 하고 문을 닫게 됐다. 최근 BBC 등은 미국 샌프란시스코에서 1896년 문을 연 앵커 맥...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트 로스트아크, 中 사전 서비스부터 서버 증설…흥행 기대감↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230716120415</link>
-            <guid>https://zdnet.co.kr/view/?no=20230716120415</guid>
-            <pubDate>Sun, 16 Jul 2023 04:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마일게이트의 인기작 '로스트아크'가 중국 서비스 초반 순조로운 출발을 이어가고 있다. 아직까지 본 서비스를 시작하지 않았음에도, 많은 현지 이용자가 몰려 현지 퍼블리셔인 텐센...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
