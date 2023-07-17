@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 11:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 12:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국로봇산업진흥원, 수요자 맞춤형 서비스로봇 개발과제 2차 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230717202317</link>
+            <guid>https://zdnet.co.kr/view/?no=20230717202317</guid>
+            <pubDate>Mon, 17 Jul 2023 12:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[한국로봇산업진흥원은 '2023년 수요기반 맞춤형 서비스 로봇 개발·보급사업'의 2차 공모 결과 총 12개 과제를 최종 선정했다. 수요기반 맞춤형 서비스 로봇 개발·보급 사업은 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/02/14/d1bc164732570999614e135bf6707438-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가존클라우드, 연세의료원 빅데이터 플랫폼 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20230717193329</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230717180509</guid>
             <pubDate>Mon, 17 Jul 2023 10:12:17 GMT</pubDate>
             <content:encoded><![CDATA[한컴프론티스(대표 정현석)가 상업영화 제작 탈중앙화자율조직인 멜로망스DAO와 영화 산업과 메타버스 융합을 위한 업무협약을 맺었다고 17일 밝혔다. 양측은 영화 제작 각 단계별로...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/17/b58b440cd833b53934fff6f288d90c9f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['아마존 프라임데이' 데뷔한 K브랜드..."매출·인지도↑"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230717152936</guid>
             <pubDate>Mon, 17 Jul 2023 07:11:15 GMT</pubDate>
             <content:encoded><![CDATA[국내 배터리 기업들이 글로벌 시장을 주도하는 가운데 이차전지 분리막 기업도 세계 수위권으로 도약할 전망이다. 특히 미국과 유럽의 보호무역주의가 국내 분리막 기업에게도 큰 호재로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[환경부, 배출가스 부정 행위 車 검사소 16곳 적발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230717153703</link>
-            <guid>https://zdnet.co.kr/view/?no=20230717153703</guid>
-            <pubDate>Mon, 17 Jul 2023 07:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[환경부와 국토교통부가 전국 지자체와 함께 3주간 부정 검사가 의심되는 민간 자동차검사소 183곳을 특별 점검한 가운데 배출가스 부정 검사 불법행위를 저지른 16곳(18건)을 적...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
