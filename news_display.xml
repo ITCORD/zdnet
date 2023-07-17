@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 23:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 01:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코아시아, 美 암바렐라와 '차량용 AI칩' 디자인 서비스 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230717082615</link>
+            <guid>https://zdnet.co.kr/view/?no=20230717082615</guid>
+            <pubDate>Mon, 17 Jul 2023 01:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[시스템반도체 설계 전문기업 코아시아는 엣지(Edge) AI 반도체 전문기업 '암바렐라'와 AI 비전 프로세서 디자인 서비스 제공 계약을 체결했다고 17일 밝혔다. 코아시아가 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, 전장용 파워인덕터 첫 양산…"제2의 MLCC로 키운다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230716095950</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230712111033</guid>
             <pubDate>Wed, 12 Jul 2023 06:15:23 GMT</pubDate>
             <content:encoded><![CDATA[연일 격해지고 있는 미국과 중국 간 반도체 패권 경쟁이 장비 업계로 확전되는 모양새다. 지난해부터 양국 주요 반도체 장비업체들이 회사의 핵심 기술 및 인력을 둘러싸고 첨예한 갈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 고성능 초음파 스캐너용 신규 고전압 드라이버 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230712093603</link>
-            <guid>https://zdnet.co.kr/view/?no=20230712093603</guid>
-            <pubDate>Wed, 12 Jul 2023 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 선형 펄스 드라이버와 클램핑, 스위칭, 진단회로를 통합한 'STHV200' 초음파 IC를 출시했다고 12일 밝혔다. 3A 선형 및 2A 펄...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
