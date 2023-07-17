@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 12:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 13:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 가오슝 공장서도 '2나노 반도체' 생산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230717170343</link>
+            <guid>https://zdnet.co.kr/view/?no=20230717170343</guid>
+            <pubDate>Mon, 17 Jul 2023 13:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 가오슝에 건설 중인 반도체 공장에서 당초 28나노미터(nm) 칩 생산을 계획했지만, 2나노 공정 제품 생산으로 변경하기로 결정했다. 이는 인공지능...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/02/01/pym_sklj3WjcRtYX5Eze-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국로봇산업진흥원, 수요자 맞춤형 서비스로봇 개발과제 2차 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230717202317</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230717193329</guid>
             <pubDate>Mon, 17 Jul 2023 11:09:07 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드(대표 이주완)가 연세의료원에 클라우드 컴퓨팅을 활용한 의료 빅데이터 플랫폼 구축을 완료했다고 17일 밝혔다. 연세의료원 의료 빅데이터 플랫폼 구축을 완료함으로써 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/10/22/imc_tLOmd67vViMOOY9m-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한컴프론티스, 멜로망스DAO와 영화 산업-메타버스 융합 협력]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230717150309</guid>
             <pubDate>Mon, 17 Jul 2023 07:11:15 GMT</pubDate>
             <content:encoded><![CDATA[팻 겔싱어 인텔 최고경영자(CEO)가 지난 10일부터 13일까지 4일간 중국을 방문했다. 지난 4월 중국을 찾은 지 3개월만이다. 반 년이 채 안 되는 기간 동안 중국을 두 번...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['K배터리' 뜨자 'K분리막'도 승승장구…2030 유럽·북미 생산 비중 75%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230717152936</link>
-            <guid>https://zdnet.co.kr/view/?no=20230717152936</guid>
-            <pubDate>Mon, 17 Jul 2023 07:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[국내 배터리 기업들이 글로벌 시장을 주도하는 가운데 이차전지 분리막 기업도 세계 수위권으로 도약할 전망이다. 특히 미국과 유럽의 보호무역주의가 국내 분리막 기업에게도 큰 호재로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
