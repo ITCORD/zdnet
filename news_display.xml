@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 05:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 실리콘밸리 개발자가 반도체 IP '불모지' 한국에 창업한 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718101613</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718101613</guid>
+            <pubDate>Tue, 18 Jul 2023 05:12:51 GMT</pubDate>
+            <content:encoded><![CDATA["국내 IP(설계자산) 생태계는 매우 약하다는 평가를 받고 있습니다. 그러나 자세히 보면 한국은 IP 산업 성장성이 매우 유망한 시장입니다. 차세대 가전기기와 이를 위한 반도체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔·퀄컴·엔비디아, 바이든 행정부에 "中 추가 규제 반대"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230718090733</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230714094924</guid>
             <pubDate>Fri, 14 Jul 2023 02:37:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈엣지테크놀로지(이하 오픈엣지)는 '2023년도 글로벌 스타 팹리스 30 기술개발 지원사업'을 포함해 총 3건의 국책 과제 등에 연이어 선정됐다고 14일 밝혔다. 이를 통해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 中 반도체 수입량 18.5% 급감]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230714092656</link>
-            <guid>https://zdnet.co.kr/view/?no=20230714092656</guid>
-            <pubDate>Fri, 14 Jul 2023 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 대중(對中) 압박 수위를 높이는 가운데 올 상반기 중국의 직접회로(IC) 수입량이 급감했다고 홍콩 SCMP(사우스차이나모닝포스트)가 13일(현지시간) 보도했다. 중국 해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 05:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프렌들리에이아이, 언어모델 학습 도구 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718112230</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718112230</guid>
+            <pubDate>Tue, 18 Jul 2023 05:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[프렌들리AI(대표 전병곤)는 거대언어모델(LLM) 학습 효율을 획기적으로 끌어올리는 시스템 '비파이프'를 이달 발표한다고 18일 밝혔다. 비파이브는 모델 학습 시 저장해야 하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포스코DX, 상반기 영업익 643억…전년 대비 98% ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20230718121110</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230717123340</guid>
             <pubDate>Mon, 17 Jul 2023 04:13:14 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 산하 한국전파진흥협회(RAPA)는 아마존웹서비스(AWS)코리아와 고용노동부 K-디지털트레이닝의 '디지털선도기업아카데미' 과정 중 하나인 AWS 클라우드 스쿨 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[킨드릴, 글로벌 기업 500개 이상 '킨드릴 브릿지' 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230717123150</link>
-            <guid>https://zdnet.co.kr/view/?no=20230717123150</guid>
-            <pubDate>Mon, 17 Jul 2023 04:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[킨드릴코리아(대표 류주복)는 500개 이상의 글로벌 기업에서 킨드릴 브릿지를 사용하고 있다고 17일 밝혔다. 더불어 회계연도 말인 2024년 3월까지 1천 개 이상 기업에서 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
