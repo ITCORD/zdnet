@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 02:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 국내서 애플워치 심방세동 기록 기능 활성화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718114125</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718114125</guid>
+            <pubDate>Tue, 18 Jul 2023 03:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[애플은 오늘(18일)부터 애플워치에 탑재된 심방세동(AFib) 기록 기능을 국내에서 쓸 수 있다고 밝혔다. 이 기능은 워치OS 9 이상 최신버전이 설치된 애플워치 시리즈4(20...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[결 다른 삼성·LG전자 '로봇' 신사업 전략...왜?]]></title>
             <link>https://zdnet.co.kr/view/?no=20230717154633</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230717164342</guid>
             <pubDate>Mon, 17 Jul 2023 08:17:52 GMT</pubDate>
             <content:encoded><![CDATA[애플이 지난 6월 WWDC 행사에서 선보였던 최신 애플워치 운영체제(OS) 워치OS10의 베타 버전을 최근 일반 대중에게 공개했다. 미국 IT매체 씨넷은 올 가을 정식 출시될 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["택배 전달·수령 라스트마일, 로봇으로 해결합니다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230713161325</link>
-            <guid>https://zdnet.co.kr/view/?no=20230713161325</guid>
-            <pubDate>Mon, 17 Jul 2023 06:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[“팀원들과 직접 택배 아르바이트를 해봤어요. 엘리베이터 대기 시간이 상당해서 건물 안에서도 많은 시간이 걸려요. 이 점에 사업성이 있다고 판단해서 개발을 시작했죠.” 우리나라 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
