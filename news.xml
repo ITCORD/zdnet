@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 04:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데하이마트, 2분기 흑자전환…영업익 78억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718125915</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718125915</guid>
+            <pubDate>Tue, 18 Jul 2023 04:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[롯데하이마트가 지난 2분기 영업이익이 78억원으로 지난해 동기 2억5천만원 대비 3천16% 증가했다고 18일 밝혔다. 같은 기간 매출은 6천797억원으로 전년 대비 23.4% ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/18/885003f741e8969a07c51e9744374a21-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코DX, 상반기 영업익 643억…전년 대비 98% ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20230718121110</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230718102149</guid>
             <pubDate>Tue, 18 Jul 2023 03:20:30 GMT</pubDate>
             <content:encoded><![CDATA[피처폰 시절 간단한 조작방식과 버튼을 누르는 재미로 모바일게임 시장을 풍미했던 미니게임천국이 오랜만에 이용자를 맞이할 준비를 하고 있다. 오는 7월 27일 글로벌 출시 예정인 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/18/9382716e20b5b86264ccd7b8b20c2f5a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘부터 국내서 애플워치 심방세동 기록 기능 활성화]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230718100019</guid>
             <pubDate>Tue, 18 Jul 2023 02:56:19 GMT</pubDate>
             <content:encoded><![CDATA[아이폰15 적층형 배터리 탑재설이 제기됐다. 17일(현지시간) 맥루머스는 IT 팁스터 RGcloudS 트윗을 인용해 차기 아이폰인 아이폰15에 적층형 배터리 기술이 적용될 가능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스레드 열풍 주춤…1주일새 이용자 수 반토막]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718082419</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718082419</guid>
-            <pubDate>Tue, 18 Jul 2023 02:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[출시 닷새 만에 가입자 1억명을 돌파하며 승승장구하던 소셜네트워크서비스(SNS) '스레드' 열풍이 다소 사그라들었다. 17일(현지시간) 정보기술(IT) 전문매체 엔가젯은 트래픽...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
