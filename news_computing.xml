@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 09:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시아머니트리, STO 인프라 개발 '에셋체인' 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718181826</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718181826</guid>
+            <pubDate>Tue, 18 Jul 2023 10:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[갤럭시아머니트리는 토큰증권(ST) 관련 기술 보유 기업 에셋체인에 투자했다고 18일 밝혔다. 토큰증권발행(STO) 전문 회사인 파이브노드에 이어 기술 기업에 투자해 시장 우위를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인 '수이', 지정가 주문 DEX 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230718181444</link>
+            <guid>https://zdnet.co.kr/view/?no=20230718181444</guid>
+            <pubDate>Tue, 18 Jul 2023 10:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[웹3 인프라 기업이자 레이어1 프로젝트 '수이' 재단은 수이 네트워크에서 지정가 주문이 가능한 탈중앙화거래소(DEX)를 선보였다. 지난 12일(미국시간) 첫 중앙지정가주문시스템...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[람다256, 美 블록체인 보안 '퀀트스탬프'와 마케팅 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230718180704</link>
@@ -64,11 +80,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[알티베이스 DBMS, ATP 트레이드 소프트 도입]]></title>
+            <title><![CDATA[ATP 트레이드 소프트, 알티베이스 DBMS 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20230718161031</link>
             <guid>https://zdnet.co.kr/view/?no=20230718161031</guid>
             <pubDate>Tue, 18 Jul 2023 08:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[알티베이스는 튀르키예의가 X프론트 주문 관리 시스템(OMS)의 데이터베이스관리시스템(DBMS)을 알티베이스로 교체했다고 18일 밝혔다. ATP 트레이드소프트는 이를 통해 주식 ...]]></content:encoded>
+            <content:encoded><![CDATA[알티베이스는 튀르키예의 ATP 트레이드소프트가 X프론트 주문 관리 시스템(OMS)의 데이터베이스관리시스템(DBMS)을 알티베이스로 교체했다고 18일 밝혔다. ATP 트레이드소프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230718102114</guid>
             <pubDate>Tue, 18 Jul 2023 02:56:35 GMT</pubDate>
             <content:encoded><![CDATA[굿모닝아이텍(대표 이주찬)은 최근 VM웨어 클라우드 파운데이션(VCF) 부문에서 마스터 서비스 컴피턴시(MSC)를 획득했다고 18일 밝혔다. VM웨어의 MSC는 파트너가 해당 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[항우연, '항공우주기술기반 창업아카데미' 참가자 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718102054</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718102054</guid>
-            <pubDate>Tue, 18 Jul 2023 02:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[항공우주연구원(이하 항우연)은 7월 26일까지 '2023 항공우주기술기반 창업아카데미' 참가자(팀)를 모집한다고 17일 밝혔다. '2023 항공우주기술기반 창업아카데미'는 항공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 모든 워크스페이스 사용자 노코드 플랫폼 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718094635</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718094635</guid>
-            <pubDate>Tue, 18 Jul 2023 01:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 노코드 플랫폼 앱시트를 모든 워크스페이스 사용자에게 제공한다. 17일(현지시간) 실리콘밸리 등 외신에 따르면 구글은 앱시트 코어 라이선스에 모든 구글 워크스페이스 버전을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
