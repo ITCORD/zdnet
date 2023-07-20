@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 23:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 00:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플도 GPT 기반 AI 챗봇 만든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230720075116</link>
+            <guid>https://zdnet.co.kr/view/?no=20230720075116</guid>
+            <pubDate>Thu, 20 Jul 2023 00:52:46 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 생성 인공지능(AI) 챗봇을 자체 개발 중이다. 테크크런치 등 외신은 19일(현지시간) 애플이 거대언어모델 프레임워크 '에이작스'로 AI 챗봇을 구축 중이라고 보도했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS-블리자드, 합병 시한 3개월 연장…"10월18일 완료"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230720083907</link>
+            <guid>https://zdnet.co.kr/view/?no=20230720083907</guid>
+            <pubDate>Thu, 20 Jul 2023 00:52:46 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)와 액티비전 블리자드가 합병 완료 시한을 3개월 연장하기로 했다고 더버지를 비롯한 외신들이 19일(현지시간) 보도했다. 당초 MS의 블리자드 인수 완료 시한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[할리우드 작가들은 왜 '생성 AI'와 싸우나]]></title>
             <link>https://zdnet.co.kr/view/?no=20230719170526</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230719095828</guid>
             <pubDate>Wed, 19 Jul 2023 01:47:33 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트는 18일 온라인으로 개최한 연례 파트너 컨퍼런스 '인스파이어 2023'에서 애저 기반 AI 서비스를 대거 공개했다. 애저 AI 벡터 검색은 텍스트뿐 아니라 이미지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트365 코파일럿 가격 공개 '월30달러']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230719092935</link>
-            <guid>https://zdnet.co.kr/view/?no=20230719092935</guid>
-            <pubDate>Wed, 19 Jul 2023 01:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 오피스 제품군의 대화형 AI 도구인 '마이크로소프트365 코파일럿' 가격이 공개됐다. 기업용 라이선스를 보유한 경우 사용자당 월 30달러에 이용할 수 있다. 마이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 언어모델 '라마 2' 오픈소스로 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230719075011</link>
-            <guid>https://zdnet.co.kr/view/?no=20230719075011</guid>
-            <pubDate>Wed, 19 Jul 2023 01:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[메타는 거대 언어모델 '라마 2'를 오픈소스로 공개하겠다고 발표했다. 기업과 개인은 무료로 라마 2를 이용할 수 있다. 상업적 용도로도 활용할 수 있다. 뉴욕타임스 등 외신은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
