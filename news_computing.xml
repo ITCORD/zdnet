@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 07:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠콘, '데이터전문기관' 지정…데이터 결합 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230720140644</link>
+            <guid>https://zdnet.co.kr/view/?no=20230720140644</guid>
+            <pubDate>Thu, 20 Jul 2023 08:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[쿠콘(대표 김종현)이 '데이터전문기관'으로 지정됐다고 20일 밝혔다. 쿠콘은 이번 데이터전문기관 지정으로 데이터 수집·연결을 넘어 기업 간 데이터 결합·분석 분야까지 사업 범위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["구글, 뉴스 작성 AI 테스트…NYT-WSJ 등에 시연"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230720153801</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230720102541</guid>
             <pubDate>Thu, 20 Jul 2023 02:03:50 GMT</pubDate>
             <content:encoded><![CDATA[많은 기업이 기밀 데이터 유출을 우려해 오픈AI 챗GPT의 내부 직원 사용을 꺼리고 있다. 기업은 데이터 유출 걱정없이 쓸 수 있는 프라이빗 대화형 AI 서비스를 기다려왔는데,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나스닥, 가상자산 수탁 서비스 준비 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720091743</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720091743</guid>
-            <pubDate>Thu, 20 Jul 2023 02:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[미국 증권거래소 나스닥이 가상자산 수탁 서비스 출시 준비를 잠정 중단하기로 했다. 블록웍스, 디크립트 등 외신에 따르면 나스닥 최고경영자(CEO)인 아데나 프리드먼은 19일(현...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
