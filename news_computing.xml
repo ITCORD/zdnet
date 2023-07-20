@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 06:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 07:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["구글, 뉴스 작성 AI 테스트…NYT-WSJ 등에 시연"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230720153801</link>
+            <guid>https://zdnet.co.kr/view/?no=20230720153801</guid>
+            <pubDate>Thu, 20 Jul 2023 07:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 인공지능(AI) 기술을 사용해 뉴스 기사를 생성하는 제품을 테스트하고 있으며, 유력 매체에 시연도 했다고 뉴욕타임스(NYT)가 19일(현지시간) 정통한 소식통을 인용 보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가우디오랩, 오디오북에 AI 음성 '폴리' 적용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230720141536</link>
+            <guid>https://zdnet.co.kr/view/?no=20230720141536</guid>
+            <pubDate>Thu, 20 Jul 2023 07:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[가우디오랩(대표 오현오)이 오디오북에 소리 생성 인공지능(AI) '폴리'를 적용했다고 20일 밝혔다. 폴리는 창착 스릴러 '사건 보고서 2023' 시리즈에 적용된다. 이 시리즈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 영상통화 플랫폼에 생성 AI 넣는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230720135914</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230720091743</guid>
             <pubDate>Thu, 20 Jul 2023 02:03:50 GMT</pubDate>
             <content:encoded><![CDATA[미국 증권거래소 나스닥이 가상자산 수탁 서비스 출시 준비를 잠정 중단하기로 했다. 블록웍스, 디크립트 등 외신에 따르면 나스닥 최고경영자(CEO)인 아데나 프리드먼은 19일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 2분기 메인프레임 감소에 실적 부진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720091910</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720091910</guid>
-            <pubDate>Thu, 20 Jul 2023 02:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 회계연도 2023년 2분기 실적발표에서 해당기간동안 매출 155억8달러, 순이익 16억달러(주당 1.72달러)를 기록했다고 밝혔다. 매출은 전년동기와 비슷한 수준이었고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플도 GPT 기반 AI 챗봇 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720075116</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720075116</guid>
-            <pubDate>Thu, 20 Jul 2023 00:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 생성 인공지능(AI) 챗봇을 자체 개발 중이다. 테크크런치 등 외신은 19일(현지시간) 애플이 거대언어모델 프레임워크 '에이작스'로 AI 챗봇을 구축 중이라고 보도했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
