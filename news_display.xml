@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 11:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 12:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 2분기 매출·순이익 모두 부진…"하반기 3나노에 기대"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230720175904</link>
+            <guid>https://zdnet.co.kr/view/?no=20230720175904</guid>
+            <pubDate>Thu, 20 Jul 2023 12:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[대만 주요 파운드리 TSMC의 2분기 매출 및 영업이익이 전년동기 대비 모두 크게 감소했다. 다만 올 하반기에는 첨단 파운드리 공정의 확장으로 시장 침체의 영향을 일부 상쇄할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반·디·배터리 업계 "특화단지 선정 환영...경쟁력 확보에 큰 도움"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230720164036</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230718100816</guid>
             <pubDate>Tue, 18 Jul 2023 02:56:59 GMT</pubDate>
             <content:encoded><![CDATA[신성이엔지는 경기도와 민간투자 컨소시엄 대표들과 함께 '산업단지 RE100 투자 협약'을 체결했다고 18일 밝혔다. 해당 사업은 산업단지 내 유휴 부지에 태양광 발전시설을 구축...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMAT, 첨단 패키징용 하이브리드본딩·TSV 기술 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230718091141</link>
-            <guid>https://zdnet.co.kr/view/?no=20230718091141</guid>
-            <pubDate>Tue, 18 Jul 2023 02:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[어플라이드머티어리얼즈(AMAT, 이하 어플라이드)는 하이브리드본딩과 실리콘관통전극(TSV)을 통해 최첨단 패키징 성능을 향상시킬 수 있는 새로운 기술을 공개했다고 18일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
