@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["웹3 접목한 OK캐쉬백, 확장성 숙제 풀어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721151751</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721151751</guid>
+            <pubDate>Fri, 21 Jul 2023 08:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[전체 가입자 수는 2천100만, 월간 이용자수(MAU)만 따져도 700만명을 넘는다. 1999년부터 운영된 포인트 제휴 적립 서비스 'OK캐쉬백' 이야기다. 역사가 긴 만큼 브...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 지속가능경영 보고서 발간]]></title>
             <link>https://zdnet.co.kr/view/?no=20230721143605</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230720133003</guid>
             <pubDate>Thu, 20 Jul 2023 05:09:56 GMT</pubDate>
             <content:encoded><![CDATA[가트너는 작년 전 세계 서비스형 인프라(IaaS) 시장이 2021년 928억 달러에서 29.7% 성장해 1천203억 달러로 증가했다고 20일 발표했다. 아마존웹서비스(AWS)는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드롭박스, HWP 문서 미리보기 기능 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720132410</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720132410</guid>
-            <pubDate>Thu, 20 Jul 2023 05:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[드롭박스는 한국 내 공공기관의 서류를 드롭박스 내에서 편리하게 확인할 수 있도록 '한글 문서(hwp) 미리보기' 기능을 추가했다고 20일 밝혔다. 드롭박스는 HWP 미리보기 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
