@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 04:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 05:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 인천 가명정보 활용지원 센터 개소식 현장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721105644</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721105644</guid>
+            <pubDate>Fri, 21 Jul 2023 05:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[지난 18일 개인정보보호위원회와 인천광역시는 인천 가명정보 활용 지원센터 개소식을 가졌다 인천 가명정보 활용 지원센터는 경인지역 데이터 새싹 기업 등이 가명정보를 활용해 AI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자율주행차 학습에 영상 원본데이터 사용 가능해진다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230721110735</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230720131209</guid>
             <pubDate>Thu, 20 Jul 2023 05:09:56 GMT</pubDate>
             <content:encoded><![CDATA[스플렁크는 최근 개최한 연례 행사 '닷컨프23(.conf23)'에서 스플렁크 통합 보안 및 옵저버빌리티 플랫폼을 강화하는 인공지능(AI) 기반 오퍼링 '스플렁크 AI'를 출시했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 'K-PaaS 확장성 확인' 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720125938</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720125938</guid>
-            <pubDate>Thu, 20 Jul 2023 04:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 개방형 클라우드 플랫폼 K-PaaS(구 PaaS-TA)에 등록된 자사 서비스 카카오 i 클라우드의 '쿠버네티스 엔진'이 확장성 확인을 획득했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
