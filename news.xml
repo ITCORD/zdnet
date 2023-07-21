@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 03:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 04:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김효재 "재난 유형별 국민행동요령 적극 방송해야”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721130031</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721130031</guid>
+            <pubDate>Fri, 21 Jul 2023 04:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[김효재 방송통신위원회 위원장 직무대행은 21일 SBS를 찾아 “재난상황을 보다 신속하게 전파하는데 총력을 기울이고 재난 유형별 국민행동요령을 적극적으로 방송해 재난으로 인한 피...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/21/4f67086862447cca05bdb251a44b634b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와이씨켐, 용인에 500억원 투자해 신규 제조·R&D 거점 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721114003</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721114003</guid>
+            <pubDate>Fri, 21 Jul 2023 04:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[반도체∙디스플레이용 화학소재 전문업체 와이씨켐은 500억원 규모의 제2 R&amp;D센터, 신공장 및 신규설비 투자를 결정했다고 21일 공시했다. 이번 시설·설비 투자는 용인 반도체 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/21/612996ff3a6c7d0772378450958a3ae0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파나소닉, 안마의자 'EP-MA22' 출시…339만원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230721115624</link>
             <guid>https://zdnet.co.kr/view/?no=20230721115624</guid>
             <pubDate>Fri, 21 Jul 2023 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[파나소닉코리아가 안마의자 EP-MA22를 출시했다고 21일 밝혔다. 신제품은 7가지 자동 마사지 코스와 6가지 수동 코스를 탑재했다. 자동 마사지 코스는 전신·어깨·허리·손·피...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/21/6e7f631b427fdb32c8b6afc5edb66252-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[자율주행차 학습에 영상 원본데이터 사용 가능해진다]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230721110735</guid>
             <pubDate>Fri, 21 Jul 2023 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[자율주행차나 보건의료 부문서 인공지능(AI) 학습서 필요할 경우 원본 데이터를 사용 가능하게 하는 방안이 추진된다. 또 공공기관이 민간 기업이나 연구자 등에게 더 많은 가명정보...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/01/06/f8d0bda23cd5c5a1102c2a3ff78d5b66-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이기자의 게임픽] '데이브 더 다이버' 띄운 넥슨, 신-구작 인기 행렬 지속]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721090217</guid>
             <pubDate>Fri, 21 Jul 2023 02:05:30 GMT</pubDate>
             <content:encoded><![CDATA[TSMC·ASML 등 반도체 시장 주요 업체들이 당초 예상을 웃도는 2분기 실적을 기록했다. 이에 반도체 시장이 하반기부터 본격적인 회복세에 접어들 것이라는 기대감이 나온다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, 챗GPT 맞춤형 지침 추가…항상 사용자 기억]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721095745</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721095745</guid>
-            <pubDate>Fri, 21 Jul 2023 02:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[이제 챗GPT가 사용자를 기억한다. 대화를 시작할 때마다 동일한 문맥을 유지하기 위해 매번 같은 프롬프트를 작성할 필요가 없어진다. 20일(현지시간) 실리콘앵글 등 외신에 따르...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컬리, '바캉스 A to Z' 기획전 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721101429</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721101429</guid>
-            <pubDate>Fri, 21 Jul 2023 02:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[리테일 테크 기업 컬리는 본격적인 휴가철을 맞아 '바캉스 A to Z' 기획전을 개최한다고 21일 밝혔다. 27일까지 열리는 이번 기획전에서는 홈캉스, 캠핑과 피크닉, 물놀이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
