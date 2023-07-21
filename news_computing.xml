@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 02:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자율주행차 학습에 영상 원본데이터 사용 가능해진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721110735</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721110735</guid>
+            <pubDate>Fri, 21 Jul 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[자율주행차나 보건의료 부문서 인공지능(AI) 학습서 필요할 경우 원본 데이터를 사용 가능하게 하는 방안이 추진된다. 또 공공기관이 민간 기업이나 연구자 등에게 더 많은 가명정보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타와 마이크로소프트, 생성 AI 경쟁 지도 또 바뀐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721113901</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721113901</guid>
+            <pubDate>Fri, 21 Jul 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 대규모언어모델(LLM) '라마2(Llama)'를 상업용도로 사용가능한 오픈소스로 공개하면서, 마이크로소프트와 손을 잡았다. 마이크로소프트는 AI 생태계의 큰 축인 오픈소...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI, 챗GPT 맞춤형 지침 추가…항상 사용자 기억]]></title>
             <link>https://zdnet.co.kr/view/?no=20230721095745</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230720125938</guid>
             <pubDate>Thu, 20 Jul 2023 04:11:57 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 개방형 클라우드 플랫폼 K-PaaS(구 PaaS-TA)에 등록된 자사 서비스 카카오 i 클라우드의 '쿠버네티스 엔진'이 확장성 확인을 획득했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN클라우드-한국교통안전공단, 업무협약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720130323</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720130323</guid>
-            <pubDate>Thu, 20 Jul 2023 04:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 한국교통안전공단과 '클라우드 컴퓨팅서비스 도입 및 품질관리를 위한 업무협약(MOU)'을 체결했다고 20일 밝혔다. 업무협약은19일 판교 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FBI 추적 중인 불법 개인정보 거래소, 주인 바꿔 재개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720092256</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720092256</guid>
-            <pubDate>Thu, 20 Jul 2023 04:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방수사국(FBI)과 유럽경찰연합의 공조수사로 타격을 받은 세계 최대 규모 불법 개인정보 거래소가 활동을 재개할 전망이다. 최근 더레코드 등 외신에 따르면 불법 개인정보 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
