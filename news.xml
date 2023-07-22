@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 00:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 02:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[구글·메타·오픈AI "AI 콘텐츠에 워터마크 표시"]]></title>
+            <title><![CDATA[화려한 위장막 뽐내는 테슬라 사이버트럭 '화제']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230722110101</link>
+            <guid>https://zdnet.co.kr/view/?no=20230722110101</guid>
+            <pubDate>Sat, 22 Jul 2023 02:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 색상과 패턴의 위장막으로 가린 테슬라 전기트럭 '사이버트럭'의 모습이 또 다시 포착됐다. 자동차전문매체 일렉트렉은 21일(현지시간) 미국 사이버트럭오너스클럽 사용자가 올...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/22/64673d8ab43c64d38f70e7db76781dcb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분건강] 여름이면 더 힘든 관절염 환자들…통증 관리 어떻게]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230721224640</link>
+            <guid>https://zdnet.co.kr/view/?no=20230721224640</guid>
+            <pubDate>Sat, 22 Jul 2023 02:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[습도가 높은 무더위에 폭염으로 에어컨을 사용이 늘면서 관절염 통증으로 고생하는 이들이 적지 않아 주의가 요구된다. 실내·외 온도차가 커지면 건조한 냉기가 뼈 속 깊이 파고들어 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/21/ac46284a95311ea962ecd8a306dde02a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 콘텐츠에 워터마크 찍는다…"이용자 보호 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230722091048</link>
             <guid>https://zdnet.co.kr/view/?no=20230722091048</guid>
             <pubDate>Sat, 22 Jul 2023 00:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[구글, 메타, 오픈AI를 비롯한 7개 업체들이 보안기술 개발에 투자하고, 인공지능(AI) 기술로 작성한 콘텐츠에는 워터마크를 넣는 등 이용자 안전 조치를 취하기로 했다. 미국을...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/21/581166740866f65c1fcdd59d2efbd56d-290x182.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[구글, 메타, 오픈AI를 비롯한 7개 업체들이 인공지능(AI) 기술로 작성한 콘텐츠에는 워터마크를 넣고 보안기술 개발에도 투자하는 등 이용자 안전 조치를 취하기로 했다. 미국을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비대면진료 시범사업, 제도 개선·수가 적정성 평가 예고]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230721223514</guid>
             <pubDate>Sat, 22 Jul 2023 00:51:31 GMT</pubDate>
             <content:encoded><![CDATA[계도기간 종료까지 한 달 앞 둔 비대면진료 시범사업에 대해 정부가 제도 개선과 수가 적정성 평가 등을 예고했다. 보건복지부는 지난 21일 오후 서울 서초구 소재 국제전자센터 비...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/21/b5990a73cc274fc7ef86fc70b38fe200-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[장마철 집중호우에 재택근무 전환한 기업 많았다]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721172529</guid>
             <pubDate>Fri, 21 Jul 2023 09:09:41 GMT</pubDate>
             <content:encoded><![CDATA[넥슨코리아(대표 이정헌)는 21일 대표 모바일 게임 '던전앤파이터 모바일(이하 던파모바일)'이 '처갓집 양념치킨'과 제휴를 맺고 다양한 혜택을 제공하는 이벤트를 진행한다고 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[38·39호 혁신의료기기는 뉴냅스 '뇌영상검출·진단보조SW'·'인지치료SW']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721172414</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721172414</guid>
-            <pubDate>Fri, 21 Jul 2023 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처가 뉴냅스가 개발한 뇌경색 발병시각을 추정하는 뇌영상검출·진단보조소프트웨어'(Stroke Onset Time AI)와 저하된 입체시를 개선하는 '인지치료소프트웨어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔미디어플랫폼, 집중호우 침수 피해 가맹점에 지원 서비스]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721171940</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721171940</guid>
-            <pubDate>Fri, 21 Jul 2023 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[엔미디어플랫폼(대표 송재화)은 최근 집중호우로 인한 선불기 침수 및 파손 피해를 입은 전국 가맹점을 대상으로 지원 서비스를 제공한다고 21일 밝혔다. 전국 게토 가맹PC방 중 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
