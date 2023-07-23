@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 03:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 04:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SEC "리플≠증권 법원 판결 문제있어"…항소할 듯]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230723105329</link>
+            <guid>https://zdnet.co.kr/view/?no=20230723105329</guid>
+            <pubDate>Sun, 23 Jul 2023 04:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 가상자산 리플을 증권으로 볼 수 없다는 판결 내용에 문제가 있다는 입장을 보였다. 때문에 향후 SEC의 항소 가능성도 높게 점쳐지고 있다. 더블록...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플 "아이메시지 중단할 것"… 英 감시정책 반대]]></title>
             <link>https://zdnet.co.kr/view/?no=20230723040412</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230720141536</guid>
             <pubDate>Thu, 20 Jul 2023 07:10:22 GMT</pubDate>
             <content:encoded><![CDATA[가우디오랩(대표 오현오)이 오디오북에 소리 생성 인공지능(AI) '폴리'를 적용했다고 20일 밝혔다. 폴리는 창착 스릴러 '사건 보고서 2023' 시리즈에 적용된다. 이 시리즈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 영상통화 플랫폼에 생성 AI 넣는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720135914</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720135914</guid>
-            <pubDate>Thu, 20 Jul 2023 06:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 생성 인공지능(AI)을 영상통화 플랫폼 '구글 미트'에 적용한다. 현재 구글 내부에서 테스트 중이다. 테크크런치 등 외신은 19일(현지시간) 구글이 구글 미트에 생성 A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
