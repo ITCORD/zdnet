@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 08:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 09:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디파이 프로토콜 '라디언트캐피탈', 1천만 달러 투자 유치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230724180412</link>
+            <guid>https://zdnet.co.kr/view/?no=20230724180412</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[레이어제로 기반 크로스체인 탈중앙화금융(디파이) 프로토콜 라디언트캐피탈은 바이낸스랩스로부터 1천만 달러(약 128억원) 투자를 유치했다고 24일 밝혔다. 레이어제로는 서로 다른...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[람다256, 기업용 블록체인 지갑 서비스 ISMS 예비인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230724172229</link>
+            <guid>https://zdnet.co.kr/view/?no=20230724172229</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[두나무 계열사이자 블록체인 전문기업 람다256(대표 박재현)은 정보보호관리체계(ISMS) 예비인증을 취득했다고 24일 밝혔다. 기업 대상 블록체인 지갑 솔루션 '루니 월렛 SD...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오라클, 'MySQL 히트웨이브 레이크하우스' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230724155157</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721105644</guid>
             <pubDate>Fri, 21 Jul 2023 05:10:37 GMT</pubDate>
             <content:encoded><![CDATA[지난 18일 개인정보보호위원회와 인천광역시는 인천 가명정보 활용 지원센터 개소식을 가졌다 인천 가명정보 활용 지원센터는 경인지역 데이터 새싹 기업 등이 가명정보를 활용해 AI ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자율주행차 학습에 영상 원본데이터 사용 가능해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721110735</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721110735</guid>
-            <pubDate>Fri, 21 Jul 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행차나 보건의료 부문서 인공지능(AI) 학습서 필요할 경우 원본 데이터를 사용 가능하게 하는 방안이 추진된다. 또 공공기관이 민간 기업이나 연구자 등에게 더 많은 가명정보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타와 마이크로소프트, 생성 AI 경쟁 지도 또 바뀐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721113901</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721113901</guid>
-            <pubDate>Fri, 21 Jul 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 대규모언어모델(LLM) '라마2(Llama)'를 상업용도로 사용가능한 오픈소스로 공개하면서, 마이크로소프트와 손을 잡았다. 마이크로소프트는 AI 생태계의 큰 축인 오픈소...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
