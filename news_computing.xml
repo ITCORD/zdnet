@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 07:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 08:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클, 'MySQL 히트웨이브 레이크하우스' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230724155157</link>
+            <guid>https://zdnet.co.kr/view/?no=20230724155157</guid>
+            <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[오라클이 'MySQL 히트웨이브 레이크하우스'를 정식 출시했다. MySQL 히트웨이브 레이크하우스는 레이크하우스 성능을 데이터베이스 쿼리 성능과 동등한 수준으로 구현했다. 속도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[반복되는 개인정보 유출, 이용자 피해만 늘어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230724154341</link>
+            <guid>https://zdnet.co.kr/view/?no=20230724154341</guid>
+            <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 기업에서 끊이지 않고 발생하는 개인정보 유출로 이용자 피해가 우려되고 있다. 개인정보의 중요성과 유출 시 위험성은 알려졌지만, 이를 규제하기 위한 충분한 방안이 마련돼 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['데이터 가상화' 도입을 서둘러야 하는 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230724153335</link>
+            <guid>https://zdnet.co.kr/view/?no=20230724153335</guid>
+            <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
+            <content:encoded><![CDATA["기업은 데이터 가상화를 활용해야 합니다. 실시간 데이터 접근, 처리 방식이 기존보다 획기적으로 빠르기 때문입니다. 데이터 가상화는 한 달 걸리던 비즈니스 결정을 다음 날 알려...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KOSA, 'SW 꿈나무 멘토링' 멘토-멘티 결연식 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230724155210</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721113901</guid>
             <pubDate>Fri, 21 Jul 2023 03:10:09 GMT</pubDate>
             <content:encoded><![CDATA[메타가 대규모언어모델(LLM) '라마2(Llama)'를 상업용도로 사용가능한 오픈소스로 공개하면서, 마이크로소프트와 손을 잡았다. 마이크로소프트는 AI 생태계의 큰 축인 오픈소...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, 챗GPT 맞춤형 지침 추가…항상 사용자 기억]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721095745</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721095745</guid>
-            <pubDate>Fri, 21 Jul 2023 02:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[이제 챗GPT가 사용자를 기억한다. 대화를 시작할 때마다 동일한 문맥을 유지하기 위해 매번 같은 프롬프트를 작성할 필요가 없어진다. 20일(현지시간) 실리콘앵글 등 외신에 따르...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, 코파일럿 챗 기능 베타 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721092525</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721092525</guid>
-            <pubDate>Fri, 21 Jul 2023 02:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[깃허브 코파일럿을 채팅하듯 이용하는 생성 AI 서비스가 출시됐다. 20일(현지시간) 더버지 등 외신에 따르면, 깃허브는 코파일럿 챗 서비스를 베타로 출시했다. 이 서비스는 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 비트코인 결제 다시 재개하나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721084155</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721084155</guid>
-            <pubDate>Fri, 21 Jul 2023 00:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 차량 구매 시 지원하던 비트코인 결제를 재기할 가능성이 제기됐다. 자동차 전문 매체 일렉트렉은 20일(현지시간) 한 트위터 사용자가 테슬라 웹 사이트 소스 코드에서 애...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
