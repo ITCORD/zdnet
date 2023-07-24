@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 22:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 23:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 'AI 칩' 액체에 담아 열 빼낸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725023719</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725023719</guid>
+            <pubDate>Mon, 24 Jul 2023 23:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 기업 TSMC가 인공지능(AI) 칩과 서버의 방열 요구에 대응해 중화권 기업들과 협력하고 있다. 24일 중국 언론 IT즈자와 대만 경제일보 보도에 따르면 TSMC...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 파운드리, 車·항공 반도체용 22나노 공정 개선 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230724152408</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721082530</guid>
             <pubDate>Fri, 21 Jul 2023 00:54:06 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기는 글로벌 ESG 평가 지수 중 하나인 'FTSE4Good' 지수에 국내 전자부품 업계 최장기간인 13년 연속 편입했다고 21일 밝혔다. FTSE4Good은 2001년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[래티스, 오토모티브 시장 공략 본격화…"신규 소프트웨어 솔루션 출시"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230720115432</link>
-            <guid>https://zdnet.co.kr/view/?no=20230720115432</guid>
-            <pubDate>Thu, 20 Jul 2023 13:15:15 GMT</pubDate>
-            <content:encoded><![CDATA["현재 래티스반도체 내 오토모티브 시장 매출 규모가 크지는 않지만, 이번 신규 소프트웨어 솔루션 발표로 그 비중을 확대할 수 있을 것이라고 생각합니다. 앞으로 차량 내 데이터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
