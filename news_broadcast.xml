@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 09:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방통위 "남영진 KBS 이사장, 8월중 해임 청문 계획”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725171929</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725171929</guid>
+            <pubDate>Tue, 25 Jul 2023 09:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 25일 KBS 남영진 이사 해임 처분에 대한 사전통지와 함께 의견 제출을 요청했다고 밝혔다. 아울러 8월 중 남영진 이사에 대한 청문을 진행하고, 상임위원 간 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위, 소비자 오인케한 롯데홈쇼핑·CJ온스타일 법정제재 예고]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725160554</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230724090002</guid>
             <pubDate>Mon, 24 Jul 2023 00:52:55 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 스마트폰에서 유심 불량 여부를 알려주는 기능을 통신업계 최초로 탑재했다고 24일 밝혔다. 유심은 이동통신사의 고객이 어떤 요금제에 가입했는지 확인시켜주는 일종의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 대전소방본부 차량 150대에 초정밀 측위 솔루션 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724085436</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724085436</guid>
-            <pubDate>Mon, 24 Jul 2023 00:52:55 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 대전소방본부의 소방 응급구조 차량 150대에 초정밀 측위 솔루션을 공급한다고 24일 밝혔다. KT는 대전시 융복합 데이터 활용 실감형 소방안전도시 구축 사업에서 초정밀 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
