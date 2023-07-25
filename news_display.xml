@@ -4,14 +4,22 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 08:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD 젠2 기반 라이젠·에픽 CPU서 보안 결함 '젠블리드' 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725163335</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725163335</guid>
+            <pubDate>Tue, 25 Jul 2023 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 2019년부터 지난 해까지 시장에 공급한 라이젠·에픽(EPYC)·스레드리퍼 등 젠2(Zen 2) 아키텍처 기반 각종 프로세서에 숨은 보안 문제가 드러났다. 내부 저장장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[S&P, 삼성전자 'AA-' 등급 유지...하반기 실적 회복 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725145352</link>
             <guid>https://zdnet.co.kr/view/?no=20230725145352</guid>
-            <pubDate>Tue, 25 Jul 2023 07:10:55 GMT</pubDate>
+            <pubDate>Tue, 25 Jul 2023 08:13:28 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 신용평가사 스탠더드앤드푸어스(S&amp;P)는 삼성전자의 신용등급을 'AA-'로 유지한다고 25일 밝혔다. 아울러 S&amp;P가 발행한 선순위 무담보 채권의 'AA-' 장기 채권등급...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721151432</guid>
             <pubDate>Fri, 21 Jul 2023 07:10:37 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 '지속가능경영보고서 2023'을 금감원 전자공시시스템과 회사 홈페이지를 통해 공시했다고 21일 밝혔다. 해당 보고서는 SK하이닉스 고유의 ESG(환경, 사회, 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 준법경영·부패방지 국제 인증 동시 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721134002</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721134002</guid>
-            <pubDate>Fri, 21 Jul 2023 05:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 국내 반도체 업계 최초로 영국표준협회(BSI, British Standards Institution)로부터 준법 경영표준(ISO 37301)과 부패방지 경영표준(...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

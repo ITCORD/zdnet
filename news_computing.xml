@@ -4,9 +4,57 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 08:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산단공, 공공데이터 활용 아이디어 공모]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725170707</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725170707</guid>
+            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[한국산업단지공단(이사장 이상훈)은 공단만의 데이터 활용방안을 발굴하기 위해 기업인·근로자 등 전국민을 대상으로 8월 18일까지 아이디어를 공모한다. 공모전은 산단공이 보유한 공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AMD 젠2 기반 라이젠·에픽 CPU서 보안 결함 '젠블리드' 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725163335</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725163335</guid>
+            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 2019년부터 지난 해까지 시장에 공급한 라이젠·에픽(EPYC)·스레드리퍼 등 젠2(Zen 2) 아키텍처 기반 각종 프로세서에 숨은 보안 문제가 드러났다. 내부 저장장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔키-몽골경찰청, 암호화폐 수사 인프라 구축 협업]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725165503</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725165503</guid>
+            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[엔키는 몽골경찰청과 암호화폐 관련 범죄에 적극적으로 대응할 인프라 구축을 위한 업무 협약을 체결했다고 25일 밝혔다. 급성장하는 가상자산 시장에서 범죄사례도 빠르게 증가하며 범...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데정보통신, 안전보건경영시스템 국제 표준 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725164729</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725164729</guid>
+            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[롯데정보통신이 기업 ESG 경영과 관련된 안전보건경영시스템 국제표준인 ISO45001 인증을 한국품질재단(KFQ)으로부터 취득했다고 25일 밝혔다. 안전보건경영시스템(ISO45...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ONE, 여름휴가 시즌 신규 제휴 멤버십 혜택 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725164445</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725164445</guid>
+            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스(대표 유인상)가 라이프스타일 멤버십 서비스 CJ ONE의 여름휴가 시즌 여행 서비스 분야 멤버십 혜택을 강화한다고 25일 밝혔다. CJ ONE 회원이라면 누구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생성AI, 사이버공격 증가 핵심요인 급부상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725163109</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725163109</guid>
+            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[챗GPT, 바드 등 생성AI가 보급되며 새로운 산업과 성장의 기회가 떠오르고 있다. 하지만 이를 악용하려는 시도 역시 빠르게 발전하며 전 세계적인 위협도 함께 늘어나는 추세다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑세스랩, 이노웍스코리아와 ARM 서버 해외 총판 계약 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725145719</link>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230725070410</guid>
             <pubDate>Tue, 25 Jul 2023 02:16:56 GMT</pubDate>
             <content:encoded><![CDATA[애플이 제작한 유일한 운동화가 소더비 경매장에 출품됐다고 더레지스터 등 외신들이 24일(현지시간) 보도했다. 경매 시작가는 5만 달러(약 6천400만원)다. 경매에 오른 운동화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차·LG전자 등 대기업 20곳, 산업 인공지능(AI) 확산 앞장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725001327</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725001327</guid>
-            <pubDate>Mon, 24 Jul 2023 21:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[10대 주력산업 20개 대기업이 주도하는 '산업 AI 얼라이언스'가 출범한다. 산업통상자원부는 25일 오전 서울 용산 드래곤 시티 호텔에서 장영진 제1차관과 현대자동차·LG전자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌-드림에이스, 모빌리티 플랫폼 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724190236</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724190236</guid>
-            <pubDate>Mon, 24 Jul 2023 10:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[베스핀글로벌이 모빌리티 솔루션 기업 드림에이스와 클라우드 기반 모빌리티 서비스 플랫폼 강화를 위한 업무 협약을 체결했다고 24일 밝혔다. 이번 협약은 베스핀글로벌의 차량관제 특...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유라클, SK실트론 모바일 개발환경 표준화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724184851</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724184851</guid>
-            <pubDate>Mon, 24 Jul 2023 10:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[유라클(대표 조준희, 권태일)이 SK실트론의 모바일 개발 환경을 모바일 표준 플랫폼 모피어스로 표준화했다고 24일 밝혔다. SK실트론은 산업 현장에서 모바일 중심의 업무가 점점...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드-시스코, 머라키 구독형 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724184434</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724184434</guid>
-            <pubDate>Mon, 24 Jul 2023 10:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드(대표 이주완)는 시스코의 클라우드 기반 IT 솔루션 '머라키'를 월정액 방식으로 사용할 수 있는 '머라키 인 핏(Meraki in FiT)'을 출시했다고 24일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미소정보기술, 인천세종병원 임상빅데이터 플랫폼 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724183810</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724183810</guid>
-            <pubDate>Mon, 24 Jul 2023 10:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[미소정보기술(대표 안동욱)이 인천세종병원에 프라이빗 클라우드 기반의 임상빅데이터플랫폼'스마트빅(smart BIG)'을 연말까지 구축한다고 24일 밝혔다. 스마트빅은 올인원 의료...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디파이 프로토콜 '라디언트캐피탈', 1천만 달러 투자 유치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724180412</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724180412</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[레이어제로 기반 크로스체인 탈중앙화금융(디파이) 프로토콜 라디언트캐피탈은 바이낸스랩스로부터 1천만 달러(약 128억원) 투자를 유치했다고 24일 밝혔다. 레이어제로는 서로 다른...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
