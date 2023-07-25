@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 04:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제3국 근무는 어때"…갈수록 교묘해진 中의 韓 반도체 인력 빼가기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725091631</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725091631</guid>
+            <pubDate>Tue, 25 Jul 2023 05:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 중국의 한국 반도체 인력 빼가기 행태가 점차 교묘해지고 있다. 미국의 반도체 공급망 견제를 의식해 제3국에 근무지를 마련하는 회유책까지 제시하거나, 개발 프로젝트 성공 시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 웨어러블 기기용 소형 근접 센서 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725102441</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230721092545</guid>
             <pubDate>Fri, 21 Jul 2023 02:06:12 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 뷔르트 일렉트로닉과 뷔르트 전동공구를 이용한 데모를 공동 개발했다고 21일 밝혔다. 저전압 브러시리스 DC 모터를 효율적으로 구동하는 이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC "美 애리조나 팹 건설 1년 지연...2025년 양산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230721092400</link>
-            <guid>https://zdnet.co.kr/view/?no=20230721092400</guid>
-            <pubDate>Fri, 21 Jul 2023 02:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리 업체 TSMC는 미국 애리조나 팹 건설이 1년 가량 늦어지면서 생산이 2025년으로 연기된다고 밝혔다. 이에 따라 애리조나 팹에서 칩을 양산하려던 애플의 계획도 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

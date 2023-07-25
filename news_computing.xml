@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 04:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플리토, 사우디 '네옴' 관계자 만나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725113432</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725113432</guid>
+            <pubDate>Tue, 25 Jul 2023 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[플리토(대표 이정수)가 '인공지능(AI) 학습용 아랍어 데이터 구축 사업'을 위한 중동 진출에 본격 시동 걸었다고 25일 밝혔다. 플리토는 지난 24일 사우디아라비아 네옴이 초...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 보안기업 에버스핀, 이노비즈 AA 등급 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725115627</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230724153335</guid>
             <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
             <content:encoded><![CDATA["기업은 데이터 가상화를 활용해야 합니다. 실시간 데이터 접근, 처리 방식이 기존보다 획기적으로 빠르기 때문입니다. 데이터 가상화는 한 달 걸리던 비즈니스 결정을 다음 날 알려...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 'SW 꿈나무 멘토링' 멘토-멘티 결연식 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724155210</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724155210</guid>
-            <pubDate>Mon, 24 Jul 2023 07:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 창립 35주년을 맞아 사회공헌 프로그램 '소프트웨어(SW) 꿈나무 멘토링' 멘토-멘티 결연식을 개최했다고 24일 밝혔다. SW ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
