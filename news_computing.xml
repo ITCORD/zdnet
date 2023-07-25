@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 05:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 06:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑세스랩, 이노웍스코리아와 ARM 서버 해외 총판 계약 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725145719</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725145719</guid>
+            <pubDate>Tue, 25 Jul 2023 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[ARM 서버 개발업체 엑세스랩(대표 유명환)은 타이완의 임베디드용 SSD 전문기업인 이노디스크의한국 총판 이노웍스코리아(대표 김남렬)와 ARM 서버 글로벌 진출을 위한 해외 총...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어, 포스코DX에 '가상 데스크톱 인프라' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725112453</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725112453</guid>
+            <pubDate>Tue, 25 Jul 2023 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[VM웨어는 포스코DX에 '가상 데스크톱 인프라(VDI)' 풀스택 솔루션을 공급했다고 25일 밝혔다. VM웨어는 포스코DX 업무용 애플리케이션 성능 저하, 클라우드상 데이터 보호...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 AI 검색 서비스 어디까지 왔나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725142954</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725142954</guid>
+            <pubDate>Tue, 25 Jul 2023 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[국내 인공지능(AI) 검색 서비스가 구글 바드, 마이크로소프트 빙과 경쟁 구도에 돌입할 전망이다. 네이버는 다음 달 AI 챗봇형 검색 서비스 '큐:'를 출시할 예정이다. 스타트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["생성AI 위한 데이터레이크하우스, 숨은 병목을 보라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230725144824</link>
+            <guid>https://zdnet.co.kr/view/?no=20230725144824</guid>
+            <pubDate>Tue, 25 Jul 2023 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[“데이터레이크는 아마존웹서비스(AWS)의 오브젝트 스토리지인 아마존 S3와 함께 보편화됐다. 오브젝트 스토리지는 파일위치를 담은 메타정보를 중앙에서 관리하며 파일을 찾는 방식이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플리토, 사우디 '네옴' 관계자 만나]]></title>
             <link>https://zdnet.co.kr/view/?no=20230725113432</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230724180412</guid>
             <pubDate>Mon, 24 Jul 2023 09:11:33 GMT</pubDate>
             <content:encoded><![CDATA[레이어제로 기반 크로스체인 탈중앙화금융(디파이) 프로토콜 라디언트캐피탈은 바이낸스랩스로부터 1천만 달러(약 128억원) 투자를 유치했다고 24일 밝혔다. 레이어제로는 서로 다른...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[람다256, 기업용 블록체인 지갑 서비스 ISMS 예비인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724172229</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724172229</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[두나무 계열사이자 블록체인 전문기업 람다256(대표 박재현)은 정보보호관리체계(ISMS) 예비인증을 취득했다고 24일 밝혔다. 기업 대상 블록체인 지갑 솔루션 '루니 월렛 SD...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클, 'MySQL 히트웨이브 레이크하우스' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724155157</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724155157</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[오라클이 'MySQL 히트웨이브 레이크하우스'를 정식 출시했다. MySQL 히트웨이브 레이크하우스는 레이크하우스 성능을 데이터베이스 쿼리 성능과 동등한 수준으로 구현했다. 속도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반복되는 개인정보 유출, 이용자 피해만 늘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724154341</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724154341</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[국내외 기업에서 끊이지 않고 발생하는 개인정보 유출로 이용자 피해가 우려되고 있다. 개인정보의 중요성과 유출 시 위험성은 알려졌지만, 이를 규제하기 위한 충분한 방안이 마련돼 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['데이터 가상화' 도입을 서둘러야 하는 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230724153335</link>
-            <guid>https://zdnet.co.kr/view/?no=20230724153335</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:05 GMT</pubDate>
-            <content:encoded><![CDATA["기업은 데이터 가상화를 활용해야 합니다. 실시간 데이터 접근, 처리 방식이 기존보다 획기적으로 빠르기 때문입니다. 데이터 가상화는 한 달 걸리던 비즈니스 결정을 다음 날 알려...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
