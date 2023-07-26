@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 03:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 04:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디노도, '데이터 가상화'에 생성 AI 넣는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726111111</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726111111</guid>
+            <pubDate>Wed, 26 Jul 2023 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[디노도는 데이터 가상화 시스템 '디노도 플랫폼 9.0'를 새로 공개할 예정이라고 밝혔다. 가장 큰 변화는 플랫폼에 생성 인공지능(AI) 기술을 탑재했다는 점이다. 데이터 가상화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우정사업본부, 자동이체 오류 해결…"재발 방지 약속"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726115405</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726115405</guid>
+            <pubDate>Wed, 26 Jul 2023 04:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부가 우체국 금융전산시스템(CMS)에서 발생한 자동이체 오류를 해결하며 재발 방지를 약속했다. 26일 우정사업본부 관계자는 CMS의 자동이체 수정 조치를 완료 후 추후...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트래블룰 기업 코드, 예탁결제원과 'LEI' 발급 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726113322</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230725163335</guid>
             <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[AMD가 2019년부터 지난 해까지 시장에 공급한 라이젠·에픽(EPYC)·스레드리퍼 등 젠2(Zen 2) 아키텍처 기반 각종 프로세서에 숨은 보안 문제가 드러났다. 내부 저장장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔키-몽골경찰청, 암호화폐 수사 인프라 구축 협업]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725165503</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725165503</guid>
-            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[엔키는 몽골경찰청과 암호화폐 관련 범죄에 적극적으로 대응할 인프라 구축을 위한 업무 협약을 체결했다고 25일 밝혔다. 급성장하는 가상자산 시장에서 범죄사례도 빠르게 증가하며 범...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 안전보건경영시스템 국제 표준 취득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725164729</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725164729</guid>
-            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[롯데정보통신이 기업 ESG 경영과 관련된 안전보건경영시스템 국제표준인 ISO45001 인증을 한국품질재단(KFQ)으로부터 취득했다고 25일 밝혔다. 안전보건경영시스템(ISO45...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
