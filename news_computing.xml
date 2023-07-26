@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 07:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 08:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가상자산 회계 '사각지대' 문제 해소 고민하겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726161002</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726161002</guid>
+            <pubDate>Wed, 26 Jul 2023 08:12:45 GMT</pubDate>
+            <content:encoded><![CDATA["상장 기업 중 10곳 정도가 가상자산을 발행한 것으로 알고 있다. 비상장 회사 중에서도 가상자산을 발행한 사례가 있고, 외부감사법 대상 법인이 아니면 가상자산 회계 감독 지침...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌, 김써니 신임 대표 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726153203</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726091114</guid>
             <pubDate>Wed, 26 Jul 2023 00:50:56 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 애저와 클라우드 서비스 성장으로 윈도 라이선스 매출 감소를 상쇄하며 호실적을 거뒀다. 단, 다음 분기 실적 전망치는 업계 예상을 밑돌게 내놨다. 마이크로소프트는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영림원, HLB제약에 ERP 솔루션 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726082507</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726082507</guid>
-            <pubDate>Wed, 26 Jul 2023 00:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[영림원소프트랩(대표 권영범)이 HLB제약(대표 박재형)에 전사적자원관리(ERP) 솔루션을 공급한다고 26일 밝혔다. 영림원은 HLB제약에 ▲전사업무 통합시스템 구축 ▲실시간 모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
