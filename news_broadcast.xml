@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 06:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 07:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송사에 음악저작권 갑질...공정위, 음저협 검찰 고발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726154844</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726154844</guid>
+            <pubDate>Wed, 26 Jul 2023 07:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회가 방송사를 상대로 저작권자 지위를 남용해 과다한 방송사용료를 청구한 한국음악저작권협회(음저협)에 시정명령과 과징금 3억4천만원을 부과하고 검찰 고발을 결정했다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리넷, 패킷 광 전송장비에 양자내성암호 적용 상용]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726145100</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230725095138</guid>
             <pubDate>Tue, 25 Jul 2023 00:56:21 GMT</pubDate>
             <content:encoded><![CDATA[CJ ENM이 글로벌 걸그룹 Kep1er(케플러)와 함께 2030부산세계박람회 홍보 뮤직비디오를 제작한다고 25일 밝혔다. 올해 초 공개한 '응답하라 2030!'에 이은 두 번...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 2분기 '보험가입 권유' 스팸 급격히 늘었다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725094420</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725094420</guid>
-            <pubDate>Tue, 25 Jul 2023 00:56:21 GMT</pubDate>
-            <content:encoded><![CDATA[보험가입 권유와 관련된 스팸이 이례적으로 급증했다. 25일 스팸 차단 앱 '후후'를 서비스하는 브이피의 2분기 신고 통계에 따르면, 모든 유형의 스팸이 소폭 감소세를 보였으나 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
