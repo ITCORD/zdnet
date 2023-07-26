@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 13:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 14:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["주름·틈 줄였다"…갤Z폴드·플립5서 엿보인 삼성 '장인 정신']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726223038</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726223038</guid>
+            <pubDate>Wed, 26 Jul 2023 14:10:40 GMT</pubDate>
+            <content:encoded><![CDATA["삼성전자는 5세대에 걸쳐 폴더블 기술의 한계를 계속 높여왔고, 이번 갤럭시Z폴드5·플립5 역시 새로운 디스플레이 및 힌지 기술로 더욱 강력해졌다. 이는 장인정신에 대한 헌신에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤Z폴드·플립5, CPU·GPU 성능↑…전용 퀄컴 칩이 비결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726205135</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726111554</guid>
             <pubDate>Wed, 26 Jul 2023 03:10:54 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스는 올해 HBM(고대역폭메모리)을 비롯한 그래픽 D램 매출이 전년 보다 2배 이상 성장하면서 전체 매출에서 20% 비중을 차지한다고 밝혔다. HBM은 여러 개의 D램...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[컨콜] SK하이닉스 "HBM 내년 수요도 견조..HBM3E 양산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726091415</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726091415</guid>
-            <pubDate>Wed, 26 Jul 2023 03:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 26일 2분기 실적발표 및 컨퍼런스콜에서 "HBM(고대역폭메모리)에 대한 중장기적 수요가 지속 견조할 것"이라고 밝혔다. HBM은 여러 개의 D램을 수직으로 적층...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
