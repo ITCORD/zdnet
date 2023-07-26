@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 04:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷기어, 와이파이6 AP '프로 와이파이' 5종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726135504</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726135504</guid>
+            <pubDate>Wed, 26 Jul 2023 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[넷기어코리아가 26일 와이파이6(802.11ax) 지원 액세스포인트 '프로 와이파이' 5종을 출시했다. 신제품은 통합 대역폭 3Gbps급 WAX615·WAX618, 3.6Gbp...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 저수압 특화 '룰루 스스로케어 비데' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726111550</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230725132213</guid>
             <pubDate>Tue, 25 Jul 2023 05:10:07 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스가 25일 저소음 스위치를 적용한 소형 마우스 '위즈맥스 W202TW'를 출시했다. 위즈맥스 W202TW는 블루투스 3.0·5.0 연결과 2.4GHz 무선 수신기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['인도 1위 위태' 삼성폰, 치고 올라오는 비보]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725083928</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725083928</guid>
-            <pubDate>Tue, 25 Jul 2023 02:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 올해 2분기 인도 스마트폰 시장에서 1위를 이어갔다. 다만, 중국 스마트폰 제조사 비보가 턱밑까지 추격했다. 24일(현지시간) 샘모바일은 시장조사업체 카날리스의 보고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

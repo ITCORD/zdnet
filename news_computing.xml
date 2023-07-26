@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 04:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스티베로, 'CoMPEX 코리아 2023' 참가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230726104039</link>
+            <guid>https://zdnet.co.kr/view/?no=20230726104039</guid>
+            <pubDate>Wed, 26 Jul 2023 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스티베로가 이달 26일부터 28일까지 3일간 서울 코엑스에서 열리는 'CoMPEX KOREA 2023(소재·부품·장비 중소기업 대전)'에 참가한다고 26일 밝혔다. 최근 소...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디노도, '데이터 가상화'에 생성 AI 넣는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726111111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230725170707</guid>
             <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[한국산업단지공단(이사장 이상훈)은 공단만의 데이터 활용방안을 발굴하기 위해 기업인·근로자 등 전국민을 대상으로 8월 18일까지 아이디어를 공모한다. 공모전은 산단공이 보유한 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD 젠2 기반 라이젠·에픽 CPU서 보안 결함 '젠블리드' 발견]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725163335</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725163335</guid>
-            <pubDate>Tue, 25 Jul 2023 08:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 2019년부터 지난 해까지 시장에 공급한 라이젠·에픽(EPYC)·스레드리퍼 등 젠2(Zen 2) 아키텍처 기반 각종 프로세서에 숨은 보안 문제가 드러났다. 내부 저장장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
