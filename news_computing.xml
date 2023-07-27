@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 06:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 07:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코히어, 기업 특화용 AI 챗봇 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230727152850</link>
+            <guid>https://zdnet.co.kr/view/?no=20230727152850</guid>
+            <pubDate>Thu, 27 Jul 2023 07:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[코히어가 비즈니스 특화 인공지능(AI) 챗봇을 출시했다. 벤처비트 등 외신은 25일 코히어가 기업용 챗봇 '코랄'을 정식 출시했다고 보도했다. 보도에 따르면 코랄은 기업 데이터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제네시스랩, AI 면접 솔루션 '뷰인터HR 2.0' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230727121027</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726104039</guid>
             <pubDate>Wed, 26 Jul 2023 05:09:49 GMT</pubDate>
             <content:encoded><![CDATA[티맥스티베로가 이달 26일부터 28일까지 3일간 서울 코엑스에서 열리는 'CoMPEX KOREA 2023(소재·부품·장비 중소기업 대전)'에 참가한다고 26일 밝혔다. 최근 소...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노도, '데이터 가상화'에 생성 AI 넣는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726111111</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726111111</guid>
-            <pubDate>Wed, 26 Jul 2023 04:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[디노도는 데이터 가상화 시스템 '디노도 플랫폼 9.0'를 새로 공개할 예정이라고 밝혔다. 가장 큰 변화는 플랫폼에 생성 인공지능(AI) 기술을 탑재했다는 점이다. 데이터 가상화...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
