@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글·MS, AI 안전표준 함께 만든다…오픈AI도 동참]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230727111331</link>
+            <guid>https://zdnet.co.kr/view/?no=20230727111331</guid>
+            <pubDate>Thu, 27 Jul 2023 02:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[구글과 마이크로소프트가 인공지능(AI) 안전 표준 개발을 위해 손을 잡았다. '챗GPT'로 생성 AI 열풍을 주도하고 있는 오픈AI도 힘을 모으기로 했다. 구글, 마이크로소프트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS, 2분기 영업익 2천64억...클라우드 최대 실적]]></title>
             <link>https://zdnet.co.kr/view/?no=20230727104051</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726102048</guid>
             <pubDate>Wed, 26 Jul 2023 02:07:30 GMT</pubDate>
             <content:encoded><![CDATA[아이티센그룹(대표 강진모)은 일본법인 '아이티센 재팬'을 설립하고, 해외 시장 공략에 본격 나선다고 26일 밝혔다. 지난 19일 일본 동경도 시나가와구 오오모리에 위치한 아이티...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 오픈소스 AI 레퍼런스 키트 34종 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726101843</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726101843</guid>
-            <pubDate>Wed, 26 Jul 2023 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[인텔은 26일 개발자와 데이터 과학자를 위해 총 34개의 오픈소스 AI 레퍼런스 키트를 공개한다고 밝혔다. 인텔은 글로벌 컨설팅 업체인 액센추어와 협력해 모델 코드, 데이터 학...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
