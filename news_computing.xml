@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 23:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 00:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미지생성 AI '스테이블디퓨전XL 1.0' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230727092228</link>
+            <guid>https://zdnet.co.kr/view/?no=20230727092228</guid>
+            <pubDate>Thu, 27 Jul 2023 00:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[텍스트를 이미지로 변환하는 오픈소스 이미지 생성 AI 모델 '스테이블디퓨전XL 1.0' 버전이 나왔다. 26일(현지시간) 테크크런치에 따르면, 스태빌리티AI는 스테이블디퓨전XL...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[드롭박스, '드롭박스 독센드'에 한국어 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230726174033</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726100941</guid>
             <pubDate>Wed, 26 Jul 2023 02:07:30 GMT</pubDate>
             <content:encoded><![CDATA[슈나이더 일렉트릭 코리아(대표 김경록)가 글로벌 반도체 가치 사슬에서 탈탄소 체계 구축을 돕는 새로운 파트너십 프로그램 '카탈라이즈'를 공개했다고 26일 밝혔다. 세미콘 웨스트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, LLM 전용 인터페이스 라이브러리 '타입챗' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726074447</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726074447</guid>
-            <pubDate>Wed, 26 Jul 2023 02:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)가 효율적인 대규모언어모델(LLM) 개발을 위해 전용 인터페이스 라이브러리 '타입챗'을 공개했다. 최근 인포월드 등 외신에 따르면 마이크로소프트는 자연어 인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
