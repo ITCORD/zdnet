@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 02:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 02:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'스마트워크'로 국내 기업 클라우드 전환 선도"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230727004355</link>
+            <guid>https://zdnet.co.kr/view/?no=20230727004355</guid>
+            <pubDate>Fri, 28 Jul 2023 02:28:34 GMT</pubDate>
+            <content:encoded><![CDATA["국내 클라우드 시장은 나날이 성숙해지고 있습니다만, 여전히 IaaS 중심의 전환이 상당수입니다. 아직 SaaS, DaaS를 생소하게 여기는 고객이 많습니다. 이번 수상을 계기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["10년 이상 원천 기술 투자, 클라우드 풀스택 제공"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230727101652</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230727163606</guid>
             <pubDate>Thu, 27 Jul 2023 08:14:17 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 기술 기업 코인플러그(대표 어준선)은 분산ID(DID) 인증 앱 '마이키핀'을 '위퍼블릭월렛'으로 개편했다고 27일 밝혔다. 위퍼블릭은 메타디움 DID 기반 '신원증명...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS, 하반기 기업용 생성AI 서비스 개발 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230727160235</link>
-            <guid>https://zdnet.co.kr/view/?no=20230727160235</guid>
-            <pubDate>Thu, 27 Jul 2023 08:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 사업에 집중하고 있는 삼성SDS가 연내 기업용 생성AI 서비스를 개발할 예정이다. 삼성SDS의 구형준 클라우드 서비스 사업부장(부사장)은 27일 열린 실적발표 컨퍼런스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
