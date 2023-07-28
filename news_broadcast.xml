@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 07:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부가통신 7곳-IDC 8곳...재난관리 의무대상 포함]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230728153517</link>
+            <guid>https://zdnet.co.kr/view/?no=20230728153517</guid>
+            <pubDate>Fri, 28 Jul 2023 07:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷데이터센터(IDC)와 부가통신사 등 총 15개 사업자가 재난관리 의무대상 주요통신사업자에 포함됐다. 과학기술정보통신부는 2023년 제2차 통신재난관리심의위원회 논의를 거쳐...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이동관 방통위원장 내정에..."국정과제 적임자" vs "지명 철회"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230728132814</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726154844</guid>
             <pubDate>Wed, 26 Jul 2023 07:09:33 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회가 방송사를 상대로 저작권자 지위를 남용해 과다한 방송사용료를 청구한 한국음악저작권협회(음저협)에 시정명령과 과징금 3억4천만원을 부과하고 검찰 고발을 결정했다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리넷, 패킷 광 전송장비에 양자내성암호 적용 상용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726145100</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726145100</guid>
-            <pubDate>Wed, 26 Jul 2023 06:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[우리넷은 양자내성암호(PQC)를 패킷 광 전송장비(POTN)에 적용해 상용화에 성공했다고 26일 밝혔다. 양자내성암호는 양자컴퓨터로 암호 해석에 장시간이 소요되는 알고리즘으로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
