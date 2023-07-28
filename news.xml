@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 22:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 23:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래 된 인공위성, 지구로 떨어진다…"최초의 위성 고의 추락 실험"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230729071603</link>
+            <guid>https://zdnet.co.kr/view/?no=20230729071603</guid>
+            <pubDate>Fri, 28 Jul 2023 23:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[유럽우주국(ESA)의 오래된 인공위성이 곧 지구 대기권에 떨어질 예정이다. 우주전문매체 스페이스닷컴은 28일(이하 현지시간) 임무를 마친 기상위성 ESA의 '아이올로스(Aeol...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/29/7a3964dd646a2336bb5707f7428a943b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 우정사업본부]]></title>
             <link>https://zdnet.co.kr/view/?no=20230729064816</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230728151502</guid>
             <pubDate>Fri, 28 Jul 2023 08:11:55 GMT</pubDate>
             <content:encoded><![CDATA[미국 법률 생성 인공지능(AI)이 국내 법률 서비스 시장에 속속 발을 들여놓고 있다. 이에 따라 머지 않아 미국 법률 생성 AI가 국내 시장을 장악할 것이란 전망이 제기되고 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[통합 대역폭 5400Mbps급 와이파이6 AP...PoE로 케이블 일원화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230728163733</link>
-            <guid>https://zdnet.co.kr/view/?no=20230728163733</guid>
-            <pubDate>Fri, 28 Jul 2023 08:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[넷기어 프로 와이파이 WAX625 액세스포인트(이하 WAX625)는 와이파이6(802.11ax) 기반 고성능 액세스 포인트로 유선만 존재하는 네트워크에 연결해 노트북과 스마트폰...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
