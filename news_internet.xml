@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 10:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 11:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오은영 "숏폼 영상, 아이들 사고력 발달 문제될 수 있어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230728181637</link>
+            <guid>https://zdnet.co.kr/view/?no=20230728181637</guid>
+            <pubDate>Fri, 28 Jul 2023 11:10:14 GMT</pubDate>
+            <content:encoded><![CDATA["유튜브는 누구나 만들어서 올릴 수 있기 때문에 창의적이고 편리하다는 장점이 있지만, 콘텐츠를 걸러내는 장치가 없다. 콘텐츠 양이 많아질수록 허위 정보도 많아질 수 있다는 것이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["계약형태 디지털 혁신 주도…'계약 표준' 만들겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230727122224</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726151103</guid>
             <pubDate>Wed, 26 Jul 2023 08:13:02 GMT</pubDate>
             <content:encoded><![CDATA[“무책임경영·회전문 인사, 브라이언 사과하라!” 최근 연이어 발생한 카카오엔터프라이즈·카카오엔터테인먼트 등 계열사 희망퇴직과 관련해 카카오 노동조합이 회사 측에 고용 불안 해소...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN두레이, '두레이 협업도구' 도입하면 메일 서비스 1년 무료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726152719</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726152719</guid>
-            <pubDate>Wed, 26 Jul 2023 07:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[엔에이치엔 두레이(대표 백창열)는 두레이 협업도구를 신규 도입하는 고객사에 메일 서비스를 무료로 제공하는 행사를 진행한다고 26일 밝혔다. 9월30일까지 '메일 그 이상의 협업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
