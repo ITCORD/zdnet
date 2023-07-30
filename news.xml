@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 22:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 23:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치솟는 인도 식료품 물가…토마토 값 400% 폭등]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230731080432</link>
+            <guid>https://zdnet.co.kr/view/?no=20230731080432</guid>
+            <pubDate>Sun, 30 Jul 2023 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[인도 날씨가 변덕스러워지면서 식료품 물가가 폭등하고 있다. 30일(현지시간) 파이낸셜타임즈에 따르면 최근 몇 주간 쏟아진 폭우로 쌀과 토마토 등 농산물 가격이 크게 오르면서 물...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/13/52a20d1fc18543a7d4739dc7fa4d0f96-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[X로 바꾼 트위터, 크리에이터 광고 수익 공유 프로그램 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230730172138</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230730175413</guid>
             <pubDate>Sun, 30 Jul 2023 09:08:48 GMT</pubDate>
             <content:encoded><![CDATA[정부가 연내 산업현장에 필요한 인공지능(AI) 전문인력 100명을 양성, 본격 공급에 나선다. 산업통상자원부는 AI 전문인력 부족 문제를 해결하고자 KAIST와 한국공대에 4개...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/05/08/edb632b1db15ed979d4cda399dcb2f5d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이터 유공자 상 대통령 포상으로 격상···다음달 18일까지 접수]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230729005716</guid>
             <pubDate>Sun, 30 Jul 2023 01:59:33 GMT</pubDate>
             <content:encoded><![CDATA[올해 상반기 국내에서 가장 수출을 많이한 차는 단연 쉐보레 트레일블레이저다. 트레일블레이저는 고공행진하는 현대자동차와 기아를 제치고 글로벌에서 매달 2만대에 가까운 판매량을 유...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[써보고서] 여름철 음식물 악취·벌레 걱정 끝...스마트카라 '이노베이션']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230725200205</link>
-            <guid>https://zdnet.co.kr/view/?no=20230725200205</guid>
-            <pubDate>Sun, 30 Jul 2023 01:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[여름철 무덥고 습한 날씨만큼 주방에서는 남은 음식물 처리에 대한 고민도 커진다. 음식물쓰레기를 상온에 보관했다간 금세 부패해 악취의 주범이 되기 때문이다. 음식물처리기는 이런 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
