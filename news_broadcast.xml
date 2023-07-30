@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 05:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 06:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NASA, 자체 OTT 출시한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230730120501</link>
+            <guid>https://zdnet.co.kr/view/?no=20230730120501</guid>
+            <pubDate>Sun, 30 Jul 2023 06:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[미국 항공우주국(NASA)이 OTT 서비스를 출시한다. 기즈모도·더버지 등 외신에 따르면 NASA는 자체 OTT 서비스 'NASA+' 베타 서비스를 시작한다고 지난 28일 발표...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[ZD 브리핑] KT 이끌 '운명의 1인' 누구?...주요기업 2Q 실적 주목]]></title>
             <link>https://zdnet.co.kr/view/?no=20230730130258</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230727175004</guid>
             <pubDate>Thu, 27 Jul 2023 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[메조미디어가 한국인터넷전문가협회에서 주최하는 '소셜아이어워드 2023'에서 3관왕을 수상했다고 27일 밝혔다. 메조미디어는 ▲SK증권 '맥스양봉' 캠페인으로 디지털영상 최고대상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[탈진해 쓰러진 80대 독거노인 구한 우편 집배원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230727170223</link>
-            <guid>https://zdnet.co.kr/view/?no=20230727170223</guid>
-            <pubDate>Thu, 27 Jul 2023 08:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[우정사업본부는 우편물 배달 중 홀로 집안에서 탈진해 쓰러져 있던 80대 독거노인을 구조한 대전둔산우체국 소속 김경태 집배원의 선행유공을 포상하고 격려했다고 27일 밝혔다. 김 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
