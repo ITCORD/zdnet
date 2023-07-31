@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 04:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 05:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왓츠앱, 인스턴트 영상 메시지 기능 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230731084200</link>
+            <guid>https://zdnet.co.kr/view/?no=20230731084200</guid>
+            <pubDate>Mon, 31 Jul 2023 05:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[왓츠앱이 1분 길이 인스턴트 영상 메시지를 출시한다. 미국 IT매체 엔가젯은 28일(현지시간) 왓츠앱이 최대 1분 길이 영상으로 친구에게 보낼 수 있는 영상 메시지 기능을 선보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제페토 "생성AI로 아이템 직접 만드세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230731105443</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230727160900</guid>
             <pubDate>Thu, 27 Jul 2023 08:14:33 GMT</pubDate>
             <content:encoded><![CDATA[더핑크퐁컴퍼니(대표 김민석)가 음원 스트리밍 플랫폼 스포티파이에서 누적 스트리밍 10억 회를 돌파했다고 27일 밝혔다. 더핑크퐁컴퍼니는 2017년 '핑크퐁'을 아티스트로 스포티...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN벅스, LG 휘센 아트쿨에 '에센셜' 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230727160350</link>
-            <guid>https://zdnet.co.kr/view/?no=20230727160350</guid>
-            <pubDate>Thu, 27 Jul 2023 07:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[NHN벅스는 LG전자와 협업해 LCD 액자형 에어컨 'LG 휘센 오브제컬렉션 아트쿨(이하 휘센 아트쿨)'에 벅스 플레이리스트 공식 채널 'essential;(에센셜)' 음악 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
