@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 05:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TTA, 데이터 품질인증기관 지정 받아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230801134032</link>
+            <guid>https://zdnet.co.kr/view/?no=20230801134032</guid>
+            <pubDate>Tue, 01 Aug 2023 05:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보통신기술협회(TTA, 회장 손승현)가 데이터 품질인증기관이 됐다. 1일 TTA는 과기정통부에서 지난달 데이터 품질인증기관으로 지정받았다고 밝혔다. 데이터 품질인증제도는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생성 AI 만난 포토샵, 이미지 다 그려 넣어주네]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230801113425</link>
+            <guid>https://zdnet.co.kr/view/?no=20230801113425</guid>
+            <pubDate>Tue, 01 Aug 2023 05:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[어도비가 이미지 생성 AI 모델 '파이어플라이'와 포토샵의 통합을 더 확장했다. 생성형 채우기보다 더 간편해진 확장 기능으로 이미지의 캔버스를 자연스럽게 재창조할 수 있게 됐다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부 "페이퍼리스 촉진"···모바일 음성고지 등 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230801100340</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230731132340</guid>
             <pubDate>Mon, 31 Jul 2023 05:10:03 GMT</pubDate>
             <content:encoded><![CDATA[리콘랩스(대표 반성훈)가 '3D프레소'로 '탑 디자이너 콘테스트' 를 31일 개최한다. 이벤트는 제페토에서 무료로 누구나 참여할 수 있다. 이용자는 생성 인공지능(AI) 기술로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타 "대형 기업, '라마2' 돈 내고 이용해라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230731104351</link>
-            <guid>https://zdnet.co.kr/view/?no=20230731104351</guid>
-            <pubDate>Mon, 31 Jul 2023 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 오픈소스로 내놓은 거대언어모델(LLM) '라마2'에 비용을 청구할 방침이다. 청구 대상은 라마2로 제품을 만들어 수익 창출하려는 대형 클라우드 공급사다. 주요 외신은 3...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트의 AI 안전 자율규제 약속 6가지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230731105405</link>
-            <guid>https://zdnet.co.kr/view/?no=20230731105405</guid>
-            <pubDate>Mon, 31 Jul 2023 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트, 구글, 앤스로픽, 오픈AI 등 4개 회사가 모여 인공지능(AI) 안전 표준을 개발하기로 한 가운데, 마이크로소프트가 6가지 추가 약속을 제시하며 분위기 잡기에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
