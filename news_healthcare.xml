@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 00:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예산‧인력 부족에 '의료정보' 위험 노출…사용자 경유한 사이버 공격 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230731160350</link>
+            <guid>https://zdnet.co.kr/view/?no=20230731160350</guid>
+            <pubDate>Tue, 01 Aug 2023 02:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[아크로니스는 의료기관이 정보 관리에 어려움을 겪게 만드는 주요 보안 취약요인을 발표했다. 의료서비스 제공자가 다루는 개인 건강정보(PHI)는 민감한 정보를 다수 포함하고 있어,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['당뇨병' 효과적으로 관리하는 동네 의원 4465개소]]></title>
             <link>https://zdnet.co.kr/view/?no=20230731170246</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230726175214</guid>
             <pubDate>Wed, 26 Jul 2023 09:10:35 GMT</pubDate>
             <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심뇌혈관질환 전문의 진료협력체계 지원…복지부, 인적 네트워크 시범사업]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230726171401</link>
-            <guid>https://zdnet.co.kr/view/?no=20230726171401</guid>
-            <pubDate>Wed, 26 Jul 2023 09:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[심뇌혈관질환 전문의들의 진료협력체계 지원하는 인적 네트워크 시범사업이 진행된다. 보건복지부는 26일 2023년 제13차 건강보험정책심의위원회(이하 건정심)를 열고 ▲심뇌혈관질환...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
