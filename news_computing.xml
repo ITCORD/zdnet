@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 06:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI로 내 기업 잘 아는 '자비스' 만든다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230801154835</link>
+            <guid>https://zdnet.co.kr/view/?no=20230801154835</guid>
+            <pubDate>Tue, 01 Aug 2023 07:10:43 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI)은 사업에 효율적으로 쓰여야 의미 있습니다. 다큐브는 AI 문자, 음성만으로 직원 업무를 실질적으로 돕는 비서 '자비스' 역할을 합니다. 실무자는 기업 내 어려...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 새 웹 표준 WEI, 광고차단 노린 기술인가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230801102735</link>
+            <guid>https://zdnet.co.kr/view/?no=20230801102735</guid>
+            <pubDate>Tue, 01 Aug 2023 07:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 새 웹 표준 '웹환경무결성(WEI)'을 공개하면서 논란에 휘말렸다. 광고수익을 보전하기 위해 광고차단기를 제거하려는 것 아니냐는 것이 비판의 골자다. 1일(현지시간) 실...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올거나이즈, '알리 LLM 앱 경진대회' 연다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230801104145</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230731154058</guid>
             <pubDate>Mon, 31 Jul 2023 07:09:39 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터 과학 및 인공지능(AI) 전문업체 알테어는 제품 개발 소프트웨어 회사 XLDyn의 모델 기반 시스템 엔지니어링(MBSE) 솔루션인 옴니브이(OmniV)를 인수했다고 31...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[달리기하는 IT프리랜서들···이랜서, 건강 증진 '910RUN챌린지' 발족]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230731153658</link>
-            <guid>https://zdnet.co.kr/view/?no=20230731153658</guid>
-            <pubDate>Mon, 31 Jul 2023 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[이랜서(대표 박우진)는 지난 7월 28일 반포종합운동장에서 '이랜서 910RUN챌린지' 발대식을 개최했다고 31일 밝혔다. '이랜서 910RUN챌린지'는 '이랜서 LEARN &amp;...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터스트림즈, '테라원 V4.0' 개발 완료···클라우드 사업 진출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230731152124</link>
-            <guid>https://zdnet.co.kr/view/?no=20230731152124</guid>
-            <pubDate>Mon, 31 Jul 2023 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)는 클라우드 사업 진출을 목표로 한 '테라원 V4.0(TeraONE V4.0) 플랫폼'의 개발을 완료, 기업을 대상으로 CDP 사업을 추진 중이라고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
