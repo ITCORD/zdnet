@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 23:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 00:54:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 어시스턴트, 생성 AI 기반으로 바뀐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230801090308</link>
+            <guid>https://zdnet.co.kr/view/?no=20230801090308</guid>
+            <pubDate>Tue, 01 Aug 2023 00:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 개인 AI 비서 '구글 어시스턴트'를 생성 AI 기술 기반으로 전환한다. 지난달 31일(현지시간) 액시오스에 따르면, 구글은 최근 직원들에게 보낸 이메일에서 챗GPT, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["사이버공격 1순위 아이덴티티, AI로 대응해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230731134554</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230730135512</guid>
             <pubDate>Sun, 30 Jul 2023 05:09:05 GMT</pubDate>
             <content:encoded><![CDATA[이노그리드(대표 김명진)는 연구개발(R&amp;D) 협력 파트너 및 차기 잠재 파트너들과 R&amp;D 협력 생태계를 강화하기 위한 네트워킹 행사를 28일 개최했다. '이노그리드 오픈 R&amp;D...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 앱 개발사의 개인정보 오용 '칼 관리' 한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230730045438</link>
-            <guid>https://zdnet.co.kr/view/?no=20230730045438</guid>
-            <pubDate>Sun, 30 Jul 2023 00:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 개인정보 보호 강화를 위해 개발사의 무단 정보수집을 제한하는 개발 조항을 발표했다. 29일(현지시간) XDR 등 외신에 따르면 애플은 앱 개발 중 특정 API를 사용한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
