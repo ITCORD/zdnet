@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 07:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 08:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가존클라우드, AWS 컨텍센터 파트너 자격 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802164942</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802164942</guid>
+            <pubDate>Wed, 02 Aug 2023 08:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[메가존클라우드가 아마존웹서비스(AWS) 컨택센터 솔루션 '아마존 커넥트' 서비스 딜리버리 파트너 자격을 취득했다고 2일 밝혔다. 아마존 커넥트는 별도의 프로그램 배포나 관리 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가장 쉬운 동영상편집기 '클립챔프' 기업용으로 나온다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230802143629</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801154835</guid>
             <pubDate>Tue, 01 Aug 2023 07:10:43 GMT</pubDate>
             <content:encoded><![CDATA["인공지능(AI)은 사업에 효율적으로 쓰여야 의미 있습니다. 다큐브는 AI 문자, 음성만으로 직원 업무를 실질적으로 돕는 비서 '자비스' 역할을 합니다. 실무자는 기업 내 어려...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 새 웹 표준 WEI, 광고차단 노린 기술인가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801102735</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801102735</guid>
-            <pubDate>Tue, 01 Aug 2023 07:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 새 웹 표준 '웹환경무결성(WEI)'을 공개하면서 논란에 휘말렸다. 광고수익을 보전하기 위해 광고차단기를 제거하려는 것 아니냐는 것이 비판의 골자다. 1일(현지시간) 실...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
