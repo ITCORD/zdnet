@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 04:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VM웨어, '카본 블랙 CNDR'로 클라우드 보안 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802093811</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802093811</guid>
+            <pubDate>Wed, 02 Aug 2023 05:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[VM웨어는 카본 블랙 확장 탐지 및 대응 솔루션(XDR)을 업데이트했다고 2일 밝혔다. 카본 블랙의 새로운 '클라우드 네이티브 탐지 및 대응(CNDR)'기능은 XDR 솔루션 확...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지니언스, 상반기 영업익 23.8억...최대실적 달성]]></title>
             <link>https://zdnet.co.kr/view/?no=20230802123656</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801134032</guid>
             <pubDate>Tue, 01 Aug 2023 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신기술협회(TTA, 회장 손승현)가 데이터 품질인증기관이 됐다. 1일 TTA는 과기정통부에서 지난달 데이터 품질인증기관으로 지정받았다고 밝혔다. 데이터 품질인증제도는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생성 AI 만난 포토샵, 빠진 이미지 다 그려 넣어주네]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801113425</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801113425</guid>
-            <pubDate>Tue, 01 Aug 2023 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[어도비가 이미지 생성 AI 모델 '파이어플라이'와 포토샵의 통합을 더 확장했다. 생성형 채우기보다 더 간편해진 확장 기능으로 이미지의 캔버스를 자연스럽게 재창조할 수 있게 됐다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
