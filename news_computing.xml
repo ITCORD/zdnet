@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 03:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 04:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니언스, 상반기 영업익 23.8억...최대실적 달성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802123656</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802123656</guid>
+            <pubDate>Wed, 02 Aug 2023 04:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[지니언스(대표 이동범)는 연결기준 2023년 상반기 매출액이 전년대비 19.5% 증가한 183.8억 원, 영업이익은 31.5% 증가한 23.8억 원을 기록했다고 2일 공시했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 생성 AI 기반 영상 자동 요약 테스트 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20230802093618</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801113425</guid>
             <pubDate>Tue, 01 Aug 2023 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[어도비가 이미지 생성 AI 모델 '파이어플라이'와 포토샵의 통합을 더 확장했다. 생성형 채우기보다 더 간편해진 확장 기능으로 이미지의 캔버스를 자연스럽게 재창조할 수 있게 됐다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부 "페이퍼리스 촉진"···모바일 음성고지 등 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801100340</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801100340</guid>
-            <pubDate>Tue, 01 Aug 2023 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[#디지털 전환에 여력이 부족한 중소기업과 영세 매장에서 간단한 절차만으로 손쉽게 전자영수증을 도입할 수 있게 된다. 기존 전자영수증은 대형마트 또는 대기업 계열 편의점·커피숍 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
