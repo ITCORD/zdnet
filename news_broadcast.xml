@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 06:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 07:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 방송사 시청점유율 1위는 KBS, 22.334%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802151550</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802151550</guid>
+            <pubDate>Wed, 02 Aug 2023 07:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 방송사 시청점유율 산정 결과 KBS가 22.334%를 기록한 것으로 나타났다. 방송통신위원회는 2일 텔레비전 방송 채널을 운영하는 총 301개 방송사업자의 2022년도 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["인터넷으로 계약 소포 요금 확인하세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230802101337</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230731155822</guid>
             <pubDate>Mon, 31 Jul 2023 08:13:52 GMT</pubDate>
             <content:encoded><![CDATA[KT 차기 대표이사를 선임하기 위한 최종 면접이 이번 주에 진행된다. 박윤영 전 KT 기업부문장을 비롯해 김영섭 전 LG CNS 사장과 차상균 서울대 교수가 3인 후보가 심층면...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "사내 임직원 해커톤으로 고객가치혁신"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230731162144</link>
-            <guid>https://zdnet.co.kr/view/?no=20230731162144</guid>
-            <pubDate>Mon, 31 Jul 2023 08:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 '고객가치혁신 임직원 해커톤 경진대회'를 처음으로 열었다고 31일 밝혔다. 해커톤의 1등은 간편하게 와인 취향을 기록하고 다른 사람들과 비교하며 자신의 와인 취향...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
