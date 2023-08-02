@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 23:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 00:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, AI 기반 APT 공격 차단 이메일 서비스 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802093927</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802093927</guid>
+            <pubDate>Wed, 02 Aug 2023 00:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 국내 보안솔루션 기업들과 이메일 해킹의 효과적인 방어를 위한 AI 지능형지속위협(APT) 분석 기술에 기반을 둔 'KT 시큐어 지능형위협메일 차단' 서비스를 출시했다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북-인스타그램에도 AI 챗봇 생긴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802082056</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802082056</guid>
+            <pubDate>Wed, 02 Aug 2023 00:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 인공지능(AI) 챗봇을 올해 9월 공개한다. 메타 자회사인 페이스북, 인스타그램 등 소셜네트워크서비스(SNS)에 탑재할 계획이다. 파이낸셜타임스 등 주요 외신은 1일(현...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나무기술-클로잇, 클라우드 네이티브 플랫폼 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230801180935</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801093724</guid>
             <pubDate>Tue, 01 Aug 2023 02:09:38 GMT</pubDate>
             <content:encoded><![CDATA[IT 실무자 절반 이상이 노코드·로우코드 플랫폼 도입에 긍정적이라는 보고서 결과가 나왔다. 티맥스클라우드(대표 진승의)는 지난달 온라인에서 '디지털 전환을 가속시키는 노코드 로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지 생성AI, 챗GPT 성능 뛰어넘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801085354</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801085354</guid>
-            <pubDate>Tue, 01 Aug 2023 02:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지 생성 인공지능(AI)이 챗GPT 성능을 이겼다. 업스테이지는 자사가 개발한 생성 AI 모델이 국제 머신러닝 플랫폼 허깅페이스의 '오픈 거대언어모델(LLM) 리더보드'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 어시스턴트, 생성 AI 기반으로 바뀐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801090308</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801090308</guid>
-            <pubDate>Tue, 01 Aug 2023 00:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 개인 AI 비서 '구글 어시스턴트'를 생성 AI 기술 기반으로 전환한다. 지난달 31일(현지시간) 액시오스에 따르면, 구글은 최근 직원들에게 보낸 이메일에서 챗GPT, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
