@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 02:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 03:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["인터넷으로 계약 소포 요금 확인하세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230802101337</link>
+            <guid>https://zdnet.co.kr/view/?no=20230802101337</guid>
+            <pubDate>Wed, 02 Aug 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부는 성공적인 이커머스 셀러를 꿈꾸는 중소상공인을 위한 우체국 계약소포 간편견적 서비스를 4일부터 제공한다고 밝혔다. 우체국 계약소포 이용을 희망하는 고객은 발송 물량...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중고폰 매입 '셀로', AI로 단말 상태 검수]]></title>
             <link>https://zdnet.co.kr/view/?no=20230802102247</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230731162144</guid>
             <pubDate>Mon, 31 Jul 2023 08:13:52 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 '고객가치혁신 임직원 해커톤 경진대회'를 처음으로 열었다고 31일 밝혔다. 해커톤의 1등은 간편하게 와인 취향을 기록하고 다른 사람들과 비교하며 자신의 와인 취향...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT넥스알, AI 능력평가 시험문제 출제...수험서도 감수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230731161445</link>
-            <guid>https://zdnet.co.kr/view/?no=20230731161445</guid>
-            <pubDate>Mon, 31 Jul 2023 08:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[KT넥스알은 인공지능(AI) 능력평가 AICE 시험문제를 출제하고 수험서 감수를 진행했다고 31일 밝혔다. AICE 시험 라인업이 기존 3종에서 5종으로 확대되며 새롭게 개편된...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
