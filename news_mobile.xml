@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 08:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 09:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블 '신의 탑: 새로운 세계', 출시 후 첫 업데이트 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230803173251</link>
+            <guid>https://zdnet.co.kr/view/?no=20230803173251</guid>
+            <pubDate>Thu, 03 Aug 2023 09:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블(대표 권영식, 도기욱)은 3일 수집형 애니메이션 RPG '신의 탑: 새로운 세계(신의 탑)' 첫 번째 업데이트로 신규 캐릭터 SSR '화련'과 메인 스토리 '에반켈의 잠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가전용 AI 반도체 직접 개발하는 LG전자...왜?]]></title>
             <link>https://zdnet.co.kr/view/?no=20230803105356</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230802075728</guid>
             <pubDate>Wed, 02 Aug 2023 01:55:03 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 해외진출 협력사들과 함께 생산성 개선 우수사례와 실행방안을 논의하고 제조경쟁력 강화에 나섰다. LG전자는 지난 27일 베트남 하이퐁 법인에서 해외진출 협력사들과 함께...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ 손잡은 브이디컴퍼니, 서빙로봇 일등 입지 다진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802083026</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802083026</guid>
-            <pubDate>Wed, 02 Aug 2023 00:48:24 GMT</pubDate>
-            <content:encoded><![CDATA[이동통신사와 서빙로봇 업계 간 협력 구도가 강화되고 있다. 국내 서빙로봇 보급 대수 1위인 브이디컴퍼니가 LG유플러스에 푸두봇 공급을 공식화하면서 업계도 주목하고 있다. 브이디...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
