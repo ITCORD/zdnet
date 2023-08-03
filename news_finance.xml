@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 금융</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 25 Jul 2023 05:12:07 GMT</pubDate>
             <content:encoded><![CDATA[한국은행 금융통화위원회(금통위)가 기준금리를 현재 수준인 3.50%으로 유지하기로 결정했습니다. 2월부터 이번달까지 4회 연속 동결한 상황입니다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웰컴저축은행, 업계 최초 '뱅크아이디' 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230803133828</link>
+            <guid>https://zdnet.co.kr/view/?no=20230803133828</guid>
+            <pubDate>Thu, 03 Aug 2023 05:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[웰컴저축은행은 블록체인 기반 분산신원인증(DID) 은행 공동 인증 서비스인 뱅크아이디를 업계 최초로 도입한다고 3일 밝혔다. DID란 디지털환경 상에서 개인의 신분을 확인하는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경남은행 직원 수백억 횡령, '컴플라이언스' 도마]]></title>
@@ -205,14 +213,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801130128</guid>
             <pubDate>Tue, 01 Aug 2023 05:13:08 GMT</pubDate>
             <content:encoded><![CDATA[상상인저축은행이 업계 최초로 '9개월 회전정기예금' 상품을 출시했다고 1일 밝혔다. 상상인저축은행의 '9개월 회전정기예금' 가입시 별도의 조건없이 연 이율 4.2%를 제공한다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더 높아진 은행 신용대출 문턱, 카드론 늘었다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801114616</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801114616</guid>
-            <pubDate>Tue, 01 Aug 2023 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[최근 은행업계에서 카드론 잔액이 늘고 있다. 은행업계에서 고신용자에게 조차 신용대출을 내어주는 기준을 종전보다 더 엄격하게 적용하고 있기 때문으로 해석된다. 1일 여신금융협회에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

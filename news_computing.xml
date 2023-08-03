@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고학수 "글로벌 AI 개인정보 규범, 우리가 주도"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230803122621</link>
+            <guid>https://zdnet.co.kr/view/?no=20230803122621</guid>
+            <pubDate>Thu, 03 Aug 2023 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[“인공지능(AI)이 산업을 이끌어갈 핵심 기술로 자리잡음과 동시에 개인정보 침해 가능성이 높아지는 등 우려의 시각도 나타나고 있다. 전 세계적으로 법적인 불확실성을 해소하기 위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두나무, 청소년 금융교육 '두니버스' 상반기 성과 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230803105832</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230802093811</guid>
             <pubDate>Wed, 02 Aug 2023 05:09:32 GMT</pubDate>
             <content:encoded><![CDATA[VM웨어는 카본 블랙 확장 탐지 및 대응 솔루션(XDR)을 업데이트했다고 2일 밝혔다. 카본 블랙의 새로운 '클라우드 네이티브 탐지 및 대응(CNDR)'기능은 XDR 솔루션 확...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지니언스, 상반기 영업익 23.8억...최대실적 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802123656</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802123656</guid>
-            <pubDate>Wed, 02 Aug 2023 04:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[지니언스(대표 이동범)는 연결기준 2023년 상반기 매출액이 전년대비 19.5% 증가한 183.8억 원, 영업이익은 31.5% 증가한 23.8억 원을 기록했다고 2일 공시했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

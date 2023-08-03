@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["중국, 미성년자 스마트폰 하루 2시간만 이용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230803132957</link>
+            <guid>https://zdnet.co.kr/view/?no=20230803132957</guid>
+            <pubDate>Thu, 03 Aug 2023 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 어린이들의 스마트폰 이용 시간을 좀 더 제한하는 방안을 추진하고 있다. 중국 사이버공간관리국(CAC)이 18세 미만 어린이들의 스마트폰 이용 시간을 규제하는 법안을 제안...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이폰14 이용자, 배터리 성능저하 불만 호소]]></title>
             <link>https://zdnet.co.kr/view/?no=20230803085155</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230731194943</guid>
             <pubDate>Wed, 02 Aug 2023 00:48:24 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 10~20대 선호도가 놓은 아이폰을 견제하기 위해 밀고 있는 제품은 갤럭시Z플립 시리즈다. 일명 '폰꾸(폰 꾸미기)' 열풍을 연 것도 플립 시리즈였다. 11일 국내 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 올 가을 아이패드미니7 출시 유력"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802085812</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802085812</guid>
-            <pubDate>Wed, 02 Aug 2023 00:48:24 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올 가을에 아이패드 미니7을 내놓을 것이란 전망이 제기됐다고 애플인사이더가 1일(현지시간) 애플 관련 소식통인 쉬림트애플프로를 인용 보도했다. 쉬림프애플프로는 애플이 올...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
