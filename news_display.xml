@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 02:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 02:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 전력 효율성 높인 100V 내압 듀얼 MOSFET 5기종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230803105934</link>
+            <guid>https://zdnet.co.kr/view/?no=20230803105934</guid>
+            <pubDate>Thu, 03 Aug 2023 02:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[로옴 주식회사(이하 로옴)는 100V 내압의 MOSFET 2개를 단일 패키지에 탑재한 듀얼 MOSFET을 개발했다고 3일 밝혔다. MOSFET은 금속 산화물 기반의 반도체 전계...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주성엔지니어링, 2분기 적자 전환…"3분기엔 반등 예상"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230803102557</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801085640</guid>
             <pubDate>Tue, 01 Aug 2023 00:53:32 GMT</pubDate>
             <content:encoded><![CDATA[국내 OSAT(반도체외주패키징테스트) 업체 LB세미콘은 '진성리텍' 인수를 통해 배터리 재생 시장에 진출한다고 1일 밝혔다. 동시에 진성리텍의 사명을 'LB리텍'으로 변경했다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LB세미콘, 진성리텍 인수...배터리 재생 시장 진출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801084958</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801084958</guid>
-            <pubDate>Tue, 01 Aug 2023 00:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[LB세미콘이 진성리텍을 인수를 통해 배터리 재생 시장에 진출한다고 1일 밝혔다. 이번 인수는 LB세미콘 60%, LB 40%를 합쳐 100% 지분 인수했다. 사명은 'LB리텍'...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
