@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 03:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 04:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 개인·기업용 'AI 활용법' 강좌 개설]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230804102637</link>
+            <guid>https://zdnet.co.kr/view/?no=20230804102637</guid>
+            <pubDate>Fri, 04 Aug 2023 04:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[구글은 개인과 기업을 위한 인공지능(AI) 활용법 강좌를 무료로 공개했다. 테크크런치 등 외신은 2일 구글이 AI 비즈니스 활성화를 위해 AI 활용법 강좌 10개를 개설한다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 생성AI '오디오 크래프트'...글만으로 작사·작곡]]></title>
             <link>https://zdnet.co.kr/view/?no=20230804090145</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230803111702</guid>
             <pubDate>Thu, 03 Aug 2023 02:26:02 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)가 데이터웨어하우스(DW) 서비스인 레드시프트에서 '아파치 아이스버그'를 지원하기로 했다. 이에 따라 AWS는 스노우플레이크, 클라우데라, 구글 등 주요 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한글과컴퓨터, 노숙인·소외계층 의료 사업 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230803102253</link>
-            <guid>https://zdnet.co.kr/view/?no=20230803102253</guid>
-            <pubDate>Thu, 03 Aug 2023 02:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터그룹(대표 김상철)이 라파엘나눔재단의 노숙인과 국내외 소외계층 의료지원사업을 후원한다고 3일 밝혔다. 한컴그룹과 라파엘나눔재단은 3일 서울 성북구 라파엘센터에서 변성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
