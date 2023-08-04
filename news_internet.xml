@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 05:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 06:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 광고·콘텐츠·커머스 빠짐없이 성장…"미래 무기는 AI"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230804135915</link>
+            <guid>https://zdnet.co.kr/view/?no=20230804135915</guid>
+            <pubDate>Fri, 04 Aug 2023 06:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 커머스, 콘텐츠 성장에 힘입어 역대 분기 최대 실적을 거뒀다. 이달 말 거대언어모델(LLM) '하이퍼클로바X' 출시를 앞둔 가운데 네이버는 인공지능(AI)과 강점인 버...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버 "쿠팡 대비 배송 열위…'일요배송' 도입 고려"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230804110753</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230803094147</guid>
             <pubDate>Thu, 03 Aug 2023 01:57:44 GMT</pubDate>
             <content:encoded><![CDATA[카카오톡 프로필에 인스타그램 스토리와 유사한 기능이 생길 예정이다. 공유한 콘텐츠가 24시간 이후에 사라지는 기능이다. 3일 카카오 2분기 실적발표 컨퍼런스콜에서 홍은택 카카오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 배달앱 이용자 500만↓…서비스 다각화·배달비 할인 경쟁↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802211152</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802211152</guid>
-            <pubDate>Thu, 03 Aug 2023 01:57:44 GMT</pubDate>
-            <content:encoded><![CDATA[치솟은 배달비와 엔데믹 전환으로 배달앱 시장이 위축되자, 플랫폼 3사가 위기 돌파를 위해 서비스 다각화 등 타개책 마련에 나선다. 묶음·단건 배달 분야에서 저렴한 배달비와 빠른...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
