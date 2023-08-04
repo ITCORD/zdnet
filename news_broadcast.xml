@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 23:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 00:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT CEO 최종후보, 오늘 오후 공개된다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230804073737</link>
+            <guid>https://zdnet.co.kr/view/?no=20230804073737</guid>
+            <pubDate>Fri, 04 Aug 2023 00:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[차기 KT 대표이사(CEO)를 고르기 위한 최종 면접 심사가 4일 진행된다. 장기간의 경영 공백 상황을 빠르게 수습할 수 있는 회사에 대한 남다른 이해도와 내부 쇄신을 무리 없...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["2030 몰린 갤럭시 폴더블, 69%가 Z플립5 선택"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230803090156</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801085538</guid>
             <pubDate>Tue, 01 Aug 2023 00:53:01 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 CJ CGV와 알뜰폰 이용자 대상으로 영화 관람권과 콤보 할인권을 제공하는 'CGV요금제'를 출시했다고 1일 밝혔다. CGV요금제는 LG유플러스 망을 사용하는 중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 기술로 지자체 탄소 배출 감축 돕는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801084453</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801084453</guid>
-            <pubDate>Tue, 01 Aug 2023 00:53:01 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 AI 기반 위치분석 플랫폼 '리트머스'를 활용해 특정 지역의 버스와 지하철 등 대중교통과 자가용 차량의 탄소 배출량을 분석하는 기술을 상용화했다고 1일 밝혔다. 탄...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
