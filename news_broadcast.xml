@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 04:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 2분기 영업이익 5761억원...전년비 25.5%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230807134139</link>
+            <guid>https://zdnet.co.kr/view/?no=20230807134139</guid>
+            <pubDate>Mon, 07 Aug 2023 05:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 한국채택 국제회계기준 지난 2분기 매출 6조5천475억원, 영업이익 5천761억원을 기록했다고 7일 공시했다. 매출과 영업이익은 각각 전년 동기 대비 3.7%, 25.5...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대한독립 헌신 외국인 기념우표 나온다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230807090802</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230802151550</guid>
             <pubDate>Wed, 02 Aug 2023 07:10:03 GMT</pubDate>
             <content:encoded><![CDATA[지난해 방송사 시청점유율 산정 결과 KBS가 22.334%를 기록한 것으로 나타났다. 방송통신위원회는 2일 텔레비전 방송 채널을 운영하는 총 301개 방송사업자의 2022년도 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["인터넷으로 계약 소포 요금 확인하세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802101337</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802101337</guid>
-            <pubDate>Wed, 02 Aug 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[우정사업본부는 성공적인 이커머스 셀러를 꿈꾸는 중소상공인을 위한 우체국 계약소포 간편견적 서비스를 4일부터 제공한다고 밝혔다. 우체국 계약소포 이용을 희망하는 고객은 발송 물량...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
