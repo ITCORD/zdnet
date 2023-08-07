@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 06:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 전기차 무선 충전 서비스 상용화하나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230807132323</link>
+            <guid>https://zdnet.co.kr/view/?no=20230807132323</guid>
+            <pubDate>Mon, 07 Aug 2023 06:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 무선 충전 기술 업체를 인수하면서 이를 실제 구현하는 최초의 자동차 업체로 기록될 지 주목된다. 미국 전기차 전문 매체 인사이드EVs는 테슬라가 독일 전기차(EV) 무...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹, 잼버리 행사에 국내 기업 중 가장 먼저 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230807130354</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230801161208</guid>
             <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
             <content:encoded><![CDATA[영국에서 태동해 인도에서 생산과 제조하는 이륜차 업체 로얄엔필드가 '가장 순수한 크루징'을 내건 슈퍼메테오650 모델을 지난달 28일 경기 하남 로얄엔필드코리아 본사에서 공식 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차-삼성, 두번째 맞손…B2B 시장 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230801143715</link>
-            <guid>https://zdnet.co.kr/view/?no=20230801143715</guid>
-            <pubDate>Tue, 01 Aug 2023 07:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹 글로벌 소프트웨어센터 포티투닷이 기존 지자체 자율주행셔틀 실증하던 서비스를 기업 간 거래(B2B)로 확장한다. 특히 포티투닷이 B2B 서비스를 삼성화재에 제공하게...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

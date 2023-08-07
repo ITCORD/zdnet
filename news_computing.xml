@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 06:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우드 빅3, 생성 AI에 언제 웃을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230807142027</link>
+            <guid>https://zdnet.co.kr/view/?no=20230807142027</guid>
+            <pubDate>Mon, 07 Aug 2023 06:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[3대 클라우드 클라우드 업체의 분기 실적이 발표됐다. 아마존웹서비스(AWS), 구글클라우드, 마이크로소프트 등 모두 매출이 성장했다. 다만, 구글클라우드를 제외하고 두 회사는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] "해킹 시도 하루 137만 건"…국정원이 말하는 위협실태]]></title>
             <link>https://zdnet.co.kr/view/?no=20230807101540</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230804135947</guid>
             <pubDate>Fri, 04 Aug 2023 05:09:21 GMT</pubDate>
             <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 신한투자증권(대표 김상태)의 차세대 시스템 도입 사업에서 서비스형 데스크톱(DaaS) 구축을 수행한다고 4일 밝혔다. 신한투자증권은 작년...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EDB, 케빈 댈러스 CEO 선임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230804135243</link>
-            <guid>https://zdnet.co.kr/view/?no=20230804135243</guid>
-            <pubDate>Fri, 04 Aug 2023 05:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[EDB는 케빈 댈러스 최고경영자(CEO)를 선임했다고 4일 밝혔다. 그는 CEO 겸 이사회 멤버로 합류했으며, 전 CEO 였던 EDB 에드 보야진은 이사회 의장으로 이사회에 남...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
