@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 06:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 07:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴·NXP 등 'RISC-V' 합작사 설립...脫 Arm 시동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230807140422</link>
+            <guid>https://zdnet.co.kr/view/?no=20230807140422</guid>
+            <pubDate>Mon, 07 Aug 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[영국 Arm이 독주하고 있는 반도체 설계자산(IP) 시장에서 지각변동이 예상된다. 퀄컴을 비롯한 인피니언, NXP, 노르딕세미컨덕터, 보쉬 등 5개 반도체 기업이 Arm에 도전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·SK, AI에서 차세대 낸드 성장 동력 찾는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230807114256</link>
+            <guid>https://zdnet.co.kr/view/?no=20230807114256</guid>
+            <pubDate>Mon, 07 Aug 2023 07:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자, SK하이닉스 등이 낸드플래시 업계 주요 행사인 '플래시 메모리 서밋(FMS) 2023'에 참석한다. 양사는 이번 행사에서 AI(인공지능)을 미래 낸드 시장의 주요 성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 AMAT "반도체 공급기업, 인도 투자 원해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230807095522</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230803085739</guid>
             <pubDate>Thu, 03 Aug 2023 00:49:49 GMT</pubDate>
             <content:encoded><![CDATA[해외 주요 AI 반도체 팹리스 스타트업 텐스토렌트(Tenstorrent)가 국내 주요 기업으로부터 투자 유치를 받았다. 텐스토렌트는 현대자동차그룹과 삼성카탈리스트펀드(SCF)가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차량용 디스플레이 'OLED' 존재감 커진다…삼성D·LGD가 주도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802115013</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802115013</guid>
-            <pubDate>Wed, 02 Aug 2023 08:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[차량용 디스플레이 내 OLED(유기발광다이오드) 패널 비중이 향후 가파르게 확대될 것으로 전망된다. 차량용 OLED 시장은 삼성디스플레이·LG디스플레이 등 국내 업체들이 주도하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[판 더 커진다…내년 'HBM3E' 반도체 양산 불꽃 경쟁]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230802143225</link>
-            <guid>https://zdnet.co.kr/view/?no=20230802143225</guid>
-            <pubDate>Wed, 02 Aug 2023 07:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 수요가 급격히 증가함에 따라 내년에 고대역폭메모리(HBM) 시장이 더욱 확대되고 차세대 제품인 'HBM3E'가 주류로 떠오른다는 전망이 나왔다. 현재 삼성전자와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
