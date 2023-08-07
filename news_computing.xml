@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 02:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 사이버 보안 대회, 세계적 수준"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230805092553</link>
+            <guid>https://zdnet.co.kr/view/?no=20230805092553</guid>
+            <pubDate>Mon, 07 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원이 개최한 '2023 사이버공격방어대회'(CCE)에서 카이스트 '구스'팀 종합우승을 차지했다. '국민안전을 위한 사이버안보'를 주제로 열린 이번 대회는 480개 팀이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그라운드엑스, '월렛커넥트' 기능 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230807112111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230804090145</guid>
             <pubDate>Fri, 04 Aug 2023 01:59:01 GMT</pubDate>
             <content:encoded><![CDATA[메타가 텍스트만으로 노래를 작곡하고, 새로운 소리를 만들 수 있는 생성AI를 공개했다. 3일(현지시간) 더레지스터 등 외신에 따르면 메타는 소리 생성AI '오디오크래프트'를 출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS, 2분기 실적 예상치 상회…"생성 AI 덕"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230804100104</link>
-            <guid>https://zdnet.co.kr/view/?no=20230804100104</guid>
-            <pubDate>Fri, 04 Aug 2023 01:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)가 사상 최대 매출을 기록하며 업계 리더 입지를 유지했다. 다만 더 치열해진 경쟁 속에 성장률 둔화가 이어지고 있다. AWS는 생성 AI 덕분에 매출과 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
