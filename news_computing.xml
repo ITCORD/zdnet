@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 03:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 04:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터프라이즈, AI 컨택센터 스타트업 사례 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230808122958</link>
+            <guid>https://zdnet.co.kr/view/?no=20230808122958</guid>
+            <pubDate>Tue, 08 Aug 2023 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 카카오 i 커넥트 센터 SaaS형을 활용한 국내 스타트업 사례를 8일 공개했다. 패션 커머스 플랫폼 '브랜디'와 인테리어 시공 플랫폼 '하우스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["생성 AI 잠재력을 끌어내기 위한 AWS의 지원 전략"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230808122339</link>
+            <guid>https://zdnet.co.kr/view/?no=20230808122339</guid>
+            <pubDate>Tue, 08 Aug 2023 04:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[“아마존웹서비스(AWS)는 생성 AI의 잠재력을 해제하기 위한 전략으로 네가지 핵심 요소에 집중한다. 전세계에서 가장 쉽게 모델을 구축하는 방법을 제공하고, 생성 AI의 훈련과...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코어닥스-한림국제대학원대, '가상자산 컴플라이언스' 교육 운영]]></title>
             <link>https://zdnet.co.kr/view/?no=20230808103406</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230807114940</guid>
             <pubDate>Mon, 07 Aug 2023 05:09:39 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드가 아마존웹서비스(AWS) 앰배서더 1명을 더 배출했다. 메가존클라우드는 백소정 클라우드테크놀로지센터 매니저가 AWS 앰배서더 자격을 획득했다고 7일 발표했다. 사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["한국 사이버 보안 대회, 세계적 수준"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230805092553</link>
-            <guid>https://zdnet.co.kr/view/?no=20230805092553</guid>
-            <pubDate>Mon, 07 Aug 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 개최한 '2023 사이버공격방어대회'(CCE)에서 카이스트 '구스'팀 종합우승을 차지했다. '국민안전을 위한 사이버안보'를 주제로 열린 이번 대회는 480개 팀이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그라운드엑스, '월렛커넥트' 기능 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230807112111</link>
-            <guid>https://zdnet.co.kr/view/?no=20230807112111</guid>
-            <pubDate>Mon, 07 Aug 2023 02:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[그라운드엑스(대표 양주일)는 자체 가상자산 지갑 '클립'에서 '월렛커넥트' 기능을 지원한다고 7일 밝혔다. 월렛커넥트는 블록체인 지갑과 디앱을 연결하는 프로토콜이다. 다양한 블...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
