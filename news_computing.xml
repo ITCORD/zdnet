@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 09:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 10:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대표 교체 통할까…고팍스, VASP 변경 신고서 접수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230808172334</link>
+            <guid>https://zdnet.co.kr/view/?no=20230808172334</guid>
+            <pubDate>Tue, 08 Aug 2023 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 고팍스가 세계 최대 가상자산 거래소 바이낸스에 인수된 뒤 사실상 당국의 허가를 받기 위한 절차를 다시 추진한다. 고팍스는 최근 대표이사를 한국인으로 변경한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈, AI 컨택센터 스타트업 사례 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230808122958</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230807101540</guid>
             <pubDate>Mon, 07 Aug 2023 05:09:39 GMT</pubDate>
             <content:encoded><![CDATA[최근 국가정보원이 국내 사이버 위협 실태와 하반기 위협 전망을 발표했습니다. 그동안 사이버위협 관련 자료는 대외비로 취급하며 공개하지 않고 있었는데요. 공개하게 된 이유는 전방...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드, 5번째 'AWS 앰배서더' 배출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230807114940</link>
-            <guid>https://zdnet.co.kr/view/?no=20230807114940</guid>
-            <pubDate>Mon, 07 Aug 2023 05:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드가 아마존웹서비스(AWS) 앰배서더 1명을 더 배출했다. 메가존클라우드는 백소정 클라우드테크놀로지센터 매니저가 AWS 앰배서더 자격을 획득했다고 7일 발표했다. 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
