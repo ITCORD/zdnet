@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 07:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 08:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 CPU서 정보 유출 보안 취약점 '다운폴' 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230809164303</link>
+            <guid>https://zdnet.co.kr/view/?no=20230809164303</guid>
+            <pubDate>Wed, 09 Aug 2023 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 PC·서버용 프로세서에서 비밀번호나 암호화 키 등 민감한 정보를 빼돌릴 수 있는 보안 취약점이 드러났다. 구글 프로젝트 제로 팀 소속 전문가가 최근 발견한 이 문제는 대용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위 위원장, 개인정보보호 전공생과 첫 소통]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230809162050</link>
+            <guid>https://zdnet.co.kr/view/?no=20230809162050</guid>
+            <pubDate>Wed, 09 Aug 2023 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[고학수 개인정보보호위원회 위원장이 개인정보보호 전공 대학생들과 처음으로 만났다. 서울여대 개인정보보호과 학생 30명은 9일 서울정부청사 소개 개인정보위를 찾았다. 미래 개인정보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[교직원 보호 위한 안심서비스 속속 등장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230809153827</link>
+            <guid>https://zdnet.co.kr/view/?no=20230809153827</guid>
+            <pubDate>Wed, 09 Aug 2023 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[교직원 보호를 위한 안심서비스들이 주목받고 있다. 교직원은 해당 서비스를 통해 교권 보호와 안전한 환경 속에서 일할 수 있을 전망이다. 지난 서초구 교사 사망사건을 계기로 정부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[급증하는 사이버위협, 民官 여전한 개인정보보호 불감]]></title>
             <link>https://zdnet.co.kr/view/?no=20230806150036</link>
@@ -20,7 +44,7 @@
             <link>https://zdnet.co.kr/view/?no=20230809150555</link>
             <guid>https://zdnet.co.kr/view/?no=20230809150555</guid>
             <pubDate>Wed, 09 Aug 2023 07:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[국내외 인공지능(AI) 빅테크가 'AI 레드팀' 중요성 강조에 나섰다. 이는 미국 기업뿐 아니라 국내에서도 동일한 추세다. 일반적으로 레드팀은 소프트웨어(SW) 보안을 강화해 ...]]></content:encoded>
+            <content:encoded><![CDATA[국내외 인공지능(AI) 빅테크들이 'AI 레드팀'에 많은 공을 들이고 있다. 미국 기업뿐 아니라 국내 기업들도 비슷한 행보를 보이고 있다. 일반적으로 레드팀은 소프트웨어(SW)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809084044</guid>
             <pubDate>Wed, 09 Aug 2023 00:48:15 GMT</pubDate>
             <content:encoded><![CDATA["제품(SW) 품질이 확실히 좋아집니다." 신현강 와이즈넛 PQA실 실장(이사)은 국내 SW기업이 SP(소프트웨어 프로세스)인증을 받아야 하는 이유를 이 같이 밝혔다. 와이즈넛...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대표 교체 통할까…고팍스, VASP 변경 신고서 접수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808172334</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808172334</guid>
-            <pubDate>Tue, 08 Aug 2023 10:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 고팍스가 세계 최대 가상자산 거래소 바이낸스에 인수된 뒤 사실상 당국의 허가를 받기 위한 절차를 다시 추진한다. 고팍스는 최근 대표이사를 한국인으로 변경한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, AI 컨택센터 스타트업 사례 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808122958</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808122958</guid>
-            <pubDate>Tue, 08 Aug 2023 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 카카오 i 커넥트 센터 SaaS형을 활용한 국내 스타트업 사례를 8일 공개했다. 패션 커머스 플랫폼 '브랜디'와 인테리어 시공 플랫폼 '하우스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["생성 AI 잠재력을 끌어내기 위한 AWS의 지원 전략"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808122339</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808122339</guid>
-            <pubDate>Tue, 08 Aug 2023 04:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[“아마존웹서비스(AWS)는 생성 AI의 잠재력을 해제하기 위한 전략으로 네가지 핵심 요소에 집중한다. 전세계에서 가장 쉽게 모델을 구축하는 방법을 제공하고, 생성 AI의 훈련과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 07:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 08:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 CPU서 정보 유출 보안 취약점 '다운폴' 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230809164303</link>
+            <guid>https://zdnet.co.kr/view/?no=20230809164303</guid>
+            <pubDate>Wed, 09 Aug 2023 08:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 PC·서버용 프로세서에서 비밀번호나 암호화 키 등 민감한 정보를 빼돌릴 수 있는 보안 취약점이 드러났다. 구글 프로젝트 제로 팀 소속 전문가가 최근 발견한 이 문제는 대용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로옴, 콘티넨탈로부터 '2022 올해의 공급사' 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230809151611</link>
+            <guid>https://zdnet.co.kr/view/?no=20230809151611</guid>
+            <pubDate>Wed, 09 Aug 2023 08:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 콘티넨탈 AG(이하 콘티넨탈)로부터 '2022 올해의 공급사'를 수상했다고 9일 밝혔다. 콘티넨탈은 2008년부터 고객 만족도 및 품질, 공급, 인게...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['국산화율 80% 달성'...K-디스플레이 소부장, 혁신 기술 대거 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230809143841</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230808131900</guid>
             <pubDate>Tue, 08 Aug 2023 05:09:46 GMT</pubDate>
             <content:encoded><![CDATA[대학생들의 참신한 아이디어로 '한국디스플레이산업전시회(K-Display) 2023'를 홍보한다. 한국디스플레이산업협회는 'K-디스플레이 2023 대학생 서포터즈 발대식'을 8일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, '친환경 PCB' 도입해 전자폐기물 감축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808112450</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808112450</guid>
-            <pubDate>Tue, 08 Aug 2023 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언 테크놀로지스는 천연 섬유와 무할로겐 폴리머 기반의 재활용 가능 생분해성 PCB(인쇄 회로 보드) 서브스트레이트인 '솔루보드(Soluboard)'를 도입한다고 8일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 구글 '픽셀워치2'에 OLED 패널 공급 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808090046</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808090046</guid>
-            <pubDate>Tue, 08 Aug 2023 05:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 구글 '픽셀워치2'에 OLED 패널을 공급한다는 관측이 나왔다. 8일 업계에 따르면 구글이 오는 10월 '메이드 바이 구글' 이벤트에서 공개하는 2세대 스마트워...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
