@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 15:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, 매일유업에 공정거래협약 '최우수' 등급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230809183956</link>
+            <guid>https://zdnet.co.kr/view/?no=20230809183956</guid>
+            <pubDate>Wed, 09 Aug 2023 15:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 2022년도 대리점 분야 공정거래협약 평가에서 매일유업이 최우수등급을 받았다고 9일 밝혔다. 공정거래협약 평가는 공급업자와 대리점 간 거래에서 공정 거래법령 준...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/21/014847050f920041147a1f083c99787f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드-액토즈, 미르2·3 라이선스 계약 체결...5천억 규모]]></title>
             <link>https://zdnet.co.kr/view/?no=20230809215355</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230809204815</guid>
             <pubDate>Wed, 09 Aug 2023 12:18:50 GMT</pubDate>
             <content:encoded><![CDATA[한국수력원자력(대표 황주호)은 제6호 태풍 '카눈'이 10일 남부지방으로 상륙할 것으로 예상됨에 따라 CEO 주관 긴급 상황점검 회의를 진행하는 등 전국 원자력발전소와 수력·양...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/09/8f8fbcee61f39f2e05b2df2e31837fd0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카페24, 2분기 영업익 37억4천800만원…흑자전환]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809164303</guid>
             <pubDate>Wed, 09 Aug 2023 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[인텔 PC·서버용 프로세서에서 비밀번호나 암호화 키 등 민감한 정보를 빼돌릴 수 있는 보안 취약점이 드러났다. 구글 프로젝트 제로 팀 소속 전문가가 최근 발견한 이 문제는 대용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 상반기 매출 9천257억...배그모바일 인도-신작 성과 기대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809165503</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809165503</guid>
-            <pubDate>Wed, 09 Aug 2023 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤이 '배틀그라운드 모바일'의 인도 서비스 재개와 다양한 장르의 신작을 통해 추가 성장에 나설 것으로 부여 주목을 받고 있다. 이 회사의 올 상반기 실적은 지난해 대비 주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
