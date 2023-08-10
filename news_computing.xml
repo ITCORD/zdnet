@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 03:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 04:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 엔비디아 H100 GPU 서비스 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810115925</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810115925</guid>
+            <pubDate>Thu, 10 Aug 2023 04:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 애저에서 제공하는 AI 인프라 서비스에 엔비디아 H100 텐서코어 GPU 기반 가상머신을 출시했다. 마이크로소프트는 최근 애저 AI 인프라에 엔비디아의 최신 하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['VM웨어 NSX', 국정원 보안기능 확인서 취득]]></title>
             <link>https://zdnet.co.kr/view/?no=20230810092146</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809120941</guid>
             <pubDate>Wed, 09 Aug 2023 05:09:35 GMT</pubDate>
             <content:encoded><![CDATA[솔트룩스(대표 이경일)는 '솔트룩스 인공지능 컨퍼런스 2023(SAC 2023)'를 다음 달 7일 서울 코엑스 오디토리움과 온라인에서 개최한다고 9일 밝혔다. 올해 17회째를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠로, 납품단가 연동제 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809092127</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809092127</guid>
-            <pubDate>Wed, 09 Aug 2023 05:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[엠로(대표 송재민)가 납품단가 연동제를 위한 솔루션을 출시했다고 9일 밝혔다. 전 세계적으로 공급망 위기가 확대되고 원자재 가격 상승이 이어짐에 따라 중소기업과 영세업체들의 부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
