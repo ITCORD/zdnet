@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 07:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 08:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD 라이젠 프로세서 보안 취약점 '인셉션' 주의보]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810145411</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810145411</guid>
+            <pubDate>Thu, 10 Aug 2023 08:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 10월 이후 현재까지 출시된 AMD 라이젠·에픽(EPYC)·스레드리퍼에 영향을 미치는 보안 취약점인 '인셉션'(Inception)이 최근 발견돼 주목된다. 스위스 취...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[韓 vs 臺, 애플 첫 'OLED 아이패드' 기판 두고 격돌]]></title>
             <link>https://zdnet.co.kr/view/?no=20230810103354</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809085445</guid>
             <pubDate>Wed, 09 Aug 2023 00:48:41 GMT</pubDate>
             <content:encoded><![CDATA[8일(현지시간) 엔비디아는 미국 로스앤젤레스에서 열린 '시그래프 2023' 행사에서 신규 AI반도체인 'GH200(그레이스 호퍼 슈퍼칩)'를 내년 2분기부터 양산한다고 밝혔다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arm, 9월 美 나스닥 상장 추진...삼성·애플 투자할 듯]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809083712</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809083712</guid>
-            <pubDate>Wed, 09 Aug 2023 00:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[일본 소프트뱅크 그룹 산하 영국 반도체 설계자산(IP) 기업 Arm이 오는 9월 미국 나스닥 시장에 상장할 계획이다. Arm의 미국 증시 상장과 함께 삼성전자와 애플, 인텔 등...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
