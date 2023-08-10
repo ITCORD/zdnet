@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 00:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 02:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['VM웨어 NSX', 국정원 보안기능 확인서 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810092146</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810092146</guid>
+            <pubDate>Thu, 10 Aug 2023 02:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[VM웨어는 'VM웨어 NSX'가 한국정보통신기술협회(TTA) 국가정보원 보안적합성 평가용 보안기능 확인서를 취득했다고 10일 밝혔다. 보한적합성 검증은 국가 및 공공기관이 도입...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SEC, '리플≠증권' 법원 판단에 항소 요청]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810095505</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810095505</guid>
+            <pubDate>Thu, 10 Aug 2023 02:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 가상자산 리플(XRP)을 증권으로 볼 수 없다는 소송 결과에 불복, 항소를 요청했다. 다수 외신에 따르면 SEC는 9일(현지시간) 항소 의사를 담...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[앤트로픽, LLM '클로드' 보급 버전 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20230810084906</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809092127</guid>
             <pubDate>Wed, 09 Aug 2023 05:09:35 GMT</pubDate>
             <content:encoded><![CDATA[엠로(대표 송재민)가 납품단가 연동제를 위한 솔루션을 출시했다고 9일 밝혔다. 전 세계적으로 공급망 위기가 확대되고 원자재 가격 상승이 이어짐에 따라 중소기업과 영세업체들의 부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, 웹크롤러 'GPT봇' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809093839</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809093839</guid>
-            <pubDate>Wed, 09 Aug 2023 01:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 GPT 언어모델 학습에 필요한 데이터를 수집하는 새 웹크롤러를 공개했다. 인터넷에 공개된 데이터를 찾아 대규모언어모델(LLM)로 부어넣는 과정을 단순화한 툴이다. 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인프랩, '인프런'으로 IT 배움 장벽 낮춘다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808141312</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808141312</guid>
-            <pubDate>Wed, 09 Aug 2023 01:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[인프랩이 IT 학습 장벽을 낮추기 위해 나섰다. 앞으로 IT 온라인 수강 과목 범위와 관련 행사를 더 확대할 방침이다. 인프랩은 IT 강좌 플랫폼 '인프런'을 운영하는 기업이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
