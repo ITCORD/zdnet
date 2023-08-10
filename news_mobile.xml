@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 08:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 비전 프로 외장 배터리 이름은 '매직 배터리']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230810172650</link>
+            <guid>https://zdnet.co.kr/view/?no=20230810172650</guid>
+            <pubDate>Thu, 10 Aug 2023 09:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 혼합현실(MR) 헤드셋 '비전 프로'의 외장 배터리 이름이 공개됐다. IT매체 맥루머스는 9일(현지시간) 애플의 TV 운영체제 'tvOS' 베타 5에서 발견된 소스 코드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[계란물 붓고 라이터로 지지고…기상천외 고문 버텨낸 플립5·폴드5]]></title>
             <link>https://zdnet.co.kr/view/?no=20230810110901</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809025156</guid>
             <pubDate>Wed, 09 Aug 2023 00:48:23 GMT</pubDate>
             <content:encoded><![CDATA[중국 기업들이 잇따라 반도체 사업 철수를 선언하고 있다. 8일 중국 언론 난두완차이서에 따르면 스마트폰 기업 오포(OPPO)에 이어 중국 기업 '싱지메이주'가 반도체 자체 설계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 구글 '픽셀워치2'에 OLED 패널 공급 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808090046</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808090046</guid>
-            <pubDate>Tue, 08 Aug 2023 05:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 구글 '픽셀워치2'에 OLED 패널을 공급한다는 관측이 나왔다. 8일 업계에 따르면 구글이 오는 10월 '메이드 바이 구글' 이벤트에서 공개하는 2세대 스마트워...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
