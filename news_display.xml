@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 00:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 01:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지멘스, AWS와 IC·전자설계 분야 전략적 협업 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811092905</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811092905</guid>
+            <pubDate>Fri, 11 Aug 2023 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어, 지멘스 EDA 사업부는 AWS(아마존웹서비스)와의 전략적 협력 합의서(SCA)를 확대한다고 11일 밝혔다. 지멘스와 AWS는 IC·전자 설...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中 빅테크 기업, 엔비디아 AI 칩 50억 달러치 사재기...왜?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811090157</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811090157</guid>
+            <pubDate>Fri, 11 Aug 2023 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[중국 인터넷 빅테크 기업들이 미국 반도체 기업 엔비디아로부터 50억 달러(6조6천억 원) 상당의 AI 반도체를 주문하기 위해 서두르고 있다. 이는 미국 정부가 중국에 첨단반도체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 세계 최고 용량 'LPDDR5X D램' 中오포에 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811090725</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811090725</guid>
+            <pubDate>Fri, 11 Aug 2023 01:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 업계 최고 용량의 모바일 D램 양산에 성공했다. 해당 제품은 중국 주요 스마트폰 제조사인 오포의 플래그십 스마트폰에 납품한 것으로 나타났다. SK하이닉스는 스마트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[첨단공정 막힌 中, 반도체 레거시 장비에 투자 집중]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811071554</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809110302</guid>
             <pubDate>Wed, 09 Aug 2023 02:28:37 GMT</pubDate>
             <content:encoded><![CDATA[SKC의 반도체 소재 자회사 SK앱솔릭스가 올 3분기 미국 반도체 지원법을 신청할 예정이다. SK앱솔릭스는 이를 통해 현재 미국 조지아주에 건설 중인 글라스기판 양산 준비를 가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 DSP 세미파이브, 상해 사무소 개소...중국 진출 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809105839</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809105839</guid>
-            <pubDate>Wed, 09 Aug 2023 02:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계 솔루션 회사 세미파이브가 중국 상해 지역에 사무소를 개설하고 중국 시장 진출을 본격화 한다. 9일 세미파이브는 "이번 중국 사무소 신설을 통해 세미파이브는 삼성 파...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔-삼성전자, 4세대 제온 기반 vRAN 협업]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809103546</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809103546</guid>
-            <pubDate>Wed, 09 Aug 2023 02:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[인텔과 삼성전자는 9일 인텔 vRAN 부스트 내장 4세대 제온 스케일러블 프로세서 기반 vRAN 솔루션 출시를 위해 협력한다고 밝혔다. vRAN(가상화 무선접속망)은 기지국 접...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 생성형AI·데이터센터 겨냥한 '차세대 SSD' 대거 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809092319</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809092319</guid>
-            <pubDate>Wed, 09 Aug 2023 01:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 데이터센터, 생성형AI 서버를 겨냥한 차세대 메모리 제품을 대거 공개했다. 삼성전자는 8일부터 10일까지(현지시간) 미국 캘리포니아주 산타클라라 컨벤션 센터에서 열린...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

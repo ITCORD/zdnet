@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 00:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 01:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플 마이크로 LED, 아이폰·비전프로·애플카에 확대 적용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811083440</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811083440</guid>
+            <pubDate>Fri, 11 Aug 2023 01:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 직접 개발 중인 마이크로LED 디스플레이가 애플워치 뿐 아니라 향후 아이폰, 비전 프로 헤드셋, 애플카 애플리케이션 등 다양한 분야에 적용될 것이라는 전망이 나왔다. 맥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 폴더블폰 '갤럭시Z5' 특별한 케이스 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811083642</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809090826</guid>
             <pubDate>Wed, 09 Aug 2023 01:58:23 GMT</pubDate>
             <content:encoded><![CDATA[애플이 증강현실(AR) 기술과 매핑 기술을 적용해 아이폰으로 애플카나 우버 등 승차공유 차량의 위치를 식별하는 기술을 연구 중이다. IT매체 애플인사이더는 8일(현지시간) 애플...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰15 'USB-C 포트' 추정 사진 유출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809082719</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809082719</guid>
-            <pubDate>Wed, 09 Aug 2023 00:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[올 가을 출시되는 아이폰15 시리즈의 USB-C 포트로 추정되는 사진이 유출됐다. IT매체 맥루머스는 8일(현지시간) 엑스(예전 트위터) 사용자 @lipilipsi, @John...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
