@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 04:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, USB-C 지원 아이폰14도 내놓을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811113239</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811113239</guid>
+            <pubDate>Fri, 11 Aug 2023 05:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 올 가을 내놓을 아이폰15 시리즈에 라이트닝 포트 대신 USB-C 포트를 적용할 것으로 알려진 가운데, USB-C 지원 아이폰14 출시 가능성도 제기됐다. IT매체 BG...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["애플 마이크로 LED, 아이폰·비전프로·애플카에 확대 적용"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811083440</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809083948</guid>
             <pubDate>Wed, 09 Aug 2023 01:58:23 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 TV 소프트웨어(SW) 분야 우수 인재 양성과 확보를 위한 협업을 확대한다. LG전자는 지난 8일 서강대학교와 컴퓨터공학과 내 '커넥티드 플랫폼 이론과 실제(캡스톤디...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, AR 기술로 차량 위치 쉽게 찾아줄까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809090826</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809090826</guid>
-            <pubDate>Wed, 09 Aug 2023 01:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 증강현실(AR) 기술과 매핑 기술을 적용해 아이폰으로 애플카나 우버 등 승차공유 차량의 위치를 식별하는 기술을 연구 중이다. IT매체 애플인사이더는 8일(현지시간) 애플...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
