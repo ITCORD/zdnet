@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드포스 "서버용 구형 DDR4 메모리 모듈 재활용 증가세"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811160212</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811160212</guid>
+            <pubDate>Fri, 11 Aug 2023 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[최근 DDR4 메모리 모듈 단가가 하락을 거듭하자 제조 원가를 낮추기 위해 기존 서버용 메모리 모듈을 재활용하는 사례가 등장했다. 반도체 관련 시장조사업체 트렌드포스는 "기존 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰 침체기...삼성·미디어텍·퀄컴, '차량용 반도체'로 눈 돌린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811151055</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809133527</guid>
             <pubDate>Wed, 09 Aug 2023 06:15:34 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 세계 최대 적층인 321단 낸드 샘플을 8일(미국 현지시간) 전격 공개하면서 메모리 시장에서 낸드 적층 경쟁이 다시 불 붙고 있다. 삼성전자는 오는 2030년까지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK엔펄스, 3분기 'CMP 슬러리' 상용화 돌입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809130315</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809130315</guid>
-            <pubDate>Wed, 09 Aug 2023 05:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[SKC의 자회사 SKC엔펄스가 올 3분기부터 반도체 사업 내 주요 신제품인 CMP 슬러리의 상용화에 들어간다. 9일 SKC는 2023년 2분기 경영실적 발표회를 열고 회사의 반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

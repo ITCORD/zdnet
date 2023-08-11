@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화웨이, 올해 상반기 매출 56.8兆...전년비 3.1%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811175253</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811175253</guid>
+            <pubDate>Fri, 11 Aug 2023 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이가 올해 상반기 매출 3천109억 위안(약 56조7천828억원)을 기록했다고 11일 밝혔다. 이는 지난해 같은 기간 대비 3.1% 늘어난 수치다. 이 기간 순이익률은 15...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위, 온라인 살인예고 중점 모니터링]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811162448</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809164244</guid>
             <pubDate>Wed, 09 Aug 2023 08:12:56 GMT</pubDate>
             <content:encoded><![CDATA[중고폰을 거래할 때 개인정보 유출에 대한 우려를 덜어낼 수 있는 법안이 발의됐다. 국회 과학기술정보방송통신위원회 변재일 의원(더불어민주당)이 중고 휴대폰을 사고 팔 때 개인정보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이종호 장관 "디지털 서비스, 태풍 상황에도 중단없이 제공돼야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809111032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809111032</guid>
-            <pubDate>Wed, 09 Aug 2023 02:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 9일 “태풍 등 어떤 어려운 상황에서도 중단 없이 서비스가 제공될 수 있도록 철저히 대비해 달라”고 밝혔다. 이 장관은 이날 중앙우체국에서 6호...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

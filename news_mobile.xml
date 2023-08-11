@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드포스 "서버용 구형 DDR4 메모리 모듈 재활용 증가세"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811160212</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811160212</guid>
+            <pubDate>Fri, 11 Aug 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[최근 DDR4 메모리 모듈 단가가 하락을 거듭하자 제조 원가를 낮추기 위해 기존 서버용 메모리 모듈을 재활용하는 사례가 등장했다. 반도체 관련 시장조사업체 트렌드포스는 "기존 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코웨이, 물맛·편의성 강화한 '엘리트 정수기' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811154346</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809102909</guid>
             <pubDate>Wed, 09 Aug 2023 01:58:23 GMT</pubDate>
             <content:encoded><![CDATA[벤큐코리아가 오는 9월 10일까지 아이케어 LED 스탠드 구매자 대상 행사를 진행한다. 대상 제품은 위트 스탠드·마인드듀오 등 2종이다. 두 제품 모두 깜빡임을 줄이는 IC 칩...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 픽셀폰에 UDC 특허 출원…삼성·애플과 차별화 모색]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809085137</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809085137</guid>
-            <pubDate>Wed, 09 Aug 2023 01:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 픽셀 스마트폰 카메라에 새로운 기술을 적용하기 위해 준비 중이다. 8일(현지시간) 포브스에 따르면 구글은 유럽 특허청에 '언더 디스플레이 카메라(UDC)의 시스템 및 장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
