@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 07:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 08:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방심위, 온라인 살인예고 중점 모니터링]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230811162448</link>
+            <guid>https://zdnet.co.kr/view/?no=20230811162448</guid>
+            <pubDate>Fri, 11 Aug 2023 08:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신심의위원회는 지난 신림·서현역 흉기난동 사건 이후 확산되고 있는 '온라인 살인예고' 정보에 대해 중점 모니터링을 실시한다고 11일 밝혔다. 최근 온라인상 무분별한 살인예...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 청소년 미디어 페스티벌 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811102507</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809111032</guid>
             <pubDate>Wed, 09 Aug 2023 02:27:59 GMT</pubDate>
             <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 9일 “태풍 등 어떤 어려운 상황에서도 중단 없이 서비스가 제공될 수 있도록 철저히 대비해 달라”고 밝혔다. 이 장관은 이날 중앙우체국에서 6호...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 카눈 한반도 관통...정부, 디지털서비스 대응점검]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809093803</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809093803</guid>
-            <pubDate>Wed, 09 Aug 2023 00:48:06 GMT</pubDate>
-            <content:encoded><![CDATA[한반도를 겨눈 6호 태풍 카눈(KHANUN) 북상에 따라 정부가 주요 디지털서비스의 대응 점검에 나섰다. 9일 과학기술정보통신부에 따르면 이종호 장관 주재로 주요 기간통신사업자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
