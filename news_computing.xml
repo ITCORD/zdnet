@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 02:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 03:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록체인 수수료, 카드결제 가능할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230813103334</link>
+            <guid>https://zdnet.co.kr/view/?no=20230813103334</guid>
+            <pubDate>Sun, 13 Aug 2023 03:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 신용카드 회사 비자가 블록체인에서 트랜잭션을 일으킬 때 발생하는 수수료(가스비)를 신용카드로 결제하는 방법을 실험했다. 블록체인 매체 코인데스크에 따르면 비자는 이더리움...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이스트소프트, 2분기 흑자전환…"AI 휴먼 서비스 덕"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230811173023</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230810180521</guid>
             <pubDate>Thu, 10 Aug 2023 09:15:23 GMT</pubDate>
             <content:encoded><![CDATA[통합결제 비즈니스 전문 기업 다날은 KB국민카드 사내벤처팀 '하프하프'와 공동 개발한 후불결제(BNPL) 서비스 '소비it'을 개시했다고 10일 밝혔다. 다날과 KB국민카드는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸 메타버스 '네모월드' 티저 영상 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810174848</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810174848</guid>
-            <pubDate>Thu, 10 Aug 2023 09:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 빗썸 자회사 빗썸메타(대표 조현식)는 자사의 초실감형 메타버스 '네모월드' 티저 영상을 10일 공개했다. 공개된 티저 영상은 네모월드 유튜브 채널에 등록됐...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
