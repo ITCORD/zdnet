@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 03:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 04:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 LLM 만들자"…업스테이지, '1T 클럽' 발족]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230814121520</link>
+            <guid>https://zdnet.co.kr/view/?no=20230814121520</guid>
+            <pubDate>Mon, 14 Aug 2023 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[업스테이지(대표 김성훈)는 '1T 클럽'을 발족한다고 14일 밝혔다. 한국어 데이터 부족 문제를 해결하고 한국형 거대언어모델(LLM) 개발을 위해서다. 1T 클럽은 텍스트, 책...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플리토, '2023 국제방송영상마켓' 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230814110903</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230811080547</guid>
             <pubDate>Fri, 11 Aug 2023 01:40:43 GMT</pubDate>
             <content:encoded><![CDATA[트웰브랩스(대표 이재성)는 시장조사업체 CB인사이트의 '세계 50대 생성 인공지능(AI) 스타트업'에 국내 기업으로 유일하게 선정됐다고 11일 밝혔다. CB인사이트는 생성 AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 현장 근로 지원하는 신규 AI 기능 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230811094304</link>
-            <guid>https://zdnet.co.kr/view/?no=20230811094304</guid>
-            <pubDate>Fri, 11 Aug 2023 01:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 현장 근로자의 업무 생산성과 효율성 개선을 위해 현장 근로 환경에 특화된 새로운 AI 기능을 최근 공개했다. 현장 근로자는 전체 인력의 가장 큰 비중을 차지한다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
