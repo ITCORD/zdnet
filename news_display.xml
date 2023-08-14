@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 06:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자, P1 낸드라인 '셧다운' 추진…감산·원가절감 초강수]]></title>
+            <title><![CDATA[ISC, 2분기 매출 360억원…"비메모리 비중 70% 달성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230814135100</link>
+            <guid>https://zdnet.co.kr/view/?no=20230814135100</guid>
+            <pubDate>Mon, 14 Aug 2023 06:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 테스트 부품 전문업체 아이에스시(ISC)는 2분기 연결기준 매출 360억원, 영업이익 65억원, 영업이익률 18%를 달성했다고 14일 밝혔다. 전년동기 대비 매출은 34...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, P1 낸드라인 일부 가동 중단…감산·원가절감 초강수]]></title>
             <link>https://zdnet.co.kr/view/?no=20230814095933</link>
             <guid>https://zdnet.co.kr/view/?no=20230814095933</guid>
             <pubDate>Mon, 14 Aug 2023 05:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 메모리반도체 불황을 타개하기 위한 초강수 전략을 꺼내 들었다. 최근 구세대 낸드를 생산하는 평택캠퍼스 제1공장(P1)의 가동을 아예 멈추는 방안을 검토하고 있는 것으...]]></content:encoded>
+            <content:encoded><![CDATA[삼성전자가 메모리반도체 불황을 타개하기 위한 초강수 전략을 꺼내 들었다. 최근 구세대 낸드를 생산하는 평택캠퍼스 제1공장(P1) 내 일부 설비 가동을 멈추기로 한 것으로 파악됐...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230810094752</guid>
             <pubDate>Thu, 10 Aug 2023 02:03:21 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 고성능 모바일 D램 시장 확대에 속도를 낸다. 올해 초 세계 최고속의 LPDDR5T를 개발한 데 이어, 주요 고객사로부터 해당 D램에 대한 성능 검증을 받는 데 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 스냅드래곤 X75 모뎀으로 7.5Gbps 다운로드 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810095629</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810095629</guid>
-            <pubDate>Thu, 10 Aug 2023 02:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 10일 스냅드래곤 X75 5G 모뎀-RF 시스템을 이용해 6GHz 이하 주파수 대역에서 7.5Gbps 다운로드 속도를 구현했다고 밝혔다. 퀄컴은 지난 2월 MWC 202...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
