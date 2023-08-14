@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 10:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 11:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구현모 전 KT 대표 퇴직금 19억원 수령]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230814192440</link>
+            <guid>https://zdnet.co.kr/view/?no=20230814192440</guid>
+            <pubDate>Mon, 14 Aug 2023 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 말 사임한 구현모 전 KT 대표가 올해 상반기 보수 총액 29억9천500만원을 수령한 것으로 나타났다. 보수 가운데 19억3천500만원은 퇴직급여다. 14일 공개된 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맵모빌리티, 2분기 매출 688억원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230814165535</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230810152342</guid>
             <pubDate>Thu, 10 Aug 2023 07:09:26 GMT</pubDate>
             <content:encoded><![CDATA[남영진 KBS 이사장이 방송통신위원회가 진행하는 자신의 해임 절차에 김효재 위원장 직무대행이 관여하지 못하게 해달라고 10일 신청했다. KBS 이사회에 따르면 남 이사장의 법률...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ENM, 2분기 영업손실 304억원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810151318</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810151318</guid>
-            <pubDate>Thu, 10 Aug 2023 07:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[CJ ENM은 한국채택국제회계 연결기준 지난 2분기 매출 1조489억원, 영업손실 304억원을 기록했다고 10일 공시했다. 엔터테인먼트 사업은 경기 침체에 따른 광고 시장 위축...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
