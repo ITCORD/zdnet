@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 02:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 클라우드 게임 베타테스트 시동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230815112534</link>
+            <guid>https://zdnet.co.kr/view/?no=20230815112534</guid>
+            <pubDate>Tue, 15 Aug 2023 03:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 클라우드 게임 서비스 테스트에 나선다. 그동안 모바일 게임 개발 스튜디오를 구축하면서 게임 관련 서비스 개발에 집중한 넷플릭스가 기기와 플랫폼을 가리지 않는 클라우드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 정부, 2천만 가구에 인터넷 비용 지원했다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230815105342</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230811112102</guid>
             <pubDate>Fri, 11 Aug 2023 05:09:06 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 위기 타개책으로 내놓은 계정공유 단속과 광고 요금제가 다른 OTT 서비스로 확대될 전망이다. 월트디즈니는 10일 분기 실적을 발표하면서 OTT 서비스인 디즈니+에 광...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 대전과 과학융합 스타트업 3곳 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230811092002</link>
-            <guid>https://zdnet.co.kr/view/?no=20230811092002</guid>
-            <pubDate>Fri, 11 Aug 2023 00:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 대전광역시, 대전창조경제센터, 신한금융그룹과 함께 대전 지역 유망 스타트업을 지원하기 위한 '대전창업열린공간 디브릿지 지원사업'을 추진해 앞으로 성장을 지원할 과학융합 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
