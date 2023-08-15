@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 01:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 02:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["소프트뱅크, IPO 앞둔 Arm 잔여 지분 인수 협상”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230815104423</link>
+            <guid>https://zdnet.co.kr/view/?no=20230815104423</guid>
+            <pubDate>Tue, 15 Aug 2023 02:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[소프트뱅크 그룹이 영국 반도체 IP 기업인 Arm의 지분 25%를 매입하는 방안을 논의하고 있다는 소식이다. Arm 75%의 지분을 가진 소프트뱅크가 비전펀드1가 가진 나머지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네패스라웨, 세계 최초 'PI 대체' FOPLP 패키지 상용화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230814173810</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230810145411</guid>
             <pubDate>Thu, 10 Aug 2023 08:14:09 GMT</pubDate>
             <content:encoded><![CDATA[2020년 10월 이후 현재까지 출시된 AMD 라이젠·에픽(EPYC)·스레드리퍼에 영향을 미치는 보안 취약점인 '인셉션'(Inception)이 최근 발견돼 주목된다. 스위스 취...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 vs 臺, 애플 첫 'OLED 아이패드' 기판 두고 격돌]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810103354</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810103354</guid>
-            <pubDate>Thu, 10 Aug 2023 06:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 첫 OLED(유기발광다이오드) 아이패드를 두고 한국·대만 기판업체 간 치열한 경쟁이 전개되고 있다. 주요 패널 공급처 중 하나인 삼성디스플레이가 당초 국내 협력사 두 곳...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
