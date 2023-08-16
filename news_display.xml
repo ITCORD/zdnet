@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 23:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 00:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, ASML 지분 매각해 3조원대 현금 확보...반도체 투자 지속]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230816082459</link>
+            <guid>https://zdnet.co.kr/view/?no=20230816082459</guid>
+            <pubDate>Wed, 16 Aug 2023 00:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 네덜란드 반도체 장비업체 ASML 지분을 일부 매각해 3조원을 현금화했다. 최근 반도체 업황 부진으로 실적이 부진한 가운데 미래 투자에 쓸 재원을 마련하기 위한 조치...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["소프트뱅크, IPO 앞둔 Arm 잔여 지분 인수 협상”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230815104423</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230810151724</guid>
             <pubDate>Thu, 10 Aug 2023 09:15:55 GMT</pubDate>
             <content:encoded><![CDATA[애플이 내달 9월 공개하는 신제품 아이폰15 시리즈에 국내 기업의 부품이 대거 탑재될 예정이다. 이에 국내 부품업체의 하반기 실적 개선에 대한 기대감이 커졌다. 애플은 오는 9...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD 라이젠 프로세서 보안 취약점 '인셉션' 주의보]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230810145411</link>
-            <guid>https://zdnet.co.kr/view/?no=20230810145411</guid>
-            <pubDate>Thu, 10 Aug 2023 08:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 10월 이후 현재까지 출시된 AMD 라이젠·에픽(EPYC)·스레드리퍼에 영향을 미치는 보안 취약점인 '인셉션'(Inception)이 최근 발견돼 주목된다. 스위스 취...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
