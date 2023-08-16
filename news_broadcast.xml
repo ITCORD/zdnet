@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 09:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 10:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이동관, YTN 상대 3억원 손해배상 소송]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230816181916</link>
+            <guid>https://zdnet.co.kr/view/?no=20230816181916</guid>
+            <pubDate>Wed, 16 Aug 2023 10:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[이동관 방송통신위원장 후보자는 YTN의 우장균 대표이사 등 임직원을 상대로 법원에 3억원의 손해배상청구 민사 소송과 증거보전을 신청하고, 마포경찰서에 형사 고소장을 접수했다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 ICT 국정감사 이슈는 'AI·인재양성·자율규제']]></title>
             <link>https://zdnet.co.kr/view/?no=20230816164728</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230814192440</guid>
             <pubDate>Mon, 14 Aug 2023 11:08:21 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 말 사임한 구현모 전 KT 대표가 올해 상반기 보수 총액 29억9천500만원을 수령한 것으로 나타났다. 보수 가운데 19억3천500만원은 퇴직급여다. 14일 공개된 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵모빌리티, 2분기 매출 688억원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230814165535</link>
-            <guid>https://zdnet.co.kr/view/?no=20230814165535</guid>
-            <pubDate>Mon, 14 Aug 2023 08:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[티맵모빌리티가 연결기준 2분기 매출 688억900만원을 기록했다고 14일 밝혔다. 전년 대비 52.5% 증가한 수치다. 사업 자회사들의 합산 분기 영업이익은 흑자전환에 성공했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
