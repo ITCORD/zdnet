@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 00:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 01:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 사업 재편 나선 현대차, 몸집 줄이고 온라인 판매 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230814153647</link>
+            <guid>https://zdnet.co.kr/view/?no=20230814153647</guid>
+            <pubDate>Wed, 16 Aug 2023 01:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 중국 시장 재편에 나섰다. 현대차는 지난 6월 열린 CEO 인베스터데이에서 중국 전략을 재조정하겠다고 밝혔는데, 핵심은 5개였던 현지 생산공장을 2개로 축소하고 라...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 중국서 'FSD 완전 자율주행' 준비 정황]]></title>
             <link>https://zdnet.co.kr/view/?no=20230816012354</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230809025315</guid>
             <pubDate>Wed, 09 Aug 2023 00:48:51 GMT</pubDate>
             <content:encoded><![CDATA[중국의 7월 친환경차 수출이 크게 늘어났다. 중국 언론 중신징웨이가 인용한 중국 승용차연석회의 데이터에 따르면 7월 중국 친환경차(순전기차+하이브리드) 수출량이 8만8천대를 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아 EV9, 후륜 구동전동기 기어장치 SW 설계 오류로 리콜]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230809080222</link>
-            <guid>https://zdnet.co.kr/view/?no=20230809080222</guid>
-            <pubDate>Tue, 08 Aug 2023 23:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 기아·메르세데스벤츠코리아·재규어랜드로버코리아·폭스바겐그룹코리아·한국지엠·지엠아시아퍼시픽지역본부·테슬라코리아·한국토요타자동차가 제작하거나 수입·판매한 21개 차종 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
