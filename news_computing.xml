@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위 "국민 주도 마이데이터 생태계 구축 박차”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230817115339</link>
+            <guid>https://zdnet.co.kr/view/?no=20230817115339</guid>
+            <pubDate>Thu, 17 Aug 2023 03:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회를 비롯한 정부부처가 국민 주도 마이데이터 시장 활성화를 위해 인프라와 제도 구축에 나선다. 17일 정부는 정부서울청사에서 비상경제장관회의 겸 수출투자대책회의를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생성 AI의 엔비디아 GPU 탈출은 가능할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230817111614</link>
+            <guid>https://zdnet.co.kr/view/?no=20230817111614</guid>
+            <pubDate>Thu, 17 Aug 2023 03:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI 챗GPT로 촉발된 생성 AI 열풍은 전 분야에 휘몰아쳤다. 사업 분야와 규모에 상관없이 생성 AI 기반 서비스를 개발하고 출시하려는 곳은 셀 수도 없을 정도다. 그러나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가트너 ”생성형 AI 기대감 최고조”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230817104503</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230816163538</guid>
             <pubDate>Wed, 16 Aug 2023 08:12:25 GMT</pubDate>
             <content:encoded><![CDATA[생성AI, 대규모 언어모델(LLM) 등 급격한 기술 발전으로 기업을 노린 사이버 위협이 더욱 거세지고 있다. 보안업체들은 단일 보안 솔루션만으로는 해결하기 어려운 현 상황을 해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NHN에듀, 디지털 교육 콘텐츠에 LMS 기능 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816155834</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816155834</guid>
-            <pubDate>Wed, 16 Aug 2023 08:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[엔에이치엔에듀(이하NHN에듀, 대표 여원동)는 주식회사 맑은소프트와 디지털 교육 콘텐츠 사업협력 강화를 위한 업무협약(MOU)을 체결했다고 16일 밝혔다. 맑은소프트는 자체 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[래블업, 거대 언어 모델 통합 개발 및 서비스 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816145154</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816145154</guid>
-            <pubDate>Wed, 16 Aug 2023 06:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[래블업은 지난 11일부터 13일까지 개최된 파이콘 한국 2023에서 자사의 AI 연구·개발 및 서비스 플랫폼 소프트웨어인 백엔드닷AI의 거대언어모델(LLM) 통합 개발 및 서비...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
