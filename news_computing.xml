@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 01:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 02:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가트너 ”생성형 AI 기대감 최고조”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230817104503</link>
+            <guid>https://zdnet.co.kr/view/?no=20230817104503</guid>
+            <pubDate>Thu, 17 Aug 2023 02:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 AI를 향한 산업계의 기대감이 최고조에 이른 것으로 관측됐다. 가트너는 '2023년 이머징 테크놀로지 하이프 사이클(Hype Cycle for Emerging Techn...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 탑재 어도비 익스프레스, 데스크톱 웹 버전 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230817103958</link>
+            <guid>https://zdnet.co.kr/view/?no=20230817103958</guid>
+            <pubDate>Thu, 17 Aug 2023 02:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[어도비는 생성 AI 기능을 갖춘 웹기반 콘텐츠 제작 애플리케이션 '어도비 익스프레스'의 데스크톱 웹용 버전을 정식 출시한다고 17일 밝혔다. 최신 버전의 어도비 익스프레스는 파...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EDB, 구글클라우드 GKE서 포스트그레SQL 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230817102805</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230816145154</guid>
             <pubDate>Wed, 16 Aug 2023 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA[래블업은 지난 11일부터 13일까지 개최된 파이콘 한국 2023에서 자사의 AI 연구·개발 및 서비스 플랫폼 소프트웨어인 백엔드닷AI의 거대언어모델(LLM) 통합 개발 및 서비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빌 게이츠 "AI 챗봇, 학생 숙제 검사에 유용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816141228</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816141228</guid>
-            <pubDate>Wed, 16 Aug 2023 06:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 창업자 빌 게이츠는 인공지능(AI) 챗봇이 학생 과제물 점검 업무에 특히 유용할 것이라고 주장했다. CNBC 등 외신은 15일(현지시간) 빌 게이츠가 자체 운영하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[SP인증 기업] 코난테크놀로지 "명품SW기업 되려면 꼭 받아야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816140441</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816140441</guid>
-            <pubDate>Wed, 16 Aug 2023 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA["SP인증을 받으면 제품 품질에 대한 고객 신뢰도 향상과 제안평가 가점, 개발 프로세스 단축 등의 효과가 있습니다. 인증받은 초기에는 어려운 부분도 있었지만 계속해 SP인증 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
