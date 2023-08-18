@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 21:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 22:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플 비전 프로, 스토리지 최대 용량 1TB”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230819065043</link>
+            <guid>https://zdnet.co.kr/view/?no=20230819065043</guid>
+            <pubDate>Fri, 18 Aug 2023 22:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 혼합현실(MR) 헤드셋 '비전 프로'의 스토리지 용량이 최대 1TB가 될 것이라는 보도가 나왔다. IT매체 나인투파이브맥은 17일(현지시간) IT팁스터 아이폰소프트(iP...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바디프랜드, 1인용 마사지소파 '파밀레' 누적 500대 판매]]></title>
             <link>https://zdnet.co.kr/view/?no=20230818173725</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817084334</guid>
             <pubDate>Thu, 17 Aug 2023 01:39:58 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 내년 선보일 갤럭시S24 울트라 카메라 성능이 전작보다 개선될 것이란 전망이 제기됐다. 16일(현지시간) 폰아레나는 유명 IT 팁스터 요게스 브라 트위터를 인용해 갤...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["아이폰15 데이터 전송 속도 빨라진다…새 칩 탑재"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817084342</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817084342</guid>
-            <pubDate>Thu, 17 Aug 2023 01:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[올 가을 출시될 예정인 일부 아이폰15 모델에 고속 데이터 전송을 위한 '선더볼트·USB4 리타이머'칩이 새롭게 탑재됐다는 소식이 나왔다. 충전기기 관련 정보를 제공하는 차저랩...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
