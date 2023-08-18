@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 04:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 05:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 생활 팁 주는 'AI 코치' 개발 중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818113047</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818113047</guid>
+            <pubDate>Fri, 18 Aug 2023 05:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 일상에서 팁이나 아이디어를 주는 '인공지능(AI) 코치'를 개발 중이다. 영국 가디언 등 주요 외신은 17일(현지시간) 구글 딥마인드팀이 일상에서 조언하는 AI 코치를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 국방부, 생성AI 테스크포스 설립]]></title>
             <link>https://zdnet.co.kr/view/?no=20230818093133</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817102805</guid>
             <pubDate>Thu, 17 Aug 2023 01:39:50 GMT</pubDate>
             <content:encoded><![CDATA[EDB는 구글 클라우드와 협력 관계를 강화해 관리형 쿠버네티스 서비스인 GKE에서 오픈소스 DBMS인 포스트그레SQL 제품을 사용할 수 있도록 지원한다고 17일 발표했다. 구글...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨어스토리지, 충북테크노파크 AI 개발 플랫폼 고도화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817102111</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817102111</guid>
-            <pubDate>Thu, 17 Aug 2023 01:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[퓨어스토리지코리아(대표 유재성)는 충청북도의 지역혁신거점기관인 충북테크노파크에 초고속 통합 파일 및 오브젝트 스토리지 플랫폼인 플래시블레이드를 공급했다고 17일 밝혔다. 충북테...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
