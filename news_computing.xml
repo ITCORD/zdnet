@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반복된 문제 해결할 공공SW사업 끝장 토론회 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818140607</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818140607</guid>
+            <pubDate>Fri, 18 Aug 2023 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[디지털플랫폼정부 위원회가 지난 몇 년간 대규모 차세대 공공소프트웨어(SW) 사업에서 반복적으로 발생한 오류를 해결하기 위한 끝장 토론회를 개최한다. 구축한 시스템 문제 해결에만...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생성AI·X·LK99…유행 타는 '밈코인' 투자 유의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818143137</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818143137</guid>
+            <pubDate>Fri, 18 Aug 2023 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[최근 주목받는 이슈 핵심 단어를 본딴 밈코인들이 잇따라 생성돼 투자자 주의가 요구된다. 밈코인이라는 특성상 이렇다 할 용도나 계획 없이 토큰이 발행되기 때문에 이슈에 대한 관심...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 생활 팁 주는 'AI 코치' 개발 중]]></title>
             <link>https://zdnet.co.kr/view/?no=20230818113047</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817104503</guid>
             <pubDate>Thu, 17 Aug 2023 02:13:02 GMT</pubDate>
             <content:encoded><![CDATA[생성형 AI를 향한 산업계의 기대감이 최고조에 이른 것으로 관측됐다. 가트너는 '2023년 이머징 테크놀로지 하이프 사이클(Hype Cycle for Emerging Techn...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 탑재 어도비 익스프레스, 데스크톱 웹 버전 정식 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817103958</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817103958</guid>
-            <pubDate>Thu, 17 Aug 2023 02:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[어도비는 생성 AI 기능을 갖춘 웹기반 콘텐츠 제작 애플리케이션 '어도비 익스프레스'의 데스크톱 웹용 버전을 정식 출시한다고 17일 밝혔다. 최신 버전의 어도비 익스프레스는 파...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EDB, 구글클라우드 GKE서 포스트그레SQL 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817102805</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817102805</guid>
-            <pubDate>Thu, 17 Aug 2023 01:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[EDB는 구글 클라우드와 협력 관계를 강화해 관리형 쿠버네티스 서비스인 GKE에서 오픈소스 DBMS인 포스트그레SQL 제품을 사용할 수 있도록 지원한다고 17일 발표했다. 구글...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

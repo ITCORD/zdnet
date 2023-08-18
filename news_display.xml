@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서버 투자 줄고 AI 투자 늘었다...삼성·SK하이닉스 HBM에 총력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818133018</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818133018</guid>
+            <pubDate>Fri, 18 Aug 2023 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[올해 전세계 서버 출하량이 또다시 하향 조정돼 전년 대비 6% 감소한다는 전망이 나왔다. 글로벌 경기 침체 장기화에 따라 서버 공급망 재고가 줄어들고 있지 않고 있기 때문이다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 TOP 반도체 장비업계, 시장 침체에도 실적 '견조']]></title>
             <link>https://zdnet.co.kr/view/?no=20230818102538</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230816103821</guid>
             <pubDate>Wed, 16 Aug 2023 02:14:47 GMT</pubDate>
             <content:encoded><![CDATA[▲"디스플레이 시장에서 OLED로의 전환이 가속화되고 있다. 지난해 IT 제품 내 OLED 침투율은 2%에 불과하지만, 향후 5년 내에는 5배 수준으로 높아질 전망이다" 16일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 전력밀도 높인 신규 트랜지스터 모듈 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816095636</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816095636</guid>
-            <pubDate>Wed, 16 Aug 2023 01:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언 테크놀로지스는 '1200V TRENCHSTOP IGBT7' 칩을 채택한 62mm 하프브리지 및 공통 이미터 모듈 제품군을 출시한다고 16일 밝혔다. 해당 제품군은 새로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
