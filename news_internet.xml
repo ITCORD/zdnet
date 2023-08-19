@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 22:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 23:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오 전·현직 대표 상반기 연봉 비교해보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818150233</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818150233</guid>
+            <pubDate>Sat, 19 Aug 2023 23:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[매년 사업보고서 발표 시즌마다 네이버와 카카오 경영진 연봉에 대한 관심이 뜨겁다. 카카오의 경우 경영진들이 스톡옵션을 행사하면서 IT 업계 연봉 1위를 차지하는 일이 빈번하다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크 "트위터 차단 기능 없앤다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230819075719</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817134446</guid>
             <pubDate>Thu, 17 Aug 2023 05:09:51 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터테인먼트가 SM엔터테인먼트와 함께 인기 보이 그룹 NCT 세계관 웹툰과 신인 보이 그룹 라이즈 성장사를 담은 웹소설을 선보인다고 17일 밝혔다. 이번 기획은 글로벌 웹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라인, AI가 아기 때 사진 만들어준다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817135215</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817135215</guid>
-            <pubDate>Thu, 17 Aug 2023 05:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[라인(대표 이데자와 다케시)이 인공지능(AI)이 사용자가 등록한 사진을 이용해 사용자와 닮은 아이의 이미지를 자동으로 만들어주는 'AI 베이비' 기능을 출시했다고 17일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
