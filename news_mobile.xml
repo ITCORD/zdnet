@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 23:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 00:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 "아크 GPU, 드라이버 개선 통해 DX11 성능 향상"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230818144019</link>
+            <guid>https://zdnet.co.kr/view/?no=20230818144019</guid>
+            <pubDate>Sat, 19 Aug 2023 00:38:24 GMT</pubDate>
+            <content:encoded><![CDATA[지난 해 1분기부터 PC용 그래픽칩셋 시장에 뛰어든 인텔이 지속적인 드라이버 개선으로 게임 성능 향상에 나서겠다고 밝혔다. 인텔은 지난 2분기 공개한 아크 그래픽칩셋용 드라이버...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["애플 비전 프로, 스토리지 최대 용량 1TB”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230819065043</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817104755</guid>
             <pubDate>Thu, 17 Aug 2023 02:13:11 GMT</pubDate>
             <content:encoded><![CDATA[로지텍코리아가 17일 화상회의 일체형 도킹 스테이션 '로지 독 플렉스'를 국내 출시했다. 로지 독 플렉스는 데스크톱PC나 노트북과 연결해 작동하는 장치로 8인치 디스플레이를 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차기작 갤럭시S24 울트라, 줌 성능 더 좋아지나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817084334</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817084334</guid>
-            <pubDate>Thu, 17 Aug 2023 01:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 내년 선보일 갤럭시S24 울트라 카메라 성능이 전작보다 개선될 것이란 전망이 제기됐다. 16일(현지시간) 폰아레나는 유명 IT 팁스터 요게스 브라 트위터를 인용해 갤...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
