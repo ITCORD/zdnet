@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 06:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 상반기 올레드 TV 점유율 55.7%로 압도적 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230821141030</link>
+            <guid>https://zdnet.co.kr/view/?no=20230821141030</guid>
+            <pubDate>Mon, 21 Aug 2023 06:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자가 올해 상반기 올레드(OLED) TV 시장에서 1위를 이어갔다. 21일 시장조사업체 옴디아에 따르면 LG전자는 올해 상반기 올레드 TV 출하량 133만1400대를 기록...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 상반기 글로벌 TV 점유율 31% '18년 연속 1위']]></title>
             <link>https://zdnet.co.kr/view/?no=20230821133835</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230818144019</guid>
             <pubDate>Sat, 19 Aug 2023 00:38:24 GMT</pubDate>
             <content:encoded><![CDATA[지난 해 1분기부터 PC용 그래픽칩셋 시장에 뛰어든 인텔이 지속적인 드라이버 개선으로 게임 성능 향상에 나서겠다고 밝혔다. 인텔은 지난 2분기 공개한 아크 그래픽칩셋용 드라이버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플 비전 프로, 스토리지 최대 용량 1TB”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230819065043</link>
-            <guid>https://zdnet.co.kr/view/?no=20230819065043</guid>
-            <pubDate>Fri, 18 Aug 2023 22:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 혼합현실(MR) 헤드셋 '비전 프로'의 스토리지 용량이 최대 1TB가 될 것이라는 보도가 나왔다. IT매체 나인투파이브맥은 17일(현지시간) IT팁스터 아이폰소프트(iP...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
