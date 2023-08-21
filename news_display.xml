@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 23:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 00:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 차세대 'HBM3E' 개발해 엔비디아에 샘플 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230821090859</link>
+            <guid>https://zdnet.co.kr/view/?no=20230821090859</guid>
+            <pubDate>Mon, 21 Aug 2023 00:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 메모리 시장의 새로운 성장동력인 HBM(고대역폭메모리) 분야에서 괄목할 만한 성과를 거뒀다. 최근 차세대 HBM 제품을 개발해, 주요 고객사인 엔비디아의 AI 반...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소프트뱅크, 비전펀드의 ARM 지분 25% 인수 완료]]></title>
             <link>https://zdnet.co.kr/view/?no=20230820094201</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230816111339</guid>
             <pubDate>Wed, 16 Aug 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[지난달 ICT 월 수출액이 13개월 연속 감소세를 이어갔다. 16일 과학기술정보통신부의 7월 ICT 수출입 통계에 따르면, 지난달 ICT 수출은 146억1천만달러로 잠정 집계됐...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['K-디스플레이' 전시회 개막...롤러블부터 투명 OLED까지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816102702</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816102702</guid>
-            <pubDate>Wed, 16 Aug 2023 02:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 디스플레이 기술을 만나볼 수 있는 '제 22회 한국디스플레이산업(K-디스플레이) 전시회'가 16일부터 18일까지 3일간 서울 코엑스에서 열린다. 올해 전시회는 국내 양대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

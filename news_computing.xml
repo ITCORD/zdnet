@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 23:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 00:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오픈소스 기반 통합 데이터 플랫폼이 필요한 이유"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230816180639</link>
+            <guid>https://zdnet.co.kr/view/?no=20230816180639</guid>
+            <pubDate>Mon, 21 Aug 2023 00:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[“한국은 기업의 핵심 자산인 데이터를 퍼블릭 클라우드로 다 가져갈 수 없다. 온프레미스 환경에서 오픈소스 기반의 데이터 플랫폼을 구축하면서 퍼블릭 클라우드스럽게 활용하고자 하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 법원 "재무부 '토네이도 캐시' 제재 적법"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230820101552</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817164002</guid>
             <pubDate>Thu, 17 Aug 2023 08:12:30 GMT</pubDate>
             <content:encoded><![CDATA[팔로알토 네트웍스가 지속적 통합/배포(CI/CD) 보안 모듈을 클라우드 네이티브 애플리케이션 보호 플랫폼(CNAPP) 프리즈마 클라우드에서 사용할 수 있도록 제공한다. CI/C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK(주) C&C, NH농협 디지털금융 플랫폼 전환 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230817161638</link>
-            <guid>https://zdnet.co.kr/view/?no=20230817161638</guid>
-            <pubDate>Thu, 17 Aug 2023 08:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 윤풍영)는 'NH농협 디지털금융 플랫폼 전환 구축 사업'에 착수했다고 17일 밝혔다. 이번 사업은 NH농협은행과 농협중앙회가 '20년부터 진행해 온 'NH농...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
