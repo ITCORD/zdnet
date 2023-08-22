@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 07:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 08:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무인 택시 세상은 정말 올까?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230822163712</link>
+            <guid>https://zdnet.co.kr/view/?no=20230822163712</guid>
+            <pubDate>Tue, 22 Aug 2023 08:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[자율주행기술이 고도화하면서 방향지시등만 점등해도 차선 변경이 가능해졌다. 때로 터널같이 시야가 어두워지는 곳에서는 운전자보다 더 안전하게 속도를 제어해준다. 운전자가 탑승한 상...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[벤츠코리아, 탄소중립 실천 위한 '그린플러스키즈' 성료]]></title>
             <link>https://zdnet.co.kr/view/?no=20230822134630</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230816121003</guid>
             <pubDate>Wed, 16 Aug 2023 04:12:26 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차와 서울대학교는 16일 서울대 공과대학(39동)에서 김용화 현대차 사장, 김성규 서울대 교육부총장 등이 참석한 가운데 '미래자동차모빌리티학과' 설립을 위한 협약을 체결...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[볼보코리아, 2023 오프라인 플로깅 이벤트 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816122634</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816122634</guid>
-            <pubDate>Wed, 16 Aug 2023 04:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[볼보자동차코리아가 올해 친환경 캠페인의 일환으로 진행하는 2023 헤이 플로깅의 마지막 이벤트인 '볼보 로드 데이'를 실시한다고 16일 밝혔다. 2023 헤이 플로깅의 대미를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
