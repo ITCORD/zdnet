@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB보안 전문기업 신시웨이, 스팩 상장 8분 능선 넘어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230822112352</link>
+            <guid>https://zdnet.co.kr/view/?no=20230822112352</guid>
+            <pubDate>Tue, 22 Aug 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[엑셈의 주요 종속회사이자 데이터베이스(DB) 보안 전문기업인 신시웨이(대표이사 정재훈)의 스팩(SPAC, 특수목적회사) 상장이 8분 능성을 넘었다. 22일 회사는 아이비케이에스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BNK경남은행, 에버스핀 페이크파인더로 고객 보안 지킨다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230822105536</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230816180639</guid>
             <pubDate>Mon, 21 Aug 2023 00:39:51 GMT</pubDate>
             <content:encoded><![CDATA[“한국은 기업의 핵심 자산인 데이터를 퍼블릭 클라우드로 다 가져갈 수 없다. 온프레미스 환경에서 오픈소스 기반의 데이터 플랫폼을 구축하면서 퍼블릭 클라우드스럽게 활용하고자 하는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원 "재무부 '토네이도 캐시' 제재 적법"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230820101552</link>
-            <guid>https://zdnet.co.kr/view/?no=20230820101552</guid>
-            <pubDate>Sun, 20 Aug 2023 01:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래 내역을 다른 내역과 섞어 추적을 막는 믹서 서비스 '토네이도 캐시'에 대해 미국 당국이 내린 제재가 적법하게 이뤄졌다는 법원 판결이 나왔다. 코인데스크 등 다수 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
