@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 09:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 10:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이텐, 원격 공유 접속 멀티 KVM 오버 IP 스위치 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823181500</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823181500</guid>
+            <pubDate>Wed, 23 Aug 2023 10:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[에이텐(대표 첸순청)은 KVM 오버 IP 스위치 'KN8032VB'와 'KN8064VB' 모델 2종을 출시했다고 23일 밝혔다. 이 제품은 실시간 모니터링 및 전문적인 제어 시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스핀글로벌, 가트너 2년 연속 '비저너리' 등재]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823174817</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230822112352</guid>
             <pubDate>Tue, 22 Aug 2023 03:10:21 GMT</pubDate>
             <content:encoded><![CDATA[엑셈의 주요 종속회사이자 데이터베이스(DB) 보안 전문기업인 신시웨이(대표이사 정재훈)의 스팩(SPAC, 특수목적회사) 상장이 8분 능성을 넘었다. 22일 회사는 아이비케이에스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에버스핀 페이크파인더, BNK경남은행 고객 보안 지킨다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230822105536</link>
-            <guid>https://zdnet.co.kr/view/?no=20230822105536</guid>
-            <pubDate>Tue, 22 Aug 2023 02:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 보안기업 에버스핀(대표 하영빈)은 BNK경남은행과 악성앱 피싱방지 솔루션 페이크파인더 도입 계약을 체결했다고 22일 밝혔다. BNK경남은행은 부산경남 최대규모 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
