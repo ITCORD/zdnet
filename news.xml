@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 10:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 11:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4400억원 규모 6G 통신 예타 사업 통과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823195608</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823195608</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[6G 이동통신 기술 개발 사업이 4천407억원 규모로 예비타당성 조사를 통과했다. 과학기술정보통신부는 23일 서울 중앙우체국에서 열린 2023년 제10회 국가연구개발사업평가 총...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/23/7c05e413ee920c9baf721303d326f86e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데마트 "안전한 수산물 공급 앞장"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823174211</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230823181500</guid>
             <pubDate>Wed, 23 Aug 2023 10:10:55 GMT</pubDate>
             <content:encoded><![CDATA[에이텐(대표 첸순청)은 KVM 오버 IP 스위치 'KN8032VB'와 'KN8064VB' 모델 2종을 출시했다고 23일 밝혔다. 이 제품은 실시간 모니터링 및 전문적인 제어 시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/23/1c65a482460b2569f5cdcbbd98293129-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전남-경남-대전 우주산업 클러스터 구축 사업 예타 면제···6G 기술 개발은 예타 통과]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230823123707</guid>
             <pubDate>Wed, 23 Aug 2023 08:13:23 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자, TSMC, 인텔 등 주요 기업들로 구성된 컨소시엄이 반도체 주요 소재인 PFAS(과불화화합물) 대체재 마련에 골머리를 앓고 있다. PFAS는 반도체 공정 전반에 걸쳐...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['iOS서 폴드5 체험'...아이폰 유저 공략 나선 삼성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230823083433</link>
-            <guid>https://zdnet.co.kr/view/?no=20230823083433</guid>
-            <pubDate>Wed, 23 Aug 2023 08:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 아이폰 이용자를 끌어오기 위해 다양한 방법을 강구하고 있다. 아이폰에서 갤럭시 스마트폰을 간접 체험할 수 있는 앱까지 등장했다. 23일 업계에 따르면 삼성전자는 북미...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
