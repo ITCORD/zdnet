@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 00:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 01:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트, 신규 기능 '실험실'로 미리 선보인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823094919</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823094919</guid>
+            <pubDate>Wed, 23 Aug 2023 01:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 업비트에 '실험실' 기능을 추가했다고 23일 밝혔다. 실험실은 업비트에 탑재될 신규 기능을 미리 체험해 볼 수 있는 서비스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코인원, 추가 인증 채널 '네이버' 앱 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823092136</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230821164549</guid>
             <pubDate>Mon, 21 Aug 2023 08:14:02 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터(한컴, 대표 변성준·김연수)가 올해 인공지능(AI)를 적용한 제품 출시를 앞두고 티저 영상을 공개했다. 한컴 공식 유튜브 채널에 선보인 영상은 '쉬워졌다, 모든 게...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EDB, '유라' 기술지원 서비스 'TAM' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230821163855</link>
-            <guid>https://zdnet.co.kr/view/?no=20230821163855</guid>
-            <pubDate>Mon, 21 Aug 2023 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[EDB 코리아(대표 이강일)는 유라에 포스트그레SQL의 안정적 운영 위해 EDB의 기술지원 서비스인 '기술 고객 관리(TAM)'를 도입했다고 21일 밝혔다 유라는 자동차 와이어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
