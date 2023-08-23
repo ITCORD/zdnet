@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 06:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가트너 "올 세계 AI 반도체 매출 20% 증가…534억 달러 전망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823140113</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823140113</guid>
+            <pubDate>Wed, 23 Aug 2023 06:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 인공지능(AI), 데이터센터 등 성장세에 따라 올해 글로벌 AI 반도체 매출이 작년보다 20% 이상 증가할 것이라는 전망이 나왔다. 23일 시장조사업체 가트너에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성디스플레이, 세계적 학술대회서 혁신 기술 60여건 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823102245</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230821155030</guid>
             <pubDate>Mon, 21 Aug 2023 08:14:27 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 유럽, 일본 파운드리 고객사 확보에 나선다. 삼성전자는 10월 17일 일본 도쿄, 19일 독일 뮌헨에서 각각 '삼성 파운드리 포럼(SFF)'을 개최한다. 앞서 삼성전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 파운드리, 케이던스와 IP 협력 강화...TSMC 따라잡을 묘수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230821152904</link>
-            <guid>https://zdnet.co.kr/view/?no=20230821152904</guid>
-            <pubDate>Mon, 21 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 파운드리 사업부가 케이던스와 반도체 설계자산(IP) 협력을 강화한다. 반도체 IP 및 전자설계자동화(EDA) 업체 케이던스가 다음달 5일 서울에서 개최하는 '케이던스 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
