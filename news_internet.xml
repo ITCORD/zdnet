@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 01:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 02:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스서 기사 공유 때 제목-내용 뺄 수 있게 된다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823083733</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823083733</guid>
+            <pubDate>Wed, 23 Aug 2023 02:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[엑스(구 트위터)가 플랫폼에서 공유되는 기사의 URL과 이미지만 남기는 방식을 추진한다. 미국 IT매체 엔가젯은 21일(현지시간) 엑스가 자사 플랫폼에서 공유되는 기사 헤드라인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 100개 언어 번역·음성 변환하는 AI 모델 내놨다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823083154</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230822100708</guid>
             <pubDate>Tue, 22 Aug 2023 01:41:58 GMT</pubDate>
             <content:encoded><![CDATA[미용의료 정보 플랫폼 강남언니 운영사 힐링페이퍼가 자사 서비스 사회적 가치와 정책을 담은 '강남언니 누리다 리포트 2023' 보고서를 발간했다고 22일 밝혔다. 이번 리포트를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타-CJ올리브영, 마케팅솔루션 강화 업무 협약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230822094411</link>
-            <guid>https://zdnet.co.kr/view/?no=20230822094411</guid>
-            <pubDate>Tue, 22 Aug 2023 01:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 CJ올리브영과 디지털 마케팅 강화·상생을 위한 업무제휴협약(JBP)을 체결했다고 22일 밝혔다. 이달 초 메타 한국 본사에서 진행된 협약식에는 김진아 메타코리아 대표와 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
