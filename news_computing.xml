@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 04:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 05:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM, '코드 어시스턴트' 코볼에서 자바로 자동 변환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823122004</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823122004</guid>
+            <pubDate>Wed, 23 Aug 2023 05:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[IBM이 고전 프로그래밍 언어 코볼의 코드를 자바로 변환하는 도구를 공개했다. 22일(현지시간) 더레지스터 등 외신에 따르면 IBM은 오는 4분기에 왓슨X코드어시스턴트(이하 코...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업비트, 신규 기능 '실험실'로 미리 선보인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823094919</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230821131140</guid>
             <pubDate>Mon, 21 Aug 2023 08:14:02 GMT</pubDate>
             <content:encoded><![CDATA[공공, 금융 분야는 다른 무엇보다 보안이 중요하다. 다른 분야에 비해 데이터 규제가 강력하게 적용되는 것도 그 때문이다. 그런데 보안에 총력을 기울이는 기회비용도 만만치 않다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한글과컴퓨터, '한컴독스 AI' 10월 베타 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230821164549</link>
-            <guid>https://zdnet.co.kr/view/?no=20230821164549</guid>
-            <pubDate>Mon, 21 Aug 2023 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터(한컴, 대표 변성준·김연수)가 올해 인공지능(AI)를 적용한 제품 출시를 앞두고 티저 영상을 공개했다. 한컴 공식 유튜브 채널에 선보인 영상은 '쉬워졌다, 모든 게...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

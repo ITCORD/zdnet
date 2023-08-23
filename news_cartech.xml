@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 04:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 05:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토요타, 체코공장 생산중단…"화재로 인한 부품부족"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823114144</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823114144</guid>
+            <pubDate>Wed, 23 Aug 2023 05:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 완성차 업체인 토요타의 체코공장이 생산을 중단했다. 로이터통신은 22일(현지시간) 토요타 체코공장이 현지 공급업체에서 발생한 화재로 인해 생산을 중단했다고 보도했다. 공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KG모빌리티, 업계 최초 임∙단협 타결 조인식 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823114706</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230817100059</guid>
             <pubDate>Thu, 17 Aug 2023 01:40:24 GMT</pubDate>
             <content:encoded><![CDATA[기아가 4세대 쏘렌토의 상품성 개선 모델 '더 뉴 쏘렌토(쏘렌토)'를 내일 18일 출시하고 본격적인 판매에 돌입한다. 4세대 쏘렌토는 ▲2.5 가솔린 터보 ▲2.2 디젤 ▲1....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹, 中 충전기 전쟁 '초읽기'...인프라 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230816153648</link>
-            <guid>https://zdnet.co.kr/view/?no=20230816153648</guid>
-            <pubDate>Wed, 16 Aug 2023 08:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차가 향후 전기차 충전의 패권 다툼을 위한 전초기지로 중국을 선택한 것으로 보인다. 최근 중국 현지 전기차 서비스 기업과 협약을 맺으면서 아직 글로벌 표준 규격인 복합충...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
