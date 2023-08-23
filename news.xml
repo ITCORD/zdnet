@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 03:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 04:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19, 인플루엔자와 같은 '4급 감염병'으로 전환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823130729</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823130729</guid>
+            <pubDate>Wed, 23 Aug 2023 04:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 오는 8월31일을 기점으로 인플루엔자와 같은 4급 감염병으로 전환된다. 이와 함께 위기단계 조정 로드맵에 따른 2단계 조치를 시행한다. 주요 내용은 고위험군 보호를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/23/a26d336ed8dd9a7f1b48844afd51ff3b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔씨소프트, 블레이드&소울2 서비스 2주년 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20230823120503</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230823120018</guid>
             <pubDate>Wed, 23 Aug 2023 03:09:25 GMT</pubDate>
             <content:encoded><![CDATA[원스토어(대표 전동진)는 7월 우수베타게임에 엠게임의 퀸즈나이츠를 선정했다고 23일 밝혔다. 퀸즈나이츠는 3D 카툰렌더링 방식 그래픽을 기반으로 한 방치형 RPG다. 마왕에게 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/23/18ce60deb8d3e894b12c519dc94eadbf-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[드래곤플라이, 셀바스AI와 디지털 치료기기 통합 운영 플랫폼 개발 계약 체결]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230823085004</guid>
             <pubDate>Wed, 23 Aug 2023 02:13:41 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 게이밍 전시회 '게임스컴 2023(Gamescom 2023)'에 참가해 57형 오디세이 Neo G9ㆍ오디세이 아크ㆍ49형 오디세이 OLED 등 최고 사양의 게이밍 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원자력연, 상온 동작 양자컴퓨터 소재 가능성 열다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230823101008</link>
-            <guid>https://zdnet.co.kr/view/?no=20230823101008</guid>
-            <pubDate>Wed, 23 Aug 2023 02:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[상온에서도 대규모 양자 얽힘 현상을 구현할 수 있는 양자 소재 후보 물질이 나왔다. 한국원자력연구원은 첨단양자소재연구실 김재욱 박사 등 국제 연구팀이 터븀인듐산화물(TbInO₃...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
