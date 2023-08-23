@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 23:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 00:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원, 추가 인증 채널 '네이버' 앱 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230823092136</link>
+            <guid>https://zdnet.co.kr/view/?no=20230823092136</guid>
+            <pubDate>Wed, 23 Aug 2023 00:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 자사 추가채널 인증에 네이버 간편인증 방식을 도입했다고 23일 밝혔다. 기존 추가인증 방식 2가지 외 수단을 추가해 보안과 간편함을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[VM웨어-엔비디아, 기업용 AI 구축 플랫폼 내년 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230822154330</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230821163855</guid>
             <pubDate>Mon, 21 Aug 2023 08:14:02 GMT</pubDate>
             <content:encoded><![CDATA[EDB 코리아(대표 이강일)는 유라에 포스트그레SQL의 안정적 운영 위해 EDB의 기술지원 서비스인 '기술 고객 관리(TAM)'를 도입했다고 21일 밝혔다 유라는 자동차 와이어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제로다크웹 "국내 6종 제조업, 23만 계정 유출 탐지”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230821162643</link>
-            <guid>https://zdnet.co.kr/view/?no=20230821162643</guid>
-            <pubDate>Mon, 21 Aug 2023 08:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[제로다크웹이 국내 6개 업종의 제조기업 대상 다크웹 정보 유출 현황을 모의 조사를 실시했다고 21일 밝혔다. 그 결과 23만 건의 메일 계정 유출과 악성코드 감염 PC가 있는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
