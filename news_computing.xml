@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 08:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 09:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가정보자원관리원, 민간 클라우드 공공 보급 지원한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230824164648</link>
+            <guid>https://zdnet.co.kr/view/?no=20230824164648</guid>
+            <pubDate>Thu, 24 Aug 2023 09:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부 국가정보자원관리원은 공공기관의 보안성과 민간 기업의 효율성을 접목한 '민관협력 모델'을 통해 민관협력형 클라우드 이용을 활성화하는 방안을 모색한다고 24일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[협업툴 '두레이'로 갈아타면 이용료 면제]]></title>
             <link>https://zdnet.co.kr/view/?no=20230824163251</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230823172057</guid>
             <pubDate>Wed, 23 Aug 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[굿센(대표 박연정)은 딜로이트 안진회계법인(딜로이트 안진)과 지능형 자금사고 감지, 예방 솔루션 '라이트하우스'의 유통을 위한 전략 파트너십을 체결했다고 23일 밝혔다. 라이트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어 "AI 비즈니스 보안·비용 문제 풀겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230823152253</link>
-            <guid>https://zdnet.co.kr/view/?no=20230823152253</guid>
-            <pubDate>Wed, 23 Aug 2023 08:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] "기업은 클라우드에서 데이터 보안, 비용 걱정 없이 AI 모델을 활용할 수 있을 것이다. VM웨어는 '프라이빗 AI'으로 만든 제품으로 기업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
