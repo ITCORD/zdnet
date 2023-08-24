@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 07:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 08:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업툴 '두레이'로 갈아타면 이용료 면제]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230824163251</link>
+            <guid>https://zdnet.co.kr/view/?no=20230824163251</guid>
+            <pubDate>Thu, 24 Aug 2023 08:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[엔에이치엔 두레이(대표 백창열, 이하 NHN두레이)는 협업도구 보상판매를 실시한다고 24일 밝혔다. 오는 10월 말까지 두레이로 환승할 때 사용하던 타 협업툴 계약 기간이 남았...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[CJ올리브네트웍스-콘텐츠스퀘어, 데이터 마케팅 협업]]></title>
             <link>https://zdnet.co.kr/view/?no=20230824151816</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230823152253</guid>
             <pubDate>Wed, 23 Aug 2023 08:14:14 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] "기업은 클라우드에서 데이터 보안, 비용 걱정 없이 AI 모델을 활용할 수 있을 것이다. VM웨어는 '프라이빗 AI'으로 만든 제품으로 기업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비즈플레이, 포스코DX 경비지출관리 솔루션 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230823165429</link>
-            <guid>https://zdnet.co.kr/view/?no=20230823165429</guid>
-            <pubDate>Wed, 23 Aug 2023 08:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[비즈플레이(대표 김홍기)는 포스코DX에 경비지출관리 솔루션을 제공한다고 23알 밝혔다. 비즈플레이는 핀테크 기술을 이용해 종이 영수증을 전자 영수증으로 대체하고, 전체 경비지출...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
