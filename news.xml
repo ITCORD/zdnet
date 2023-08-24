@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 14:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 15:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀레, IFA서 신제품 공개…"환경보호·디지털 편의성 중점"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230824170110</link>
+            <guid>https://zdnet.co.kr/view/?no=20230824170110</guid>
+            <pubDate>Thu, 24 Aug 2023 15:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[독일 프리미엄 가전 브랜드 밀레가 내달 초 열리는 유럽 최대 가전 전시회 'IFA 2023'에서 지속가능성과 편의성을 강화한 제품과 서비스를 선보인다고 24일 밝혔다. 밀레는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/24/2c41086511f799521ebdf4e934eeab3b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 국토교통부]]></title>
             <link>https://zdnet.co.kr/view/?no=20230824195250</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230824154748</guid>
             <pubDate>Thu, 24 Aug 2023 08:12:26 GMT</pubDate>
             <content:encoded><![CDATA[실리콘랩스는 자사의 제4회 연례 '웍스 위드(Works With)' 개발자 컨퍼런스에서 임베디드 IoT 기기를 위해 특별히 설계된 차세대 시리즈 3(Series 3) 플랫폼을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보쉬, 충전 각도절단기 출시…"성능·안전 강화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824161510</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824161510</guid>
-            <pubDate>Thu, 24 Aug 2023 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[보쉬 전동공구 사업부가 전문가용 충전 각도절단기 'GCM 18V-254 D'를 출시했다고 24일 밝혔다. 신제품은 보쉬 바이터보 브러시리스 기술을 적용했다. 최대 무부하 속도 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
