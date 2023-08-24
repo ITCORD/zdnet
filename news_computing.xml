@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 04:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 윈도11 그림판·사진앱 AI 도입 고려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230824110923</link>
+            <guid>https://zdnet.co.kr/view/?no=20230824110923</guid>
+            <pubDate>Thu, 24 Aug 2023 05:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 그림판, 캡처도구, 사진 등 윈도11 기본 앱에 인공지능(AI) 기능 도입을 고려 중이다. 23일(현지시간) 윈도센트럴 등 외신에 따르면 마이크로소프트가 코파일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기관 88% "가상자산 시장, 내년 상승 전망"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230824092651</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230823092136</guid>
             <pubDate>Wed, 23 Aug 2023 00:39:30 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 코인원(대표 차명훈)은 자사 추가채널 인증에 네이버 간편인증 방식을 도입했다고 23일 밝혔다. 기존 추가인증 방식 2가지 외 수단을 추가해 보안과 간편함을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어-엔비디아, 기업용 AI 구축 플랫폼 내년 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230822154330</link>
-            <guid>https://zdnet.co.kr/view/?no=20230822154330</guid>
-            <pubDate>Tue, 22 Aug 2023 17:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] VM웨어가 엔비디아와 손잡고 기업용 인공지능(AI) 구축 플랫폼을 내년 초 출시하겠다고 발표했다. VM웨어는 22일(현지시간) 미국 네바다주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
