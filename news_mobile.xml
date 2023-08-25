@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 22:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 23:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아이폰15 생산량 1100만대 감소…공급 차질 때문"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230826071016</link>
+            <guid>https://zdnet.co.kr/view/?no=20230826071016</guid>
+            <pubDate>Fri, 25 Aug 2023 23:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[다음 달 공개 예정인 아이폰15 시리즈의 생산량이 공급 문제로 인해 줄어들 것이라는 전망이 또 나왔다. IT매체 나인투파이브맥은 25일(현지시간) 일본 미즈호 증권 보고서를 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["소형가구에 딱"…캐리어, 가전 브랜드 '모드비' 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20230825145629</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230824135553</guid>
             <pubDate>Thu, 24 Aug 2023 05:09:42 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 세계적 권위의 국제 디자인 공모전 'IDEA(International Design Excellence Awards) 2023'에서 은상 1개, 동상 3개, 입상(파이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 아이폰 내놓던 2007년부터 비전프로 개발"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824134940</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824134940</guid>
-            <pubDate>Thu, 24 Aug 2023 05:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올해 공개한 혼합현실(MR) 헤드셋 '비전 프로' 개발작업을 오리저널 아이폰을 내놓던 2007년부터 시작했다는 보도가 나왔다. 특허 전문매체 페이턴틀리애플은 23일(현지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
