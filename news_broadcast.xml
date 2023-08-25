@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 00:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 01:46:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKB, CJ ENM과 데이터 기반 공동마케팅 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230824183444</link>
+            <guid>https://zdnet.co.kr/view/?no=20230824183444</guid>
+            <pubDate>Fri, 25 Aug 2023 01:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[SK브로드밴드는 CJ ENM과 데이터 기반 공동마케팅 추진을 위한 업무협약을 체결했다고 25일 밝혔다. 양사는 협약에 따라 고객에게 최적의 상품과 혜택을 제공하는 동시에 효율적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울국제여성영화제 출품, Btv에서 보세요]]></title>
             <link>https://zdnet.co.kr/view/?no=20230824102336</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230821090631</guid>
             <pubDate>Mon, 21 Aug 2023 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 서울 동대문구 공중화장실에 'U+스마트레이더'를 설치하고 위급상황 발생 시 경찰서에 알림을 전송하는 시스템을 구축했다고 21일 밝혔다. LG유플러스는 동대문구청과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 한글 자막 생성AI 독자개발...이달부터 IPTV 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230821085945</link>
-            <guid>https://zdnet.co.kr/view/?no=20230821085945</guid>
-            <pubDate>Mon, 21 Aug 2023 00:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 AI 기술을 활용한 한글 자막 생성 시스템을 독자적으로 개발해 이달부터 Btv 콘텐츠에 적용한다고 21일 밝혔다. SK브로드밴드는 SK텔레콤과 개발한 시스템 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
