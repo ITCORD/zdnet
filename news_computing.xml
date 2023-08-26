@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 22:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 23:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS 엑셀, 파이썬 지원...고급 데이터 분석 한번에]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230827070004</link>
+            <guid>https://zdnet.co.kr/view/?no=20230827070004</guid>
+            <pubDate>Sat, 26 Aug 2023 23:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 프로그래밍 언어 파이썬을 엑셀에서 바로 사용할 수 있는 기능을 추가했다. 파이썬은 주로 데이터 분석, 시각화에 주로 활용되는 언어다. 이번 업데이트로 데...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["디앱, '스마트컨트랙트' 한계 얽매일 필요 없다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230826145955</link>
+            <guid>https://zdnet.co.kr/view/?no=20230826145955</guid>
+            <pubDate>Sat, 26 Aug 2023 23:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[계약 내용을 블록체인에 기록하고, 조건이 충족되면 이행되게 하는 기술인 스마트컨트랙트가 등장하면서 블록체인 기반 다양한 서비스가 생겨날 수 있었다. 최근에는 탈중앙화된 웹인 '...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["클라우드 철통보안, 'VM웨어 NSX+'로 쉽고 빠르게"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230826094716</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230824110923</guid>
             <pubDate>Thu, 24 Aug 2023 05:09:32 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 그림판, 캡처도구, 사진 등 윈도11 기본 앱에 인공지능(AI) 기능 도입을 고려 중이다. 23일(현지시간) 윈도센트럴 등 외신에 따르면 마이크로소프트가 코파일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기관 88% "가상자산 시장, 내년 상승 전망"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824092651</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824092651</guid>
-            <pubDate>Thu, 24 Aug 2023 01:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 가상자산 거래소 바이낸스가 기관의 투자 의향을 조사한 결과, 대체로 가상자산 시장에 대한 전망이 긍정적인 것으로 나타났다. 이런 전망에 따라 향후 투자 포트폴리오에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸메타, 패션 전시 '디지털 트윈' 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824095328</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824095328</guid>
-            <pubDate>Thu, 24 Aug 2023 01:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 빗썸의 자회사 빗썸메타(대표 조현식)는 오는 25일까지 서울 코엑스에서 열리는 '프리뷰 인 서울(PIS) 2023'에 참가한다고 밝혔다. 올해로 24회를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
