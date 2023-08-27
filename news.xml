@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 03:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 04:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GS25, 한복 춘식이 품은 외국인 전용 교통카드 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230827121343</link>
+            <guid>https://zdnet.co.kr/view/?no=20230827121343</guid>
+            <pubDate>Sun, 27 Aug 2023 04:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[GS리테일이 운영하는 편의점 GS25가 늘어나는 외국인 관광 수요를 겨냥해 로카모빌리티와 손을 잡고 편의점 업계 최초로 외국인 전용 교통카드 '한복춘식로카M'을 출시한다고 27...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/27/b591e8e9fc1a01765dbfa1c9cc7144ec-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데온, 11월까지 '경남 세일ON 페스타' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230827114016</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230827115538</guid>
             <pubDate>Sun, 27 Aug 2023 03:09:37 GMT</pubDate>
             <content:encoded><![CDATA[경인권(경기대, 성균관대, 인하대) 대학 재학생 약 200명이 기업 제품을 이론 교육뿐 아니라 직접 만들어 보는 행사인 'K-소프트베이션 쇼케이스(K-SoftVation Sho...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/27/78446a34d97d963c2a3e4f41ae04a9ba-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[더현대 서울, 30개월 만에 방문객 1억명 넘었다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230827070004</guid>
             <pubDate>Sat, 26 Aug 2023 23:08:27 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)가 프로그래밍 언어 파이썬을 엑셀에서 바로 사용할 수 있는 기능을 추가했다. 파이썬은 주로 데이터 분석, 시각화에 주로 활용되는 언어다. 이번 업데이트로 데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["디앱, '스마트컨트랙트' 한계 얽매일 필요 없다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230826145955</link>
-            <guid>https://zdnet.co.kr/view/?no=20230826145955</guid>
-            <pubDate>Sat, 26 Aug 2023 23:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[계약 내용을 블록체인에 기록하고, 조건이 충족되면 이행되게 하는 기술인 스마트컨트랙트가 등장하면서 블록체인 기반 다양한 서비스가 생겨날 수 있었다. 최근에는 탈중앙화된 웹인 '...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
