@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 01:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 02:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀네이버, 서울시·모라이와 버추얼 자율주행 챌린지 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828104503</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828104503</guid>
+            <pubDate>Mon, 28 Aug 2023 02:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 김유원)와 네이버랩스(대표 석상옥)는 서울특별시, 자율주행 시뮬레이션 업체 모라이(대표 정지원, 홍준)와 함께 디지털 트윈 환경에서 학생들의 자율주행 기술을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오라클, VM웨어 멀티클라우드 구독 프로그램에 합류]]></title>
             <link>https://zdnet.co.kr/view/?no=20230828101928</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230825055506</guid>
             <pubDate>Fri, 25 Aug 2023 00:39:52 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] "한국 스토리지 시장 규모는 상당하다. VM웨어가 새로 출시한 'vSAN 맥스'에 적합한 환경이다. 기업은 vSAN 맥스로 더 유연하고 세분...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국가정보자원관리원, 민간 클라우드 공공 보급 지원한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824164648</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824164648</guid>
-            <pubDate>Thu, 24 Aug 2023 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부 국가정보자원관리원은 공공기관의 보안성과 민간 기업의 효율성을 접목한 '민관협력 모델'을 통해 민관협력형 클라우드 이용을 활성화하는 방안을 모색한다고 24일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
