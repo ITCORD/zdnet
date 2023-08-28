@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 08:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 09:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제 무너질지 모르는 공공SW사업, 개선 방안은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828170348</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828170348</guid>
+            <pubDate>Mon, 28 Aug 2023 09:10:51 GMT</pubDate>
+            <content:encoded><![CDATA["IT서비스 업계를 보면 그동안 고객의 비즈니스 프로세스는 열심히 디지털전환(DX)을 이끌었지만 정작 업계는 예전 방식이 남아있는 경우가 많다. 그래서 시스템 분석부터 감리까지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어, 엣지 기술 통합 관리하는 제품 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828163846</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828163846</guid>
+            <pubDate>Mon, 28 Aug 2023 09:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[VM웨어가 엣지 기술을 통합적으로 손쉽게 관리할 수 있는 솔루션을 출시했다. VM웨어는 지난 21일부터 24일까지 미국 라스베이거스에서 개최한 'VM웨어 익스플로어 2023'에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[신간소개] 김홍선의 '보이지 않는 위협']]></title>
             <link>https://zdnet.co.kr/view/?no=20230828144918</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230825181319</guid>
             <pubDate>Fri, 25 Aug 2023 10:09:47 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무(대표 이석우)는 올해 2분기 연결 기준 매출 1천866억원, 영업이익은 866억원, 당기순이익은 1천8억원을 기록했다고 공시했다. 전년 동기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어, '탄주 애플리케이션 플랫폼' 기능 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230825081059</link>
-            <guid>https://zdnet.co.kr/view/?no=20230825081059</guid>
-            <pubDate>Fri, 25 Aug 2023 08:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] VM웨어가 탄주 애플리케이션 플랫폼 기능을 넓혔다. VM웨어는 21일(이하 현지시간)부터 24일까지 미국 라스베이거스에서 개최한 'VM웨어 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해킹방어대회 '코드게이트 2023', 美 PPP팀 우승]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230825152127</link>
-            <guid>https://zdnet.co.kr/view/?no=20230825152127</guid>
-            <pubDate>Fri, 25 Aug 2023 07:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[국제 해킹 방어 대회 '코드게이트(CODEGATE) 2023'에서 미국 해커팀 'PPP'가 우승을 차지했다. 25일 서울 삼성동 코엑스에서 열린 코드게이트 2023 시상식에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
