@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 03:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 04:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네오위즈, 모바일 축구 '프로사커: 레전드 일레븐' 사전 예약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828114125</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828114125</guid>
+            <pubDate>Mon, 28 Aug 2023 04:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[네오위즈(공동대표 김승철, 배태근)는 개발사 스타어레이와 '프로사커: 레전드 일레븐(Pro Soccer: Legend Eleven)'의 퍼블리싱 계약을 체결하고, 다음 달 한국...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/28/e9238a213e2a5baa79393e6955a8aff5-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["중앙부처 UI·UX 혁신"···국민 300명이 298개 웹사이트 평가도]]></title>
             <link>https://zdnet.co.kr/view/?no=20230828080002</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230828111549</guid>
             <pubDate>Mon, 28 Aug 2023 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[국내 게임사가 개발 중인 신작 VR 게임 소식이 이어진다. 한동안 주춤했던 VR 시장이지만 최근 전해진 신형 VR 기기 정보에 신작 VR 게임 소식이 더해지며 다시 한번 VR ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/28/6e0502da5d1c9de8068b0612392970bc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[컴투스, 비행 슈팅 '스트라이커즈1945: RE' 사전 예약 돌입]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230828105203</guid>
             <pubDate>Mon, 28 Aug 2023 02:16:06 GMT</pubDate>
             <content:encoded><![CDATA[SK스퀘어는 모건스탠리캐피털인터내셔널(MSCI)의 ESG 평가에서 기존 대비 2단계 상향된 'A 등급'을 받았다고 28일 밝혔다. MSCI는 1999년부터 세계 상장기업을 대상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, SME 맞춤형 브랜딩 지원 프로그램 '브랜드 부스터' 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828092008</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828092008</guid>
-            <pubDate>Mon, 28 Aug 2023 02:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 브랜드 중·소상공인(SME) 사업자들이 온라인 시장에서 지속 가능한 성장을 일궈 낼 수 있도록 '브랜드 부스터' 프로그램을 신설하고 참여 사업자를 모집한다고 28일 밝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
