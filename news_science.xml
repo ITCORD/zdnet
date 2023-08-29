@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 23:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 00:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 칩에 지문 새긴다···오류를 신뢰로 바꾼 PUF 기술]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828131557</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828131557</guid>
+            <pubDate>Tue, 29 Aug 2023 00:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[컴퓨터 보안은 보통 소프트웨어 방식에 의존한다. 하지만 암호 키를 외부에서 생성해 주입해야 하기 때문에 공격에 노출될 여지가 항상 있다. 때문에 기기나 칩 안에 암호를 심는 하...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/28/d2a29799667566ab6421c4663d37741b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 정부, 초전도체 개발 앞장…'재료 강국' 야심]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829022417</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230828125505</guid>
             <pubDate>Mon, 28 Aug 2023 16:14:00 GMT</pubDate>
             <content:encoded><![CDATA[삼각격자 구조의 물질에서 새로운 양자 상태가 최초로 발견됐다. 향후 양자 컴퓨터 등 양자 정보 분야 활용이 기대된다. 서울대 박제근 교수 연구팀과 이화여대 김성진 교수 연구팀은...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/28/7de4c42636867bbbaffddaab268a55fd-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월의 마지막 밤 10시 36분, 올해 가장 큰 달 뜬다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230823103054</guid>
             <pubDate>Wed, 23 Aug 2023 02:15:50 GMT</pubDate>
             <content:encoded><![CDATA[인도의 무인 달 탐사선 찬드라얀 3호가 23일 오후 5시 45분(이하 현지시간, 한국시간 오후 9시 15분) 달 착륙에 도전한다고 스페이스닷컴 등 외신들이 보도했다. 인도는 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몸 색깔 자유롭게 바꾸는 물고기, 피부도 눈 역할?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230823091353</link>
-            <guid>https://zdnet.co.kr/view/?no=20230823091353</guid>
-            <pubDate>Wed, 23 Aug 2023 01:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[문어나 놀래기 같은 동물은 주변 환경에 맞춰 재빠르게 몸 색깔을 바꿀 수 있다. 그런데 이런 동물은 자기 몸 색깔이 어떻게 변했는지 인식할 수 있을까? 포식자의 눈을 피하기 위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
