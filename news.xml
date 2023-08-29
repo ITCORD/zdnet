@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["은행 수익성 나쁘게만 보지 말아달라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829095629</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829095629</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[금리 상승으로 대출 이자수익을 통해 자기 배만 불리는 것 아니냐는 비판적 여론이 거센 가운데 은행업계가 자금 안전망 역할을 하고 있으며, 수익성도 그렇게 크지 않다고 정면 반박...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/29/283686d1b8f24ac780521db1cbf1f76c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, 양자보안통신 국제 표준 개발 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828144541</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828144541</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 양자키분배기술(QKD)과 양자내성암호(PQC) 간 시너지를 기반으로 한 '양자보안통신' 표준화 개발에 착수한다. 상호 보완성을 띄는 QKD·PQC 장점을 극대화해,...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/28/a188715eca3b359e57d78868ce09a8ce-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN클라우드, '보안관제센터' 정식 개소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829114901</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829114901</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 경상남도 김해시에 실시간 보안 위협 탐지·대응을 수행하는 보안 전문 센터인 'NHN클라우드 보안관제센터'를 정식 개소했다고 29일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AWS, 엔씨소프트 '바르코' LLM 개발 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829114356</link>
             <guid>https://zdnet.co.kr/view/?no=20230829114356</guid>
             <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)는 엔씨소프트의 대규모언어모델(LLM) 개발을 지원하기 위해 '아마존 세이지메이커 점프스타트'를 제공했다고 29일 밝혔다. 엔씨소프트는 최근 아마존 세이지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/16/94800e9fb17191b967e93f785aa73fb1-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[기고] 코로나 학번 채용 문제, 해답은 AI에 있다]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230829113524</guid>
             <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 현장 경험이 부족한 학생들이 취업전선에 뛰어들 준비를 하고 있다. 이에 '코로나 학번'으로 불리는 이들의 채용 문제를 해결하기 위해 AI 채용 솔루션을 도입하...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/29/c84968d20b02dbfdcc8ead25c04a2b6c-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오픈AI, '생성AI' 기업 시장으로 진격]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230829081536</guid>
             <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
             <content:encoded><![CDATA["TSN(Time-Sensitive Networking)은 이더넷과 와이파이(Wi-Fi)를 표준화 한 세계적 통신 단체인 전기전자공학자협회(IEEE)가 만든 차세대 실시간 통신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리엔터프라이즈, 포항CC에 '필립스 LED 스포츠 조명' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829101902</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829101902</guid>
-            <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[종합 조명기업 우리엔터프라이즈는 경북 포항CC에 고출력 LED 투광등인 '필립스 LED 스포츠스타 시스템'을 공급했다고 29일 밝혔다. 우리엔터프라이즈는 바닷가에 인접한 포항C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대홈쇼핑, 아바타 쇼호스트·3D 착장샷 넣은 패션 방송 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829093755</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829093755</guid>
-            <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[현대홈쇼핑이 인공지능(AI) 기술을 활용한 색다른 패션 방송을 선보인다. 이미지 생성 AI 기술에 기반해 고객의 요청대로 옷을 매칭한 모습을 3차원(3D) 이미지로 보여주고, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클로봇, 자율주행로봇 최적화 기술 개발 나서]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829101454</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829101454</guid>
-            <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행 로봇 서비스 전문기업 클로봇이 산업현장에서 활용 가능한 디지털 트윈 기반 자율주행로봇(AMR) 최적화 운영 서비스 기술 개발에 착수했다고 29일 밝혔다. 클로봇은 산업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

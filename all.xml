@@ -4,16 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["은행 수익성 나쁘게만 보지 말아달라" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829095629</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829095629</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[금리 상승으로 대출 이자수익을 통해 자기 배만 불리는 것 아니냐는 비판적 여론이 거센 가운데 은행업계가 자금 안전망 역할을 하고 있으며, 수익성도 그렇게 크지 않다고 정면 반박...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/29/283686d1b8f24ac780521db1cbf1f76c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK텔레콤, 양자보안통신 국제 표준 개발 추진 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828144541</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828144541</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 양자키분배기술(QKD)과 양자내성암호(PQC) 간 시너지를 기반으로 한 '양자보안통신' 표준화 개발에 착수한다. 상호 보완성을 띄는 QKD·PQC 장점을 극대화해,...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/28/a188715eca3b359e57d78868ce09a8ce-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN클라우드, '보안관제센터' 정식 개소 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829114901</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829114901</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 경상남도 김해시에 실시간 보안 위협 탐지·대응을 수행하는 보안 전문 센터인 'NHN클라우드 보안관제센터'를 정식 개소했다고 29일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AWS, 엔씨소프트 '바르코' LLM 개발 지원 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829114356</link>
             <guid>https://zdnet.co.kr/view/?no=20230829114356</guid>
             <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)는 엔씨소프트의 대규모언어모델(LLM) 개발을 지원하기 위해 '아마존 세이지메이커 점프스타트'를 제공했다고 29일 밝혔다. 엔씨소프트는 최근 아마존 세이지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/16/94800e9fb17191b967e93f785aa73fb1-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[기고] 코로나 학번 채용 문제, 해답은 AI에 있다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230829113524</guid>
             <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 현장 경험이 부족한 학생들이 취업전선에 뛰어들 준비를 하고 있다. 이에 '코로나 학번'으로 불리는 이들의 채용 문제를 해결하기 위해 AI 채용 솔루션을 도입하...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/29/c84968d20b02dbfdcc8ead25c04a2b6c-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오픈AI, '생성AI' 기업 시장으로 진격 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -144,34 +168,18 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[우리엔터프라이즈, 포항CC에 '필립스 LED 스포츠 조명' 공급 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829101902</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829101902</guid>
-            <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[종합 조명기업 우리엔터프라이즈는 경북 포항CC에 고출력 LED 투광등인 '필립스 LED 스포츠스타 시스템'을 공급했다고 29일 밝혔다. 우리엔터프라이즈는 바닷가에 인접한 포항C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대홈쇼핑, 아바타 쇼호스트·3D 착장샷 넣은 패션 방송 진행 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829093755</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829093755</guid>
-            <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[현대홈쇼핑이 인공지능(AI) 기술을 활용한 색다른 패션 방송을 선보인다. 이미지 생성 AI 기술에 기반해 고객의 요청대로 옷을 매칭한 모습을 3차원(3D) 이미지로 보여주고, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클로봇, 자율주행로봇 최적화 기술 개발 나서 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829101454</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829101454</guid>
-            <pubDate>Tue, 29 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행 로봇 서비스 전문기업 클로봇이 산업현장에서 활용 가능한 디지털 트윈 기반 자율주행로봇(AMR) 최적화 운영 서비스 기술 개발에 착수했다고 29일 밝혔다. 클로봇은 산업...]]></content:encoded>
+            <title><![CDATA[SK텔레콤, 양자보안통신 국제 표준 개발 추진 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230828144541</link>
+            <guid>https://zdnet.co.kr/view/?no=20230828144541</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 양자키분배기술(QKD)과 양자내성암호(PQC) 간 시너지를 기반으로 한 '양자보안통신' 표준화 개발에 착수한다. 상호 보완성을 띄는 QKD·PQC 장점을 극대화해,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[방통위, 내년 예산 2364억원 편성 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829112632</link>
             <guid>https://zdnet.co.kr/view/?no=20230829112632</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:32 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회는 2024년도 예산으로 지난해 편성안보다 200억원 줄어든 총 2천364억원을 편성해 국회에 제출한다고 29일 밝혔다. EBS 프로그램 제작지원과 시청자미디어재단...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -320,18 +328,18 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[화웨이, 에릭슨과 5G 특허 상호 라이선스 계약 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230826195928</link>
-            <guid>https://zdnet.co.kr/view/?no=20230826195928</guid>
-            <pubDate>Sat, 26 Aug 2023 11:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이와 에릭슨이 5G를 비롯한 주요 기술에 대해 상호 라이선스 다년 계약에 합의했다고 파이낸셜타임스가 25일(현지시간) 보도했다. 이번 합의로 두 회사는 서로 3G, 4G, ...]]></content:encoded>
+            <title><![CDATA[NHN클라우드, '보안관제센터' 정식 개소 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829114901</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829114901</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[NHN클라우드(대표 백도민, 김동훈)는 경상남도 김해시에 실시간 보안 위협 탐지·대응을 수행하는 보안 전문 센터인 'NHN클라우드 보안관제센터'를 정식 개소했다고 29일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AWS, 엔씨소프트 '바르코' LLM 개발 지원 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829114356</link>
             <guid>https://zdnet.co.kr/view/?no=20230829114356</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:41 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)는 엔씨소프트의 대규모언어모델(LLM) 개발을 지원하기 위해 '아마존 세이지메이커 점프스타트'를 제공했다고 29일 밝혔다. 엔씨소프트는 최근 아마존 세이지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -339,7 +347,7 @@
             <title><![CDATA[[기고] 코로나 학번 채용 문제, 해답은 AI에 있다 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829113524</link>
             <guid>https://zdnet.co.kr/view/?no=20230829113524</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:41 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 현장 경험이 부족한 학생들이 취업전선에 뛰어들 준비를 하고 있다. 이에 '코로나 학번'으로 불리는 이들의 채용 문제를 해결하기 위해 AI 채용 솔루션을 도입하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -347,7 +355,7 @@
             <title><![CDATA[오픈AI, '생성AI' 기업 시장으로 진격 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829112156</link>
             <guid>https://zdnet.co.kr/view/?no=20230829112156</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:41 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 생성형 인공지능(AI)의 기업 시장 공략을 연일 강화하고 있다. 지난주 거대언어모델(LLM)의 보급형 버전인 GPT-3.5 터보의 미세조정 기능을 선보인데 이어, 챗...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -355,7 +363,7 @@
             <title><![CDATA[워크데이, 2024년도 2분기 매출 전년 대비 16.3%↑ (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829102420</link>
             <guid>https://zdnet.co.kr/view/?no=20230829102420</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:41 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[워크데이가 2024년도 2분기 실적을 발표했다. 워크데이 2024 회계연도 2분기는 올해 5월부터 7월까지다. 해당기간 워크데이 총매출은 17억9천만 달러(약 2조4천억원)로,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -480,18 +488,10 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롯데정보통신, FC서울과 NFT 파트너십 체결 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230828142811</link>
-            <guid>https://zdnet.co.kr/view/?no=20230828142811</guid>
-            <pubDate>Mon, 28 Aug 2023 06:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[롯데정보통신이 프로축구단 FC서울과 스폰서십 및 마케팅 파트너십을 맺고 NFT기반의 선수카드 서비스인 팬카드(FANCARD+) 상품을 선보이는 등 다양한 협업을 진행한다고 28...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[코가로보틱스, 국내 셰프들과 자동화로봇 공동 개발 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829111524</link>
             <guid>https://zdnet.co.kr/view/?no=20230829111524</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:49 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[서빙로봇 로봇기업 코가로보틱스는 한국조리기능장협회와 요리 자동화 시스템과 로봇 서비스 모델을 개발·보급하기 위한 업무협약(MOU)을 체결했다고 29일 밝혔다. 코가로보틱스는 자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -499,7 +499,7 @@
             <title><![CDATA[쿠쿠, IFA 2023 참가…"유럽 시장서 인지도 높인다" (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829105422</link>
             <guid>https://zdnet.co.kr/view/?no=20230829105422</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:49 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠가 내달 1일부터 5일까지 독일 베를린 국제회의센터(ICC)에서 열리는 '2023 베를린 국제가전박람회(IFA 2023)'에 참가한다고 29일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -507,7 +507,7 @@
             <title><![CDATA[IDC "올해 PC 출하량, 전년比 13.7% 감소...내년부터 회복" (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829104355</link>
             <guid>https://zdnet.co.kr/view/?no=20230829104355</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:49 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[시장조사업체 IDC는 28일(미국 현지시간) "올해 세계 완제 PC 출하량이 지난 해 대비 13.7% 줄어든 2억 5천200만 대 수준으로 전망된다"고 밝혔다. 세계 완제 PC...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -651,7 +651,7 @@
             <title><![CDATA[하이브-게펜레코드, '글로벌 걸그룹' 만든다 (지디넷코리아 ─ 뉴스 ─ 인터넷)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829085528</link>
             <guid>https://zdnet.co.kr/view/?no=20230829085528</guid>
-            <pubDate>Tue, 29 Aug 2023 02:45:57 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[K팝 글로벌 성공 신화를 쓰고 있는 방시혁 하이브 의장과 세계 최대 팝 시장 미국에서 히트작 메이커로 불리는 존 재닉 게펜 레코드 회장이 손 잡고 글로벌 걸그룹 제작에 힘을 모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -811,7 +811,7 @@
             <title><![CDATA[정부, 무기발광 디스플레이 연구개발에 1조원 투입 (지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829092704</link>
             <guid>https://zdnet.co.kr/view/?no=20230829092704</guid>
-            <pubDate>Tue, 29 Aug 2023 02:46:05 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[정부가 차세대 기술로 주목받고 있는 마이크로 LED 등 무기발광(iLED) 디스플레이 산업 육성에 나선다. 이를 위해 1조원 규모의 '무기발광 디스플레이 기술개발 및 생태계 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -819,7 +819,7 @@
             <title><![CDATA[민관 손잡고 대규모 '반도체 첨단 패키징' R&D 사업 추진 (지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829092230</link>
             <guid>https://zdnet.co.kr/view/?no=20230829092230</guid>
-            <pubDate>Tue, 29 Aug 2023 02:46:05 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[반도체 첨단 패키징 선도기술을 확보하기 위해 삼성전자, SK하이닉스, 소부장, 반도체 후공정 전문업체(OSAT), 팹리스 기업과 반도체 기관들이 협력 체계 구축에 나선다. 주영...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -971,7 +971,7 @@
             <title><![CDATA["테슬라 사이버트럭, 와이퍼 더 커졌다" (지디넷코리아 ─ 뉴스 ─ 카테크)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829110100</link>
             <guid>https://zdnet.co.kr/view/?no=20230829110100</guid>
-            <pubDate>Tue, 29 Aug 2023 02:46:13 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[테슬라가 미국 텍사스 기가팩토리에서 생산 중인 전기 픽업트럭 '사이버트럭'의 운행 영상이 공개됐다고 자동차매체 일렉트렉이 28일(현지시간) 보도했다. 최근 유튜버로 활동 중인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -1835,7 +1835,7 @@
             <title><![CDATA[[기고] 코로나 학번 채용 문제, 해답은 AI에 있다 (지디넷코리아 ─ 전문가 칼럼)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829113524</link>
             <guid>https://zdnet.co.kr/view/?no=20230829113524</guid>
-            <pubDate>Tue, 29 Aug 2023 02:46:56 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 현장 경험이 부족한 학생들이 취업전선에 뛰어들 준비를 하고 있다. 이에 '코로나 학번'으로 불리는 이들의 채용 문제를 해결하기 위해 AI 채용 솔루션을 도입하는 기업이 늘고 있다.코로나 학번은 코로나19 팬데믹 시기에 대학 생활을 해 대면 수업을 비롯한 각종 대·내외 활동에 지장을 겪은 세대다. 수업이나 과제의 대부분이 온라인으로 진행됐고, 팬데믹 상황을 고려...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/08/29/c84968d20b02dbfdcc8ead25c04a2b6c.png" length="0" type="image/png"/>
         </item>
@@ -1995,7 +1995,7 @@
             <title><![CDATA[중기부, 내년 예산 9900억 증액 편성···14조5135억 국회 제출 (지디넷코리아 ─ 중기&스타트업)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829104154</link>
             <guid>https://zdnet.co.kr/view/?no=20230829104154</guid>
-            <pubDate>Tue, 29 Aug 2023 02:47:04 GMT</pubDate>
+            <pubDate>Tue, 29 Aug 2023 02:45:23 GMT</pubDate>
             <content:encoded><![CDATA[중소벤처기업부(중기부) 예산이 14조원대에 진입할 전망이다. 중기부는 2024년 예산안을 2023년 본예산(13조 5205억원)보다 9930억원 증가한(7.3% 증가) 14조 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/08/29/7977e8aa59351d8529ce46731c715a14-290x182.jpg" length="0" type="image/jpg"/>
         </item>
@@ -2360,6 +2360,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["은행 수익성 나쁘게만 보지 말아달라" (지디넷코리아 ─ 금융)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829095629</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829095629</guid>
+            <pubDate>Tue, 29 Aug 2023 03:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[금리 상승으로 대출 이자수익을 통해 자기 배만 불리는 것 아니냐는 비판적 여론이 거센 가운데 은행업계가 자금 안전망 역할을 하고 있으며, 수익성도 그렇게 크지 않다고 정면 반박...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[KB국민카드, '스틸샵 기업카드' 출시 (지디넷코리아 ─ 금융)]]></title>
             <link>https://zdnet.co.kr/view/?no=20230829092429</link>
             <guid>https://zdnet.co.kr/view/?no=20230829092429</guid>
@@ -2509,14 +2517,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230825101035</guid>
             <pubDate>Fri, 25 Aug 2023 01:43:04 GMT</pubDate>
             <content:encoded><![CDATA[우리은행과 우리카드는 네이버쇼핑과 함께 '우리원(WON)뱅킹 우리페이'로 결제 시 3% 캐시백을 지급하는 이벤트를 9월 1일까지 실시한다고 25일 밝혔다. 참여방법은 일반결제에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 'IDEA 2023' 2개 부문 수상 (지디넷코리아 ─ 금융)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230825093428</link>
-            <guid>https://zdnet.co.kr/view/?no=20230825093428</guid>
-            <pubDate>Fri, 25 Aug 2023 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드가 세계 3대 디자인 어워드인 'IDEA 2023'에서 2개 부분을 수상했다고 25일 밝혔다. 이번 IDEA에서 현대카드는 '현대카드 제로 에디션2'의 디자인 리뉴얼로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
