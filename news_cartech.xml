@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 01:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["테슬라 사이버트럭, 와이퍼 더 커졌다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829110100</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829110100</guid>
+            <pubDate>Tue, 29 Aug 2023 02:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 미국 텍사스 기가팩토리에서 생산 중인 전기 픽업트럭 '사이버트럭'의 운행 영상이 공개됐다고 자동차매체 일렉트렉이 28일(현지시간) 보도했다. 최근 유튜버로 활동 중인 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차 노조, 파업권 획득…총파업시 연 1조원 손실 우려]]></title>
             <link>https://zdnet.co.kr/view/?no=20230828143350</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230824093126</guid>
             <pubDate>Thu, 24 Aug 2023 00:39:55 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹이 미국 산업디자인협회(IDSA)가 주관하는 '2023 IDEA 디자인상'에서 금상 1개를 포함해 총 7개 상을 수상했다고 24일 밝혔다. IDEA 디자인상은 19...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 'EV멤버스 캠프데이 2023' 운영…고객 200명 대상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824091728</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824091728</guid>
-            <pubDate>Thu, 24 Aug 2023 00:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[기아가 전기차 고객 특화 멤버십 프로그램인 EV멤버스 고객을 대상으로 캠핑 행사를 마련했다. 기아는 경기 여주시에 위치한 해여림 빌리지 캠핑장에서 전기차와 함께 하는 '기아 E...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
