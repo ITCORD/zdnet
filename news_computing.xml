@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 10:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 11:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴대폰에 담긴 '지갑'…"대중화-보안 함께 가야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230830172636</link>
+            <guid>https://zdnet.co.kr/view/?no=20230830172636</guid>
+            <pubDate>Wed, 30 Aug 2023 11:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[[나트랑(베트남)=김윤희 기자]지갑 속에 보관하던 멤버십 카드나 쿠폰, 신용카드와 신분증까지 휴대폰으로 대체할 수 있게 되는 등 모바일 전자신분증(eID) 솔루션이 확산되는 가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공공 정보시스템 발주 문제점, 조달·예산 문제부터 살핀다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230830185718</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230829145352</guid>
             <pubDate>Tue, 29 Aug 2023 08:13:08 GMT</pubDate>
             <content:encoded><![CDATA[시장 상황이 급변하면서 누구도 미래를 예측하기 어려워졌다. 기업들도 운영 방식을 유연하고 민첩한 형태로 바꾸고 있다. 그동안 목표 달성을 위해 한 방식만 고집했다면, 이제는 상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국정원, 제2회 양자내성암호 산학연 컨퍼런스 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829162220</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829162220</guid>
-            <pubDate>Tue, 29 Aug 2023 08:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[국정원은 양자내성암호연구단·국가보안기술연구소·한국정보보호학회와 함께 양자내성암호 활용기반 조성 등을 위해 섬유센터에서 '양자내성암호 산학연 컨퍼런스'를 개최했다고 29일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
