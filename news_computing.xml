@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 01:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 02:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI의 편견을 벗기고 신뢰를 쌓는 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831105345</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831105345</guid>
+            <pubDate>Thu, 31 Aug 2023 02:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)의 시대다. 챗GPT, 달리(Dall-e) 2 같은 생성형 AI 모델은 사용 편리성과 낮은 진입장벽으로 큰 관심을 끌고 있다. 생성형 AI는 단순히 질문에 답변하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, IITP와 AI 국가 경쟁력 높인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831104716</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831104716</guid>
+            <pubDate>Thu, 31 Aug 2023 02:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 김유원)와 정보통신기획평가원(IITP)은 디지털 우수 인재 발굴 및 육성에 힘을 합치고, 초거대 AI 생태계 확산과 국가 AI 경쟁력 강화에 협력한다고 31...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN클라우드, 델 파워엣지 서버로 AI 데이터센터 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831104445</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831104445</guid>
+            <pubDate>Thu, 31 Aug 2023 02:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[델테크놀로지스는 오는 10월 개소 예쩡인 NHN클라우드의 '광주 국가 AI 데이터센터'에 델 파워엣지 서버를 공급한다고 31일 밝혔다. NHN클라우드는 델의 인프라 솔루션을 활...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IBM, 왓슨x 생성 AI로 '코볼'에 새 생명 주입]]></title>
             <link>https://zdnet.co.kr/view/?no=20230831103907</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230830105809</guid>
             <pubDate>Wed, 30 Aug 2023 03:10:15 GMT</pubDate>
             <content:encoded><![CDATA[구글과의 파트너십을 발표한 엔비디아의 주가가 사상 최고치를 기록했다. CNBC 등 외신들에 따르면 29일(현지시간) 미국 뉴욕 증시에서 엔비디아 주가는 4.16% 급등한 487...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국후지쯔, 채널A 'UHD NPS' 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230830105324</link>
-            <guid>https://zdnet.co.kr/view/?no=20230830105324</guid>
-            <pubDate>Wed, 30 Aug 2023 02:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[한국후지쯔는 채널A 상암 동아디지털미디어센터(DDMC)의 '초고화질(UHD) 네트워크제작시스템(NPS) 구축 사업'을 완료했다고 30일 밝혔다. 이 사업은 UHD 콘텐츠의 증가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS, 개발자 도구 전문기업 '피그' 인수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230830070601</link>
-            <guid>https://zdnet.co.kr/view/?no=20230830070601</guid>
-            <pubDate>Wed, 30 Aug 2023 00:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)가 개발자 도구 및 서비스 전문기업 피그(Fig)를 인수했다. 29일(현지시간) 실리콘앵글 등 외신에 따르면 피그의 브랜든 포크 최고경영자(CEO)는 회사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리눅스 6.5 버전 공개…AMD 라이젠 'P-state' 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230830092426</link>
-            <guid>https://zdnet.co.kr/view/?no=20230830092426</guid>
-            <pubDate>Wed, 30 Aug 2023 00:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스커널 6.5 버전이 리누스 토발즈의 연기 우려를 딛고 예정대로 출시됐다. 29일(현지시간) 미국지디넷에 따르면, 리누스 토발즈는 27일 "지난주 특별히 이상하거나 무서운 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
