@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 00:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 01:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM, 왓슨x 생성 AI로 '코볼'에 새 생명 주입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831103907</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831103907</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 생성형 인공지능(AI) 신제품 'IBM Z용 왓슨x 코드 어시스턴트'를 31일 발표했다. IBM Z용 왓슨x 코드 어시스턴트는 IBM Z 플랫폼에서 코볼(COBOL)을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[모자이크ML, 오라클 클라우드로 생성 AI 학습 속도 50% 개선]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831103222</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831103222</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 대규모 머신러닝(ML) 모델 구축용 인프라 도구를 제공하는 소프트웨어 개발 제공업체인 모자이크ML이 '오라클클라우드인프라스트럭처(OCI)'를 선호 클라우드 인프라로 선...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[래블업, IFA 2023서 LLM 서비스 해외 첫 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831101859</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831101859</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 연구·개발 플랫폼 개발기업 래블업은 9월 1일부터 5일까지 독일 베를린 국제회의센터(ICC)에서 열리는 '2023 베를린 국제가전박람회(IFA 2023)'에 참...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["클라우드 관리에 '비용 효율성' 중요도 커진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230830151706</link>
+            <guid>https://zdnet.co.kr/view/?no=20230830151706</guid>
+            <pubDate>Thu, 31 Aug 2023 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[기업이 클라우드 도입을 가속화하기 시작했다. 기존 온프레미스에서 클라우드로 전체 또는 부분적으로 이동하려 노력 중이다. 가트너는 올해 전 세계 퍼블릭 클라우드 지출이 5천918...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[맥용 비주얼스튜디오, 1년뒤 기술지원 종료]]></title>
             <link>https://zdnet.co.kr/view/?no=20230831082232</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230830092426</guid>
             <pubDate>Wed, 30 Aug 2023 00:40:34 GMT</pubDate>
             <content:encoded><![CDATA[리눅스커널 6.5 버전이 리누스 토발즈의 연기 우려를 딛고 예정대로 출시됐다. 29일(현지시간) 미국지디넷에 따르면, 리누스 토발즈는 27일 "지난주 특별히 이상하거나 무서운 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['전직 해커' 보안 전문가의 조언 "FIDO, 피싱 95% 예방"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230830045215</link>
-            <guid>https://zdnet.co.kr/view/?no=20230830045215</guid>
-            <pubDate>Wed, 30 Aug 2023 00:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[[나트랑(베트남)=김윤희 기자]"패스워드를 탈취하기 위한 피싱 공격에 저항할 수 있는 기술이 패스트아이덴티티온라인(FIDO)입니다. 피싱 공격의 95%는 FIDO만으로 보호할 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["패스워드는 전염병...동남아 FIDO 확산 노력할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230830033225</link>
-            <guid>https://zdnet.co.kr/view/?no=20230830033225</guid>
-            <pubDate>Wed, 30 Aug 2023 00:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[[나트랑(베트남)=김윤희 기자]"패스워드는 오늘날 우리 모두가 참여하는 네트워크 경제에 대한 위협이자 전염병입니다. 전세계가 패스워드를 넘어서도록 지원해 데이터 유출, 계정 탈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ ONE, 디지털 멤버십 NFT 한정 발행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829181455</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829181455</guid>
-            <pubDate>Tue, 29 Aug 2023 10:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[CJ올리브네트웍스(대표 유인상)가 멤버십 서비스 CJ ONE이 디지털 멤버십 NFT '프리즘 원 멤버십'을 발행한다고 29일 밝혔다. CJ ONE은 브랜드 가치 제고 및 고객 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미라콤아이앤씨, 클라우드 MES 무료 체험 서비스 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829180904</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829180904</guid>
-            <pubDate>Tue, 29 Aug 2023 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[미라콤아이앤씨(대표 강석립)는 클라우드형 MES 솔루션의 미래 비전을 제시하고 차별화된 클라우드 제조 실행 시스템(MES) 솔루션 무료 체험 서비스를 제공한다고 29일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
