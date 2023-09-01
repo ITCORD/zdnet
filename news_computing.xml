@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 08:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 09:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모노커뮤니케이션즈, 가입 간소화 '텔톡 노티' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901175519</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901175519</guid>
+            <pubDate>Fri, 01 Sep 2023 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[모노커뮤니케이션즈(대표 이형수)는 사용자가 텔톡 웹서비스에 접속해 있지 않아도 항상 문자 수신 알림을 받을 수 있는 PC용 텔톡 노티(Noti, 가칭) 버전을 곧 출시한다고 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터프라이즈, 클라우드 서비스명 변경]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901164804</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230831091603</guid>
             <pubDate>Thu, 31 Aug 2023 05:09:01 GMT</pubDate>
             <content:encoded><![CDATA[애자일소다(대표 최대우)가 한국장학재단에 인공지능(AI) 기술을 구축 사업을 완료했다고 31일 밝혔다. 애자일소다는 AI 광학문자인식(OCR) 기술로 국가장학금 신청 관련 서류...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코드형 인프라 '테라폼', 생태계 둘로 쪼개지다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230831121943</link>
-            <guid>https://zdnet.co.kr/view/?no=20230831121943</guid>
-            <pubDate>Thu, 31 Aug 2023 05:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[하시코프가 테라폼의 오픈소스 라이선스를 폐지한뒤 파장이 커지고 있다. 테라폼 라이선스 복원을 요구하는 오픈소스 커뮤니티에서 테라폼 코드의 포크를 만들었다. 오픈TF라 불리는 오...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
