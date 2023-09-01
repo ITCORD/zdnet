@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비트코인 ETF 심사 연기...시세도 하락]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901111009</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901111009</guid>
+            <pubDate>Fri, 01 Sep 2023 04:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[업계 관심을 모으던 비트코인 현물 상장지수펀드(ETF) 심사가 연기됐다. 그 여파로 비트코인을 비롯한 가상자산 시세도 하락했다. 31일(이하 현지시간) 코인데스크 등 다수 외신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이노그리드, 전북 클라우드 전환 사업 성공 완수]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901113653</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230831103907</guid>
             <pubDate>Thu, 31 Aug 2023 01:43:00 GMT</pubDate>
             <content:encoded><![CDATA[IBM은 생성형 인공지능(AI) 신제품 'IBM Z용 왓슨x 코드 어시스턴트'를 31일 발표했다. IBM Z용 왓슨x 코드 어시스턴트는 IBM Z 플랫폼에서 코볼(COBOL)을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모자이크ML, 오라클 클라우드로 생성 AI 학습 속도 50% 개선]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230831103222</link>
-            <guid>https://zdnet.co.kr/view/?no=20230831103222</guid>
-            <pubDate>Thu, 31 Aug 2023 01:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[오라클은 대규모 머신러닝(ML) 모델 구축용 인프라 도구를 제공하는 소프트웨어 개발 제공업체인 모자이크ML이 '오라클클라우드인프라스트럭처(OCI)'를 선호 클라우드 인프라로 선...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
