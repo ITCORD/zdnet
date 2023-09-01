@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 08:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["우리가 바로 환경 문제 해결사 '기후테크 K스타트업' 이에요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901112013</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901112013</guid>
+            <pubDate>Fri, 01 Sep 2023 08:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[“기후, 환경. 인류가 맞닥뜨린 가장 심각한 사회적 문제다. 모두 인식하고 있지만, 특정 비즈니스 솔루션만 가지고 '스케일업' 할 분야는 아니다. 정책적인 뒷받침과 규제 해소,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[큐텐, 이커머스 셀러 대상 '글로벌 통합 광고' 사업 본격화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901144709</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230831135310</guid>
             <pubDate>Thu, 31 Aug 2023 06:12:39 GMT</pubDate>
             <content:encoded><![CDATA[카카오는 서울시 여의도 소상공인연합회 본부에서 소상공인연합회 오세희 회장, 카카오 홍은택 대표 등이 참석한 가운데 소상공인연합회(이하 소공연)와 '소상공인의 지속 가능한 발전과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창작자 멤버십 커뮤니티 스테디오, '포스트 결제' 서비스 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230831104620</link>
-            <guid>https://zdnet.co.kr/view/?no=20230831104620</guid>
-            <pubDate>Thu, 31 Aug 2023 02:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[아이디어스와 텀블벅 운영사 백패커가 선보인 아티스트, 크리에이터 멤버십 커뮤니티 서비스 스테디오가 창작자들이 그림이나 글, 팟캐스트 등에 개별 유료화를 할 수 있는 포스트 결제...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

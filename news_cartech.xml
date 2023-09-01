@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 08:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 완성車 5사, 8월 총 65만대 판매…현대차·기아 점유율 91%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901170315</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901170315</guid>
+            <pubDate>Fri, 01 Sep 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차, 기아, GM 한국사업장(한국GM), 르노코리아자동차, KG모빌리티 등 국내 완성차 5개사가 8월 한달동안 국내외에서 총 65만3천811를 판매한 것으로 집계됐다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자동차업계, 한가위 고객 잡자…9월 판매조건]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901151738</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230829130814</guid>
             <pubDate>Tue, 29 Aug 2023 04:12:09 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹은 사내 스타트업 프로그램 '제로원(ZER01NE) 컴퍼니빌더'로 육성한 스타트업 3개사를 9개월 만에 분사했다고 29일 밝혔다. 분사한 사내 스타트업은 택시 등 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["테슬라 사이버트럭, 와이퍼 더 커졌다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829110100</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829110100</guid>
-            <pubDate>Tue, 29 Aug 2023 02:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 미국 텍사스 기가팩토리에서 생산 중인 전기 픽업트럭 '사이버트럭'의 운행 영상이 공개됐다고 자동차매체 일렉트렉이 28일(현지시간) 보도했다. 최근 유튜버로 활동 중인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

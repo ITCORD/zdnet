@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 08:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터프라이즈, 클라우드 서비스명 변경]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901164804</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901164804</guid>
+            <pubDate>Fri, 01 Sep 2023 08:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 한층 강화된 클라우드 기술력을 기반으로 클라우드 서비스 프로바이더(CSP)로서의 정체성을 강화하기 위해 서비스명을 변경하고 새로운 로고를 공개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시아메타버스-그램퍼스, '웹3' 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901151028</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230831121943</guid>
             <pubDate>Thu, 31 Aug 2023 05:09:01 GMT</pubDate>
             <content:encoded><![CDATA[하시코프가 테라폼의 오픈소스 라이선스를 폐지한뒤 파장이 커지고 있다. 테라폼 라이선스 복원을 요구하는 오픈소스 커뮤니티에서 테라폼 코드의 포크를 만들었다. 오픈TF라 불리는 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털플랫폼정부 최상위 통합플랫폼,'DPG허브' 설계 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230831110050</link>
-            <guid>https://zdnet.co.kr/view/?no=20230831110050</guid>
-            <pubDate>Thu, 31 Aug 2023 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[디지털플랫폼정부(DPG, 디플정) 최상위 통합플랫폼으로 자리매김할 'DPG허브'의 상세설계를 위한 'DPG허브 정보화전략계획(ISP) 착수보고회'가 31일 서울에서 열렸다. 5...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
