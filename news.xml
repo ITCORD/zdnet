@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 22:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 23:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 갤럭시S24 울트라, 어떻게 나올까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230902070934</link>
+            <guid>https://zdnet.co.kr/view/?no=20230902070934</guid>
+            <pubDate>Fri, 01 Sep 2023 23:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 차세대 스마트폰 최상위 모델인 '갤럭시S24 울트라'에 탑재되는 이미지 센서 정보가 나왔다. IT매체 폰아레나는 1일(이하 현지시간) 유명 IT 팁스터 아이스유니버스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/28/372c603652c3023fdafa377fd0ffb2c1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모노커뮤니케이션즈, 가입 간소화 '텔톡 노티' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901175519</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230901154653</guid>
             <pubDate>Fri, 01 Sep 2023 07:09:07 GMT</pubDate>
             <content:encoded><![CDATA[엔씨소프트(대표 김택진)는 2023 신입사원 공개채용을 4일부터 진행한다고 밝혔다. 모집 분야는 ▲프로그래밍 ▲게임기획 ▲개발관리 ▲게임사업 ▲system Engineering...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "메테오레이크 성능·전력소모, AI로 조절"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230901154509</link>
-            <guid>https://zdnet.co.kr/view/?no=20230901154509</guid>
-            <pubDate>Fri, 01 Sep 2023 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 오는 4분기부터 본격 출하할 차세대 코어 프로세서, 메테오레이크(Meteor Lake)부터 AI를 활용해 성능과 전력소모를 조절하겠다고 밝혔다. 에프라임 로템(Efrai...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

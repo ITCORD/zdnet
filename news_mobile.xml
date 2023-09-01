@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 22:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 23:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 갤럭시S24 울트라, 어떻게 나올까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230902070934</link>
+            <guid>https://zdnet.co.kr/view/?no=20230902070934</guid>
+            <pubDate>Fri, 01 Sep 2023 23:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 차세대 스마트폰 최상위 모델인 '갤럭시S24 울트라'에 탑재되는 이미지 센서 정보가 나왔다. IT매체 폰아레나는 1일(이하 현지시간) 유명 IT 팁스터 아이스유니버스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바디프랜드 안마의자 4종, 2023 굿디자인 어워드 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901171347</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230831163519</guid>
             <pubDate>Thu, 31 Aug 2023 08:13:14 GMT</pubDate>
             <content:encoded><![CDATA[삼성웰스토리가 레인보우로보틱스와 단체급식에 로봇 자동화 솔루션을 도입하기 위한 업무협약을 체결했다고 31일 밝혔다. 레인보우로보틱스는 국내 최초 개발한 이족보행 로봇을 비롯해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['갤럭시버즈2 프로' 3대 이상으로 삼성 스마트TV 동시에 듣는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230831160411</link>
-            <guid>https://zdnet.co.kr/view/?no=20230831160411</guid>
-            <pubDate>Thu, 31 Aug 2023 08:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 무선이어폰 '갤럭시버즈2 프로' 3대 이상을 삼성 스마트TV에 블루투스로 연결해 동시에 들을 수 있게 된다. 삼성전자는 오는 9월 갤럭시 버즈2 프로와 삼성 스마트TV...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
