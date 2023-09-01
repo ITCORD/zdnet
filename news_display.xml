@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 01:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 02:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 최대 용량 12나노급 32Gb D램 개발…연내 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901082226</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901082226</guid>
+            <pubDate>Fri, 01 Sep 2023 02:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 현존 최대 용량을 갖춘 12나노미터급 32Gb(기가비트) DDR5 D램을 세계 최초로 개발했다고 1일 밝혔다. 해당 제품은 연내 양산될 예정이다. 지난 1983년 6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한미반도체, SK하이닉스서 'HBM' 핵심장비 416억원 규모 수주]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901090603</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230829165952</guid>
             <pubDate>Tue, 29 Aug 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA["차세대 디스플레이 기술인 iLED(무기발광다이오드) 분야에서 국내 저변은 아직 강한 상황이 아니다. 이에 내년부터는 국내 무기발광 디스플레이 산업 육성을 본격적으로 지원할 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 파운드리 투자 공세…차량용 칩 자급자족 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230829100718</link>
-            <guid>https://zdnet.co.kr/view/?no=20230829100718</guid>
-            <pubDate>Tue, 29 Aug 2023 08:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[세계적으로 자국 중심의 안정적인 반도체 공급망을 확보하기 위한 각 국가별 경쟁이 격화된 가운데 미국에 이어 유럽, 인도, 일본 등이 속속 전열을 갖춰 뛰어들고 있다. 이들 국가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
