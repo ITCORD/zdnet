@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 22:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 23:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신촌 현대백화점 '디지털오픈스튜디오'서 레이싱·바이크 즐겨보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230901170657</link>
+            <guid>https://zdnet.co.kr/view/?no=20230901170657</guid>
+            <pubDate>Sat, 02 Sep 2023 23:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 말 현대백화점 신촌점에는 레이싱 모션 시뮬레이터, 사물인터넷(IoT) 디지털 바이크 등 스타트업 기술을 한 자리에서 체험해볼 수 있는 '디지털 오픈 스튜디오'가 문을 열...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/01/0da6167aa686871b8589aee290b64dd9.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[NIPA-한국보건산업진흥원, 디지털헬스케어 육성 MOU]]></title>
             <link>https://zdnet.co.kr/view/?no=20230902161741</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230902140724</guid>
             <pubDate>Sat, 02 Sep 2023 05:08:32 GMT</pubDate>
             <content:encoded><![CDATA[미국 조지아 주 정부가 현대자동차그룹과 LG에너지솔루션의 배터리 합작 공장에 20억 달러(약2조6천500억원)를 추가 투자한다. 31일(현지시간) 조지아주 정부는 브라이언 카운...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/02/1f25820fb5103bffa7690deb6cadf8ee-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테슬라 주가 5% 넘게 급락…이유는?]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230901162555</guid>
             <pubDate>Fri, 01 Sep 2023 08:12:16 GMT</pubDate>
             <content:encoded><![CDATA[일동제약이 신임 최고운영책임자(COO)에 이재준 부사장을 선임했다. 이재준 부사장은 캐나다 브리티시컬럼비아대학교와 동 대학원을 졸업하고 미국 노스웨스턴대학교에서 의공학 박사 과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에코프로HN, 서울대와 이차전지 소재 기술 자문 3차 MOU 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230901161015</link>
-            <guid>https://zdnet.co.kr/view/?no=20230901161015</guid>
-            <pubDate>Fri, 01 Sep 2023 08:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[에코프로HN이 산학 협력을 통해 이차전지 소재 기술개발에 힘준다. 에코프로HN은 서울대학교 교수회관에서 서울대학교 공학컨설팅센터와 차세대 이차전지 소재 기술 자문 협력에 관한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
