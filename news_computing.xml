@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 00:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 01:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 28년 만에 윈도 워드패드 지원 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230903014540</link>
+            <guid>https://zdnet.co.kr/view/?no=20230903014540</guid>
+            <pubDate>Sun, 03 Sep 2023 01:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 윈도 내 문서 작성 프로그램 워드패드의 개발 및 지원을 중단한다. 1일(현지시간) 비핑컴퓨터 등 외신에 따르면 마이크로소프트는 윈도 클라이언트에서 더 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글·메타처럼 'AI 연구소' 내세운 美 기업들]]></title>
             <link>https://zdnet.co.kr/view/?no=20230901082612</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230831140613</guid>
             <pubDate>Thu, 31 Aug 2023 05:09:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈베이스(대표 정진섭, 황철이)는 애큐온저축은행의 IT시스템 통합 유지보수 사업을 수주했다고 31일 밝혔다. 이번 사업은 애큐온저측은행의 IT시스템 통합 유지보수 체계를 구축...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노도, 아태지역 고객 사례·성과 공유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230831122234</link>
-            <guid>https://zdnet.co.kr/view/?no=20230831122234</guid>
-            <pubDate>Thu, 31 Aug 2023 05:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[디노도가 아시아태평양 고객 사례와 주요 성과를 공유하기 위해 자리를 마련했다. 디노도는 지난달 싱가포르에서 글로벌 데이터 컨퍼런스 '디노도 데이터페스트 2023'를 열고 아태지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
