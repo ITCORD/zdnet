@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 12:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 13:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피싱방지 솔루션 페이크파인더, 아마존 'AWS 파트너 패스' 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230904220210</link>
+            <guid>https://zdnet.co.kr/view/?no=20230904220210</guid>
+            <pubDate>Mon, 04 Sep 2023 13:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[국내 점유율 1위 피싱방지 솔루션 '페이크파인더'가 아마존의 까다로운 기술검증을 통과했다. 인공지능(AI) 보안기업 에버스핀(대표 하영빈)은 피싱방지 솔루션 페이크파인더가 'A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포티넷, '제로 트러스트 엣지 솔루션' 리더 기업 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20230904175518</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230901151028</guid>
             <pubDate>Fri, 01 Sep 2023 06:13:18 GMT</pubDate>
             <content:encoded><![CDATA[갤럭시아머니트리의 블록체인 전문 자회사 갤럭시아메타버스는 글로벌 멀티 플랫폼 게임 기업 '그램퍼스'와 업무협약(MOU)을 체결했다고 1일 밝혔다. 이번 파트너십 체결로 양사는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI, 드론 조종 대결에서도 인간 이겼다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230901144828</link>
-            <guid>https://zdnet.co.kr/view/?no=20230901144828</guid>
-            <pubDate>Fri, 01 Sep 2023 06:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[바둑, 체스, 스타크래프트 게임에 이어 드론 조종 대결에서도 인공지능(AI)이 인간을 이겼다. 스위스 취리히 연방공대(ETH) 연구팀이 개발한 AI 드론 조종 시스템이 드론 조...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
