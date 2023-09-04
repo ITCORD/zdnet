@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 00:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 01:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 카카오프렌즈 오프라인 시티투어 캠페인 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230904102021</link>
+            <guid>https://zdnet.co.kr/view/?no=20230904102021</guid>
+            <pubDate>Mon, 04 Sep 2023 01:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 서울특별시, 인천국제공항공사와 손잡고 카카오프렌즈와 함께 하는 시티투어 캠페인을 진행한다고 5일 밝혔다. 이번 캠페인은 가을을 맞아 도심 곳곳에 카카오프렌즈를 만날 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[배민, 점주 위한 콘서트 ' 배민음악회' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230904085118</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230901090009</guid>
             <pubDate>Fri, 01 Sep 2023 00:44:09 GMT</pubDate>
             <content:encoded><![CDATA[퍼스널 모빌리티(PM) 공유 플랫폼 지쿠 운영사 지바이크가 현대자동차그룹(현대자동차·현대모비스)과 프리미엄 PM 공유서비스 실증사업 준비를 위한 업무협약을 체결했다고 1일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브뮤직, 재생 화면에 댓글 기능 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230901084009</link>
-            <guid>https://zdnet.co.kr/view/?no=20230901084009</guid>
-            <pubDate>Fri, 01 Sep 2023 00:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브뮤직이 재생 화면에 댓글 기능을 추가했다. 미국 IT매체 엔가젯은 지난달 31일(현지시간) 유튜브뮤직이 현재 재생 화면에 소셜 요소를 추가하기 위해 댓글 기능을 넣었다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
