@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 09:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 10:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정하중 한국지멘스 대표, '쿨 코리아 챌린지' 동참]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230905181300</link>
+            <guid>https://zdnet.co.kr/view/?no=20230905181300</guid>
+            <pubDate>Tue, 05 Sep 2023 10:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[한국지멘스(대표 정하중)는 정하중 대표이사·사장이 에너지 절약을 위한 '쿨 코리아' 챌린지에 동참했다고 5일 밝혔다. 쿨 코리아 챌린지는 한국에너지공단과 패션그룹 형지가 함께 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 간편인증 인터페이스 가이드라인 마련]]></title>
             <link>https://zdnet.co.kr/view/?no=20230905180739</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230905091511</guid>
             <pubDate>Tue, 05 Sep 2023 01:41:28 GMT</pubDate>
             <content:encoded><![CDATA[세일즈포스 커머스 클라우드가 올해 '가트너 매직 쿼드런트 디지털 커머스' 부문에서 8년 연속 리더로 뽑혔다. 가트너는 커머스 클라우드가 유연성, 확장성, 안전성에서 높은 경쟁력...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지-NIA, 한국어 언어모델 평가 플랫폼 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230905084816</link>
-            <guid>https://zdnet.co.kr/view/?no=20230905084816</guid>
-            <pubDate>Tue, 05 Sep 2023 01:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지가 한국지능정보사회진흥원(NIA)과 한국형 오픈 거대언어모델(LLM) 리더보드 구축을 위해 손잡았다. 양사는 서울 광화문 NIA 서울사무실에서 '인공지능(AI) 허브'...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

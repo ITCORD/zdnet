@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 09:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 10:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 스마트도시의 축제, '월드스마트시티엑스포 2023' 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230905183419</link>
+            <guid>https://zdnet.co.kr/view/?no=20230905183419</guid>
+            <pubDate>Tue, 05 Sep 2023 10:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부와 과학기술정보통신부는 6일부터 8일까지 사흘간 경기도 고양시 킨텍스에서 스마트도시의 현재와 미래를 한 곳에서 체험할 수 있는 '월드스마트시티엑스포 2023'을 개최한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[와이파이7 지원 기기, 연내 노트북까지 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20230905162324</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230904104847</guid>
             <pubDate>Mon, 04 Sep 2023 02:16:55 GMT</pubDate>
             <content:encoded><![CDATA[물류로봇 솔루션 기업 플로틱이 국내 최대 물류·유통 분야 전시회인 'SCM 페어 2023'에 참가하고 물류센터 내 자율주행 로봇(AMR) 도입을 위한 솔루션을 선보인다고 4일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미마이크로닉스, IFA 2023 첫 출전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230904104753</link>
-            <guid>https://zdnet.co.kr/view/?no=20230904104753</guid>
-            <pubDate>Mon, 04 Sep 2023 02:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[한미마이크로닉스는 독일 베를린에서 오는 5일까지 진행되는 유럽 최대 규모 IT·가전 전시회 'IFA 2023'에 출전해 각종 PC 주변기기를 전시한다고 밝혔다. 한미마이크로닉스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
