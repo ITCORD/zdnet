@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 00:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 01:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 "엑스 美 매출 감소, 비영리 유대인단체 때문"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230905083719</link>
+            <guid>https://zdnet.co.kr/view/?no=20230905083719</guid>
+            <pubDate>Tue, 05 Sep 2023 01:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 본인이 인수한 엑스(옛 트위터) 수익 침체 원인을 미국 비영리 유대인단체인 반명예훼손연맹(ADL) 탓으로 돌리며 고소하겠다고 엄포를 놨...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에어비앤비, 올해의 브랜드 대상 숙박 예약 플랫폼 부문 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230905092532</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230901171019</guid>
             <pubDate>Fri, 01 Sep 2023 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[경기콘텐츠진흥원은 가상·증강현실(VR·AR) 등 실감기술 활성화와 메타버스 전문 인력 양성을 위한 '2023 경기 메타버스 해커톤'을 13일부터 판교 경기창조경제혁신센터에서 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["우리가 바로 환경 문제 해결사 '기후테크 K스타트업' 이에요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230901112013</link>
-            <guid>https://zdnet.co.kr/view/?no=20230901112013</guid>
-            <pubDate>Fri, 01 Sep 2023 08:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[“기후, 환경. 인류가 맞닥뜨린 가장 심각한 사회적 문제다. 모두 인식하고 있지만, 특정 비즈니스 솔루션만 가지고 '스케일업' 할 분야는 아니다. 정책적인 뒷받침과 규제 해소,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
