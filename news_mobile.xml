@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 07:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 08:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와이파이7 지원 기기, 연내 노트북까지 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230905162324</link>
+            <guid>https://zdnet.co.kr/view/?no=20230905162324</guid>
+            <pubDate>Tue, 05 Sep 2023 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 와이파이 표준 '와이파이7'(802.11be) 지원 기기가 올 연말부터 노트북까지 확대될 전망이다. 와이파이7은 기존 2.4/5GHz 주파수 대비 혼선과 간섭이 적은 6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑스와이지, 식음료 자회사 라운지엑스에 김동진 대표 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230905154006</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230904104753</guid>
             <pubDate>Mon, 04 Sep 2023 02:16:55 GMT</pubDate>
             <content:encoded><![CDATA[한미마이크로닉스는 독일 베를린에서 오는 5일까지 진행되는 유럽 최대 규모 IT·가전 전시회 'IFA 2023'에 출전해 각종 PC 주변기기를 전시한다고 밝혔다. 한미마이크로닉스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배민로봇, 올해의 브랜드 대상 수상…기념 프로모션 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230904103847</link>
-            <guid>https://zdnet.co.kr/view/?no=20230904103847</guid>
-            <pubDate>Mon, 04 Sep 2023 02:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[서빙로봇 전문기업 비로보틱스가 '2023 올해의 브랜드 대상' 수상을 기념해 9월 한 달 간 계약 고객을 대상으로 감사 이벤트를 진행한다고 4일 밝혔다. 비로보틱스는 오는 30...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
