@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 23:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 00:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 로보택시, 구급차 방해 사례 늘어...규제 강화 방안 논의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230905080007</link>
+            <guid>https://zdnet.co.kr/view/?no=20230905080007</guid>
+            <pubDate>Tue, 05 Sep 2023 00:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[미국 캘리포니아주 샌프란시스코에서 자율주행 택시(로보택시)와 구급차 충돌 사고가 잇따라 발생한 것으로 나타났다. CNBC는 4일(현지시간) 로보택시가 본격적으로 운행을 시작한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위험관리·보안평가 최신 동향 공유···정보보호학회 행사 21일 열려]]></title>
             <link>https://zdnet.co.kr/view/?no=20230904223559</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230901175519</guid>
             <pubDate>Fri, 01 Sep 2023 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[모노커뮤니케이션즈(대표 이형수)는 사용자가 텔톡 웹서비스에 접속해 있지 않아도 항상 문자 수신 알림을 받을 수 있는 PC용 텔톡 노티(Noti, 가칭) 버전을 곧 출시한다고 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 클라우드 서비스명 변경]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230901164804</link>
-            <guid>https://zdnet.co.kr/view/?no=20230901164804</guid>
-            <pubDate>Fri, 01 Sep 2023 08:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 한층 강화된 클라우드 기술력을 기반으로 클라우드 서비스 프로바이더(CSP)로서의 정체성을 강화하기 위해 서비스명을 변경하고 새로운 로고를 공개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
