@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 09:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 10:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 허위 인터뷰 의혹 뉴스타파에 해명 요구…방심위도 심의 예고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230906174510</link>
+            <guid>https://zdnet.co.kr/view/?no=20230906174510</guid>
+            <pubDate>Wed, 06 Sep 2023 10:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 허위 인터뷰 의혹을 받는 뉴스타파에 해명을 요구했다. 6일 관련업계에 따르면 네이버는 화천대유자산관리 대주주 김만배씨와 신학림 전 언론노동조합 위원장의 인터뷰를 보도한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위 여권 위원들 "이해충돌 논란 정민영 위원 사퇴해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230906154203</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230905102344</guid>
             <pubDate>Tue, 05 Sep 2023 01:41:20 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드는 양자키분배(QKD)와 양자내성암호(PQC) 기술의 전용회선을 같이 제공할 수 있는 약관 신고 기준 국내 최초 사업자가 됐다고 5일 밝혔다. 양자보안통신은 양자의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 사우디에 클라우드 데이터센터 오픈...중동 시장 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230905090806</link>
-            <guid>https://zdnet.co.kr/view/?no=20230905090806</guid>
-            <pubDate>Tue, 05 Sep 2023 01:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[중국 화웨이테크놀로지스가 중동과 북아프리카 지역의 온라인 서비스를 확대하기 위해 사우디아라비아 수도 리야드에 클라우드 데이터 센터를 오픈했다. 4일(현지시간) 로이터통신에 따르...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
