@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 23:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 00:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15일 시행 개인정보 보호법, 국민 정보주권 보장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230906085320</link>
+            <guid>https://zdnet.co.kr/view/?no=20230906085320</guid>
+            <pubDate>Wed, 06 Sep 2023 00:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(개인정보위)가 15일 시행 예정인 개인정보 보호법과 후속 개정 시행령을 공개했다. 이번 개정법은 정보주체인 국민의 정보주권을 실질적으로 보장하기 위해 전면적인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정하중 한국지멘스 대표, '쿨 코리아 챌린지' 동참]]></title>
             <link>https://zdnet.co.kr/view/?no=20230905181300</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230905102658</guid>
             <pubDate>Tue, 05 Sep 2023 01:41:28 GMT</pubDate>
             <content:encoded><![CDATA[쿠콘(대표 김종현)은 SK플래닛의 포인트테크 앱 '시럽'에 입금이체 API를 제공한다고 5일 밝혔다. 해당 API은 시럽 '투자 캐시백 통장'에 적용될 방침이다. 투자 캐시백 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, 가트너 디지털 커머스 부문 8년 연속 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230905091511</link>
-            <guid>https://zdnet.co.kr/view/?no=20230905091511</guid>
-            <pubDate>Tue, 05 Sep 2023 01:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스 커머스 클라우드가 올해 '가트너 매직 쿼드런트 디지털 커머스' 부문에서 8년 연속 리더로 뽑혔다. 가트너는 커머스 클라우드가 유연성, 확장성, 안전성에서 높은 경쟁력...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
