@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 06:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 07:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 타워 세미컨덕터 인수 불발에 '파운드리 협력' 선회]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230906151908</link>
+            <guid>https://zdnet.co.kr/view/?no=20230906151908</guid>
+            <pubDate>Wed, 06 Sep 2023 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 지난 해 2월부터 진행했던 이스라엘 반도체 회사, '타워 세미컨덕터' 인수가 무산되자 '파운드리 부문 협력' 카드를 꺼내들었다. 타워 세미컨덕터가 현재 일본에서만 생산하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한미반도체, 'TC 본더' 세미콘 첫 공개…TSMC 패키징 공략]]></title>
             <link>https://zdnet.co.kr/view/?no=20230906131245</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230904110930</guid>
             <pubDate>Mon, 04 Sep 2023 06:13:24 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 차세대 메모리반도체인 HBM(고대역폭메모리) 시장 확대에 적극 나서고 있는 가운데 최근 북미 주요 GPU 고객사와 HBM3 테스트를 완료한 데 이어, HBM과 함께 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[IAA 2023] 삼성, 車 반도체·DP·배터리 3각 편대 출동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230904085344</link>
-            <guid>https://zdnet.co.kr/view/?no=20230904085344</guid>
-            <pubDate>Mon, 04 Sep 2023 06:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자·삼성SDI·삼성디스플레이 등 3사가 독일 뮌헨에서 5일부터 10일까지(현지시간) 열리는 'IAA 모빌리티 2023(옛 프랑크푸르트 모터쇼)'에 참가해 미래차 혁신을 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
