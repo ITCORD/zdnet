@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 화웨이-SMIC 7나노칩, 美 제재 위반했나…"관건은 IP"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230907163058</link>
+            <guid>https://zdnet.co.kr/view/?no=20230907163058</guid>
+            <pubDate>Thu, 07 Sep 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[최근 화웨이·SMIC 등 중국 주요 기업들이 7나노미터(nm) 칩 설계 및 양산에 성공했다는 사실이 드러나면서 세간의 이목이 집중되고 있다. 이는 미국의 대중(對中) 반도체 압...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마우저, 코보 'QM45639' 와이파이 7 FEM 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20230907133527</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230905094152</guid>
             <pubDate>Tue, 05 Sep 2023 01:42:24 GMT</pubDate>
             <content:encoded><![CDATA[앤시스코리아는 삼성전자 파운드리 사업부와 협력해 삼성의 최신 2나노미터(nm) 공정 기술을 위한 '앤시스 레드혹-SC' 및 '앤시스 토템' 전력 무결성 사인오프 솔루션의 인증을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 'KPCA'서 독자 기술 적용 FCBGA 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230905083424</link>
-            <guid>https://zdnet.co.kr/view/?no=20230905083424</guid>
-            <pubDate>Tue, 05 Sep 2023 00:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG이노텍은 이달 6일부터 8일까지 인천 송도 컨벤시아에서 열리는 'KPCA show 2023(국제PCB 및 반도체패키징산업전)'에 참가해 첨단 기판소재 제품을 전시한다고 5일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
