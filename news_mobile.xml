@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 04:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 05:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 "공무원 아이폰 쓰지 마"...애플 주가 3% 이상 급락]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230907112438</link>
+            <guid>https://zdnet.co.kr/view/?no=20230907112438</guid>
+            <pubDate>Thu, 07 Sep 2023 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[중국 당국이 공무원들에게 애플 아이폰 등 외국산 기기를 업무용으로 사용하거나 사무실에 가지고 오는 것을 금지하는 지침을 내렸다고 월스트리트저널(WSJ)이 6일(현지시간) 보도했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["아이폰15 USB-C 전환, 직접적 기기 교체 요인 아냐"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230907104611</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230906151900</guid>
             <pubDate>Wed, 06 Sep 2023 07:09:19 GMT</pubDate>
             <content:encoded><![CDATA[서비스로봇 업체 알지티는 독일에서 열린 유럽 최대 가전 박람회 'IFA 2023'에서 자사의 자율주행 서빙로봇 '써봇(SIRBOT)'이 참관객들에게 호평을 받았다고 6일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디월트, 터프시스템 2.0 신제품 3종 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230906151344</link>
-            <guid>https://zdnet.co.kr/view/?no=20230906151344</guid>
-            <pubDate>Wed, 06 Sep 2023 07:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[스탠리블랙앤데커코리아 전문가용 프리미엄 전동공구 브랜드 디월트가 현장 전문가용 공구함 라인업인 터프시스템과 티스텍을 체결할 수 있는 '터프시스템 2.0 티스텍 어댑터'와 '터프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
