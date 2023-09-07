@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 23:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 00:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, 11월 첫 개발자 컨퍼런스 연다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230907082900</link>
+            <guid>https://zdnet.co.kr/view/?no=20230907082900</guid>
+            <pubDate>Thu, 07 Sep 2023 00:39:53 GMT</pubDate>
+            <content:encoded><![CDATA['챗GPT'를 만든 오픈AI가 오는 11월 첫 개발자 컨퍼런스를 개최한다. 오픈AI는 6일(현지시간) 공식 블로그를 통해 11월 6일 미국 샌프란시스코에서 '오픈AI 데브데이'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국소프트웨어산업협회, 신규회원사 간담회 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230906181653</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230905173911</guid>
             <pubDate>Tue, 05 Sep 2023 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[인디제이(inDJ⸱대표 정우주)는 마이크로소프트(MS)에서 운영하는 ISV(Independent Software Vendor) 성공 프로그램에 선정돼 지난 7월 25일부터 시작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대오토에버, 협력사 보안 취약점 점검 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230905171628</link>
-            <guid>https://zdnet.co.kr/view/?no=20230905171628</guid>
-            <pubDate>Tue, 05 Sep 2023 09:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[현대오토에버(대표 서정식)가 최근 급증하는 공급망 공격으로 인한 협력사의 피해를 최소화하기 위해 보안 점검을 실시하고 있다고 5일 밝혔다. 현대오토에버는 지난해 17개 상주 협...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
