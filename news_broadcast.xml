@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 02:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 03:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영섭 KT "IT 근간 통신의 가치, 너무 쉽게 잊혀져"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230907104805</link>
+            <guid>https://zdnet.co.kr/view/?no=20230907104805</guid>
+            <pubDate>Thu, 07 Sep 2023 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[김영섭 KT 대표가 7일 “지금까지 통신사(Telco)가 제공하는 연결(connectivity)은 IT를 포함해 최근 화두가 되고 있는 인공지능(AI), 클라우드, 로봇, 메타...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 허위 인터뷰 의혹 뉴스타파에 해명 요구…방심위도 심의 예고]]></title>
             <link>https://zdnet.co.kr/view/?no=20230906174510</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230905105526</guid>
             <pubDate>Tue, 05 Sep 2023 02:14:57 GMT</pubDate>
             <content:encoded><![CDATA[CJ ENM 엔터테인먼트 부문과 CJ 온스타일이 콘텐츠 제작 역량과 고객 접점의 강점을 활용해 유튜브 콘텐츠 협력에 나서 이목을 끈다. 지난 1일 CJ 온스타일 공식 유튜브 채...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB "양자키분배·양자내성암호 전용회선 동시 제공"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230905102344</link>
-            <guid>https://zdnet.co.kr/view/?no=20230905102344</guid>
-            <pubDate>Tue, 05 Sep 2023 01:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 양자키분배(QKD)와 양자내성암호(PQC) 기술의 전용회선을 같이 제공할 수 있는 약관 신고 기준 국내 최초 사업자가 됐다고 5일 밝혔다. 양자보안통신은 양자의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
