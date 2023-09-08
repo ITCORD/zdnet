@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 비전프로 앱스토어 곧 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230908135325</link>
+            <guid>https://zdnet.co.kr/view/?no=20230908135325</guid>
+            <pubDate>Fri, 08 Sep 2023 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 혼합현실 헤드셋 '비전프로'의 앱스토어를 곧 선보인다. 최근 미국 지디넷에 따르면, 애플은 앱스토어를 포함하는 비전OS 새버전을 곧 출시할 예정이다. 현재의 비전OS는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웹3 게임 슈퍼앱 'GAM3S', 200만 달러 시드 투자 유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20230908114835</link>
@@ -152,19 +160,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코어닥스, BTC·ERC 토큰 출금 수수료 인하]]></title>
+            <title><![CDATA[코어닥스, ERC 토큰 출금 수수료 인하]]></title>
             <link>https://zdnet.co.kr/view/?no=20230907101015</link>
             <guid>https://zdnet.co.kr/view/?no=20230907101015</guid>
             <pubDate>Thu, 07 Sep 2023 01:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 코어닥스(대표 임요송)는 가상자산 49개 중 29개에 대한 출금 수수료를 인하한다고 7일 밝혔다. 가상자산 출금 수수료 인하율은 약 50%~90% 사이다. 비트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[튜닙, ICT 기금사업 우수성과로 과기정통부 장관상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230907081628</link>
-            <guid>https://zdnet.co.kr/view/?no=20230907081628</guid>
-            <pubDate>Thu, 07 Sep 2023 01:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[튜닙이 정보통신기술(ICT) 기금사업 우수성과 기업으로 선정돼 과기정통부 장관상을 받았다고 7일 밝혔다. ICT 기금사업은 과학기술정보통신부가 주최하여, ICT 신사업 육성·추...]]></content:encoded>
+            <content:encoded><![CDATA[가상자산 거래소 코어닥스(대표 임요송)는 가상자산 49개 중 29개에 대한 출금 수수료를 인하한다고 7일 밝혔다. 가상자산 출금 수수료 인하율은 약 50%~90% 사이다. 우선...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

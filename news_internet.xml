@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 택시에 '생성형 AI' 태운다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230908133259</link>
+            <guid>https://zdnet.co.kr/view/?no=20230908133259</guid>
+            <pubDate>Fri, 08 Sep 2023 06:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 연내 공개 예정인 거대언어모델(LLM) '코지피티2.0'과 카카오T 서비스 연계를 모색한다. 김일두 카카오브레인 대표는 8일 그랜드 인터컨티넨탈 서울 파르나스에서 열린...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사이버트럭 닮은 테슬라 '사이버스푼', 맥도날드에 등장]]></title>
             <link>https://zdnet.co.kr/view/?no=20230908132154</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230906183950</guid>
             <pubDate>Wed, 06 Sep 2023 11:08:45 GMT</pubDate>
             <content:encoded><![CDATA[유럽연합(EU)이 구글과 애플을 비롯한 디지털 시장법(DMA) 게이트키퍼(gatekeeper·문지기) 사업자 6곳을 발표했다. 유력 후보군으로 거론된 삼성전자는 빠졌다. 6일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 허위 인터뷰 의혹 뉴스타파에 해명 요구…방심위도 심의 예고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230906174510</link>
-            <guid>https://zdnet.co.kr/view/?no=20230906174510</guid>
-            <pubDate>Wed, 06 Sep 2023 10:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 허위 인터뷰 의혹을 받는 뉴스타파에 해명을 요구했다. 6일 관련업계에 따르면 네이버는 화천대유자산관리 대주주 김만배씨와 신학림 전 언론노동조합 위원장의 인터뷰를 보도한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

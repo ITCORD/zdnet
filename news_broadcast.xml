@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹 대통령, 정민영 방심위원 해촉안 재가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230908144153</link>
+            <guid>https://zdnet.co.kr/view/?no=20230908144153</guid>
+            <pubDate>Fri, 08 Sep 2023 06:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령이 이해충돌 논란을 빚은 정민영 방송통신심의위원회 위원 해촉을 재가했다. 8일 대통령실은 아세안 정상회의와 한-인도네시아 정상회담 참석을 위해 자카르타를 방문중인 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['통신 인프라 퍼스트'와 '디지털 서비스 퍼스트']]></title>
             <link>https://zdnet.co.kr/view/?no=20230908093449</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230906153811</guid>
             <pubDate>Wed, 06 Sep 2023 07:09:04 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 우수 개발인력을 영입하기 위해 자사의 인공지능, 소프트웨어 기술력을 소개하고, 내부 개발자들과 네트워킹을 강화하는 데브렐 컨퍼런스인 'TECH+U+'를 진행한다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, '가짜뉴스 근절 TF' 가동...긴급 대응 입법조치 계획]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230906153103</link>
-            <guid>https://zdnet.co.kr/view/?no=20230906153103</guid>
-            <pubDate>Wed, 06 Sep 2023 07:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 '가짜뉴스 근절 TF'를 가동한다고 6일 밝혔다. TF를 통해 가짜뉴스에 대한 긴급 대응체계를 시급히 마련하기 위한 입법 조치에 나선다는 계획이다. 우선 방송통...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
