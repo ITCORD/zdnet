@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 21:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 22:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, '아이폰15 프로 맥스' 명칭 확정…올해 울트라 모델은 미출시”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230909070631</link>
+            <guid>https://zdnet.co.kr/view/?no=20230909070631</guid>
+            <pubDate>Fri, 08 Sep 2023 22:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[올해 애플이 출시할 최고급 아이폰 모델은 아이폰15 울트라가 아닌 아이폰15 프로 맥스가 될 전망이다. 블룸버그 통신은 8일(현지시간) 애플이 올해 출시하는 최고급 아이폰 모델...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/29/77d0010fe5c739a76217f9d79b4c9cd0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 환경부]]></title>
             <link>https://zdnet.co.kr/view/?no=20230909003719</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230907192556</guid>
             <pubDate>Fri, 08 Sep 2023 12:16:24 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 3D 프린팅 기업 폼랩 코리아가 자사 대표상품 'Form 3+'의 소비자 가격을 절반 수준으로 인하한다고 밝혔다. 폼랩에 따르면 3D 프린팅을 사용하는 국내 기업이 경제...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/07/063415b8fff32e23afc20d32a72dcf4e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국국방혁신기술 보안협회 창립 발대식 18일 개최]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230908152956</guid>
             <pubDate>Fri, 08 Sep 2023 08:12:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티가 인공지능(AI)과 서비스형소프트웨어(SaaS)를 기반으로 전 세계인에게 끊김없는 이동 수단을 제공하겠다는 비전을 제시했다. 8일 카카오모빌리티의 조혜원 글로벌 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시S24 AP 두고 추측 무성..."퀄컴이냐 삼성이냐"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230908155714</link>
-            <guid>https://zdnet.co.kr/view/?no=20230908155714</guid>
-            <pubDate>Fri, 08 Sep 2023 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 차기 안드로이드 스마트폰 갤럭시S24에 탑재될 시스템반도체(SoC) 제조사를 두고 다양한 추측이 무성하다. 현재 갤럭시S24 탑재 칩으로 퀄컴이 10월 공개 예정인 스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
