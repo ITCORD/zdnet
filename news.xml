@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 23:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 00:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["에어팟 프로만 'USB-C'…에어팟·에어팟 맥스는 내년에"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230909073000</link>
+            <guid>https://zdnet.co.kr/view/?no=20230909073000</guid>
+            <pubDate>Sat, 09 Sep 2023 00:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 아이폰15에 USB-C 포트를 탑재할 것으로 예상되면서 역시 라이트닝 커넥터를 사용하고 있는 에어팟이 어떻게 될 지에 관심이 쏠리고 있다. 블룸버그는 8일(현지시간) 애...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/09/e934623456b2df5bf6fa47d2dd27597f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꼬물꼬물'…비행기 엔진 검사하는 애벌레 로봇 '화제']]></title>
             <link>https://zdnet.co.kr/view/?no=20230908154120</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.zdnet.co.kr/2023/09/08/483e95c2c50f18eaf9a9bec6f204f677.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA["애플, '아이폰15 프로 맥스' 명칭 확정…올해 울트라 모델은 미출시”]]></title>
+            <title><![CDATA["아이폰15 최고급 모델, 울트라 아닌 프로 맥스"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230909070631</link>
             <guid>https://zdnet.co.kr/view/?no=20230909070631</guid>
             <pubDate>Fri, 08 Sep 2023 22:08:15 GMT</pubDate>
             <content:encoded><![CDATA[올해 애플이 출시할 최고급 아이폰 모델은 아이폰15 울트라가 아닌 아이폰15 프로 맥스가 될 전망이다. 블룸버그 통신은 8일(현지시간) 애플이 올해 출시하는 최고급 아이폰 모델...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/29/77d0010fe5c739a76217f9d79b4c9cd0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 환경부]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230908165124</guid>
             <pubDate>Fri, 08 Sep 2023 08:12:00 GMT</pubDate>
             <content:encoded><![CDATA[카카오모빌리티가 연결·매칭 등 플랫폼 가치를 통해 기존 물류 시장 비효율 개선해 나가고 있다고 밝혔다. 8일 카카오모빌리티가 주최한 넥스트모빌리티(네모) 컨퍼런스에서 박지은 미...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔텔스, 경기도교육청 '5G 국가망 구축']]></title>
-            <link>https://zdnet.co.kr/view/?no=20230908165456</link>
-            <guid>https://zdnet.co.kr/view/?no=20230908165456</guid>
-            <pubDate>Fri, 08 Sep 2023 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[엔텔스(대표 최영래)는 경기도교육청에 보안을 강화한 전용망인 '5세대 이동통신(5G) 국가망 구축' 사업에 SK텔레콤의 솔루션파트너사로 참여해 구축을 완료했다고 8일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
