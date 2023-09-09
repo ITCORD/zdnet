@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 06:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 07:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 美 뉴스위크 선정 '가장 신뢰할 수 있는 기업' 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230909144355</link>
+            <guid>https://zdnet.co.kr/view/?no=20230909144355</guid>
+            <pubDate>Sat, 09 Sep 2023 07:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 미국 유력 시사주간지 뉴스위크가 시행한 '가장 신뢰할 수 있는 기업 2023' 평가에서 소프트웨어·텔레커뮤니케이션 부문 1위 기업에 선정됐다. 삼성과 오뚜기 등도 보험...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['꼬물꼬물'…비행기 엔진 검사하는 애벌레 로봇 '화제']]></title>
             <link>https://zdnet.co.kr/view/?no=20230908154120</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230908012230</guid>
             <pubDate>Fri, 08 Sep 2023 00:40:12 GMT</pubDate>
             <content:encoded><![CDATA[중국 텐센트가 자체 개발 생성형 인공지능(AI) 대형 언어 모델과 챗봇 서비스를 정식으로 공개했다. 7일 텐센트가 '2023년 텐센트 글로벌 디지털 생태계 대회'에서 '훈위안'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["디지털 플랫폼 정부, 국민 편의 높이는 서비스 구현할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230907170621</link>
-            <guid>https://zdnet.co.kr/view/?no=20230907170621</guid>
-            <pubDate>Thu, 07 Sep 2023 10:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[“3천여개 청년 정책을 한데 모아 맞춤형으로 추천하는 플랫폼을 구현하겠다. 수작업으로 진행되는 단순하고 반복된 업무에 로봇 기술을 적용해 효율성을 높이고 초거대 인공지능(AI)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
