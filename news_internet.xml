@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 05:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 06:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우버, 단기 아르바이트 서비스 만지작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230910095418</link>
+            <guid>https://zdnet.co.kr/view/?no=20230910095418</guid>
+            <pubDate>Sun, 10 Sep 2023 06:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[미국 차량공유업체 우버가 단기 아르바이트 기능을 도입하기 위한 개발에 착수한 것으로 확인됐다. 9일(현지시간) 블룸버그통신은 우버가 운전, 배달을 넘어 기업과 구직자를 연결해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 美 뉴스위크 선정 '가장 신뢰할 수 있는 기업' 1위]]></title>
             <link>https://zdnet.co.kr/view/?no=20230909144355</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230908012515</guid>
             <pubDate>Fri, 08 Sep 2023 00:40:12 GMT</pubDate>
             <content:encoded><![CDATA[중국에서 대기업과 주요 연구소 등이 머리를 맞대고 인공지능(AI) 보안 기술을 본격 연구한다. 생성형 AI 시대 보안 기술에 대한 연구도 함께 이뤄진다. 7일 중국 상하이에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 텐센트 AI 챗봇 공개…"GPT4 앞선다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230908012230</link>
-            <guid>https://zdnet.co.kr/view/?no=20230908012230</guid>
-            <pubDate>Fri, 08 Sep 2023 00:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[중국 텐센트가 자체 개발 생성형 인공지능(AI) 대형 언어 모델과 챗봇 서비스를 정식으로 공개했다. 7일 텐센트가 '2023년 텐센트 글로벌 디지털 생태계 대회'에서 '훈위안'...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
