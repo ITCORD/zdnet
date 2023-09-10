@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 20:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 21:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['2023 로보월드' 내달 11일 개막…역대 최대 800부스 규모]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230911001107</link>
+            <guid>https://zdnet.co.kr/view/?no=20230911001107</guid>
+            <pubDate>Sun, 10 Sep 2023 21:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[한국로봇산업협회는 국내 최대 로봇 전시회 '2023 로보월드'를 오는 10월 11~14일 경기 고양시 킨텍스 제1전시장에서 개최한다고 10일 밝혔다. 로보월드는 산업통상자원부가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/11/d989723f1678cdd36642ea27a75c716c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KOMIR, 인니 니켈협회와 핵심광물 개발 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20230911003736</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230910162451</guid>
             <pubDate>Sun, 10 Sep 2023 08:10:45 GMT</pubDate>
             <content:encoded><![CDATA[34개 글로벌 통신사가 모인 '오픈 게이트웨이 이니셔티브'에서 연내 1종 이상의 상용 API를 내놓기로 했다. 이니셔티브가 출시키로 한 API는 개발자가 표준화된 규격의 통신사...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/10/1b50046d7e0f62c3f1e7815f94da3f28-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[ZD브리핑] 애플 아이폰 15, 13일 새벽 공개한다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230910130921</guid>
             <pubDate>Sun, 10 Sep 2023 04:10:48 GMT</pubDate>
             <content:encoded><![CDATA[SK엔무브가 에너지 효율화 기업(Energy Saving Company)으로 도약하겠다는 진심을 담은 새로운 광고 영상을 공개했다고 10일 밝혔다. 새로운 광고는 윤활유 브랜드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고령층 골다공증-근감소성 비만이 폐 기능 이상 유발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230904104657</link>
-            <guid>https://zdnet.co.kr/view/?no=20230904104657</guid>
-            <pubDate>Sun, 10 Sep 2023 04:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[최근 골다공증, 근감소증, 비만이 합쳐진 골다공증-근감소성 비만이라는 새로운 개념이 폐쇄성 폐 기능 이상 위험에 영향을 미친다는 연구가 발표됐다. 고령인구에서 나타나는 노화는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
