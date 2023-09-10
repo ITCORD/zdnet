@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 07:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 08:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신망 프레임워크 표준 API, 연내 본격 상용화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230910162451</link>
+            <guid>https://zdnet.co.kr/view/?no=20230910162451</guid>
+            <pubDate>Sun, 10 Sep 2023 08:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[34개 글로벌 통신사가 모인 '오픈 게이트웨이 이니셔티브'에서 연내 1종 이상의 상용 API를 내놓기로 했다. 이니셔티브가 출시키로 한 API는 개발자가 표준화된 규격의 통신사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[휴대폰 평균 구매가, 9년전보다 41% 늘었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230910142033</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230907125327</guid>
             <pubDate>Thu, 07 Sep 2023 04:11:09 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 콘텐츠 경쟁력을 강화하기 위해 웹툰 제작사 재담미디어 IP에 전략적 투자를 단행했다고 7일 밝혔다. 재담미디어는 '약한영웅', '동네변호사 조들호' '청춘블라썸'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 클라우드 정보보호 국제표준 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230907125053</link>
-            <guid>https://zdnet.co.kr/view/?no=20230907125053</guid>
-            <pubDate>Thu, 07 Sep 2023 04:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 퍼블릭 클라우드 운영 관리 및 관련 서비스를 대상으로 정보보호 관리체계와 클라우드 서비스 정보보호 및 개인정보보호에 대한 국제표준 인증을 획득했다고 7일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
