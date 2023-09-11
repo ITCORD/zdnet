@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 04:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT서비스 3사, 공개채용 실시...내게 맞는 기업은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230911130842</link>
+            <guid>https://zdnet.co.kr/view/?no=20230911130842</guid>
+            <pubDate>Mon, 11 Sep 2023 05:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[주요 IT서비스 3사가 순차적으로 하반기 신입사원 공개채용에 나선다. 각 기업 모두 인공지능(AI), 데이터분석 등 디지털전환(DX)을 핵심 사업을 내세우고 있는 만큼 디지털 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소셜인프라테크, '대구 메인넷' 구축한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230911111525</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230908172142</guid>
             <pubDate>Sun, 10 Sep 2023 06:11:57 GMT</pubDate>
             <content:encoded><![CDATA["가상자산 시장에서 알트코인 비중이 준다고 시장 상황이 불리하다고 보진 않는다. 저희 거래량은 계속 늘고 있다. 전체 가상자산 거래량 중 탈중앙화거래소(DEX) 비중이 20% ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[불황·인재난 SW기업, 로우코드로 혁신 가속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230908163121</link>
-            <guid>https://zdnet.co.kr/view/?no=20230908163121</guid>
-            <pubDate>Sun, 10 Sep 2023 06:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[지속되는 불황과 개발자 인력난을 극복하기 위해 노코드‧로우코드 플랫폼을 활용한 소프트웨어 개발이 주목받고 있다. 두 개발도구는 영수증 분류, 데이터 입력 등 간단한 업무나 앱 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
