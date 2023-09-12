@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 04:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 이사회, 김의철 사장 해임안 의결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912131742</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912131742</guid>
+            <pubDate>Tue, 12 Sep 2023 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[김의철 KBS 사장의 해임 제청이 결정됐다. 윤석열 대통령의 재가를 거치면 해임이 확정된다. 12일 KBS 이사회는 임시 이사회를 열어 김 사장의 해임제청안을 표결에 부쳐 찬성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메조미디어, 싱귤러와 공식 파트너십 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230912103030</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230911085501</guid>
             <pubDate>Mon, 11 Sep 2023 00:40:48 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 AWS 기반 클라우드 운영비용을 최대 40%까지 줄일 수 있는 솔루션을 출시했다고 11일 밝혔다. 신규 솔루션은 AWS 기반 클라우드 비용을 최적화한 것으로 상대적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[통신망 프레임워크 표준 API, 연내 본격 상용화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230910162451</link>
-            <guid>https://zdnet.co.kr/view/?no=20230910162451</guid>
-            <pubDate>Sun, 10 Sep 2023 08:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[34개 글로벌 통신사가 모인 '오픈 게이트웨이 이니셔티브'에서 연내 1종 이상의 상용 API를 내놓기로 했다. 이니셔티브가 출시키로 한 API는 개발자가 표준화된 규격의 통신사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
