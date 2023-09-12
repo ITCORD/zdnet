@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 06:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI로 콘텐츠 제작비 줄인다...미디어 DX 지원으로 해외진출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912144658</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912144658</guid>
+            <pubDate>Tue, 12 Sep 2023 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[미디어 콘텐츠 산업에 AI를 적극적으로 도입하고 디지털 전환을 가속화해 글로벌 경쟁력을 확보하는 정부의 지원 전략이 추진된다. AI와 같은 기술로 급증하는 콘텐츠 제작비용을 줄...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KBS 이사회, 김의철 사장 해임안 의결]]></title>
             <link>https://zdnet.co.kr/view/?no=20230912131742</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230911090159</guid>
             <pubDate>Mon, 11 Sep 2023 00:40:48 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 지난 8월 말 기준 티딜에 입점한 중소상공인이 2천200개를 넘어섰으며, 전체 입점 업체의 97%를 차지했다고 11일 밝혔다. 티딜에 입점한 중소상공인은 티딜 서비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT "클라우드 비용 최대 40% 절감해 드립니다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230911085501</link>
-            <guid>https://zdnet.co.kr/view/?no=20230911085501</guid>
-            <pubDate>Mon, 11 Sep 2023 00:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 AWS 기반 클라우드 운영비용을 최대 40%까지 줄일 수 있는 솔루션을 출시했다고 11일 밝혔다. 신규 솔루션은 AWS 기반 클라우드 비용을 최적화한 것으로 상대적...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
