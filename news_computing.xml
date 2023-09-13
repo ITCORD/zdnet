@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 23:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 00:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈베이스, VM웨어 디지털워크스페이스 MSC 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230912153249</link>
+            <guid>https://zdnet.co.kr/view/?no=20230912153249</guid>
+            <pubDate>Wed, 13 Sep 2023 00:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[오픈베이스(대표 정진섭, 황철이)는 VM웨어 디지털 워크스페이스 마스터 서비스 컴피턴시(MSC)를 획득했다고 13일 밝혔다. VM웨어 디지털 워크스페이스 마스터 서비스 컴피턴시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[리얼타임 우분투, AWS 마켓플레이스에서 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230913085820</link>
+            <guid>https://zdnet.co.kr/view/?no=20230913085820</guid>
+            <pubDate>Wed, 13 Sep 2023 00:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[우분투 리눅스의 RTOS 에디션인 '리얼타임 우분투'를 아마존웹서비스(AWS) 마켓플레이스에서 이용할 수 있게 됐다. 12일(현지시간) 미국지디넷에 따르면, 캐노니컬은 AWS ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세일즈포스 아인슈타인, 'AI 비서'로 근무 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20230912132555</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230912135651</guid>
             <pubDate>Tue, 12 Sep 2023 05:09:13 GMT</pubDate>
             <content:encoded><![CDATA[S2W(에스투더블유, 대표 서상덕)는 한국과학기술원(카이스트, KAIST) 연구진과 공동 개발한 다크웹 전용 인공지능(AI) 언어모델 '다크버트'(DarkBERT)가 해외에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜ C&C, 에임메드·아토머스 임직원 지원 협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912134237</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912134237</guid>
-            <pubDate>Tue, 12 Sep 2023 05:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 윤풍영)는 디지털 헬스케어 기업 에임메드, 아토머스와 '기업 맞춤형 임직원 지원 프로그램' 제공을 위한 업무 협약을 체결했다고 12일 밝혔다. 경기도 성남시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KTNET, 국제포럼에서 전자선하증권 파일럿 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912131546</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912131546</guid>
-            <pubDate>Tue, 12 Sep 2023 05:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[한국무역정보통신(KTNET·대표 차영환)은 UN 산하 국제상거래법위원회(UNCITRAL)이 11일과 12일 이틀간 개최한 '제3회 법률 및 비즈니스 포럼(ILBF)'에서 블록체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
