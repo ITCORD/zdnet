@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 09:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 10:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 날씨 예보 서비스 개편…"최대 56시간 애니메이션으로"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230913140633</link>
+            <guid>https://zdnet.co.kr/view/?no=20230913140633</guid>
+            <pubDate>Wed, 13 Sep 2023 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 날씨 정보를 히트맵 지도로 시각화하고, 애니메이션으로 예보 흐름을 접할 수 있도록 한다. 네이버는 시각적 요소를 극대화한 개편된 날씨지도 서비스를 선보인다고 13일 밝...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/13/3a245d6d6a63508c99428d6c8d32ac82-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부, 철도노조 파업 엄정 대처…비상수송대책본부 가동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230913181226</link>
+            <guid>https://zdnet.co.kr/view/?no=20230913181226</guid>
+            <pubDate>Wed, 13 Sep 2023 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 14일부터 18일까지로 예정된 철도노조의 파업 계획을 철회할 것을 다시 한번 촉구하고, 국민 불편 최소화를 위해 13일 오전 9시부터 비상수송대책본부를 가동했다고 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/08/747632f94aa246898492e78c5b8ab457-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효성, 국군의 날 앞두고 현충원 묘역 정화]]></title>
             <link>https://zdnet.co.kr/view/?no=20230913174144</link>
             <guid>https://zdnet.co.kr/view/?no=20230913174144</guid>
             <pubDate>Wed, 13 Sep 2023 09:10:09 GMT</pubDate>
             <content:encoded><![CDATA[효성이 13일, 국군의 날을 앞두고 서울시 동작구 국립서울현충원을 찾아 묘역 정화 활동을 진행했다. 이날 활동에는 효성, 효성티앤씨, 효성중공업, 효성첨단소재, 효성화학 등 효...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/13/ab496b07840956e3a82ed198b1da02d5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 과학기술정보통신부]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230913164350</guid>
             <pubDate>Wed, 13 Sep 2023 08:12:25 GMT</pubDate>
             <content:encoded><![CDATA[넥슨은 13일싱가포르에서 개막한 블록체인 콘퍼런스 'TOKEN2049(토큰2049)'의 키노트 세션에서 글로벌 NFT 게임 생태계 '메이플스토리 유니버스'의 생태계 운영 방향성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[존슨콘트롤즈, DX 빌딩 플랫폼 '오픈블루' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230913164055</link>
-            <guid>https://zdnet.co.kr/view/?no=20230913164055</guid>
-            <pubDate>Wed, 13 Sep 2023 08:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[존슨콘트롤즈인터내셔널 코리아(이하 존슨콘트롤즈 코리아)가 13일 기자간담회를 열고 2024 회계년도 비즈니스 핵심 전략을 발표했다. 김한준 대표이사는 '존슨콘트롤즈가 제시하는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[환경공단, 중기 지원 강화…'K-eco ESG서포터즈' 출범]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230913164044</link>
-            <guid>https://zdnet.co.kr/view/?no=20230913164044</guid>
-            <pubDate>Wed, 13 Sep 2023 08:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[환경부 산하 한국환경공단(이사장 안병옥)은 중소기업지원을 강화하기 위해 'K-eco ESG 서포터즈'를 출범했다고 13일 밝혔다. 'K-eco ESG 서포터즈'는 ESG 무역 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

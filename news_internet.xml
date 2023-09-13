@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 09:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 10:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 날씨 예보 서비스 개편…"최대 56시간 애니메이션으로"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230913140633</link>
+            <guid>https://zdnet.co.kr/view/?no=20230913140633</guid>
+            <pubDate>Wed, 13 Sep 2023 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 날씨 정보를 히트맵 지도로 시각화하고, 애니메이션으로 예보 흐름을 접할 수 있도록 한다. 네이버는 시각적 요소를 극대화한 개편된 날씨지도 서비스를 선보인다고 13일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티, 네모 2023 성료…유튜브 동시 접속사 5천명 웃돌아]]></title>
             <link>https://zdnet.co.kr/view/?no=20230913161110</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230912184442</guid>
             <pubDate>Tue, 12 Sep 2023 10:10:23 GMT</pubDate>
             <content:encoded><![CDATA[대기업들의 하반기 대규모 채용이 시작돼 취업준비생들의 관심이 모일 전망이다. 진학사 캐치는 대기업 하반기 대규모 채용시장이 열렸다고 12일 밝혔다. 대표 기업으로는 삼성, SK...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유아·초등 학부모 3명 중 1명 "코딩 사교육 시켜봤다”…고학년 갈수록 관둬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230912180315</link>
-            <guid>https://zdnet.co.kr/view/?no=20230912180315</guid>
-            <pubDate>Tue, 12 Sep 2023 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[학교에서 코딩 과목이 더욱 중요해질 것을 대비해 어린 자녀들에 대한 코딩 사교육을 시키지만, 고학년으로 갈수록 국영수 공부에 시간을 쏟아야 하므로 코딩 교육을 줄이는 것으로 나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
