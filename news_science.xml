@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 00:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 01:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소행성 샘플, 24일 지구로 떨어진다 [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230913102339</link>
+            <guid>https://zdnet.co.kr/view/?no=20230913102339</guid>
+            <pubDate>Wed, 13 Sep 2023 01:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[미국 항공우주국(NASA)의 소행성 탐사선 '오시리스-렉스'(Osiris-Rex)가 오는 24일(이하 현지시간) 소행성 '베누' 표면에 착륙해 채취한 토양과 자갈 샘플을 지구에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/13/a81fac382a3f3178dade374f6f492597-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포토] 우주에서 기억되는 美 9.11 테러]]></title>
             <link>https://zdnet.co.kr/view/?no=20230912152510</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230912152057</guid>
             <pubDate>Tue, 12 Sep 2023 07:11:08 GMT</pubDate>
             <content:encoded><![CDATA[달 탐사선 다누리가 최근 인도 찬드라얀 3호가 착륙한 달 남극 지역 착륙지 사진을 촬영했다. 12일 과학기술정보통신부에 따르면, 이 사진은 지난달 23일 인도 달 착륙선 찬드라...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/12/942e7641087dc56dd0c2432e2bc85060-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주 방사선에도 끄덕 없는 인공위성 반도체 만들려면]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230907215656</guid>
             <pubDate>Thu, 07 Sep 2023 13:14:13 GMT</pubDate>
             <content:encoded><![CDATA["면역과 뇌 사이의 상호 작용을 이해함으로써 신경장애나 우울증 등 다양한 문제를 해결할 방법을 찾을 수 있을 것입니다." 글로리아 최 MIT 교수는 면역 기능이 자폐스펙트럼장애...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본도 달 착륙 도전…달 탐사선 발사 성공 [우주로 간다]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230907140747</link>
-            <guid>https://zdnet.co.kr/view/?no=20230907140747</guid>
-            <pubDate>Thu, 07 Sep 2023 06:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[일본이 달 착륙선을 탑재한 H2A 로켓 47호기 발사에 성공했다. 일본 우주항공연구개발기구(JAXA)는 7일 오전 8시 42분경 규슈 가고시마현 다네가시마 우주센터에서 H2A ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
