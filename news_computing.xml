@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 08:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 09:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이니허브, 통합 인증지원으로 고객이탈 최소화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230914175215</link>
+            <guid>https://zdnet.co.kr/view/?no=20230914175215</guid>
+            <pubDate>Thu, 14 Sep 2023 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[“전자서명법 개정으로 인한 다양한 사설 인증서가 보급되고 있지만, 도입과 관리의 어려움으로 일부 인증서만 쓰이는 사례가 많다. 이는 고객이탈의 시작이기도 하다. 이에 다양한 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데우스시스템즈, 지자체 데이터센터 유치 전략 공유]]></title>
             <link>https://zdnet.co.kr/view/?no=20230914170757</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230913221157</guid>
             <pubDate>Wed, 13 Sep 2023 13:14:42 GMT</pubDate>
             <content:encoded><![CDATA[데이터스트림즈(대표 이영상)가 베트남-한국과학기술원(VKIST, 원장 부이 테 쥐)과 손잡고 베트남 현지에서 원격의료 시범 서비스를 한다. 13일 회사에 따르면, 두 기관은 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비타소프트, 쿠버네티스 자동 설치 패키지 깃허브 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230913213357</link>
-            <guid>https://zdnet.co.kr/view/?no=20230913213357</guid>
-            <pubDate>Wed, 13 Sep 2023 13:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어 전문기업 비타소프트(대표 홍순기)가 쿠버네티스 자동 설치 패키지를 깃허브에 공개했다. 13일 회사에 따르면, 이번 공개는 ABCD(AI, 블록체인, 클라우드, 디지털...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
