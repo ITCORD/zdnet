@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 13:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 14:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["모아 놓은 건 쓰레기, 모이는 게 데이터"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230914230556</link>
+            <guid>https://zdnet.co.kr/view/?no=20230914230556</guid>
+            <pubDate>Thu, 14 Sep 2023 14:10:02 GMT</pubDate>
+            <content:encoded><![CDATA["데이터 오너십(소유)을 주장하지 마세요. 대신 생태계 공급자로 참여해야 합니다. 죽어가는 데이터를 어떻게 살리냐고요? 모아 놓은 것은 쓰레기고 모이는 것은 데이터입니다. 솔리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BSG 파트너스, '스마트핏 파마' SAP 인증획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20230914185738</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230913225402</guid>
             <pubDate>Thu, 14 Sep 2023 01:42:28 GMT</pubDate>
             <content:encoded><![CDATA[태니엄코리아가 13일 기자간담회를 개최하고 통합 엔드포인트 관리(XEM) 플랫폼의 신규 기술과 국내 비즈니스 전략을 발표했다. XEM은 단일 환경에서 IT 관리와 보안 운용을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FTX, 가상자산 매각 가능해졌다…4.5조원 규모]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230914081339</link>
-            <guid>https://zdnet.co.kr/view/?no=20230914081339</guid>
-            <pubDate>Thu, 14 Sep 2023 00:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[파산 절차를 밟고 있는 가상자산 거래소 FTX가 보유한 가상자산을 매각할 수 있게 됐다. 코인데스크 등 외신에 따르면 미국 델라웨어 주 지방 법원은 13일(현지시간) FTX의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

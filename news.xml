@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 13:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 14:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["모아 놓은 건 쓰레기, 모이는 게 데이터"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230914230556</link>
+            <guid>https://zdnet.co.kr/view/?no=20230914230556</guid>
+            <pubDate>Thu, 14 Sep 2023 14:09:12 GMT</pubDate>
+            <content:encoded><![CDATA["데이터 오너십(소유)을 주장하지 마세요. 대신 생태계 공급자로 참여해야 합니다. 죽어가는 데이터를 어떻게 살리냐고요? 모아 놓은 것은 쓰레기고 모이는 것은 데이터입니다. 솔리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/14/4428bd6b0f7c2d975699a125e5c2653c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BSG 파트너스, '스마트핏 파마' SAP 인증획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20230914185738</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230914183306</guid>
             <pubDate>Thu, 14 Sep 2023 10:10:25 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 서비스 안정성을 위한 대책과 실천 과제 등을 담은 안정성 보고서를 발간했다고 14일 밝혔다. 이번 보고서는 카카오 ▲모니터링 시스템 ▲체계적 장애 대응 ▲장애 모의훈련...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/14/4b96c0e6d5a2211e455215f02d4f8e99-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티-대한교통학회, 택시 매칭 시스템 발전 방안 모색]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230914165146</guid>
             <pubDate>Thu, 14 Sep 2023 08:12:28 GMT</pubDate>
             <content:encoded><![CDATA[케이블TV가 광고 기반 무료 스트리밍 서비스(FAST)를 받아들여야 한다는 주장이 제기됐다. 케이블TV의 지역성을 살려 특색 있는 채널을 갖춘 FAST 플랫폼으로 성장이 필요하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김민규 라인게임즈 창업자 퇴사...기존 지분 9.4% 그대로 유지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230914170401</link>
-            <guid>https://zdnet.co.kr/view/?no=20230914170401</guid>
-            <pubDate>Thu, 14 Sep 2023 08:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[라인게임즈 김민규 최고제품책임자(CPO)가 라인게임즈를 퇴사했다. 김민규 CPO는 라인게임즈의 전신인 넥스트플로어를 창업한 인물이다. 14일 게임업계에 따르면 김민규 CPO는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
