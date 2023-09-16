@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 23:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 00:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬랙 "사내 메신저 이미지 뛰어넘겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230915184242</link>
+            <guid>https://zdnet.co.kr/view/?no=20230915184242</guid>
+            <pubDate>Sat, 16 Sep 2023 00:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[슬랙이 단순 '사내 메신저' 이미지 탈피를 위해 업데이트를 진행했다. 종전보다 생성 인공지능(AI)을 더 적용해 업무 자동화·생산성을 끌어올렸다. 세일즈포스 클라우드 제품군과도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위 "사회 전반 개인정보 가치 확대 목표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230915155420</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230914170757</guid>
             <pubDate>Thu, 14 Sep 2023 08:13:50 GMT</pubDate>
             <content:encoded><![CDATA[한국데이터센터연합회와 데우스시스템즈는 '지방자치단체 데이터센터 담당자 역량 강화 교육'을 14일 서울역 삼경교육센터에서 개최했다고 밝혔다. '지방자치단체 데이터센터 담당자 역량...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE 아루바,  중소기업 대상 포트폴리오 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230914165947</link>
-            <guid>https://zdnet.co.kr/view/?no=20230914165947</guid>
-            <pubDate>Thu, 14 Sep 2023 08:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[HPE 아루바 네트워킹은 중소기업 대상 신제품을 14일 공개했다. 신제품은 와이파이 6 액세스 포인트인 아루바 인스턴트 온 AP22D과, 2.5GB 포트의 아루바 인스턴트 온 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
