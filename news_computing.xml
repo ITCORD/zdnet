@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 01:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 02:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍콩 금융당국 "가상자산 기업, 은행인척 하지마" 경고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230917101543</link>
+            <guid>https://zdnet.co.kr/view/?no=20230917101543</guid>
+            <pubDate>Sun, 17 Sep 2023 02:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩 당국이 '은행' 역할을 자처하는 가상자산 기업에 대해 위법 행위라고 경고했다. 블록체인 매체 디크립트에 따르면 홍콩금융관리국(HKMA)은 가상자산 기업이 가상자산 은행, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, AI 신뢰성·품질 대상제 신설···과기정통부 장관상과 상금]]></title>
             <link>https://zdnet.co.kr/view/?no=20230917095908</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230914183147</guid>
             <pubDate>Thu, 14 Sep 2023 10:10:43 GMT</pubDate>
             <content:encoded><![CDATA[티오리(대표 박세준)는 웹3 전문팀 체인라이트(ChainLight)에서 웹3 디지털자산 통합 보안 플랫폼, '다트(DART)'를 런칭했다고 14일 밝혔다. 다트는 웹3에서 고질...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["이니허브, 통합 인증지원으로 고객이탈 최소화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230914175215</link>
-            <guid>https://zdnet.co.kr/view/?no=20230914175215</guid>
-            <pubDate>Thu, 14 Sep 2023 09:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[“전자서명법 개정으로 인한 다양한 사설 인증서가 보급되고 있지만, 도입과 관리의 어려움으로 일부 인증서만 쓰이는 사례가 많다. 이는 고객이탈의 시작이기도 하다. 이에 다양한 인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
