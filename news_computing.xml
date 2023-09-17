@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 22:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 23:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3D프린팅 시대, 국제표준화로 앞당긴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230918074109</link>
+            <guid>https://zdnet.co.kr/view/?no=20230918074109</guid>
+            <pubDate>Sun, 17 Sep 2023 23:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 적층제조(3D프린팅) 분야 국제표준 추진을 주도하고 국내외 교류 활성화를 위해 '제22차 국제표준화기구 적층제조 기술위원회(ISO/TC 261) ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["안전한 AI 생태계 앞장"…세일즈포스, 구글과 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20230917195003</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[정부, AI 신뢰성·품질 대상제 신설···과기정통부 장관상과 상금]]></title>
+            <title><![CDATA[과기정통부, AI 신뢰성·품질 대상제 신설···장관상과 상금]]></title>
             <link>https://zdnet.co.kr/view/?no=20230917095908</link>
             <guid>https://zdnet.co.kr/view/?no=20230917095908</guid>
             <pubDate>Sun, 17 Sep 2023 01:46:14 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230914185738</guid>
             <pubDate>Thu, 14 Sep 2023 10:10:43 GMT</pubDate>
             <content:encoded><![CDATA[BSG 파트너스는 SAP로부터 제약산업 솔루션 '스마트핏 파마'의 인증을 획득했다고 14일 밝혔다. 획득한 인증은 '라이즈 위드 SAP S/4 하나(RISE with SAP S...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리미니스트리트 "IT리더, 신규 ERP 모델 전환 의지"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230914185151</link>
-            <guid>https://zdnet.co.kr/view/?no=20230914185151</guid>
-            <pubDate>Thu, 14 Sep 2023 10:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[한국리미니스트리트(대표 김형욱)는 ERP 및 데이터베이스 지원, 공급업체 관계 관리, IT 지원 및 서비스 모델 관련 설문조사를 14일 발표했다. 이번 설문조사는 '조직은 IT...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
