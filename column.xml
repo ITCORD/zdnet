@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 03:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 04:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] SDDC 통한 클라우드 및 데이터센터 운영 전략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230918121447</link>
+            <guid>https://zdnet.co.kr/view/?no=20230918121447</guid>
+            <pubDate>Mon, 18 Sep 2023 04:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[최근 클라우드, 가상화, 컨테이너 등 복잡한 IT 인프라 환경에 대응하고 다양한 워크로드를 수용하기 위해 일관성 있는 아키텍처가 요구된다. 특히 다운타임이나 데이터 손실 없이 비즈니스 연속성을 제공하는 데이터센터 복원력의 중요성이 높아지고 있다.클라우드의 중심이 인프라에서 플랫폼으로 이동하면서 소프트웨어 정의 데이터센터(SDDC)가 각광받고 있다. SDDC는 데이터센터를 구성하는 서버·스토리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/18/9efc371a0efd980f4d68578a526149d6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이창근의 헤디트] 헤리티지 기반 K-콘텐츠, 디지털 유산 한류]]></title>
             <link>https://zdnet.co.kr/view/?no=20230915100013</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jul 2023 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[첨단기술·미디어·통신(TMT) 부문 상당수 기업이 매출 압박에 몸집을 줄이고 핵심 사업에 집중하는 전략으로 선회하고 있다. 마침 사모펀드(PE) 및 벤처캐피털(VC) 이익과 맞아떨어져 2023년 TMT 부문 기업분할은 &nbsp;눈에 띄게 증가할 전망이다.TMT 부문 기업분할은 2021년 사상 최대 규모를 기록했다가 2022년 들어 거시경제적 역풍이 거센 가운데 비즈니스 여건이 악화되고 기업...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/07/01/3ebd5dca229d1fb78237b257cfe4b6e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IITP 기술산책] 반도체 분업화와 기술 경쟁력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230628193651</link>
-            <guid>https://zdnet.co.kr/view/?no=20230628193651</guid>
-            <pubDate>Wed, 28 Jun 2023 12:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;지난 5월 미국 반도체 기업 엔비디아 시가 총액이 1조달러를 돌파했다. 챗GPT 이후 인공지능(AI)에 대한 관심이 높아지는 사이 AI반도체 기업 엔비디아가 시가총액 기준으로 세계 1위 반도체 기업에 등극한 것이다. 기존에 시가총액 기준 세계 1위 반도체 기업은 대만의 TSMC였다. 세계 1위 기업 자리를 놓고 경쟁하는 두 기업은 반도체 기업이기는 하지만 서로 다른 면이 있다.엔비...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/06/28/3198c4ca6443f38b0c4fe32af0ca6581.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
