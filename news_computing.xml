@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 05:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 바쁜 보안 담당자에게 비서가 생긴다면]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230918132401</link>
+            <guid>https://zdnet.co.kr/view/?no=20230918132401</guid>
+            <pubDate>Mon, 18 Sep 2023 05:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[“사이버 공격자는 매우 빠르고, 기민하게 움직이는 반면에 보안 전문 인력은 턱없이 부족하다. 그 와중에 보안담당자는 사안에 맞게 40~50종에 달하는 보안툴에 들어가서 정보를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] SDDC 통한 클라우드 및 데이터센터 운영 전략]]></title>
             <link>https://zdnet.co.kr/view/?no=20230918121447</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[北 해킹조직, 3개월 간 3800억 암호화폐 탈취]]></title>
+            <title><![CDATA[北 해킹조직, 3개월 간 암호화폐 3800억원 탈취]]></title>
             <link>https://zdnet.co.kr/view/?no=20230918093656</link>
             <guid>https://zdnet.co.kr/view/?no=20230918093656</guid>
             <pubDate>Mon, 18 Sep 2023 01:43:37 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230915150855</guid>
             <pubDate>Fri, 15 Sep 2023 07:09:09 GMT</pubDate>
             <content:encoded><![CDATA["아마존웹서비스(AWS)가 지속 가능성을 키우기 위해 할 수 있는 것 중 하나는 클라우드의 에너지 효율성을 강화하기 위해 투자하는 것이다. 그 동안의 투자 덕분에 온프레미스 데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셈, E2E 솔루션 '인터맥스' 200여곳 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230915134854</link>
-            <guid>https://zdnet.co.kr/view/?no=20230915134854</guid>
-            <pubDate>Fri, 15 Sep 2023 05:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[IT 성능관리 전문기업 엑셈은 자사의 엔드 투 엔드(E2E, End-to-End, 프런트~백엔드) 전 구간 거래 추적 기반 애플리케이션 성능 관리(APM) 솔루션 '인터맥스(I...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
