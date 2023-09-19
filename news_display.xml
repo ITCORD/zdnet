@@ -4,9 +4,57 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 15:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 16:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 5세대 제온 프로세서 오는 12월 14일 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230919233201</link>
+            <guid>https://zdnet.co.kr/view/?no=20230919233201</guid>
+            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 서버·데이터센터용 5세대 제온 스케일러블 프로세서(에메랄드래피즈)를 오는 12월 14일 정식 출시한다. 5세대 제온 스케일러블 프로세서는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["메테오레이크, 인텔 4 공정으로 최고 수준 전성비·수율 달성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230919130809</link>
+            <guid>https://zdnet.co.kr/view/?no=20230919130809</guid>
+            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 팻 겔싱어 CEO 취임 이후인 2021년 '향후 4년 동안 5개 공정을 실현해 기술력에서 경쟁사 대비 우위를 되찾겠다'고 밝혔다. 목표 첫 단계인 인텔 7 공정은 12·...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 메테오레이크, 전력 효율 최적화에 '올인']]></title>
+            <link>https://zdnet.co.kr/view/?no=20230918220017</link>
+            <guid>https://zdnet.co.kr/view/?no=20230918220017</guid>
+            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 차세대 코어 프로세서, '메테오레이크'(Meteor Lake)는 노트북 이용자의 경험에 가장 큰 영향을 미치는 배터리 지속시간 향상을 위해 전력 효율 향상에 중점을 뒀다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 "메테오레이크, 타일 구조로 전력 효율 향상"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230917141336</link>
+            <guid>https://zdnet.co.kr/view/?no=20230917141336</guid>
+            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 출시된 인텔 코어 프로세서는 그래픽, I/O(입출력), 코어 등 프로세서 모든 부분을 한데 뭉쳐 큰 다이(Die) 안에 모두 넣는 방식으로 만들어졌다. 그러나 인텔은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 메테오레이크, GPU 대폭 성능 향상...보급형 GPU 위협]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230917114022</link>
+            <guid>https://zdnet.co.kr/view/?no=20230917114022</guid>
+            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 차세대 코어 프로세서, 메테오레이크(Meteor Lake)는 인텔이 설계하고 대만 TSMC N5(5나노급) 공정에서 생산된 GPU를 내장한다. GPU 타일은 인텔이 202...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 다크호스 '메테오레이크', 어떻게 달라졌나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230917094251</link>
+            <guid>https://zdnet.co.kr/view/?no=20230917094251</guid>
+            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[19일(미국 현지시간) '인텔 이노베이션 2023' 팻 겔싱어 CEO 기조 연설을 통해 공개된 차세대 코어 프로세서, 메테오레이크(Meteor Lake)는 향후 10년간 인텔이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[곽노정 SK하이닉스 사장, 다음달 KAIST서 강연…반도체 인재 확보에 진심]]></title>
             <link>https://zdnet.co.kr/view/?no=20230919175036</link>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230918132232</guid>
             <pubDate>Mon, 18 Sep 2023 05:10:30 GMT</pubDate>
             <content:encoded><![CDATA[LG이노텍이 동반성장위원회가 발표한 '2022년 동반성장지수 평가'에서 '최우수' 등급을 받았다고 18일 밝혔다. LG이노텍은 2017년부터 동반성장지수 최우수 등급을 7년 연...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루엠, 독일 '스마트 가로등' 사업 수주...신사업 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230918095014</link>
-            <guid>https://zdnet.co.kr/view/?no=20230918095014</guid>
-            <pubDate>Mon, 18 Sep 2023 01:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[솔루엠(대표 전성호)이 독일 나우엔(Nauen)시에 LED 스마트 가로등 사업을 수주했다고 18일 밝혔다. 스마트 가로등은 스마트시티의 필수 인프라이자 효과적인 온실 감축 솔루...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 생성형 AI 가속기 카드 'AiMX' 시제품 첫 시연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230918091424</link>
-            <guid>https://zdnet.co.kr/view/?no=20230918091424</guid>
-            <pubDate>Mon, 18 Sep 2023 01:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 지난 12일(미국시간)부터 사흘간 미국 캘리포니아주에서 열린 'AI 하드웨어 &amp; 엣지 AI Summit(이하 AI 서밋) 2023'에서 GDDR6-AiM 기반의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["TSMC, 반도체 장비 도입 미뤄"…수요 회복세 난망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230918080307</link>
-            <guid>https://zdnet.co.kr/view/?no=20230918080307</guid>
-            <pubDate>Mon, 18 Sep 2023 00:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 주요 협력사에 첨단 반도체 제조장비의 공급 시기를 미뤄줄 것을 요청했다고 로이터통신이 16일(현지시간) 보도했다. 로이터는 익명의 소식통을 인용해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["화웨이 5G폰에 탑재된 SK하이닉스 메모리칩은 구형 모델"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230915155258</link>
-            <guid>https://zdnet.co.kr/view/?no=20230915155258</guid>
-            <pubDate>Fri, 15 Sep 2023 08:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[중국 화웨이의 신제품 스마트폰 '메이트60 프로'에 탑재된 SK하이닉스 메모리는 2021년 이후 생산된 구형 제품인 것으로 파악된다. 15일 블룸버그통신은 반도체 컨설팅업체 테...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['고성장' 車 이미지센서 잡아라…삼성·소니 차세대 제품 각축전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230915121035</link>
-            <guid>https://zdnet.co.kr/view/?no=20230915121035</guid>
-            <pubDate>Fri, 15 Sep 2023 05:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행 산업의 급격한 발달로 고성능 차량용 CMOS 이미지센서(CIS)에 대한 수요 또한 높아지고 있다. 이에 삼성전자, 소니 등 주요 업체들도 화질을 높인 차세대 제품을 앞...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 경계현 "행복한 일터 만들어야 혁신 반도체 인재 유치한다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230915113041</link>
-            <guid>https://zdnet.co.kr/view/?no=20230915113041</guid>
-            <pubDate>Fri, 15 Sep 2023 04:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[경계현 삼성전자 DS(반도체)부문 사장이 반도체 인재 육성에 발벗고 나서고 있는 가운데, 혁신 인재를 영입하려면 행복한 일터를 만들어야 한다고 강조했다. 경 사장은 15일 자신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
