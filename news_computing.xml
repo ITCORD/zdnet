@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 20:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 21:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클, 자바21 출시…8년 기술지원 보장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920051920</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920051920</guid>
+            <pubDate>Tue, 19 Sep 2023 21:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 오라클이 최신 장기지원(LTS) 버전인 자바21을 출시했다. 이와 함께 기존 자바11 LTS의 기술지원기간을 2032년으로 8년 더 연장했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퓨어스토리지, APJ 지역 부사장에 네이슨 홀 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20230919180458</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919083012</guid>
             <pubDate>Tue, 19 Sep 2023 00:41:14 GMT</pubDate>
             <content:encoded><![CDATA[한국국방혁신기술 보안협회(K-SAEM)가 창립 발대식 및 총회 행사를 밀리토피아 호텔에서 개최했다고 18일 밝혔다. 이번 행사는 산학군 관계자의 자긍심을 고취하고 국방 보안에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트, 통합 솔루션 서밋 'ISS 2023' 10월 24일 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919082747</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919082747</guid>
-            <pubDate>Tue, 19 Sep 2023 00:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[인젠트(대표 남석우)가 주요 구축 사례 및 협업 사례를 통해 비즈니스 인사이트를 소개하는 '통합 솔루션 서밋2023(ISS 2023)'을 개최한다고 19일 밝혔다. 올해 5회를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
