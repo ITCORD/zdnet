@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 17:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 18:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, UCIe 기반 반도체 시제품 '파이크 크릭' 첫 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920024048</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920024048</guid>
+            <pubDate>Tue, 19 Sep 2023 18:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 19일 오전(미국 서부시각, 한국시간 20일 오전 0시) 연례 기술행사 '인텔 이노베이션' 기조연설에서 UCIe 기술 기반 반도체 시제품...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/20/420731c3fe1cbf46ed0920d9b4bf0ea7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['로봇 근간' 부품사 한자리…경쟁력 제고 방안 논의]]></title>
             <link>https://zdnet.co.kr/view/?no=20230919163714</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230919233201</guid>
             <pubDate>Tue, 19 Sep 2023 16:12:11 GMT</pubDate>
             <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 서버·데이터센터용 5세대 제온 스케일러블 프로세서(에메랄드래피즈)를 오는 12월 14일 정식 출시한다. 5세대 제온 스케일러블 프로세서는...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/30/7d72a0b8bac64bebdf02541f1c059fb7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인텔, EUV 기반 '코어 울트라' 프로세서 정식 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919174431</guid>
             <pubDate>Tue, 19 Sep 2023 09:09:50 GMT</pubDate>
             <content:encoded><![CDATA[코그(KOG)는 '그랜드체이스 모바일'에 신규 전직 영웅 '명화린'를 추가하고, 신규 SS 영웅 '메이덴' 사전예약을 실시 한다고 19일 밝혔다. 회사 측에 따르면 전직 영웅과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한수원, 인적자원개발 최우수 기관 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919173731</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919173731</guid>
-            <pubDate>Tue, 19 Sep 2023 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[한국수력원자력이 19일 교육부와 고용노동부가 공동 주관하는 '2023년도 인적자원개발 우수기관 인증사업(BestHRD)'에서 공공부문 '최우수 기관'에 선정됐다. '인적자원개발...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
