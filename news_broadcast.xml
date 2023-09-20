@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 08:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가계통신비 → '가계디지털비'로 전환해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920171351</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920171351</guid>
+            <pubDate>Wed, 20 Sep 2023 09:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[가계통신비를 '가계디지털비'로 전환해야 한다는 주장이 거듭 제기됐다. 과거 통신서비스에 지불하는 비용이 디지털 비용의 대부분이었지만 OTT와 게임 같은 콘텐츠에 지불하는 값과 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT스카이라이프 임직원, 인천대교 기념관 부근 해변 정화활동]]></title>
             <link>https://zdnet.co.kr/view/?no=20230920131801</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919092230</guid>
             <pubDate>Tue, 19 Sep 2023 00:41:05 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드는 지역채널 뉴스에 인공지능(AI) 기술을 적용해 프로그램 경쟁력을 강화한다고 19일 밝혔다. SK브로드밴드는 SK텔레콤의 AI 기술을 이용해 자사 케이블 지역채널...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI로 실내 유동인구 파악한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919091923</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919091923</guid>
-            <pubDate>Tue, 19 Sep 2023 00:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 AI 기반 위치 분석 플랫폼 리트머스에 실내 측위 기술을 결합해 실내 유동인구를 정밀하게 파악할 수 있는 'AI유동인구' 기술을 개발했다고 19일 밝혔다. 기존 유...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
