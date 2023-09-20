@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 01:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 02:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸이타임, 정밀 타이밍 기술 혁신 신규 '에포크 플랫폼' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920103401</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920103401</guid>
+            <pubDate>Wed, 20 Sep 2023 02:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[싸이타임코포레이션(SITM)은 전자기기의 가장 복잡한 타이밍 문제를 해결하고 100년 된 쿼츠(Quartz) 기반 기술을 혁신하기 위해 설계된 싸이타임 에포크 플랫폼(SiTim...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에이디테크놀로지, 보스반도체와 삼성 5나노 차량용 반도체 개발 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920110023</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920110023</guid>
+            <pubDate>Wed, 20 Sep 2023 02:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[국내 반도체 디자인 하우스 에이디테크놀로지가 팹리스 스타트업 보스반도체와 삼성전자 파운드리 사업부의 5나노미터(mn) 공정을 기반으로 차량용 고성능 SoC(시스템온칩) 시스템 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성D, 화면 밝기 국제표준 바꿨다…"이젠 체감휘도가 중요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230920090218</link>
@@ -20,7 +36,7 @@
             <link>https://zdnet.co.kr/view/?no=20230920092057</link>
             <guid>https://zdnet.co.kr/view/?no=20230920092057</guid>
             <pubDate>Wed, 20 Sep 2023 01:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[SK실트론이 글로벌 웨이퍼 업계 최초로 ISSB에서 발표한 'IFRS 지속가능성 보고 FRAMEwork9'을 선제적으로 준용한 지속가능경영보고서를 발간했다고 20일 밝혔다. I...]]></content:encoded>
+            <content:encoded><![CDATA[SK실트론이 글로벌 웨이퍼 업계 최초로 ISSB에서 발표한 'IFRS 지속가능성 보고 FRAMEwork'을 선제적으로 준용한 지속가능경영보고서를 발간했다고 20일 밝혔다. IS...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919100613</guid>
             <pubDate>Tue, 19 Sep 2023 01:45:17 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 인공지능(AI) 산업의 핵심 요소인 HBM(고대역폭메모리) 시장 주도권을 확고히 하겠다는 자신감을 드러냈다. 19일 SK하이닉스는 공식 뉴스룸을 통해 지난 8월 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미반도체, HBM용 차세대 본딩장비 출시…"글로벌 고객사 납품 예정"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919093752</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919093752</guid>
-            <pubDate>Tue, 19 Sep 2023 01:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[한미반도체는 인공지능(AI) 반도체에 탑재되는 차세대 HBM(고대역폭메모리) 필수공정 장비인 3세대 하이퍼 모델 '듀얼 TC 본더 그리핀'을 출시하며 글로벌 반도체 기업에 납품...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이 "기술 격차 있어도 中 자체 제작한 반도체 소비해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919080032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919080032</guid>
-            <pubDate>Tue, 19 Sep 2023 01:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이 고위 경영진이 중국 반도체 산업 발전을 위해 자체 개발 칩을 더 많이 사용할 것을 촉구했다고 홍콩 SCMP(사우스차이나모닝포스트) 등이 지난 18일 보도했다. 에릭 쉬 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
