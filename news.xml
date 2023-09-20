@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 21:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 22:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 비트코인 채굴 칩 개발자들, 어디로 갔을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921061131</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921061131</guid>
+            <pubDate>Wed, 20 Sep 2023 22:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔은 지난 해 2월 초저전력으로 작동하는 비트코인 채굴 전용 칩 '보난자 마인'(Bonanza Mine)을 공개했다. 이 칩은 인텔이 자체 개...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/02/14/bfcc2d8fb1c52b2701a72e37f69f09b0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이마트 "피코크 제수용품으로 간편 차례상 준비하세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230920210640</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230921050100</guid>
             <pubDate>Wed, 20 Sep 2023 21:08:28 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방준비제도가 이번달 연방공개시장위원회(FOMC)에서 기준금리를 현행 수준인 5.25~5.50%로 동결했다. 20일(현지시간) 주요외신 보도에 따르면 이날 제롬 파월 연준...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/16/4f8c601ebb2d39032fe21b94afe2e65a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["이 서버를 어떻게 믿죠" 서버 무결성, 인텔이 증명한다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230920175444</guid>
             <pubDate>Wed, 20 Sep 2023 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[한국게임미디어협회(회장 이택수, KGMA)는 OP.GG 산하의 케이블 게임 전문 채널 OGN이 회원사로 신규 가입했다고 20일 밝혔다. OGN은 세계 최초의 e스포츠 전문 방송...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹3 신원 플랫폼 '갤럭시', 4분기 모바일 앱 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230920174032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230920174032</guid>
-            <pubDate>Wed, 20 Sep 2023 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[온·오프체인 기반 디지털 신원 플랫폼 갤럭시는 사용자 경험 개선을 위한 '갤럭시 2.0'을 20일 공개했다. 모바일 앱, '스마트 밸런스' 기능, 웹3 스코어 기능 등을 출시할...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
