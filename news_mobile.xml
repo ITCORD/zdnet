@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 09:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원익로보틱스, 자율주행로봇 엘리베이터 탑승 안전성 평가 통과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920184437</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920184437</guid>
+            <pubDate>Wed, 20 Sep 2023 10:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[원익로보틱스는 자사 제조·물류이송 자율주행로봇(AMR) 'WR300'이 한국로봇산업진흥원 '엘리베이터 탑승 로봇 안전성 평가'에서 통과했다고 20일 밝혔다. 평가는 한국산업표준...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[필립스 전기면도기, 추석맞이 네이버 쇼핑라이브 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20230920162941</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919163714</guid>
             <pubDate>Tue, 19 Sep 2023 17:09:15 GMT</pubDate>
             <content:encoded><![CDATA[한국로봇산업진흥원은 지난 19일 인터컨티넨탈 코엑스 서울에서 로봇부품기업 간담회를 개최했다. 이번 간담회는 로봇부품 실증사업 일환으로 국내 로봇부품기업의 경쟁력 제고를 위한 현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, EUV 기반 '코어 울트라' 프로세서 정식 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919225854</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919225854</guid>
-            <pubDate>Tue, 19 Sep 2023 16:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 19일 오전(미국 서부시각, 한국시간 20일 오전 0시) 연례 기술행사 '인텔 이노베이션' 기조연설을 통해 모바일(노트북)용 프로세서 신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
