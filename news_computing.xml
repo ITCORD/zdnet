@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 22:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 23:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클, 생성 AI 인프라와 암페어원 인스턴스 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921061143</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921061143</guid>
+            <pubDate>Wed, 20 Sep 2023 23:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 오라클이 생성 AI 모델 학습과 추론을 위한 전용 클라우드 인프라 옵션을 공개했다. 엔비디아 GPU와 암페어컴퓨팅의 최신 ARM 아키텍처 C...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 비트코인 채굴 칩 개발자들, 어디로 갔을까]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921061131</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230920113213</guid>
             <pubDate>Wed, 20 Sep 2023 03:10:25 GMT</pubDate>
             <content:encoded><![CDATA[영상인식 인공지능(AI) 전문기업 알체라(대표 황영규)는 18일 수협은행과 '모바일뱅킹 신분증 인식 및 사본 판별 시스템 구축' 계약을 체결했다고 공시했다. 계약금액은 8.6억...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 암세포 찾아내는 AI 현미경 만들었다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230920111355</link>
-            <guid>https://zdnet.co.kr/view/?no=20230920111355</guid>
-            <pubDate>Wed, 20 Sep 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 미국 국방부와 협력해 암세포 식별에 도움을 주는 인공지능(AI) 현미경을 개발했다고 엔가젯 등 외신들이 19일(현지시간) 보도했다. 이번에 개발된 증강현실(AR) 현미경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
