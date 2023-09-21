@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 05:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["추석 연휴 문자메시지 사기 조심하세요”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921140251</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921140251</guid>
+            <pubDate>Thu, 21 Sep 2023 05:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 추석 연휴를 앞두고 택배 배송이나 교통범칙금 조회를 사칭한 스미싱이나 지인 명절인사 등으로 위장한 메신저 피싱이 증가할 것으로 보고, 이로 인한 이용자의 피해 주의를 당...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 방송 공동제작 국제 컨퍼런스 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921114324</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919154941</guid>
             <pubDate>Tue, 19 Sep 2023 08:13:52 GMT</pubDate>
             <content:encoded><![CDATA[한국소비자원이 19일 초고속인터넷 서비스 이용자 15.8%가 최저보장속도 미달을 경험했다는 설문 결과를 발표한 가운데, 소비자원이 언급한 최저보장속도(SLA) 기준이 소비자 혼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코바코, 임직원 대상 내부통제 운영 능력 교육]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919161532</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919161532</guid>
-            <pubDate>Tue, 19 Sep 2023 08:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송광고진흥공사(코바코)는 내부통제 운영 능력 강화와 공감대 형성을 위한 임직원 대상 내부통제 교육을 실시했다고 19일 밝혔다. 이날 교육은 감사원 사무차장을 역임한 문호승...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
