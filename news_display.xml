@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 06:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 07:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리콘랩스, 새로운 블루투스 메시 개선 기능 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921151605</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921151605</guid>
+            <pubDate>Thu, 21 Sep 2023 07:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[실리콘랩스는 블루투스 SIG(Bluetooth Special Interest Group)가 블루투스 메시를 위해 새롭게 개선한 기능들을 지원하고, 아울러 이를 사용하는 상업·산...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["기존 CPU 한계, 이 '이론'이면 뒤집을 수 있습니다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230920173133</link>
+            <guid>https://zdnet.co.kr/view/?no=20230920173133</guid>
+            <pubDate>Thu, 21 Sep 2023 07:11:47 GMT</pubDate>
+            <content:encoded><![CDATA["기존 CPU는 순차 처리 방식에 특화돼 있어, AI 산업이 필요로 하는 병렬 처리를 제대로 하지 못한다는 한계가 있었죠. 이를 뒤집고 CPU의 병렬 처리를 구현해낼 수 있는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베트남, 반도체 산업 육성에 올인...美에 러브콜]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921110811</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230920080310</guid>
             <pubDate>Wed, 20 Sep 2023 00:41:14 GMT</pubDate>
             <content:encoded><![CDATA[지나 러몬도 미국 상무장관이 중국 화웨이의 7나노미터(nm) 칩 상용화에 대해 "대규모 양산이 가능하다는 증거가 없다"고 지적했다고 블룸버그통신이 20일 보도했다. 이날 러몬도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머크, '아데코 학술대회'서 반도체 산업 위한 디지털 솔루션 공유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230920082541</link>
-            <guid>https://zdnet.co.kr/view/?no=20230920082541</guid>
-            <pubDate>Wed, 20 Sep 2023 00:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[독일 과학기술기업 머크는 한독수교 140주년을 맞이해 열린 한국독일동문네트워크 '아데코(ADeKo) 통합학술대회'에서 인공지능과 머신러닝 분야와 반도체 업계 트렌드에 대한 머크...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팻 겔싱어, 2025년 출시 예정 '인텔 18A' 웨이퍼 깜짝 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230920041808</link>
-            <guid>https://zdnet.co.kr/view/?no=20230920041808</guid>
-            <pubDate>Tue, 19 Sep 2023 20:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 19일 오전(현지시간, 한국시간 20일 새벽) 진행된 '인텔 이노베이션 2023' 기조연설에서 1.8나노급 공정 '인텔 18A' 기반 웨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
