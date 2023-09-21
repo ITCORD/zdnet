@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 01:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 02:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주니퍼네트웍스, 프라이빗 데이터센터 인프라 관리 기능 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921105321</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921105321</guid>
+            <pubDate>Thu, 21 Sep 2023 02:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[네트워크 전문 업체 주니퍼네트웍스는 21일 인텐트 기반 네트워킹 솔루션 '주니퍼 앱스트라' 기능을 발표, 프라이빗 데이터센터 인프라의 배포 및 운영을 간소화하고 경험을 개선했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플라이빗, 가상자산사업자 특화 제재위험평가 모델 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921102219</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230920180315</guid>
             <pubDate>Wed, 20 Sep 2023 09:10:53 GMT</pubDate>
             <content:encoded><![CDATA[데이터스트림즈(대표 이영상)가 효성ITX(대표 남경환)와 빅데이터패브릭 솔루션 협업을 위한 MOU(업무협약)를 20일 체결했다. 두 회사는 이날 서울시 영등포구 효성ITX 본사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹3 신원 플랫폼 '갤럭시', 4분기 모바일 앱 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230920174032</link>
-            <guid>https://zdnet.co.kr/view/?no=20230920174032</guid>
-            <pubDate>Wed, 20 Sep 2023 09:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[온·오프체인 기반 디지털 신원 플랫폼 갤럭시는 사용자 경험 개선을 위한 '갤럭시 2.0'을 20일 공개했다. 모바일 앱, '스마트 밸런스' 기능, 웹3 스코어 기능 등을 출시할...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

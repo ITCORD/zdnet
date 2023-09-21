@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 01:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 02:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, GaN 디바이스용 초고속 게이트 드라이버 IC 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921104103</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921104103</guid>
+            <pubDate>Thu, 21 Sep 2023 02:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[로옴 주식회사는 초고속으로 GaN(질화갈륨) 디바이스를 구동하는 게이트 드라이버 IC 'BD2311NVX-LB'를 개발했다고 21일 밝혔다. 신제품은 나노초(ns)의 게이트 구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄컴, 커넥티드 홈 성능 향상 '10G 파이버 게이트웨이 플랫폼' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921090051</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230919233201</guid>
             <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
             <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 서버·데이터센터용 5세대 제온 스케일러블 프로세서(에메랄드래피즈)를 오는 12월 14일 정식 출시한다. 5세대 제온 스케일러블 프로세서는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["메테오레이크, 인텔 4 공정으로 최고 수준 전성비·수율 달성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919130809</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919130809</guid>
-            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[인텔은 팻 겔싱어 CEO 취임 이후인 2021년 '향후 4년 동안 5개 공정을 실현해 기술력에서 경쟁사 대비 우위를 되찾겠다'고 밝혔다. 목표 첫 단계인 인텔 7 공정은 12·...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
