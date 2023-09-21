@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, '삼성에 갑질' 美 브로드컴 과징금 191억원 부과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921085826</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921085826</guid>
+            <pubDate>Thu, 21 Sep 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회(이하 '공정위')는 미국 반도체 기업 브로드컴에 시정명령과 과징금 191억원(잠정)을 부과하기로 21일 결정했다. 이는 브로드컴이 삼성전자에게 부품 선적 중단 등...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, GaN 디바이스용 초고속 게이트 드라이버 IC 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921104103</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230920024048</guid>
             <pubDate>Tue, 19 Sep 2023 18:12:56 GMT</pubDate>
             <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 19일 오전(미국 서부시각, 한국시간 20일 오전 0시) 연례 기술행사 '인텔 이노베이션' 기조연설에서 UCIe 기술 기반 반도체 시제품...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 5세대 제온 프로세서 오는 12월 14일 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230919233201</link>
-            <guid>https://zdnet.co.kr/view/?no=20230919233201</guid>
-            <pubDate>Tue, 19 Sep 2023 16:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔이 서버·데이터센터용 5세대 제온 스케일러블 프로세서(에메랄드래피즈)를 오는 12월 14일 정식 출시한다. 5세대 제온 스케일러블 프로세서는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
