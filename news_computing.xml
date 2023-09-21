@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN클라우드, '광주 AI데이터센터' 이용자 모집]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921143139</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921143139</guid>
+            <pubDate>Thu, 21 Sep 2023 06:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[NHN클라우드(공동대표 백도민·김동훈)가 '광주 인공지능(AI)데이터센터' 이용자를 모집한다. NHN클라우드는 인공지능사업융합사업단(AICA)이 추진하는 'AI 중심 산업융합 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[업스테이지, 아이돌 인격 'AI 챗봇'에 옮겼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921092959</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921092959</guid>
+            <pubDate>Thu, 21 Sep 2023 06:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[업스테이지(대표 김성훈)는 메타버스엔터테인먼트와 '페르소나 인공지능(AI) 공동 개발'을 위한 협약을 맺었다고 21일 밝혔다. 20일 진행된 협약식에는 김성훈 업스테이지 대표와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맥스소프트, '대한민국 디지털 미래혁신대전 2023' 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921110925</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230920182126</guid>
             <pubDate>Thu, 21 Sep 2023 00:40:37 GMT</pubDate>
             <content:encoded><![CDATA[사이냅소프트(대표 전경헌)가 인공지능(AI) 기반 웹콘텐츠 제작 솔루션 '사이냅 에디터'를 올해 출시할 계획이라고 20일 밝혔다. 사이냅 에디터는 웹 오피스와 유사한 인터페이스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클, 생성 AI 인프라와 암페어원 인스턴스 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230921061143</link>
-            <guid>https://zdnet.co.kr/view/?no=20230921061143</guid>
-            <pubDate>Wed, 20 Sep 2023 23:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 오라클이 생성 AI 모델 학습과 추론을 위한 전용 클라우드 인프라 옵션을 공개했다. 엔비디아 GPU와 암페어컴퓨팅의 최신 ARM 아키텍처 C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 비트코인 채굴 칩 개발자들, 어디로 갔을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230921061131</link>
-            <guid>https://zdnet.co.kr/view/?no=20230921061131</guid>
-            <pubDate>Wed, 20 Sep 2023 22:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[[새너제이(미국)=권봉석 기자] 인텔은 지난 해 2월 초저전력으로 작동하는 비트코인 채굴 전용 칩 '보난자 마인'(Bonanza Mine)을 공개했다. 이 칩은 인텔이 자체 개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

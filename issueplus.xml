@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베트남, 반도체 산업 육성에 올인...美에 러브콜]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230921110811</link>
+            <guid>https://zdnet.co.kr/view/?no=20230921110811</guid>
+            <pubDate>Thu, 21 Sep 2023 06:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 베트남, 中 대체할 새 IT 생산기지로 급부상]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/21/bedfde1b8387df80e63d4852054122f0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日, IBM·TSMC와 손잡고 반도체 강국 부활 꿈꾼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230831144024</link>
@@ -270,30 +278,6 @@
             <pubDate>Wed, 03 May 2023 12:19:12 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 위기의 K-반도체, 美 반도체 보조금 신청 어쩌나]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2022/03/10/711e516d2035ea6be7866f00c90725ff-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초거대AI 두뇌, AI반도체가 키운다…GPU넘어 NPU로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230225162429</link>
-            <guid>https://zdnet.co.kr/view/?no=20230225162429</guid>
-            <pubDate>Wed, 03 May 2023 12:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 초거대 AI를 움직이는 인프라 (하)]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/09/29/e0d335c384815117f7a44eacf023e1e1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["6개월 걸릴 금융 AI모델 개발, HAC으로 1개월로 단축"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230224131615</link>
-            <guid>https://zdnet.co.kr/view/?no=20230224131615</guid>
-            <pubDate>Wed, 03 May 2023 12:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 초거대 AI를 움직이는 인프라 (중)]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/24/6c1d2b1fa8f39d1669fca16788764c86-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["초거대 AI, 대기업 전유물 아냐" 클라우드가 돕는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230222144545</link>
-            <guid>https://zdnet.co.kr/view/?no=20230222144545</guid>
-            <pubDate>Wed, 03 May 2023 12:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 초거대 AI를 움직이는 인프라 (상)]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/05/e74597827b4967fb2d202555b32cf5e2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
