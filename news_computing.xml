@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 06:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 07:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가상자산 비합리적 규제로 韓 경쟁력 약화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230922152204</link>
+            <guid>https://zdnet.co.kr/view/?no=20230922152204</guid>
+            <pubDate>Fri, 22 Sep 2023 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA["작년 가상자산 시장이 약세장에 진입했지만 제도권 편입 및 시장 투명성이 개선되고 있어 성장세가 전망되고 있다. 그러나 국내 시장은 독과점이 심화되고 있고 지원 정책이 미비해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성 AI, 국내 SW 산업을 얼마나 바꿔놨을까]]></title>
             <link>https://zdnet.co.kr/view/?no=20230921105508</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230921105321</guid>
             <pubDate>Thu, 21 Sep 2023 02:15:52 GMT</pubDate>
             <content:encoded><![CDATA[네트워크 전문 업체 주니퍼네트웍스는 21일 인텐트 기반 네트워킹 솔루션 '주니퍼 앱스트라' 기능을 발표, 프라이빗 데이터센터 인프라의 배포 및 운영을 간소화하고 경험을 개선했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플라이빗, 가상자산사업자 특화 제재위험평가 모델 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230921102219</link>
-            <guid>https://zdnet.co.kr/view/?no=20230921102219</guid>
-            <pubDate>Thu, 21 Sep 2023 01:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 플라이빗 운영사 한국디지털거래소는 가상자산사업자(VASP)에 특화된 제재위험평가 모델 'FARA-S'를 개발했다고 21일 밝혔다. FARA-S는 제재 위험에 대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
