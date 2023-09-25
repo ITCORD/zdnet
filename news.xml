@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 22:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 23:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KTNET, 기업 디지털 문서 대체 주도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230926075319</link>
+            <guid>https://zdnet.co.kr/view/?no=20230926075319</guid>
+            <pubDate>Mon, 25 Sep 2023 23:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[평소 2~3일 걸리던 시험인증기관들의 시험성적서 수신·유통 소요시간이 5분 이내로 단축돼 기업의 디지털전환(DX)을 촉진하고 있다. 국가 전자무역 기반 사업자인 한국무역정보통신...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/26/bd3f7012d4fec3b6f9502c4d26b1b010-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방통위 네이버 사실조사, 법적근거 없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230925210238</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230925203739</guid>
             <pubDate>Mon, 25 Sep 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[“좋은 개발자란 '실력 반 인성 반'이다. 대개 역량은 대동소이하다. 중요한 건 함께 밥 먹고 싶고, 일하고 싶은 사람을 뽑아야 한다는 것. 겸손하게 열심히 배울지, 함께 구를...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/25/420c3e664f8168f3921e734e51c98c6d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[2023 디미혁] 브이웨이 "프로젝트 성공, 요구사항 관리에 달렸다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230925173657</guid>
             <pubDate>Mon, 25 Sep 2023 09:10:26 GMT</pubDate>
             <content:encoded><![CDATA[앤시스코리아(대표 문석환)는 앤시스 본사가 뉴스위크로부터 '2023 가장 사랑받는 100대 기업 중 16위에 올랐다고 25일 밝혔다. 또한, 지난해에 이어 2년 연속 뉴스위크 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 디미혁] 탈레스 "센티넬 EMS로 SaaS 수입 극대화 가능"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230925173356</link>
-            <guid>https://zdnet.co.kr/view/?no=20230925173356</guid>
-            <pubDate>Mon, 25 Sep 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA["체지방 관리 미용기기 제조사 '칸델라'는 기존 유지보수 모델에서 사용량 기반 클라우드 라이선스 기반 모델로 전환한 후 고객사당 수익률이 1.77배 늘었고 어떤 기능을 중점적으...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
