@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 피라미드 전략 추진"...SKT, AI 투자 3배 늘린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230926112115</link>
+            <guid>https://zdnet.co.kr/view/?no=20230926112115</guid>
+            <pubDate>Tue, 26 Sep 2023 05:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 데이터센터, AI반도체, 초거대AI 등 AI 기술과 인프라를 바탕으로 주요 사업영역에 AI를 더하고 그 위에 글로벌 협력 모델의 서비스를 고도화하는 'AI 피라미드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, GS칼텍스 주유소 현장 작업자에 스마트안전장구 보급]]></title>
             <link>https://zdnet.co.kr/view/?no=20230926120357</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[통신 3사, 추석 기간 보이스피싱 예방 문자메시지 발송]]></title>
+            <title><![CDATA["추석 보이스피싱 조심하세요"…통신 3사, 예방 메시지 발송]]></title>
             <link>https://zdnet.co.kr/view/?no=20230926113316</link>
             <guid>https://zdnet.co.kr/view/?no=20230926113316</guid>
             <pubDate>Tue, 26 Sep 2023 03:10:58 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230925094156</guid>
             <pubDate>Mon, 25 Sep 2023 01:45:02 GMT</pubDate>
             <content:encoded><![CDATA[추석 연휴 귀성길은 연휴 전날인 27일 오후부터 정체가 시작될 전망이다. 서울과 부산간 정오부터 교통량이 급격히 증가해 오후 2시 출발 시 최대 7시간 28분이 걸릴 것으로 예...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 소상공인시장진흥공단과 카드형 온누리상품권 이벤트 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230925093527</link>
-            <guid>https://zdnet.co.kr/view/?no=20230925093527</guid>
-            <pubDate>Mon, 25 Sep 2023 00:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 온누리상품권 발행처인 소상공인시장진흥공단과 함께 내달 31일까지 카드형 온누리상품권 이용자를 대상으로 최대 15만원까지 지급하는 '지인 추천' 이벤트를 시행한다고 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

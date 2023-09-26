@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 안산에 첫 자체 데이터센터 준공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230926090906</link>
+            <guid>https://zdnet.co.kr/view/?no=20230926090906</guid>
+            <pubDate>Tue, 26 Sep 2023 05:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 첫 자체 데이터센터인 '카카오 데이터센터 안산' 공사를 완료하고 가동 준비를 시작한다고 26일 밝혔다. 카카오는 이날 한양대 에리카 캠퍼스 내 위치한 카카오 데이터센터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이국환 우아한형제들 대표, 일회용품 제로 챌린지 동참]]></title>
             <link>https://zdnet.co.kr/view/?no=20230926103321</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230925111505</guid>
             <pubDate>Mon, 25 Sep 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[네이버와 에버랜드는 전국민적 사랑과 관심을 받는 푸바오 쌍둥이 동생들의 이름을 선정하기 위해 남녀노소 편리하게 참여할 수 있는 네이버 오픈톡과 에버랜드 홈페이지에서 동시에 투표...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 골드박스 '경주월드 이용권' 특가 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230925103913</link>
-            <guid>https://zdnet.co.kr/view/?no=20230925103913</guid>
-            <pubDate>Mon, 25 Sep 2023 02:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡이 야외활동하기 좋은 가을을 맞이해 와우 회원 전용 할인코너 '골드박스'에서 경주월드 이용권을 최대 44% 할인 판매한다고 25일 밝혔다. 골드박스는 매일 다른 상품을 단 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
