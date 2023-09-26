@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 06:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 07:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가대표 보안 기업, AI도 선제 대응]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230926153531</link>
+            <guid>https://zdnet.co.kr/view/?no=20230926153531</guid>
+            <pubDate>Tue, 26 Sep 2023 07:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내 주요 보안 기업들이 인공지능(AI) 등 신기술로 무장한 해킹 공격에 대응하는 핵심 전략을 선보였다. SK쉴더스, 안랩, 파수, 지란지교시큐리티 등 보안 기업들은 서울 삼성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다쏘시스템, 의료 버추얼 트윈 아바타 '엠마 트윈' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20230926145446</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230926095039</guid>
             <pubDate>Tue, 26 Sep 2023 01:44:32 GMT</pubDate>
             <content:encoded><![CDATA[클립소프트(CLIPSOFT, 대표 김양수, 남도현)가 서울 강남 드림플러스(강남대로 311)로 사옥을 확장 이전했다고 25일 밝혔다. 클립소프트 신사옥은 서울시 강남구 강남대로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT, 말로 대화하고 사진으로 소통한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230926093918</link>
-            <guid>https://zdnet.co.kr/view/?no=20230926093918</guid>
-            <pubDate>Tue, 26 Sep 2023 01:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT와 말로 대화하고, 사진을 올려 답변을 받아낼 수 있게 된다. 오픈AI는 25일(현지시간) 챗GPT의 인터페이스에 음성과 이미지 업로드를 추가한다고 발표했다. 오픈AI는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
