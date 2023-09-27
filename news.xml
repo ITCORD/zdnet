@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 15:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 16:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차·기아, 엔진 부품 화재 위험으로 美서 330만대 리콜]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230928004024</link>
+            <guid>https://zdnet.co.kr/view/?no=20230928004024</guid>
+            <pubDate>Wed, 27 Sep 2023 16:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차와 기아가 미국에서 엔진 부품 화재 위험으로 각각 약 160만대, 170만대를 리콜(자발적 시정조치)한다고 미국 도로교통안전국(NHTSA)이 27일(현지시간) 밝혔다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/28/ea1f7f7250a8bbb1455e7221aa1afd51-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[부음] 한세희 지디넷코리아 과학전문기자 장인상]]></title>
             <link>https://zdnet.co.kr/view/?no=20230927184544</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230927194336</guid>
             <pubDate>Wed, 27 Sep 2023 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무는 이석우 대표가 마약 예방을 위한 '노 엑시트(NO EXIT)' 캠페인에 참여했다고 27일 밝혔다. 노 엑시트 캠페인은 경찰청이 마약퇴치운동...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/27/fd2200d80ddc691d3ad61ef0dbe5273a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[베리파이바스프, 홍콩 '핀테크 이노베이션 어워즈' 수상]]></title>
@@ -152,19 +160,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["삼성 클라우드, 메가존 막내 파트너지만 실력은 첫째”]]></title>
+            <title><![CDATA["삼성 클라우드, 메가존 가장 최근 파트너지만 실력은 첫째"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230927141934</link>
             <guid>https://zdnet.co.kr/view/?no=20230927141934</guid>
             <pubDate>Wed, 27 Sep 2023 06:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[“삼성 클라우드는 공공 클라우드와 엔터프라이즈 기업용 클라우드까지 범용성을 갖췄습니다.” 메가존클라우드 송병국 팀장은 27일 서울 강남구 삼성동 코엑스에서 열린 멀티클라우드 컨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[니콘, 풀프레임용 135mm f/1.8 단초점 렌즈 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927143416</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927143416</guid>
-            <pubDate>Wed, 27 Sep 2023 06:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[니콘이미징코리아가 27일 Z마운트 풀프레임 미러리스 카메라용 단초점 렌즈 '니코르 Z 135mm f/1.8 S 플레나'를 공개했다. 이 렌즈는 니콘 고급 렌즈라인 'S시리즈' ...]]></content:encoded>
+            <content:encoded><![CDATA[“삼성 클라우드는 공공 클라우드와 엔터프라이즈 기업용 클라우드까지 범용성을 갖췄습니다.” 메가존클라우드 손병국 팀장은 27일 서울 강남구 삼성동 코엑스에서 열린 멀티클라우드 컨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
