@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 04:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 05:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자서비스, '임시 공휴일' 서비스센터 32곳 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230927132126</link>
+            <guid>https://zdnet.co.kr/view/?no=20230927132126</guid>
+            <pubDate>Wed, 27 Sep 2023 05:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자서비스가 추석 연휴 중 임시 공휴일인 10월 2일 월요일에 휴대폰 수리 서비스 제공을 위해 서비스센터 32곳을 운영한다. 10월 2일이 임시 공휴일로 지정되며 추석 연휴...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["애플, 저가형 비전프로 생산 계획 취소…출하량, 기대 밑돌 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230927104855</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230926111310</guid>
             <pubDate>Tue, 26 Sep 2023 02:18:26 GMT</pubDate>
             <content:encoded><![CDATA[독일 오디오 기업 젠하이저가 노이즈 캔슬링 기능을 탑재한 고음질 무선 헤드폰 '엑센텀 와이어리스'를 출시한다고 26일 밝혔다. 신제품은 젠하이저 트랜스듀서 'SYS32N'를 탑...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[XR 융합산업 동맹 1차 회의 개최...삼성·LG 참석]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230926094555</link>
-            <guid>https://zdnet.co.kr/view/?no=20230926094555</guid>
-            <pubDate>Tue, 26 Sep 2023 02:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 26일 한국디스플레이협회에서 XR 융합산업 동맹의 제1차 운영위원회를 개최한다. XR(확장현실)은 VR(가상현실), AR(증강현실), MR(혼합현실) 등 현실과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
