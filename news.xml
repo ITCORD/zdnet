@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 06:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 07:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 최대 디지털 축제 '디미혁 2023' 폐막···"미래가 보였다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230927151654</link>
+            <guid>https://zdnet.co.kr/view/?no=20230927151654</guid>
+            <pubDate>Wed, 27 Sep 2023 07:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 디지털·신기술 축제로 서울 코엑스에서 25일부터 27일까지 사흘간 열린 '2023 대한민국 디지털미래혁신대전(디미혁 2003)'이 막을 내렸다. 25일 오크우드호텔에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/27/b3eefa1b9d87b231e9afc15ad7a7dceb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["메가존 MSP 2.0으로 3년 내 K-클라우드 1위 목표”]]></title>
             <link>https://zdnet.co.kr/view/?no=20230927141038</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230927144446</guid>
             <pubDate>Wed, 27 Sep 2023 06:12:47 GMT</pubDate>
             <content:encoded><![CDATA[“메가존클라우드의 목표는 일종의 마켓플레이스를 만드는 것이죠. 현재 120개 파트너사를 넘어 1천개 파트너사까지 확장하고 이 회사들과 함께 클라우드 기반 IT서비스 생태계를 조...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/07/3f48551408b366738fcf148f1d4c136b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[브랜드엑스코퍼레이션, ISO 3종 경영시스템 구축]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230927134411</guid>
             <pubDate>Wed, 27 Sep 2023 05:09:21 GMT</pubDate>
             <content:encoded><![CDATA[SK이노베이션은 자사가 후원하는 국내 최대 규모 발달장애인 음악경연축제인 '전국 발달장애인 음악축제(Great Music Festival, 이하 GMF)'가 지난 26일 서울 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["메가존 팝스, 기업 SaaS 운영·관리 혁신 이끌 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927130531</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927130531</guid>
-            <pubDate>Wed, 27 Sep 2023 05:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[“메가존 팝스(MegaZone Pops)는 기업이 직면한 서비스형 소프트웨어(SaaS) 운영·관리 문제점을 혁신적으로 개선할 것입니다.” 메가존클라우드 제품개발센터에서 SaaS...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
