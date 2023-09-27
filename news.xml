@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 22:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 23:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 취업 노크·채용 토크, '잡테크 커넥팅 데이즈'서 통했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230927163127</link>
+            <guid>https://zdnet.co.kr/view/?no=20230927163127</guid>
+            <pubDate>Wed, 27 Sep 2023 23:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[명절에 가장 듣기 싫은 잔소리 1위가 바로 '취업'과 관련된 친인척들의 질문이다. 추석을 앞두고 '테크 업계 리더들이 들려주는 진짜 커리어 이야기' 잡테크 커넥팅 데이즈 채용 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/27/8a13a04a75a3cd3fe96df0e79ac904c6-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차·기아, 엔진 부품 화재 위험으로 美서 330만대 리콜]]></title>
             <link>https://zdnet.co.kr/view/?no=20230928004024</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230927142429</guid>
             <pubDate>Wed, 27 Sep 2023 06:12:47 GMT</pubDate>
             <content:encoded><![CDATA["인공지능 직원을 채용해 보세요. 24시간, 365일 쉬지 않는 AI 비서가 당신을 위해 일합니다" 국내 인공지능 기업 솔트룩스의 자회사 플루닛이 생성형AI 기술을 적용한 AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성 클라우드, 메가존 가장 최근 파트너지만 실력은 첫째"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927141934</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927141934</guid>
-            <pubDate>Wed, 27 Sep 2023 06:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[“삼성 클라우드는 공공 클라우드와 엔터프라이즈 기업용 클라우드까지 범용성을 갖췄습니다.” 메가존클라우드 손병국 팀장은 27일 서울 강남구 삼성동 코엑스에서 열린 멀티클라우드 컨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
