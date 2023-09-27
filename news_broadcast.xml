@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 00:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 일본 KDDI와 '5G 네트워크 슬라이싱 기술' MOU 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230927083451</link>
+            <guid>https://zdnet.co.kr/view/?no=20230927083451</guid>
+            <pubDate>Wed, 27 Sep 2023 00:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 일본 이동통신사업자 KDDI와 지난 26일 도쿄 KDDI 본사에서 '5G 네트워크 슬라이싱(Network Slicing) 기술' 발전을 위한 업무 협약(MOU)을 체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스카이라이프 "추석 영화 VOD 시청면 쿠폰 쏩니다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20230926161918</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230925100309</guid>
             <pubDate>Mon, 25 Sep 2023 01:45:02 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신진흥협회(KAIT)는 곰앤컴퍼니와 함께 내달 1일부터 5주간 자격검정 홍보 동영상 제작 공모전을 개최한다고 밝혔다. 공모전의 주제는 참신한 아이디어와 독창적인 내용으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG헬로비전, 케이블TV 권역 내 이웃에 농수산물 꾸러미 전달]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230925095605</link>
-            <guid>https://zdnet.co.kr/view/?no=20230925095605</guid>
-            <pubDate>Mon, 25 Sep 2023 01:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[LG헬로비전은 추석을 맞아 케이블TV 방송 권역 내 이웃에게 우리 농수산물과 생필품이 담긴 '마음나눔 꾸러미'를 전달했다고 25일 밝혔다. LG헬로비전은 본사와 15개 지역방송...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
