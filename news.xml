@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 14:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 15:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, MR 헤드셋 퀘스트3 공개…AI 비서 '메타AI'도 선봬]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230928204834</link>
+            <guid>https://zdnet.co.kr/view/?no=20230928204834</guid>
+            <pubDate>Thu, 28 Sep 2023 15:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 27일(현지시간) 올해로 10주년을 맞이한 연례 컨퍼런스 '메타 커넥트 2023'를 개최하고 차세대 혼합현실(MR) 기기 퀘스트3와 새로운 인공지능(AI) 기능, 서비스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/28/3807e069673df5d63340d572105aad62-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 추석 '최악 잔소리' 2위는 연애·결혼…1위는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20230928185621</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230928182011</guid>
             <pubDate>Thu, 28 Sep 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 기업 코지마가 홈 트레이닝을 위한 유튜브 운동 콘텐츠 '코지 핏'을 선보였다. 코지마는 자사 쉐이크보드 '비토'와 '라피드'를 활용한 홈 트레이닝 콘텐츠를 준비했다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/28/b32162b099e8b2d0c52276a18d67fda5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TJ미디어, '2023 퍼펙트 엔젤싱어 오디션' 지원]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230927104645</guid>
             <pubDate>Thu, 28 Sep 2023 00:41:00 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 윈도 그림판에 사상 최대 업데이트를 실시했다. 윈도의 기본 이미지 편집기인 그림판에 어도비 포토샵의 핵심인 '레이어'와 '투명도'가 들어간 것이다. 윈도 그림판...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["메가존 멀티클라우드 CMP '스페이스원' 대규모 업데이트"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927162430</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927162430</guid>
-            <pubDate>Thu, 28 Sep 2023 00:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[“멀티 클라우드 환경이 보편화되고, 클라우드 관리 플랫폼(CMP)의 역할이 더 커지고 있습니다. 클라우드를 사용하는 사용자들의 형태나 사용패턴 또한 다각화가 되고 있는 시점이기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
