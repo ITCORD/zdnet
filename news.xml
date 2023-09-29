@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 01:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 02:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 반죽·칼질도 뚝딱...데니스 홍, '요리사 로봇' 깜짝 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230928103240</link>
+            <guid>https://zdnet.co.kr/view/?no=20230928103240</guid>
+            <pubDate>Fri, 29 Sep 2023 02:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 26일 오후 3시 서울 코엑스A홀. 사람 형체와 비슷한 로봇이 분주하게 스테이크와 감자튀김을 요리하고 있다. 20분가량 뚝딱뚝딱 조리를 마친 로봇은 완성된 음식을 접시에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/28/f318eb992a7c66cac823c7915e2d0900.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[병원에는 환자만 오지 않는다, 기술도 모인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20230929103232</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230927113219</guid>
             <pubDate>Fri, 29 Sep 2023 01:43:55 GMT</pubDate>
             <content:encoded><![CDATA[생성 인공지능(AI) 작품 창작자가 수익금을 받을 수 있을 전망이다. 생성 AI 모델에 원작자 이미지 데이터를 활용할 때도 마찬가지다. 창작자 노동이 더 보장될 전망이다. 게티...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/11/24/fe3da6af5c7661281f576ddf34177bd2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[6일 간의 추석연휴... 즐길만한 콘솔 게임은?]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230928185621</guid>
             <pubDate>Thu, 28 Sep 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[Z세대가 생각하는 최악의 명절 잔소리는 '취업' 관련 얘기였다. 또 Z세대 취준생 10명 중 3명은 추석 연휴에 '취업 준비로 바빠서 고향을 방문하지 않는 것'으로 나타났다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코지마, 유튜브 운동 콘텐츠 '코지 핏' 론칭]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230928182011</link>
-            <guid>https://zdnet.co.kr/view/?no=20230928182011</guid>
-            <pubDate>Thu, 28 Sep 2023 10:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 기업 코지마가 홈 트레이닝을 위한 유튜브 운동 콘텐츠 '코지 핏'을 선보였다. 코지마는 자사 쉐이크보드 '비토'와 '라피드'를 활용한 홈 트레이닝 콘텐츠를 준비했다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
