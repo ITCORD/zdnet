@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 00:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 01:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[병원에는 환자만 오지 않는다, 기술도 모인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230929103232</link>
+            <guid>https://zdnet.co.kr/view/?no=20230929103232</guid>
+            <pubDate>Fri, 29 Sep 2023 01:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/29/dc75a3de8141992cc7b01b70397d606d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작자, 생성 AI로 노동한 대가 받는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230927113219</link>
+            <guid>https://zdnet.co.kr/view/?no=20230927113219</guid>
+            <pubDate>Fri, 29 Sep 2023 01:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[생성 인공지능(AI) 작품 창작자가 수익금을 받을 수 있을 전망이다. 생성 AI 모델에 원작자 이미지 데이터를 활용할 때도 마찬가지다. 창작자 노동이 더 보장될 전망이다. 게티...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/11/24/fe3da6af5c7661281f576ddf34177bd2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6일 간의 추석연휴... 즐길만한 콘솔 게임은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230922180939</link>
+            <guid>https://zdnet.co.kr/view/?no=20230922180939</guid>
+            <pubDate>Fri, 29 Sep 2023 01:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[긴 연휴를 마다하는 게임 이용자는 없을 것이다. 28일부터 10월 3일까지 장장 6일이나 이어지는 이번 연휴는 마음은 굴뚝 같지만 '시간이 없어서' 게임을 하기 어려웠던 이들에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[추석 연휴, 가볍게 즐길 모바일 게임 5종]]></title>
             <link>https://zdnet.co.kr/view/?no=20230922224743</link>
             <guid>https://zdnet.co.kr/view/?no=20230922224743</guid>
             <pubDate>Fri, 29 Sep 2023 00:40:41 GMT</pubDate>
             <content:encoded><![CDATA[올해 추석은 예년과 다르게 연휴가 긴 편이다. 장장 7일의 휴일 동안 고향을 방문하는 귀성객들도 많을 것으로 보인다. 이에 따라 장시간 귀성길에 가볍게 즐길 수 있는 모바일게임...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/01/734367adb70ea9d12a0600be8f5b11a8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["풍성한 한가위 보내세요" 제2금융권, 각양각색 사회공헌 활동]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230921114452</guid>
             <pubDate>Fri, 29 Sep 2023 00:40:41 GMT</pubDate>
             <content:encoded><![CDATA[카드와 보험, 저축은행 등 제2금융권이 추석명절을 맞아 각양각색의 사회공헌 활동을 펼쳤다. 25일 KB국민카드는 영업점 직원들의 자발적인 참여로 추석을 맞아 전국의 28개 독거...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/21/6e91351115acf0972c80343c62ff79ac-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해외여행 출국 전, 로밍 요금 꼭 확인해보세요]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230928182011</guid>
             <pubDate>Thu, 28 Sep 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 기업 코지마가 홈 트레이닝을 위한 유튜브 운동 콘텐츠 '코지 핏'을 선보였다. 코지마는 자사 쉐이크보드 '비토'와 '라피드'를 활용한 홈 트레이닝 콘텐츠를 준비했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TJ미디어, '2023 퍼펙트 엔젤싱어 오디션' 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230928180735</link>
-            <guid>https://zdnet.co.kr/view/?no=20230928180735</guid>
-            <pubDate>Thu, 28 Sep 2023 09:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[노래방기기 업체 TJ미디어가 코인노래방 창업 전문 프랜차이즈 엔젤스코인노래연습장이 주최하는 '2023 퍼펙트 엔젤싱어 오디션 가요제'를 지원한다고 밝혔다. 이번 행사는 대상 노...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타퀘스트3 국내 출시...69만원부터]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230928160027</link>
-            <guid>https://zdnet.co.kr/view/?no=20230928160027</guid>
-            <pubDate>Thu, 28 Sep 2023 07:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 10월8일까지 메타의 신규 MR기기 '메타 퀘스트3(Meta Quest3)' 사전 판매를 진행한다. 사전 예약자는 오는 10월10일부터 순차적으로 발송되는 제품을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이종호 장관, 연휴 첫날 사이버공격 대응 점검]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230928155403</link>
-            <guid>https://zdnet.co.kr/view/?no=20230928155403</guid>
-            <pubDate>Thu, 28 Sep 2023 07:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 추석 연휴 첫날인 28일 한국인터넷진흥원 인터넷침해대응센터(KISC)를 찾아 국민과 기업을 대상으로 하는 사이버 공격 대응 현황과 비상대응 체계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

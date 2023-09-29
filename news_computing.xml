@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 00:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 01:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창작자, 생성 AI로 노동한 대가 받는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230927113219</link>
+            <guid>https://zdnet.co.kr/view/?no=20230927113219</guid>
+            <pubDate>Fri, 29 Sep 2023 01:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[생성 인공지능(AI) 작품 창작자가 수익금을 받을 수 있을 전망이다. 생성 AI 모델에 원작자 이미지 데이터를 활용할 때도 마찬가지다. 창작자 노동이 더 보장될 전망이다. 게티...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빅테크가 점찍는 '스테이블코인', 시장 안착할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20230923165953</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230927130531</guid>
             <pubDate>Wed, 27 Sep 2023 05:09:39 GMT</pubDate>
             <content:encoded><![CDATA[“메가존 팝스(MegaZone Pops)는 기업이 직면한 서비스형 소프트웨어(SaaS) 운영·관리 문제점을 혁신적으로 개선할 것입니다.” 메가존클라우드 제품개발센터에서 SaaS...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비즈플레이-나온소프트, '경비지출관리·그룹웨어' 서비스 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927101718</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927101718</guid>
-            <pubDate>Wed, 27 Sep 2023 05:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[비즈플레이(대표 김홍기)가 나온소프트(대표 강갑렬)와 '경비지출관리 및 그룹웨어 서비스 업무 협력을 위한 전략적 제휴'를 체결했다고 27일 밝혔다. 이번 제휴로 두 기업은 각자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
