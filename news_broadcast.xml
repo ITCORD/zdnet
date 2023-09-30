@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 02:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 03:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유텔샛-원웹 합병...통합 위성통신회사 출범]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230930120110</link>
+            <guid>https://zdnet.co.kr/view/?no=20230930120110</guid>
+            <pubDate>Sat, 30 Sep 2023 03:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[정지궤도 위성통신(GEO) 기반의 유텔샛커뮤니케이션과 저궤도 위성통신(LEO) 기반의 원웹이 합병키로 했다. 29일(현지시간) 라이트리딩닷컴에 따르면, 유텔샛커뮤니케이션과 원웹...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해외여행 출국 전, 로밍 요금 꼭 확인해보세요]]></title>
             <link>https://zdnet.co.kr/view/?no=20230929080738</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230926113939</guid>
             <pubDate>Tue, 26 Sep 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[KT가 다음달 1일부터 영국 글래스고에서 열리는 '유럽 광통신 컨퍼런스 2023'에서 광인터넷 부품과 단말, 장비 등 최신 광통신 기술을 선보인다고 밝혔다. 유럽 광통신 컨퍼런...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["추석 보이스피싱 조심하세요"…통신 3사, 예방 메시지 발송]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230926113316</link>
-            <guid>https://zdnet.co.kr/view/?no=20230926113316</guid>
-            <pubDate>Tue, 26 Sep 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[한국통신사업자연합회(KTOA)는 KT, SK텔레콤, LG유플러스 등 통신 3사와 보이스피싱, 스미싱 등 민생사기 예방을 위한 문자메시지를 발송하고 있다고 26일 밝혔다. 추석과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
