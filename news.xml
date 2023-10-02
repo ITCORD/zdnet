@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 00:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정필모 의원 "4대 과기원·출연연 연구데이터 개방 미흡"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231002092257</link>
+            <guid>https://zdnet.co.kr/view/?no=20231002092257</guid>
+            <pubDate>Mon, 02 Oct 2023 00:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[연구개발(R&amp;D) 데이터저장소인 리포지터리(repository)를 구축한 기관이 4대 과학기술원 중 KAIST가 유일했고 출연연의 경우 25곳 가운데 17곳인 것으로 나타났다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/02/df04e7b021729bb7eb19ec4fc28be254-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감염병 취약한 고령 부모님 위한 '효도백신' 3종은]]></title>
             <link>https://zdnet.co.kr/view/?no=20231001161535</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231002012307</guid>
             <pubDate>Sun, 01 Oct 2023 17:08:34 GMT</pubDate>
             <content:encoded><![CDATA[서비스 로봇 전문기업 에브리봇의 정우철 대표가 '1회용품 제로 챌린지'에 동참했다. 환경부가 주관하는 '1회용품 제로 챌린지'는 일회용품 사용을 줄이고 다회용품 사용을 확산하기...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/02/799c220a8d4e0e798edd785cc0f76171-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코웨이, '비렉스 엘리트 매트리스' 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230930132944</guid>
             <pubDate>Sat, 30 Sep 2023 07:08:00 GMT</pubDate>
             <content:encoded><![CDATA[폭스바겐이 독일에 21억달러(약 2조8천300억원) 규모의 전기차 공장 설립 계획을 철회했다. 29일(현지시간) 테크크런치는 폭스바겐의 전기차 공장 설립 계획 철회 소식을 보도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신한카드 시스템 오류...추석 당일 결제 안돼]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230930130223</link>
-            <guid>https://zdnet.co.kr/view/?no=20230930130223</guid>
-            <pubDate>Sat, 30 Sep 2023 04:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[신한카드가 시스템 오류로 추석 당일인 29일 온오프라인 결제가 이뤄지지 않아 대고객 사과에 나섰다. 30일 신한카드는 모바일 애플리케이션 '신한플레이' 등 다양한 채널을 통해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
