@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 06:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 07:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK이노, 스팀 공급 분리…탄소감축 '속도']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231002152825</link>
+            <guid>https://zdnet.co.kr/view/?no=20231002152825</guid>
+            <pubDate>Mon, 02 Oct 2023 07:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[SK이노베이션 울산Complex(이하 울산CLX)가 외항부두에서 사용되는 스팀(Steam, 증기) 공급라인을 이원화해 탄소 배출량을 감축하는 데 성공했다. 울산CLX는 스팀 공...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/02/1a6023574667a4a1e4fc26a867323c69-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지하철 기본요금, 7일 첫차부터 1400원으로 인상]]></title>
             <link>https://zdnet.co.kr/view/?no=20231002140839</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231002092116</guid>
             <pubDate>Mon, 02 Oct 2023 05:09:36 GMT</pubDate>
             <content:encoded><![CDATA[이재용 삼성전자 회장이 올해 추석 연휴를 이용해 사우디아라비아와 이스라엘, 이집트 등 중동 3개국을 찾아 임직원들을 격려하고, 새로운 사업 기회를 발굴하기 위한 '명절 현장 경...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/02/f790640a8e2711ba1562f44394ab5ea4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국 스타트업, 북미 시장서 '훨훨']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231002094437</guid>
             <pubDate>Mon, 02 Oct 2023 01:44:55 GMT</pubDate>
             <content:encoded><![CDATA[◆보직 발령(본부장) ▲서남본부장 차현록 ▲동남본부장 이영철 ▲강원본부장 박광석 ▲울산본부장 송호준 ▲동남본부장 이영철 ▲강원본부장 박광석 ▲울산본부장 송호준...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정필모 의원 "4대 과기원·출연연 연구데이터 개방 미흡"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231002092257</link>
-            <guid>https://zdnet.co.kr/view/?no=20231002092257</guid>
-            <pubDate>Mon, 02 Oct 2023 00:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[연구개발(R&amp;D) 데이터저장소인 리포지터리(repository)를 구축한 기관이 4대 과학기술원 중 KAIST가 유일했고 출연연의 경우 25곳 가운데 17곳인 것으로 나타났다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
