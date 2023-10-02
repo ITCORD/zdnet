@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 01:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 02:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["클라우드 최적화 데이터 기반 PaaS 플랫폼 첫 출시"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231002104420</link>
+            <guid>https://zdnet.co.kr/view/?no=20231002104420</guid>
+            <pubDate>Mon, 02 Oct 2023 02:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)가 클라우드 사업 확대를 목표로 '테라원 V4.0(TeraONE V4.0) 플랫폼' 개발을 완료, 기업 대상으로 '클라우드 데이터 플랫폼(CDP)' ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/02/16285bad2b4a7e32d56f04ce8da64f1c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 12.4인치 이동형 IPTV 출시...S펜도 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20231002104337</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20230929213515</guid>
             <pubDate>Mon, 02 Oct 2023 01:44:55 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 지난 9월 중순 '인텔 이노베이션' 행사를 통해 정식 공개한 차세대 코어 프로세서, 코어 울트라(메테오레이크) 탑재 노트북이 이르면 올 연말부터 국내를 포함해 전세계 시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/20/97ba7d6d0d8e4807bbe2af5e5d40fd31-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI 일상화 시대…레시피도 AI가 척척 추천]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230930015406</guid>
             <pubDate>Sun, 01 Oct 2023 03:10:20 GMT</pubDate>
             <content:encoded><![CDATA[미국 캘리포니아주 산타클라라 소재 인텔 본사, '로버트 노이스 빌딩' 안에는 누구나 자유롭게 방문할 수 있는 작은 박물관인 '인텔 뮤지엄'이 있다. 인텔 뮤지엄은 인텔 창립년도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[좋거나 밉거나…웹툰 속 각양각색 가족 이야기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230928233524</link>
-            <guid>https://zdnet.co.kr/view/?no=20230928233524</guid>
-            <pubDate>Sun, 01 Oct 2023 03:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[최근 들어 1인 가구, 반려 가족 등 가족의 형태가 다양해지면서 추석을 맞이하는 풍경도 달라지고 있다. 명절 연휴를 맞아 고향을 찾기보다 여행을 택하거나 혼자만의 재충전의 시간...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
