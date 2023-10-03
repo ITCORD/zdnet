@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 09:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 10:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 노벨 물리학상에 아고스티니, 크라우스, 륄리에...아토 초 레이저 연구 기여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231003182531</link>
+            <guid>https://zdnet.co.kr/view/?no=20231003182531</guid>
+            <pubDate>Tue, 03 Oct 2023 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[올해 노벨 물리학상은 양자정보 분야의 연구에 기여한 세명의 물리학자에게 돌아갔다. 스웨덴 왕립과학원 노벨위원회는 3일(현지시간) 피에르 아고스티니 미국 오하이오주립대학 교수, ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/03/be87c0fb490d038f85072f8407e123b8-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한전, 데이터센터 전기공급실태 감사...60% 이상 허수]]></title>
             <link>https://zdnet.co.kr/view/?no=20231003132609</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231003132006</guid>
             <pubDate>Tue, 03 Oct 2023 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[SK에너지가 10월 4일부터 머핀(Muffin) 포인트 3천점 이상을 보유한 머핀 멤버십 고객에게 특별 사은품을 증정하는 '머핀 포인트 행사'를 실시한다고 3일 밝혔다. 머핀 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/03/b578866cc6c0c0d5b41a4865f9bf00fc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK온, 포춘 '세상을 바꾸는 혁신 기업' 1위 선정]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231003093709</guid>
             <pubDate>Tue, 03 Oct 2023 00:41:12 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 모바일 쇼핑 플랫폼 'U+콕' 입점 업체의 재고 부담을 획기적으로 줄일 수 있는 판매 수량 예측 AI 데이터 분석 기술을 고도화했다고 3일 밝혔다. U+콕은 빅데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반려동물 의료 AI '엑스칼리버', 글로벌 진출 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231003093309</link>
-            <guid>https://zdnet.co.kr/view/?no=20231003093309</guid>
-            <pubDate>Tue, 03 Oct 2023 00:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 일본 최대 반려동물 보험그룹사 애니콤홀딩스와 파트너십 계약을 체결하며 엑스칼리버의 글로벌 진출에 나선다. SK텔레콤은 AI 기술과 애니콤홀딩스가 보유한 반려동물 생...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
