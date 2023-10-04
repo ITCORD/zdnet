@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 07:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 08:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수천억 규모 공공SW 사업, 국감 핵심쟁점 '부상']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004141707</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004141707</guid>
+            <pubDate>Wed, 04 Oct 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[오는 10일부터 시작될 국정감사에서 대형 공공 소프트웨어(SW) 사업이 주요 쟁점으로 다뤄질 전망이다. 대형 공공SW 사업은 국민 편의와 복지지원 및 정부부처의 행정력 강화를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[블록체인에 '대금 지급' 기록하는 사회 올까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004162941</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004162941</guid>
+            <pubDate>Wed, 04 Oct 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[한국은행이 블록체인 기반으로 발행하는 디지털화폐(CBDC)를 기관의 결제 자산으로 활용하는 실험을 진행할 계획이다. CBDC가 안정적으로 도입될 경우, 대금 지급 계약 등의 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한싹, 코스닥 상장…글로벌 기업 도약 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004164408</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004164408</guid>
+            <pubDate>Wed, 04 Oct 2023 08:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[한싹(대표 이주도)이 한국거래소에서 상장기념식을 갖고 코스닥에 상장했다고 4일 밝혔다. 꾸준한 매출 성장과 탄탄한 실적을 기반으로 상장 첫날 시가 3만7350원을 기록하며 코스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[행안부, 디지털플랫폼 활용 재난대응 개선방안 논의]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004155013</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230924043916</guid>
             <pubDate>Wed, 04 Oct 2023 01:46:40 GMT</pubDate>
             <content:encoded><![CDATA[“대규모 언어모델(LLM)은 데이터가 많다고 최선이 아니다. 기업과 산업에 최적화한 모델을 빠르게 구축하고 급변하는 시장에 대응할 수 있는 기반을 갖추는 것이 핵심이다.” 허깅...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드불포드파워트레인, 오라클 클라우드로 새 F1 엔진 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004092818</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004092818</guid>
-            <pubDate>Wed, 04 Oct 2023 00:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[레드불 포드 파워트레인(RBFPT)은 오라클 클라우드 인프라스트럭처(OCI)를 기반으로 100% 지속가능한 차세대 연료 엔진을 개발한다고 4일 밝혔다. 레드불 포드 파워트레인은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAP, 생성형 AI 비서 '쥴' 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004092015</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004092015</guid>
-            <pubDate>Wed, 04 Oct 2023 00:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[SAP는 생성형 인공지능(AI) 코파일럿 솔루션 '쥴(Joule)'을 공개했다고 4일 밝혔다. 쥴은 SAP의 클라우드 엔터프라이즈 포트폴리오 전반에 내장돼 다양한 SAP 솔루션...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 알체라, '페이스 트러스트'로 새로운 얼굴인식 AI 시대 연다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004091710</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004091710</guid>
-            <pubDate>Wed, 04 Oct 2023 00:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난달 13일 '대한민국 초거대 인공지능(AI) 도약' 행사를 열고 9090억원의 예산을 투입해 관계부처 합동으로 '전 국민 AI 일상화'를 추진한다고 발표...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
