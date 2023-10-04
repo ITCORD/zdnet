@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 06:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이음5G로 수십대 로봇 동시제어...조선소 안전관리에도 활용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004143104</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004143104</guid>
+            <pubDate>Wed, 04 Oct 2023 06:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 4일 LG전자, 세종텔레콤, 한국전자통신연구원에 이음5G 주파수공급 절차를 완료했다고 밝혔다. 주파수 공급에 따라 물류 현장에서의 수십 대의 로봇 동시 제어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박완주 의원 "삼성 중저가폰, 국내서도 출시돼야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004111805</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230928160027</guid>
             <pubDate>Thu, 28 Sep 2023 07:10:26 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 10월8일까지 메타의 신규 MR기기 '메타 퀘스트3(Meta Quest3)' 사전 판매를 진행한다. 사전 예약자는 오는 10월10일부터 순차적으로 발송되는 제품을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이종호 장관, 연휴 첫날 사이버공격 대응 점검]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230928155403</link>
-            <guid>https://zdnet.co.kr/view/?no=20230928155403</guid>
-            <pubDate>Thu, 28 Sep 2023 07:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 추석 연휴 첫날인 28일 한국인터넷진흥원 인터넷침해대응센터(KISC)를 찾아 국민과 기업을 대상으로 하는 사이버 공격 대응 현황과 비상대응 체계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

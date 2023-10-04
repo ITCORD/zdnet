@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 05:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 06:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미반도체, HBM용 본딩장비 SK하이닉스와 '600억원' 추가 공급 계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004111658</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004111658</guid>
+            <pubDate>Wed, 04 Oct 2023 06:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체가 인공지능 반도체용 차세대 HBM(고대역폭메모리) 필수 공정 장비인 3세대 하이퍼 모델 '듀얼 TC 본더 그리핀'에 대해 SK 하이닉스로부터 창사 최대 규모인 약 6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 아일랜드서 EUV 적용한 '인텔4 공정' 칩 양산 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004135534</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004135534</guid>
+            <pubDate>Wed, 04 Oct 2023 06:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 유럽 아일랜드 공장에 극자외선(EUV) 기술을 사용한 인텔 4 공정(7나노 급)을 도입했다고 4일 밝혔다. 이로써 인텔은 TSMC, 삼성전자에 이어 EUV 공정을 사용해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[상용화 실패했던 차세대 3DXP 낸드, 재기 성공할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004104814</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230926110517</guid>
             <pubDate>Tue, 26 Sep 2023 02:19:16 GMT</pubDate>
             <content:encoded><![CDATA[신성이엔지 관계사 신성씨에스는 플라인소프트와 함께 호서대학교에 프로지캐드(progeCAD) 100 카피를 기증했다고 26일 밝혔다. 신성이엔지 용인스마트팩토리에서 열린 기증식에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마우저, 미디어텍과 IoT용 시스템반도체 유통 계약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230926110108</link>
-            <guid>https://zdnet.co.kr/view/?no=20230926110108</guid>
-            <pubDate>Tue, 26 Sep 2023 02:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[마우저 일렉트로닉스는 시스템온칩(SoC) 전문 개발기업 미디어텍(MediaTek)과 글로벌 유통계약을 체결했다고 26일 밝혔다. 앤디 커(Andy Kerr) 마우저 공급사 관리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 업계 최초 'LPCAMM' 개발해 인텔 검증 완료…"내년 상용화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230926080927</link>
-            <guid>https://zdnet.co.kr/view/?no=20230926080927</guid>
-            <pubDate>Tue, 26 Sep 2023 02:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 모바일 시장 경쟁력 강화를 위해 혁신 기술을 적용한 D램을 선보였다. 해당 D램은 주요 고객사인 인텔과의 검증을 마친 상황으로, 이르면 내년 상용화될 예정이다. 삼성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
