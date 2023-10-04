@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 00:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS, 레드닷 디자인 어워드 2개 부문 동시 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004101643</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004101643</guid>
+            <pubDate>Wed, 04 Oct 2023 01:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[삼성SDS가 레드닷 디자인 어워드에서 최고 디자인상인 '베스트 오브 더 베스트'를 수상했다고 4일 밝혔다. 레드닷 디자인 어워드는 iF 디자인 어워드, IDEA와 함께 세계 3...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[허깅페이스 "LLM의 데이터는 다다익선이 아니다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230924043916</link>
+            <guid>https://zdnet.co.kr/view/?no=20230924043916</guid>
+            <pubDate>Wed, 04 Oct 2023 01:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[“대규모 언어모델(LLM)은 데이터가 많다고 최선이 아니다. 기업과 산업에 최적화한 모델을 빠르게 구축하고 급변하는 시장에 대응할 수 있는 기반을 갖추는 것이 핵심이다.” 허깅...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[레드불포드파워트레인, 오라클 클라우드로 새 F1 엔진 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004092818</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230927104645</guid>
             <pubDate>Thu, 28 Sep 2023 00:41:22 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 윈도 그림판에 사상 최대 업데이트를 실시했다. 윈도의 기본 이미지 편집기인 그림판에 어도비 포토샵의 핵심인 '레이어'와 '투명도'가 들어간 것이다. 윈도 그림판...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["메가존 멀티클라우드 CMP '스페이스원' 대규모 업데이트"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927162430</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927162430</guid>
-            <pubDate>Thu, 28 Sep 2023 00:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[“멀티 클라우드 환경이 보편화되고, 클라우드 관리 플랫폼(CMP)의 역할이 더 커지고 있습니다. 클라우드를 사용하는 사용자들의 형태나 사용패턴 또한 다각화가 되고 있는 시점이기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이석우 두나무 대표, 마약 예방 '노 엑시트' 캠페인 참여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230927194336</link>
-            <guid>https://zdnet.co.kr/view/?no=20230927194336</guid>
-            <pubDate>Wed, 27 Sep 2023 11:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무는 이석우 대표가 마약 예방을 위한 '노 엑시트(NO EXIT)' 캠페인에 참여했다고 27일 밝혔다. 노 엑시트 캠페인은 경찰청이 마약퇴치운동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
