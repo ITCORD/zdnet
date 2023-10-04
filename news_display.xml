@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 04:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상용화 실패했던 차세대 3DXP 낸드, 재기 성공할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004104814</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004104814</guid>
+            <pubDate>Wed, 04 Oct 2023 05:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 차세대 낸드의 일종인 '3DXP'에 주목하면서 재기 가능성에 관심이 쏠리고 있다. 3DXP는 낸드의 성능을 향상시키면서 D램의 강점까지 갖고 있는 기술로 큰 기대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DB하이텍, 임직원, 추석 맞이 지역사회에 쌀 1.5톤 전달]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004112955</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230926080927</guid>
             <pubDate>Tue, 26 Sep 2023 02:19:16 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 모바일 시장 경쟁력 강화를 위해 혁신 기술을 적용한 D램을 선보였다. 해당 D램은 주요 고객사인 인텔과의 검증을 마친 상황으로, 이르면 내년 상용화될 예정이다. 삼성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알엔투테크놀로지, 중동 방산기업과 MCP 공급 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230926082352</link>
-            <guid>https://zdnet.co.kr/view/?no=20230926082352</guid>
-            <pubDate>Tue, 26 Sep 2023 00:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[알엔투테크놀로지는 중동 지역 방산 업체에 MCP(다층 세라믹 PCB) 제조 시설을 소개하고 향후 생산 일정 및 납품 수량 등에 대해 협의했다고 26일 밝혔다. 최근 중동 방산 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

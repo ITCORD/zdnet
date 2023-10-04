@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 04:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한은, 'CBDC' 실험 은행·소비자로 확대한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231004133458</link>
+            <guid>https://zdnet.co.kr/view/?no=20231004133458</guid>
+            <pubDate>Wed, 04 Oct 2023 05:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[한국은행이 직접 발행하는 블록체인 기반 디지털화폐(CBDC)를 은행과 일부 소비자 대상으로 유통하는 실험을 진행한다. 한국은행과 금융위원회, 금융감독원은 공동으로 이같은 내용을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파이썬 3.12, f 문자열 개선 등 개발 편의성 향상]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004094411</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20230927113219</guid>
             <pubDate>Fri, 29 Sep 2023 01:44:12 GMT</pubDate>
             <content:encoded><![CDATA[생성 인공지능(AI) 작품 창작자가 수익금을 받을 수 있을 전망이다. 생성 AI 모델에 원작자 이미지 데이터를 활용할 때도 마찬가지다. 창작자 노동이 더 보장될 전망이다. 게티...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빅테크가 점찍는 '스테이블코인', 시장 안착할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230923165953</link>
-            <guid>https://zdnet.co.kr/view/?no=20230923165953</guid>
-            <pubDate>Fri, 29 Sep 2023 00:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 빅테크 기업의 스테이블코인 시장 진출 사례가 나오면서, 향후 보급 양상에 따라 규제를 정비할 필요가 있다는 분석이 나왔다. 한국은행 금융결제국 전자금융팀은 이같은 내용을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
