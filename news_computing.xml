@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 04:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["금융 위기 청년, 삶도 보듬어야 사회 일원으로 자립"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231005133831</link>
+            <guid>https://zdnet.co.kr/view/?no=20231005133831</guid>
+            <pubDate>Thu, 05 Oct 2023 05:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 및 핀테크 기업 두나무는 취약 계층 청년들의 사회 안착을 위해 지난해 10월 사회연대은행과 함께 '두나무 넥스트 스테퍼즈' 사업을 시작했다. 회사는 금융 지원과 자산 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클, 마이SQL 쓰임새 생성 AI로 확장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231005133157</link>
+            <guid>https://zdnet.co.kr/view/?no=20231005133157</guid>
+            <pubDate>Thu, 05 Oct 2023 05:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[마이SQL의 활용 범위가 계속 넓어지고 있다. 오라클이 마이SQL 히트웨이브를 통해 벡터스토어, 데이터베이스 내 머신러닝, 오토파일럿, 자바스크립트, 레이크하우스 등의 기능을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["ETF 기대감 배신" 이더리움, 비트코인 올라도 하락세]]></title>
             <link>https://zdnet.co.kr/view/?no=20231005121442</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231004144703</guid>
             <pubDate>Wed, 04 Oct 2023 06:13:42 GMT</pubDate>
             <content:encoded><![CDATA[홈페이지나 앱 같은 IT개발을 발주기업과 프리랜서가 직접 거래할 수 있는 장이 마련됐다. 이랜서(대표 박우진)는 4일 '재택(턴키)다이렉트' 서비스를 새로 출시했다고 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한은, 'CBDC' 실험 은행·소비자로 확대한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004133458</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004133458</guid>
-            <pubDate>Wed, 04 Oct 2023 05:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[한국은행이 직접 발행하는 블록체인 기반 디지털화폐(CBDC)를 은행과 일부 소비자 대상으로 유통하는 실험을 진행한다. 한국은행과 금융위원회, 금융감독원은 공동으로 이같은 내용을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이썬 3.12, f 문자열 개선 등 개발 편의성 향상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004094411</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004094411</guid>
-            <pubDate>Wed, 04 Oct 2023 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[프로그래밍 언어 파이썬의 성능 및 편의성을 높인 신규 버전이 공개됐다. 3일(현지시간) 더레지스터 등 외신에 따르면 파이썬 소프트웨어 재단은 파이썬 3.12 정식 버전을 공식 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
