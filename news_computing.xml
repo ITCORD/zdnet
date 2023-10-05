@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北 해커, 스페인 우주 기업 공격...핵미사일 연구 우려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231005112340</link>
+            <guid>https://zdnet.co.kr/view/?no=20231005112340</guid>
+            <pubDate>Thu, 05 Oct 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 해킹조직이 국내를 넘어 전 세계 주요 항공우주 기업을 타깃으로 사이버 공격을 감행하고 있다. 관련 업계에서는 최근 북한에서 가속화하고 있는 대륙간탄도미사일 개발 등 미사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 광고 제작 생성AI 'AI샌드박스' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231005100018</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231004112733</guid>
             <pubDate>Wed, 04 Oct 2023 03:11:17 GMT</pubDate>
             <content:encoded><![CDATA[셀렉트스타(대표 김세엽)는 한국정보화진흥원(NIA)의 '초거대 언어모델 신뢰성 벤치마크 데이터' 사업에 참여하는 컨소시엄의 주관기업을 맡았다고 4일 밝혔다. 이 컨소시엄에는 네...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원, SEC의 '리플 판결' 중간항소 기각]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004093316</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004093316</guid>
-            <pubDate>Wed, 04 Oct 2023 02:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방 법원이 가상자산 리플(XRP)과의 1심 약식 판결에 대해 증권거래위원회(SEC)가 제기한 중간항소를 기각했다. 코인데스크, 코인텔레그래프 등 외신에 따르면 3일(현지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
