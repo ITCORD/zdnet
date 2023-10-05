@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 00:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 01:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 광고 제작 생성AI 'AI샌드박스' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231005100018</link>
+            <guid>https://zdnet.co.kr/view/?no=20231005100018</guid>
+            <pubDate>Thu, 05 Oct 2023 01:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 간단하게 광고 이미지를 만들 수 있는 생성 인공지능(AI) 서비스를 공개했다. 4일(현지시간) 테크크런치 등 외신에 따르면 메타는 광고 생성AI 'AI샌드박스' 알파버전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[도커, 컨테이너 디버깅 도구 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231005094858</link>
+            <guid>https://zdnet.co.kr/view/?no=20231005094858</guid>
+            <pubDate>Thu, 05 Oct 2023 01:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[도커가 컨테이너 내 버그를 찾아내는 새 도구를 공개했다. 4일(현지시간) 데브클래스에 따르면, 도커는 이날 미국 로스앤젤레스에서 개최한 '도커콘' 행사에서 컨테이너 디버깅 도구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS, 생성 AI 서비스 '아마존 베드록' 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231005100344</link>
+            <guid>https://zdnet.co.kr/view/?no=20231005100344</guid>
+            <pubDate>Thu, 05 Oct 2023 01:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)는 파운데이션모델(FM) API를 제공하는 완전관리형 생성 AI 서비스 '아마존 베드록'을 정식 출시한다고 5일 밝혔다. AWS는 이와 함께 '아마존 타이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔리코리아, 전통 목조건축 설계 특화 AI 기반 캐드 상용화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231004180645</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231004093316</guid>
             <pubDate>Wed, 04 Oct 2023 02:18:44 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방 법원이 가상자산 리플(XRP)과의 1심 약식 판결에 대해 증권거래위원회(SEC)가 제기한 중간항소를 기각했다. 코인데스크, 코인텔레그래프 등 외신에 따르면 3일(현지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KTR, AI 신뢰도 검증한다…챗 GPT·AI가전 품질 평가 서비스]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004111522</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004111522</guid>
-            <pubDate>Wed, 04 Oct 2023 02:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[KTR가 국내 시험기관으로는 처음으로 인공지능(AI) 소프트웨어(SW) 국제표준을 적용한 AI 시험평가 서비스에 나선다. KTR(한국화학융합시험연구원·원장 김현철)는 지난 6월...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 모든 고객 서비스에 AI와 데이터를 심어라]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004110235</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004110235</guid>
-            <pubDate>Wed, 04 Oct 2023 02:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[부정적인 고객 경험은 기업 수익에 막대한 손실을 초래한다. 퀄트릭스 2023 글로벌 소비자 트렌드 보고서에 따르면 부정적인 고객 경험으로 한국의 소비자 지출이 약 61조 원가량...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 빙 챗에서 '달리3' 무료 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004091528</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004091528</guid>
-            <pubDate>Wed, 04 Oct 2023 02:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 빙챗에서 오픈AI의 최신 이미지생성 AI 모델 '달리(DALL-E)3'를 무료로 제공한다. 3일(현지시간) 마이크로소프트는 빙 블로그를 통해 텍스트-이미지 변환...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
