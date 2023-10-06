@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 01:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 02:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안드로이드14 출시…뭐가 바뀌나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006105827</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006105827</guid>
+            <pubDate>Fri, 06 Oct 2023 02:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 모바일 운영체제(OS) 안드로이드14 정식 버전을 공개했다. 인공지능(AI) 기능을 활용한 새로운 잠금화면 맞춤 설정을 비롯해 더 나은 비밀번호 관리와 각종 개인화 설정...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, C# 개발 도구 출시...닷넷 앱 개발 지원 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231006081741</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231005153249</guid>
             <pubDate>Thu, 05 Oct 2023 07:10:06 GMT</pubDate>
             <content:encoded><![CDATA[한국표준협회(회장 강명수)는 시스코코리아·솔데스크·한국클라우드산업협회와 함께 디지털 핵심 인재 양성을 위해 솔데스크 종로 본원에서 'Cisco VirtuNet Cloud 통합 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DAXA, '가상자산 이용자 보호법' 온라인 설명회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231005150020</link>
-            <guid>https://zdnet.co.kr/view/?no=20231005150020</guid>
-            <pubDate>Thu, 05 Oct 2023 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[원화마켓 가상자산 거래소 연합인 디지털자산거래소공동협의체(DAXA)는 오는 11일부터 3일간 온라인으로 '가상자산 이용자 보호 등에 관한 법률' 설명회를 진행한다고 밝혔다. 설...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
