@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 22:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 23:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, iOS 업데이트로 아이폰15 프로 과열 잡았다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231007074423</link>
+            <guid>https://zdnet.co.kr/view/?no=20231007074423</guid>
+            <pubDate>Fri, 06 Oct 2023 23:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 아이폰15 프로 모델의 발열을 잡기 위해 최근 출시한 아이폰용 운영체제 iOS 17.0.3가 효과가 있었는지를 테스트한 결과가 나왔다. 미국 지디넷은 6일(현지시간) 열...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["명품관에 로봇이"…한화로보틱스, 그룹 71주년 기념 행사]]></title>
             <link>https://zdnet.co.kr/view/?no=20231006190326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231005145712</guid>
             <pubDate>Thu, 05 Oct 2023 06:13:09 GMT</pubDate>
             <content:encoded><![CDATA[보쉬 전동공구 사업부는 좁은 공간 작업에 유용한 전문가용 충전 직각 다이그라인더 'GWG 10.8V-50 S 프로페셔널'을 출시했다고 5일 밝혔다. 제품은 고성능 브러시리스 모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, AMD와 모바일 GPU 제휴 계속될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231005141640</link>
-            <guid>https://zdnet.co.kr/view/?no=20231005141640</guid>
-            <pubDate>Thu, 05 Oct 2023 06:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 AMD와의 모바일 그래픽처리장치(GPU) 파트너십을 종료하고 자체 개발을 추진할 가능성도 있다는 보도가 나왔다. IT매체 샘모바일은 4일(현지시간) IT 팁스터 @O...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
