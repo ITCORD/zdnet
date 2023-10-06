@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 00:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["인앱결제 강제 부당"…구글·애플에 과징금 680억 부과 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006091710</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006091710</guid>
+            <pubDate>Fri, 06 Oct 2023 01:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 앱에서 특정 결제방식을 강제한 구글과 애플에 최대 680억원의 과징금 제재가 추진된다. 방송통신위원회는 지난해 8월16일부터 실시한 인앱결제 위반 관련 사실조사 결과를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 2천여 전국 매장에서 부산엑스포 유치 응원영상 상영]]></title>
             <link>https://zdnet.co.kr/view/?no=20231006090409</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231004095758</guid>
             <pubDate>Wed, 04 Oct 2023 01:46:32 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 6G 시대 진입을 위한 비전과 핵심 요구사항 등을 담은 '6G 백서'를 발간했다고 4일 밝혔다. 6G에 대한 논의는 지난 6월 ITU-R 산하 이동통신 표준화 작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IPTV 3사 "데이터 기반 콘텐츠사용료 배분 기준안 마련”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004095442</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004095442</guid>
-            <pubDate>Wed, 04 Oct 2023 01:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[KT, SK브로드밴드, LG유플러스 등 IPTV 3사는 과학기술정보통신부로부터 재허가 셜정 후속조치 일환으로 콘텐츠 사업자와 상생발전을 위해 노력할 계획이라고 4일 밝혔다. I...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

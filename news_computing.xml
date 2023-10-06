@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 00:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, C# 개발 도구 출시...닷넷 앱 개발 지원 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006081741</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006081741</guid>
+            <pubDate>Fri, 06 Oct 2023 01:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 닷넷(.NET) 기반 앱 개발 지원을 위한 새로운 비주얼 스튜디오코드 확장 기능을 선보인다. 6일(현지시간) 더레지스터 등 외신에 따르면 마이크로소프트는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이용자 돈 갖다 쓴 FTX, 지적한 직원 해고했다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006085708</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006085708</guid>
+            <pubDate>Fri, 06 Oct 2023 01:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[회계 문제가 불거지면서 지난해 11월 파산한 가상자산 거래소 FTX가 이용자 자금을 가져다 쓰고, 이 문제를 지적한 내부 직원도 해고한 것으로 밝혀졌다. 5일(미국시간) 더블록...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[몽고DB, '아틀라스 벡터 서치' 새 기능 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006094136</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006094136</guid>
+            <pubDate>Fri, 06 Oct 2023 01:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[몽고DB는 생성형 AI 애플리케이션 구축을 지원하기 위한 몽고DB 아틀라스 벡터 서치의 새로운 기능과 성능 개선 및 데이터 스트리밍 통합을 6일 발표했다. 올해 6월 프리뷰 버...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알테어, 최적화 SW 기업 '옴니퀘스트' 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20231006093729</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231005150020</guid>
             <pubDate>Thu, 05 Oct 2023 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[원화마켓 가상자산 거래소 연합인 디지털자산거래소공동협의체(DAXA)는 오는 11일부터 3일간 온라인으로 '가상자산 이용자 보호 등에 관한 법률' 설명회를 진행한다고 밝혔다. 설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MSP 시장 작년보다 더 큰다…보안·IT 관리 수요↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231005135453</link>
-            <guid>https://zdnet.co.kr/view/?no=20231005135453</guid>
-            <pubDate>Thu, 05 Oct 2023 06:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 기반으로 운영관리, 보안 등 전문 서비스를 제공하는 매니지드서비스사업자(MSP) 시장이 내년에도 성장세가 가파를 것으로 전망됐다. 보안 위협이 고도화되고, IT 인프라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["금융 위기 청년, 삶도 보듬어야 사회 일원으로 자립"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231005133831</link>
-            <guid>https://zdnet.co.kr/view/?no=20231005133831</guid>
-            <pubDate>Thu, 05 Oct 2023 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 기업 두나무는 취약 계층 청년들의 사회 안착을 위해 지난해 10월 사회연대은행과 함께 '두나무 넥스트 스테퍼즈' 사업을 시작했다. 회사는 금융 지원과 자산 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클, 마이SQL 쓰임새 생성 AI로 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231005133157</link>
-            <guid>https://zdnet.co.kr/view/?no=20231005133157</guid>
-            <pubDate>Thu, 05 Oct 2023 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[마이SQL의 활용 범위가 계속 넓어지고 있다. 오라클이 마이SQL 히트웨이브를 통해 벡터스토어, 데이터베이스 내 머신러닝, 오토파일럿, 자바스크립트, 레이크하우스 등의 기능을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
