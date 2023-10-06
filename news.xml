@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 04:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 전기트럭 본격 양산 초읽기?…인력 채용 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006110710</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006110710</guid>
+            <pubDate>Fri, 06 Oct 2023 04:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 미국 네바다 기가팩토리에서 전기트럭 '세미'의 대량 생산을 위해 인력 채용을 시작했다고 자동차 전문매체 일렉트렉이 5일(현지시간) 보도했다. 2017년 처음 공개된 테...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/06/11/jh7253_YoaN8x26jiaLf-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[항우연 지원 우주 스타트업, 위성정보 해외 수출 성공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006120048</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006120048</guid>
+            <pubDate>Fri, 06 Oct 2023 04:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[항우연이 지원한 우주 스타트업이 해외에 위성 관측정보를 수출한다. 한국항공우주연구원(원장 이상률)은 중소기업 지원사업을 통해 지원한 국내 우주 스타트업 텔레픽스(대표 조성익)가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/06/4169d6d9cf52fdf3f027681ac5466da2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신한카드 결제 먹통 사태 'SSL 인증' 논란 진실은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231006111506</link>
+            <guid>https://zdnet.co.kr/view/?no=20231006111506</guid>
+            <pubDate>Fri, 06 Oct 2023 04:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴 당일이던 지난달 29일 신한카드 결제 시스템이 약 4시간 동안 작동하지 않은 원인에 대해 지급결제업계의 관심이 주목되고 있다. 5일 카드업계에 따르면, 지난 29일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국제로트러스트보안협회, 구축사례 발표 세미나 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231006120900</link>
             <guid>https://zdnet.co.kr/view/?no=20231006120900</guid>
             <pubDate>Fri, 06 Oct 2023 03:10:23 GMT</pubDate>
             <content:encoded><![CDATA[한국제로트러스트보안협회는 국회ICT융합포럼, 공공부문발주자협의회, 한국IT서비스산업협회와 함께 제로트러스트 구축사례 발표 세미나를 개최한다고 6일 밝혔다. 6일 오후 2시 국회...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/27/3e29805907d4b7be7973dd8fd707243e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["4년간 연구했다"…하림 '더미식 육즙만두' 맛보니]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231005193932</guid>
             <pubDate>Fri, 06 Oct 2023 03:10:23 GMT</pubDate>
             <content:encoded><![CDATA["4년간 육즙 가득 만두를 만들기 위해 연구했다. 풍부한 육즙을 내기 위해 생고기, 생채소를 사용했다. 냉동 재료를 사용한 만두와는 확연히 다르다." 하림이 육즙만두로 국내 냉...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/06/a3857fca055d1041fc273ab2b14c6805-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[티몬, 입짧은햇님과 경북 우수 브랜드 지원 라이브커머스]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231006084150</guid>
             <pubDate>Fri, 06 Oct 2023 01:44:28 GMT</pubDate>
             <content:encoded><![CDATA[스페이스X와 우주 사업 경쟁 중인 아마존이 '카이퍼'의 테스트 위성 두 대를 발사한다. 아마존이 6일(이하 현지시간) 카이퍼 프로젝트의 테스트 위성 '카이퍼샛-1', '카이퍼샛...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무디스, 이집트 국가 신용등급 Caa1로 '강등']]></title>
-            <link>https://zdnet.co.kr/view/?no=20231006093112</link>
-            <guid>https://zdnet.co.kr/view/?no=20231006093112</guid>
-            <pubDate>Fri, 06 Oct 2023 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[국제신용평가사 무디스가 이집트의 국가 신용등급을 강등했다. 5일(현지시간) 주요 외신 보도에 따르면, 무디스는 이집트의 국가신용 등급을 종전 B1에서 Caa1로 1단계 하향 조...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이용자 돈 갖다 쓴 FTX, 지적한 직원 해고했다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231006085708</link>
-            <guid>https://zdnet.co.kr/view/?no=20231006085708</guid>
-            <pubDate>Fri, 06 Oct 2023 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[회계 문제가 불거지면서 지난해 11월 파산한 가상자산 거래소 FTX가 이용자 자금을 가져다 쓰고, 이 문제를 지적한 내부 직원도 해고한 것으로 밝혀졌다. 5일(미국시간) 더블록...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정기예금 금리 인상 '찔끔'…조건없이 깔끔한 상품은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231006092858</link>
-            <guid>https://zdnet.co.kr/view/?no=20231006092858</guid>
-            <pubDate>Fri, 06 Oct 2023 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[금리 인상기임에도 불구하고 과도한 예금 금리 경쟁을 지양하라는 정부 방침에 따라 정기예금 금리 인상 폭이 짠 상태다. 신규 가입객이 아닐 경우 예금 금리가 낮은 상황서 조건없이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
