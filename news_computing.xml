@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 04:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 05:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT, BBC 콘텐츠로 데이터 학습 못 한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231008114014</link>
+            <guid>https://zdnet.co.kr/view/?no=20231008114014</guid>
+            <pubDate>Sun, 08 Oct 2023 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[영국 공영방송사 BBC가 챗GPT를 차단했다. 앞으로 챗GPT는 BBC 콘텐츠에 접근해 데이터 학습을 할 수 없다. 7일(현지시간) 주요 IT 외신은 BBC가 챗GPT 데이터 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['스테이블코인' 시총 18개월 연속 하락]]></title>
             <link>https://zdnet.co.kr/view/?no=20231008095945</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231005171251</guid>
             <pubDate>Thu, 05 Oct 2023 08:13:34 GMT</pubDate>
             <content:encoded><![CDATA[KPMG가 글로벌 최고경영자(CEO) 1천300여명을 대상으로 진행한 '2023 글로벌 CEO 전망' 설문 조사 결과를 5일 발표했다. 올해로 9회째 맞은 '2023 글로벌 C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미소정보기술-항우연, 위성 운용지원 플랫폼 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231005170646</link>
-            <guid>https://zdnet.co.kr/view/?no=20231005170646</guid>
-            <pubDate>Thu, 05 Oct 2023 08:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[미소정보기술(대표 안동욱)이 정보통신기획평가원(IITP)에서 수행하는 '초소형 위성의 운용 지원을 위한 지상 SW플랫폼 기술개발지원'국책과제에 주관기관으로 선정됐다고 5일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
