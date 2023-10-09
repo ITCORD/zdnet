@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 05:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 06:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔씨 퍼즐 신작 '퍼즈업', 양대 마켓 인기 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231009142806</link>
+            <guid>https://zdnet.co.kr/view/?no=20231009142806</guid>
+            <pubDate>Mon, 09 Oct 2023 06:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[엔씨소프트(대표 김택진)는 글로벌 퍼즐 신작 '퍼즈업 아미토이(PUZZUP AMITOI, 이하 퍼즈업)'의 구글 플레이스토어 및 애플 앱스토어 인기 1위 기념 이벤트를 마련했다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/09/9770ef3ecbb6d20784c0eea58eb7f56b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 최악의 게임 '골룸', 이용자 사과문 챗GPT 대필 의혹]]></title>
             <link>https://zdnet.co.kr/view/?no=20231009124114</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231006162647</guid>
             <pubDate>Mon, 09 Oct 2023 05:09:24 GMT</pubDate>
             <content:encoded><![CDATA[국내 배터리 3사가 올해 3분기 실적에서 각기 다른 성적표를 받아들 것으로 보인다. LG에너지솔루션과 삼성SDI 매출 성장세를 지속하는 한편, SK온은 이번 분기에서도 흑자 전...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/08/01/4b20867304ec043eb0d1285ebb3fe19d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[폰 문자 개방 막은 애플...'아이메시지' 빗장 풀릴까]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231009100005</guid>
             <pubDate>Mon, 09 Oct 2023 01:44:10 GMT</pubDate>
             <content:encoded><![CDATA[OTT 티빙이 처음으로 열린 국제 OTT 시상식에서 '뉴테크상'과 '혁신상'을 수상했다. 웨이브 서비스를 운영하는 콘텐츠웨이브는 '베스트 OTT 오리지널상'과 '혁신상'을 수상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 佛 대표 유통채널 '프낙' 거점 매장서 부산 매력 알린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231009093844</link>
-            <guid>https://zdnet.co.kr/view/?no=20231009093844</guid>
-            <pubDate>Mon, 09 Oct 2023 01:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG가 현지시간 2일부터 프랑스의 대표적인 유통채널 '프낙(FNAC)'의 파리 거점 매장 4곳에서 '2030 부산엑스포' 유치를 지원하는 옥외광고를 선보이고 있다. LG가 옥외...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
