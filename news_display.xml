@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 04:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 AI칩 스타트업, 삼성·SK 'HBM' 불꽃 경쟁 점화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231010112020</link>
+            <guid>https://zdnet.co.kr/view/?no=20231010112020</guid>
+            <pubDate>Tue, 10 Oct 2023 05:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[해외 대형 업체들이 주도해 온 HBM(고대역폭메모리) 수요가 국내에서도 증가할 전망이다. 국내 AI(인공지능) 반도체 스타트업 3개사가 모두 삼성전자·SK하이닉스의 HBM을 탑...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IT용 OLED, 4년 후 3천만대 돌파 전망…韓·中 기업 대응 분주]]></title>
             <link>https://zdnet.co.kr/view/?no=20231010105112</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231004164603</guid>
             <pubDate>Wed, 04 Oct 2023 08:13:34 GMT</pubDate>
             <content:encoded><![CDATA[반도체 테스트 솔루션 기업인 ISC가 SKC(대표이사 박원철)의 투자사로 새롭게 출발한다. SKC는 4일 주식매수대금을 완납하고 ISC 인수절차를 마무리한다. 김정렬 현 대표와...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미반도체, HBM용 본딩장비 SK하이닉스와 '600억원' 추가 공급 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004111658</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004111658</guid>
-            <pubDate>Wed, 04 Oct 2023 06:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[한미반도체가 인공지능 반도체용 차세대 HBM(고대역폭메모리) 필수 공정 장비인 3세대 하이퍼 모델 '듀얼 TC 본더 그리핀'에 대해 SK 하이닉스로부터 창사 최대 규모인 약 6...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
