@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 금융</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 04:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,15 @@
             <enclosure url="https://zdnet.co.kr/images/default.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[가계부채 증가 질타에 발끈한 김주현…"한국은행, 서민 고민안한다"]]></title>
+            <title><![CDATA[KB국민은행, 계열사에 클라우드 운영 가이드 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231011113856</link>
+            <guid>https://zdnet.co.kr/view/?no=20231011113856</guid>
+            <pubDate>Wed, 11 Oct 2023 05:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[KB국민은행이 지주 계열사에 클라우드 운영 노하우를 공유한다. 11일 KB국민은행은 'AWS 인더스트리 위크 2023 행사'에서 'KB의 클라우드 최적화 여정'을 주제로 발표를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가계부채 증가 질타에 발끈한 김주현…"한국은행, 서민 고민 안한다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231011121106</link>
             <guid>https://zdnet.co.kr/view/?no=20231011121106</guid>
             <pubDate>Wed, 11 Oct 2023 04:13:29 GMT</pubDate>
@@ -205,14 +213,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010090510</guid>
             <pubDate>Tue, 10 Oct 2023 00:43:21 GMT</pubDate>
             <content:encoded><![CDATA[신한금융그룹이 10일 디지털 전략적 투자(SI) 펀드인 '신한 하이퍼 커넥트 투자조합 제1호'를 통해 인슈어테크 '해빗팩토리'에 65억원 투자를 진행했다고 밝혔다. 해빗팩토리는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘·하마스 무력충돌, 국제유가 4%대 급등]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010090336</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010090336</guid>
-            <pubDate>Tue, 10 Oct 2023 00:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[이스라엘과 팔레스타인 무장단테 하마스의 무력충돌 영향으로 국제유가가 4% 이상 올랐다. 9일(현지시간) 뉴욕상업거래소에서 11월 인도분 서부텍사스산원유(WTI) 가격은 전 거래...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
