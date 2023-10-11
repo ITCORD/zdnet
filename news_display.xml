@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 23:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 00:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, AI 소프트웨어기업 '노드.ai' 인수...엔비디아 추격 고삐]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231011081600</link>
+            <guid>https://zdnet.co.kr/view/?no=20231011081600</guid>
+            <pubDate>Wed, 11 Oct 2023 00:42:21 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 AI(인공지능) 소프트웨어 스타트업인 '노드.ai(Nod.ai)'를 인수할 계획이라고 로이터통신이 10일(현지시간) 보도했다. 미국 캘리포니아주에 본사를 둔 노드.ai...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내 AI칩 스타트업, 삼성·SK 'HBM' 불꽃 경쟁 점화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231010112020</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231005004227</guid>
             <pubDate>Thu, 05 Oct 2023 00:41:30 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 애플리케이션 수요 확대로 미국 엔비디아가 AI 칩을 위한 기판 주문량을 늘리고 있다. 4일 궈밍치 TF인터내셔널증권 애널리스트는 엔비디아가 내년 1분기 AI 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKC, ISC 인수 완료…김정렬·김종우 공동대표체제 출범]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231004164603</link>
-            <guid>https://zdnet.co.kr/view/?no=20231004164603</guid>
-            <pubDate>Wed, 04 Oct 2023 08:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 테스트 솔루션 기업인 ISC가 SKC(대표이사 박원철)의 투자사로 새롭게 출발한다. SKC는 4일 주식매수대금을 완납하고 ISC 인수절차를 마무리한다. 김정렬 현 대표와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
