@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 01:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 02:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[표준협회, NVIDIA AI 아카데미 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231011110136</link>
+            <guid>https://zdnet.co.kr/view/?no=20231011110136</guid>
+            <pubDate>Wed, 11 Oct 2023 02:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[한국표준협회(회장 강명수)는 엔비디아 코리아·한컴아카데미와 함께 디지털 핵심 인재 양성을 위해 한컴아카데미 분당교육센터에서 NVIDIA AI 아카데미를 올해 처음으로 개최한다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 개인정보 샌드박스 대비하는 앱 마케터의 자세]]></title>
             <link>https://zdnet.co.kr/view/?no=20231010164056</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010152332</guid>
             <pubDate>Tue, 10 Oct 2023 08:13:01 GMT</pubDate>
             <content:encoded><![CDATA[선거관리위원회(이하 선관위)의 시스템 보안이 낙제수준인 것으로 드러났다. 가상 해킹 시험 결과 '통합선거인명부시스템'을 비롯한 각종 시스템이 취약점을 드러내 대책 마련이 시급한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셈, AIOps 솔루션 '싸이옵스' GS인증 1등급 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010162611</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010162611</guid>
-            <pubDate>Tue, 10 Oct 2023 08:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[IT 성능관리 전문기업 엑셈(대표 조종암, 고평석)은 자사의 '싸이옵스(XAIOps)'와 '인터맥스 포 모바일(InterMax for Mobile)' 제품이 한국정보통신기술협회...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
