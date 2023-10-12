@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 01:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 02:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK(주) C&C, 생성형 AI 기반 기업보고서 제작 솔루션 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231012110745</link>
+            <guid>https://zdnet.co.kr/view/?no=20231012110745</guid>
+            <pubDate>Thu, 12 Oct 2023 02:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[SK㈜ C&amp;C는 '기업 전용 보고서 제작 생성형 AI'를 개발했다고 12일 밝혔다. SK㈜ C&amp;C의 보고서 제작 AI 솔루션은 사업 동향, 기업 분석 자료 등 실제 기업 데이터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가자지구 해커, 이스라엘 에너지·국방 조직 해킹 시도]]></title>
             <link>https://zdnet.co.kr/view/?no=20231012102643</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231011162119</guid>
             <pubDate>Wed, 11 Oct 2023 08:14:08 GMT</pubDate>
             <content:encoded><![CDATA[신세계아이앤씨(신세계I&amp;C, 대표 형태준)가 안전보건경영시스템 ISO 45001 인증을 획득했다고 10일 밝혔다. ISO 45001은 국제표준화기구(ISO)에서 제정하는 산업 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 'AI 교통량 조사 모델' 전국 교통량 조사 활용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231011161131</link>
-            <guid>https://zdnet.co.kr/view/?no=20231011161131</guid>
-            <pubDate>Wed, 11 Oct 2023 08:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[올해부터 도로교통량조사에 인공지능(AI)로 CCTV영상데이터를 분석해 차종과 통행량을 자동으로 집계하는 새로운 조사방식이 도입된다. 행정안전부(이하 행안부)는 이달 전국적으로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
