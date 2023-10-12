@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 09:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 10:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["얼마라고?"...아이폰15 사기 판매 주의하세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231012181812</link>
+            <guid>https://zdnet.co.kr/view/?no=20231012181812</guid>
+            <pubDate>Thu, 12 Oct 2023 10:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 최근 애플 아이폰15 출시를 앞두고 허위 과장 광고를 통한 휴대폰 사기판매 피해가 발생하고 있다며 이용자의 주의를 당부했다. 방통위에 따르면 일명 성지점에서는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["KBS 보궐이사직에 광주민주화운동 폄훼 주동자 임명 철회하라"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231012143842</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010101845</guid>
             <pubDate>Tue, 10 Oct 2023 01:43:44 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 국내 최초로 5G 백본에 400Gbps급 유선망을 상용 도입한다고 10일 밝혔다. 현재 백본에 쓰이는 대용량 유선망은 100Gbps단위로 트래픽을 전송하고 있다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 네트워크 진단 솔루션 'DX 케어' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010100021</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010100021</guid>
-            <pubDate>Tue, 10 Oct 2023 01:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 기업 구내망의 품질 문제를 쉽고 빠르게 진단할 수 있는 'DX 케어' 솔루션을 개발했다고 10일 밝혔다. KT의 DX 케어는 기업 구내망 환경에서 네트워크 트래픽을 자동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
