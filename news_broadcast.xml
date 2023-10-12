@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 23:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 00:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 인구 10명 중 4명 모바일 인터넷 아직도 못 쓴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231011224241</link>
+            <guid>https://zdnet.co.kr/view/?no=20231011224241</guid>
+            <pubDate>Thu, 12 Oct 2023 00:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 인구의 57%에 달하는 약 46억 명이 모바일 인터넷을 이용한다는 조사 결과가 나왔다. 10명 중 4명은 아직도 모바일 인터넷 이용을 못하거나 안한다는 뜻이다. 11일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT스카이라이프 "출연배우 정보로 VOD 검색"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231011114458</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231009124749</guid>
             <pubDate>Mon, 09 Oct 2023 04:11:46 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 통합 스포츠 커뮤니티 플랫폼 '스포키'가 올해 프로농구와 프로배구 리그 개막에 맞춰 생중계 서비스를 제공한다고 9일 밝혔다. 스포키는 야구, 축구, 농구, 배구,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 풀초롱밥상에 하이오더와 AI 서빙로봇 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231009124415</link>
-            <guid>https://zdnet.co.kr/view/?no=20231009124415</guid>
-            <pubDate>Mon, 09 Oct 2023 04:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 거상글로벌과 외식 사업의 디지털 전환 시스템 구축을 위한 업무협약을 체결했다고 9일 밝혔다. 협약에 따라 KT는 거상글로벌의 프랜차이즈 한식당 '풀초롱밥상'에 테이블오더...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
