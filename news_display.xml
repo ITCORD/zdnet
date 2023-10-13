@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 00:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 01:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스시스템IC, 무급휴직 받는다...8인치 파운드리 불황]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013091511</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013091511</guid>
+            <pubDate>Fri, 13 Oct 2023 01:49:49 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스 자회사 SK하이닉스시스템IC가 전 임직원을 대상으로 무급휴직 희망자를 받기로 했다. 소비시장 침체로 8인치 파운드리(위탁생산) 수요가 줄어들자 인력 감축을 시행하게...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[日, 반도체 기금 30兆 증액 추진…TSMC·라피더스 '방긋']]></title>
             <link>https://zdnet.co.kr/view/?no=20231013080704</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010093923</guid>
             <pubDate>Tue, 10 Oct 2023 01:44:21 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 다기능 자동차용 전력관리 IC인 'SPSB081'을 출시했다고 10일 밝혔다. 해당 IC는 고정 전압을 갖는 메인 LDO(Low-Dropo...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 "HBM4, 2025년 공급 목표로 개발 중"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010090206</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010090206</guid>
-            <pubDate>Tue, 10 Oct 2023 00:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 AI 반도체 생태계를 확장할 다양한 메모리 기술을 공급하고 있는 가운데, 황상준 삼성전자 메모리사업부 D램 개발실장 부사장은 "올해 말 HBM3E(고대역폭메모리) 제...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
