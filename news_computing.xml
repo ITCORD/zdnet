@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 23:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 00:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포티투마루, AWS 시행 생성형AI 스타트업 육성에 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013083253</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013083253</guid>
+            <pubDate>Fri, 13 Oct 2023 00:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[앤서링 AI(Answering AI) 스타트업 포티투마루(42Maru, 대표 김동환)는 생성형 AI 스타트업을 집중 육성하고 지원하기 위한 AWS 프로그램인 'ML Elevat...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터분쟁조정위원회 출범...45일 이내 재판상 화해 효력 조정]]></title>
             <link>https://zdnet.co.kr/view/?no=20231012184230</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231012093422</guid>
             <pubDate>Thu, 12 Oct 2023 01:43:01 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터(대표 변성준·김연수)가 '한컴오피스 2024'를 출시했다고 12일 밝혔다. 한컴오피스 2024는 ▲워드프로세서 '한글' ▲스프레드시트 '한셀' ▲프레젠테이션 '한쇼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이더리움 가스비 1년새 최저…NFT·디파이 이용 급감]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231012094955</link>
-            <guid>https://zdnet.co.kr/view/?no=20231012094955</guid>
-            <pubDate>Thu, 12 Oct 2023 01:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[이더리움 블록체인에서 트랜잭션을 처리할 때 사용되는 수수료인 가스비가 최근 1년간 최저치를 기록했다. 블록체인 매체 디크립트는 이더스캔 데이터를 인용해 지난 8일 이더리움 평균...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
