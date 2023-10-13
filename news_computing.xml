@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 08:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권은희 의원 "4차 나이스 문제 원인은 행정 편의주의"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013173542</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013173542</guid>
+            <pubDate>Fri, 13 Oct 2023 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[상반기 학생과 교육 공무원에 불편을 끼친 4세대 교육행정정보시스템(나이스, NEIS)의 문제 원인으로 행정 편의주의가 지목됐다. 대기업 참여제한 등 달라진 규정에 맞춰 업무 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["슬랙으로 업무 협업부터 앱 개발까지 한번에"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013143918</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231012161632</guid>
             <pubDate>Thu, 12 Oct 2023 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[몽고DB는 개발자 생산성 개선과 애플리케이션 현대화 가속을 위한 생성형 AI 기반 기능 4종을 12일 발표했다. 비즈니스 크리티컬 애플리케이션을 위한 세계적인 문서 기반 데이터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드·AWS·LIG넥스원, 국방 테크 세미나 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231012153611</link>
-            <guid>https://zdnet.co.kr/view/?no=20231012153611</guid>
-            <pubDate>Thu, 12 Oct 2023 07:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드(대표 이주완)는 서울 용산 국방컨벤션센터에서 LIG넥스원 및 아마존웹서비스(AWS)와 함께 'K-국방의 미래는 클라우드 위에서 시작된다'라는 주제로 국방 테크 세...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
