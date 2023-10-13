@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 22:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 23:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["새 아이맥 곧 출시… M2·M2 프로 칩 탑재"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231014072405</link>
+            <guid>https://zdnet.co.kr/view/?no=20231014072405</guid>
+            <pubDate>Fri, 13 Oct 2023 23:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[M2, M2 프로 칩을 탑재한 새 아이맥이 곧 출시될 예정이라는 소식이 나왔다. 일본 IT 블로그 맥오타카라는 14일(현지시간) 애플이 차세대 24인치 아이맥이 M2, M2 프...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 구글 '픽셀8 프로', 칼로 긁고 구부려 봤더니…]]></title>
             <link>https://zdnet.co.kr/view/?no=20231014065929</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231013085804</guid>
             <pubDate>Fri, 13 Oct 2023 01:49:32 GMT</pubDate>
             <content:encoded><![CDATA[중국 스마트폰 제조업체 원플러스의 첫 폴더블 스마트폰 '원플러스 오픈' 출시가 임박했다. 북미 시장에서 구글 픽셀폴드와 삼성전자 갤럭시Z폴드 시리즈와 경쟁할 것으로 예상된다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시S24, AP별 성능 차이 얼마나 될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231013093834</link>
-            <guid>https://zdnet.co.kr/view/?no=20231013093834</guid>
-            <pubDate>Fri, 13 Oct 2023 01:49:32 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 내년 초 출시할 갤럭시S24 시리즈에 자체 개발한 엑시노스와 퀄컴의 스냅드래곤 애플리케이션 프로세서(AP)를 교차로 탑재할 예정이다. 최근 삼성 엑시노스 2400 칩...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
