@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 05:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스라엘 인텔 CPU 생산 차질땐 삼성-하이닉스 불똥]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013133219</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013133219</guid>
+            <pubDate>Fri, 13 Oct 2023 06:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[팔레스타인 무장정파 하마스가 이스라엘에 기습 공격을 감행하면서 시작된 무력충돌이 일주일째 접어든 가운데, 현지 글로벌 반도체 및 IT 기업들이 사태를 예의주시하고 있다. 특히 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성디스플레이, 첨단 국산장비로 'ALD' 신공정 전환 본격 시동]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013094204</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010081004</guid>
             <pubDate>Tue, 10 Oct 2023 02:18:09 GMT</pubDate>
             <content:encoded><![CDATA[미국과 중국 간 반도체 패권 경쟁이 차세대 반도체 아키텍처인 'RISC-V' 분야로 확장될 수 있다고 홍콩 SCMP(사우스차이나모닝포스) 등이 9일 보도했다. SCMP는 로이터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[곽노정 SK하이닉스 사장, 메모리 핵심 전략으로 '스페셜티' 지목]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010091453</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010091453</guid>
-            <pubDate>Tue, 10 Oct 2023 01:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[10일 SK하이닉스 곽노정 대표이사 사장은 창립 40주년을 맞아 "그동안 범용 제품(Commodity)으로 인식돼 왔던 메모리 반도체를 고객별 차별화된(Customized) 스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
