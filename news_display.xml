@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 09:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 10:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 말레이시아 공장 신규 생산동 준공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013181349</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013181349</guid>
+            <pubDate>Fri, 13 Oct 2023 10:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[로옴 주식회사는 말레이시아의 제조 자회사인 ROHM-Wako Electronics (Malaysia) Sdn. Bhd.(이하 RWEM)에 건설한 신규 생산동이 완성돼 준공식을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄리타스반도체 "내년 PCIe 6.0 IP 개발 완료…흑자전환 기대"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013143350</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010105112</guid>
             <pubDate>Tue, 10 Oct 2023 03:11:38 GMT</pubDate>
             <content:encoded><![CDATA[IT용 OLED 시장이 애플의 주도로 향후 높은 성장세를 이어갈 것으로 전망된다. 이에 국내 삼성디스플레이와 LG디스플레이는 물론 중국 BOE, 비전옥스 등이 생산 라인 및 설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이디테크놀로지, 3나노 해외 서버향 반도체 설계 수주...삼성 파운드리 생산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010100939</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010100939</guid>
-            <pubDate>Tue, 10 Oct 2023 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 디자인 하우스(DSP) 에이디테크놀로지가 해외 고객사와 3나노 공정 기반 2.5D 서버향 반도체 설계 프로젝트의 계약을 체결했다고 10일 발표했다. 에이디테크놀로지는 삼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
