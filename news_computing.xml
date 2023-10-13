@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["생성 AI 투자, 비즈니스 핵심을 찾아 집중하라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013134247</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013134247</guid>
+            <pubDate>Fri, 13 Oct 2023 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[“생성형 AI는 복잡한 기술의 총체다. 모든 걸 직접 만들어서 적용하는 건 어려우므로 선별해야 한다. 만약 퍼블릭 생성 AI가 회사의 특정 업무에 적합하다면 사용하면 된다. C...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[강진모 아이티센 회장 국감 증인 출석 취소]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013111037</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231012132122</guid>
             <pubDate>Thu, 12 Oct 2023 05:09:46 GMT</pubDate>
             <content:encoded><![CDATA[“많은 기업이 코로나19를 거치며 클라우드 채택과 디지털 전환에 가속화했다. 이제 그 다음을 고민하고 있다. 레드햇은 오픈 하이브리드 클라우드, 자동화, 엣지, 인공지능(AI)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 기업용 생성형 AI 플랫폼 'DAP 젠AI' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231012113114</link>
-            <guid>https://zdnet.co.kr/view/?no=20231012113114</guid>
-            <pubDate>Thu, 12 Oct 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[LG CNS가 기업 고객을 위한 생성형 AI 플랫폼 'DAP 젠AI(DAP GenAI)'를 출시했다고 12일 밝혔다. DAP 젠AI는 AI 서비스 ▲AI 프롬프트 ▲LLM옵스(...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

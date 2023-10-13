@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 첨단 국산장비로 'ALD' 신공정 전환 본격 시동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013094204</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013094204</guid>
+            <pubDate>Fri, 13 Oct 2023 05:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 미래 올레드(OLED) 기술력 강화를 위한 준비에 나선다. 기존 대비 더 정밀한 성능의 증착 공정을 적용하기 위해 주요 협력사인 AP시스템의 신규 ALD(원자층증착)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스시스템IC, 무급휴직 받는다...8인치 파운드리 불황]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013091511</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231010091453</guid>
             <pubDate>Tue, 10 Oct 2023 01:44:21 GMT</pubDate>
             <content:encoded><![CDATA[10일 SK하이닉스 곽노정 대표이사 사장은 창립 40주년을 맞아 "그동안 범용 제품(Commodity)으로 인식돼 왔던 메모리 반도체를 고객별 차별화된(Customized) 스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 다기능 자동차용 전력관리 IC 신규 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231010093923</link>
-            <guid>https://zdnet.co.kr/view/?no=20231010093923</guid>
-            <pubDate>Tue, 10 Oct 2023 01:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 다기능 자동차용 전력관리 IC인 'SPSB081'을 출시했다고 10일 밝혔다. 해당 IC는 고정 전압을 갖는 메인 LDO(Low-Dropo...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
