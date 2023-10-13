@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 07:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["슬랙으로 업무 협업부터 앱 개발까지 한번에"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231013143918</link>
+            <guid>https://zdnet.co.kr/view/?no=20231013143918</guid>
+            <pubDate>Fri, 13 Oct 2023 08:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[슬랙이 업무 효율성과 생산성 향상을 위한 신기능을 발표했다. 고객은 신기능으로 정보 공유부터 팀 커뮤니케이션, 프로젝트 계획 등을 더 높은 수준으로 진행할 수 있다. 전문지식 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑스로그, 비즈니스 로드쇼 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231013151939</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231012153611</guid>
             <pubDate>Thu, 12 Oct 2023 07:10:29 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드(대표 이주완)는 서울 용산 국방컨벤션센터에서 LIG넥스원 및 아마존웹서비스(AWS)와 함께 'K-국방의 미래는 클라우드 위에서 시작된다'라는 주제로 국방 테크 세...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지, '오픈 Ko-LLM 리더보드'에 모델 100개 등록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231012141839</link>
-            <guid>https://zdnet.co.kr/view/?no=20231012141839</guid>
-            <pubDate>Thu, 12 Oct 2023 06:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지(대표 김성훈)는 자사 한국어 거대언어모델(LLM) 평가 리더보드에 모델 100개가 등록됐다고 12일 밝혔다. 업스테이지는 '오픈 Ko-LLM 리더보드'를 지난달 27...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
