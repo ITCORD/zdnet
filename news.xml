@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 07:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 08:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한기대 학생들 졸업연구작품 '눈에 띄네']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231015170226</link>
+            <guid>https://zdnet.co.kr/view/?no=20231015170226</guid>
+            <pubDate>Sun, 15 Oct 2023 08:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[“4명의 팀원이 밤낮을 가리지 않고 1년간 열심히 공학설계 및 졸업설계 교과목을 통해 졸업연구작품 제작에 매진했는데 대상을 받아 기쁩니다. AI나 로봇처럼 현재 유행하는 공학 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/15/c38738f91cd8c3d04b41662650d04729-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 고객 생성형 AI 저작권 분쟁 대신 맡는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231015115702</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231015094640</guid>
             <pubDate>Sun, 15 Oct 2023 06:12:49 GMT</pubDate>
             <content:encoded><![CDATA[지난해 10월15일 오후 3시30분께 경기 성남 판교 SK C&amp;C 데이터센터에서 발생한 화재로, '국민 메신저' 카카오톡을 비롯한 카카오 주요 서비스가 마비됐다. 카카오 서비스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/10/15/d6e4e2ed0a12c64bed1660e41116a34b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에코프로, 리사이클링 경쟁력 강화...폐배터리 시장 본격 참전]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231015085119</guid>
             <pubDate>Sun, 15 Oct 2023 01:51:01 GMT</pubDate>
             <content:encoded><![CDATA[국제통화기금(IMF)이 글로벌 경제의 스태그플레이션을 경고했다. 스태그플레이션이란 경제불황 속에서 물가상승이 동시에 발생하고 있는 상태를 말한다. 14일(현지시간) 주요외신 보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 빅데이터 상권 분석 홈리빙 통신 매장 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231015103246</link>
-            <guid>https://zdnet.co.kr/view/?no=20231015103246</guid>
-            <pubDate>Sun, 15 Oct 2023 01:51:01 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 빅데이터 상권 분석 솔루션을 활용해 서울 잠실동 '일상의틈 잠실새내점' 내 홈리빙 콜라보 매장을 선보였다고 15일 밝혔다. 홈리빙 콜라보 매장은 MZ세대에게 셀프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
