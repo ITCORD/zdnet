@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 07:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 08:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGD 4분기 흑전, OLED 수요 회복세에 달렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231016155445</link>
+            <guid>https://zdnet.co.kr/view/?no=20231016155445</guid>
+            <pubDate>Mon, 16 Oct 2023 08:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[LG디스플레이가 올 하반기 수익성 개선에 관심이 모아지고 있다. OLED 패널의 중장기적 성장세는 유효하나, 경기 침체 및 제품 양산 지연 등이 겹친 탓이다. 16일 업계에 따...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NXP, 'S32K3' 차량용 MCU에 AWS 클라우드 서비스 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20231016144213</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231011152925</guid>
             <pubDate>Thu, 12 Oct 2023 00:39:43 GMT</pubDate>
             <content:encoded><![CDATA["워트의 주력 사업인 THC는 국내 주요 반도체 기업들의 설비투자와 HBM(고대역폭메모리) 시장 확대로 수요가 증가할 것으로 기대하고 있다. 향후에는 중국 시장 진출, 반도체 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[곽노정 SK하이닉스 사장 "반도체 초기술 방향성은 'ETA'와 인재"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231011233835</link>
-            <guid>https://zdnet.co.kr/view/?no=20231011233835</guid>
-            <pubDate>Wed, 11 Oct 2023 15:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[곽노정 SK하이닉스 사장이 초기술 추구 방향성으로 'ETA'와 인재를 강조했다. 곽 사장은 11일 오후 대전 유성구 한국과학기술원(KAIST)에서 '초기술로 세상을 더 행복하게...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
