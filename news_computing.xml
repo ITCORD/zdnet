@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 06:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 07:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["선관위 해킹 가능성 있어도, 선거조작 위험 판단 어려워"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231016153547</link>
+            <guid>https://zdnet.co.kr/view/?no=20231016153547</guid>
+            <pubDate>Mon, 16 Oct 2023 07:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[이원태 한국인터넷진흥원(KISA) 원장은 중앙선거관리위원회가 해킹 가능성이 있더라도 선거관리 전반에 대한 위협으로 해석하기 어렵다고 밝혔다. 국가정보원이 KISA와 선관위의 합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈소스 진영, 생성 AI 저작권 시비에 '정의' 손본다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231016122246</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231014081323</guid>
             <pubDate>Sat, 14 Oct 2023 00:40:02 GMT</pubDate>
             <content:encoded><![CDATA[미국을 비롯해 영국, 유럽연합(EU) 등 주요 국가에서 20여 개월 간 공방을 벌였던 마이크로소프트의 액티비전 블리자드 인수작업이 마무리됐다. 마이크로소프트는 13일(현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[권은희 의원 "4차 나이스 문제 원인은 행정 편의주의"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231013173542</link>
-            <guid>https://zdnet.co.kr/view/?no=20231013173542</guid>
-            <pubDate>Fri, 13 Oct 2023 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[상반기 학생과 교육 공무원에 불편을 끼친 4세대 교육행정정보시스템(나이스, NEIS)의 문제 원인으로 행정 편의주의가 지목됐다. 대기업 참여제한 등 달라진 규정에 맞춰 업무 수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
