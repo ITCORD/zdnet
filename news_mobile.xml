@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 04:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 05:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["보급형 비전프로, 여전히 비싸…최대 338만원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231016134730</link>
+            <guid>https://zdnet.co.kr/view/?no=20231016134730</guid>
+            <pubDate>Mon, 16 Oct 2023 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 혼합현실(MR) 헤드셋 '비전 프로'의 보급형 모델을 개발 중인 것으로 알려진 가운데, 보급형 헤드셋 가격이 최대 2천500달러(약 338만원)에 달할 것이라는 전망이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두산로보틱스 협동로봇, 교촌치킨 튀긴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231016092111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231014090612</guid>
             <pubDate>Sat, 14 Oct 2023 02:15:13 GMT</pubDate>
             <content:encoded><![CDATA[애플이 곧 출시할 예정인 7세대 아이패드 미니에 전작에서 문제가 됐던 '젤리 스크롤' 현상이 수정될 것이라는 전망이 나왔다. IT매체 맥루머스는 13일(현지시간) 그 동안 애플...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["새 아이맥 곧 출시… M2·M2 프로 칩 탑재"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231014072405</link>
-            <guid>https://zdnet.co.kr/view/?no=20231014072405</guid>
-            <pubDate>Fri, 13 Oct 2023 23:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[M2, M2 프로 칩을 탑재한 새 아이맥이 곧 출시될 예정이라는 소식이 나왔다. 일본 IT 블로그 맥오타카라는 14일(현지시간) 애플이 차세대 24인치 아이맥이 M2, M2 프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
