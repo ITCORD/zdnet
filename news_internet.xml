@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 22:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 23:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이두 "어니봇 4.0, GPT-4에 손색없다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231018013319</link>
+            <guid>https://zdnet.co.kr/view/?no=20231018013319</guid>
+            <pubDate>Tue, 17 Oct 2023 23:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[중국 바이두가 개선된 초거대 AI 모델 버전을 발표하고 오픈AI의 GPT-4에 비교해도 뒤지지 않는다고 밝혔다. 바이두는 17일 '바이두 세계 2023 대회'에서 어니봇 4.0...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주정차 단속 알림 앱 휘슬, 인천 미추홀구·중구 서비스 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20231017172750</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231016160555</guid>
             <pubDate>Mon, 16 Oct 2023 08:13:41 GMT</pubDate>
             <content:encoded><![CDATA[향후 구글의 메인 화면이 확 바뀔 수 있다는 소식이 나왔다. 구글이 최근 데스크톱 홈페이지에 커다란 검색 창과 함께 추천 콘텐츠를 함께 표시하는 방식을 테스트 중이라고 더버지 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["공정위 배달 플랫폼 자율규제안, 대화·타협 실종"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016142038</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016142038</guid>
-            <pubDate>Mon, 16 Oct 2023 07:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[올 초 공정거래위원회에서 마련한 배달 플랫폼 자율규제안이 핵심 관계자인 소상공인들 의견이 빠져있고, 수수료 등 고질적인 문제를 다루지 않아 유명무실하다는 지적이 나왔다. 최종윤...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
