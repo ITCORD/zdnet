@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 09:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 10:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권순일 업스테이지 부사장 "AI, 비즈니스 적용에 아직 한계 많아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231017181211</link>
+            <guid>https://zdnet.co.kr/view/?no=20231017181211</guid>
+            <pubDate>Tue, 17 Oct 2023 10:11:33 GMT</pubDate>
+            <content:encoded><![CDATA["딥러닝이 무조건 좋은 건 아닙니다. 아직 인공지능(AI)을 실제 비즈니스 환경에 적용하려면 근본적으로 많은 어려움이 존재하지만 빨리 도입해 써봐야 합니다. 선발주자와 후발주자...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[행안부, 국내·외 전문가와 지진방재 정책 논의]]></title>
             <link>https://zdnet.co.kr/view/?no=20231017180708</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231017075900</guid>
             <pubDate>Tue, 17 Oct 2023 01:45:39 GMT</pubDate>
             <content:encoded><![CDATA[씽크포비엘이 인공지능(AI) 축산 솔루션 '밀크티'를 필리핀에서 실증 및 현지 사업화한다고 밝혔다. 씽크포비엘은 16일 필리핀 네그로스섬 바콜로드 시티에서 네그로스 옥시덴탈 주...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리눅스커널, LTS 2년으로 단축…10년 지원 버전 늘린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017091942</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017091942</guid>
-            <pubDate>Tue, 17 Oct 2023 01:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스커널의 장기지원(LTS) 기간이 6년에서 2년으로 줄고, 대신 산업용 장비용으로 출시 후 10년 지원을 보장하는 초장기 안정화(SLTS) 버전이 강화된다. 16일(현지시간...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
