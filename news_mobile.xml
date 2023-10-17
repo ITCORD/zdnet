@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 07:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기대이하 구글 텐서 G3 칩 성능 "설계탓 vs 공정탓"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231017141557</link>
+            <guid>https://zdnet.co.kr/view/?no=20231017141557</guid>
+            <pubDate>Tue, 17 Oct 2023 08:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[구글 최신폰 픽셀8 시리즈에 탑재된 애플리케이션 프로세서(AP) '텐서 G3' 성능이 기대 이하라는 평가를 받자, 책임론이 불거지고 있다. 게다가 최근 픽셀8에서 벤치마크 성능...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["M3 맥북프로, 내년 초 출시...그 다음은 맥북에어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231017142307</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231017081633</guid>
             <pubDate>Tue, 17 Oct 2023 00:41:46 GMT</pubDate>
             <content:encoded><![CDATA[이르면 이번 주 출시될 것으로 예상되는 7세대 아이패드 미니에 대한 소식이 나왔다. IT매체 맥루머스는 16일(이하 현지시간) 그 동안 애플 신제품 소식을 정확하게 예측했던 중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바디프랜드, 항저우 아시안게임 메달리스트에 안마의자 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016162756</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016162756</guid>
-            <pubDate>Mon, 16 Oct 2023 08:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드는 항저우 아시안게임 메달리스트 선수들에게 안마의자를 후원했다고 16일 밝혔다. 바디프랜드는 선수들이 '로보 워킹 테크놀로지' 안마의자 3종을 직접 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
