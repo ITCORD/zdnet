@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 02:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[델테크놀로지스, SW정의인프라 '파워플렉스 4.5' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231017113723</link>
+            <guid>https://zdnet.co.kr/view/?no=20231017113723</guid>
+            <pubDate>Tue, 17 Oct 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[델테크놀로지스는 소프트웨어 정의 인프라 솔루션의 최신판인 '델 파워플렉스 4.5' 버전을 출시한다고 17일 밝혔다. 델테크놀로지스는 이를 통해 델 에이펙스 블록 스토리지 오퍼링...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["AI 모델 미세조정, 유해 답변·탈옥 확률 높여"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231017111945</link>
+            <guid>https://zdnet.co.kr/view/?no=20231017111945</guid>
+            <pubDate>Tue, 17 Oct 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[대형언어모델(LLM)을 미세조정하면 모델 기능을 떨어트린다는 연구 결과가 나왔다. 벤처비트 등 주요 외신은 15일 미국 프린스턴대가 버지니아공과대, IBM 리서치와 진행한 공동...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[워크데이, 생성 AI로 직원 관리부터 앱 개발까지 돕는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231017090403</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231016104005</guid>
             <pubDate>Mon, 16 Oct 2023 05:11:04 GMT</pubDate>
             <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 비트코인 현물 상장지수펀드(ETF) 출시를 허용하지 않은 것은 부당하다는 법원 판결에 대해 항소하지 않았다. 코인데스크, 디크립트 등 외신들에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔리드이엔지, 네이버클라우드와 골프 AI·클라우드 사업 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016132258</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016132258</guid>
-            <pubDate>Mon, 16 Oct 2023 05:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 전환(DT) 및 클라우드 컴퓨팅 전문기업 솔리드이엔지(대표 김진만)는 네이버클라우드의 초거대 AI '하이퍼클로바X'를 활용한 골프전문 AI 서비스 개발 및 중부권 클라우...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스캘터랩스, AI 챗봇 '벨라 큐나' 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016092201</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016092201</guid>
-            <pubDate>Mon, 16 Oct 2023 02:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[스켈터랩스(대표 조원규)가 인공지능(AI) 챗봇 '벨라 큐나'를 업데이트했다고 16일 밝혔다. 벨라 큐나는 기업 내부 정보 기반으로 작동하는 Q&amp;A 챗봇 솔루션이다. 우선 벨라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
