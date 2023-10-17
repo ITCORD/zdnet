@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비아이매트릭스 "로우코드로 K-소프트웨어 이끈다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231017135307</link>
+            <guid>https://zdnet.co.kr/view/?no=20231017135307</guid>
+            <pubDate>Tue, 17 Oct 2023 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[“국내 방위 산업이 K-방산으로 글로벌 시장에서 폭발적인 성과를 내는 것처럼 우리도 상장을 기점으로 K-소프트웨어(SW)를 이끌 수 있도록 최선을 다하겠다. 배영근 비아이매트릭...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS 임원은 생성 AI에 어떤 프롬프트를 넣을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231017112530</link>
+            <guid>https://zdnet.co.kr/view/?no=20231017112530</guid>
+            <pubDate>Tue, 17 Oct 2023 05:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 인공지능(AI)는 좋은 질문을 해야 더 나은 답변을 준다. 그에 따라 생성 AI 프롬프트의 모범 사례가 공유되기도 하고, 아예 프롬프트 전문가 시장이 형성되기도 했다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[델테크놀로지스, SW정의인프라 '파워플렉스 4.5' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231017113723</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231016141207</guid>
             <pubDate>Mon, 16 Oct 2023 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[에지오는 애플리케이션 성능 최적화 솔루션인 '애플리케이션 보호 및 성능 번들'을 출시한다고 16일 발표했다. 새로운 솔루션은 기존의 복잡한 과금 구조와 사이버 공격을 받았을 때...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[효성인포, 클라우드 현대화 맞춰 차세대 'UCP' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016141008</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016141008</guid>
-            <pubDate>Mon, 16 Oct 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[효성인포메이션시스템(대표 양정규)은 업그레이드된 'UCP 제너레이션3'를 출시한다고 16일 밝혔다. 하이브리드 클라우드 사용 확대 및 비용 절감∙효율성에 대한 뜨거운 관심으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SEC, '비트코인 현물 ETF 반려 부당' 항소 안해]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016104005</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016104005</guid>
-            <pubDate>Mon, 16 Oct 2023 05:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 비트코인 현물 상장지수펀드(ETF) 출시를 허용하지 않은 것은 부당하다는 법원 판결에 대해 항소하지 않았다. 코인데스크, 디크립트 등 외신들에 따...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
