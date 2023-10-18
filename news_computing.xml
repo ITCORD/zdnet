@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 04:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버클라우드, 싱가포르서 AI 혁신 로드맵 소개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231018130557</link>
+            <guid>https://zdnet.co.kr/view/?no=20231018130557</guid>
+            <pubDate>Wed, 18 Oct 2023 04:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드는 지난주 싱가포르 마리나베이샌즈 엑스포 컨벤션 센터에서 개최된 '빅데이터 &amp; AI 월드'의 '한국-싱가포르 디지털 이노베이션 세미나'에 참가해 싱가포르 현지 정부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[흥국화재, 오라클 클라우드로 IFRS17 대응 디지털 역량 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231018125241</link>
+            <guid>https://zdnet.co.kr/view/?no=20231018125241</guid>
+            <pubDate>Wed, 18 Oct 2023 04:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 흥국화재가 올해 초부터 시행된 국제회계기준 IFRS17 등과 같이 급변하는 금융시장 규제준수 요건에 대응하고 장기적 성장의 핵심인 디지털 역량 강화를 위해 최근 오라클...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, 생성 AI 유해 표현 차단 솔루션 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231018124645</link>
+            <guid>https://zdnet.co.kr/view/?no=20231018124645</guid>
+            <pubDate>Wed, 18 Oct 2023 04:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 인공지능(AI)로 제작하는 콘텐츠에서 유해하거나 비윤리적, 반사회적 표현의 발현을 차단할 수 있는 솔루션이 공개됐다. 마이크로소프트는 '애저 AI 콘텐츠 세이프티'를 출...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올거나이즈 '알리 앤서', 국악 지식 알려준다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231018103944</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231017135307</guid>
             <pubDate>Tue, 17 Oct 2023 05:09:41 GMT</pubDate>
             <content:encoded><![CDATA[“국내 방위 산업이 K-방산으로 글로벌 시장에서 폭발적인 성과를 내는 것처럼 우리도 상장을 기점으로 K-소프트웨어(SW)를 이끌 수 있도록 최선을 다하겠다. 배영근 비아이매트릭...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 임원은 생성 AI에 어떤 프롬프트를 넣을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017112530</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017112530</guid>
-            <pubDate>Tue, 17 Oct 2023 05:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI)는 좋은 질문을 해야 더 나은 답변을 준다. 그에 따라 생성 AI 프롬프트의 모범 사례가 공유되기도 하고, 아예 프롬프트 전문가 시장이 형성되기도 했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델테크놀로지스, SW정의인프라 '파워플렉스 4.5' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017113723</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017113723</guid>
-            <pubDate>Tue, 17 Oct 2023 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[델테크놀로지스는 소프트웨어 정의 인프라 솔루션의 최신판인 '델 파워플렉스 4.5' 버전을 출시한다고 17일 밝혔다. 델테크놀로지스는 이를 통해 델 에이펙스 블록 스토리지 오퍼링...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 모델 미세조정, 유해 답변·탈옥 확률 높여"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017111945</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017111945</guid>
-            <pubDate>Tue, 17 Oct 2023 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[대형언어모델(LLM)을 미세조정하면 모델 기능을 떨어트린다는 연구 결과가 나왔다. 벤처비트 등 주요 외신은 15일 미국 프린스턴대가 버지니아공과대, IBM 리서치와 진행한 공동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
