@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 20:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 21:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] SXSW 시드니 2023에 등장한 HP 최신 PC]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019014646</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019014646</guid>
+            <pubDate>Wed, 18 Oct 2023 21:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[[시드니(호주)=권봉석 기자] HP는 오는 22일(이하 현지시각)까지 호주 시드니에서 진행되는 복합 문화 행사 '사우스바이사우스웨스트 시드니 2023'(SXSW 시드니 2023...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/19/f2c0c11af87f2c839d39bae2f67a4e5c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대삼호중공업, 사외협력사 연계 협동로봇·자동화설비 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20231019021857</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231019003728</guid>
             <pubDate>Wed, 18 Oct 2023 16:12:10 GMT</pubDate>
             <content:encoded><![CDATA[[시드니(호주)=권봉석 기자] 사우스바이사우스웨스트(SXSW) 시드니 2023이 개최중인 18일(이하 현지시간) 오후, 시드니 국제컨벤션센터 '기술 및 혁신 엑스포' 행사장에서...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/19/1f6c8d0be50a19d5c597ea216cab7fa4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KAI, 美 록히드마틴과 대형헬기 사업 맞손]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231018173435</guid>
             <pubDate>Wed, 18 Oct 2023 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA)과 삼성전자는 휴대전화로 유입되는 스팸문자로 인한 이용자 피해를 줄이기 위해 업무협약(MoU)을 체결했다고 18일 밝혔다. 수원 디지털시티에서 진행한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서강대 메타원, 'KMF 2023' 참가해 메타버스 플랫폼 선보여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018172620</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018172620</guid>
-            <pubDate>Wed, 18 Oct 2023 09:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[서강대학교 메타버스전문대학원(이하 메타원)이 서강대학교 링크 3.0 사업단과의 협력으로 16일부터 18일까지 3일동안 코엑스 D홀에서 개최된 'KMF 2023'에 참가했다고 밝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
