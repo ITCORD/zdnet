@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 13:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 14:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HP "코로나19 이후 지식 근로자 중 27%만 일에 대해 만족"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231018221751</link>
+            <guid>https://zdnet.co.kr/view/?no=20231018221751</guid>
+            <pubDate>Wed, 18 Oct 2023 14:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[[시드니(호주)=권봉석 기자] "최근 실시한 설문조사 결과 응답자 중 불과 27%만이 일과 건강한 관계를 유지하고 있었다. 나와 일의 관계가 악화되면 이는 조직원의 사기를 떨어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JBL, 어센틱 홈스피커 3종·스피너 BT 턴테이블 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231018190804</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231017142307</guid>
             <pubDate>Tue, 17 Oct 2023 06:13:49 GMT</pubDate>
             <content:encoded><![CDATA[M3 시리즈 칩을 탑재한 4개의 새로운 맥북 시리즈가 내년 상반기에 출시될 것이라는 전망이 나왔다. 블룸버그 통신은 16일(현지시간) 파워온 뉴스레터를 통해 M3 프로, M3 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 픽셀8 잠금해제 오류…"동생 얼굴 대자 풀렸다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017135308</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017135308</guid>
-            <pubDate>Tue, 17 Oct 2023 05:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 최근 출시한 스마트폰 '픽셀8' 시리즈의 얼굴인식 잠금해제 기능에서 취약점이 발견됐다고 IT매체 안드로이드오쏠리티가 16일(현지시간) 보도했다. 미국 커뮤니티 레딧 사용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
