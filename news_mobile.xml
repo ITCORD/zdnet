@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 15:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 16:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["디지털 격차 해소·지속가능한 미래, IT 업계의 책임"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019003728</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019003728</guid>
+            <pubDate>Wed, 18 Oct 2023 16:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[[시드니(호주)=권봉석 기자] 사우스바이사우스웨스트(SXSW) 시드니 2023이 개최중인 18일(이하 현지시간) 오후, 시드니 국제컨벤션센터 '기술 및 혁신 엑스포' 행사장에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HP "코로나19 이후 지식 근로자 중 27%만 일에 대해 만족"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231018221751</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231017141557</guid>
             <pubDate>Tue, 17 Oct 2023 08:13:31 GMT</pubDate>
             <content:encoded><![CDATA[구글 최신폰 픽셀8 시리즈에 탑재된 애플리케이션 프로세서(AP) '텐서 G3' 성능이 기대 이하라는 평가를 받자, 책임론이 불거지고 있다. 게다가 최근 픽셀8에서 벤치마크 성능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["M3 맥북프로, 내년 초 출시...그 다음은 맥북에어"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017142307</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017142307</guid>
-            <pubDate>Tue, 17 Oct 2023 06:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[M3 시리즈 칩을 탑재한 4개의 새로운 맥북 시리즈가 내년 상반기에 출시될 것이라는 전망이 나왔다. 블룸버그 통신은 16일(현지시간) 파워온 뉴스레터를 통해 M3 프로, M3 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
