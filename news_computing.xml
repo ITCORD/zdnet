@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽고DB, 엣지 컴퓨팅 위한 기능 세트 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019135342</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019135342</guid>
+            <pubDate>Thu, 19 Oct 2023 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[몽고DB는 디바이스, 온프레미스 데이터 센터, 주요 클라우드 등 실시간 데이터가 생성, 처리 및 저장되는 모든 곳에서 기업의 애플리케이션 배포를 지원하는 기능 세트인 '몽고DB...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] 기업 생존 직결된 데이터 혁신…핵심은 '논리적 데이터 전략']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019134653</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019134653</guid>
+            <pubDate>Thu, 19 Oct 2023 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날 데이터 활용 역량이 기업 생존과 직결되는 요소로 자리매김하면서, 전 산업 분야에서 효율적인 데이터 관리 시스템 구축은 기업의 최우선 과제 중 하나가 되었다. 효율적으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷기어, AV·IT 관리 위한 'M4350 시리즈 스위치' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231019111845</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231018150940</guid>
             <pubDate>Wed, 18 Oct 2023 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT 등 인공지능(AI)과 결합해 발전 중인 노코드, 로우코드(NCLC)가 전문 개발자를 중심으로 시장을 확대하고 있다. 18일 관련 업계에 따르면 마이크로소프트(MS), ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[핑거, STO 기술업체 컨소시엄 에셋체인·IBCT 합류]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018160825</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018160825</guid>
-            <pubDate>Wed, 18 Oct 2023 07:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[핑거(대표 안인주)가 토큰증권(STO) 기술업체 컨소시엄에 에셋체인과 아이비씨티(IBCT)가 신규 참여 기업으로 합류했다고 18일 밝혔다. 핑거와 이큐비알(EQBR), 블록체인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 10억달러 규모 마이크로소프트365 구독 논의중]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018115906</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018115906</guid>
-            <pubDate>Wed, 18 Oct 2023 05:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[아마존이 마이크로소프트의 생산성 도구를 대규모로 구매하는 계약을 논의중인 것으로 알려졌다. 17일(현지시간) 인사이더에 따르면, 아마존은 10억달러 규모의 마이크로소프트365 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
