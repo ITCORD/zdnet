@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 01:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 02:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인사] 방송통신위원회]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019105334</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019105334</guid>
+            <pubDate>Thu, 19 Oct 2023 02:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[◇ 과장급 파견 ▲대통령비서실 국정기획비서관실 파견 이동석 ▲미디어‧콘텐츠산업융합발전위원회 지원단 윤웅현...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이디스파워텔, 국제치안산업대전서 통합 무전솔루션 뽐낸다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231019102608</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231016190602</guid>
             <pubDate>Mon, 16 Oct 2023 10:11:22 GMT</pubDate>
             <content:encoded><![CDATA[다이렉트미디어랩은 인디애나대학교 한국학연구소, 부경대학교와 함께 2023 K-엔터테인먼트 테크놀로지 서밋을 오는 20일(현지시간) 개최한다고 밝혔다. 미국 로스앤젤레스에서 열리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방심위, 뉴스타파 인용 보도 MBC에 과징금 제재 의결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231016183513</link>
-            <guid>https://zdnet.co.kr/view/?no=20231016183513</guid>
-            <pubDate>Mon, 16 Oct 2023 10:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신심의위원회가 16일 전체회의를 열고 뉴스타파 조작 의혹 보도를 인용한 MBC 뉴스데스크와 PD수첩에 과징금 법정 제재를 의결했다. 같은 사안으로 상정된 TBS-FM '김...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

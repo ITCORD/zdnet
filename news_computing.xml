@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 01:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 02:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 생각을 이미지로 구현하는 AI 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019102842</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019102842</guid>
+            <pubDate>Thu, 19 Oct 2023 02:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 실시간으로 두뇌 활동을 인식한 뒤 이미지로 재구성하는 인공지능(AI) 시스템을 공개했다. 19일(현지시간) 실리콘앵글 등 외신에 따르면 메타는 비침습적 신경영상 기술인 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI, '달리3' 베타 서비스 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231019092311</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231018130557</guid>
             <pubDate>Wed, 18 Oct 2023 04:11:44 GMT</pubDate>
             <content:encoded><![CDATA[네이버클라우드는 지난주 싱가포르 마리나베이샌즈 엑스포 컨벤션 센터에서 개최된 '빅데이터 &amp; AI 월드'의 '한국-싱가포르 디지털 이노베이션 세미나'에 참가해 싱가포르 현지 정부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[흥국화재, 오라클 클라우드로 IFRS17 대응 디지털 역량 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018125241</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018125241</guid>
-            <pubDate>Wed, 18 Oct 2023 04:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[오라클은 흥국화재가 올해 초부터 시행된 국제회계기준 IFRS17 등과 같이 급변하는 금융시장 규제준수 요건에 대응하고 장기적 성장의 핵심인 디지털 역량 강화를 위해 최근 오라클...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
