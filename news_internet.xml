@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 07:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 08:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI는 유튜브·SNS·OTT를 어떻게 바꿀까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231019161213</link>
+            <guid>https://zdnet.co.kr/view/?no=20231019161213</guid>
+            <pubDate>Thu, 19 Oct 2023 08:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)은 이제 생활 필수품의 영역으로 내려왔다. 챗GPT의 충격적인 등장 이후 'AI와 함께 살아가기'가 새로운 화두로 떠오르고 있다. 따라서 AI를 쓸지 말지 고민하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요기요, '카톡 주문하기' 서비스 운영한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231019150720</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231018105027</guid>
             <pubDate>Wed, 18 Oct 2023 02:18:31 GMT</pubDate>
             <content:encoded><![CDATA[NHN데이터가 카카오 공식 고객관계관리(CRM) 파트너사로 선정돼, 데이터 통합 관리 솔루션 다이티에 카카오 개인화 메시지 기능을 업데이트했다고 18일 밝혔다. 카카오 개인화 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["로앤컴퍼니 법률 AI, GPT-4보다 변호사 시험 정답률 높아"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018095551</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018095551</guid>
-            <pubDate>Wed, 18 Oct 2023 02:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[로앤컴퍼니가 만든 법률 인공지능(AI) 시스템 '빅케이스GPT'가 제12회 대한민국 변호사시험 객관식 문제에서 53.3% 정답률을 달성한 것으로 나타났다. 로앤컴퍼니는 18일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
