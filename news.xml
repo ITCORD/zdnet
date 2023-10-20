@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 22:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 23:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 아이패드 프로, 어떻게 나올까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231020152349</link>
+            <guid>https://zdnet.co.kr/view/?no=20231020152349</guid>
+            <pubDate>Fri, 20 Oct 2023 23:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 아이패드 프로가 내년 초 양산에 들어가 2024년 봄이나 여름에 출시될 것으로 전망되고 있다. IT매체 맥루머스는 그 동안 나온 차세대 아이패드 프로 관련 정보를 종합해...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/10/19/81db9ce7f60fc4b88e141b0e46348ca7-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["2세대 에어태그, 2025년 출시…비전 프로와도 통합”]]></title>
             <link>https://zdnet.co.kr/view/?no=20231021070447</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231020111433</guid>
             <pubDate>Fri, 20 Oct 2023 18:11:34 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 20일(현지시간) 미국 실리콘밸리 맥에너리 컨벤션 센터에서 '삼성 메모리 테크 데이 2023'을 개최하고 AI 기술 혁신을 이끌 초고성능 HBM3E(고대역폭메모리) ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/20/7381b0fdf04a8846e01587f8dcdc2e44-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[부음] 박종현 한국은행 커뮤니케이션국 부국장 본인상]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231020172516</guid>
             <pubDate>Fri, 20 Oct 2023 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[종합 가전기업 코웨이가 한국마케팅협회에서 주관하는 '2023 한국산업의 구매안심지수(KPEI)' 조사에서 정수기 및 비데 부문 1위에 선정됐다고 20일 밝혔다. 한국산업의 구매...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전략물자관리원, 26일 미국의 대중국 수출통제 개정조치 설명회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231020171210</link>
-            <guid>https://zdnet.co.kr/view/?no=20231020171210</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[전략물자관리원(KOSTI·원장 정인교)은 26일 서울 세종대로 대한상공회의소 국제회의장에서 '미국의 대중국 반도체 수출통제 개정 조치 설명회'를 개최한다. 전략물자관리원 관계자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
