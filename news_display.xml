@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 02:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 03:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 은행 4곳, 키오시아-WDC 합병에 17조원 자금 조달 예정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231020102902</link>
+            <guid>https://zdnet.co.kr/view/?no=20231020102902</guid>
+            <pubDate>Fri, 20 Oct 2023 03:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[일본 최대 은행들이 키오시아와 웨스턴디지털(WDC)의 낸드플래시 메모리 사업 합병을 지원하기 위해 1조9000억 엔(미화 127억 달러, 한화 17조2천억 원)의 자금 조달을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "2027년 5나노 eMRAM 개발...전장 파운드리 자신감"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231019102221</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231017114629</guid>
             <pubDate>Tue, 17 Oct 2023 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[반도체 업계에서 기존 대비 데이터 처리 속도를 획기적으로 높일 수 있는 '실리콘 포토닉스'가 주목받고 있다. 현재 TSMC, 인텔 등 주요 기업들이 관련 기술 개발을 위한 투자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세미파이브, 日테라픽셀과 설계 협업...삼성 파운드리 진출 교두보]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231017111535</link>
-            <guid>https://zdnet.co.kr/view/?no=20231017111535</guid>
-            <pubDate>Tue, 17 Oct 2023 04:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계 솔루션 회사 세미파이브가 일본 테라픽셀테크놀로지스와 전략적인 업무 협약(MOU)을 체결했다고 16일 발표했다. 이번 협약으로 양사는 포괄적인 반도체 설계, 일본 내...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
