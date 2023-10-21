@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 00:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 01:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 사이버트럭에 총 쐈더니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231021092122</link>
+            <guid>https://zdnet.co.kr/view/?no=20231021092122</guid>
+            <pubDate>Sat, 21 Oct 2023 01:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 전기 픽업트럭 '사이버트럭'에 총을 쏴 방탄 능력을 테스트했다고 자동차매체 일렉트렉은 20일(이하 현지시간) 보도했다. 20일 도로 주행 중 총알에 여러 번 맞은 사이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/21/1c3865b0794c72b2f8a5c9db87302344-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[냉탕-온탕 오가는 CATL, 북미 시장 개척↓ 기술력↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20231020160252</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231020204215</guid>
             <pubDate>Sat, 21 Oct 2023 00:39:16 GMT</pubDate>
             <content:encoded><![CDATA[로봇 플랫폼 전문기업 레인보우로보틱스가 22일까지 성남 서울공항에서 열리는 '서울 국제 항공우주 및 방위산업 전시회(ADEX 2023)'에서 현대로템과 공동 개발한 방산용 사족...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/20/b599e94331dabfedb2bacfd4eab8fa3f.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["갤럭시Z 폴드6, 카메라는 동일·두께 얇아질 것"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231020174210</guid>
             <pubDate>Fri, 20 Oct 2023 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[로봇 솔루션 스타트업 에이딘로보틱스는 18~21일 인천 송도컨벤시아에서 열리는 '2023 국제치안산업대전'에서 치안용 사족 보행 로봇을 선보였다고 20일 밝혔다. 2019년부터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[29CM 프랑스·이탈리아 리빙 편집숍 'TTRS' 가보니..."유럽 감성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231020165854</link>
-            <guid>https://zdnet.co.kr/view/?no=20231020165854</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[서울 성수동에 프랑스·이탈리아 프리미엄 리빙 브랜드를 직접 보고 구매할 수 있는 편집숍이 이달 21일 문을 연다. 무신사 자회사 29CM가 운영하는 TTRS가 바로 그곳이다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
