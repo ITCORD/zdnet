@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 02:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT AI 풀스택, 글로벌 표준 최종 승인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231022113416</link>
+            <guid>https://zdnet.co.kr/view/?no=20231022113416</guid>
+            <pubDate>Sun, 22 Oct 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화 부문(ITU-T) SG11에서 자사가 제안한 AI 통합 패키지 'AI 풀스택의 구조와 연동 규격'이 ITU-T...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 태국어 초거대 AI 만든다...동남아 AI 시장 진출]]></title>
             <link>https://zdnet.co.kr/view/?no=20231022075121</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231019102608</guid>
             <pubDate>Thu, 19 Oct 2023 01:44:20 GMT</pubDate>
             <content:encoded><![CDATA[아이디스파워텔은 CCTV 영상보안 전문 기업인 아이디스와 함께 인천 송도컨벤시아에서 진행되는 '2023 국제치안산업대전'에 참가했다고 19일 밝혔다. 국제치안산업대전은 경찰청이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["T1 롤드컵 응원합니다”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231019101710</link>
-            <guid>https://zdnet.co.kr/view/?no=20231019101710</guid>
-            <pubDate>Thu, 19 Oct 2023 01:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 0 청년 고객과 함께 T1의 '롤드컵' 선전을 기원하는 프로모션을 펼친다고 19일 밝혔다. 대한민국을 대표하는 e스포츠팀 T1은 이날부터 한국에서 열리는 롤드컵 본...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
