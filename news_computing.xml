@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 스탠퍼드 "빅테크 언어모델, 투명성 낙제점"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231023140242</link>
+            <guid>https://zdnet.co.kr/view/?no=20231023140242</guid>
+            <pubDate>Mon, 23 Oct 2023 06:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI, 메타, 구글을 비롯한 빅테크 거대언어모델(LLM)의 투명성 지수가 낮은 것으로 조사됐다. 미국 월간지 IEEE 스펙트럼은 미국 스탠퍼드대 기초모델연구센터(CRFM)가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 클라우드 네이티브 애플리케이션 플랫폼 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231023113504</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231020155053</guid>
             <pubDate>Fri, 20 Oct 2023 07:09:46 GMT</pubDate>
             <content:encoded><![CDATA[신한투자증권, 신한DS, 엔에이치엔 클라우드가 사업 출정식을 가지고 신한투자증권의 차세대 ICT 시스템에 대한 성공적인 클라우드 전환을 다짐했다. NHN클라우드(대표 백도민, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트리니티, 시큐어코딩 솔루션'코드레이 엑스지 V6.0 R2' GS인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231020152521</link>
-            <guid>https://zdnet.co.kr/view/?no=20231020152521</guid>
-            <pubDate>Fri, 20 Oct 2023 07:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[SW개발보안 전문기업 트리니티소프트(대표 김진수)는 자사의 시큐어코딩 솔루션인 '코드레이 엑스지 V6.0 R2(이하 코드레이 엑스지)'가 한국정보통신기술협회(TTA)로부터 GS...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

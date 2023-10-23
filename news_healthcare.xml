@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국민건강 검진통지서 자세한 내용 확인'…이 문자 잘못 누르면 해킹됩니다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231023144704</link>
+            <guid>https://zdnet.co.kr/view/?no=20231023144704</guid>
+            <pubDate>Mon, 23 Oct 2023 06:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[건보공단 대표번호 있어도 의심해야…문자 첨부된 URL 클릭 시 악성 앱 설치 건강검진 수검자가 집중되는 연말을 앞두고 건강검진을 사칭한 스미싱 문자가 기승을 부리고 있어 국민의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2023년도 제1회 전문약사 자격시험 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231023105030</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231018123405</guid>
             <pubDate>Wed, 18 Oct 2023 07:11:06 GMT</pubDate>
             <content:encoded><![CDATA[“조기진단부터 정밀치료까지 암 정복의 미래를 그리겠다” 아이엠비디엑스는 18일 기자간담회를 통해 자사 암진단 기술 '알파리퀴드 플랫폼'의 혁신적인 기술력을 소개하고 암 진단 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[의대 정원 확대 시 필수의료 의사도 증가? 정기석 "낙수효과 미미"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018153626</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018153626</guid>
-            <pubDate>Wed, 18 Oct 2023 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[정기석 국민건강보험공단 이사장이 최근 논의 중인 의대 정원 증원에 대해 전체 의사 수 증가로 인한 필수진료과 전문의도 함께 증가할 수 있다는 이른바 '낙수효과'에 대해 “미미하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
