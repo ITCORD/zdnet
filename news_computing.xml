@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 20:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 21:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알체라, '파이어 스카우트' 앞세워 해외시장 공략 가속]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231023215110</link>
+            <guid>https://zdnet.co.kr/view/?no=20231023215110</guid>
+            <pubDate>Mon, 23 Oct 2023 21:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[영상인식 인공지능(AI) 전문기업 알체라(대표 황영규)는 자사의 SaaS(인터넷으로 제공하는 SW) 기반 산불 조기감지 AI 솔루션 '파이어스카우트(FireScout)'를 중심...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트웰브랩스, 샌프란시스코서 멀티모달 해커톤 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231023221949</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231023090455</guid>
             <pubDate>Mon, 23 Oct 2023 00:41:37 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터(대표 변성준·김연수)가 생성형 인공지능(AI)으로 문서 작성과 편집을 할 수 있는 '한컴독스 AI'의 비공개 베타 테스트를 23일부터 진행한다. 이번 테스트는 사전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, 점유율 확대 총력…"100만원 입금 시 BTC 5천원 지급"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023090330</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023090330</guid>
-            <pubDate>Mon, 23 Oct 2023 00:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 코빗(대표 오세진)은 23일 가상자산 입금 이벤트를 실시한다고 밝혔다. 바이낸스 등 코드(CODE) 트래블룰 솔루션 가입 거래소에서 100만원 이상의 가상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
