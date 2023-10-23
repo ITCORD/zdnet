@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 08:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 09:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 김범수 금감원 출석…주가는 신저가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231023165714</link>
+            <guid>https://zdnet.co.kr/view/?no=20231023165714</guid>
+            <pubDate>Mon, 23 Oct 2023 09:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 창업자인 김범수 전 이사회 의장(현 미래이니셔티브센터장)이 SM엔터테인먼트 시세조종 의혹을 받아 23일 금융감독원에 피의자 신분으로 출석했다. SM엔터 인수를 진두지휘한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["카카오 계열사 2년간 40곳 가까이 늘어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231023141538</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231022095614</guid>
             <pubDate>Sun, 22 Oct 2023 04:11:24 GMT</pubDate>
             <content:encoded><![CDATA[애플 홈팟에서 유튜브 뮤직을 들을 수 있게 됐다. 21일(현지시간) 나인투파이브구글은 애플의 스마트 스피커 홈팟에서도 유튜브 뮤직으로 노래를 재생하도록 요청할 수 있다고 보도했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['SM시세 조종 의혹' 카카오 김범수 소환…주가는 4만원 밑으로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231020134150</link>
-            <guid>https://zdnet.co.kr/view/?no=20231020134150</guid>
-            <pubDate>Fri, 20 Oct 2023 07:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트 인수 과정에서 시세 조종 의혹을 수사하는 금융감독원이 카카오 창업자인 김범수 전 의장(현 미래이니셔티브센터장)을 소환 조사한다. 배재현 카카오 투자총괄 대표 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
