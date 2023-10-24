@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 08:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 09:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방심위, 화장품 충동구매 유발한 CJ온스타일 법정제재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024164432</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024164432</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[화장품을 판매하면서 충동구매를 유발하는 표현을 사용하고, 제품의 효능과 효과에 대해 오인케 한 CJ온스타일이 법정제재를 받을 위기에 놓였다. 24일 방송통신심의위원회 광고심의소...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위 사무총장에 이현주 전 KBS 대구방송총국장]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024165610</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231022114236</guid>
             <pubDate>Sun, 22 Oct 2023 05:09:43 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 20일 서울 종로구 SK서린빌딩에서 도이치텔레콤과 전세계 통신사들이 쉽고 빠르게 생성형 AI 모델을 개발할 수 있는 '통신사향 AI 거대언어모델(LLM)'을 공동 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT AI 풀스택, 글로벌 표준 최종 승인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231022113416</link>
-            <guid>https://zdnet.co.kr/view/?no=20231022113416</guid>
-            <pubDate>Sun, 22 Oct 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화 부문(ITU-T) SG11에서 자사가 제안한 AI 통합 패키지 'AI 풀스택의 구조와 연동 규격'이 ITU-T...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
