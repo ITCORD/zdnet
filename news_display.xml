@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 23:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 00:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍, AI로 기판 설계도 '전수검사'...불량 초기에 잡는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024080710</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024080710</guid>
+            <pubDate>Tue, 24 Oct 2023 00:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[LG이노텍은 기판 제품 설계도의 결함을 초기에 찾아내는 인공지능(AI) 기반 설계도 사전 분석 시스템을 도입했다고 24일 밝혔다. LG이노텍은 올해부터 무선주파수 시스템 인 패...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中, 美 제재로 범용 반도체 생산 주력...세계 3분의 1 차지]]></title>
             <link>https://zdnet.co.kr/view/?no=20231023152846</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231018134325</guid>
             <pubDate>Wed, 18 Oct 2023 06:14:41 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 일본 키오시아와 미국 웨스턴디지털 합병을 반대한다는 내용이 일본 매체를 통해 보도됐다. 18일 니혼게이자이신문(닛케이)과 요미우리신문은 키오시아와 웨스턴디지털이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, SPICE 모델 라인업 SiC·IGBT로 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018135243</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018135243</guid>
-            <pubDate>Wed, 18 Oct 2023 06:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[로옴 주식회사는 회로 시뮬레이터인 'LTspice'용 SPICE 모델의 라인업을 확충했다고 18일 밝혔다. SPICE 모델은 전자 회로의 시뮬레이션에 사용하는 소자의 동작 특성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
