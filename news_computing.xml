@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 04:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 05:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, ARM 기반 PC용 칩 개발…인텔 위협]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024132305</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024132305</guid>
+            <pubDate>Tue, 24 Oct 2023 05:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 칩 최강자인 엔비디아가 인텔이 주도하는 PC용 칩 시장에 도전한다. 로이터통신이 23일(현지시간) 익명의 소식통을 인용해 엔비디아가 영국 ARM 기반 PC용 반...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인프랩, 학습 플랫폼에 AI 자막·스크립트 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024123327</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024123327</guid>
+            <pubDate>Tue, 24 Oct 2023 05:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[인프랩이 자사 학습 플랫폼 '인프런'에 인공지능(AI)을 활용한 강의 자막과 스크립트를 제공한다고 24일 밝혔다. 해당 기능은 AI 음성 추출 기술을 이용해 영상의 음성에서 스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, AI서버 개발하나…"내년 관련예산 6조원 지출"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024084156</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231023171549</guid>
             <pubDate>Mon, 23 Oct 2023 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[롯데정보통신은 롯데그룹 고객센터 운영으로 축적한 고객경험과 자체 인공지능(AI) 기술력을 바탕으로 AI컨택센터(AICC) 서비스인 'AI 상담사'와 'AI 상담가이드'를 출시했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진앤현시큐리티-필라넷, 드론 사업 협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023164128</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023164128</guid>
-            <pubDate>Mon, 23 Oct 2023 08:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[진앤현시큐리티(대표 김병익)는 필라넷(대표 김상규, 박세화)과 업무 협약(MOU)을 체결하였다고 23일 밝혔다. 이번 업무 협약은 양사가 드론 사업 관련 상호 정보교환 및 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비, 생성 AI·3D 활용한 디자인 툴 대거 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023141605</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023141605</guid>
-            <pubDate>Mon, 23 Oct 2023 07:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[어도비가 생성형 인공지능(AI)과 3D를 활용한 디자인 제품과 새 기술 11가지를 공개했다. 어도비는 최근 미국 로스앤젤레스에서 열린 연례 쇼케이스 '어도비 맥스 스닉스'에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 04:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 05:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온세미, 부천 SiC 반도체 공장 완공...테슬라·현대차에 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024110751</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024110751</guid>
+            <pubDate>Tue, 24 Oct 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[미국 종합 반도체 기업 온세미가 경기도 부천시에 세계 최대 규모의 최첨단 실리콘 카바이드(SiC) 제조 시설을 완공하고 양산을 시작한다. 이를 통해 온세미는 기존 SiC 반도체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기 안병기 상무, 카메라모듈 기술로 '대통령 표창' 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024100923</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231019023145</guid>
             <pubDate>Thu, 19 Oct 2023 00:41:14 GMT</pubDate>
             <content:encoded><![CDATA[대만 폭스콘이 엔비디아와 인공지능(AI) 분야 협력을 강화한다. 18일 중국 언론 차이롄서는 협력사 관계자를 인용해 폭스콘의 모회사인 혼하이가 이미 엔비디아의 최신 AI 칩 '...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 구글 웨어 OS에 'RISC-V' 기반 웨어러블 플랫폼 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231018155844</link>
-            <guid>https://zdnet.co.kr/view/?no=20231018155844</guid>
-            <pubDate>Wed, 18 Oct 2023 08:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴테크날러지는 구글의 웨어 OS(Wear OS)에 탑재될 RISC-V 기반 웨어러블 솔루션을 개발하고 구글과의 오랜 협력을 강화한다고 18일 밝혔다. 양사의 협력 강화로 인해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
