@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 10:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 11:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년 '인천-서울' 광역급행버스 노선 4개 늘어난다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024200408</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024200408</guid>
+            <pubDate>Tue, 24 Oct 2023 11:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[내년 상반기부터 인천(검단·중구·남동구)에서 서울(여의도·구로·강남)을 오가는 광역급행 M버스 4개 노선이 신설된다. 국토교통부 대도시권광역교통위원회는 한국교통연구원의 타당성 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/24/3a6f63665f8af8f0881b92eabbbd8d1b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건국대 조쌍구 교수팀, 단백질 구조 3차원 예측모델로 펩타이드 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024193303</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024193303</guid>
+            <pubDate>Tue, 24 Oct 2023 11:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[건국대학교는 KU융합과학기술원 조쌍구 교수(줄기세포재생공학과) 연구팀이 인공지능(AI)을 기반으로 단백질의 3차원 구조를 예측하는 모델을 활용해 줄기세포 성장과 골관절염 치료 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/24/968f2a2f0b3519359a8cc9dc2faae24d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국형 주소, 4년 만에 ISO 국제표준 반영]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024184020</link>
             <guid>https://zdnet.co.kr/view/?no=20231024184020</guid>
             <pubDate>Tue, 24 Oct 2023 10:10:40 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 4년의 노력 끝에 국제표준화기구(ISO)에서 대한민국 주소 체계를 우수사례로 반영했다고 24일 밝혔다. ISO는 1947년 출범한 각국 표준 제정 단체들의 대표기구...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/24/d4842013fd6e819d1349413afb0bde0f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[종감 소환된 네이버·카카오 수장, 스타트업 '기술 탈취' 의혹 직접 답한다]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231024180604</guid>
             <pubDate>Tue, 24 Oct 2023 10:10:40 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 이어지는 국회 종합감사에서 네이버와 카카오 수장이 증인으로 소환돼 영세 스타트업 기술 탈취 의혹에 대해 집중 신문을 받을 예정이다. 최수연 네이버 대표는 26일 정무위...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/24/5da153d269a69f6d34a55b0c205ace37-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포스코DX, 3분기 영업익 964억...전년比 95% ↑]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231024170052</guid>
             <pubDate>Tue, 24 Oct 2023 08:13:40 GMT</pubDate>
             <content:encoded><![CDATA[지니언스(대표 이동범)는 조달 시장에서 2023년 3Q 누적 기준 86%의 엔드포인트 감지 및 대응(EDR) 점유율을 기록했다고 24일 밝혔다. 누적 고객 수는 약 160개 사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버·카카오 인물정보에 '안마사' 등록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231024162926</link>
-            <guid>https://zdnet.co.kr/view/?no=20231024162926</guid>
-            <pubDate>Tue, 24 Oct 2023 08:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[네이버와 카카오에서 제공하는 인물정보 서비스에 시각장애인 전문 일자리인 '안마사'가 새롭게 등록된다. 한국인터넷자율정책기구(KISO) 서비스운영위원회는 인물정보 직업목록에 안마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["실속없는 SW시장, 글로벌 진출이 정답"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231024152619</link>
-            <guid>https://zdnet.co.kr/view/?no=20231024152619</guid>
-            <pubDate>Tue, 24 Oct 2023 08:13:40 GMT</pubDate>
-            <content:encoded><![CDATA["지속되는 불황으로 국내 대다수 소프트웨어(SW)기업이 클라우드와 서비스형 소프트웨어(SaaS)로 몰리고 있다. 이로 인한 치열한 경쟁으로 시장 성장에도 불구하고 기업의 수익성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
