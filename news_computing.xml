@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 06:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 07:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 비서가 기업 데이터 분석 척척 해줍니다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024140941</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024140941</guid>
+            <pubDate>Tue, 24 Oct 2023 07:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 인공지능(AI)이 기업 데이터 분석을 도와주는 시대가 왔다. 사람이 필요한 데이터를 명령어만으로 빠르게 찾아주고, 어떻게 질문해야 유용한 답을 받을 수 있는지 추천도 해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, ARM 기반 PC용 칩 개발…인텔 위협]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024132305</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231023171911</guid>
             <pubDate>Mon, 23 Oct 2023 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[앤시스코리아(대표 문석환)는 삼성전자 파운드리 사업부가 삼성의 이기종 멀티-다이 패키징 기술 제품군에 대해 앤시스 레드혹 전력 무결성 및 열 검증 플랫폼을 도입했다고 23일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신, 고객센터 AI 상담 서비스 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023171549</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023171549</guid>
-            <pubDate>Mon, 23 Oct 2023 09:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[롯데정보통신은 롯데그룹 고객센터 운영으로 축적한 고객경험과 자체 인공지능(AI) 기술력을 바탕으로 AI컨택센터(AICC) 서비스인 'AI 상담사'와 'AI 상담가이드'를 출시했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
