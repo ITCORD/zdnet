@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 02:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔트룩스, 사이버다임에 '루시아' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025101347</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025101347</guid>
+            <pubDate>Wed, 25 Oct 2023 02:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[솔트룩스(대표 이경일)는 사이버다임(대표 김경채)의 문서중앙화 솔루션에 거대언어모델(LLM) '루시아'를 공급한다고 25일 밝혔다. 두 기업은 LLM을 적용한 문서 솔루션 사업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[웹케시그룹, 하반기 경력사원 수시채용]]></title>
             <link>https://zdnet.co.kr/view/?no=20231025095436</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231024132305</guid>
             <pubDate>Tue, 24 Oct 2023 05:09:48 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 칩 최강자인 엔비디아가 인텔이 주도하는 PC용 칩 시장에 도전한다. 로이터통신이 23일(현지시간) 익명의 소식통을 인용해 엔비디아가 영국 ARM 기반 PC용 반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인프랩, 학습 플랫폼에 AI 자막·스크립트 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231024123327</link>
-            <guid>https://zdnet.co.kr/view/?no=20231024123327</guid>
-            <pubDate>Tue, 24 Oct 2023 05:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[인프랩이 자사 학습 플랫폼 '인프런'에 인공지능(AI)을 활용한 강의 자막과 스크립트를 제공한다고 24일 밝혔다. 해당 기능은 AI 음성 추출 기술을 이용해 영상의 음성에서 스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
