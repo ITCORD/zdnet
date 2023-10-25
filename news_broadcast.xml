@@ -4,9 +4,57 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 23:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 00:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT스튜디오지니 시리즈 공모전 수상작 시상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025093831</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025093831</guid>
+            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[KT스튜디오지니가 '제2회 KT스튜디오지니 시리즈 공모전'의 시상식을 개최하고, 대상 1편과 우수상 2편 등 총 3편의 수상작을 선정했다고 25일 밝혔다. 공모전은 KT그룹 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LGU+, 양자내성암호 적용 산업용 USIM 상용화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025092946</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025092946</guid>
+            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 아이씨티케이홀딩스와 양자내성암호(PQC)와 물리적 복제 방지(PUF) 기술이 동시 적용된 산업용 'PQC PUF-USIM(퍼프유심)'을 상용화했다고 25일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LGU+, 오픈랜 공용 플랫폼 시험 검증 성공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025091927</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025091927</guid>
+            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 글로벌 플랫폼 제조사들과 국내 최초로 오픈랜 공용 플랫폼 시험 검증에 성공했다고 25일 밝혔다. 오픈랜은 기지국 등 무선 통신장비의 하드웨어와 소프트웨어를 분리해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방통위 방송대상 수상작, 유료방송에서 VOD 무료제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025091604</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025091604</guid>
+            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신위원회는 '2023 방송통신위원회 방송대상 수상작'을 시청자들이 무료로 시청할 수 있도록 홈초이스(케이블TV), IPTV 3사, KT 스카이라이프 등에 '방송대상 특별관...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메조미디어, 광고플랫폼 '타겟픽' 서비스 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025085029</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025085029</guid>
+            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[메조미디어가 광고 플랫폼 '타겟픽'과 '타겟픽 비디오' 서비스를 개시했다고 25일 밝혔다. 최근 리브랜딩을 마친 타겟픽과 타겟픽 비디오는 메조미디어가 자체 개발한 DSP 플랫폼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, 충청권에 UAM 띄운다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025084251</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025084251</guid>
+            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 세종, 대전, 충북, 충남을 아우르는 충청권 지자체와 UAM 사업 추진에 나선다. SK텔레콤, 한국공항공사, 한화시스템, 티맵모빌리티가 참여하는 'K-UAM 드림팀...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위, 화장품 충동구매 유발한 CJ온스타일 법정제재]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024164432</link>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231023105341</guid>
             <pubDate>Mon, 23 Oct 2023 02:18:29 GMT</pubDate>
             <content:encoded><![CDATA[대통령 직속 국민통합위원회, 보건복지부, 과학기술정보통신부는 23일 자살예방 상담 기능을 알기 쉬운 세 자리긴급번호 109로 통합해 운영한다고 밝혔다. 보건복지부와 과기정통부는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 부산서 엑스포 유치 이벤트 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023104650</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023104650</guid>
-            <pubDate>Mon, 23 Oct 2023 02:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 고객과 함께 2030 부산 세계박람회 유치를 응원하는 다양한 이벤트를 전개했다고 23일 밝혔다. LG유플러스는 2030 엑스포 개최지 발표를 앞두고 자사의 서빙로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 마스오토와 대형 트럭 AI 자율주행 맞손]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023104234</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023104234</guid>
-            <pubDate>Mon, 23 Oct 2023 01:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 트럭 자율주행 스타트업인 마스오토와 AI 대형트럭 자율주행 고도화 사업협력을 위한 업무협약을 체결했다고 23일 밝혔다. 마스오토(Mars Auto)는 화물 운송용 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 글로벌 전시회서 가상화 기반 인터넷 기술 소개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023095752</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023095752</guid>
-            <pubDate>Mon, 23 Oct 2023 01:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 프랑스 파리에서 열리는 '네트워크X 2023'에 참가해 가상화 기반 초고속인터넷 기술과 AI 기반 미디어 신기술을 선보인다고 23일 밝혔다. SK브로드밴드는 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 글로벌 전시회서 차세대 인터넷 솔루션 소개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023094719</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023094719</guid>
-            <pubDate>Mon, 23 Oct 2023 01:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 프랑스 파리에서 열리는 '네트워크X 2023' 전시회에 참가해 차세대 인터넷 솔루션을 소개한다고 밝혔다. KT는 파트너사와 공동 개발한 ▲지능형 관제 기반 초소형 OLT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK나이츠 개막전 만원관중 사로잡은 '버추얼 휴먼 농구단']]></title>
-            <link>https://zdnet.co.kr/view/?no=20231023093743</link>
-            <guid>https://zdnet.co.kr/view/?no=20231023093743</guid>
-            <pubDate>Mon, 23 Oct 2023 00:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난 22일 열린 SK나이츠 농구단의 홈 개막전에 디지털 휴먼이 경기장을 수놓았다. 경기 시작에 앞서 전희철 감독과 김선형, 오세근, 허일영 선수를 비롯한 선수단 22명이 디지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT-도이치텔레콤, 통신사향 특화 AI LLM 공동개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231022114236</link>
-            <guid>https://zdnet.co.kr/view/?no=20231022114236</guid>
-            <pubDate>Sun, 22 Oct 2023 05:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 20일 서울 종로구 SK서린빌딩에서 도이치텔레콤과 전세계 통신사들이 쉽고 빠르게 생성형 AI 모델을 개발할 수 있는 '통신사향 AI 거대언어모델(LLM)'을 공동 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
