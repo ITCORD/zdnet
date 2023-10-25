@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 12:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 13:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수도권매립지공사, 통합계측관리로 매립장 안정 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025220406</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025220406</guid>
+            <pubDate>Wed, 25 Oct 2023 13:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[수도권매립지관리공사는 매립장 통합계측관리로 원지반 침하, 폐기물층 단별 침하, 침출수 수위 등을 주기적으로 관리하며 매립장을 안정적으로 운영하고 있다고 25일 밝혔다. 수도권매...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/25/2dfcf1cbb598f1155db43667cd2a6b84-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빗썸, 혁신 스타트업에 최대 300억 투자한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231025195127</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231025194738</guid>
             <pubDate>Wed, 25 Oct 2023 11:08:06 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(이하 개인정보위)는 SNS상 유명인 사칭 광고와 같은 온라인 불법 게시물에 대해 관련 사업자에 보호조치 강화를 요청하는 등 개인정보 피해방지를 위해 적극 대응...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/03/04/jtwer_yx553PXjVRZqsx-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[업비트, '폴리곤' 스테이킹 지원]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231025165938</guid>
             <pubDate>Wed, 25 Oct 2023 08:13:14 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이가 3분기 영업손실 6천621억원을 기록하며 지난해 2분기부터 6분기 연속 적자를 기록했다. 다만 적자 규모는 이전 보다 축소되면서 실적 개선에 대한 긍정적인 전망...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리카드, 2억 달러 규모 해외 ABS 발행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231025160203</link>
-            <guid>https://zdnet.co.kr/view/?no=20231025160203</guid>
-            <pubDate>Wed, 25 Oct 2023 08:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[우리카드는 해외 자산유동화증권(ABS) 2억 달러(약 2천710억원)를 발행했다고 25일 밝혔다. 이 해외 ABS는 사회적채권으로 발행되었으며 조달된 자금은 영세·중소상공인의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
