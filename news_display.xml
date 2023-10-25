@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 06:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 07:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[컨콜] LG디스플레이, 전장 수주잔고 20조원..2025년 30% 성장 예상]]></title>
+            <title><![CDATA[SK하이닉스, 현존 초고속 모바일용 D램 상용화...퀄컴과 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025153609</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025153609</guid>
+            <pubDate>Wed, 25 Oct 2023 07:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 현존 모바일용 D램 최고속도인 9.6Gbps(초당 9.6기가비트)를 구현한 'LPDDR5T'의 상용화에 나섰다. SK하이닉스는 LPDDR5T를 퀄컴의 모바일 애플...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[컨콜] LG디스플레이, 차량용 패널 수주잔고 20조원 달성]]></title>
             <link>https://zdnet.co.kr/view/?no=20231025145806</link>
             <guid>https://zdnet.co.kr/view/?no=20231025145806</guid>
             <pubDate>Wed, 25 Oct 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이가 25일 3분기 실적발표에서 올해 전체 매출에서 전장(오토)용 디스플레이 비중이 10%를 차지하고, 전장용 패널 수주 잔고는 20조원이라고 밝혔다. LG디스플레이...]]></content:encoded>
+            <content:encoded><![CDATA[LG디스플레이가 25일 3분기 실적발표에서 올해 전체 매출에서 차량용(전장) 디스플레이 비중이 10%를 차지하고, 전장용 패널 수주 잔고는 20조원이라고 밝혔다. LG디스플레이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231024140115</guid>
             <pubDate>Tue, 24 Oct 2023 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 미국 로스엔젤레스 산타 모니카(Santa Monica) 해변에서 '삼성OLED' 알리기에 나섰다. 산타 모니카 해변은 넓은 모래 사장과 아름다운 바다로 유명한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온세미, 부천 SiC 반도체 공장 완공..."테슬라·현대차에 공급"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231024110751</link>
-            <guid>https://zdnet.co.kr/view/?no=20231024110751</guid>
-            <pubDate>Tue, 24 Oct 2023 05:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[미국 종합 반도체 기업 온세미가 경기도 부천시에 세계 최대 규모의 최첨단 실리콘 카바이드(SiC) 제조 시설을 완공하고 양산을 시작한다. 이를 통해 온세미는 기존 SiC 반도체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

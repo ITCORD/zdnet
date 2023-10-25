@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 06:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 07:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 기업은 'AI 허언증' 어떻게 줄일까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231025145231</link>
+            <guid>https://zdnet.co.kr/view/?no=20231025145231</guid>
+            <pubDate>Wed, 25 Oct 2023 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[국내 기업이 생성형 인공지능(AI)에서 발생하는 환각 현상을 줄이기 위해 꾸준히 노력하고 있다. 환각 현상은 잘못된 정보를 사실인 것처럼 그럴싸하게 생성하는 현상이다. 생성 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비트코인 촉발 '상승장' 알트코인도 탈까]]></title>
             <link>https://zdnet.co.kr/view/?no=20231024164056</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231024161817</guid>
             <pubDate>Tue, 24 Oct 2023 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA[모노커뮤니케이션즈(대표 이형수)는 자전거 제조업체에서 텔톡(TelTok) 서비스를 도입해 본사와 대리점 간 소통 장벽을 낮춰 업무효율을 높였다고 24일 밝혔다 제조사는 유선전화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 생성형 AI로 사내 유용한 데이터 즉시 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231024161714</link>
-            <guid>https://zdnet.co.kr/view/?no=20231024161714</guid>
-            <pubDate>Tue, 24 Oct 2023 08:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[LG CNS가 생성형 인공지능(AI)으로 기업 내부의 유용한 지식과 데이터를 찾는 'AI를 활용한 지식관리(KM) 혁신(Assetization with AI)' 서비스를 개시했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
