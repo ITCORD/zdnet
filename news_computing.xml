@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 04:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비트코인 촉발 '상승장' 알트코인도 탈까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231024164056</link>
+            <guid>https://zdnet.co.kr/view/?no=20231024164056</guid>
+            <pubDate>Wed, 25 Oct 2023 05:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[비트코인의 현물 상장지수펀드(ETF) 출시가 임박했다는 기대감으로 촉발된 시세 상승이 알트코인 전반으로 확산되는 모양새다. 가상자산 가격 집계 사이트 코인마켓캡에 따르면 비트코...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업스테이지, '다큐먼트 AI' 문서 인식률 95% 기록]]></title>
             <link>https://zdnet.co.kr/view/?no=20231025103907</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231024161714</guid>
             <pubDate>Tue, 24 Oct 2023 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA[LG CNS가 생성형 인공지능(AI)으로 기업 내부의 유용한 지식과 데이터를 찾는 'AI를 활용한 지식관리(KM) 혁신(Assetization with AI)' 서비스를 개시했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 비서가 기업 데이터 분석 척척 해줍니다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231024140941</link>
-            <guid>https://zdnet.co.kr/view/?no=20231024140941</guid>
-            <pubDate>Tue, 24 Oct 2023 07:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI)이 기업 데이터 분석을 도와주는 시대가 왔다. 사람이 필요한 데이터를 명령어만으로 빠르게 찾아주고, 어떻게 질문해야 유용한 답을 받을 수 있는지 추천도 해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
