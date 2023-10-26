@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 06:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑셈, 日에 클라우드기반 DB 통합 관리 제품 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231026160622</link>
+            <guid>https://zdnet.co.kr/view/?no=20231026160622</guid>
+            <pubDate>Thu, 26 Oct 2023 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[엑셈(대표 조종암, 고평석)은 일본 시장에 클라우드 기반 데이터베이스 통합성능관리 솔루션 '맥스게이지 포 클라우드DB (MaxGauge for CloudDB, 이하 MFC)'를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시스코, 웹엑스 AI 전략과 AI 어시스턴트 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231026143557</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231026102324</guid>
             <pubDate>Thu, 26 Oct 2023 01:42:36 GMT</pubDate>
             <content:encoded><![CDATA[NHN클라우드(백도민, 김동훈)는 클라우드 네이티브 오픈소스 기술 재단 '오픈인프라'의 아시아 지역 지부인 '오픈인프라 아시아' 창립 멤버로 참여한다고 26일 밝혔다. 오픈인프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["생성 AI가 암 연구에 획기적 발전 일으킨다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231026093914</link>
-            <guid>https://zdnet.co.kr/view/?no=20231026093914</guid>
-            <pubDate>Thu, 26 Oct 2023 01:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 선구자 다프네 콜러 스탠포드대학교 교수가 생성 AI로 암 연구에 혁신적 발전이 일어날 것이라고 전망했다. 25일(현지시간) 미국 지디넷에 따르면, 다프네 콜러 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

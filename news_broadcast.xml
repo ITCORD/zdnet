@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 06:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송통신조합, '스마트팜 ICT기자재 단체표준안 공청회' 열어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231026155609</link>
+            <guid>https://zdnet.co.kr/view/?no=20231026155609</guid>
+            <pubDate>Thu, 26 Oct 2023 07:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 스마트농업 정책을 소개하고, 각계 전문가들이 스마트팜 ICT 기자재 표준화를 위한 의견을 주고 받는 자리가 마련됐다. 한국방송통신산업협동조합(이사장 주대철, 이하 방송통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, IDC 평촌2센터 준공...서버 20만대 수용]]></title>
             <link>https://zdnet.co.kr/view/?no=20231026093831</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231025092946</guid>
             <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 아이씨티케이홀딩스와 양자내성암호(PQC)와 물리적 복제 방지(PUF) 기술이 동시 적용된 산업용 'PQC PUF-USIM(퍼프유심)'을 상용화했다고 25일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 오픈랜 공용 플랫폼 시험 검증 성공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231025091927</link>
-            <guid>https://zdnet.co.kr/view/?no=20231025091927</guid>
-            <pubDate>Wed, 25 Oct 2023 00:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 글로벌 플랫폼 제조사들과 국내 최초로 오픈랜 공용 플랫폼 시험 검증에 성공했다고 25일 밝혔다. 오픈랜은 기지국 등 무선 통신장비의 하드웨어와 소프트웨어를 분리해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
