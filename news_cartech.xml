@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 23:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 00:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, '모델3 스포츠' 출시?…차량 내부 사진 유출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231027085205</link>
+            <guid>https://zdnet.co.kr/view/?no=20231027085205</guid>
+            <pubDate>Fri, 27 Oct 2023 00:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 스포티한 인테리어를 갖춘 '모델3' 스포츠 버전을 계획 중이라고 자동차 매체 일렉트렉이 25일(현지시간) 보도했다. 테슬라 코드를 분석해 신기능을 찾아내는 것으로 유명...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차, 3분기 역대최대 영업익 3.8조원...친환경차 전략 '주효']]></title>
             <link>https://zdnet.co.kr/view/?no=20231026151207</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231019124047</guid>
             <pubDate>Thu, 19 Oct 2023 04:12:34 GMT</pubDate>
             <content:encoded><![CDATA[렉서스코리아가 수소 엔진을 탑재한 오프로드 모델인 'ROV 콘셉트 2'를 잠실 롯데월드몰 소재 렉서스 복합문화공간 커넥트투에서 오늘부터 다음달 19일까지 약 한 달간 특별 전시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차·기아, 미래모빌리티엑스포서 미래비전 공유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231019121921</link>
-            <guid>https://zdnet.co.kr/view/?no=20231019121921</guid>
-            <pubDate>Thu, 19 Oct 2023 04:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차·기아가 19일부터 21일까지 대구 엑스코(EXCO)에서 열리는 '2023 대한민국 미래모빌리티엑스포'(DIFA)에서 대표 친환경차와 차세대 모빌리티 기술을 선보인다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
