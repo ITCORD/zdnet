@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 08:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 연내 KT향 40만원대 스마트폰 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231027163058</link>
+            <guid>https://zdnet.co.kr/view/?no=20231027163058</guid>
+            <pubDate>Fri, 27 Oct 2023 08:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 연내 KT향으로 중저가 스마트폰을 선보인다. 강봉구 삼성전자 부사장은 27일 국회 과학기술정보방송통신위원회 국정감사에 참고인으로 출석해 “연내 KT와 함께 40만원대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이동관 위원장 "마약사범 방송출연 규정 검토하겠다”]]></title>
             <link>https://zdnet.co.kr/view/?no=20231026175211</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231025155413</guid>
             <pubDate>Wed, 25 Oct 2023 07:09:32 GMT</pubDate>
             <content:encoded><![CDATA[케이블TV 서경방송이 온라인 미디어 플랫폼 '투데이서경'을 선보인다. 서경방송은 기존 TV 시청자 뿐만 아니라 다양한 미디어 채널을 이용하는 더 폭넓은 지역민들의 정보 접근성과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 신뢰성 검증, 11월부터 민간자율로 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231025152738</link>
-            <guid>https://zdnet.co.kr/view/?no=20231025152738</guid>
-            <pubDate>Wed, 25 Oct 2023 07:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 신뢰 확보를 위해 민간 자율 형태의 신뢰성 검증과 인증을 11월부터 추진한다. 과학기술정보통신부는 25일 LG사이언스파크에서 제4차 AI최고위전략대화를 열고 안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
