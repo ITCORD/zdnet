@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 23:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 00:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, 다음 주 새 맥북 프로·아이맥·USB-C 액세서리 공개”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231028074739</link>
+            <guid>https://zdnet.co.kr/view/?no=20231028074739</guid>
+            <pubDate>Sat, 28 Oct 2023 00:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[다음 주 열리는 애플 신제품 행사에서 공개될 제품에 대한 윤곽이 나왔다. 블룸버그 통신은 27일(이하 현지시간) 파워온 뉴스레터를 통해 이번 행사에서 발표될 제품을 전망해 보도...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/15/8fe78f89fb5fdbf9bdde82256e23f902-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["워치OS 10.1 업데이트 후 과열·배터리 방전 ”]]></title>
             <link>https://zdnet.co.kr/view/?no=20231027202054</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231027204134</guid>
             <pubDate>Fri, 27 Oct 2023 22:08:56 GMT</pubDate>
             <content:encoded><![CDATA[애플워치의 혈액 산소 측정 기술 특허를 둘러싼 법적 분쟁에서 의료기술 기업 '마시모'(Masimo)가 애플에 승소했다고 맥루머스 등 외신들이 27일(이하 현지시간) 보도했다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/27/19207ee1f139cc9a136af7f3bd8d186d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[시프트업 '승리의 여신: 니케'..."1주년 맞아 캐릭터 획득 기회 127회 제공"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231027173610</guid>
             <pubDate>Fri, 27 Oct 2023 09:09:20 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차와 기아가 올해 3분기만에 영업이익 20조원을 돌파했다. 두 회사가 영업이익 20조원을 돌파한 것은 지난해 합산 최고 영업이익 17조원을 훨씬 웃도는 성적을 내놓은 후...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["양면 2가지 탑퍼"…코웨이, '비렉스 더블 사이드 매트리스' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231027174333</link>
-            <guid>https://zdnet.co.kr/view/?no=20231027174333</guid>
-            <pubDate>Fri, 27 Oct 2023 09:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[종합 가전기업 코웨이가 취향에 따라 착와감(누웠을 때 느낌)을 변경할 수 있는 '비렉스 더블 사이드 매트리스'를 출시했다고 27일 밝혔다. 비렉스 더블 사이드 매트리스는 사용자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
