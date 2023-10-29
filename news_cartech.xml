@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 22:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 23:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 자동차 기업들 "반도체, 중국산으로 자체 개발"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231029235558</link>
+            <guid>https://zdnet.co.kr/view/?no=20231029235558</guid>
+            <pubDate>Sun, 29 Oct 2023 23:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[중국 자동차 기업들의 차량용 반도체 자체 개발 조류가 확산하고 있다. 28일 중국 언론 지웨이왕에 따르면, 반도체 수급 문제로 인한 '반도체 파동'을 겪은 중국 자동차 기업들이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["혼다 전동화 시작을 역사적 모델 '프렐류드'로 선택"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231029162225</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231020084027</guid>
             <pubDate>Fri, 20 Oct 2023 02:19:41 GMT</pubDate>
             <content:encoded><![CDATA[토요타와 자사 럭셔리 브랜드 렉서스가 전기차에 테슬라 충전 방식을 사용하기로 했다. 19일(현지시간) 토요타는 오는 2025년 이후 출시할 토요타와 렉서스 전기차에 북미 충전 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차·기아, 중동서 토요타와 대결…시장점유율 20% 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231020101105</link>
-            <guid>https://zdnet.co.kr/view/?no=20231020101105</guid>
-            <pubDate>Fri, 20 Oct 2023 01:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차·기아가 중동에서 2030년까지 55만대 판매 목표를 달성할 계획이다. 현대차·기아는 2030년을 전후로 산업 수요 300만대 돌파가 예상되는 중동 시장에서 현대차가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
