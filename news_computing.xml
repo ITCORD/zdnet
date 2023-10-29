@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 23:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 00:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩, 급여 명세서 위장 악성코드 유포 주의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231029022632</link>
+            <guid>https://zdnet.co.kr/view/?no=20231029022632</guid>
+            <pubDate>Sun, 29 Oct 2023 00:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[급여명세서로 위장한 악성코드가 메일을 통해 유포되는 정황이 발견돼 사용자의 주의가 요구된다. 최근 안랩시큐리티대응센터(ASEC)는 급여명세서로 위장한 원격 제어 악성코드 렘코스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SW역량 검정 '톱싯' 20회 시행···6556명 응시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231028173603</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231026174536</guid>
             <pubDate>Thu, 26 Oct 2023 09:10:09 GMT</pubDate>
             <content:encoded><![CDATA[엔키가 '2023년도 사이버보안 챌린지'에서 우승을 차지했다고 26일 밝혔다. 과학기술정보통신부 주최하고 정보통신기획평가원 주관하는 사이버보안 챌린지는 2020년부터 매년 열리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웨카 CEO "데이터 관리 환경 완전히 통합했다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231026163124</link>
-            <guid>https://zdnet.co.kr/view/?no=20231026163124</guid>
-            <pubDate>Thu, 26 Oct 2023 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA["웨카는 기존보다 더 빠르고 저렴한 데이터 스토리지 환경을 제공한다. 웨카 솔루션 하나로 클라우드와 온프레미스에서 데이터 통합 관리가 가능하다. 고객들은 추가 비용 없이 더 빠...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
