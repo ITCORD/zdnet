@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 06:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 07:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["CXL 3.0 IP 세계 최초 개발...메타·AMD 러브콜 받았죠"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231030085421</link>
+            <guid>https://zdnet.co.kr/view/?no=20231030085421</guid>
+            <pubDate>Mon, 30 Oct 2023 07:10:28 GMT</pubDate>
+            <content:encoded><![CDATA["파네시아는 CXL 생태계를 확장하는 데 핵심적인 역할을 하겠습니다." 국내 반도체 IP 스타트업 파네시아가 데이터센터 시장에서 차세대 기술로 떠오른 CXL(Compute Ex...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴, 웨어러블용 칩도 RISC-V로 간다...Arm 영향력 축소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231030150546</link>
+            <guid>https://zdnet.co.kr/view/?no=20231030150546</guid>
+            <pubDate>Mon, 30 Oct 2023 07:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 저전력·고효율 반도체 지적재산권(IP) 분야에서 절대적인 위치에 있는 영국 Arm의 영향권에서 벗어나기 위해 PC·웨어러블·자동차용 칩에서 '비(非) Arm' 시스템반도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유블럭스, 초소형 싱글모드 LTE 'Cat 1bis' IoT 모듈 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231030100620</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231026151918</guid>
             <pubDate>Thu, 26 Oct 2023 08:13:03 GMT</pubDate>
             <content:encoded><![CDATA["퀄컴은 최적의 스냅드래곤 제품 양산을 위해 앞으로도 편견 없이 모든 파운드리 기업들과 협력할 것이다. 삼성전자 역시 우리와 오랜 시간 협력해 왔으며, 매우 강력한 파트너다."...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마우저 "내년 물류 창고 두 배 확장...시간당 주문 처리량 3배 향상"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231026141128</link>
-            <guid>https://zdnet.co.kr/view/?no=20231026141128</guid>
-            <pubDate>Thu, 26 Oct 2023 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA["새 제품을 설계해야 하는 엔지니어에게 다양한 부품이 필요하다. 마우저 일렉트로닉스는 100만개 이상의 부품 재고를 갖추고 있으며 필요한 부품을 한 곳에서 모두 살 수 있다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[키파운드리 이동재 대표, 반도체의 날 '산업포장' 수훈]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231026154217</link>
-            <guid>https://zdnet.co.kr/view/?no=20231026154217</guid>
-            <pubDate>Thu, 26 Oct 2023 07:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[이동재 파운드리 대표가 26일 '2023년 제16회 반도체의 날'을 맞아 산업포장을 수훈했다고 밝혔다. 산업포장은 반도체 산업 경쟁력 강화에 크게 이바지한 유공자 및 공로자에게...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
