@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 12:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 13:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴 '스냅드래곤 X 엘리트', 애플 M2도 넘보는 성능 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231030114410</link>
+            <guid>https://zdnet.co.kr/view/?no=20231030114410</guid>
+            <pubDate>Mon, 30 Oct 2023 13:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴의 차세대 모바일 컴퓨팅 프로세서 '스냅드래곤 X 엘리트'가 뛰어난 벤치마크 결과를 입증했다. 유사한 테스트 환경에서 애플 'M2' 칩 대비 CPU 성능이 전반적으로 높은 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/30/966ce4ffb14b9f8433080734f0b3ceac-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내·외 소화기 전문가 한 자리에…'KDDW 2023' 내달 16일 개막]]></title>
             <link>https://zdnet.co.kr/view/?no=20231030183629</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231030173605</guid>
             <pubDate>Mon, 30 Oct 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 30일 민간 전문가, 관계부처와 함께 '인공지능(AI) 프라이버시 민·관 정책협의회' 출범식을 개최한다고 밝혔다. 민·관 협의회는 AI 편익과 위험성을 고려...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/30/a99b15ded5f1250e92eb0b74afec170e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스틸리언, 글로벌 해킹대회서 감시장비취약점 발견]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231030162946</guid>
             <pubDate>Mon, 30 Oct 2023 08:12:45 GMT</pubDate>
             <content:encoded><![CDATA[친환경 음식물처리기 브랜드 스마트카라가 30일 네이버 블루밍데이즈 쇼핑라이브서 특별 할인 방송을 진행한다고 밝혔다. 스마트카라는 방송에서 '스마트카라 400 프로'와 대용량 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["지뢰 찾고 순찰까지"…로봇, 방위·치안으로 영역 확장中]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030092235</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030092235</guid>
-            <pubDate>Mon, 30 Oct 2023 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[로봇이 방위·치안 산업으로 영역을 확장하고 있다. 일상 속 치안을 지키는 업무부터 극한 위기 상황에서 지뢰를 탐지하거나 인명 피해를 예방하는 등 관련 연구와 시도가 활발하다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
