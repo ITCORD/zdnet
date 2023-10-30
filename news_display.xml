@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 00:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 01:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, MS '애저 IoT 허브' 연결성 높인 소프트웨어 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231030094808</link>
+            <guid>https://zdnet.co.kr/view/?no=20231030094808</guid>
+            <pubDate>Mon, 30 Oct 2023 01:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 최신 고성능 STM32H5 마이크로컨트롤러(MCU)를 이용해 구현된 IoT 기기를 마이크로소프트 '애저 IoT 허브'에 간편하게 연결하는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['BMW i7' 올라탄 퀄컴 스냅드래곤…운전자 안전·즐거움 책임진다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231029135236</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231026132713</guid>
             <pubDate>Thu, 26 Oct 2023 05:09:47 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스는 올해 3분기 연결기준 영업손실 1조7천919억원을 기록하며 4개 분기 연속 적자를 지속했다. 다만 3분기 적자 규모가 올해 상반기(1분기 3조4천23억원, 2분기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["배터리 없이 카드 동적검증"…ST, 일립스에 마이크로컨트롤러 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231026120442</link>
-            <guid>https://zdnet.co.kr/view/?no=20231026120442</guid>
-            <pubDate>Thu, 26 Oct 2023 04:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(ST)는 카드 결제 보안을 강화하는 핀테크 혁신 기업인 일립스 월드에 에너지 하베스팅(Energy-Harvesting) 보안 마이크로컨트롤러를 공급한다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
