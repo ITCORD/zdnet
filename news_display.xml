@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 자동차 시장 겨냥한 '듀얼-인라인 SiC 전력 모듈' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031155849</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031155849</guid>
+            <pubDate>Tue, 31 Oct 2023 07:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)가 자동차 시장을 겨냥한 SiC(실리콘 카바이드) 전력 모듈 'ACEPACK DMT-32'를 출시한다고 밝혔다. 이 제품은 온보드 충전기(On...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美 웨스턴디지털, 키오시아와 합병 중단에 '낸드 사업 분할' 결정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031144735</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031144735</guid>
+            <pubDate>Tue, 31 Oct 2023 07:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국 웨스턴디지털(WD)이 일본 키옥시아와 합병 논의가 중단되자, 공급과잉 문제로 어려움을 겪고 있는 낸드플래시 사업을 분사하기로 결정했다. 30일(현지시간) 로이터통신에 따르...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 내년 반도체 투자 전략도 '선택과 집중']]></title>
             <link>https://zdnet.co.kr/view/?no=20231031143148</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231030150546</guid>
             <pubDate>Mon, 30 Oct 2023 07:10:28 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴이 저전력·고효율 반도체 지적재산권(IP) 분야에서 절대적인 위치에 있는 영국 Arm의 영향권에서 벗어나기 위해 PC·웨어러블·자동차용 칩에서 '비(非) Arm' 시스템반도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유블럭스, 초소형 싱글모드 LTE 'Cat 1bis' IoT 모듈 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030100620</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030100620</guid>
-            <pubDate>Mon, 30 Oct 2023 05:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[유블럭스는 16x16mm 크기의 초소형 LTE Cat 1bis IoT 모듈 'LEXI-R10'을 출시한다고 30일 밝혔다. 싱글모드 LTE 전용 모듈로 설계된 LEXI-R10은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, MS '애저 IoT 허브' 연결성 높인 소프트웨어 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030094808</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030094808</guid>
-            <pubDate>Mon, 30 Oct 2023 01:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 최신 고성능 STM32H5 마이크로컨트롤러(MCU)를 이용해 구현된 IoT 기기를 마이크로소프트 '애저 IoT 허브'에 간편하게 연결하는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
