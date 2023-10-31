@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 01:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 02:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 초거대AI '믿음' 상용화...AI풀스택 인프라 패키지 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031103316</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031103316</guid>
+            <pubDate>Tue, 31 Oct 2023 02:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 그동안 개발해온 초거대 AI '믿음(Mi:dm)' 상용화에 나섰다. 경량 모델부터 초대형 모델까지 4종을 출시하고, AI 풀스택을 통해 KT클라우드와 기업전용 AI 클라...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 양자센싱 시장 진출...부산항만 보안 관제 실증]]></title>
             <link>https://zdnet.co.kr/view/?no=20231031092918</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231026175211</guid>
             <pubDate>Thu, 26 Oct 2023 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[이동관 방송통신위원회 위원장이 최근 논란이 일고 있는 마약 사범 문제와 관련, 방송 출연에 대해 “KBS, MBC 등 방송사 내부에 자체 출연규정을 따르고 있는데, 일반화할 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[류희림 방심위원장, 직권남용 혐의 고발당해]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231026163027</link>
-            <guid>https://zdnet.co.kr/view/?no=20231026163027</guid>
-            <pubDate>Thu, 26 Oct 2023 09:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[언론단체들이 류희림 방송통신심의위원회 위원장을 직권남용 혐의로 26일 고발했다. 전국언론노동조합, 민주언론시민연합, 문화연대, 새언론포럼 등은 뉴스타파 허위 인터뷰 의혹을 심의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
