@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 07:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB하이텍, 3분기 영업이익 503억원 전년比 77% 감소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031164014</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031164014</guid>
+            <pubDate>Tue, 31 Oct 2023 08:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[DB하이텍이 올해 3분기 연결기준 영업이익이 503억원으로 전년 동기 보다 77.1% 감소, 지난 2분기 보다 44% 감소했다고 31일 밝혔다. 글로벌 경기침체에 따른 반도체 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[기고] ADAS용 도메인 컨트롤러 위한 '다중 카메라' 비전 인식 구현하기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231022212935</link>
+            <guid>https://zdnet.co.kr/view/?no=20231022212935</guid>
+            <pubDate>Tue, 31 Oct 2023 08:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[동네에서 차를 운전할 때, 혹은 아이들이 걷거나 자전거를 타는 것을 볼 때 우리는 안전의 중요성을 다시 한번 상기한다. 미국 도로교통안전국(NHTSA)의 2021년 연구에 따르...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 반도체 산학연구과제 우수발명포상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031154307</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031154307</guid>
+            <pubDate>Tue, 31 Oct 2023 08:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 이천 본사에서 제11회 '산학연구과제 우수발명 포상 시상식'을 열었다고 31일 밝혔다. 이날 행사에는 수상자 5명과 차선용 SK하이닉스 부사장(미래기술연구원담당)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ST, 자동차 시장 겨냥한 '듀얼-인라인 SiC 전력 모듈' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231031155849</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231030114410</guid>
             <pubDate>Mon, 30 Oct 2023 13:13:58 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴의 차세대 모바일 컴퓨팅 프로세서 '스냅드래곤 X 엘리트'가 뛰어난 벤치마크 결과를 입증했다. 유사한 테스트 환경에서 애플 'M2' 칩 대비 CPU 성능이 전반적으로 높은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 생산성 격려금 기준 변경...적자여도 최대 50% 지급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030153221</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030153221</guid>
-            <pubDate>Mon, 30 Oct 2023 08:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스 노사가 생산성 격려금(PI)을 생산량 목표 달성시 영업이익률 수준에 따라 차등 지급하는 방식으로 변경한다. 30일 업계에 따르면 SK하이닉스 노조는 이날 설명회를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["CXL 3.0 IP 세계 최초 개발...메타·AMD 러브콜 받았죠"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030085421</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030085421</guid>
-            <pubDate>Mon, 30 Oct 2023 07:10:28 GMT</pubDate>
-            <content:encoded><![CDATA["파네시아는 CXL 생태계를 확장하는 데 핵심적인 역할을 하겠습니다." 국내 반도체 IP 스타트업 파네시아가 데이터센터 시장에서 차세대 기술로 떠오른 CXL(Compute Ex...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 웨어러블용 칩도 RISC-V로 간다...Arm 영향력 축소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030150546</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030150546</guid>
-            <pubDate>Mon, 30 Oct 2023 07:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴이 저전력·고효율 반도체 지적재산권(IP) 분야에서 절대적인 위치에 있는 영국 Arm의 영향권에서 벗어나기 위해 PC·웨어러블·자동차용 칩에서 '비(非) Arm' 시스템반도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
