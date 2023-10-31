@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 02:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 03:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 보안 전제로 '가명정보' 활용 부담 던다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031111919</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031111919</guid>
+            <pubDate>Tue, 31 Oct 2023 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회는 '개인정보 안심구역' 시범운영기관 지정 공모를 시작한다고 31일 밝혔다. 개인정보 안심구역은 안전한 대상이나 영역이 없다는 원칙인 '제로트러스트' 보안 모델...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어도비,  '어도비 젠스튜디오' 업데이트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031100339</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031100339</guid>
+            <pubDate>Tue, 31 Oct 2023 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[어도비가 '어도비 젠스튜디오'에 새로운 기능을 추가했다고 31일 밝혔다. 앞으로 기업은 젠스튜디오를 통해 모든 채널에서 생성형 인공지능(AI)을 활용한 아이디어 구상부터 콘텐츠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[플리토-행안부, 외국어 번역 표준 확산 나선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031104742</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031104742</guid>
+            <pubDate>Tue, 31 Oct 2023 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[플리토(대표 이정수)가 행정안전부와 공공표지판 외국어 번역 표준을 통해 인공지능(AI) 학습 및 서비스 개선에 나선다고 31일 밝혔다. 그동안 행안부는 외국인도 쉽게 알 수 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[G7, AI 윤리대책 마련 위해 한자리 모인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231031003151</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231030162555</guid>
             <pubDate>Mon, 30 Oct 2023 08:13:02 GMT</pubDate>
             <content:encoded><![CDATA[포티넷 코리아(조원균 대표)는 캠퍼스 스위치 포티스위치 600, 포티스위치 2000을 발표했다고 30일 밝혔다. 이 제품은 고성능, 임베디드 인텔리전스를 탑재해 포티넷의 AI옵...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국가인재경영연구원, 국가 핵심인재 양성 방안 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030161441</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030161441</guid>
-            <pubDate>Mon, 30 Oct 2023 08:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[국가인재경영연구원은 2023년 '제1차 정책세미나'를 열고 '국가 5대 핵심인재는 어떻게 만들어져야 하는가'를 주제로 정책 세미나를 진행했다고 30일 밝혔다. 이번 세미나는 미...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한전KDN, 2023 에너지분야 실전형 사이버공격 방어대회 1위 쾌거]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030161344</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030161344</guid>
-            <pubDate>Mon, 30 Oct 2023 08:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[한전KDN은 최근 한국전력공사에서 열린 '제3회 실전형 사이버공격 방어훈련(ELECCON 2023)' 대회에서 종합 1위를 차지했다고 30일 밝혔다. 한국전력과 국가정보원이 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[래블업 "20% 수준 GPU 효율, 90%로 끌어올린다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030152133</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030152133</guid>
-            <pubDate>Mon, 30 Oct 2023 08:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[“대규모 인공지능(AI) 개발 프로젝트는 비효율적인 구조로 인해 그래픽카드(GPU) 효율이 20~30% 수준에 머무는 경우가 많다. 백엔드.AI는 프로세스 최적화를 통해 90%...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
