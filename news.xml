@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 03:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 04:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 맥북프로서 7년만에 터치바 완전 퇴출...M2 13형 '단종']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031114558</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031114558</guid>
+            <pubDate>Tue, 31 Oct 2023 04:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 2016년 10월 USB-C 맥북프로 출시와 함께 공개한 OLED 디스플레이 내장 멀티터치 입력장치, '터치바'를 첫 도입 이후 7년만에 완전 퇴출했다. 애플은 2016...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/31/7a6b1cf2ecc07aaa147e611dc3ffab55-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천안시, 독립기념관 개관 36년 만에 야간 개장]]></title>
             <link>https://zdnet.co.kr/view/?no=20231031120729</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231031115613</guid>
             <pubDate>Tue, 31 Oct 2023 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 31일 3분기 실적발표 컨퍼런스콜에서 차세대 낸드인 V9의 기술력 및 원가 경쟁력을 적극 확보하겠다고 밝혔다. 현재 삼성전자는 176단 V7 낸드에서 236단 V8 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/27/196deb2bffa7cbd9cf9ecf6d9c3ef3d5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[컨콜] 삼성 "노트북·태블릿 등 폴더블 출시 가능성 열려있어"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231031111837</guid>
             <pubDate>Tue, 31 Oct 2023 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 일부 메모리 제품에 대한 감산을 지속하지만 1a나노, 1b나노 D램, V7 낸드 등 선단 공정에 대한 투자는 지속한다는 계획을 밝혔다. 특히 낸드 감산량이 더 많을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ "너겟요금제 청년 가입자 데이터 더 드려요”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231031113135</link>
-            <guid>https://zdnet.co.kr/view/?no=20231031113135</guid>
-            <pubDate>Tue, 31 Oct 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 선보인 너겟 요금제에서 안드로이드 단말 이용자 대상으로 내달부터 최대 11GB 데이터를 추가 제공한다고 밝혔다. 아이폰은 앱스토어의 앱 업데이트 승인 이후 가능하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
