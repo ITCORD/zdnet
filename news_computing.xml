@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 08:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩-테크에이스, 클라우드 기반 AI 개발 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031172308</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031172308</guid>
+            <pubDate>Tue, 31 Oct 2023 09:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)이 미국 인공지능(AI) 전문 기업 '테크에이스'와 클라우드 기반 인공지능(AI) 트랜스포메이션 및 글로벌 사업을 위한 전략적 제휴 협약(MOU)'을 체결했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엑셈, 고평석 대표 외 6인에 스톡옵션 470만주 부여]]></title>
             <link>https://zdnet.co.kr/view/?no=20231031165919</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231031093316</guid>
             <pubDate>Tue, 31 Oct 2023 01:45:29 GMT</pubDate>
             <content:encoded><![CDATA[생성형 인공지능(AI) 올 한해 많은 관심을 받았지만, 관심에 비해 대규모 투자는 이뤄지지 못한 것으로 조사됐다. 기업의 투자금 여력이 부족하고, 아직 미성숙한 생성 AI의 불...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[C++ 창시자, 보안 취약점 해결 방안 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231031095925</link>
-            <guid>https://zdnet.co.kr/view/?no=20231031095925</guid>
-            <pubDate>Tue, 31 Oct 2023 01:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[프로그래밍 언어 C++의 창시자 비아네 스트로브스트룹이 C++의 안전성을 강화하기 위한 방안을 제시했다. 29일(현지시간) 더뉴스스택 등 외신에 따르면 비아네 스트로브스트룹은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
