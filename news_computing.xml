@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 04:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 05:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뤼이드의 생성 AI 도전…"교육기술기업의 LLM 활용법"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231031140108</link>
+            <guid>https://zdnet.co.kr/view/?no=20231031140108</guid>
+            <pubDate>Tue, 31 Oct 2023 05:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[머신러닝(ML)의 등장 후 인공지능(AI) 기술이 다양한 산업군에서 시도됐고, 그중 교육 분야는 가장 활발한 도전 분야 중 하나였다. 생성형 AI란 새로운 흐름 속에서 에듀테크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 보안 전제로 '가명정보' 활용 부담 던다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231031111919</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231030164925</guid>
             <pubDate>Mon, 30 Oct 2023 08:13:02 GMT</pubDate>
             <content:encoded><![CDATA[코오롱베니트(대표 강이구)가 종합비철금속 제련기업 고려아연의 연결회계시스템 구축사업을 수주했다고 30일 밝혔다. 내년 6월까지 고려아연의 국내외 총 74개 연결법인을 대상으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, 연결성·보안 강화한 캠퍼스 스위치 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231030162555</link>
-            <guid>https://zdnet.co.kr/view/?no=20231030162555</guid>
-            <pubDate>Mon, 30 Oct 2023 08:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[포티넷 코리아(조원균 대표)는 캠퍼스 스위치 포티스위치 600, 포티스위치 2000을 발표했다고 30일 밝혔다. 이 제품은 고성능, 임베디드 인텔리전스를 탑재해 포티넷의 AI옵...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
