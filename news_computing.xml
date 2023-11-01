@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT DS, 중소기업 대상 클라우드 서비스형 보안 플랫폼 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231101112352</link>
+            <guid>https://zdnet.co.kr/view/?no=20231101112352</guid>
+            <pubDate>Wed, 01 Nov 2023 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[KT DS가 자체 개발한 종합 보안 컨설팅 플랫폼 '토탈아이즈(TotalEyes)'를 출시했다고 1일 밝혔다. 토탈아이즈는 정보보안 담당자나 관련 부서가 없는 중소 규모 기업에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플루닛, AI 서비스 업데이트·요금제 인하]]></title>
             <link>https://zdnet.co.kr/view/?no=20231101090806</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231031160129</guid>
             <pubDate>Tue, 31 Oct 2023 07:09:32 GMT</pubDate>
             <content:encoded><![CDATA[우리나라와 미국의 적층제조(3D프린팅) 분야 협력을 논의하는 장이 열린다. 산업통상자원부와 미국 상무부는 31일 22시부터 양국 적층제조 산업 분야 협력을 위한 '적층제조 쇼케...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유아이패스 "AI로 모두를 위한 업무 자동화 이룰 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231031150202</link>
-            <guid>https://zdnet.co.kr/view/?no=20231031150202</guid>
-            <pubDate>Tue, 31 Oct 2023 07:09:32 GMT</pubDate>
-            <content:encoded><![CDATA["오토파일럿은 생성형 인공지능(AI)과 업무 자동화를 결합한 신제품이다. 그동안 출시된 유아이패스 솔루션을 한데 통합한 결과물이다. 사용자가 명령어만 입력하면 종이 문서 인식,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
