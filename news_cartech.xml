@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 첫 오토파일럿 사망사고 소송서 승소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231101140559</link>
+            <guid>https://zdnet.co.kr/view/?no=20231101140559</guid>
+            <pubDate>Wed, 01 Nov 2023 06:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 자율주행 보조 기능 '오토파일럿' 관련 사망 사고로 제기된 첫 번째 소송에서 승소했다고 월스트리트저널 등 외신들이 31일(현지시간) 보도했다. 약 1개월 가량 진행된 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["방탄유리 옵션 있다"…머스크, 사이버트럭 세부 사항 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231101102834</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231025122411</guid>
             <pubDate>Wed, 25 Oct 2023 06:14:14 GMT</pubDate>
             <content:encoded><![CDATA[[도쿄(일본)=김재성기자] 혼다가 도쿄 빅사이트에서 열린 '재팬모빌리티쇼 2023' 개막에 앞서 25일 프레스데이를 개최하고 '혼다 드림 루프'라는 주제로 전동화 기술을 전격 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 전기차충전소에 '혼잡 수수료' 부과하나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231025085605</link>
-            <guid>https://zdnet.co.kr/view/?no=20231025085605</guid>
-            <pubDate>Wed, 25 Oct 2023 00:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 전기차 충전시설 '슈퍼차저'에 새로운 '혼잡 수수료' 도입을 고려하고 있다고 자동차 매체 일렉트렉이 24일(현지시간) 보도했다. 테슬라는 2019년 원활한 충전을 위해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
