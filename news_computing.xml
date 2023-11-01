@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 04:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 법원, AI 저작권 소송 기각…"증거 불충분"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231101120621</link>
+            <guid>https://zdnet.co.kr/view/?no=20231101120621</guid>
+            <pubDate>Wed, 01 Nov 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[미국 만화가들이 생성형 인공지능(AI) 서비스업체를 대상으로 제기한 소송이 법원에서 기각됐다. 벤처비트에 따르면 미국 캘리포니아 북부지역법원의 윌리엄 오릭 판사는 지난 달 31...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데정보통신 언어모델, '오픈 Ko-LLM'서 1위 기록]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231101094802</link>
+            <guid>https://zdnet.co.kr/view/?no=20231101094802</guid>
+            <pubDate>Wed, 01 Nov 2023 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[롯데정보통신의 대화형 인공지능(AI) 모델이 한국어 언어모델 리더보드 '오픈 Ko-LLM'에서 지난 31일 19시 기준 1위를 기록했다고 1일 밝혔다. 해당 모델은 메타에서 오...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT DS, 중소기업 대상 클라우드 서비스형 보안 플랫폼 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231101112352</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231031163507</guid>
             <pubDate>Tue, 31 Oct 2023 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[슈나이더 일렉트릭 코리아(대표 김경록)가 인공지능(AI) 데이터센터 설계 지침을 담은 백서를 발표했다고 31일 밝혔다. 백서는 고밀도 AI 클러스터를 지원하는 새로운 기술에 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼정KPMG, 해외 진출 시 세무 포인트 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231031162117</link>
-            <guid>https://zdnet.co.kr/view/?no=20231031162117</guid>
-            <pubDate>Tue, 31 Oct 2023 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[삼정KPMG가 내달 6일 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스 호텔에서 국내 기업들을 대상으로 '해외 투자 진출 세미나'를 개최한다고 31일 밝혔다. 세미나에는 각국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한·미 3D프린팅 분야 '협력의 장' 열려]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231031160129</link>
-            <guid>https://zdnet.co.kr/view/?no=20231031160129</guid>
-            <pubDate>Tue, 31 Oct 2023 07:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라와 미국의 적층제조(3D프린팅) 분야 협력을 논의하는 장이 열린다. 산업통상자원부와 미국 상무부는 31일 22시부터 양국 적층제조 산업 분야 협력을 위한 '적층제조 쇼케...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
