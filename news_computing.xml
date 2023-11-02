@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB보안 전문 기업 신시웨이, 3일 코스닥 상장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231102162749</link>
+            <guid>https://zdnet.co.kr/view/?no=20231102162749</guid>
+            <pubDate>Thu, 02 Nov 2023 08:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[엑셈 주요 종속회사인 데이터베이스(DB) 보안 전문 기업 신시웨이(대표 정재훈)는 아이비케이에스제17호기업인수목적 주식회사(IBKS17호스팩)와의 합병 절차를 마치고 3일 코스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한빗코, 원화마켓 거래소 전환 실패]]></title>
             <link>https://zdnet.co.kr/view/?no=20231102135322</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231101120621</guid>
             <pubDate>Wed, 01 Nov 2023 05:10:15 GMT</pubDate>
             <content:encoded><![CDATA[미국 만화가들이 생성형 인공지능(AI) 서비스업체를 대상으로 제기한 소송이 법원에서 기각됐다. 벤처비트에 따르면 미국 캘리포니아 북부지역법원의 윌리엄 오릭 판사는 지난 달 31...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신 언어모델, '오픈 Ko-LLM'서 1위 기록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231101094802</link>
-            <guid>https://zdnet.co.kr/view/?no=20231101094802</guid>
-            <pubDate>Wed, 01 Nov 2023 05:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[롯데정보통신의 대화형 인공지능(AI) 모델이 한국어 언어모델 리더보드 '오픈 Ko-LLM'에서 지난 31일 19시 기준 1위를 기록했다고 1일 밝혔다. 해당 모델은 메타에서 오...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
