@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 12:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 13:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 하이브리드 코어 구조 노트북용 CPU 투입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231102152431</link>
+            <guid>https://zdnet.co.kr/view/?no=20231102152431</guid>
+            <pubDate>Thu, 02 Nov 2023 13:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 고성능·고효율 코어를 한 프로세서 안에 모두 탑재한 하이브리드 구조 프로세서를 노트북용으로 투입한다. 지금까지 썼던 젠4(Zen 4) 기반 코어 중 일부를 서버용으로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네스프레소, 겨울시즌 한정 '페스티브 커피' 6종 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231102181239</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231102082822</guid>
             <pubDate>Thu, 02 Nov 2023 00:41:46 GMT</pubDate>
             <content:encoded><![CDATA[애플이 내년에 출시할 애플워치가 혈압 측정 등 건강측정 기능이 새롭게 도입될 것이라고 블룸버그 통신이 1일(현지시간) 보도했다. 보도에 따르면, 내년에 출시되는 애플워치는 디자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 레노버, 태블릿PC 장착 옷 '탭 웨어' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231102022240</link>
-            <guid>https://zdnet.co.kr/view/?no=20231102022240</guid>
-            <pubDate>Thu, 02 Nov 2023 00:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[중국 레노버가 패션 브랜드와 협력해 태블릿PC를 갖고 다니며 작업하는 것을 도와주는 패션 상품을 출시했다. 1일 중국 언론 IT즈자는 '윈도우즈 리포트'를 인용해 레노버가 최근...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
