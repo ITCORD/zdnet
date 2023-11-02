@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 05:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 06:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한빗코, 원화마켓 거래소 전환 실패]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231102135322</link>
+            <guid>https://zdnet.co.kr/view/?no=20231102135322</guid>
+            <pubDate>Thu, 02 Nov 2023 06:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[가상자산 거래소 한빗코가 원화마켓 거래 사업자로 변경하는 데 실패했다. 2일 업계에 따르면 금융정보분석원(FIU)은 최근 심사위원회를 열고 한빗코가 특정금융정보법(특금법) 상 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인사] 인젠트, 박재범 신임 각자대표 취임]]></title>
             <link>https://zdnet.co.kr/view/?no=20231102134825</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231101094802</guid>
             <pubDate>Wed, 01 Nov 2023 05:10:15 GMT</pubDate>
             <content:encoded><![CDATA[롯데정보통신의 대화형 인공지능(AI) 모델이 한국어 언어모델 리더보드 '오픈 Ko-LLM'에서 지난 31일 19시 기준 1위를 기록했다고 1일 밝혔다. 해당 모델은 메타에서 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT DS, 중소기업 대상 클라우드 서비스형 보안 플랫폼 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231101112352</link>
-            <guid>https://zdnet.co.kr/view/?no=20231101112352</guid>
-            <pubDate>Wed, 01 Nov 2023 03:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[KT DS가 자체 개발한 종합 보안 컨설팅 플랫폼 '토탈아이즈(TotalEyes)'를 출시했다고 1일 밝혔다. 토탈아이즈는 정보보안 담당자나 관련 부서가 없는 중소 규모 기업에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
