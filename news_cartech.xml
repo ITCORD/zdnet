@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전기차 안팔린다"…10월 수입차 수입차 판매 15.9%↓]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231103151705</link>
+            <guid>https://zdnet.co.kr/view/?no=20231103151705</guid>
+            <pubDate>Fri, 03 Nov 2023 07:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 수입차 판매량이 경기 침체에 따른 소비 위축 여파로 지난해 같은 기간 대비 크게 줄었다. 특히 전기차 판매량은 전년 대비 51.4% 감소하면서 전체 판매량을 끌어내렸다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["테슬라 시총 4조 달러 갈 것"...주가 6% 급등]]></title>
             <link>https://zdnet.co.kr/view/?no=20231103090953</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231026162640</guid>
             <pubDate>Fri, 27 Oct 2023 02:17:00 GMT</pubDate>
             <content:encoded><![CDATA[[도쿄(일본)=김재성 기자] 중국 비야디(BYD)가 일본 최대 모빌리티 전시회인 '재팬 모빌리티쇼 2023'(도쿄 빅사이트 소재)에서 5종의 신형 차량을 공개했다. BYD가 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, '모델3 스포츠' 출시?…차량 내부 사진 유출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231027085205</link>
-            <guid>https://zdnet.co.kr/view/?no=20231027085205</guid>
-            <pubDate>Fri, 27 Oct 2023 00:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 스포티한 인테리어를 갖춘 '모델3' 스포츠 버전을 계획 중이라고 자동차 매체 일렉트렉이 25일(현지시간) 보도했다. 테슬라 코드를 분석해 신기능을 찾아내는 것으로 유명...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
