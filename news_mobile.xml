@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 23:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 00:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 "아이폰과 맥의 사파리는 다른 브라우저"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231104093455</link>
+            <guid>https://zdnet.co.kr/view/?no=20231104093455</guid>
+            <pubDate>Sat, 04 Nov 2023 00:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 유럽연합(EU)의 '게이트키퍼(gatekeeper·문지기) ' 지정을 피하기 위해 3개 브라우저를 사용하고 있다는 독특한 주장을 펼친 사실이 공개됐다. 더레지스터는 3일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[S펜 붙였다 떼는 갤럭시Z폴드 6 나올까]]></title>
             <link>https://zdnet.co.kr/view/?no=20231103160829</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231102181239</guid>
             <pubDate>Thu, 02 Nov 2023 10:11:35 GMT</pubDate>
             <content:encoded><![CDATA[커피 브랜드 네스프레소가 겨울 홀리데이 시즌 한정 '페스티브 커피' 6종과 액세서리를 선보인다고 2일 밝혔다. 이번 컬렉션은 프랑스 럭셔리 라이프 스타일 브랜드 퓨잡(Fusal...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['폐기물 자원선별 로봇' 에이트테크, 86억원 시리즈A 유치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231102164449</link>
-            <guid>https://zdnet.co.kr/view/?no=20231102164449</guid>
-            <pubDate>Thu, 02 Nov 2023 08:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 폐기물 자원선별 로봇 솔루션 개발기업 에이트테크가 86억원 투자 유치에 성공했다고 27일 밝혔다. 에이트테크는 지난 프리A 라운드 31억원에 이번 시리즈까지 누적 12...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
