@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 00:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 01:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[英 자동차 회사가 만든 전기자전거…무게 9.8kg, 가격 4천만원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231104075210</link>
+            <guid>https://zdnet.co.kr/view/?no=20231104075210</guid>
+            <pubDate>Sat, 04 Nov 2023 01:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[영국 자동차 회사 로터스가 무게가 10kg도 되지 않는 전기 자전거를 공개했다고 자동차매체 일렉트렉이 3일(현지시간) 보도했다. 이 전기 자전거의 이름은 '로터스 타입 136'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 준법·신뢰 위원회 꾸려 경영 정상화 속도 낸다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231103161117</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231102175558</guid>
             <pubDate>Thu, 02 Nov 2023 09:10:37 GMT</pubDate>
             <content:encoded><![CDATA[MMA2023(멜론뮤직어워드)이 올해를 빛낸 아티스트를 뽑는 TOP10의 막강한 후보를 공개함과 동시에 투표에 참여하는 팬들에게 매일 새로운 행운의 선물을 제공하는 이벤트를 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배민, 배달 데이터 분석한 '고객 관리' 기능 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231102150428</link>
-            <guid>https://zdnet.co.kr/view/?no=20231102150428</guid>
-            <pubDate>Thu, 02 Nov 2023 08:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[배달의민족(배민)이 입점업주들의 효과적인 가게 운영을 돕고자, 고객 관리 기능을 제공한다. 배민 운영사 우아한형제들은 고객관계관리(CRM) 솔루션 고객 관리 기능을 도입한다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
