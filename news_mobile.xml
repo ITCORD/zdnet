@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 22:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 23:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 "인도산 아이폰15, 중국서 안팔게요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231105235020</link>
+            <guid>https://zdnet.co.kr/view/?no=20231105235020</guid>
+            <pubDate>Sun, 05 Nov 2023 23:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 중국 소비자들을 고려해 중국에서 인도산 아이폰15 시리즈 판매를 배제한다. 4일 중국 언론 IT즈자에 따르면 애플은 중국 공식 소셜미디어 계정에 '스킬 편의점 Vol.7...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 이마트 30여곳에 전기차 충전 솔루션 공급...신사업 결실]]></title>
             <link>https://zdnet.co.kr/view/?no=20231105084113</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231103081958</guid>
             <pubDate>Fri, 03 Nov 2023 00:41:53 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 '2023 리그 오브 레전드 국제대회' 토너먼트 스테이지에 맞춰 '오디세이 체험존'을 롯데백화점 부산 본점에서 오는 17일까지 운영한다고 3일 전했다. 방문객들은 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 하이브리드 코어 구조 노트북용 CPU 투입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231102152431</link>
-            <guid>https://zdnet.co.kr/view/?no=20231102152431</guid>
-            <pubDate>Thu, 02 Nov 2023 13:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 고성능·고효율 코어를 한 프로세서 안에 모두 탑재한 하이브리드 구조 프로세서를 노트북용으로 투입한다. 지금까지 썼던 젠4(Zen 4) 기반 코어 중 일부를 서버용으로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
