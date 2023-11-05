@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 05:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 06:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비틀즈 마지막 노래, 45년만에 AI로 완성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231105131426</link>
+            <guid>https://zdnet.co.kr/view/?no=20231105131426</guid>
+            <pubDate>Sun, 05 Nov 2023 06:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[비틀즈 모든 멤버가 모인 마지막 신곡 나우앤댄(Now and Then)이 공개됐다. 3일(현지시간) 더컨버세이션 등 외신은 인공지능(AI)로 완성된 신곡이 공식 유튜브를 통해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인프라 취역 지역 초중등학생 대상 'SW 미래채움' 성료]]></title>
             <link>https://zdnet.co.kr/view/?no=20231105112619</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231103100056</guid>
             <pubDate>Fri, 03 Nov 2023 01:45:21 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 기반 핀테크 스타트업 인피닛블록(대표 정구태)은 고려대학교 산학협력단과 기술사업화 협력을 위한 업무협약을 체결했다고 지난 3일 밝혔다. 고려대학교 산학협력단과 인피닛블...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS, 엔비디아 H100 GPU 선불 예약제 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231103094322</link>
-            <guid>https://zdnet.co.kr/view/?no=20231103094322</guid>
-            <pubDate>Fri, 03 Nov 2023 01:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)가 인공지능(AI) 인프라의 핵심인 엔비디아 GPU를 간단하게 단기 임대할 수 있는 새 서비스를 선보였다. 특정 기간동안 예약하고 환불불가인 선불 요금제다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
