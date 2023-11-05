@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 02:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인프라 취역 지역 초중등학생 대상 'SW 미래채움' 성료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231105112619</link>
+            <guid>https://zdnet.co.kr/view/?no=20231105112619</guid>
+            <pubDate>Sun, 05 Nov 2023 03:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[SW교육 인프라가 부족한 지역 초·중등학생을 대상으로 SW교육 확대와 SW 격차 해소를 위해 2019년부터 시작한 사업인 'SW 미래채움 어울림데이' 2023년 행사가 2일 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NFT 마켓 '오픈씨', 또 직원 정리 해고]]></title>
             <link>https://zdnet.co.kr/view/?no=20231105102829</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231103094322</guid>
             <pubDate>Fri, 03 Nov 2023 01:45:21 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)가 인공지능(AI) 인프라의 핵심인 엔비디아 GPU를 간단하게 단기 임대할 수 있는 새 서비스를 선보였다. 특정 기간동안 예약하고 환불불가인 선불 요금제다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코인베이스, 3분기 매출 예상치 상회…거래량은 하락]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231103084917</link>
-            <guid>https://zdnet.co.kr/view/?no=20231103084917</guid>
-            <pubDate>Fri, 03 Nov 2023 01:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[미국 최대 가상자산 거래소 코인베이스가 3분기 실적을 발표했다. 매출은 애널리스트 예상치를 상회했지만, 거래량은 예상보다 부진한 성적을 냈다. 2일(현지시간) 발표된 코인베이스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
