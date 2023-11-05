@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 06:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 07:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크표 GPT '그록' 공개…"엑스서 실시간 이용·유머 탑재"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231105093406</link>
+            <guid>https://zdnet.co.kr/view/?no=20231105093406</guid>
+            <pubDate>Sun, 05 Nov 2023 07:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자가 세운 인공지능(AI) 스타트업 xAI의 대화형 챗봇 서비스가 베일을 벗었다. 오픈AI 챗GPT와 유사한 AI 모델로, 서비스명은 그록(Grok)...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/05/132575a2c92c74acd457dff90e35a03e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블리즈컨2023 폐막…새로움 대신 이용자 신뢰 회복에 방점]]></title>
             <link>https://zdnet.co.kr/view/?no=20231105150205</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231105131426</guid>
             <pubDate>Sun, 05 Nov 2023 06:12:20 GMT</pubDate>
             <content:encoded><![CDATA[비틀즈 모든 멤버가 모인 마지막 신곡 나우앤댄(Now and Then)이 공개됐다. 3일(현지시간) 더컨버세이션 등 외신은 인공지능(AI)로 완성된 신곡이 공식 유튜브를 통해 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/05/928014fd13eecb0434dbaaec2d75226e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[난치성 방광암 항암치료 효과 예측하는 바이오마커 발견]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231105091858</guid>
             <pubDate>Sun, 05 Nov 2023 00:44:19 GMT</pubDate>
             <content:encoded><![CDATA[티몬이 최근 수요가 증가하고 있는 그래픽카드를 초특가로 선보인다. 티몬은 6일부터 11일까지 '티나는데이'기획전을 열고, 그래픽카드를 비롯 인기 PC하드웨어를 특가 판매한다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ECB 집행이사 "유럽, 기준금리 추가 인상 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231104184330</link>
-            <guid>https://zdnet.co.kr/view/?no=20231104184330</guid>
-            <pubDate>Sun, 05 Nov 2023 00:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[유럽중앙은행(ECB)의 이자벨 슈나벨 집행이사가 유로존의 기준금리 추가 인상 필요성을 강조했다. 4일(현지시간) 주요외신 보도에 따르면, 슈나벨 집행이사는 전날 미국 세인트루이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
