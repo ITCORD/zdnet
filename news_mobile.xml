@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 08:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VM웨어 "인텔·AMD 일부 윈도용 드라이버에서 보안 취약점 발견"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231106163212</link>
+            <guid>https://zdnet.co.kr/view/?no=20231106163212</guid>
+            <pubDate>Mon, 06 Nov 2023 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[인텔, AMD, 델테크놀로지스, 피닉스 테크놀로지 등 PC 프로세서·완제품·주변기기 제조사가 공급하는 윈도 운영체제용 드라이버 34종에서 보안 취약점이 발견됐다. VM웨어 소속...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국레노버, AMD 라이젠 프로 탑재 노트북 5종 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231106105452</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231103170236</guid>
             <pubDate>Fri, 03 Nov 2023 09:10:03 GMT</pubDate>
             <content:encoded><![CDATA[애플과 중국 스마트폰 업체들이 주요 스마트폰 시장인 인도에서 존재감을 빠르게 키워가고 있다. 3일 시장조사업체 카운터포인트리서치에 따르면 애플은 2023년 3분기 인도 스마트폰...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['3Q 선방' 애플, 4Q 中 애국소비·신제품 공세 이겨낼까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231103111120</link>
-            <guid>https://zdnet.co.kr/view/?no=20231103111120</guid>
-            <pubDate>Fri, 03 Nov 2023 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 3분기(회계연도 4분기) 실적을 발표한 가운데 다음 분기 중국 매출에 관심이 쏠린다. 2일(현지시간) 애플은 3분기 매출 894억9천800만달러(약 118조3천억원), ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
