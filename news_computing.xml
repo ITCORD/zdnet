@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 03:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 04:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미 노출된 정보로 해킹, 동행복권 책임 비율은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231107122520</link>
+            <guid>https://zdnet.co.kr/view/?no=20231107122520</guid>
+            <pubDate>Tue, 07 Nov 2023 04:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[로또 등 복권사업 운영자인 동행복권에 해킹 공격으로 인한 피해가 발생했다. 개인정보 유출 가능성이 확인됐지만 동행복권 측의 책임이 크진 않을 전망이다. 동행복권은 정부에서 제시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코인원, 3분기 고객 문의량 25% 감소]]></title>
             <link>https://zdnet.co.kr/view/?no=20231107105924</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231106113249</guid>
             <pubDate>Mon, 06 Nov 2023 03:10:16 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)의 코드편집기 비주얼스튜디오 코드(VS코드)가 32비트 지원을 종료했다. 최근 인포월드 등 외신에 따르면 마이크로소프트는 9일(현지시간) 공식 블로그를 통해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ICT 표준 축제 열린다···양재 엘타워서 6~8일]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231105162646</link>
-            <guid>https://zdnet.co.kr/view/?no=20231105162646</guid>
-            <pubDate>Mon, 06 Nov 2023 02:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[과기정통부가 특허청과 공동으로 주관하는 '글로벌 ICT 표준 컨퍼런스 2023' 행사가 6~8일 사흘간 서울 양재 엘타워에서 열린다. 올해가 7회째다. 행사는 정보통신기술(IC...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
