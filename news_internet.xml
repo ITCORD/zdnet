@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 01:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 02:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏘카, 제주서 '자율주행 카셰어링' 기술 시연]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231107094443</link>
+            <guid>https://zdnet.co.kr/view/?no=20231107094443</guid>
+            <pubDate>Tue, 07 Nov 2023 02:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[쏘카는 한국교통연구원, 라이드플럭스, 세스트, 엔제로, 한양대학교와 함께 국책과제로 추진하고 있는 '레벨4(Lv4) 이상 자율주행 카셰어링 서비스(주관연구개발기관: 한국교통연구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 채용 연계형 겨울 인턴십 두 자릿수 뽑는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231107102132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231106092510</guid>
             <pubDate>Mon, 06 Nov 2023 00:43:59 GMT</pubDate>
             <content:encoded><![CDATA[쏘카가 기아와 손잡고 '더 뉴 기아 레이' 전기차 모델인 레이 EV 시승 프로그램을 운영한다고 6일 밝혔다. 쏘카는 전국 쏘카존에 레이 EV 배치를 완료하고 이날부터 레이 EV...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크표 GPT '그록' 공개…"엑스서 실시간 이용·유머 탑재"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231105093406</link>
-            <guid>https://zdnet.co.kr/view/?no=20231105093406</guid>
-            <pubDate>Sun, 05 Nov 2023 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자가 세운 인공지능(AI) 스타트업 xAI의 대화형 챗봇 서비스가 베일을 벗었다. 오픈AI 챗GPT와 유사한 AI 모델로, 서비스명은 그록(Grok)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
