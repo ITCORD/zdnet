@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 11:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 12:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔리콘연구소, 2023 서울국제발명전시회 2관왕 영예]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231107204014</link>
+            <guid>https://zdnet.co.kr/view/?no=20231107204014</guid>
+            <pubDate>Tue, 07 Nov 2023 12:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 개발 전문 기업 인텔리콘연구소는 지난 1일부터 4일까지 서울 삼성동 코엑스에서 열린 '2023 서울국제발명전시회(SIIF)'에서 금상(한국발명진흥회)과 특별상(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인젠트, 서울형 강소기업 선정...일하기 좋은 기업 인증]]></title>
             <link>https://zdnet.co.kr/view/?no=20231107181712</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231107085840</guid>
             <pubDate>Tue, 07 Nov 2023 00:41:59 GMT</pubDate>
             <content:encoded><![CDATA[복권사업 운영자인 동행복권이 해킹 공격으로 개인정보 유출 가능성을 확인했다고 밝혔다. 동행복권은 외부 해킹 공격에 따라 이름, 생년월일, 전화번호, 이메일, 가상계좌 등의 유출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무하유, AI로 논문 출처 표기법 검사한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231107083013</link>
-            <guid>https://zdnet.co.kr/view/?no=20231107083013</guid>
-            <pubDate>Tue, 07 Nov 2023 00:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[무하유(대표 신동호)가 인공지능(AI) 표절검사 서비스 카피킬러에 출처검사 기능을 추가했다고 7일 밝혔다. 출처검사 기능은 문서에 작성된 출처 표기법이 올바른지 확인한다. 기존...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
