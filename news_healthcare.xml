@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 00:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 01:48:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미래의료] 세상은 구호로 바뀌지 않는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231108102712</link>
+            <guid>https://zdnet.co.kr/view/?no=20231108102712</guid>
+            <pubDate>Wed, 08 Nov 2023 01:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신 기술에 힘입어 보건의료 영역의 디지털 전환이 가속화되고 있다. 전 세계는 디지털 헬스케어(Digital Healthcare)를 통한 신종 감염병, 초고령화 시대, 지역...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심사평가원, IT 표준 개발 가이드 제작]]></title>
             <link>https://zdnet.co.kr/view/?no=20231107154048</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231103171807</guid>
             <pubDate>Fri, 03 Nov 2023 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[성균관의대 강북삼성병원(원장 신현철)은 개원 55주년을 맞아 지난 2일 기념식을 열고, 병원의 방향성을 제시하는 NEW BI를 선포했다. 기념식에서 강북삼성병원 신현철 원장은이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심평원, 수급불안정 의약품 정보 확대 제공…신속·정확한 조치 가능]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231103171458</link>
-            <guid>https://zdnet.co.kr/view/?no=20231103171458</guid>
-            <pubDate>Fri, 03 Nov 2023 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[건강보험심사평가원(이하 심평원)은 의약품관리종합정보포털에 '수급불안정 의약품'정보에 대한 공개대상 및 항목을 확대해 11월부터 공개한다. 이번 개편은 기존 공개대상이었던 수급불...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
