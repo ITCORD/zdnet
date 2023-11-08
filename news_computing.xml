@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 05:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 06:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["남성보다 여성이 AI에 더 회의적"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231108134230</link>
+            <guid>https://zdnet.co.kr/view/?no=20231108134230</guid>
+            <pubDate>Wed, 08 Nov 2023 06:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[남성과 여성이 인공지능(AI)에 대해 서로 다른 인식을 가지고 있다는 조사 결과가 나왔다. 데이터 인텔리전스 기업 모닝컨설트와 IT매체 악시오스는 지난 10월 2천203명의 미...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지코어, 정현용 신임 한국지사장 선임]]></title>
             <link>https://zdnet.co.kr/view/?no=20231108112116</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231107151043</guid>
             <pubDate>Tue, 07 Nov 2023 06:12:21 GMT</pubDate>
             <content:encoded><![CDATA[한국오라클은 국내 AI 특화 강소기업에서 오라클 클라우드 인프라스트럭처(OCI)를 도입한 사례를 7일 발표했다. 베슬에이아이, 메타온테크, 유니라인 등 3개사는 이날 개최되는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몽고DB, AWS와 아마존 코드위스퍼러 최적화 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231107150714</link>
-            <guid>https://zdnet.co.kr/view/?no=20231107150714</guid>
-            <pubDate>Tue, 07 Nov 2023 06:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[몽고DB는 아마존웹서비스(AWS)와 협력해 아마존 코드위스퍼러 최적화를 진행한다고 7일 밝혔다. 아마존 코드위스퍼러는 수십억 줄의 아마존 및 공개적으로 사용 가능한 코드에 대한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
