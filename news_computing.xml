@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 02:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 03:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지코어, 정현용 신임 한국지사장 선임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231108112116</link>
+            <guid>https://zdnet.co.kr/view/?no=20231108112116</guid>
+            <pubDate>Wed, 08 Nov 2023 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 퍼블릭 클라우드 및 엣지 컴퓨팅 기업인 지코어는 오늘, 정현용 한국 지사장을 선임했다고 8일 밝혔다. 정현용 지사장은 고려대학교 경영대학원 석사를 졸업하고 님블스토리지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[VM웨어-인텔, 프라이빗 AI 확장 위해 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20231108111719</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231107150714</guid>
             <pubDate>Tue, 07 Nov 2023 06:12:21 GMT</pubDate>
             <content:encoded><![CDATA[몽고DB는 아마존웹서비스(AWS)와 협력해 아마존 코드위스퍼러 최적화를 진행한다고 7일 밝혔다. 아마존 코드위스퍼러는 수십억 줄의 아마존 및 공개적으로 사용 가능한 코드에 대한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델테크놀로지스, 레드햇 오픈시프트용 에이펙스 플랫폼 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231107150401</link>
-            <guid>https://zdnet.co.kr/view/?no=20231107150401</guid>
-            <pubDate>Tue, 07 Nov 2023 06:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[델테크놀로지스는 '레드햇 오픈시프트를 위한 델 에이펙스 클라우드 플랫폼'을 출시했다고 7일 밝혔다. 델과 레드햇 공동으로 개발한 이 솔루션은 레드햇 오픈시프트를 위해 설계된 완...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
