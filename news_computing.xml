@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 09:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DAXA "고팍스, 자율규제 위반"...의결권 3개월 제한]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231109173419</link>
+            <guid>https://zdnet.co.kr/view/?no=20231109173419</guid>
+            <pubDate>Thu, 09 Nov 2023 09:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[원화마켓 가상자산 거래소들의 자율규제 단체인 한국디지털자산거래소협의체(DAXA)가 회원사인 고팍스에 대해 의결권 3개월 제한 등 제재 조치를 취하기로 결정했다. 지난해 12월 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI 오작동 대책 서둘러야…금융보안도 중요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231109155403</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231109092806</guid>
             <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
             <content:encoded><![CDATA[트웰브랩스(대표 이재성)가 인공지능(AI) 영상언어 모델 '페가수스'를 9일 공개했다. 페가수스 모델은 트웰브랩스가 자체 개발한 800억 파라미터 규모의 초거대 영상언어 생성 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이티센, 하나증권 토큰증권 시스템 구축사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109100124</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109100124</guid>
-            <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센(대표 박정재)이 하나증권 토큰증권(STO) 시스템 구축 사업 주 사업자로 참여한다고 9일 밝혔다. 오는 13일부터 진행되는 해당 사업은 STO 시스템 전 범위를 대상으...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
