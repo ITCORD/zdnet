@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 03:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깃허브 "생성 AI 프로젝트 폭증, 6만개 돌파"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231110115208</link>
+            <guid>https://zdnet.co.kr/view/?no=20231110115208</guid>
+            <pubDate>Fri, 10 Nov 2023 04:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브의 연례 오픈소스 트렌드 보고서 '옥토버스 2023'이 공개됐다. 대규모언어모델(LLM)의 폭발적 성장과 함께 인공지능(AI)이 오픈소스 개발자 생태계를 뒤흔들었고, 소프...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中공상은행, 랜섬웨어 공격에 마비...글로벌 영향 우려]]></title>
             <link>https://zdnet.co.kr/view/?no=20231110100407</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231109103804</guid>
             <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
             <content:encoded><![CDATA[국내 가상자산 거래소 빗썸(대표 이재원)은 금융정보분석원(FIU)의 올해 상반기 자금세탁방지(AML) 제도이행평가에서 평가 그룹 내 최고 점수를 획득했다고 9일 밝혔다. 빗썸은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타넷사스, AI솔루션 '메타페이' 연말정산 업무 혁신]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109102842</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109102842</guid>
-            <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[메타넷사스는 연말정산 기간 인사 담당자 업무를 지원하기 위해 클라우드 기반 서비스형 소프트웨어(SaaS) '메타페이 연말정산'을 출시했다고 9일 밝혔다. 메타페이 연말정산은 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
