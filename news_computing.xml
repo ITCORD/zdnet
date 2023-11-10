@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓 CBDC 실험 세계가 주목…한국적 모델 만들자"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231110155413</link>
+            <guid>https://zdnet.co.kr/view/?no=20231110155413</guid>
+            <pubDate>Fri, 10 Nov 2023 08:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[2단계 모의실험을 앞둔 중앙은행 디지털화폐(CBDC)가 경쟁력을 갖추기 위해서는 산업계와 활발히 협력해 유용한 활용 사례를 최대한 확보해야 한다는 지적이 제기됐다. 한국은행은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드, '지스타 2023'서 하이퍼클로바X 소개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231110160202</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231109104549</guid>
             <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
             <content:encoded><![CDATA[퀘스트소프트웨어는 최근 전세계 데이터베이스 관리자와 개발자를 위한 '토드포오라클 17.0' 버전을 공식 출시했다고 9일 밝혔다. 새 버전은 최신 오라클 데이터베이스23c의 신기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드햇, RHEL 9.3 버전 출시…'포드맨' 내장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109104141</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109104141</guid>
-            <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇은 '레드햇 엔터프라이즈 리눅스(RHEL)' 9.3을 출시한다고 9일 밝혔다. 이와 함께 RHEL 8.9 버전도 곧 출시할 예정이라고도 발표했다. RHEL의 최신 버전은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
