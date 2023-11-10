@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 06:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버클라우드, '지스타 2023'서 하이퍼클로바X 소개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231110160202</link>
+            <guid>https://zdnet.co.kr/view/?no=20231110160202</guid>
+            <pubDate>Fri, 10 Nov 2023 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 김유원)는 16일부터 18일까지 부산 벡스코에서 열리는 '지스타 2023'에 참가해 네이버 초대규모 AI '하이퍼클로바X'를 소개하고 게임 산업에서의 활용 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트, 구글클라우드 TPU로 '바르코 LLM' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231110153904</link>
+            <guid>https://zdnet.co.kr/view/?no=20231110153904</guid>
+            <pubDate>Fri, 10 Nov 2023 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[구글 클라우드는 엔씨소프트가 구글 클라우드 TPU를 기반으로 '바르코(VARCO) LLM'을 개발하고 학습 환경을 구축했다고 10일 밝혔다. 엔씨소프트는 지난 8월 자체 개발한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[깃허브 "생성 AI 프로젝트 폭증, 6만개 돌파"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231110115208</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231109104141</guid>
             <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
             <content:encoded><![CDATA[레드햇은 '레드햇 엔터프라이즈 리눅스(RHEL)' 9.3을 출시한다고 9일 밝혔다. 이와 함께 RHEL 8.9 버전도 곧 출시할 예정이라고도 발표했다. RHEL의 최신 버전은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[S2W, '피스콘2023' 사이버위협 인텔리전스 플랫폼 시연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109103805</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109103805</guid>
-            <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[S2W(에스투더블유)가 서울 콘래드 호텔에서 열린 금융정보보호 컨퍼런스 '피스콘(FISCON) 2023'에서 다크웹 자산 유출 모니터링 등을 시연한다고 9일 밝혔다. 피스콘은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빗썸 "상반기 FIU '자금세탁방지' 제도이행평가 최고점"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109103804</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109103804</guid>
-            <pubDate>Thu, 09 Nov 2023 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[국내 가상자산 거래소 빗썸(대표 이재원)은 금융정보분석원(FIU)의 올해 상반기 자금세탁방지(AML) 제도이행평가에서 평가 그룹 내 최고 점수를 획득했다고 9일 밝혔다. 빗썸은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
