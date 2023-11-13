@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 12:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 13:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 택시, 수수료 3% 인하 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231113212104</link>
+            <guid>https://zdnet.co.kr/view/?no=20231113212104</guid>
+            <pubDate>Mon, 13 Nov 2023 13:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 택시(카카오T) 운영사 카카오모빌리티가 가맹 택시 수수료율을 3%로 인하한다. 또한 신규 가맹 상품 출시도 추진한다. 카카오모빌리티는 13일 택시 4단체(전국택시노동조합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['SM 시세조종 의혹' 배재현 카카오 투자총괄대표 구속기소]]></title>
             <link>https://zdnet.co.kr/view/?no=20231113185544</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231110105043</guid>
             <pubDate>Sun, 12 Nov 2023 00:45:23 GMT</pubDate>
             <content:encoded><![CDATA["이 '집가락'은 집게와 젓가락을 합친 신개념 도구입니다. 약 1년의 연구 기간을 거쳐서 직접 개발했죠. 집게처럼 쉬우면서도 젓가락처럼 안전하고 다양하게 사용할 수 있습니다."...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 경쟁사 '택시 호출 차단' 자진 시정키로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231110195816</link>
-            <guid>https://zdnet.co.kr/view/?no=20231110195816</guid>
-            <pubDate>Fri, 10 Nov 2023 12:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[경쟁사 가맹 택시 '콜(승객 호출) 차단' 혐의로 공정거래위원회 제재 절차를 밟고 있는 카카오모빌리티가 문제 된 부분을 스스로 시정하겠다는 의사를 밝혔다. 10일 관련 업계에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
