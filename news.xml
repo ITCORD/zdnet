@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 20:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 21:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데하이마트, 이달 김치냉장고 매출 40%↑…주방가전 행사 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231114221253</link>
+            <guid>https://zdnet.co.kr/view/?no=20231114221253</guid>
+            <pubDate>Tue, 14 Nov 2023 21:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[롯데하이마트는 김장철을 맞아 이달 말까지 김치냉장고 등 주방가전 할인 행사를 진행한다고 14일 밝혔다. 롯데하이마트가 최근 3년(2020~2022년) 김치냉장고 매출을 살펴본 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/14/cc0dc5e726c88500c68bc695373057c0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텐마인즈, 전남대병원과 수면장애 공동연구]]></title>
             <link>https://zdnet.co.kr/view/?no=20231115000612</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231114235616</guid>
             <pubDate>Tue, 14 Nov 2023 15:10:17 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 네덜란드 반도체 장비업체 ASML 지분 일부를 2분기에 이어 3분기에도 추가 매각해 현금을 확보했다. 삼성전자가 ASML 지분을 매각한 규모는 올해만 4조3천억 원에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/04/28/916ecdeac912f4ba5b32020418689fb3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한컴, 3분기 영업익 25.6%↓...클라우드 매출 비중 10% 첫 돌파]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231114162953</guid>
             <pubDate>Tue, 14 Nov 2023 09:10:03 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 하반기 일반수소발전 경쟁입찰 결과 88개 발전소(23개사)가 참여해 총 19개 발전소를 최종 낙찰자로 결정했다고 14일 밝혔다. 이날 수소발전 입찰시장 관리기관...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 쇼핑 검색에서 자사앱 설치 유도한 쇼핑몰에 시정 요청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231114164845</link>
-            <guid>https://zdnet.co.kr/view/?no=20231114164845</guid>
-            <pubDate>Tue, 14 Nov 2023 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 쇼핑 검색에서 자사앱 설치를 유도한 이커머스 사업자에게 이메일로 안내문을 보내고 시정 요청을 했다. 14일 관련업계에 따르면 네이버는 최근 쿠팡이나 무신사, 에이블리,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
