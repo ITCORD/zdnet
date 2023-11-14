@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 06:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 07:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AR용 디스플레이 주류는 '올레도스'…삼성 기회 잡을 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231114144732</link>
+            <guid>https://zdnet.co.kr/view/?no=20231114144732</guid>
+            <pubDate>Tue, 14 Nov 2023 07:09:30 GMT</pubDate>
+            <content:encoded><![CDATA["현재 AR 기기용 디스플레이의 주류는 마이크로 OLED(OLEDoS; 올레도스)다. 향후에는 마이크로 LED가 이를 대체할 것으로 주목받고 있지만, 수율 등 해결해야 할 기술...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메모리반도체 수출 16개월 만에 증가세]]></title>
             <link>https://zdnet.co.kr/view/?no=20231114112504</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231109142750</guid>
             <pubDate>Thu, 09 Nov 2023 06:12:56 GMT</pubDate>
             <content:encoded><![CDATA[신성이엔지는 올 3분기 연결재무제표 기준 매출이 1천295억원, 영업손실 32억원으로 잠정 집계됐다고 9일 밝혔다. 전년동기 대비 매출은 17% 감소했고, 영업이익은 적자로 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓, 차세대 전자실장기술 국제표준 주도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109121507</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109121507</guid>
-            <pubDate>Thu, 09 Nov 2023 06:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[한국이 차세대 반도체 패키징 전자실장기술 중 하나인 LAB(레이저 본딩)의 국제 표준을 주도하는 국가로 부상했다. 산업통상자원부 국가기술표준원은 국제전기기술위원회(IEC) 전자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
