@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 23:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아우디 新플랫폼 전기차에 CATL·BYD 배터리 탑재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231115011654</link>
+            <guid>https://zdnet.co.kr/view/?no=20231115011654</guid>
+            <pubDate>Tue, 14 Nov 2023 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[내년 중국에서 생산될 아우디의 'PPE(Premium Platform Electric) 플랫폼' 전기차에 중국 기업의 배터리가 장착될 예정이다. 14일 중국 언론 란징차이징은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 中서 슈퍼차저 개방…전기차 충전 수요 흡수하나]]></title>
             <link>https://zdnet.co.kr/view/?no=20231114154526</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231109115424</guid>
             <pubDate>Thu, 09 Nov 2023 03:11:40 GMT</pubDate>
             <content:encoded><![CDATA[메르세데스-벤츠 코리아는 준대형 스포츠유틸리티차(SUV) GLE 쿠페의 플러그인 하이브리드(PHEV) 모델인 '더 뉴 GLE 400e 4MATIC 쿠페'를 국내 출시했다고 9일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['안전성 논란' GM 크루즈, 로보택시 950대 리콜]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231109104322</link>
-            <guid>https://zdnet.co.kr/view/?no=20231109104322</guid>
-            <pubDate>Thu, 09 Nov 2023 02:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[제너럴모터스(GM)가 미국에서 보행자 충돌사고가 발생한 후 로보택시 950대를 리콜한다고 8일(이하 현지시간) CNBC 등 외신들이 보도했다. 지난 10월 2일 미국 샌프란시스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
