@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 04:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 닷넷8 출시...AI·클라우드 개발 편의성 향상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231115112531</link>
+            <guid>https://zdnet.co.kr/view/?no=20231115112531</guid>
+            <pubDate>Wed, 15 Nov 2023 05:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 앱 개발 플랫폼 닷넷8(.NET6) 장기지원버전(LTS)을 정식 출시했다. 14일(현지시간) 인포월드 등 외신에 따르면 마이크로소프트는 연례 개발자 회인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플리토, 서울시에 '실시간 대화형 번역 서비스' 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20231115094843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231114110256</guid>
             <pubDate>Tue, 14 Nov 2023 08:12:32 GMT</pubDate>
             <content:encoded><![CDATA[가상자산에 대해 국가마다 다양한 정책 노선을 취하는 상황에서, 산업에 미치는 영향과 바람직한 방향을 논의하는 자리가 마련됐다. 지난 13일 열린 '업비트 D 컨퍼런스(UDC) ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 상반기까지 '마이데이터' 관련 법령 정비키로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231114155740</link>
-            <guid>https://zdnet.co.kr/view/?no=20231114155740</guid>
-            <pubDate>Tue, 14 Nov 2023 07:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회는 '범정부 마이데이터 협의회'를 구성하고, 14일 제1차 회의를 개최했다고 밝혔다. 마이데이터는 정보 주체가 본인에 관한 개인정보를 본인이 원하는 곳으로 전송...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
