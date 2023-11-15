@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 02:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 03:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기상청, 도로 살얼음 정보 300m 전방에서 안내]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231115113503</link>
+            <guid>https://zdnet.co.kr/view/?no=20231115113503</guid>
+            <pubDate>Wed, 15 Nov 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[기상청은 겨울철 운전자의 교통안전 지원을 위해 겨울철 제설 대책 기간인 15일부터 내년 3월 15일까지 내비게이션에서 '도로살얼음 발생 가능 정보' 서비스를 재개한다. 도로살얼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 사이버트럭 재판매 금지 조항 삭제]]></title>
             <link>https://zdnet.co.kr/view/?no=20231115112003</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231110165141</guid>
             <pubDate>Fri, 10 Nov 2023 08:13:02 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹이 2년마다 주최하는 자율주행챌린지가 약 14개월의 대장정 끝에 막을 내렸다. 자율주행 차량을 개발하고 연구하는 각 대학교 팀이 참여해 치열한 경선 끝에 본선에 진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최초 용인 서킷 달린 자율주행차…현대차그룹 '자율주행 챌린지' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231110124026</link>
-            <guid>https://zdnet.co.kr/view/?no=20231110124026</guid>
-            <pubDate>Fri, 10 Nov 2023 05:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹이 주관하고 대학생들이 직접 개발한 자율주행차가 고속으로 서킷을 달리는 세계 최초의 무인 자율주행 레이싱 대회가 열렸다. 현대자동차그룹은 대학생 대상 자율주행 경진...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
