@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 06:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 AI칩 스타트업 '퓨리오사AI', 3나노·HBM4 시대 연다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231116140946</link>
+            <guid>https://zdnet.co.kr/view/?no=20231116140946</guid>
+            <pubDate>Thu, 16 Nov 2023 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 인공지능(AI) 반도체 스타트업인 퓨리오사AI가 Arm과의 협업을 통한 차세대 제품 개발 로드맵을 공개했다. 회사는 차세대 AI 반도체에 3나노미터(nm)·칩렛 등 최선단...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사피온, 4배 빨라진 데이터센터용 AI 반도체 'X330' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231116121818</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231114112504</guid>
             <pubDate>Tue, 14 Nov 2023 03:10:44 GMT</pubDate>
             <content:encoded><![CDATA[ICT 수출액이 1년 4개월째 감소세를 이어갔지만 주력 품목인 메모리반도체 수출은 16개월 만에 증가세를 기록했다. 이에 따라 ICT 수출 감소폭은 올해 들어 처음으로 한 자릿...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ISC, 3Q 매출 329억·영업손실 80억…"일회성 비용 반영 탓"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231114090452</link>
-            <guid>https://zdnet.co.kr/view/?no=20231114090452</guid>
-            <pubDate>Tue, 14 Nov 2023 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 테스트 솔루션 기업 아이에스시(ISC)는 3분기 매출 329억원, 영업손실 79억9천만원(영업이익률 -24.3%)의 실적을 기록했다고 14일 밝혔다. 일회성 재무비용 반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
