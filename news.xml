@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 22:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 23:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["네 이웃 (집단)을 사랑하라" 보노보도 실천한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231116100738</link>
+            <guid>https://zdnet.co.kr/view/?no=20231116100738</guid>
+            <pubDate>Thu, 16 Nov 2023 23:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[사람은 자신이 속한 친족 집단을 넘어 다른 집단과도 서로 자원을 공유하고 협력한다. 이는 다른 동물과 구분되는 인간만의 특징으로 간주된다. 인간의 가장 가까운 친척인 침팬지는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/16/0d27161cb03ab1881279f587debbd1bd-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울디지털재단, 'SCEWC 2023'서 29억원 수출 상담 성과]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117043623</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231116193743</guid>
             <pubDate>Thu, 16 Nov 2023 11:08:34 GMT</pubDate>
             <content:encoded><![CDATA[광주과학기술원(GIST, 총장 임기철)이 설립 30주년 맞아 16일 '인류의 더 나은 미래가치를 창출하는 과학기술 중추 연구기관'으로 도약하기 위한 'GIST 2053' 비전을...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/16/0b85f26213ab608450e6990df611215d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전남바이오진흥원, 부족한 제약·바이오 전문 인력 양성 기여]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231116164809</guid>
             <pubDate>Thu, 16 Nov 2023 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[[부산=최병준, 이도원, 김한준, 강한결 기자] 지스타 2023 현장에 게임 26종을 선보인 그라비티가 라그나로크 비긴즈와 뮈렌: 천년의 여정 등 신작 2종에 대한 미디어 인터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요기요, 겨울철 안전 배달 위한 캠페인 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231116165434</link>
-            <guid>https://zdnet.co.kr/view/?no=20231116165434</guid>
-            <pubDate>Thu, 16 Nov 2023 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[요기요가 요기배달 라이더들의 안전한 겨울 배달을 위한 '2023 윈터 세이프티 캠페인'을 진행한다고 16일 밝혔다. 이 캠페인은 2019년부터 라이더 안전 배달을 위해 계절별 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
