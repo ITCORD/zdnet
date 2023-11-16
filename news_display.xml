@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 03:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 04:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사피온, 4배 빨라진 데이터센터용 AI 반도체 'X330' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231116121818</link>
+            <guid>https://zdnet.co.kr/view/?no=20231116121818</guid>
+            <pubDate>Thu, 16 Nov 2023 04:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[AI 반도체 기업 사피온(SAPEON)이 전작 보다 4배 빨라진 차세대 데이터센터용 AI 반도체 'X330'을 3년 만에 출시한다. 그동안 국내서 여러 응용사례를 만들어 낸 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지멘스, 인사이트EDA 인수...반도체 설계 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231116091103</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231114090452</guid>
             <pubDate>Tue, 14 Nov 2023 01:48:49 GMT</pubDate>
             <content:encoded><![CDATA[반도체 테스트 솔루션 기업 아이에스시(ISC)는 3분기 매출 329억원, 영업손실 79억9천만원(영업이익률 -24.3%)의 실적을 기록했다고 14일 밝혔다. 일회성 재무비용 반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arm, 아미 바다니 신임 CMO 임명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231114092446</link>
-            <guid>https://zdnet.co.kr/view/?no=20231114092446</guid>
-            <pubDate>Tue, 14 Nov 2023 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[Arm홀딩스는 13일(영국 현지시간) 신임 최고마케팅책임자(CMO)로 시스코·엔비디아 등을 거친 아미 바다니(Ami Badani)를 선임했다고 밝혔다. 아미 바다니 신임 CMO...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
