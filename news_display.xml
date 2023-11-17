@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 00:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 차세대 저장장치로 '2023 R&D 100 어워드' 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231117100639</link>
+            <guid>https://zdnet.co.kr/view/?no=20231117100639</guid>
+            <pubDate>Fri, 17 Nov 2023 01:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 16일(현지시간) 미국 캘리포니아주에서 개최된 '2023 R&amp;D 100 어워드'에서 자사 기술진이 차세대 저장장치 'KV-CSD(키값 전산 저장장치)를 개발한 공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美당국, 中에 '무허가' 장비공급 혐의로 AMAT 조사중…"韓 자회사 이용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231117085658</link>
+            <guid>https://zdnet.co.kr/view/?no=20231117085658</guid>
+            <pubDate>Fri, 17 Nov 2023 01:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[미국 주요 반도체 장비업체 어플라이드머티어리얼즈(AMAT)가 중국에 대한 수출 규제를 회피한 혐의로 조사를 받고 있다고 로이터통신이 17일 보도했다. 로이터통신은 사안에 정통한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[반도체 장비업체 톱 4, 中 매출 비중 모두 40% 넘었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117080628</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231115094430</guid>
             <pubDate>Wed, 15 Nov 2023 01:52:52 GMT</pubDate>
             <content:encoded><![CDATA[마이크로칩테크놀로지는 실시간 제어 시스템에 자주 사용되는 'dsPIC 디지털 신호 컨트롤러'를 활용하는 개발자들을 위해 'MPLAB XC-DSC' 컴파일러를 출시했다고 15일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성D, '차량용 OLED' 미래 담은 영상으로 레드닷 어워드 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231115083647</link>
-            <guid>https://zdnet.co.kr/view/?no=20231115083647</guid>
-            <pubDate>Wed, 15 Nov 2023 00:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 제작한 미래 모빌리티 영상이 세계 3대 디자인 어워드 중 하나인 '2023 레드닷 디자인 어워드(Red Dot Design Award)'를 수상했다. 삼성디스플...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 업계 최대 8TB 포터블 SSD 'T5 EVO' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231115081827</link>
-            <guid>https://zdnet.co.kr/view/?no=20231115081827</guid>
-            <pubDate>Wed, 15 Nov 2023 00:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 콤팩트한 크기에 업계 최대 수준 8TB 용량을 구현한 포터블 SSD 신제품 'T5 EVO'를 출시했다. 'T5 EVO'는 휴대성과 내구성이 중요한 외장형 스토리지 시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
