@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 11:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 12:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행정전산시스템 마비…은행도 여파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231117190133</link>
+            <guid>https://zdnet.co.kr/view/?no=20231117190133</guid>
+            <pubDate>Fri, 17 Nov 2023 12:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[전국 지방자지단체 공무원 전용 행정전산시스템 오류로 은행 업무도 차질을 빚고 있다. 17일 은행업계는 공무원 전용 행정 전산망 '새올'의 마비로 인해, 신분증 진위 여부를 확인...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/17/752136cb4c46deeae19ca908b6940dca-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴롬, 2023 대한민국 특허기술상 '세종대왕상' 받아]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117200755</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231117190954</guid>
             <pubDate>Fri, 17 Nov 2023 11:08:26 GMT</pubDate>
             <content:encoded><![CDATA[삼성물산과 제일모직의 '부당합병·회계부정' 의혹으로 재판을 받는 이재용 삼성전자 회장이 17일 결심 공판에서 징역 5년, 벌금 5억원 구형을 받았다. 이 회장은 이날 오전 10...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/17/acaecb626a043a098df60f2b54dd630f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국가정보원, 마비된 행정전산망 원인 파악 중]]></title>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이재용 최후의 변 "삼성 초일류 기업 도약에 모든 역량 쏟겠다"]]></title>
+            <title><![CDATA[이재용 최후 진술 "지분 확대 위해 다른 주주 피해 입힌다는 의도 결단코 없다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117173623</link>
             <guid>https://zdnet.co.kr/view/?no=20231117173623</guid>
             <pubDate>Fri, 17 Nov 2023 11:08:26 GMT</pubDate>
@@ -80,7 +88,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이재용 회장 징역 5년 구형…삼성, 무거운 침묵 속 선고 촉각]]></title>
+            <title><![CDATA[檢, 이재용 회장 징역 5년 구형…삼성, 무거운 침묵 속 선고 촉각]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117170455</link>
             <guid>https://zdnet.co.kr/view/?no=20231117170455</guid>
             <pubDate>Fri, 17 Nov 2023 10:10:15 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231117165034</guid>
             <pubDate>Fri, 17 Nov 2023 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[소프트파워(대표 김수랑)는 2025년 3월부터 전국 모든 초중고교에 공급될 AI 디지털교과서의 저작 도구로 노코드 플랫폼 '스마트메이커' 단독 납품 계약을 체결했다고 17일 발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트, '로스트아크 모바일' VR 콘텐츠 지스타서 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231117164803</link>
-            <guid>https://zdnet.co.kr/view/?no=20231117164803</guid>
-            <pubDate>Fri, 17 Nov 2023 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[[부산=최병준, 이도원, 김한준, 강한결 기자] 스마일게이트RPG는 부산 벡스코에서 열린 국내 최대 게임쇼 '지스타 2023'를 통해 신작 MMORPG(다중접속역할수행게임) '...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
