@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 22:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 23:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RCS 도입하는 애플, 녹색·파란색 말풍선은 그대로 유지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231118075324</link>
+            <guid>https://zdnet.co.kr/view/?no=20231118075324</guid>
+            <pubDate>Fri, 17 Nov 2023 23:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 내년부터 3세대 문자 규격인 'RCS'를 아이폰, 아이패드 등에도 도입하기로 한 가운데, 애플이 RCS 지원 문자와 아이메시지 색상에 대한 답변을 내놨다고 IT매체 나인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[루아랩, 'CES 2024'서 수면 중 호흡 모니터링 시스템 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20231118002216</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231117005649</guid>
             <pubDate>Fri, 17 Nov 2023 00:43:17 GMT</pubDate>
             <content:encoded><![CDATA[중국 화웨이가 구글 안드로이드 앱을 지원하지 않겠다고 선언한 이후 중국 IT 기업들이 앱 개발에 한창이다. 16일 중국 언론을 종합하면 화웨이의 자체 하모니OS 버전 중 하나인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울디지털재단, 'SCEWC 2023'서 29억원 수출 상담 성과]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231117043623</link>
-            <guid>https://zdnet.co.kr/view/?no=20231117043623</guid>
-            <pubDate>Thu, 16 Nov 2023 20:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[서울디지털재단이 지난 7~9일(현지시간) 스페인 바르셀로나에서 열린 '스마트시티 엑스포 월드 콩그레스(SCEWC) 2023'에 서울관을 열고 총 29억원 규모 수출 상담을 진행...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
