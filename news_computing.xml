@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 10:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 11:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가정보원, 마비된 행정전산망 원인 파악 중]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231117192206</link>
+            <guid>https://zdnet.co.kr/view/?no=20231117192206</guid>
+            <pubDate>Fri, 17 Nov 2023 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원이 공무원 전용 행정 전산망 '새올'의 시스템 마비 원인을 찾기 위해 조사 중이다. 17일 국가정보원에 따르면 전산망의 장애원인 파악 및 복구를 전문 인력을 현장에 투...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공무원 행정전산망 오류로  전국 주민센터 '마비']]></title>
             <link>https://zdnet.co.kr/view/?no=20231117185516</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231116163204</guid>
             <pubDate>Thu, 16 Nov 2023 08:13:09 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스(대표 홍원표)가 '2024학년도 대학수학능력시험' 당일 수험생의 신속하고 안전한 입실을 돕기 위해 '수험생 특별 호송 지원'을 실시했다고 16일 밝혔다. SK쉴더스의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 생성AI '코파일럿' 적용 대폭 확대한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231116121556</link>
-            <guid>https://zdnet.co.kr/view/?no=20231116121556</guid>
-            <pubDate>Thu, 16 Nov 2023 08:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 코파일럿을 여러 앱에 확대 적용하면서 생성 인공지능(AI) 활용 범위를 확장했다. 마이크로소프트는 15일(현지시간) 미국 시애틀에서 열린 연례 개발자 컨퍼런스 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
