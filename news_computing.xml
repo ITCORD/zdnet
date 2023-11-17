@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 04:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 05:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 생성형 AI로 복잡해진 보안 한번에 관리]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231117123605</link>
+            <guid>https://zdnet.co.kr/view/?no=20231117123605</guid>
+            <pubDate>Fri, 17 Nov 2023 05:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 생성형 인공지능(AI)을 활용해 정확성과 작업속도를 높인 보안 플랫폼을 공개했다. 15일(현지시간) 마이크로소프트는 미국 시애틀에서 개최한 연례 개발자 컨퍼런스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스캐터랩 "핑퐁-1으로 인간 감성 어루만질 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117095939</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231116132312</guid>
             <pubDate>Thu, 16 Nov 2023 05:09:50 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 스타트업 네이션에이(대표 유수연)가 독자 개발한 AI생성모델 원천기술로 내년 1월 미국 라스베이거스에서 열리는 'CES 2024'에서 ▲인공지능(AI) 과 ▲웹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["46만 교통약자 편리하게 전국 이동"···디플정, 대전시 등과 플랫폼 구축 협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231116105903</link>
-            <guid>https://zdnet.co.kr/view/?no=20231116105903</guid>
-            <pubDate>Thu, 16 Nov 2023 02:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디지털플랫폼정부위원회(디플정, 위원장 고진)는 16일 '교통약자 이동지원 플랫폼' 구축을 위해 대전광역시 등 민관 5개 기관과 업무협약을 체결했다. 대전교통공사에서 진행한 업무...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
