@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 10:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 11:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN "게임앤빌, 우리의 노하우 담긴 서버엔진…초심자도 쉽게 사용" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231118193611</link>
+            <guid>https://zdnet.co.kr/view/?no=20231118193611</guid>
+            <pubDate>Sat, 18 Nov 2023 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[[부산=최병준, 이도원, 김한준, 강한결] NHN이 지스타2023에 참가해 B2B 부스를 열고, 자체개발 게임 서버 엔진 '게임앤빌' 홍보에 나섰다. 게임앤빌은 실시간 멀티 플...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/18/6e2659166b6484356afadeeae19733ea-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데브시스터즈 '쿠키런: 모험의 탑', 액션으로 돌아온 쿠키런 캐릭터들 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20231118154851</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231118142008</guid>
             <pubDate>Sat, 18 Nov 2023 07:08:16 GMT</pubDate>
             <content:encoded><![CDATA[시스템 오류로 인해 마비됐던 정부 온라인 민원 서비스 '정부24'가 일부 운영을 재개했다. 완전정상화를 위해선 추가 작업이 필요한 상황이다. 18일 행정안전부(이하 행안부)에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/18/865f1f9e87c1e78259596c333469ebe4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하이브IM '별이되어라2' 즐기러 지스타 찾은 관람객들 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -152,19 +160,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오픈AI "알트먼 CEO, 이사회 목소리 묵살" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[오픈AI, 왜 알트먼 쫓아냈나…"AI 안전성 vs 수익 갈등" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20231118111611</link>
             <guid>https://zdnet.co.kr/view/?no=20231118111611</guid>
             <pubDate>Sat, 18 Nov 2023 04:11:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI 이사회가 샘 알트먼 최고경영자(CEO)를 퇴출한 내막이 드러났다. 알트먼이 일반인공지능(AGI) 위험성에 대한 이사회 우려를 지속적으로 무시하고 AI 사업 확장에 치중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드 '판타스틱4 베이스볼', 유인촌 장관이 뽑은 화제작 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231118122619</link>
-            <guid>https://zdnet.co.kr/view/?no=20231118122619</guid>
-            <pubDate>Sat, 18 Nov 2023 04:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[[부산=최병준, 이도원, 김한준, 강한결 기자] 위메이드가 지난 16일 부산 벡스코에서 개막한 게임쇼 지스타2023에 신작 모바일 야구게임 '판타스틱4 베이스볼'을 최초로 공개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -336,7 +336,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오픈AI "알트먼 CEO, 이사회 목소리 묵살" (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
+            <title><![CDATA[오픈AI, 왜 알트먼 쫓아냈나…"AI 안전성 vs 수익 갈등" (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20231118111611</link>
             <guid>https://zdnet.co.kr/view/?no=20231118111611</guid>
             <pubDate>Sat, 18 Nov 2023 04:11:20 GMT</pubDate>
