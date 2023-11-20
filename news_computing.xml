@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알티베이스 V7.3, 글로벌 상용SW명품대전 협회장상 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231120182101</link>
+            <guid>https://zdnet.co.kr/view/?no=20231120182101</guid>
+            <pubDate>Mon, 20 Nov 2023 10:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[알티베이스는 제9회 글로벌 상용SW 명품대전서 ALTIBASE V7.3을 출품하여 '한국상용소프트웨어협회장상'을 수상했다고 20일 밝혔다. 지난 10일 서울 엘타워에서 열린 글...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[체크막스, 지난해 악성 오픈소스 패키지 16만개 발견]]></title>
             <link>https://zdnet.co.kr/view/?no=20231120174715</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231120134804</guid>
             <pubDate>Mon, 20 Nov 2023 05:10:01 GMT</pubDate>
             <content:encoded><![CDATA[해임된 샘 알트먼을 다시 데려오기 위한 협상이 활발하게 진행되고 있다. 하지만 오픈AI 이사회가 알트먼을 다시 데려오기 위해선 “알트먼은 아무런 잘못이 없었다”고 공식 발표해야...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAP "e스포츠에 치밀한 데이터 분석 필수"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231120131749</link>
-            <guid>https://zdnet.co.kr/view/?no=20231120131749</guid>
-            <pubDate>Mon, 20 Nov 2023 05:10:01 GMT</pubDate>
-            <content:encoded><![CDATA["e스포츠 산업 규모가 지속적으로 성장하고 있다. 그만큼 경기 데이터도 방대해졌다. SAP 솔루션으로 데이터를 승률 예측이나 인재 영입에 활용하면 e스포츠 산업에 더 큰 시너지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
