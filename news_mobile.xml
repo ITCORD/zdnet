@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 04:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["로봇에 생명 불어넣는 알고리즘, 우리가 세계 최고죠"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231120023758</link>
+            <guid>https://zdnet.co.kr/view/?no=20231120023758</guid>
+            <pubDate>Mon, 20 Nov 2023 05:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[국내 로봇 연구가 세계적으로 주목 받고 있다. 최근 정해진 장치를 활용해 물체를 인식하고 작업을 수행하는 이른바 '로봇 알고리즘 개발' 영역에서 가시적인 성과가 나왔다. 주인공...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[청호나이스, 진천 사회복지협의회에 김치 2600포기 전달]]></title>
             <link>https://zdnet.co.kr/view/?no=20231120111419</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231117090422</guid>
             <pubDate>Fri, 17 Nov 2023 07:09:31 GMT</pubDate>
             <content:encoded><![CDATA[아이폰에 기본 탑재된 문자메시지 전송 앱 '메시지'에 한 세대 전 규격인 SMS/MMS만 고집하던 애플이 구글과 유럽연합(EU) 압박에 결국 백기를 들었다. 16일(현지시간) ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[써보니] 젖은 곱슬 모발 펴주는 신개념 '다이슨 헤어기기'...시간 줄이고·손상 완화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231113165936</link>
-            <guid>https://zdnet.co.kr/view/?no=20231113165936</guid>
-            <pubDate>Fri, 17 Nov 2023 06:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[헤어기기는 정교한 헤어스타일링을 완성해 주는 기술이 점점 진화되고 있다. 최근엔 모발의 손상까지 줄여주는 기기에 대한 소비자들의 요구가 높아지는 추세다. 다이슨코리아가 지난달 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
