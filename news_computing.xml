@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["엔터프라이즈 리눅스의 혁신을 유지하기 위한 조건"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231121113133</link>
+            <guid>https://zdnet.co.kr/view/?no=20231121113133</guid>
+            <pubDate>Tue, 21 Nov 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[“엔터프라이즈 리눅스를 커뮤니티에 공유하지 않기로 한 레드햇의 결정은 오픈소스 정신에 위배되는 것이다. 오픈소스의 기본 원칙은 프로젝트에 어떤 변경사항이든 커뮤니티에 재기부하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성넥스트, LLM 보안기업 라소시큐리티 80억 투자]]></title>
             <link>https://zdnet.co.kr/view/?no=20231121104334</link>
@@ -92,7 +100,7 @@
             <link>https://zdnet.co.kr/view/?no=20231120182101</link>
             <guid>https://zdnet.co.kr/view/?no=20231120182101</guid>
             <pubDate>Mon, 20 Nov 2023 10:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[알티베이스는 제9회 글로벌 상용SW 명품대전서 ALTIBASE V7.3을 출품하여 '한국상용소프트웨어협회장상'을 수상했다고 20일 밝혔다. 지난 10일 서울 엘타워에서 열린 글...]]></content:encoded>
+            <content:encoded><![CDATA[알티베이스는 제9회 글로벌 상용SW 명품대전서 인메모리 DBMS 알티베이스(ALTIBASE) V7.3을 출품해 '한국상용소프트웨어협회장상'을 수상했다고 20일 밝혔다. 지난 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231120153924</guid>
             <pubDate>Mon, 20 Nov 2023 07:10:05 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA)는 정보기술 산업 인적자원개발위원회(이하 정보기술ISC)가 2023 산업별 인적자원개발위원회(이하 ISC) 혁신성과 경진대회'에서 최우수 선도기관...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI "알트먼 복귀 안한다"…임시 CEO도 교체]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231120152230</link>
-            <guid>https://zdnet.co.kr/view/?no=20231120152230</guid>
-            <pubDate>Mon, 20 Nov 2023 07:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[급박하게 진행되던 오픈AI의 경영권 분쟁은 '쿠데타 주도 세력'의 승리로 마무리되는 모양새다. 미국 IT 전문매체 디인포메이션은 19일(현지시간) 일리아 수츠케버가 직원들에게 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
