@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 04:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 05:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스누아이랩 "기업용 비전AI 노코드로 누구나 만든다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231121124228</link>
+            <guid>https://zdnet.co.kr/view/?no=20231121124228</guid>
+            <pubDate>Tue, 21 Nov 2023 05:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[노코드·로우코드(NCLC) 협의회가 인공지능(AI) 기반 컴퓨터비전 기술을 공유하며 기술력 향상에 박차를 가한다. NCLC 협의회는 서울 관악구 서울대학교 연구공원에서 11월 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[델테크놀로지스, 오브젝트 스토리지 신제품 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20231121130640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231120164756</guid>
             <pubDate>Mon, 20 Nov 2023 08:16:23 GMT</pubDate>
             <content:encoded><![CDATA[서비스 오류로 국민들에게 불편을 끼친 지방행정전산서비스의 복구로 모든 민원업무가 재개했다. 이상민 행정안전부 장관은 20일 정부서울청사에서 주재한 지방행정전산서비스장애 대책본부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS, HD현대오일뱅크 클라우드 전면 이전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231120163407</link>
-            <guid>https://zdnet.co.kr/view/?no=20231120163407</guid>
-            <pubDate>Mon, 20 Nov 2023 08:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)는 HD현대오일뱅크의 디지털 혁신 강화, 오퍼레이션 향상 및 신속한 고객 요구 대응을 지원한다고 20일 밝혔다. HD현대오일뱅크는 2024년까지 AWS 클...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
