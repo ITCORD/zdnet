@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 05:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 06:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 국립공원과 개인정보 보호]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231121141454</link>
+            <guid>https://zdnet.co.kr/view/?no=20231121141454</guid>
+            <pubDate>Tue, 21 Nov 2023 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[지금 회의 중이다. 휴대폰에서 메시지가 도착했다는 진동이 울린다. 어떤 긴급한 내용일까 궁금해 확인해 보니 광고성 문자였다. 내가 언제 광고성 문자 수신에 동의했지? 누구나 이런 경험을 가지고 있을 것이다.단순히 스팸문자나 홍보전화 때문에 귀찮아지는 수준은 그나마 다행이다. 최근 개인정보 침해가 지능화하면서 각종 범죄에 이용되고 있다. 개인정보란 살아 있는 개인에 관한 정보다. 성명·주민등록...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/21/7ce7b7dba3031e648384a8431c2055a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 참담한 대한민국 SW산업···해법은 있다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231117094637</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Sep 2023 04:14:45 GMT</pubDate>
             <content:encoded><![CDATA[최근 클라우드, 가상화, 컨테이너 등 복잡한 IT 인프라 환경에 대응하고 다양한 워크로드를 수용하기 위해 일관성 있는 아키텍처가 요구된다. 특히 다운타임이나 데이터 손실 없이 비즈니스 연속성을 제공하는 데이터센터 복원력의 중요성이 높아지고 있다.클라우드의 중심이 인프라에서 플랫폼으로 이동하면서 소프트웨어 정의 데이터센터(SDDC)가 각광받고 있다. SDDC는 데이터센터를 구성하는 서버·스토리...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/09/18/9efc371a0efd980f4d68578a526149d6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이창근의 헤디트] 헤리티지 기반 K-콘텐츠, 디지털 유산 한류]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230915100013</link>
-            <guid>https://zdnet.co.kr/view/?no=20230915100013</guid>
-            <pubDate>Fri, 15 Sep 2023 01:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[문화재가 계승과 활용, 미래를 중심축으로 하는 국가유산 체제로 대전환한다. 그 중심에 변화와 혁신에 대한 어젠다로 디지털이 부상하고 있다. K-컬처의 원형으로 국가브랜드를 높이는 ‘헤리티지 기반 K-콘텐츠’다.국가유산 콘텐츠에 대한 국민적 관심이 높아짐에 따라 지난해에 이어 올 7월부터 제2회 국가유산 디지털 콘텐츠 경진대회가 진행됐다. 문화재청(청장 최응천)이 주최하고 한국전통문화대학교(총...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/15/1bb474bc6610828544981e8820593ff9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
