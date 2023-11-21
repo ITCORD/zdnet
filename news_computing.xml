@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 01:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 02:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성넥스트, LLM 보안기업 라소시큐리티 80억 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231121104334</link>
+            <guid>https://zdnet.co.kr/view/?no=20231121104334</guid>
+            <pubDate>Tue, 21 Nov 2023 02:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 투자 전문 자회사 삼성넥스트가 이스라엘의 대형언어모델(LLM) 보안 스타트업 '라소시큐리티'에 투자했다. 20일(현지시간) 실리콘앵글 등 외신에 따르면 삼성넥스트는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[부산대, AI 컨퍼런스 'AI BUS' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231121102703</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231120152230</guid>
             <pubDate>Mon, 20 Nov 2023 07:10:05 GMT</pubDate>
             <content:encoded><![CDATA[급박하게 진행되던 오픈AI의 경영권 분쟁은 '쿠데타 주도 세력'의 승리로 마무리되는 모양새다. 미국 IT 전문매체 디인포메이션은 19일(현지시간) 일리아 수츠케버가 직원들에게 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼정KPMG, 사이버 보안 위협 대응 전략 교육]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231120152837</link>
-            <guid>https://zdnet.co.kr/view/?no=20231120152837</guid>
-            <pubDate>Mon, 20 Nov 2023 07:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼정KPMG가 홍익대학교 사범대학 부속중학교 학생들을 대상으로 사이버 보안 위협 대응 전략을 안내하는 '2023 KPMG 글로벌 사이버 데이' 행사를 개최한다고 20일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
