@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 07:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 08:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 다른 브라우저 유튜브 영상 속도 일부러 늦췄나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231121151846</link>
+            <guid>https://zdnet.co.kr/view/?no=20231121151846</guid>
+            <pubDate>Tue, 21 Nov 2023 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 모질라 파이어폭스나 마이크로소프트 엣지 등 다른 회사 브라우저에서 의도적으로 영상 속도를 저하시키고 있다는 의혹이 제기됐다. IT매체 안드로이드오쏘리티가 20일(현지시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[당근, 개인 간 거래 '분쟁조정센터' 출범]]></title>
             <link>https://zdnet.co.kr/view/?no=20231121140604</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231117164216</guid>
             <pubDate>Fri, 17 Nov 2023 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷신문협회(회장 이의춘, 인신협)가 16일 한국프레스센터 서울클럽홀에서 '2023 인터넷신문인의 밤' 행사를 개최했다고 밝혔다. 이날 행사에서는 3회째를 맞은 '인터넷신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배달앱 이용률 2개월 연속 '주춤'…쿠팡이츠 나홀로 '질주']]></title>
-            <link>https://zdnet.co.kr/view/?no=20231117161359</link>
-            <guid>https://zdnet.co.kr/view/?no=20231117161359</guid>
-            <pubDate>Fri, 17 Nov 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[올여름 월 이용자 3천만명을 웃돌며 회복 국면에 진입했던 배달앱 이용률이 2개월 연속 하락세를 나타내고 있다. 특히 배달의민족(배민)와 요기요는 10만명 이상 이용자가 이탈하면...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
