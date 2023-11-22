@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 23:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 00:46:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI 경쟁자 앤트로픽, '클로드 2.1' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231122093813</link>
+            <guid>https://zdnet.co.kr/view/?no=20231122093813</guid>
+            <pubDate>Wed, 22 Nov 2023 00:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI 퇴사자 중심으로 구성된 인공지능 스타트업 앤트로픽이 최신 대화형 AI 모델인 '클로드 2.1'을 발표했다. 한번에 15만 단어를 입력할 수 있다. 21일(현지시간) 앤...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오 만드는 스테이블디퓨전 모델 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231122091930</link>
+            <guid>https://zdnet.co.kr/view/?no=20231122091930</guid>
+            <pubDate>Wed, 22 Nov 2023 00:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[이미지생성 인공지능(AI) 개발회사 스태빌리티AI가 비디오를 생성하는 첫 파운데이션 모델을 공개했다. 21일(현지시간) 스태빌리티AI는 이미지모델 스테이블디퓨전에 기반한 비디오...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모바일신분증 전문기업 애니싸인, 에이나(ANa)로 사명 변경]]></title>
             <link>https://zdnet.co.kr/view/?no=20231121204025</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231121130640</guid>
             <pubDate>Tue, 21 Nov 2023 04:12:38 GMT</pubDate>
             <content:encoded><![CDATA[델테크놀로지스는 차세대 오브젝트 스토리지 '델 오브젝트스케일'의 소프트웨어 업데이트를 실시하고, 통합형 올플래시 어플라이언스인 '오브젝트스케일 XF960'을 출시했다고 21일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨어스토리지, 스토리지 구독하면 전력·상면 비용 대신 낸다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231121125925</link>
-            <guid>https://zdnet.co.kr/view/?no=20231121125925</guid>
-            <pubDate>Tue, 21 Nov 2023 04:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[퓨어스토리지는 구독형 스토리지 서비스에 전력 및 상면 공간 비용 개런티 프로그램을 실시한다고 21일 밝혔다. 전력 및 상면 공간 비용 개런티 프로그램은 퓨어스토리지가 고객의 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["엔터프라이즈 리눅스의 혁신을 유지하기 위한 조건"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231121113133</link>
-            <guid>https://zdnet.co.kr/view/?no=20231121113133</guid>
-            <pubDate>Tue, 21 Nov 2023 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[“엔터프라이즈 리눅스를 커뮤니티에 공유하지 않기로 한 레드햇의 결정은 오픈소스 정신에 위배되는 것이다. 오픈소스의 기본 원칙은 프로젝트에 어떤 변경사항이든 커뮤니티에 재기부하는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
