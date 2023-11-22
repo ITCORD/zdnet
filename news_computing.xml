@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 01:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 02:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 생성형 AI 열풍, 고성능 스토리지 시대를 열다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231122110038</link>
+            <guid>https://zdnet.co.kr/view/?no=20231122110038</guid>
+            <pubDate>Wed, 22 Nov 2023 02:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[챗GPT로 촉발된 AI 비즈니스의 열기가 뜨거워지면서 생성형 AI 도입을 고려하는 기업이 늘고 있다. AI 발전으로 분석해야 할 데이터 양이 폭발적으로 증가하고, 다양한 종류의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성 AI는 데이터 엔지니어링을 어떻게 바꾸는가]]></title>
             <link>https://zdnet.co.kr/view/?no=20231122105026</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231121171514</guid>
             <pubDate>Tue, 21 Nov 2023 09:10:26 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 거래소 포블게이트(대표 안현준)는 가상자산 지갑 '부리또월렛'의 외부지갑 등록을 지원한다고 21일 밝혔다. 포블은 ▲메타마스크 ▲블록체인닷컴 ▲마이이더월렛 ▲카카오클립...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알트먼 해임 사태…'오픈AI 이사회'는 패자일까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231121161239</link>
-            <guid>https://zdnet.co.kr/view/?no=20231121161239</guid>
-            <pubDate>Tue, 21 Nov 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[“이사회의 행동에 참여한 것을 깊이 후회한다(I deeply regret my participation in the board's actions).” 샘 알트먼 오픈AI 최고경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
