@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 05:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 06:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, AI 칩 매출 호조...삼성·SKH HBM 훨훨 난다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231122134611</link>
+            <guid>https://zdnet.co.kr/view/?no=20231122134611</guid>
+            <pubDate>Wed, 22 Nov 2023 06:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 3분기 시장 기대치를 상회하는 실적을 내면서 생성형 AI 반도체 시장의 성장세를 입증했다. AI 서버에서 대용량의 데이터 처리 속도를 높여주는 고대역폭메모리(HBM)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 카메라 모듈 출하량 8.9% 감소...'스마트폰 침체 탓']]></title>
             <link>https://zdnet.co.kr/view/?no=20231122091008</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231117100639</guid>
             <pubDate>Fri, 17 Nov 2023 01:53:13 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스는 16일(현지시간) 미국 캘리포니아주에서 개최된 '2023 R&amp;D 100 어워드'에서 자사 기술진이 차세대 저장장치 'KV-CSD(키값 전산 저장장치)를 개발한 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美당국, 中에 '무허가' 장비공급 혐의로 AMAT 조사중…"韓 자회사 이용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231117085658</link>
-            <guid>https://zdnet.co.kr/view/?no=20231117085658</guid>
-            <pubDate>Fri, 17 Nov 2023 01:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[미국 주요 반도체 장비업체 어플라이드머티어리얼즈(AMAT)가 중국에 대한 수출 규제를 회피한 혐의로 조사를 받고 있다고 로이터통신이 17일 보도했다. 로이터통신은 사안에 정통한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
