@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 06:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 07:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모니터랩 "2025년 아시아 웹 보안 1위 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231123143440</link>
+            <guid>https://zdnet.co.kr/view/?no=20231123143440</guid>
+            <pubDate>Thu, 23 Nov 2023 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[모니터랩이 서비스형보안(세카스, SECaaS) 플랫폼으로 국내를 넘어 아시아 웹보안 시장에서 1위에 오를 것이라고 포부를 밝혔다. 이광후 모니터랩 대표는 23일 서울 여의도 콘...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["3년 이상 늦은 국내 보안, 해커 놀이터로 변질"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231123104928</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231122160737</guid>
             <pubDate>Wed, 22 Nov 2023 20:10:21 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 및 핀테크 전문 기업 두나무(대표 이석우)는 업비트가 업무 연속성 관리시스템(BCMS) 국제 표준인 'ISO 22301' 인증을 획득했다고 22일 밝혔다. 두나무는 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스메타버스, 'MX 스튜디오'에 AI 음원 기술 입힌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231122150928</link>
-            <guid>https://zdnet.co.kr/view/?no=20231122150928</guid>
-            <pubDate>Wed, 22 Nov 2023 20:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스메타버스는 'MX 스튜디오'에 인공지능(AI) 음원 생성 기술을 적용하기 위해 칠로엔과 브레인데크 손을 잡았다고 22일 밝혔다. 티맥스메타버스는 이번 협력을 통해 메타버스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
