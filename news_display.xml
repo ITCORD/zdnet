@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 00:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 01:53:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨게이트, 기업용 나이트로 4350 NVMe SSD 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231123104626</link>
+            <guid>https://zdnet.co.kr/view/?no=20231123104626</guid>
+            <pubDate>Thu, 23 Nov 2023 01:52:08 GMT</pubDate>
+            <content:encoded><![CDATA[씨게이트가 23일 클라우드 컴퓨팅과 데이터센터에 특화된 나이트로 4350 NVMe SSD를 공개했다. 나이트로 4350 NVMe SSD는 PCI 익스프레스 4.0 규격과 3D ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[동운아나텍, AI 기반 혈당 예측 시스템 특허 취득]]></title>
             <link>https://zdnet.co.kr/view/?no=20231123090433</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231120091401</guid>
             <pubDate>Mon, 20 Nov 2023 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[SK이노베이션, SK하이닉스, SK텔레콤, SK실트론 등 SK그룹 4개사가 기술나눔을 통해 중소·중견기업들에게 특허 171건을 무료로 나눠준다. SK그룹은 대·중소기업의 동반성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한양대, 반도체 혁신연구센터 'CH3IPS' 오픈…"칩 성능 1000배 높일 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231118115050</link>
-            <guid>https://zdnet.co.kr/view/?no=20231118115050</guid>
-            <pubDate>Sun, 19 Nov 2023 00:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[국내 첨단 반도체 경쟁력 강화를 위한 혁신연구센터가 문을 열었다. 해당 센터는 기존에 없는 혁신적인 반도체 연구개발을 지원하고, 창의적인 인재를 적극 양성하는 등 다양한 사업을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
