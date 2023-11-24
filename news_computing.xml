@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 01:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 02:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융기관 '에버스핀 페이크파인더' 도입 효과 '톡톡']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231124110009</link>
+            <guid>https://zdnet.co.kr/view/?no=20231124110009</guid>
+            <pubDate>Fri, 24 Nov 2023 02:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[에버스핀의 피싱방지 솔루션 '페이크파인더'를 도입한 금융기관의 악성앱 월간접속자 수(MAU) 대비 탐지비율이 지난해 0.59%에서 올해 0.20%로 낮아진 것으로 나타났다. 하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맥스그룹, 'AWS 리인벤트'서 슈퍼앱 기반 신제품 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231124095829</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231123164952</guid>
             <pubDate>Thu, 23 Nov 2023 08:12:36 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기업 아크릴(대표 박외진)이 오는 27일 인터컨티넨탈 서울 코엑스(코엑스 인터콘) 지하 1층 다이아몬드홀(HL)에서 연례 비전 공유 행사(ACRYL NEXT 컨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모니터랩 "2025년 아시아 웹 보안 1위 목표"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231123143440</link>
-            <guid>https://zdnet.co.kr/view/?no=20231123143440</guid>
-            <pubDate>Thu, 23 Nov 2023 07:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[모니터랩이 서비스형보안(세카스, SECaaS) 플랫폼으로 국내를 넘어 아시아 웹보안 시장에서 1위에 오를 것이라고 포부를 밝혔다. 이광후 모니터랩 대표는 23일 서울 여의도 콘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
