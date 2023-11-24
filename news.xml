@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 09:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 10:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["코엑스 푸드위크, 기후 변화·미래 식량에 사명감 커져"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231124161807</link>
+            <guid>https://zdnet.co.kr/view/?no=20231124161807</guid>
+            <pubDate>Fri, 24 Nov 2023 10:11:15 GMT</pubDate>
+            <content:encoded><![CDATA["음식, 식량은 결국 기후변화나 탄소배출과 연관될 수밖에 없다. 생활을 영유하는 데 식량을 만드는 것뿐만 아니라 폐기하는 것까지 중요한데, 이는 환경문제로 연결될 수밖에 없기 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/24/e6a6eac0a246759bd9f98dc35d0aaa92-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안랩, 문서파일 위장 실행형 악성코드 주의 당부]]></title>
             <link>https://zdnet.co.kr/view/?no=20231124180240</link>
@@ -21,14 +29,14 @@
             <guid>https://zdnet.co.kr/view/?no=20231124175809</guid>
             <pubDate>Fri, 24 Nov 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[가상자산 수탁(커스터디) 전문 기업 한국디지털에셋(KODA)은 조진석 이사를 신임 대표이사로 선임했다고 24일 밝혔다. KODA는 지난 2020년 11월 KB국민은행이 블록체인...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/24/356fd730744920e6d19357e10e147bcb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오픈AI의 알트먼 해고 역사, 'X'에 고스란히 박제]]></title>
             <link>https://zdnet.co.kr/view/?no=20231124132851</link>
             <guid>https://zdnet.co.kr/view/?no=20231124132851</guid>
             <pubDate>Fri, 24 Nov 2023 09:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트먼이 오픈AI 최고경영자(CEO)로 복귀했다. 해임부터 복귀까지 약 6일 걸렸다. 그동안 알트먼을 비롯한 그렉 브록만 오픈AI 공동설립자 등은 이 사건에 대한 심경을 X...]]></content:encoded>
+            <content:encoded><![CDATA[샘 알트먼이 오픈AI 최고경영자(CEO)로 복귀했다. 해임부터 복귀까지 약 6일 걸렸다. 그동안 알트먼과 그렉 브록만 오픈AI 공동설립자 등은 이 사건에 대한 심경을 X(전 트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231124152053</guid>
             <pubDate>Fri, 24 Nov 2023 07:09:06 GMT</pubDate>
             <content:encoded><![CDATA[더핑크퐁컴퍼니의 아기상어 캐릭터가 미국 최대 규모의 추수감사절 행사 '메이시스 땡스기빙 데이 퍼레이드(Macy's Thanksgiving Day Parade)'에 한국 대표 캐...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰 사용자, 아이폰 사진 진짜 좋아할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231124143044</link>
-            <guid>https://zdnet.co.kr/view/?no=20231124143044</guid>
-            <pubDate>Fri, 24 Nov 2023 07:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰 사용자들에게 아이폰을 선호하는 이유를 물으면 많은 사람들이 카메라라고 답하곤 한다. 미국 IT매체 매셔블은 총 20명의 아이폰 사용자들을 대상으로 아이폰15 프로 맥스와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
