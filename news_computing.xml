@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 23:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 00:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI 연구진 "인류 위협하는 모델 나왔다" 경고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231124075629</link>
+            <guid>https://zdnet.co.kr/view/?no=20231124075629</guid>
+            <pubDate>Fri, 24 Nov 2023 00:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난 일주일 간 벌어졌던 오픈AI CEO 해임 사태의 원인이 조금씩 확인되고 있다. 인류를 위협할 정도로 강력한 인공지능(AI) 모델이 나타났고, 몇몇 연구원이 이사회에 이메일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[與·野 "민간보다 못한 재난대처, 책임감 찾을 수 없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231123181235</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231123100100</guid>
             <pubDate>Thu, 23 Nov 2023 01:51:41 GMT</pubDate>
             <content:encoded><![CDATA[이스트소프트(대표 정상원)는 한국기술교육대 입시 운영 효율화를 위해 인공지능(AI) 휴먼을 활용한 영상 제작을 지원했다고 23일 밝혔다. 이번에 이스트소프트가 제작한 영상은 '...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼브에이아이, 글로벌 보안 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231123095333</link>
-            <guid>https://zdnet.co.kr/view/?no=20231123095333</guid>
-            <pubDate>Thu, 23 Nov 2023 01:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼브에이아이(대표 김현수)가 글로벌 보안 인증인 'SOC-2 타입 II'와 'ISO 27001'를 획득했다고 23일 밝혔다. SOC-2는 미국 공인회계사(CPA) 협회 기준 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
