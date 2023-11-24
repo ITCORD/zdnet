@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 06:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 07:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 GPU 수출 규제, 엔비디아 이어 AMD GPU로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231124151406</link>
+            <guid>https://zdnet.co.kr/view/?no=20231124151406</guid>
+            <pubDate>Fri, 24 Nov 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 대중 반도체 수출 규제가 지난 17일부터 시작되며 엔비디아와 AMD 등 주요 GPU 제조사의 고성능 GPU 수출이 중단됐다. 대상 제품은 AI와 HPC(고성능 컴퓨팅)에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사피온, AI 반도체 X330 지원하는 'SW 풀스택' 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20231124135823</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231123021338</guid>
             <pubDate>Thu, 23 Nov 2023 00:43:11 GMT</pubDate>
             <content:encoded><![CDATA[중국 대형 IT기업들이 호기롭게 나섰던 반도체 사업을 줄줄이 포기하겠다는 선언을 하고 있다. 스마트폰 기업 오포, 그리고 메이주와 지리그룹의 합작사가 반도체 사업에서 철수한 데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스가 '찜'한 가우스랩스 "AI솔루션, 내년 식각·노광 등 확대 가능"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231122153152</link>
-            <guid>https://zdnet.co.kr/view/?no=20231122153152</guid>
-            <pubDate>Wed, 22 Nov 2023 07:09:58 GMT</pubDate>
-            <content:encoded><![CDATA["가우스랩스의 AI 솔루션을 활용하면 반도체 공정의 수율 및 효율성을 크게 높일 수 있다. 처음에는 주요 고객사의 박막 증착 공정에 적용됐으나, 내년에는 다른 전공정 분야로도 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
