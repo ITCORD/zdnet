@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공SW 수익률, 민간 10분의 1 수준...현행 유지 급급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231124133031</link>
+            <guid>https://zdnet.co.kr/view/?no=20231124133031</guid>
+            <pubDate>Fri, 24 Nov 2023 05:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[지난 17일 새올 행정 전산망이 오류로 중단된 것에 이어 최근 조달청의 나라장터도 1시간가량 접속지연 되는 사고가 발생했다. 올해만 해도 우정사업본부 시스템과 교육행정정보시스템...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TTA아카데미, 국립안동대 SW융합교육원과 인력양성 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20231124112330</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231123170959</guid>
             <pubDate>Thu, 23 Nov 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[고객상담 채팅 솔루션 '해피톡' 운영사 엠비아이솔루션과 배송대행 서비스 운영사 다배송이 개인정보 유·노출에 따른 당국 제재를 받았다. 개인정보보호위원회는 지난 22일 전체회의를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생성형 AI, 인사관리 솔루션도 확 바꾼다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231123132525</link>
-            <guid>https://zdnet.co.kr/view/?no=20231123132525</guid>
-            <pubDate>Thu, 23 Nov 2023 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[인사(HR) 관리 솔루션에도 생성형 인공지능(AI)이 본격 활용될 전망이다. 워크데이를 비롯한 SAP, 서비스나우 등 글로벌 기업들은 HR 관리 제품에 생성형 AI를 접목해 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
