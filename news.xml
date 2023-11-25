@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 14:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 15:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국경영정보학회, '2023 추계학술대회' 성료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231125231603</link>
+            <guid>https://zdnet.co.kr/view/?no=20231125231603</guid>
+            <pubDate>Sat, 25 Nov 2023 15:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[한국경영정보학회 추계학술대회가 'AI가 촉진하는 미래도시:사람-기계간 시너지로 도시 대변혁(AI Driven Urban Futures):Reshaping Cities For H...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/25/8c8c5424881f91a4a1697983930c01f5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[던파 페스티벌, 4년만에 오프라인 컴백…이용자 소통에 방점]]></title>
             <link>https://zdnet.co.kr/view/?no=20231125212047</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231125173426</guid>
             <pubDate>Sat, 25 Nov 2023 09:08:41 GMT</pubDate>
             <content:encoded><![CDATA['던전앤파이터 1호 스토리 담당자'로 잘 알려진 주현태 네오플 시나리오 기획팀장이 던전앤파이터 페스티벌(던파 페스티벌) 2부 행사에서 스토리와 이용자 간의 이어짐에 대한 중요성...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/25/3b2c866a85a21844565ad796b82e44d5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[글로벌 DPG 얼라이언스 출범...국내기업 해외 진출 지원]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231124175403</guid>
             <pubDate>Fri, 24 Nov 2023 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[이상민 행정안전부 장관이 국가전산망 마비를 재난 유형에 명시하고, 사고 발생 후 복구 과정을 매뉴얼로 작성할 것이라고 밝혔다. 이 장관은 24일 오후 한·영 디지털정부협력에 관...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컬리, 3Q 역대 최대 매출·영업적자 감소..."땡큐, 뷰티컬리"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231124160956</link>
-            <guid>https://zdnet.co.kr/view/?no=20231124160956</guid>
-            <pubDate>Fri, 24 Nov 2023 09:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[컬리가 올해 3분기 고물가·고금리로 인해 소비 심리가 위축된 상황에서도 매출은 역대 최대 성적을 거뒀고, 적자 폭도 줄였다. 뷰티 버티컬 서비스 '뷰티컬리' 성장과 함께 멤버십...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
