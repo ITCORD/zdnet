@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 23:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 00:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["음식 배달에 누구보다 진심인 로봇 만들어요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231126042221</link>
+            <guid>https://zdnet.co.kr/view/?no=20231126042221</guid>
+            <pubDate>Sun, 26 Nov 2023 00:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[배달의민족(배민) 운영사 우아한형제들이 자체 개발한 배달로봇 '딜리'로 지난달부터 서울 삼성동 테헤란로에서 배달을 시작했다. 딜리는 실내외 배달을 목적으로 개발됐다. 음식에 전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[차기 iOS18, 어떤 게 바뀔까]]></title>
             <link>https://zdnet.co.kr/view/?no=20231125073226</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231124093512</guid>
             <pubDate>Fri, 24 Nov 2023 00:42:04 GMT</pubDate>
             <content:encoded><![CDATA[노래방기기 업체 TJ미디어는 '2023 퍼펙트 엔젤싱어 가요제 시즌1' 본선 무대를 성황리에 마쳤다고 24일 밝혔다. 행사는 코인노래방 창업 전문 프랜차이즈 엔젤스코인노래연습장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자서비스, 우수인재 선발 '기술경진대회' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231124090629</link>
-            <guid>https://zdnet.co.kr/view/?no=20231124090629</guid>
-            <pubDate>Fri, 24 Nov 2023 00:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자서비스가 21일부터 23일까지 3일간 경기도 수원시 삼성전자 CS아카데미에서 최고의 서비스 전문가를 선발하는 '2023 서비스 기술경진대회'를 개최했다. '서비스 기술경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
