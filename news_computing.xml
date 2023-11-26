@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 05:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 06:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학생과 기업 연결 현장형 SW인재 양성 KEB 2기 수료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231126142157</link>
+            <guid>https://zdnet.co.kr/view/?no=20231126142157</guid>
+            <pubDate>Sun, 26 Nov 2023 06:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[경기대, 성균관대, 인하대 등 경인권 대학들과 17개 IT기업들이 공동으로 진행한 'K- Software Empowerment BootCamp(KEB)' 2기 수료식이 24일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[행정망 마비, '라우터 불량' 최종결론..."외부 침입 無"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231126121454</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231124155149</guid>
             <pubDate>Fri, 24 Nov 2023 07:09:21 GMT</pubDate>
             <content:encoded><![CDATA[노드VPN(NordVPN)이 인공지능(AI) 기반 사이버 공격의 위험을 완화하는 방법을 공유했다고 24일 밝혔다. 피해자가 멀웨어를 다운로드하도록 유인하는 일반적인 방법은 스푸...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠로, 코스닥 150 지수 신규 편입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231124153137</link>
-            <guid>https://zdnet.co.kr/view/?no=20231124153137</guid>
-            <pubDate>Fri, 24 Nov 2023 07:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[엠로(대표 송재민)가 코스닥 150 지수에 새롭게 편입된다고 24일 밝혔다. 코스닥 150은 코스닥 시장을 대표하는 지수로, 2015년 7월 개발된 이래 선물, ETF 등 금융...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
