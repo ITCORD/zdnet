@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 02:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 03:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 소방 긴급출동 시스템 오전 한때 차질]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231127113029</link>
+            <guid>https://zdnet.co.kr/view/?no=20231127113029</guid>
+            <pubDate>Mon, 27 Nov 2023 03:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[서울 시내 소방 긴급출동 시스템이 일시적인 마비를 겪었다. 27일 서울소방재난본부 등에 따르면 오전 8시부터 오전 9시 반까지 긴급출동 시스템(MDT 서비스) 운영에 차질을 빚...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코바코 "12월 광고경기전망지수 99.5"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231127091351</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231122101838</guid>
             <pubDate>Wed, 22 Nov 2023 01:54:47 GMT</pubDate>
             <content:encoded><![CDATA[내일(23일)부터 SK텔레콤 5G 스마트폰에서 LTE 요금제 가입이 가능해진다. 아울러 LTE 휴대폰에서 5G 요금제 가입도 허용된다. 과학기술정보통신부는 SK텔레콤이 휴대폰 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대홈쇼핑·KT스카이라이프 '송출수수료 줄다리기' 속내]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231121180213</link>
-            <guid>https://zdnet.co.kr/view/?no=20231121180213</guid>
-            <pubDate>Wed, 22 Nov 2023 01:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대홈쇼핑과 KT스카이라이프가 송출수수료를 두고 계속된 평행선을 달릴 것으로 전망된다. 정부가 중재를 위해 대가검증협의체 운영을 본격 시작했지만, 각자의 사정으로 한발짝도 물러...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
