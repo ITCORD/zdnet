@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 03:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 04:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈, '2023 전국 장애인 이스포츠 대회' 사회공헌 캠페인 참여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231127105552</link>
+            <guid>https://zdnet.co.kr/view/?no=20231127105552</guid>
+            <pubDate>Mon, 27 Nov 2023 04:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈(대표 조계현)는 지난 25일과 26일 '2023 전국 장애인 이스포츠 대회'에서 자사 대표 사회공헌 캠페인 '찾아가는 프렌즈게임 랜드'를 실시했다고 밝혔다. 한국콘...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/27/d6e19464f7c1d129e76fc51fff9f0877-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 워크로드 증가, 지속가능성 숨통을 죄다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231127123628</link>
+            <guid>https://zdnet.co.kr/view/?no=20231127123628</guid>
+            <pubDate>Mon, 27 Nov 2023 04:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[최근 인공지능(AI)의 발전과 함께 데이터센터의 전력수요가 전세계적으로 급증하고 있다. AI를 운영하는 고성능컴퓨팅(HPC) 워크로드는 막대한 전력을 소비하는데, 곳곳에서 신규...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/27/b4534f2803dc825268f36b981bf93cc8-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DB손보, 국가품질혁신상 대통령표창 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231127122926</link>
+            <guid>https://zdnet.co.kr/view/?no=20231127122926</guid>
+            <pubDate>Mon, 27 Nov 2023 04:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[DB손해보험이 서울 코엑스 오디토리움에서 열린 제49회 국가품질경영대회에서 국가품질혁신상 디지털전환부문에서 대통령표창을 수상했다고 27일 밝혔다. 국가품질혁신상은 산업통상자원부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기상청, 한국형 UAM 등 미래 신산업 대응 위한 기상지원 체계 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20231127111855</link>
             <guid>https://zdnet.co.kr/view/?no=20231127111855</guid>
             <pubDate>Mon, 27 Nov 2023 03:10:25 GMT</pubDate>
             <content:encoded><![CDATA[기상청은 한국형 도심항공교통(K-UAM)·친환경에너지 등 미래 신산업 육성과 발전을 위해 필요한 맞춤형 기상정보를 지원하기 위한 실증사업과 기술개발(R&amp;D) 사업을 추진한다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/12/28/812991b34c71d9329575665159f9ce3d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[손보업계 자동차보험료 인하 압박 커진다]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231127100932</guid>
             <pubDate>Mon, 27 Nov 2023 03:10:25 GMT</pubDate>
             <content:encoded><![CDATA[금융위원회와 금융감독원이 보험업계를 대상으로 상생금융을 주문하고 있다. 손해보험업계에선 자동차보험료 인하를 검토 중이라는 입장이다. 27일 보험업계에 따르면, 현재 손보사들은 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2020/06/26/sia0413_icrG55d7EzIU-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부, 공공SW 대기업 참여 완화 검토...대기업 참여 행정망 살펴보니]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231127103858</guid>
             <pubDate>Mon, 27 Nov 2023 02:24:01 GMT</pubDate>
             <content:encoded><![CDATA[넷마블문화재단(이사장 방준혁)은 지난 25일 지타워에서 개최한 제19회 '넷마블게임콘서트'를 성황리에 종료했다고 밝혔다. 게임콘서트는 넷마블문화재단이 건강한 게임문화 조성과 확...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상화 프로그램 '도커' 활용, 스마트SSD를 독립 서버로 쓴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127094746</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127094746</guid>
-            <pubDate>Mon, 27 Nov 2023 02:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[가상화 프로그램 '도커'를 활용해 하드웨어 변경 없이도 SSD 장치를 독립 서버로 쓸 수 있는 기술이 개발됐다. KAIST(총장 이광형)는 물리적 장치를 실행하지 않고 가상으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무보, 사우디 국부펀드(PIF) 초청 'K-SURE 벤더 페어' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127110404</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127110404</guid>
-            <pubDate>Mon, 27 Nov 2023 02:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[한국무역보험공사(K-SURE)는 지난 24일 소피텔 앰배서더 서울호텔에서 사우디 국부펀드(PIF)와 자회사를 초청해 국내 기업의 네옴시티 등 초대형 인프라 프로젝트 진출과 글로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크가 만든 '뉴럴링크', 4천300만 달러 유치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127083730</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127083730</guid>
-            <pubDate>Mon, 27 Nov 2023 02:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크가 설립한 뇌신경과학 스타트업 뉴럴링크가 4천300만 달러(약 561억원)를 추가 조달했다. 25일(현지시간) 미국 IT매체 테크크런치에 따르면, 뉴럴링크는 미국 증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
