@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 05:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 06:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이디테크놀로지, Arm과 네오버스 CSS IP 체결...삼성 첨단 공정 이용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231127143909</link>
+            <guid>https://zdnet.co.kr/view/?no=20231127143909</guid>
+            <pubDate>Mon, 27 Nov 2023 06:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내 반도체 디자인하우스 에이디테크놀로지가 Arm과 네오버스 컴퓨트 서브시스템(CSS)의 반도체 설계자산(IP) 라이선스 계약을 체결하며 고성능 칩 개발 수주 준비에 다가갔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[르포] "반도체 리드프레임·BGA, 우리가 최고"...해성디에스 창원공장 증설 현장]]></title>
             <link>https://zdnet.co.kr/view/?no=20231126185316</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231123122922</guid>
             <pubDate>Thu, 23 Nov 2023 04:12:14 GMT</pubDate>
             <content:encoded><![CDATA[Arm이 23일 소형·저전력 사물인터넷(IoT) 기기의 AI 구현을 위한 코어텍스(Cortex)-M52 프로세서 IP를 공개했다. 코어텍스-M52는 디지털신호처리(DSP)와 머...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[씨게이트, 기업용 나이트로 4350 NVMe SSD 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231123104626</link>
-            <guid>https://zdnet.co.kr/view/?no=20231123104626</guid>
-            <pubDate>Thu, 23 Nov 2023 01:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[씨게이트가 23일 클라우드 컴퓨팅과 데이터센터에 특화된 나이트로 4350 NVMe SSD를 공개했다. 나이트로 4350 NVMe SSD는 PCI 익스프레스 4.0 규격과 3D ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
