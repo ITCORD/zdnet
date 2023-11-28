@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 22:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 23:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알체라 황영규 대표, 24회 SW산업발전 유공 대통령 표창 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231129080825</link>
+            <guid>https://zdnet.co.kr/view/?no=20231129080825</guid>
+            <pubDate>Tue, 28 Nov 2023 23:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[영상인식 인공지능(AI) 전문기업 알체라는 황영규 대표가 27일 서울 강남 엘타워에서열린 '제24회 소프트웨어산업인의 날' 기념식에서 소프트웨어 산업발전 유공 대통령 표창을 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트리센티스 "기업 앱·서비스 오류, 테스트 자동화 해결"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231128143833</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231128144145</guid>
             <pubDate>Tue, 28 Nov 2023 07:09:33 GMT</pubDate>
             <content:encoded><![CDATA["한글과컴퓨터는 생성형 인공지능(AI)을 문서 도구에 본격 적용할 방침입니다. AI와 자사 솔루션을 통합해 지능 자동화를 이룰 목표를 갖고 있습니다. 오늘 소개할 지능형 문서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스원 이상훈 대표, 산업 발전 유공자 대통령 표창 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231128153622</link>
-            <guid>https://zdnet.co.kr/view/?no=20231128153622</guid>
-            <pubDate>Tue, 28 Nov 2023 07:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[시스원은 제24회 소프트웨어(SW) 산업인의 날 기념식에서 이상훈 대표가 한국 소프트웨어 산업 발전에 기여한 공을 인정받아 대통령 표창을 수상했다고 28일 밝혔다. 지난 27일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
