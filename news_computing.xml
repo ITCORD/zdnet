@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 23:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 00:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세일즈포스, AWS 마켓플레이스서 판다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231128091858</link>
+            <guid>https://zdnet.co.kr/view/?no=20231128091858</guid>
+            <pubDate>Tue, 28 Nov 2023 00:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[세일즈포스가 아마존웹서비스(AWS)와 파트너십을 확대하고 자사의 주요 애플리케이션 서비스를 모두 AWS 마켓플레이스에서 판매하기로 했다. 27일(현지시간) 세일즈포스는 AWS ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파수 "생성형AI 민감정보 유출 사전 차단"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231127200039</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231127090517</guid>
             <pubDate>Mon, 27 Nov 2023 00:43:28 GMT</pubDate>
             <content:encoded><![CDATA[오라클은 로우코드 개발 플랫폼 최신 버전인 '오라클 에이펙스 23.2'를 출시하고 전 세계 오라클 클라우드 인프라스트럭처(OCI) 리전에 적용한다고 27일 밝혔다. 개발자는 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 '하이난'에 세계 최대 해저 데이터 센터 짓는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127005743</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127005743</guid>
-            <pubDate>Mon, 27 Nov 2023 00:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 세계 최대 규모 해저 데이터센터를 만든다. 26일 중국 언론 CCTV는 1300톤 중량의 해저 데이터 센터 핵심 장비인 '잠수함 데이터 캐빈'이 하이난성 링수이에 설치될...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
