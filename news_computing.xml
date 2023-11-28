@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 01:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 02:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈ZFS 2.2.0 버전에서 데이터 손상 버그 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231128111301</link>
+            <guid>https://zdnet.co.kr/view/?no=20231128111301</guid>
+            <pubDate>Tue, 28 Nov 2023 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[프리BSD 14 릴리스에 포함된 오픈ZFS 2.2.0 버전에서 데이터를 손상시키는 버그가 발견됐다. 프리BSD재단의 에드 마스테는 27일(현지시간) 메모를 올리고 "여러 버전의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퓨어스토리지, AI 포트폴리오 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231128112209</link>
+            <guid>https://zdnet.co.kr/view/?no=20231128112209</guid>
+            <pubDate>Tue, 28 Nov 2023 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[퓨어스토리지는 인공지능(AI) 활용사례를 위한 포트폴리오를 강화하고, 글로벌 AI 구축 전반에서 견실한 고객 모멘텀을 이어가고 있다고 28일 밝혔다. 퓨어스토리지는 기업용 데이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[18개국 'AI 안전 가이드라인' 나왔다…한국도 참여]]></title>
             <link>https://zdnet.co.kr/view/?no=20231128091937</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231127102125</guid>
             <pubDate>Mon, 27 Nov 2023 02:24:14 GMT</pubDate>
             <content:encoded><![CDATA[티맥스메타버스는 의료용 메타버스 플랫폼 '닥터메타'를 공개했다고 27일 밝혔다. 닥터메타는 국립암센터와 스마트헬스케어협회가 주관하고 티맥스메타버스가 업그레이드한 의료용 메타버스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애자일소다, 지능형 태양광 발전 모니터 '썬큐' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127090343</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127090343</guid>
-            <pubDate>Mon, 27 Nov 2023 02:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[애자일소다(대표 최대우)가 렉스이노베이션(대표 임정민)과 지능형 태양광 발전 모니터링 시스템 '썬 큐'를 개발했다고 27일 밝혔다. 썬 큐는 인버터, 접속함, 기상관측 등 실시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[방은주 칼럼] 공공분야 SW문제···국가CEO가 나서야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127082257</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127082257</guid>
-            <pubDate>Mon, 27 Nov 2023 01:52:44 GMT</pubDate>
-            <content:encoded><![CDATA[최근 며칠간 온 나라를 들썩이게 한 행정전산망 먹통 원인이 밝혀졌다. 네트워크 장비인 라우터(서로 다른 네트워크를 연결해주는 장치)의 포트에 문제가 있었다고 행안부가 25일 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
