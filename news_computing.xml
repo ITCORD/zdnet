@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 06:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가재난 초래한 행정망 마비, 근본 해결책 모색한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231128135329</link>
+            <guid>https://zdnet.co.kr/view/?no=20231128135329</guid>
+            <pubDate>Tue, 28 Nov 2023 06:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[공무원 행정전산망을 비롯해 나라장터, 법원 전산시스템 등이 연이어 마비 사태를 초래하면서 민생과 직결된 공공소프트웨어(SW) 사업에 대한 관심이 쏠리고 있다. 이처럼 반복된 시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메가존클라우드, 리인벤트2023서 국내기업 진출 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231128144722</link>
+            <guid>https://zdnet.co.kr/view/?no=20231128144722</guid>
+            <pubDate>Tue, 28 Nov 2023 06:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[메가존클라우드(대표 이주완)가 미국 라스베이거스에서 개막한 '리인벤트(re:Invent) 2023'에 부스를 마련하고 솔루션을 소개한다고 28일 밝혔다. 리인벤트는 아마존웹서비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국정원, 23개국 '안전한 AI 개발 가이드' 공동발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20231128140827</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231127123628</guid>
             <pubDate>Mon, 27 Nov 2023 04:12:49 GMT</pubDate>
             <content:encoded><![CDATA[최근 인공지능(AI)의 발전과 함께 데이터센터의 전력수요가 전세계적으로 급증하고 있다. AI를 운영하는 고성능컴퓨팅(HPC) 워크로드는 막대한 전력을 소비하는데, 곳곳에서 신규...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 공공SW 대기업 참여 완화 검토...'먹통 문제' 해법될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127103313</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127103313</guid>
-            <pubDate>Mon, 27 Nov 2023 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 최근 잇달아 발생하는 전산망 장애를 개선하기 위해 공공 소프트웨어(SW) 사업 대기업 참여제한을 완화하는 방안을 검토하고 있다. 하지만 대기업 참여로 현 상황을 해결할 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["소송 걱정 없는 비트코인, 'ETF·반감기' 자금 유입 늘 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127113150</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127113150</guid>
-            <pubDate>Mon, 27 Nov 2023 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[싱가포르 기반 블록체인 펀드 트루글로벌벤처스(TGV)는 웹3 주요 트렌드 현황을 분석해 27일 발표했다. TGV는 5년 주기로 이 트렌드를 공표하고 있다. TGV는 비트코인이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
