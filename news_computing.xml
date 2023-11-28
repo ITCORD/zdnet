@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국정원, 23개국 '안전한 AI 개발 가이드' 공동발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231128140827</link>
+            <guid>https://zdnet.co.kr/view/?no=20231128140827</guid>
+            <pubDate>Tue, 28 Nov 2023 05:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원은 28일 英 국가사이버안보센터(NCSC), 美 사이버안보·인프라보호청(CISA) 및 파이브아이즈(Five-Eyes)를 비롯한 주요국 23개 기관들이 참여한 '안전한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈ZFS 2.2.0 버전에서 데이터 손상 버그 발견]]></title>
             <link>https://zdnet.co.kr/view/?no=20231128111301</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231127113150</guid>
             <pubDate>Mon, 27 Nov 2023 03:10:40 GMT</pubDate>
             <content:encoded><![CDATA[싱가포르 기반 블록체인 펀드 트루글로벌벤처스(TGV)는 웹3 주요 트렌드 현황을 분석해 27일 발표했다. TGV는 5년 주기로 이 트렌드를 공표하고 있다. TGV는 비트코인이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스메타버스, 의료용 플랫폼 '닥터메타' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231127102125</link>
-            <guid>https://zdnet.co.kr/view/?no=20231127102125</guid>
-            <pubDate>Mon, 27 Nov 2023 02:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스메타버스는 의료용 메타버스 플랫폼 '닥터메타'를 공개했다고 27일 밝혔다. 닥터메타는 국립암센터와 스마트헬스케어협회가 주관하고 티맥스메타버스가 업그레이드한 의료용 메타버스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
