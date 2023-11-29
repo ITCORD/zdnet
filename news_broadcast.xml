@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 03:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 04:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[28GHz 지하철 와이파이 백홀, 이음5G로 이통사에 개방]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231129125340</link>
+            <guid>https://zdnet.co.kr/view/?no=20231129125340</guid>
+            <pubDate>Wed, 29 Nov 2023 04:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 이동통신사가 28GHz를 백홀로 활용하는 지하철 와이파이 서비스를 이음5G 주파수 대역을 활용해 제공할 수 있도록 12월1일자로 이음5G 주파수 할당공고를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[민주당, 이동관 방통위원장 탄핵소추안 제출]]></title>
             <link>https://zdnet.co.kr/view/?no=20231128162449</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231126110035</guid>
             <pubDate>Sun, 26 Nov 2023 03:10:18 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 위성전파감시센터는 지구 상공에서 치열한 주도권 경쟁이 펼쳐지고 있는 저궤도 위성통신 시대를 맞아 제2회 위성전파 위성통신 기술 컨퍼런스를 28일 오후 1시 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ IDC, 재난·재해 안정적 서비스 제공역량 인증]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231126105334</link>
-            <guid>https://zdnet.co.kr/view/?no=20231126105334</guid>
-            <pubDate>Sun, 26 Nov 2023 01:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 자사 인터넷데이터센터(IDC)에 대한 고객 서비스 연속성 경영시스템(BCMS, ISO 22301) 국제 인증을 획득했다고 26일 밝혔다. IDC는 서버, 데이터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
