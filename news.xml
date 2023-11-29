@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 20:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 21:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데하이마트, '하반기 창고대개방' 진행…최대 33% 할인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231130010736</link>
+            <guid>https://zdnet.co.kr/view/?no=20231130010736</guid>
+            <pubDate>Wed, 29 Nov 2023 21:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[롯데하이마트가 12월 한 달간 '2023년 하반기 창고대개방' 행사를 진행한다고 30일 밝혔다. 행사는 난방 가전, IT 가전 등 최근 수요가 높은 품목을 중심으로 진행된다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/30/46a7dc0cab6c11655f5541dab90d15bf-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['도심항공교통 플랫폼' 모비에이션, 500글로벌서 프리A 투자 받아]]></title>
             <link>https://zdnet.co.kr/view/?no=20231130012323</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231130005730</guid>
             <pubDate>Wed, 29 Nov 2023 16:12:16 GMT</pubDate>
             <content:encoded><![CDATA[한국로봇산업진흥원이 실외이동로봇 운행안전인증기관으로 지정되면서 본격적인 로봇 인증 업무를 시작한다. 진흥원은 지능형로봇법 개정안이 시행된 지 약 열흘 만인 지난 27일 산업통상...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/21/6aa430a2984b0aa04905294f7a7f00e8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가민, 전술용 GPS 스마트워치 출시…189만원]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231129180715</guid>
             <pubDate>Wed, 29 Nov 2023 09:09:56 GMT</pubDate>
             <content:encoded><![CDATA[정부가 반복되는 행정망 마비를 방지하기 위해 공공 소프트웨어(SW) 사업 전반에 걸쳐 제도를 개선할 방침이다. 29일 국무조정실은 방기선 국무조정실장이 정부서울청사에서 관계부처...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK스토아, '백종원의 골목맛집' 프로젝트 1주년 기념 행사 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231129175001</link>
-            <guid>https://zdnet.co.kr/view/?no=20231129175001</guid>
-            <pubDate>Wed, 29 Nov 2023 09:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[SK스토아(대표 윤석암)는 더본코리아(대표 백종원)와 손잡고 12월 한 달 간 '백종원의 골목맛집' 프로젝트 출시 1주년 기념 행사를 진행한다고 29일 밝혔다. '백종원의 골목...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
