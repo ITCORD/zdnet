@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 09:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 10:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 D램·낸드 가격 나란히 인상…"내년도 상승 지속될 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231130184129</link>
+            <guid>https://zdnet.co.kr/view/?no=20231130184129</guid>
+            <pubDate>Thu, 30 Nov 2023 10:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[30일 시장조사업체 디램익스체인지에 따르면 10월 PC용 D램 범용제품(DDR4 8Gb 1Gx8 2133MHz) 고정거래가격은 전월 대비 3.33% 증가한 1.55달러로 집계됐...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스 "다운턴 극복...임금인상분 12월 조기지급"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231130170324</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231128104506</guid>
             <pubDate>Tue, 28 Nov 2023 01:53:49 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴은 이공계 석박사과정 대학원생 대상 학술 논문 경연대회 '퀄컴 이노베이션 펠로우십 코리아 2023' 파이널 행사를 개최했다고 밝혔다. 퀄컴 이노베이션 펠로우십 코리아 202...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 파운드리, 韓·中과 경쟁으로 생산가격 10~20% 인하]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231128090206</link>
-            <guid>https://zdnet.co.kr/view/?no=20231128090206</guid>
-            <pubDate>Tue, 28 Nov 2023 01:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[대만 반도체 파운드리(위탁생산) 업체들이 한국과 중국 파운드리 업체들간 치열한 경쟁으로 인해 내년 1분기에 레거시(성숙) 반도체 생산 가격을 10~20% 인하할 계획이다. 28...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
