@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 01:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 02:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, ARM 칩 하나에 390원만 지급"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231130084856</link>
+            <guid>https://zdnet.co.kr/view/?no=20231130084856</guid>
+            <pubDate>Thu, 30 Nov 2023 02:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 영국 반도체 설계업체 ARM에 칩 하나당 30센트도 안 되는 로열티를 지급하고 있다고 IT매체 디인포메이션이 29일(현지시간) 보도했다. ARM은 아이폰, 아이패드, 맥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 갤럭시S24에 'LLW D램' 첫 탑재 전망...전력효율 70%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231130101944</link>
+            <guid>https://zdnet.co.kr/view/?no=20231130101944</guid>
+            <pubDate>Thu, 30 Nov 2023 02:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 갤럭시S24에 '온디바이스 AI'를 지원하기 위해 혁신 메모리 LLW(Low Latency Wide I/O) D램을 처음으로 탑재할 전망이다. 갤럭시S24는 내년 1...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["유니콘 팹리스 키우려면 정부·세트업체 원팀돼야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231129154533</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231127080607</guid>
             <pubDate>Mon, 27 Nov 2023 01:53:07 GMT</pubDate>
             <content:encoded><![CDATA[올 3분기 D램 시장이 전반적인 회복세를 기록했다. 특히 SK하이닉스는 경쟁사 대비 매출이 큰 폭으로 상승하면서, 1위 삼성전자와의 격차를 좁힌 것으로 나타났다. 27일 시장조...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 GPU 수출 규제, 엔비디아 이어 AMD GPU로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231124151406</link>
-            <guid>https://zdnet.co.kr/view/?no=20231124151406</guid>
-            <pubDate>Fri, 24 Nov 2023 07:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 대중 반도체 수출 규제가 지난 17일부터 시작되며 엔비디아와 AMD 등 주요 GPU 제조사의 고성능 GPU 수출이 중단됐다. 대상 제품은 AI와 HPC(고성능 컴퓨팅)에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사피온, AI 반도체 X330 지원하는 'SW 풀스택' 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231124135823</link>
-            <guid>https://zdnet.co.kr/view/?no=20231124135823</guid>
-            <pubDate>Fri, 24 Nov 2023 06:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[사피온이 기존 제품 대비 4배 성능을 제공하는 데이터센터용 AI 반도체 'X330'이 개발자의 편의성을 높인 소프트웨어(SW) 풀스택을 함께 제공한다고 24일 밝혔다. SW 풀...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
