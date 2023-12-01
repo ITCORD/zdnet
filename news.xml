@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 16:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 17:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 재무부, FEOC 세부조항 발표...中 지분 25%↑보조금 못 받는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231202013149</link>
+            <guid>https://zdnet.co.kr/view/?no=20231202013149</guid>
+            <pubDate>Fri, 01 Dec 2023 17:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 중국 기업의 지분율이 25% 이상인 합작기업 제품에 세액공제를 제한하는 것을 골자로 한 해외우려집단(FEOC) 세부규정을 1일(현지시간) 발표했다. 이날 미 재무부...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/26/67c5be658b9ceaf76d0031b25ffe18b6-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, UAE 주도 5개 이니셔티브 동참...재생에너지 등 협력 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231201121313</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231201121156</guid>
             <pubDate>Fri, 01 Dec 2023 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[아랍에미리트(UAE) 두바이에서 제28차 유엔기후변화협약당사국총회(COP28)가 개최 중인 가운데 우리나라를 비롯한 독일, 유럽연합(EU) 등 전 세계 36개국이 참여하는 기후...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/01/4bb0e49738c3c4bf9a9827e344ca234f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인스웨이브, 웹 공유 'W-셰어링 SaaS' 정식 오픈]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231201164953</guid>
             <pubDate>Fri, 01 Dec 2023 08:12:29 GMT</pubDate>
             <content:encoded><![CDATA[HD현대 조선중간지주사인 HD한국조선해양은 최근 유럽 소재 선사와 4억 3천240만 달러 규모 초대형 암모니아 운반선 4척에 대한 건조계약을 체결했다고 1일 밝혔다. 이번에 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["HAMR 적용 30TB HDD, TCO·탄소 발자국 줄일 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231201150858</link>
-            <guid>https://zdnet.co.kr/view/?no=20231201150858</guid>
-            <pubDate>Fri, 01 Dec 2023 08:12:29 GMT</pubDate>
-            <content:encoded><![CDATA["시장조사업체 IDC 조사에 따르면 오는 2027년까지 연간 251ZB(제타바이트, 2천510억 TB) 가량의 데이터가 생성될 것이라고 합니다. 그러나 이들 데이터 중 총 11...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
