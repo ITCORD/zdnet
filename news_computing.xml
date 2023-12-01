@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스웨이브, 웹 공유 'W-셰어링 SaaS' 정식 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231201183922</link>
+            <guid>https://zdnet.co.kr/view/?no=20231201183922</guid>
+            <pubDate>Fri, 01 Dec 2023 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 비대면 업무 환경에 최적화된 웹 공유 서비스 'W-셰어링(W-Sharing)'의 서비스형 소프트웨어(SaaS) 버전을 정식 출시했다고 1일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["HAMR 적용 30TB HDD, TCO·탄소 발자국 줄일 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231201150858</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231130162824</guid>
             <pubDate>Thu, 30 Nov 2023 08:12:56 GMT</pubDate>
             <content:encoded><![CDATA[CJ올리브네트웍스(대표 유인상)가 네이버클라우드(대표 김유원) 및 네이버랩스(대표 석상옥)와 함께 스마트시티 사업 공동 추진을 위한 3사간 상호 협력을 체결했다고 30일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인스웨이브, 앱 빌드/배포 서비스 'W-하이브' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231130161242</link>
-            <guid>https://zdnet.co.kr/view/?no=20231130161242</guid>
-            <pubDate>Thu, 30 Nov 2023 08:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 크로스플랫폼 애플리케이션 개발을 혁신적으로 간소화하는 서비스, 'W-하이브(W-Hive)'를 정식 출시했다고 29일 밝혔다. W-하이브는 복잡...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
