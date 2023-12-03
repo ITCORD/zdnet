@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 11:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 12:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당정 "행정전산망 먹통 방지 TF발족, 종합대책 수립"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231203200333</link>
+            <guid>https://zdnet.co.kr/view/?no=20231203200333</guid>
+            <pubDate>Sun, 03 Dec 2023 12:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 최근 연달아 발생한 행정전산망 먹통을 방지하기 위해 범정부 대책 태스크포스(TF)를 발족한다. 종합대책은 내년 1월까지 수립 후 발표할 계획이다. 3일 정부와 대통령실,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터안심구역 공동 첫 경진대회서 '플랜4에코' 1위]]></title>
             <link>https://zdnet.co.kr/view/?no=20231203143923</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231201143957</guid>
             <pubDate>Fri, 01 Dec 2023 06:13:53 GMT</pubDate>
             <content:encoded><![CDATA[“인공지능(AI)의 등장으로 데이터가 기업 경쟁력의 핵심으로 떠오르고 있다. 하지만 급증하는 데이터를 제대로 관리·활용하는 기업은 손에 꼽을 정도다. 이제는 오브젝트 스토리지를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공공기관, 발주지원제 외면…4.4%만 받았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231201094112</link>
-            <guid>https://zdnet.co.kr/view/?no=20231201094112</guid>
-            <pubDate>Fri, 01 Dec 2023 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 운영하고 있는 행정전산망이 하드웨어 관리 부실 등으로 최근 잇달아 장애를 일으켜 사회 문제가 된 가운데 발주지원 서비스를 받은 공공기관과 사업 건수가 터무니없이 적은 것...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
