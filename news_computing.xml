@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 05:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["서비스는 항상 죽을 수 있어···'퓨처 클라우드' 주목"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231203140536</link>
+            <guid>https://zdnet.co.kr/view/?no=20231203140536</guid>
+            <pubDate>Sun, 03 Dec 2023 05:09:32 GMT</pubDate>
+            <content:encoded><![CDATA["이제 클라우드는 세컨드 라운드를 맞이하고 있습니다. 온디맨드(On demand) 진화로 고객은 더 이상 안기다립니다. 애자일로 얼마나 빨리 서비스를 제공하는냐와 지능화, 언제...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["구글, AI 모델 '제미니' 내년 초 공개"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231203115125</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231201140051</guid>
             <pubDate>Fri, 01 Dec 2023 05:13:08 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)는 지난달 27일부터 1일까지 개최한 연례 컨퍼런스 'AWS 리인벤트2023'에서 대규모 언어 모델(LLM) 및 기타 파운데이션 모델(FM)의 구축, 학습...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM DB2, 마침내 AWS에 올라가다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231201133946</link>
-            <guid>https://zdnet.co.kr/view/?no=20231201133946</guid>
-            <pubDate>Fri, 01 Dec 2023 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[IBM의 관계형 데이터베이스 'DB2'가 마침내 타사 클라우드에서 서비스된다. IBM은 지난달 29일 아마존웹서비스(AWS)의 RDB 서비스인 '아마존 RDS'에서 IBM DB...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
