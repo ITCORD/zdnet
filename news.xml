@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 10:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 11:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IMC게임즈 '트리 오브 세이비어', 새 클래스 폰티펙스 추가 예정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231204193647</link>
+            <guid>https://zdnet.co.kr/view/?no=20231204193647</guid>
+            <pubDate>Mon, 04 Dec 2023 11:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[IMC게임즈(대표 김학규)는 스팀(STEAM)을 통해 서비스 중인 PC MMORPG '트리 오브 세이비어'에 신규 클래스 '폰티펙스'를 추가할 예정이라고 4일 밝혔다. '폰티펙...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/04/ebd97c87170e1ce7a74736f7ac01558d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[XPLA, 구미와 밸리데이터 파트너십 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20231204182032</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231204181605</guid>
             <pubDate>Mon, 04 Dec 2023 10:11:23 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤(대표 김창한)은 4일 인공지능 인재 양성 프로그램 '크래프톤 AI 펠로우십' 2기를 모집한다고 밝혔다. 크래프톤 AI 펠로우십은 인공지능 분야 핵심 인재 양성을 위해 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/04/dd3f4154142b4edada2d93fc830107e4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[그라비티 네오싸이언 '퍼즐앤드래곤', 전격문고와 컬래버레이션 진행]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231204162318</guid>
             <pubDate>Mon, 04 Dec 2023 08:13:02 GMT</pubDate>
             <content:encoded><![CDATA[중국 스마트폰 업체 메이주가 스마트링과 AR글라스 시장에 도전장을 던졌다. 1일(현지시간) 기즈모차이나에 따르면 메이주는 최근 스마트폰 신제품 메이주21을 공개하면서 스마트링,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["엔비디아, 중국 시장용 지포스 RTX 4090 준비중"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231204161650</link>
-            <guid>https://zdnet.co.kr/view/?no=20231204161650</guid>
-            <pubDate>Mon, 04 Dec 2023 08:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 중국 시장 수출용으로 연산 성능을 일부 제한한 새 그래픽카드인 '지포스 RTX 4090 D' 출시를 준비중이다. 미국 상무부의 대중 반도체 수출 규제가 지난 달 17...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
