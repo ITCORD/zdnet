@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문서 작업 때 즐겨 쓰는 이 폰트, 누가 만들었을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231203144433</link>
+            <guid>https://zdnet.co.kr/view/?no=20231203144433</guid>
+            <pubDate>Mon, 04 Dec 2023 06:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[신문 조판과 도서 인쇄 등 목적으로 사진식자기와 식자판이 국내에 도입되던 1980년대. 일본 사진식자 기업 샤켄(写研)과 모리사와(モリサワ)가 한국에 식자기를 판매하고자 서체 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[만나플러스, 일 정액제 유상운송보험 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231204121829</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231201104252</guid>
             <pubDate>Fri, 01 Dec 2023 02:32:29 GMT</pubDate>
             <content:encoded><![CDATA[스타트업 업계가 투자 시장 활성화를 위해 기업주도형 벤처캐피탈(CVC) 규제 완화를 촉구하고 나섰다. 1일 코리아스타트업포럼은 차주 열리는 국회 정무위원회 제2법안심사소위에 상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中서 AI 생성 이미지 무단 사용 '벌금' 판결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231201021536</link>
-            <guid>https://zdnet.co.kr/view/?no=20231201021536</guid>
-            <pubDate>Fri, 01 Dec 2023 02:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷에 공개된 인공지능(AI) 생성 이미지를 워터마크 없애고 개인적으로 사용하면 저작권을 침해한 것이 될까? 중국 법원은 '그렇다'고 판결했다. 29일(현지시간) 중국 언론 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
