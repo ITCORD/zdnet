@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 04:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 05:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스켈터랩스, 분당서울대병원 콜센터에 음성인식 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231204110648</link>
+            <guid>https://zdnet.co.kr/view/?no=20231204110648</guid>
+            <pubDate>Mon, 04 Dec 2023 05:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[스켈터랩스는 분당서울대학교병원 콜센터 서비스에 인공지능(AI) 음성인식(STT) 기술을 공급한다고 4일 밝혔다. 분당서울대 병원은 AI STT 기술을 활용해 ▲상담원의 업무 부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성AI, 미세조정보다 프롬프팅이 나을 수 있다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231204114156</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231203102747</guid>
             <pubDate>Sun, 03 Dec 2023 01:54:51 GMT</pubDate>
             <content:encoded><![CDATA[아마존이 성공적 저궤도 위성 발사를 위해 경쟁사인 스페이스X와 손을 잡는다. 1일 (현지시간) 엔가젯 등 외신에 따르면 아마존은 프로젝트 카이퍼를 위해 스페이스X와 팰콘9 발사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인, 3만9천 달러 돌파…1년7개월만]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231203091806</link>
-            <guid>https://zdnet.co.kr/view/?no=20231203091806</guid>
-            <pubDate>Sun, 03 Dec 2023 01:54:51 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인 시세가 1년 7개월 만에 3만9천 달러를 돌파했다. 가상자산 가격 집계 사이트 코인마켓캡에 따르면 비트코인 시세는 오전 9시 기준 지난 24시간 2% 상승해 3만9천 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
