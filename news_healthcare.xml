@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 01:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 02:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건보공단의 의료데이터 민간 제공 둘러싼 세가지 질문]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231201110125</link>
+            <guid>https://zdnet.co.kr/view/?no=20231201110125</guid>
+            <pubDate>Mon, 04 Dec 2023 02:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[국민건강보험공단이 보유한 보건의료 빅데이터의 민간 활용과 관련, 국민들이 체감할 수 있는 효과성, 기업의 데이터 활용 역량, 개인정보 침해 등 역작용에 대한 방안 및 사회적 합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1분건강] 수족냉증·무좀·습진…겨울에 더 힘든 '발 다한증']]></title>
             <link>https://zdnet.co.kr/view/?no=20231204093954</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231129095702</guid>
             <pubDate>Wed, 29 Nov 2023 01:53:15 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 겨울철을 맞아 영유아 급식시설의 노로바이러스 식중독 예방관리 강화를 위해 어린이 집단급식소 총 3천774곳에 대해 지방자치단체와 함께 10월16일부터 11월3...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노인 급성골수성백혈병 환자별 최적 치료법 제시하는 인공지능 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231128164401</link>
-            <guid>https://zdnet.co.kr/view/?no=20231128164401</guid>
-            <pubDate>Tue, 28 Nov 2023 23:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[기계 학습(Machine Learning) 모델을 적용해 백혈병을 세포 유전학적 특성별로 세분화하고, 노인 급성골수성백혈병 환자별 맞춤형 치료 전략에 응용한 연구가 국내 처음으...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
