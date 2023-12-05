@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기술과 인간이 빚는 '요즘 마케팅' 전략 푼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231205112313</link>
+            <guid>https://zdnet.co.kr/view/?no=20231205112313</guid>
+            <pubDate>Tue, 05 Dec 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA['코로나19'라는 유례없는 팬데믹을 거치면서 2023년 디지털 마케팅 환경은 새로운 기술과 소비자 행동 변화로 크게 진화했다. 달라진 콘텐츠 습관으로 짧게 핵심만 담은 콘텐츠가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["케이뱅크, 오른 예금 금리도 보장해드려요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231205103645</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231204004017</guid>
             <pubDate>Mon, 04 Dec 2023 00:43:52 GMT</pubDate>
             <content:encoded><![CDATA[미국 오픈AI가 중국에서 차세대 GPT 모델 상표권을 확보하고 있다. 2일 중국 언론 IT즈자는 기업정보 플랫폼 톈옌차를 인용해 미국 오픈AI가 중국에서 'GPT-6', 'GP...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MMA2023 뉴진스 5관왕·NCT드림 4관왕…아이브는 '올해의 앨범' 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231203010333</link>
-            <guid>https://zdnet.co.kr/view/?no=20231203010333</guid>
-            <pubDate>Sat, 02 Dec 2023 17:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터테인먼트(대표 이진수·김성수)의 뮤직플랫폼 멜론이 주최한 MMA2023(멜론뮤직어워드)이 2일 저녁 13팀의 공연과 총 30개에 이르는 시상 부문의 수상자들을 발표하며...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
