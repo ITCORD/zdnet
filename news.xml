@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 09:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 10:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천안타운홀 '디지털 천안 8경'… 미디어아트쇼 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231205183949</link>
+            <guid>https://zdnet.co.kr/view/?no=20231205183949</guid>
+            <pubDate>Tue, 05 Dec 2023 10:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[천안시는 지난달 30일 미디어아트 '밤하늘의 별' 시연회와 함께 프로그램의 공식 운영을 시작했다고 밝혔다. 도시재생 도시미관사업 목적으로 추진된 '밤하늘의 별'은 천안타운홀 전...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/05/218bbc2734cc6917eec23a14f3077cfa-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페24, 구글서 260억 투자 유치..."유튜브 쇼핑 협력 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231205180021</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231205175828</guid>
             <pubDate>Tue, 05 Dec 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[시큐레터(대표 임차성)가 제로 트러스트 기반 콘텐츠 무해화(CDR) 솔루션 'MARS SLCDR'을 국가 및 공공기관에 공급해 시장 확대에 나섰다고 5일 밝혔다. 정부가 디지털...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/05/55ce63d361f15a5418597aa95e43d33e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KISIA-FIDO 얼라이언스, 해외인증 협력 강화]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231205151026</guid>
             <pubDate>Tue, 05 Dec 2023 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI의 인공지능(AI) 챗봇 챗GPT'에 같은 단어를 반복하라고 요청할 경우 사용자의 개인정보가 노출된다는 연구 결과가 발표돼 논란이 일고 있다. 그러자 오픈AI가 챗GPT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA-국방기술품질원, 방산 사이버보안 협약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231205165315</link>
-            <guid>https://zdnet.co.kr/view/?no=20231205165315</guid>
-            <pubDate>Tue, 05 Dec 2023 08:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)은 국방기술품질원과 방산 분야 사이버 침해사고 대응 및 보안 역량 강화를 위한 업무협약(MOU)을 체결했다고 5일 밝혔다. KISA 서울청사에서 실시한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
