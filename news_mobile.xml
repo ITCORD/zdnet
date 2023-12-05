@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 08:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["홈프로젝터 한계 돌파"...엡손 홈시네마 프로젝터 '주목']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231205161743</link>
+            <guid>https://zdnet.co.kr/view/?no=20231205161743</guid>
+            <pubDate>Tue, 05 Dec 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[영화진흥위원회가 지난 11월 전국 만 14-69세 남녀 3천여 명을 대상으로 조사한 결과를 공개한 '2022년 영화소비자 행태조사'에 따르면, 지난 해 국내 관람객이 영화관에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 5G 아닌 6G 모뎀 개발로 전환할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20231205134143</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231204114604</guid>
             <pubDate>Mon, 04 Dec 2023 03:10:51 GMT</pubDate>
             <content:encoded><![CDATA[에이수스코리아는 지난 2·3일 양일간 경기도 일산 킨텍스에서 진행된 국내 최대 규모 애니메이션, 게임 전시회 'AGF 2023'에 게임용 하드웨어를 출품했다고 밝혔다. 에이수스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미마이크로닉스, PNY CS3150 SSD 국내 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231204111047</link>
-            <guid>https://zdnet.co.kr/view/?no=20231204111047</guid>
-            <pubDate>Mon, 04 Dec 2023 02:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[한미마이크로닉스가 4일 PNY CS3150 M.2 NVMe SSD를 국내 출시했다. 이 제품은 PCI 익스프레스 5.0 인터페이스 기반으로 최대 속도를 읽기 12GB/s, 쓰기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
