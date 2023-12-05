@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 03:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 04:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년 보안 키워드 'AI·랜섬웨어·공급망·IAM·클라우드']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231205130037</link>
+            <guid>https://zdnet.co.kr/view/?no=20231205130037</guid>
+            <pubDate>Tue, 05 Dec 2023 04:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스가 2024년 5대 보안 위협 키워드로 인공지능(AI), 랜섬웨어, 공급망 공격, 자격 증명(IAM) 탈취, 클라우드 리소스를 선정했다. 5일 SK쉴더스의 이큐스트(E...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 개발자 등 각 구성원별 메타버스 실천윤리 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231205101326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231204154847</guid>
             <pubDate>Mon, 04 Dec 2023 07:09:52 GMT</pubDate>
             <content:encoded><![CDATA["챗GPT는 '컵'이라는 단어를 알지만 컵의 구체적 용도를 모릅니다. 사람이 이를 일일이 데이터로 가르쳐야 합니다. 인공지능(AI)이 더 발전하려면 AI에 팔과 다리가 생겨야 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스켈터랩스, 분당서울대병원 콜센터에 음성인식 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231204110648</link>
-            <guid>https://zdnet.co.kr/view/?no=20231204110648</guid>
-            <pubDate>Mon, 04 Dec 2023 05:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[스켈터랩스는 분당서울대학교병원 콜센터 서비스에 인공지능(AI) 음성인식(STT) 기술을 공급한다고 4일 밝혔다. 분당서울대 병원은 AI STT 기술을 활용해 ▲상담원의 업무 부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
