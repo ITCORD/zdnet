@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 19:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 20:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 생성 AI 가속용 인스팅트 MI300X GPU 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207041213</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207041213</guid>
+            <pubDate>Wed, 06 Dec 2023 20:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 6일 오전(미국 서부시간) 데이터센터와 서버의 AI 연산을 가속하는 인스팅트 MI300X GPU를 정식 출시했다. 인스팅트 MI300X는 CDNA3 아키텍처 기반 GP...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3분기 전세계 반도체 장비 매출 11% 감소...중국만 구입 늘었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231206175921</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231201104654</guid>
             <pubDate>Fri, 01 Dec 2023 02:32:40 GMT</pubDate>
             <content:encoded><![CDATA[7년만에 돌아온 정철동 LG디스플레이 신임 사장은 "실적 턴어라운드가 무엇보다 급선무이며, 이를 위해서는 고객과 약속된 사업을 철저하게 완수해 내고, 계획된 목표는 반드시 달성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 D램·낸드 가격 나란히 인상…"내년도 상승 지속될 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231130184129</link>
-            <guid>https://zdnet.co.kr/view/?no=20231130184129</guid>
-            <pubDate>Thu, 30 Nov 2023 10:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[30일 시장조사업체 디램익스체인지에 따르면 11월 PC용 D램 범용제품(DDR4 8Gb 1Gx8 2133MHz) 고정거래가격은 전월 대비 3.33% 증가한 1.55달러로 집계됐...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 19:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 20:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, AI 강화한 노트북용 CPU '라이젠 8040' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231206175503</link>
+            <guid>https://zdnet.co.kr/view/?no=20231206175503</guid>
+            <pubDate>Wed, 06 Dec 2023 20:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 AI 처리 성능을 강화한 젠4(Zen 4) 아키텍처 기반 노트북용 프로세서인 라이젠 8040 시리즈를 공개했다. 8코어, 16스레드로 작동하는 최상위 제품인 라이젠 9...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스탠리블랙앤데커, 김장 나눔 봉사활동 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20231207003353</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231206021743</guid>
             <pubDate>Tue, 05 Dec 2023 18:13:38 GMT</pubDate>
             <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠홈시스가 최고급형 리네이처 안마의자를 출시했다고 5일 밝혔다. 신제품은 사용자 전신을 안마의자에 정확하게 밀착시킨다. 제품에 내장된 어깨 압력 감지·적외...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오비오, 미국수질협회 회원사 가입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231206020514</link>
-            <guid>https://zdnet.co.kr/view/?no=20231206020514</guid>
-            <pubDate>Tue, 05 Dec 2023 17:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[국내 정수기·냉온수기 전문 제조 기업 오비오가 미국수질협회(WQA) 회원사로 공식 가입했다고 5일 밝혔다. WQA는 물 처리 및 정화 산업 분야의 국제적 인증 기관이다. 각종 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
