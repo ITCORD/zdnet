@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 03:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 04:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피그먼트, '스택스' 밸리데이터 합류]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207131118</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207131118</guid>
+            <pubDate>Thu, 07 Dec 2023 04:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[밸리데이터 업체 피그먼트는 스택스와 밸리데이터 파트너십을 맺었다고 7일 밝혔다. 스택스는 비트코인 네트워크 상에서 스마트컨트랙트를 개발할 수 있는 레이어2 프로젝트다. 피그먼트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빗썸-코인원, 1위 스테이블코인 '테더' 상장]]></title>
             <link>https://zdnet.co.kr/view/?no=20231207113747</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231206133931</guid>
             <pubDate>Wed, 06 Dec 2023 05:10:13 GMT</pubDate>
             <content:encoded><![CDATA[정보보호컨설팅과 보안관제, 보안솔루션, 보안서비스를 제공하고 있는 시큐어원(대표 유형석)은 최근 일어난 행정전산망 장애를 사전에 탐지, 예방할 수 있는 솔루션인 'CS아이(CS...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코, 생성 AI 기반 보안 어시스턴트 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231206124953</link>
-            <guid>https://zdnet.co.kr/view/?no=20231206124953</guid>
-            <pubDate>Wed, 06 Dec 2023 04:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[[멜버른(호주)=김우용 기자] “AI를 사용하면 대규모로 데이터를 연관시키고, 더 많은 공격을 확인하고, 공격을 더 빠르게 억제해 피해를 최소화할 수 있다. AI와 방대한 양의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
