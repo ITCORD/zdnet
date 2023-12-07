@@ -4,9 +4,57 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 09:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 10:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[델, 생성형 AI용 AMD 인스팅트 가속기 탑재 서버 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207190551</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207190551</guid>
+            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[델테크놀로지스가 AMD와 협력해 '델 생성형 AI 솔루션' 포트폴리오를 강화한다고 7일 밝혔다. 개방형 생태계를 구축하고 프로세서의 다양성을 넓혀, 각 기업이 보유한 고유 데이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 임직원 기부 물품 2천여 점 장애근로인 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207184930</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207184930</guid>
+            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)이 임직원 대상의 도서&amp;물품 자원 재순환 기부 캠페인으로 모은 2,000여 점의 물품을 밀알복지재단 굿윌스토어에 전달했다고 7일 밝혔다. 굿윌스토어는 장애인의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS, 제로 ETL 통합 기능 4종 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207183953</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207183953</guid>
+            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)가 'AWS 리인벤트(re:Invent) 2023'에서 제로 ETL(추출, 변환, 로드) 통합 기능 네 가지를 공개했다고 7일 밝혔다. 제로 ETL 통합은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[베스핀글로벌, 자체 대화형 AI플랫폼 준비 마쳐]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207182920</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207182920</guid>
+            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[베스핀글로벌이 디지털서비스 전문계약 제도를 통해 대화형 인공지능(AI) 플랫폼 서비스를 제공할 수 있게 됐다고 7일 밝혔다. 베스핀글로벌의 대화형 AI 플랫폼 서비스는 디지털서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[킨드릴, AWS와 생성형 AI 도입 가속화 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207182429</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207182429</guid>
+            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[킨드릴 코리아(대표 류주복)은 아마존웹서비스(AWS)와 다년간의 전략적 협력 계약(SCA)을 체결한다고 7일 밝혔다. 발표했다. 이 계약은 생성형 AI 솔루션 및 고급 머신러닝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[라온시큐어-크립토랩, 양자내성암호 보안 솔루션 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231207181425</link>
+            <guid>https://zdnet.co.kr/view/?no=20231207181425</guid>
+            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[라온시큐어(대표 이순형)는 크립토랩과 양자내성암호(PQC) 및 동형암호(HE) 기반 신제품 및 서비스 상용화를 추진하기 위한 업무 협약(MOU)를 체결했다고 7일 발표했다. 크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[딥노이드, 필리핀 AI의료 시장 진출 청신호]]></title>
             <link>https://zdnet.co.kr/view/?no=20231207180645</link>
@@ -117,54 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231207104729</guid>
             <pubDate>Thu, 07 Dec 2023 01:52:37 GMT</pubDate>
             <content:encoded><![CDATA[비아이매트릭스가 역삼동 비아이매트릭스 본사에서 이노룰스, 투이컨설팅과 함께 '쉬운 디지털 동맹'을 출범하고, 동시에 전략적 파트너십을 체결했다고 7일 밝혔다. 쉬운 디지털 동맹...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 범용 AI 모델 '제미나이' 공개…"GPT-4보다 똑똑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207080855</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207080855</guid>
-            <pubDate>Thu, 07 Dec 2023 01:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 새로운 범용 인공지능(AI) 모델 '제미나이'를 전격 공개했다. 6일(현지시간) 뉴욕타임스 등 주요 외신은 구글이 멀티모달 모델 제미나이를 공개했다고 보도했다. 구글 측...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 독립형 이미지 생성AI '이매진 위드 메타' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207102317</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207102317</guid>
-            <pubDate>Thu, 07 Dec 2023 01:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 페이스북, 인스타그랩과 상관 없이 사용할 수 있는 이미지 생성형AI '이매진 위드 메타'(이하 이매진)를 출시했다. 6일(현지시간) 테크크런치 등 외신에 따르면 메타가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코, '10억 명에게 긍정적 영향력 전파' 목표 조기 달성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207102009</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207102009</guid>
-            <pubDate>Thu, 07 Dec 2023 01:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[[멜버른(호주)=김우용 기자] 시스코는 자사의 비전인 '모두를 위한 포용적인 미래'에 따라 기술과 사람의 연결을 통해 전 세계 10억 명의 삶에 긍정적인 영향력을 전파하겠다는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["비트코인, 내년 1월 5만 달러 간다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207093141</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207093141</guid>
-            <pubDate>Thu, 07 Dec 2023 00:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 비트코인 가격이 4만4천 달러까지 오른 가운데, 내년 1월에는 5만 달러를 돌파할 것이라는 전망이 나왔다. 블룸버그 통신은 6일(현지시간) 많은 옵션 트레이더들이 내년 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이노그리드, 클라우드관리플랫폼 '탭클라우드잇' 산업부 장관상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207093020</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207093020</guid>
-            <pubDate>Thu, 07 Dec 2023 00:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 컴퓨팅 및 디지털전환(DT) 전문 기업 이노그리드(대표 김명진)는 자사의 지능형 하이브리드 클라우드 관리 플랫폼(CMP) '탭클라우드잇(TabCloudit)'이 '대한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포티투마루, 영국 국빈사절단 참여 MOU 2건]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207091233</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207091233</guid>
-            <pubDate>Thu, 07 Dec 2023 00:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[앤서링 AI(Answering AI) 스타트업 포티투마루(42Maru, 대표 김동환)는 윤석열 대통령의 영국 국빈방문 경제사절단에 참여해 생성형 AI 서비스 및 초거대 AI 분...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
