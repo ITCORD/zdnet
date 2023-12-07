@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 22:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 23:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글컴, 스마트워크 지원 '글라우딘' SW기술대상서 금상 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231208074446</link>
+            <guid>https://zdnet.co.kr/view/?no=20231208074446</guid>
+            <pubDate>Thu, 07 Dec 2023 23:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[클컴(대표 이의준)은 자사의 스마트워크 지원 솔루션 '클라우딘(Cloudin)'이 한국소프트웨어기술진흥협회(KOSTA)와 과학기술정보통신부가 시행한 '2023 대한민국 소프트웨...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빔소프트웨어, 데이터 보안 '제로 트러스트 모델' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231207192741</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231207105754</guid>
             <pubDate>Thu, 07 Dec 2023 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[[멜버른(호주)=김우용 기자] 한국의 직원 대부분은 일주일에 몇 번 이상 사무실에서 근무할 의향을 가졌지만, 직원의 절반 이상이 사무실이 더 이상 자신의 목적에 맞지 않는다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗, '위믹스' 8일 재상장…"DAXA 가이드라인 준수"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207111450</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207111450</guid>
-            <pubDate>Thu, 07 Dec 2023 02:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 코빗이 업계 공동으로 상장 폐지를 결정했던 국내 게임사 위메이드의 코인 '위믹스'를 8일 재상장한다. 다른 위믹스 재상장 사례와 비교할 때 거래소 자율규제 단체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
