@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 04:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 05:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 "2년간 개인정보 26억건 유출…종단간 암호화 필요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231208135518</link>
+            <guid>https://zdnet.co.kr/view/?no=20231208135518</guid>
+            <pubDate>Fri, 08 Dec 2023 05:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2년간 데이터 유출로 인한 수십억건에 달하는 개인 정보 유출이 있었다는 조사 결과가 나왔다. 8일 애플이 공개한 스튜어트 매드닉 매사추세츠공대(MIT) 교수의 '개인정보에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3Q 스마트폰 생산량 2년 만에 증가세…삼성 1위]]></title>
             <link>https://zdnet.co.kr/view/?no=20231208112034</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231207105134</guid>
             <pubDate>Thu, 07 Dec 2023 06:14:17 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 협동로봇 공장은 분주하면서도 조용했다. 로봇 십수 대가 눈앞에서 큰 동작을 펼치며 시범 운전 중이었지만 옆사람 대화가 잘 들리는 정도였다. 안전 펜스도 필요 없었다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신일, 가열식 가습기 출시…25만9천원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207141528</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207141528</guid>
-            <pubDate>Thu, 07 Dec 2023 06:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[종합가전 기업 신일전자가 세균 번식 우려를 줄인 '가열식 가습기'를 출시한다고 7일 밝혔다. 신일 '가열식 가습기'는 물을 100℃에서 가열 후 식어 나오는 증기로 가습하는 제...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
