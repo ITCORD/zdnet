@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 22:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 23:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, 美 극비우주선 X-37B 발사한다 [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231208210352</link>
+            <guid>https://zdnet.co.kr/view/?no=20231208210352</guid>
+            <pubDate>Fri, 08 Dec 2023 23:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[베일에 쌓인 미군의 비밀 무인우주선 X-37B가 오는 10일(이하 현지시간) 스페이스X 팰컨 헤비 로켓에 실려 오는 10일(이하 현지시간) 발사될 예정이라고 스페이스닷컴 등 외...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/10/28/jh7253_6PbQYQkU8LCsQ-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리금융, 임원 직급 체계 단일화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231208172746</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231208165807</guid>
             <pubDate>Fri, 08 Dec 2023 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[리눅스가 윈도처럼 '블루스크린'을 도입할 예정이라고 더버지 등 외신들이 7일(현지시간) 보도했다. 보도에 따르면, 리눅스 배포판에서 널리 사용되는 소프트웨어 '시스템드'(sys...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윈스, 부산 '사이버 보안 전문인력 양성과정' 3기 수료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231208171913</link>
-            <guid>https://zdnet.co.kr/view/?no=20231208171913</guid>
-            <pubDate>Fri, 08 Dec 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[윈스(대표 김보연)가 사이버 보안 전문인력 양성과정 3기 수료식을 해운대구 센텀벤처타운 교육장에서 진행했다고 8일 밝혔다. 이번 교육 과정은 정보보호 기초부터 기술, 컨설팅, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
