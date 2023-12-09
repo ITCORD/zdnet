@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 12:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 13:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU, 세계 첫 'AI법' 합의…생체정보 수집 엄격 제한]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231209213142</link>
+            <guid>https://zdnet.co.kr/view/?no=20231209213142</guid>
+            <pubDate>Sat, 09 Dec 2023 13:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU)이 생체 정보 수집을 엄격하게 제한하고 투명성 의무를 강화하는 것을 골자로 한 세계 첫 인공지능(AI) 규제법에 합의했다고 뉴욕타임스를 비롯한 외신들이 8일(현지...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2014/11/24/kvkZKs1OBvIK6EsbGiXs-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부음] 손희연 지디넷코리아 기자 조모상]]></title>
             <link>https://zdnet.co.kr/view/?no=20231209164853</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231209074600</guid>
             <pubDate>Sat, 09 Dec 2023 02:20:45 GMT</pubDate>
             <content:encoded><![CDATA[애플이 인도 투자를 확대해 향후 2~3년 안에 인도에서 매년 5천만 대 이상의 아이폰을 생산하는 것을 목표로 하고 있다고 월스트리트저널(WSJ)이 8일(현지시간) 소식통을 인용...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/25/aeb33d467c8c85840d60ef934a2edde4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이기자의게임픽] 신작 준비에 사회공헌...넥슨 "연말에도 바쁘다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231208180824</guid>
             <pubDate>Fri, 08 Dec 2023 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[종합 가전기업 코웨이가 공정거래위원회로부터 '2023년 하반기 소비자중심경영(CCM) 인증'을 받았다고 8일 밝혔다. CCM 인증은 소비자 관점에서 기업 활동을 지속 개선하고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, SW 전략물자 수출제도 대응설명회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231208180537</link>
-            <guid>https://zdnet.co.kr/view/?no=20231208180537</guid>
-            <pubDate>Fri, 08 Dec 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)와 과학기술정보통신부는 소프트웨어(SW) 수출 및 수출준비 기업을 대상으로 'SW 전략물자 수출통제제도 설명회'를 개최했다고 8일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
