@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 00:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 01:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["구글 제미나이 시연은 과장됐다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231208211416</link>
+            <guid>https://zdnet.co.kr/view/?no=20231208211416</guid>
+            <pubDate>Sat, 09 Dec 2023 01:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 새로운 범용 인공지능(AI) 모델 '제미나이'를 공개하며 많은 관심을 얻고 있는 가운데, 제미나이 시연 영상이 과장됐다는 주장이 나왔다. 미국 IT매체 테크크런치는 7일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[양방향문자 '텔톡', 기업소통채널 일원화 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20231208185800</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231207183953</guid>
             <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
             <content:encoded><![CDATA[아마존웹서비스(AWS)가 'AWS 리인벤트(re:Invent) 2023'에서 제로 ETL(추출, 변환, 로드) 통합 기능 네 가지를 공개했다고 7일 밝혔다. 제로 ETL 통합은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, 자체 대화형 AI플랫폼 준비 마쳐]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207182920</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207182920</guid>
-            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[베스핀글로벌이 디지털서비스 전문계약 제도를 통해 대화형 인공지능(AI) 플랫폼 서비스를 제공할 수 있게 됐다고 7일 밝혔다. 베스핀글로벌의 대화형 AI 플랫폼 서비스는 디지털서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
