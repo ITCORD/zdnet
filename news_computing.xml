@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 02:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 03:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 주요기업 정보보호 투자액 1조8천억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231210120056</link>
+            <guid>https://zdnet.co.kr/view/?no=20231210120056</guid>
+            <pubDate>Sun, 10 Dec 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 '2023년 정보보호 공시 현황 분석보고서'를 11일 공개했다. 정보보호 공시 현황 분석보고서는 기업의 정보보호 현황을 공개하고 관리함으로써 이용자의 안전한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["이더리움, 내년 초 시세 상승"...미결제 콜옵션 ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20231210102233</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231207191903</guid>
             <pubDate>Thu, 07 Dec 2023 11:09:22 GMT</pubDate>
             <content:encoded><![CDATA[지란지교시큐리티(대표 윤두식, 조원희)는 마약 중독의 위험성을 알리고 경각심을 고취하기 위한 '노 엑시트(NO EXIT)'캠페인에 동참했다고 7일 밝혔다. 노 엑시트 캠페인은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델, 생성형 AI용 AMD 인스팅트 가속기 탑재 서버 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207190551</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207190551</guid>
-            <pubDate>Thu, 07 Dec 2023 10:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[델테크놀로지스가 AMD와 협력해 '델 생성형 AI 솔루션' 포트폴리오를 강화한다고 7일 밝혔다. 개방형 생태계를 구축하고 프로세서의 다양성을 넓혀, 각 기업이 보유한 고유 데이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
