@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 10:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공공SW 사업 정의부터 규모 기준까지 다시 짜야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231211173935</link>
+            <guid>https://zdnet.co.kr/view/?no=20231211173935</guid>
+            <pubDate>Mon, 11 Dec 2023 10:11:36 GMT</pubDate>
+            <content:encoded><![CDATA["현재 공공 소프트웨어(SW) 오류를 누가 책임져야 하는지 따질 시기가 아니다. SW 사업에 대한 정의, 목적, 평가, 규모 기준부터 다시 새로 짜야 한다. 명확한 사업 기준이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 신기술 융합서비스 보안강화 시범사업 성과공유회 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231211180641</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231210133947</guid>
             <pubDate>Sun, 10 Dec 2023 05:09:13 GMT</pubDate>
             <content:encoded><![CDATA[정보통신산업진흥원(NIPA, 원장 허성욱)이 8일 서울 양재 엘타워에서 국내 VC 및 ICT 기업인 등 관계자 300여 명이 참석한 가운데 '2023 NIPA 파트너스 데이(2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 주요기업 정보보호 투자액 1조8천억원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231210120056</link>
-            <guid>https://zdnet.co.kr/view/?no=20231210120056</guid>
-            <pubDate>Sun, 10 Dec 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 '2023년 정보보호 공시 현황 분석보고서'를 11일 공개했다. 정보보호 공시 현황 분석보고서는 기업의 정보보호 현황을 공개하고 관리함으로써 이용자의 안전한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
