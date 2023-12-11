@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 23:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 00:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융보안원 "가상자산 지갑 안전 위해 '수탁' 중요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231211091727</link>
+            <guid>https://zdnet.co.kr/view/?no=20231211091727</guid>
+            <pubDate>Mon, 11 Dec 2023 00:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원은 11일 '디지털 자산을 위한 범용 목적의 안전한 전자지갑 구현 방안' 연구보고서를 발표했다. 이번 연구에는 금융보안원 주관으로 증권사, 보안 기업, 가상자산사업자,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NIPA, 내년 신규 사업 15건 추진···초거대AI 등 시선]]></title>
             <link>https://zdnet.co.kr/view/?no=20231210133947</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231208074446</guid>
             <pubDate>Thu, 07 Dec 2023 23:10:08 GMT</pubDate>
             <content:encoded><![CDATA[클컴(대표 이의준)은 자사의 스마트워크 지원 솔루션 '클라우딘(Cloudin)'이 한국소프트웨어기술진흥협회(KOSTA)와 과학기술정보통신부가 시행한 '2023 대한민국 소프트웨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빔소프트웨어, 데이터 보안 '제로 트러스트 모델' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231207192741</link>
-            <guid>https://zdnet.co.kr/view/?no=20231207192741</guid>
-            <pubDate>Thu, 07 Dec 2023 11:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[빔소프트웨어코리아(대표 김기훈)는 데이터 보안 위협을 줄이고, 복원력을 높이는 제로 트러스트 데이터 복원력(ZTDR)이라는 모델을 선보인다고 9일 밝혔다. 넘버라인 시큐리티의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
