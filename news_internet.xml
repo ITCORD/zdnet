@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 04:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 05:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 지도, 대중교통 길안내 서비스…승하차 알림·환승 정보 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231211113757</link>
+            <guid>https://zdnet.co.kr/view/?no=20231211113757</guid>
+            <pubDate>Mon, 11 Dec 2023 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[네이버는 이용자가 지도 앱으로 목적지까지 편리하게 이동할 수 있도록 '대중교통 길안내' 서비스를 출시했다고 11일 밝혔다. 대중교통 길안내는 이용자 현재 위치를 기반으로 목적지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[요기요, 더본코리아 17개 브랜드 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20231211112442</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231208082902</guid>
             <pubDate>Fri, 08 Dec 2023 00:44:09 GMT</pubDate>
             <content:encoded><![CDATA[여행·여가 플랫폼 여기어때(대표 정명훈)가 글로벌 결제 데이터 보안 인증인 '지불 카드 산업 데이터 보안 표준(PCI-DSS)' 레벨 1을 획득했다고 8일 밝혔다. 이번 인증으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['인물 사진 한 장→춤추는 영상' 바꾸는 기술 나왔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231208014620</link>
-            <guid>https://zdnet.co.kr/view/?no=20231208014620</guid>
-            <pubDate>Thu, 07 Dec 2023 23:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[중국 틱톡의 모기업인 바이트댄스가 이미지 한 장으로 댄스 영상을 만들어 내는 인공지능(AI) 기술을 개발했다. 7일 중국 언론 량쯔웨이에 따르면 중국 바이트댄스와 싱가포르 국립...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
