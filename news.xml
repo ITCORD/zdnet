@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 12:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 13:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2회 클라우드인의 밤 열려···엄열 국장 "클라우드 활성화 빠르게 추진"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231212215141</link>
+            <guid>https://zdnet.co.kr/view/?no=20231212215141</guid>
+            <pubDate>Tue, 12 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[한국클라우드산업협회(KACI)가 주최한 '제 2회 클라우드인의 밤' 행사가 12일 오후 서울 반포터미널 인근 JW메리어트호텔에서 협회 회원사 대표와 임원 200여명이 참석한 가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/12/f82ad3d56e8341687af0263c1b9879da-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디에스테크노, 티씨케이 상대 'SiC링' 물성 특허 소송서 1심 승소]]></title>
             <link>https://zdnet.co.kr/view/?no=20231212180106</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212134931</guid>
             <pubDate>Tue, 12 Dec 2023 08:13:21 GMT</pubDate>
             <content:encoded><![CDATA["드롭박스는 사용자에게 실질적으로 업무할 수 있는 공간을 제공한다. 고객은 업무 시작부터 종료까지 드롭박스 안에서 일할 수 있다. 드롭박스가 외부 애플리케이션과의 유연한 연동성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BNK부산은행 '비대면 대출전자약정 서비스' 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212155253</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212155253</guid>
-            <pubDate>Tue, 12 Dec 2023 08:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[BNK부산은행은 종이서류 기반 여신약정업무를 디지털로 처리할 수 있는 '비대면 대출전자약정 서비스' 대상 대출 범위를 확대한다고 12일 밝혔다. 대출전자약정 서비스는 개인 및 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
