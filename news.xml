@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 13:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 14:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN클라우드 대표 등 17명 클라우드 발전 기여 장관상 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231212225028</link>
+            <guid>https://zdnet.co.kr/view/?no=20231212225028</guid>
+            <pubDate>Tue, 12 Dec 2023 14:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 클라우드 축제인 '그랜드 클라우드 컨퍼런스(Grand Cloud Conference) 2023'가 사흘 일정으로 12일 서울 코엑스 컨퍼런스홀에서 개막한 가운데 과기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/12/784739aafa8a6b5407250db4512a1138-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2회 클라우드인의 밤 열려···엄열 국장 "클라우드 활성화 빠르게 추진"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231212215141</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231212180106</guid>
             <pubDate>Tue, 12 Dec 2023 12:18:15 GMT</pubDate>
             <content:encoded><![CDATA[국내 반도체 부품업체 디에스테크노가 티씨케이를 상대로 제기한 SiC(탄화규소) 포커스링 관련 특허 무효 소송에서 1심 승소했다. 이를 통해 디에스테크노는 SiC링 시장 확대에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/12/545035d93618e22325464f1f81e0b02a-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 산업통상자원부]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212142129</guid>
             <pubDate>Tue, 12 Dec 2023 08:13:21 GMT</pubDate>
             <content:encoded><![CDATA[보안 전문 기업 앤앤에스피(NNSP)가 기업공개(IPO)와 글로벌 시장 진출이라는 두 마리 토끼를 잡기에 박차를 가한다. 김일용 앤앤에스피 대표는 12일 창립 20주년을 맞아 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["드롭박스, '진정한 업무 공간' 제공…유연성·보안성에 강해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212134931</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212134931</guid>
-            <pubDate>Tue, 12 Dec 2023 08:13:21 GMT</pubDate>
-            <content:encoded><![CDATA["드롭박스는 사용자에게 실질적으로 업무할 수 있는 공간을 제공한다. 고객은 업무 시작부터 종료까지 드롭박스 안에서 일할 수 있다. 드롭박스가 외부 애플리케이션과의 유연한 연동성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
