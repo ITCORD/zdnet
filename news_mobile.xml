@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰서 삼성페이 가능해지나…애플, NFC 개방]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231213104646</link>
+            <guid>https://zdnet.co.kr/view/?no=20231213104646</guid>
+            <pubDate>Wed, 13 Dec 2023 05:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU) 집행위원회 압박에 못이긴 애플이 경쟁사에 근거리 무선 통신(NFC) 접근을 허용하는 방안을 제시한 것으로 알려졌다. 지난해 EU 집행위는 애플의 NFC 접근 제...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["세계 로봇화 앞서가자"…K-로봇, 해외 공략 속도]]></title>
             <link>https://zdnet.co.kr/view/?no=20231213111134</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212104801</guid>
             <pubDate>Tue, 12 Dec 2023 01:54:01 GMT</pubDate>
             <content:encoded><![CDATA[니콘이미징코리아는 지난 11일 니콘프로페셔널서비스(NPS) 회원 대상 원데이 워크숍을 진행했다고 밝혔다. NPS는 니콘 카메라와 렌즈를 활용하는 프로 사진작가, 사진·영상 전공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중남미 스마트폰 시장 회복세…中업체 약진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212094110</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212094110</guid>
-            <pubDate>Tue, 12 Dec 2023 01:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[중남미 스마트폰 시장이 올해 3분기 출하량을 회복하며 침체기를 벗어나는 모습이다. 삼성전자는 점유율 1위를 오랜 기간 지키고 있지만, 중국 스마트폰 업체들이 그 격차를 좁혀오고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
