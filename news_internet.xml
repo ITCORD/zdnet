@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 11:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 12:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 택시, 수수료율 2.8%로 낮춘다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231213193059</link>
+            <guid>https://zdnet.co.kr/view/?no=20231213193059</guid>
+            <pubDate>Wed, 13 Dec 2023 12:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 택시(카카오T) 운영사 카카오모빌리티가 가맹택시 수수료율을 2.8%로 낮추고, 기사 월 구독 서비스 프로멤버십을 폐지한다. 카카오모빌리티는 주요 택시 단체(전국택시노동조...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MSC 2023] "마케팅 데이터 분석, '태블로'가 책임진다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231213164331</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212134951</guid>
             <pubDate>Tue, 12 Dec 2023 05:10:28 GMT</pubDate>
             <content:encoded><![CDATA[스노우(대표 김창욱)는 AI 사진편집 앱 에픽(EPIK)을 통해 자신이 입력한 셀피 이미지를 기반으로 생성형 AI 기술을 통해 크리스마스 컨셉의 이미지를 받아볼 수 있는 'AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['2023 AAA' 참석 아티스트 확정…뉴진스·임영웅·폴 블랑코 등 참여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212132236</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212132236</guid>
-            <pubDate>Tue, 12 Dec 2023 05:10:28 GMT</pubDate>
-            <content:encoded><![CDATA['2023 AAA'가 개최까지 단 이틀을 남겨둔 가운데, 시상식을 완벽하게 채울 아티스트 최종 참석자를 확정했다. 이달 14일 필리핀 '필리핀 아레나'에서 열리는 '2023 A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
