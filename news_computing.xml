@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 14:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 "5세대 제온, AI 가속기로 처리 성능 최대 10배 향상"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231214180638</link>
+            <guid>https://zdnet.co.kr/view/?no=20231214180638</guid>
+            <pubDate>Thu, 14 Dec 2023 15:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 14일(미국 뉴욕 현지시간, 한국시간 15일 0시) 뉴욕 나스닥에서 진행한 행사를 통해 서버·데이터센터용 5세대 제온 스케일러블 프로세서(에메랄드래피즈)를 전세계 시장에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이티센, '부산 디지털자산거래소' 운영 맡는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231214190926</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231214092915</guid>
             <pubDate>Thu, 14 Dec 2023 01:51:21 GMT</pubDate>
             <content:encoded><![CDATA[C#이 인기 상위 프로그래밍 언어 5개 언어 중 유일하게 상승세를 기록하며 자바와의 격차를 1%이내로 줄였다. 13일(현지시간) 인포월드 등 외신에 따르면 티오베 소프트웨어는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 "제미나이 프로, 맞춤형으로 사용 가능"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231214084929</link>
-            <guid>https://zdnet.co.kr/view/?no=20231214084929</guid>
-            <pubDate>Thu, 14 Dec 2023 01:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 인공지능(AI) 모델 '제미나이 프로'를 자사 클라우드 플랫폼에 본격 적용했다. 기업이나 개발자는 제미나이 프로를 통해 맞춤형 애플리케이션과 모델을 구축할 수 있다. 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
