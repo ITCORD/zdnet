@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 07:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 08:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 연구진, V-낸드 혁신 위한 '실마리' 찾았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231214162859</link>
+            <guid>https://zdnet.co.kr/view/?no=20231214162859</guid>
+            <pubDate>Thu, 14 Dec 2023 08:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자 연구진의 메모리반도체 관련 논문이 세계적인 학술지에 게재됐다. 원자 수준에서 플래시메모리의 근본적인 작동 원리를 밝혀낸 것으로, 차세대 낸드 개발의 단초가 될 수 있을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 차세대 메모리 'CXL 컨트롤러' 자체 개발 총력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231214151022</link>
+            <guid>https://zdnet.co.kr/view/?no=20231214151022</guid>
+            <pubDate>Thu, 14 Dec 2023 08:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 차세대 메모리 제품으로 주목받는 'CXL(컴퓨트익스프레스링크)' 수익성을 높이기 위해 CXL 컨트롤러 자체 개발에 총력을 다하고 있다. 그동안 중국 팹리스 업체 몬타...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사피엔반도체 "마이크로LED 시장 내년 개화…DDI로 매출 성장 자신"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231214143812</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212094235</guid>
             <pubDate>Tue, 12 Dec 2023 01:54:16 GMT</pubDate>
             <content:encoded><![CDATA[래티스반도체는 미드레인지 FPGA인 '래티스 아반트(Lattice Avant)' 플랫폼에 기반한 혁신적인 두 가지 제품군 'Lattice Avant-G'와 'Lattice Av...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 'DJSI 월드지수' 15년 연속 편입..국내기업 최초]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212090452</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212090452</guid>
-            <pubDate>Tue, 12 Dec 2023 00:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전기는 국내 최초로 DJSI 월드 지수(Dow Jones Sustainability Index World)에 15년 연속 선정되었다고 밝혔다. 15년 연속 편입은 국내 기업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아 "美의 AI 반도체 중국 수출통제 협력"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212074729</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212074729</guid>
-            <pubDate>Tue, 12 Dec 2023 00:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[미국 상무부가 사양이 낮은 인공지능(AI) 반도체도 중국 수출을 금지하도록 한 가운데 엔비디아가 정책을 준수하겠다고 밝혔다. 11일(현지시간) 로이터통신에 따르면 바이든 행정부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
