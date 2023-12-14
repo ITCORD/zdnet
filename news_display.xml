@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 16:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 17:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 팻 겔싱어 CEO, AI 가속기 '가우디3' 시제품 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231215012321</link>
+            <guid>https://zdnet.co.kr/view/?no=20231215012321</guid>
+            <pubDate>Thu, 14 Dec 2023 17:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 14일(미국 뉴욕 현지시간, 한국시간 15일 0시) 나스닥에서 진행한 행사를 통해 차세대 서버용 AI 가속기인 '가우디3'(Gaudi 3) 시제품을 공개했다. 가우디3는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 연구진, V-낸드 혁신 위한 '실마리' 찾았다]]></title>
             <link>https://zdnet.co.kr/view/?no=20231214162859</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212094725</guid>
             <pubDate>Tue, 12 Dec 2023 01:54:16 GMT</pubDate>
             <content:encoded><![CDATA[국제반도체장비재료협회(SEMI)는 전 세계 반도체 장비 시장 규모가 오는 2025년 1천240억 달러로 최고치를 기록할 것이라고 전망했다. 아짓 마노차 SEMI 최고경영자(CE...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[래티스, 미드레인지 FPGA 플랫폼 '아반트' 제품군 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212094235</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212094235</guid>
-            <pubDate>Tue, 12 Dec 2023 01:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[래티스반도체는 미드레인지 FPGA인 '래티스 아반트(Lattice Avant)' 플랫폼에 기반한 혁신적인 두 가지 제품군 'Lattice Avant-G'와 'Lattice Av...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
