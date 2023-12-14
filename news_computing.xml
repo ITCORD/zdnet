@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 01:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 02:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 한국에 60MW 규모 태양광 발전소 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231214110306</link>
+            <guid>https://zdnet.co.kr/view/?no=20231214110306</guid>
+            <pubDate>Thu, 14 Dec 2023 02:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[아마존은 한국에서 첫 번째 재생에너지 프로젝트인 60메가와트(MW) 규모의 태양광 프로젝트를 시작한다고 14일 발표했다. 이 프로젝트는 향후 매년 한국 가정 2만5천가구에 전력...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, RDB 서비스에 '벡터 DB' 확장 기능 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231214105431</link>
+            <guid>https://zdnet.co.kr/view/?no=20231214105431</guid>
+            <pubDate>Thu, 14 Dec 2023 02:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 김유원)는 완전관리형 데이터베이스 서비스(DBMS)인 '포스트그레SQL용 클라우드DB'에 벡터 DB를 지원하는 확장 기능을 추가했다고 14일 밝혔다. 벡터D...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아시아나IDT, SBI저축은행 수신 통합·여신 비대면 채널 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20231214104914</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231213175811</guid>
             <pubDate>Wed, 13 Dec 2023 09:10:22 GMT</pubDate>
             <content:encoded><![CDATA[파수(대표 조규곤)가 애자일소다와 함께 기업용 인공지능(AI) 시장 선점을 위해 협력한다고 13일 밝혔다. 양사는 12일 서울 마포구 파수 본사에서 '기업용 생성형AI 관련 사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이지넷, 보험 서비스 관련 특허 3건 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231213175356</link>
-            <guid>https://zdnet.co.kr/view/?no=20231213175356</guid>
-            <pubDate>Wed, 13 Dec 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[아이지넷(대표 김창균, 김지태)이 보험 서비스 관련 특허 3건을 동시에 획득했다고 12일 밝혔다. 이번 특허는 보험 진단과 추천, 데이터 드리븐 마케팅에 관련으로 아이지넷에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈나이더 일렉트릭, 구글 반도체 탈탄소 체계 구축 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231213175003</link>
-            <guid>https://zdnet.co.kr/view/?no=20231213175003</guid>
-            <pubDate>Wed, 13 Dec 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[슈나이더 일렉트릭 코리아(대표 김경록)가 반도체 탈탄소 체계 구축 협업 프로그램인 '카탈라이즈'에 새로운 파트너사가 합류했다고 13일 밝혔다. 구글, 네덜란드 반도체 기업인 A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
