@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 07:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 08:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니온커뮤니티, FIDO2 생체인증 기술로 비밀번호 대체]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231215164046</link>
+            <guid>https://zdnet.co.kr/view/?no=20231215164046</guid>
+            <pubDate>Fri, 15 Dec 2023 08:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[유니온커뮤니티(대표 신요식)가 FIDO2 인증 서버를 기반으로 한 생체인증 PC 로그인 솔루션인 유바이오-이지패스키(UBio-ezPassKey)를 선보이며 비밀번호 대체를 본격...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NIA, ESG운영위원회 발족 착수회의 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231215151607</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231215091117</guid>
             <pubDate>Fri, 15 Dec 2023 00:43:57 GMT</pubDate>
             <content:encoded><![CDATA[최신 기술은 교육 부문 전반에서 학생들의 학습 능률을 높이는데 핵심적인 역할을 하고 있으며, 이른바 에듀테크는 업계 내에서 최근 더욱 주목받고 있다. 국내에서도 에듀테크에 대한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[람다256, 암호 기술 기업 '크립토랩'과 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231215083744</link>
-            <guid>https://zdnet.co.kr/view/?no=20231215083744</guid>
-            <pubDate>Fri, 15 Dec 2023 00:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[두나무 계열사이자 블록체인 전문 기업 람다256은 암호 기술 전문 기업 크립토랩과 업무 협약(MOU)을 맺고 블록체인의 데이터 프라이버시 강화 기술 개발과 상용화를 추진한다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
