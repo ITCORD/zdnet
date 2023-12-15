@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 06:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 07:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["카카오 택시, 수수료율 2.8%로"…4단체와 협의 완료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231215135757</link>
+            <guid>https://zdnet.co.kr/view/?no=20231215135757</guid>
+            <pubDate>Fri, 15 Dec 2023 07:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[카카오 택시(카카오T) 운영사 카카오모빌리티가 택시 4단체와 서비스 개편 방안에 대한 논의를 끝마쳤다. 카카오모빌리티는 전국개인택시운송사업조합연합회와 업계 의견을 바탕으로 마련...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우아한청년들, 공정위 CP등급평가서 'AA']]></title>
             <link>https://zdnet.co.kr/view/?no=20231215102325</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231213193059</guid>
             <pubDate>Wed, 13 Dec 2023 12:18:07 GMT</pubDate>
             <content:encoded><![CDATA[카카오 택시(카카오T) 운영사 카카오모빌리티가 가맹택시 수수료율을 2.8%로 낮추고, 기사 월 구독 서비스 프로멤버십을 폐지한다. 카카오모빌리티는 주요 택시 단체(전국택시노동조...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MSC 2023] "마케팅 데이터 분석, '태블로'가 책임진다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231213164331</link>
-            <guid>https://zdnet.co.kr/view/?no=20231213164331</guid>
-            <pubDate>Wed, 13 Dec 2023 10:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[“회사 월 매출을 분석해야 하는데, 데이터들이 이곳저곳 흩어져 있다. 한데 모으려면 꽤 오랜 시간이 걸린다. 쌓여가는 리포트들을 자동화하고 싶은데, 쉽지 않다. 타부서와 협력할...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
