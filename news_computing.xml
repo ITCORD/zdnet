@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 23:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 00:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["글로벌 경쟁력 낮추는 개발자 부족, 해외로 눈 돌려야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231215170620</link>
+            <guid>https://zdnet.co.kr/view/?no=20231215170620</guid>
+            <pubDate>Sun, 17 Dec 2023 00:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[소프트웨어(SW) 분야의 인력 부족 문제가 심각하다. 산업통상자원부가 지난해 말 발표한 산업기술인력 수급실태 조사에 따르면 SW 산업의 기술인력 수는 14만 8천270명이고, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나모 크로스에디터4, 차세대 나라장터 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20231215172151</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231215094403</guid>
             <pubDate>Fri, 15 Dec 2023 01:53:58 GMT</pubDate>
             <content:encoded><![CDATA[두나무와 하이브의 합작법인 레벨스는 대체불가토큰(NFT) 플랫폼 '모먼티카'에서 연말을 맞아 황민현, 르세라핌, 스테이씨와 함께하는 NFT 상품 '테이크' 발매 라인업을 공개한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["나도 모르게 지갑 연결"…가상자산 피싱 피해, 4850억]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231215093153</link>
-            <guid>https://zdnet.co.kr/view/?no=20231215093153</guid>
-            <pubDate>Fri, 15 Dec 2023 00:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[사용자를 속여 거래에 서명하게 해 범죄자가 피해자의 지갑에서 토큰을 빼낼 수 있는 권한을 부여받는 '거래승인' 피싱이 가상자산 업계에서 횡행하고 있다. 올해 피해액만 4천850...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

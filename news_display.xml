@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 23:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 00:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍, 무선 BMS 개발 성공…전기차 시장 공략 나서]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231217091223</link>
+            <guid>https://zdnet.co.kr/view/?no=20231217091223</guid>
+            <pubDate>Sun, 17 Dec 2023 00:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[LG이노텍은 배터리 성능을 대폭 개선한 무선 배터리 관리 시스템(무선 BMS) 개발에 성공했다고 17일 밝혔다. 전기차 필수 부품인 BMS는 배터리의 전압·전류·온도 등을 실시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 시스템LSI 내 'MI'팀 신설…시장 확대 전략 고도화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231215103748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231212180106</guid>
             <pubDate>Tue, 12 Dec 2023 12:18:49 GMT</pubDate>
             <content:encoded><![CDATA[국내 반도체 부품업체 디에스테크노가 티씨케이를 상대로 제기한 SiC(탄화규소) 포커스링 관련 특허 무효 소송에서 1심 승소했다. 이를 통해 디에스테크노는 SiC링 시장 확대에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OLED 시장 내년에도 성장세…"韓, 정부 지원으로 경쟁력 키워야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231212101129</link>
-            <guid>https://zdnet.co.kr/view/?no=20231212101129</guid>
-            <pubDate>Tue, 12 Dec 2023 07:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[한국디스플레이산업협회는 OLED 확산에 힘입어 내년 2024년 전 세계 디스플레이 시장 규모가 올해보다 5.4% 증가한 1천228억 달러로 늘어날 것이라고 12일 전망했다. O...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
