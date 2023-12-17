@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 02:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 03:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 제안 SW품질 측정안 국제 기구가 인정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231217113251</link>
+            <guid>https://zdnet.co.kr/view/?no=20231217113251</guid>
+            <pubDate>Sun, 17 Dec 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라가 제안한 시스템 및 소프트웨어 제품에 대한 품질측정안이 ISO/IEC 국제 표준 개정을 위한 신규 프로젝트로 15일 최종 채택됐다. 이번 품질측정안은 품질특성(기능적합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 SEC "별도 가상자산 규정 필요치 않아"...코인베이스 "직무 유기" 제소 계획]]></title>
             <link>https://zdnet.co.kr/view/?no=20231217104538</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231215093821</guid>
             <pubDate>Fri, 15 Dec 2023 01:53:58 GMT</pubDate>
             <content:encoded><![CDATA[구글이 크롬브라우저의 써드파티 쿠키 차단 시점을 내년 하반기로 결정했다. 14일(현지시간) 아스테크니카에 따르면, 구글은 크롬브라우저에서 써드파티 쿠키의 웹사이트 접근을 제안하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 최대규모 가짜 윈도계정 판매 사이트 폐쇄]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231215093628</link>
-            <guid>https://zdnet.co.kr/view/?no=20231215093628</guid>
-            <pubDate>Fri, 15 Dec 2023 01:53:58 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 윈도 등 가짜 마이크로소프트 계정을 판매해온 최대규모 온라인 사이트를 폐쇄했다. 14일(현지시간) 더레지스터 등 외신에 따르면 마이크로소프트는 사이버범죄조직 스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
