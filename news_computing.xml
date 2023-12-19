@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 01:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 02:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 내 개인정보는 얼마? 다크웹에 무슨 일이 일어나고 있나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219103042</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219103042</guid>
+            <pubDate>Tue, 19 Dec 2023 02:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[사이버공격이 전세계적으로 기승을 부리고 있는 추세입니다. 최근 사이버범죄자들은 기업의 주요 파일이나 시스템을 마비시고 돈을 요구하는 랜섬웨어를 주요 공격방법으로 사용하고 있는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부·KISIA, 정보보호 인력양성 우수사례 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219104852</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231218162339</guid>
             <pubDate>Mon, 18 Dec 2023 08:13:24 GMT</pubDate>
             <content:encoded><![CDATA[인텔코리아는 18일 서울 여의도 전경련회관에서 진행된 "AI 에브리웨어' 기자간담회에서 인공지능(AI) 가속기를 내장한 5세대 인텔 제온 스케일러블 프로세서(코드명 에메랄드래피...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["디지털사회혁신 선도"···IBCT, 과기정통부 장관상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231218155710</link>
-            <guid>https://zdnet.co.kr/view/?no=20231218155710</guid>
-            <pubDate>Mon, 18 Dec 2023 07:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[DID(Decentralized Identifier) 기반 데이터 플랫폼 전문 기술기업 아이비씨티(IBCT, 대표 이정륜)는 한국정보과학진흥협회가 13일 주최한 'ICT 컨버전...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

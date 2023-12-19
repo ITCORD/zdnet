@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 01:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 02:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, AI로 입체 음향 구현하는 '2024년형 사운드바' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219090214</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219090214</guid>
+            <pubDate>Tue, 19 Dec 2023 02:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자가 인공지능(AI) 기능으로 입체 사운드를 강화한 2024년형 사운드바를 내달 미국 라스베이거스에서 열리는 세계 최대 가전∙IT 전시회 CES 2024에서 처음으로 공개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["갤S24플러스, 12GB 램 탑재 유력"…메모리·색상 정보 유출]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219103016</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231218082602</guid>
             <pubDate>Mon, 18 Dec 2023 01:53:17 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 차량용 안테나 시장에 도전장을 던졌다. LG전자는 글로벌 자동차 유리업체 생고뱅 세큐리트와 협업해 차세대 차량용 투명 안테나를 선보인다고 18일 전했다. 투명 안테나...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 워치 이용자에 "가짜 충전기 쓰면 배터리 수명 단축" 경고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231218082150</link>
-            <guid>https://zdnet.co.kr/view/?no=20231218082150</guid>
-            <pubDate>Mon, 18 Dec 2023 01:53:17 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 애플워치 이용자들에게 정품 충전기 사용을 권고하고 있다. 미인증 케이블 충전은 기기 고장과 배터리 수명 단축의 원인이 될 수 있기 때문이다. 15일(현지시간) 애플은 미...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
