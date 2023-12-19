@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 04:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 05:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍·삼성전기, 4분기 실적 전망 엇갈려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219120850</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219120850</guid>
+            <pubDate>Tue, 19 Dec 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[올 3분기 실적 부진을 기록한 LG이노텍, 삼성전기가 실적 회복을 앞두고 있다. LG이노텍은 주요 고객사인 애플향 공급 확대로 올 4분기 분기 최대 실적을 기록할 전망이다. 삼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Arm, 반도체 시장 부진에 中 엔지니어 70명 해고·재배치]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219081101</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 소니에게 도전 '아이소셀 비전' 센서 공개... XR·로봇 공략]]></title>
+            <title><![CDATA[삼성전자, 소니에 도전 '아이소셀 비전' 센서 공개...XR·로봇 공략]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219091908</link>
             <guid>https://zdnet.co.kr/view/?no=20231219091908</guid>
             <pubDate>Tue, 19 Dec 2023 02:24:16 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231215012321</guid>
             <pubDate>Thu, 14 Dec 2023 17:10:03 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 14일(미국 뉴욕 현지시간, 한국시간 15일 0시) 나스닥에서 진행한 행사를 통해 차세대 서버용 AI 가속기인 '가우디3'(Gaudi 3) 시제품을 공개했다. 가우디3는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 연구진, V-낸드 혁신 위한 '실마리' 찾았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231214162859</link>
-            <guid>https://zdnet.co.kr/view/?no=20231214162859</guid>
-            <pubDate>Thu, 14 Dec 2023 08:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 연구진의 메모리반도체 관련 논문이 세계적인 학술지에 게재됐다. 원자 수준에서 플래시메모리의 근본적인 작동 원리를 밝혀낸 것으로, 차세대 낸드 개발의 단초가 될 수 있을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
