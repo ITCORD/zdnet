@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 13:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 14:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔리코리아, 연말 사랑의열매 후원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219225410</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219225410</guid>
+            <pubDate>Tue, 19 Dec 2023 14:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[국산 캐드(CAD) 프로그램 개발사인 인텔리코리아(대표 박승훈)는 소년소녀 가장 등 어려운 학생을 돕기 위해 서울 사회복지공동모금회에 후원금 2천만원을 전달했다고 19일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI "안전성 입증된 기업만 새 AI 기술 사용 가능"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219112202</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231219101900</guid>
             <pubDate>Tue, 19 Dec 2023 01:52:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 포스트그레SQL 지원 기업인 EDB는 카카오뱅크 고객센터의 오라클 DBMS 교체를 위해 EDB포스트그레스어드밴스드서버(EPAS)를 공급했다고 19일 밝혔다 기존 시스템...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 애저에서 돌아가는 오라클 DB 서비스 상용화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219101255</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219101255</guid>
-            <pubDate>Tue, 19 Dec 2023 01:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[오라클은 첫 번째 오라클 데이터베이스앳애저 서비스가 마이크로소프트 애저 미국 동부 리전에서 상용화됐다고 19일 밝혔다. 오라클은 애저 데이터센터의 오라클 클라우드 인프라스트럭처...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
