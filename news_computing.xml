@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 09:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 10:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI "안전성 입증된 기업만 새 AI 기술 사용 가능"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219112202</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219112202</guid>
+            <pubDate>Tue, 19 Dec 2023 10:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI는 안전한 생성형 인공지능(AI) 사용 확대를 위한 프레임워크를 만들었다. 회사가 안전하다고 판단하는 기업·기관에만 최신 AI 기술을 배포할 방침이다. 18일 오픈AI는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, '스마트카' 정보 처리 현황 점검]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219084043</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231219101255</guid>
             <pubDate>Tue, 19 Dec 2023 01:52:27 GMT</pubDate>
             <content:encoded><![CDATA[오라클은 첫 번째 오라클 데이터베이스앳애저 서비스가 마이크로소프트 애저 미국 동부 리전에서 상용화됐다고 19일 밝혔다. 오라클은 애저 데이터센터의 오라클 클라우드 인프라스트럭처...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT DS, 현대해상 인공지능 분석계 시스템 재구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219093441</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219093441</guid>
-            <pubDate>Tue, 19 Dec 2023 00:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[KT DS가 인공지능 통합 분석 기술을 적용해 현대해상화재보험 분석계 시스템을 재구축했다고 19일 밝혔다. 현대해상은 2018년 디지털 관련 전담부서를 신설하고 2019년 말 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
