@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 05:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 06:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제4이통 도전 미래모바일, 주파수 할당신청 좌절]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219140650</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219140650</guid>
+            <pubDate>Tue, 19 Dec 2023 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[제4이동통신사 설립을 추진한 미래모바일이 과학기술정보통신부로부터 주파수 할당신청 접수가 거부됐다. 정부는 자료 미비를 이유로 들고 있었지만, 미래모바일 측은 행정소송까지 검토하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[28GHz 기반 제4이동통신 접수 오늘 마감]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219092227</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231218151737</guid>
             <pubDate>Mon, 18 Dec 2023 07:10:10 GMT</pubDate>
             <content:encoded><![CDATA[김홍일 방송통신위원회 위원장 후보자에 대한 국회 인사청문회가 오는 27일 열린다. 국회 과학기술정보방송통신위원회는 18일 전체회의를 열고 이같은 내용이 담긴 김 후보자에 대한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이종호 장관 "유튜브·넷플릭스 요금인상, 소비자 이해시켰어야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231218151147</link>
-            <guid>https://zdnet.co.kr/view/?no=20231218151147</guid>
-            <pubDate>Mon, 18 Dec 2023 07:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관이 최근 동영상 스트리밍 서비스 요금을 대폭 인상한 구글 유튜브와 넷플릭스에 대해 “왜 올릴 수밖에 없었는지 소비자에 설명하고 이해시키려 했다면 좋...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
