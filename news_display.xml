@@ -4,15 +4,31 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 08:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 09:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC 마크 리우 회장 내년 은퇴...후임 웨이저자 CEO]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219175320</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219175320</guid>
+            <pubDate>Tue, 19 Dec 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 업체 TSMC는 19일 류더인(마크 리우) 회장이 내년 주주총회 이후로 은퇴한다고 밝혔다. 이사회는 후임으로 웨이저자(C.C. 웨이) 최고경영자(CEO) 겸 부회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버·삼성 공동개발 AI반도체..."글로벌 경쟁사 대비 전력효율 8배"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219174529</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219174529</guid>
+            <pubDate>Tue, 19 Dec 2023 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 클라우드와 삼성전자가 공동 개발에 나선 인공지능(AI) 반도체의 시연이 공개됐다. 엔비디아와 같이 AI 반도체 시장에서 선두권에 있는 회사의 상용 제품과 비교해 AI 연...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네패스, 자가 학습 NPU IP 탑재한 AI 반도체 '야누스' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219165410</link>
             <guid>https://zdnet.co.kr/view/?no=20231219165410</guid>
             <pubDate>Tue, 19 Dec 2023 08:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[네패스가 19일 '2023 인공지능반도체 미래기술 컨퍼런스'에서 인공지능(AI) 반도체 연구개발 국책과제인 '모바일 자가 학습 가능 재귀 뉴럴 네트워크 프로세서 기술 개발'의 ...]]></content:encoded>
+            <content:encoded><![CDATA[네패스가 19일 '2023 인공지능반도체 미래기술 컨퍼런스'에서 객체 분류향 모바일 자가학습 신경망처리장치(NPU) IP가 내장된 '야누스(JANUS)'와 분산 학습 IP 구동...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231202005119</guid>
             <pubDate>Sun, 17 Dec 2023 08:13:11 GMT</pubDate>
             <content:encoded><![CDATA[올해 어려운 대내외 경제 여건 때문에 많이 힘드셨죠. 포스트 코로나 이후 완전히 다른 세상으로 새로운 패러다임을 고민하게 했던 2023년 한해도 서서히 저물고 있습니다. 새해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 무선 BMS 개발 성공…전기차 시장 공략 나서]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231217091223</link>
-            <guid>https://zdnet.co.kr/view/?no=20231217091223</guid>
-            <pubDate>Sun, 17 Dec 2023 00:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[LG이노텍은 배터리 성능을 대폭 개선한 무선 배터리 관리 시스템(무선 BMS) 개발에 성공했다고 17일 밝혔다. 전기차 필수 부품인 BMS는 배터리의 전압·전류·온도 등을 실시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 시스템LSI 내 'MI'팀 신설…시장 확대 전략 고도화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231215103748</link>
-            <guid>https://zdnet.co.kr/view/?no=20231215103748</guid>
-            <pubDate>Fri, 15 Dec 2023 01:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 2030년 시스템반도체 시장 1위에 오르기 위한 조직 개편을 단행했다. 주요 시스템반도체 사업을 3개 팀으로 세분화하는 동시에, 각 팀의 시장 분석 등을 총괄할 조직...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
