@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 01:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 02:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제4 이통사에 어떤 '도깨비 방망이'가 있을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231220091016</link>
+            <guid>https://zdnet.co.kr/view/?no=20231220091016</guid>
+            <pubDate>Wed, 20 Dec 2023 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 이동통신 시장은 SK텔레콤 KT LG유플러스 등 3개사가 지배하는 과점 체제다. 정부는 이 구조에 문제가 있다고 본다. 과점 체제 탓에 시장 경쟁이 사라졌다고 판단하기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['세종텔·스테이지파이브·미래모바일' 제4이통 3파전]]></title>
             <link>https://zdnet.co.kr/view/?no=20231219191257</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231218162024</guid>
             <pubDate>Mon, 18 Dec 2023 08:13:17 GMT</pubDate>
             <content:encoded><![CDATA[플레이디가 마케팅 성과 측정 및 어트리뷰션 솔루션 에어브릿지와 공식 리퍼럴 파트너사 계약을 맺었다고 18일 밝혔다. 에어브릿지는 마케팅 테크놀로지 기업 에이비일팔공(AB180)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵 오토, 유럽 제조사 요구 최고수준 SW 품질평가 통과]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231218161712</link>
-            <guid>https://zdnet.co.kr/view/?no=20231218161712</guid>
-            <pubDate>Mon, 18 Dec 2023 08:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[티맵 오토가 유럽 자동차 업체들이 요구하는 최고 수준의 소프트웨어(SW) 품질 평가를 통과했다. 티맵모빌리티는 글로벌 자동차 SW 품질 역량 평가모델인 'A-SPICE' 국제표...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
