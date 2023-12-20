@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 04:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 05:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["코인원 핵심은 '테크'…개발자 지속 채용할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231219161448</link>
+            <guid>https://zdnet.co.kr/view/?no=20231219161448</guid>
+            <pubDate>Wed, 20 Dec 2023 05:08:34 GMT</pubDate>
+            <content:encoded><![CDATA["코인원은 가상자산 거래소이자 IT회사다. '테크'가 회사의 핵심이다. 이를 위해 우수한 시스템과 동시에 우수한 사람도 있어야 한다. 상황에 따라 수를 늘리거나 줄이긴 해도, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엠로, 2024년 공급망 주요 키워드 5종 제시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231220111327</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231219161757</guid>
             <pubDate>Tue, 19 Dec 2023 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 화상 커뮤니케이션 플랫폼 운영 기업 구루미(대표 이랑혁)는 한국마이크로소프트, 충청북도, 충북과학기술혁신원, 청주대학교와 함께 클라우드, 인공지능(AI), 빅데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스소프트, 공개 채용 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219160526</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219160526</guid>
-            <pubDate>Tue, 19 Dec 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스소프트(대표 이형배)가 공개 채용을 실시한다고 19일 밝혔다. 주 채용 직군은 ▲미들웨어 솔루션 개발 ▲프론트∙백엔드 개발 ▲사업기획 ▲기술지원 ▲기술영업 ▲인사·총무·재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
