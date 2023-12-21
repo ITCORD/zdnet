@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 08:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 09:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 내년 공공용 주파수 17.2GHz 폭 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221171353</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221171353</guid>
+            <pubDate>Thu, 21 Dec 2023 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부가 '2024년 공공용 주파수 수급계획'을 확정하고, 각 정부 부처에 필요한 주파수 총 17.2GHz 폭을 공급한다고 21일 밝혔다. 올해 국방부, 환경부, 국...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['이용자 접속속도 저하' 페이스북, 방통위 과징금 취소 확정]]></title>
             <link>https://zdnet.co.kr/view/?no=20231221155734</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231219170217</guid>
             <pubDate>Tue, 19 Dec 2023 08:13:08 GMT</pubDate>
             <content:encoded><![CDATA[스테이지파이브가 여러 기업들과 컨소시엄을 꾸려 신규법인 가칭 스테이지엑스를 설립하고, 28GHz 신규사업자 전국단위 주파수 할당 신청을 완료했다고 19일 밝혔다. 신규법인 스테...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제4이통 도전 미래모바일, 주파수 할당신청 좌절]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219140650</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219140650</guid>
-            <pubDate>Tue, 19 Dec 2023 06:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[제4이동통신사 설립을 추진한 미래모바일이 과학기술정보통신부로부터 주파수 할당신청 접수가 거부됐다. 정부는 자료 미비를 이유로 들고 있었지만, 미래모바일 측은 행정소송까지 검토하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
