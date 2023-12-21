@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 23:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 00:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 데이터센터의 새 화두 '비용 효율화·AI옵스']]></title>
+            <link>https://zdnet.co.kr/view/?no=20231220165909</link>
+            <guid>https://zdnet.co.kr/view/?no=20231220165909</guid>
+            <pubDate>Thu, 21 Dec 2023 00:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 데이터센터들은 과연 클라우드로 전환할 것인가, 전환하지 않을 것인가? 한 때 이 질문이 업계의 뜨거운 화두였던 시기가 있었다. 5년 전, 10년 전 즈음에 더 큰 유연성과 낮은 비용이라는 유토피아적인 공약에 현혹된 기업들이 너도나도 퍼블릭 클라우드 앞을 향해 달려갔다. 하지만 결국 대부분의 기업들은 퍼블릭 클라우드가 생각만큼 간단하고 저렴하지 않다는 사실을 그리 오래되지 않아...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/20/fe65f48fab8abd5eec14a2d7d85f112a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 교육기관의 성공적 IT 기술 활용을 위한 4가지 전략]]></title>
             <link>https://zdnet.co.kr/view/?no=20231215091117</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 25 Oct 2023 02:18:50 GMT</pubDate>
             <content:encoded><![CDATA[지난 해 한국에서 장인에게 흉기를 휘둘러 살해하려 한 남성에게 최근 실형이 선고됐다. 이 남성은 처음 범행을 부인했지만 당시 출동한 경찰의 진술과 바디캠(body-worn camera) 영상 증거를 토대로 범행의 사실이 인정되었다.또한, 악성 민원인의 폭언·폭행 등 위법행위의 증가 추세에 따라 일부 민원 담당 공무원은 이에 대응하기 위해 녹화와 녹음이 가능한 바디캠을 도입하여 사용하고 있다....]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/10/25/77f20ee8ed5f53c15ad7da8218b68064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 한국은행 CBDC 제안 요청서와 미래 방향성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231022094839</link>
-            <guid>https://zdnet.co.kr/view/?no=20231022094839</guid>
-            <pubDate>Sun, 22 Oct 2023 01:52:53 GMT</pubDate>
-            <content:encoded><![CDATA[최근 전 세계에서 중앙은행 디지털 화폐(CBDC, Central Bank Digital Currency)에 대한 연구와 개발을 활발히 진행하고 있다. CBDC란 중앙은행이 발행하고 보증하는 디지털 형태의 법정 화폐를 말한다. 현금과 같은 역할을 하지만 은행이나 카드사와 같은 금융기관 중개 없이도 거래가 가능하다.CBDC는 블록체인 기술을 활용해 거래 기록을 안전하고 투명하게 관리할 수 있다....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/22/b8b170e723658bdd8cf509e037b384cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
