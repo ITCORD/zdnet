@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기술 혁신에 '정년' 없다…SK하이닉스 올해의 전문가 3人은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221104013</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221104013</guid>
+            <pubDate>Thu, 21 Dec 2023 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 박승민·최종덕 기성을 2023년 '마스터'로, 미래기술연구원 박철환 TL을 2023년 '아너드 엔지니어링(Honored Engineer, 이하 HE)'로 선정했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스 "HBM4 본격 개발…내년 하반기 CXL 상용화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221102819</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221102819</guid>
+            <pubDate>Thu, 21 Dec 2023 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 인공지능(AI)를 지원하는 차세대 메모리 고대역폭메모리(HBM), CXL(컴퓨트익스프레스링크), PIM(프로세싱 인 메모리) 시장에서 기술 선도를 이어갈 계획이다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 마이크론, D램 덕에 호실적…"내년 HBM3E 투자 집중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231221083609</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231219090054</guid>
             <pubDate>Tue, 19 Dec 2023 01:52:46 GMT</pubDate>
             <content:encoded><![CDATA[OCI홀딩스의 말레이시아 자회사인 OCIM Sdn. Bhd.(이하 OCIM)은 미국 태양광 전문 기업 CubicPV(이하 큐빅)와 미화 약 10억 달러(한화 약 1조3천억원) ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[듀폰, 삼성전자 'ESG 부문 베스트 파트너' 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219091735</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219091735</guid>
-            <pubDate>Tue, 19 Dec 2023 01:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[듀폰이 최근 삼성전자 인재교육원 UniverSE에서 진행된 M-day(Material-day)에서 ESG(환경·사회·지배구조) 부문 베스트 파트너 어워즈를 수상했다고 19일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 온도 변화에도 안정적인 신규 'OP 앰프' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219093100</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219093100</guid>
-            <pubDate>Tue, 19 Dec 2023 01:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 입력 오프셋 전압과 입력 오프셋 전압 온도 드리프트를 극소 레벨까지 저감한 제로 드리프트 OP 앰프(연산 증폭기) 'LMR1002F-LB'를 개발했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

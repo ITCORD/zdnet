@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 하이브리드 DBMS 7.3 버전으로 혁신 이룬 알티베이스의 미래 비전]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221105419</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221105419</guid>
+            <pubDate>Thu, 21 Dec 2023 02:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[알티베이스는 최근 하이브리드 DBMS 7.3 버전을 출시해 기능과 성능을 대폭 향상시켰다. 이번 업데이트에서는 하이브리드 파티션을 도입하여 데이터 처리 효율성을 극대화하고, 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[업비트 "잘못 보낸 가상자산 무료로 찾아가세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231221093731</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[티맥스구름, 조달청 디지털서미스몰에 등록]]></title>
+            <title><![CDATA[티맥스구름, 조달청 디지털서비스몰 등록]]></title>
             <link>https://zdnet.co.kr/view/?no=20231221092216</link>
             <guid>https://zdnet.co.kr/view/?no=20231221092216</guid>
             <pubDate>Thu, 21 Dec 2023 01:50:31 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231220111327</guid>
             <pubDate>Wed, 20 Dec 2023 03:08:54 GMT</pubDate>
             <content:encoded><![CDATA[엠로(대표 송재민)가 2024년 주요 공급망 키워드 5종을 선정했다고 20일 밝혔다. 5종의 키워드는 구매 전문 칼럼니스트들을 대상으로 진행한 설문조사 답변을 바탕으로 도출됐다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존소프트, 알리바바 클라우드 한국 데이터센터 구독 할인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231220105733</link>
-            <guid>https://zdnet.co.kr/view/?no=20231220105733</guid>
-            <pubDate>Wed, 20 Dec 2023 02:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드(대표 이주완)는 관계사인 메가존소프트와 중국 알리바바 클라우드가 내년 3월 말까지 한국 데이터센터 구독 할인 프로모션을 진행한다고 20일 밝혔다. 이번 프로모션을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
