@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 03:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 04:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오클라우드, AMD '제노아' 기반 인스턴스 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221123053</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221123053</guid>
+            <pubDate>Thu, 21 Dec 2023 04:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 AMD의 최신 4세대 EPYC 프로세서 기반으로 카카오클라우드의 클라우드 컴퓨팅 서비스인 BCS m3az 인스턴스를 출시했다고 21일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[펜타시스템, 신호현시 기반 지도 데이터 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221122705</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221122705</guid>
+            <pubDate>Thu, 21 Dec 2023 04:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[펜타시스템테크놀러지(대표 장종준)는 LX 한국국토정보공사와 공동으로 수행한 공간융합 빅데이터 플랫폼구축 사업에서 '신호현시 기반 맵 데이터'를 개발했다고 21일 밝혔다. '신호...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버클라우드, AI 활용 대학생 우수사례 시상식 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221122347</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221122347</guid>
+            <pubDate>Thu, 21 Dec 2023 04:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[네이버클라우드(대표 김유원)와 정보통신기획평가원(IITP)은 20일 네이버 제2사옥 1784에서 실무형 인재를 양성하고 AI 기술 활용도를 높이기 위한 마련한 'AI 러시(AI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["생성형 AI 활용 기업, 직원들에 사용법 안 가르쳐"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231221091204</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231220155225</guid>
             <pubDate>Wed, 20 Dec 2023 08:11:12 GMT</pubDate>
             <content:encoded><![CDATA[최근 국내 가상자산 거래소들의 코인 상장이 보다 빈번해지고 있다. 2위 사업자인 빗썸이 10월 이후 공격적인 사업 행보를 이어가면서, 다른 거래소들이 거래량 사수에 노력을 기울...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["사이버보안 인재 1만9천명 양성, 내년 예산 20%↑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231220143351</link>
-            <guid>https://zdnet.co.kr/view/?no=20231220143351</guid>
-            <pubDate>Wed, 20 Dec 2023 07:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[사이버보안 전략산업화를 위해 전문 보안인재 양성에 나선 정부가 첫 해 1만 9천 명을 배출했다. 내년에는 여러 분야벌 전문적이고 고도화된 인재 양성을 위해 예산을 20% 증액한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE-고려대, 차세대 지능형 캠퍼스 구축  MOU 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231220150500</link>
-            <guid>https://zdnet.co.kr/view/?no=20231220150500</guid>
-            <pubDate>Wed, 20 Dec 2023 06:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[HPE는 고려대학교와 함께 차세대 지능형 캠퍼스 ICT 인프라를 구축하기 위한 업무협약(MOU)을 체결했다고 20일 발표했다. 업무협약식은 김동원 고려대학교 총장, 이원규 교무...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플이 권장하는 비전OS 앱 설계 모범 사례]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231220105635</link>
-            <guid>https://zdnet.co.kr/view/?no=20231220105635</guid>
-            <pubDate>Wed, 20 Dec 2023 06:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[새해 혼합현실(MR) 디바이스 '비전프로' 출시를 앞둔 애플이 애플리케이션 생태계 구축 행보를 차근차근 진행하고 있다. 최근 아이폰15프로의 공간 비디오 캡처 지원 발표에 이어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
