@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 07:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 08:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 올해 반도체 13兆 적자…내년 반등 기대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221161414</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221161414</guid>
+            <pubDate>Thu, 21 Dec 2023 08:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 올해 글로벌 경기 둔화와 메모리 수요 부진으로 반도체 사업에만 약 13조원 이상의 적자를 기록할 전망이다. 삼성전자가 반도체 사업에서 4개 분기 연속으로 적자를 기록...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["1b D램 풀가동 상태"…SK하이닉스, 내년 초 M16·M14 투자 본격화]]></title>
             <link>https://zdnet.co.kr/view/?no=20231221100543</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231219081101</guid>
             <pubDate>Tue, 19 Dec 2023 02:24:16 GMT</pubDate>
             <content:encoded><![CDATA[영국에 본사를 둔 반도체 IP(설계자산) 업체 Arm이 중국지사 내 소프트웨어 엔지니어 70명 이상을 해고하고, 일부 직무를 아시아 외부로 배치할 예정이라고 블룸버그통신이 18...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 소니에 도전 '아이소셀 비전' 센서 공개...XR·로봇 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231219091908</link>
-            <guid>https://zdnet.co.kr/view/?no=20231219091908</guid>
-            <pubDate>Tue, 19 Dec 2023 02:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 모바일, 로봇, XR(확장현실) 등 첨단 콘텐츠 플랫폼 시장을 겨냥한 차세대 이미지센서 '아이소셀 비전' 2종을 공개했다. 그동안 모바일용 센서에 주력하던 삼성전자가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
