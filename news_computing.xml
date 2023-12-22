@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 01:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 02:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥브레인AI, 2분 만에 가상인간 만드는 '드림아바타' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231222092916</link>
+            <guid>https://zdnet.co.kr/view/?no=20231222092916</guid>
+            <pubDate>Fri, 22 Dec 2023 02:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[딥브레인AI(대표 장세영)가 사진 한장과 10초 분량의 음성으로 2분 내에 비슷한 가상인간을 제작할 수 있는 '드림아바타'를 출시했다고 22일 밝혔다. 딥브레인AI의 드림아바타...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시스코, 'eBPF·실리움' 개발 스타트업 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20231222090002</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231221121348</guid>
             <pubDate>Thu, 21 Dec 2023 05:10:21 GMT</pubDate>
             <content:encoded><![CDATA[임베디드 리눅스의 모태를 이루는 데비안이 x86 아키텍처의 32비트 버전 지원 중단을 고민하고 있다. 최근 더레지스터에 따르면, 데비안 개발팀은 지난달말 영국 캐임브리지에서 열...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오클라우드, AMD '제노아' 기반 인스턴스 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231221123053</link>
-            <guid>https://zdnet.co.kr/view/?no=20231221123053</guid>
-            <pubDate>Thu, 21 Dec 2023 04:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터프라이즈(대표 이경진)는 AMD의 최신 4세대 EPYC 프로세서 기반으로 카카오클라우드의 클라우드 컴퓨팅 서비스인 BCS m3az 인스턴스를 출시했다고 21일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
