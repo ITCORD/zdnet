@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 06:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["제미나이 프로 이용정보, 구글이 다 들여다본다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231222123319</link>
+            <guid>https://zdnet.co.kr/view/?no=20231222123319</guid>
+            <pubDate>Fri, 22 Dec 2023 06:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[구글 제미나이 프로를 이용할 때는 입출력 정보들이 그대로 구글에 넘어갈 수 있다는 점을 염두에 둘 필요가 있다고 미국 지디넷이 21일(현지시간) 보도했다. 구글은 이렇게 확보한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IT시스템 서비스 중단, 늦장 대응 원인은]]></title>
             <link>https://zdnet.co.kr/view/?no=20231222115504</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231221155927</guid>
             <pubDate>Thu, 21 Dec 2023 07:09:12 GMT</pubDate>
             <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 이번 신한은행 디지털창구 전자서식 시스템에 PDF스퀘어(PDFSquare)를 공급했다고 21일 밝혔다. PDF스퀘어를 적용한 첫번째 업무시스템...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인성정보, 재외국민 의료상담 서비스 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231221154650</link>
-            <guid>https://zdnet.co.kr/view/?no=20231221154650</guid>
-            <pubDate>Thu, 21 Dec 2023 07:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[인성정보(대표 원종윤, 손영삼)가 재외국민대상 비대면진료 플랫폼 '오케이닥(OK DOC)'의 서비스 런칭을 통해 디지털 헬스케어 사업 확대를 본격화한다고 21일 밝혔다. 이번에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
