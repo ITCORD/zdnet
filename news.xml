@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 10:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버드레드, '빌런즈: 로봇 배틀로얄' 한국 양대 마켓 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231222183746</link>
+            <guid>https://zdnet.co.kr/view/?no=20231222183746</guid>
+            <pubDate>Fri, 22 Dec 2023 10:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[버드레터(대표 양선우)는 22일 자체 개발하고 서비스하는 캐주얼 4분 배틀로얄 게임 '빌런즈 : 로봇 배틀로얄' 게임을 한국 양대 마켓에 출시 했다고 밝혔다. '빌런즈 : 로봇...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/22/c016332d50e3347c1a2c67a75ae3b9e1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티기업 에이피알, 증권신고서 제출]]></title>
             <link>https://zdnet.co.kr/view/?no=20231222180046</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231222175611</guid>
             <pubDate>Fri, 22 Dec 2023 09:09:56 GMT</pubDate>
             <content:encoded><![CDATA[개그우먼 성현주가 먼저 세상을 떠난 아들을 추모했다. 22일 성현주는 자신의 SNS를 통해 아들 서후 군이 잠들어있는 납골당에 방문한 사진을 게재했다. 지난 2020년 크리스마...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/22/enter9d4fa81eb296d606efa955385e96f567-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이경규 "서장훈은 A급, 이수근은 A+…조세호는 배신자"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231222164256</guid>
             <pubDate>Fri, 22 Dec 2023 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[▲ 대표이사 발행인 이상열...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 보안뉴스·시큐리티월드]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231222164206</link>
-            <guid>https://zdnet.co.kr/view/?no=20231222164206</guid>
-            <pubDate>Fri, 22 Dec 2023 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[▲ 대표이사 발행인 최소영...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
