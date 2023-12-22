@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 04:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 05:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT시스템 서비스 중단, 늦장 대응 원인은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231222115504</link>
+            <guid>https://zdnet.co.kr/view/?no=20231222115504</guid>
+            <pubDate>Fri, 22 Dec 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[올해 반복적인 정부 온라인 서비스 장애로 국가적인 국민피해가 발생했다. 무엇보다 오류 발생 이후 장애 원인을 명확히 설명하지 못하는 등 대처 과정이 원활히 이뤄지지 않아 비판의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["사이버 공격 가장 빨리 파악…안전하고 유연한 인터넷망 조성할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231221144143</link>
+            <guid>https://zdnet.co.kr/view/?no=20231221144143</guid>
+            <pubDate>Fri, 22 Dec 2023 05:10:16 GMT</pubDate>
+            <content:encoded><![CDATA["클라우드플레어는 전 세계에서 가장 높은 인터넷 트래픽을 관리하고 있다. 점점 더 교묘해지는 사이버 공격을 막기 위해 인공지능(AI) 등 신기술로 비정상 패턴을 가장 빨리 파악...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[딥브레인AI, 2분 만에 가상인간 만드는 '드림아바타' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20231222092916</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231221154650</guid>
             <pubDate>Thu, 21 Dec 2023 07:09:12 GMT</pubDate>
             <content:encoded><![CDATA[인성정보(대표 원종윤, 손영삼)가 재외국민대상 비대면진료 플랫폼 '오케이닥(OK DOC)'의 서비스 런칭을 통해 디지털 헬스케어 사업 확대를 본격화한다고 21일 밝혔다. 이번에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, SW천억클럽 어워즈 메가존·야놀자 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231221153851</link>
-            <guid>https://zdnet.co.kr/view/?no=20231221153851</guid>
-            <pubDate>Thu, 21 Dec 2023 07:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 2023 소프트웨어(SW) 천억클럽 어워즈를 개최했다고 21일 밝혔다. 20일 서울 삼정호텔에서 열린 이번 행사에는 작년 한 해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데비안 리눅스, x86 32비트 버전 사라진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231221121348</link>
-            <guid>https://zdnet.co.kr/view/?no=20231221121348</guid>
-            <pubDate>Thu, 21 Dec 2023 05:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[임베디드 리눅스의 모태를 이루는 데비안이 x86 아키텍처의 32비트 버전 지원 중단을 고민하고 있다. 최근 더레지스터에 따르면, 데비안 개발팀은 지난달말 영국 캐임브리지에서 열...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
