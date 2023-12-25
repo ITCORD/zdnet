@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 02:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작년 국내 방송시장 매출액 19조8천억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231225092443</link>
+            <guid>https://zdnet.co.kr/view/?no=20231225092443</guid>
+            <pubDate>Mon, 25 Dec 2023 03:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 국내 방송시장 규모는 방송매출액 기준 19조7천579억원으로 집계됐다. 전년 대비 1.8% 증가한 수치로 연간 20조원 규모 문턱에 도달했다. 과학기술정보통신부와 방송통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 사내 AI·모빌리티 전문가 CES 참관]]></title>
             <link>https://zdnet.co.kr/view/?no=20231225094234</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231220125415</guid>
             <pubDate>Wed, 20 Dec 2023 04:09:45 GMT</pubDate>
             <content:encoded><![CDATA[KT는 성탄절과 연말연시 안정적인 통신 서비스를 제공하기 위해 내년 1월2일까지 '네트워크 집중 관리 체제'를 운영한다고 20일 밝혔다. 네트워크 집중 관리 체제가 도입된 기간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 코레일과 광역철도 실시간 혼잡도 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231220125124</link>
-            <guid>https://zdnet.co.kr/view/?no=20231220125124</guid>
-            <pubDate>Wed, 20 Dec 2023 04:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 한국철도공사와 '통신 빅데이터 기반 광역철도 혼잡도 서비스 제공'을 위한 업무협약을 맺고 서비스 개발에 나선다고 20일 밝혔다. 업무협약은 SK텔레콤과 한국철도공사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
