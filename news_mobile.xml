@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 08:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 09:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 시각장애 아동 위한 교구재 제작 봉사활동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231226174917</link>
+            <guid>https://zdnet.co.kr/view/?no=20231226174917</guid>
+            <pubDate>Tue, 26 Dec 2023 09:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[종합 가전기업 코웨이는 시각장애 아동을 위한 점자 학습 교구와 놀이책을 제작해 기증했다고 26일 밝혔다. 코웨이는 시각장애 아동의 언어 습득과 교육환경 개선을 위해 임직원이 직...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['입는 로봇' 시대 온다…제조·의료 현장서 주목]]></title>
             <link>https://zdnet.co.kr/view/?no=20231201163256</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231222165139</guid>
             <pubDate>Sun, 24 Dec 2023 00:46:01 GMT</pubDate>
             <content:encoded><![CDATA[우리가 온라인 쇼핑몰에 주문을 넣으면 물류센터 직원은 해당 상품을 찾아서 포장하는 작업을 해야 한다. 단순해 보이지만 취급하는 품목과 주문 건수가 늘어날수록 작업 난이도도 급격...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 생성 AI 학습 위해 언론사 접촉…최소 651억원 규모 제안"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231223072006</link>
-            <guid>https://zdnet.co.kr/view/?no=20231223072006</guid>
-            <pubDate>Sat, 23 Dec 2023 01:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 생성형 인공지능(AI) 시스템 학습에 필요한 콘텐츠를 제공받기 위해 다양한 언론사, 출판사와 접촉하고 있다고 뉴욕타임스(NYT)가 22일(현지시간) 소식통을 인용해 보도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
