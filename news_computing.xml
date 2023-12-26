@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 07:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 08:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얀 르쿤 "AI 발전 위해선 오픈소스 생태계 키워야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231226144201</link>
+            <guid>https://zdnet.co.kr/view/?no=20231226144201</guid>
+            <pubDate>Tue, 26 Dec 2023 08:12:22 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI)을 활용한 사이버 범죄 등 나쁜 AI을 막는 방법은 좋은 AI를 폐쇄적으로 개발하는 게 아니라 더 빠르게 키우는 것이다. 이를 위해 기업과 기관은 AI 연구 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정종일 개인정보위 사무관, '공무원상' 대통령 표창 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20231226151721</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231225091601</guid>
             <pubDate>Mon, 25 Dec 2023 00:43:47 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스 등 연말연시 이벤트를 노린 사이버공격이 기승을 부리고 있어 주의가 요구된다. 25일 보안 업계는 연말 휴가시즌 사이버공격 예방을 위한 보안수칙을 발표했다. 연말연시 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 기업, 생성형 AI 제품화 속도...해외 진출 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231220102540</link>
-            <guid>https://zdnet.co.kr/view/?no=20231220102540</guid>
-            <pubDate>Sun, 24 Dec 2023 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[올해 어려운 대내외 경제 여건 때문에 많이 힘드셨죠. 포스트 코로나 이후 완전히 다른 세상으로 새로운 패러다임을 고민하게 했던 2023년 한해도 서서히 저물고 있습니다. 새해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
