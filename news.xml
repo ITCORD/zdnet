@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 10:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방심위, 민원인 개인정보 유출 수사 의뢰]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231227190012</link>
+            <guid>https://zdnet.co.kr/view/?no=20231227190012</guid>
+            <pubDate>Wed, 27 Dec 2023 10:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신심의위원회가 최근 민원인들의 개인정보가 불법 유출된 중대 범죄에 대한 수사를 의뢰했다. 수사 의뢰와 함께 감사 착수를 통해 불법 유출 경위 파악에도 나선다는 방침이다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/06/798d7575d01ae89c62478a791dfd457f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HCN, '지역 상생 사회공헌 모델' 지속 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20231227170123</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20231227163935</guid>
             <pubDate>Wed, 27 Dec 2023 08:12:11 GMT</pubDate>
             <content:encoded><![CDATA[에쓰오일이 새해 저탄소 신에너지 사업 추진에 청신호를 밝혔다. 에쓰오일은 동∙식물성 유지 등 바이오 기반 원료를 석유정제 공정에서 처리하기 위해 정부에 신청한 실증을 위한 규제...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/14/08d9b9b4c50e3184252ca074e9dc006c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[4이통 도전 스테이지파이브에 인텔리안테크 지분 참여]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231227130630</guid>
             <pubDate>Wed, 27 Dec 2023 04:11:38 GMT</pubDate>
             <content:encoded><![CDATA[스코넥엔터테인먼트(대표 황대실, 스코넥)는 VR FPS 게임 모탈블리츠를 피코 글로벌 스토어에 28일 출시한다고 27일 밝혔다. 스코넥은 2015년 세계 최초로 상용화한 VR ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[4대 사회보험료 고액‧상습체납자 1만4457명 인적사항 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231227130610</link>
-            <guid>https://zdnet.co.kr/view/?no=20231227130610</guid>
-            <pubDate>Wed, 27 Dec 2023 04:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[국민건강보험공단(이하 건보공단)은 4대 사회보험료 고액‧상습체납자 1만4천457명(건강보험 1만355명, 국민연금 4천96명, 고용‧산재보험 6명)의 인적사항을 27일 홈페이지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
