@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 05:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 06:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 10~20대 OTT 이용률 98% 근접]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231228143429</link>
+            <guid>https://zdnet.co.kr/view/?no=20231228143429</guid>
+            <pubDate>Thu, 28 Dec 2023 06:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[올해 국내 10~20대의 OTT 이용률이 98%에 도달했다. 사실상 20대 이하에는 OTT가 주류 미디어로 확고히 자리를 잡았다는 뜻이다. 아울러 노년층의 OTT 이용률도 급격...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["TV홈쇼핑 모바일 인터넷 결제가 69%...송출수수료 반영해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231228095012</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231225093833</guid>
             <pubDate>Mon, 25 Dec 2023 00:43:39 GMT</pubDate>
             <content:encoded><![CDATA[KT는 삼성전자와 공동으로 기획한 갤럭시점프 시리즈를 2021년 5월 처음 공개한 후 3년 간 꾸준히 새로운 모델을 선보이며 현재까지 150만대가 판매됐다고 25일 밝혔다. K...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, CES 2024에서 AI 기술력 뽐낸다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231225093337</link>
-            <guid>https://zdnet.co.kr/view/?no=20231225093337</guid>
-            <pubDate>Mon, 25 Dec 2023 00:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 내년 1월9일부터 미국 라스베이거스에서 열리는 CES 2024에서 SK그룹의 넷제로와 ICT 패밀리사들의 AI 기술을 전 세계에 알린다. SK텔레콤은 SK주식회사,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
