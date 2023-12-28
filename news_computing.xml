@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 04:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 05:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저변 넓히는 로우코드, 보안 취약점 주의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231228115408</link>
+            <guid>https://zdnet.co.kr/view/?no=20231228115408</guid>
+            <pubDate>Thu, 28 Dec 2023 05:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[디지털전환(DX)가 본격화되며 노코드, 로우코드(NCLC)와 로봇 프로세스 자동화(RPA) 등 업무를 자동화하는 서비스가 전 산업에 걸쳐 빠르게 확산되고 있다. 다만 업무 혁신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다날, 백현숙 단독 대표 체제로 전환]]></title>
             <link>https://zdnet.co.kr/view/?no=20231228130721</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231227115905</guid>
             <pubDate>Wed, 27 Dec 2023 05:10:16 GMT</pubDate>
             <content:encoded><![CDATA["한국어로 된 거대언어모델(LLM)이 필요하다. 그렇지 않으면 영미권 편견을 물려받은 인공지능(AI) 모델이 세상을 점령할 것이다." PWC 정성문 AI·애널리틱스 파트너는 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트, '스테이킹' 퀴즈 맞추면 이더리움 지급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231227132442</link>
-            <guid>https://zdnet.co.kr/view/?no=20231227132442</guid>
-            <pubDate>Wed, 27 Dec 2023 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 및 핀테크 전문기업 두나무(대표 이석우)는 자사 가상자산 거래소 '업비트'에서 스테이킹 퀴즈 이벤트를 진행한다고 27일 밝혔다. 스테이킹은 이용자가 보유한 가상자산을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
