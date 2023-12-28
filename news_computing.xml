@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 06:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 07:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오픈AI, 챗GPT 전용 기기 제작 본격화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231228140931</link>
+            <guid>https://zdnet.co.kr/view/?no=20231228140931</guid>
+            <pubDate>Thu, 28 Dec 2023 07:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 챗GPT 전용 기기 제작을 시작한 것으로 알려졌다. 블룸버그 등 외신은 26일 오픈AI 내부 관계자가 이런 소식을 귀띔했다고 보도했다. 보도에 따르면, 해당 기기는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[저변 넓히는 로우코드, 보안 취약점 주의]]></title>
             <link>https://zdnet.co.kr/view/?no=20231228115408</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231227112144</guid>
             <pubDate>Wed, 27 Dec 2023 05:10:16 GMT</pubDate>
             <content:encoded><![CDATA[내년 비트코인, 이더리움 등 가상자산에 대한 투자 열기가 뜨거울 것이라는 전망이 다수 제기됐다. 27일 가상자산 업계에 따르면 국내 가상자산 거래소 코빗 산하 리서치센터, 가상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["자국 AI 모델 필수 시대…한국선 네이버가 잘 해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231227115905</link>
-            <guid>https://zdnet.co.kr/view/?no=20231227115905</guid>
-            <pubDate>Wed, 27 Dec 2023 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA["한국어로 된 거대언어모델(LLM)이 필요하다. 그렇지 않으면 영미권 편견을 물려받은 인공지능(AI) 모델이 세상을 점령할 것이다." PWC 정성문 AI·애널리틱스 파트너는 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
