@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 00:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 01:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] IT 인프라 현대화를 위한 최선의 선택 ‘STaaS’]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231228095417</link>
+            <guid>https://zdnet.co.kr/view/?no=20231228095417</guid>
+            <pubDate>Thu, 28 Dec 2023 01:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[IT 인프라는 기업이 새로운 기회를 포착하고 끊임없이 변화하는 고객 요구에 대응하도록 지원한다. 클라우드 컴퓨팅 시대가 도래하면서 기업들은 상시 가동 기능, 무제한 온디맨드 용량, 가동 중단 및 장애에 대비한 유연한 IT인프라를 제공해야 한다는 압박을 받고 있다. 그러나 기술의 복잡성, 증가하는 보안 및 규정 준수 위험, 예산 제약으로 이를 효율적이고 효과적으로 이행하는 일은 어렵다. 기업들...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/04/204fe2f290a82c980ebd8f79c544e307.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IITP 기술산책] 플라스틱 산업 사례서 본 폐배터리 교훈]]></title>
             <link>https://zdnet.co.kr/view/?no=20231227180947</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Nov 2023 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[최근 미국 중서부 지역 65% 이상이 가뭄 피해를 겪은 것으로 나타났다. 작년 유럽은 이상폭염으로 6만 명 이상이 사망한 것으로 조사됐다. 기후변화는 더 이상 남의 얘기가 아닌 우리 주변으로 다가온 현실이다. 미국과 유럽, 중국 등 주요국은 ‘탄소중립’ 달성 목표를 위한 다양한 정책을 제시하고 있으며, 이 중 내연기관차 퇴출과 함께 전기차 전환을 핵심 과제로 적극 추진하고 있다. 이에 글로벌...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/11/01/89467700d09bf26e9695a94f36f5ad5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] ADAS용 도메인 컨트롤러 위한 '다중 카메라' 비전 인식 구현하기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231022212935</link>
-            <guid>https://zdnet.co.kr/view/?no=20231022212935</guid>
-            <pubDate>Tue, 31 Oct 2023 08:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[동네에서 차를 운전할 때,&nbsp;혹은 아이들이 걷거나 자전거를 타는 것을 볼 때&nbsp;우리는 안전의 중요성을 다시 한번 상기한다. 미국 도로교통안전국(NHTSA)의&nbsp;2021년 연구에 따르면 미국에서는 평균 20명의 보행자가 매일 71분마다 한 명씩 교통 사고로 사망했다.또한 세계보건기구(WHO)는 2022년에 발표한 연구에서 매년 130만 명이 도로 교통 사고로 사망한다고 밝...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/31/1477f38e3bffbd78616c90543c3fb8c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
