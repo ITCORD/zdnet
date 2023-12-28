@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 23:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 00:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화웨이 '코딩해주는 AI' 공개..."개발 시간 단축"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231228013950</link>
+            <guid>https://zdnet.co.kr/view/?no=20231228013950</guid>
+            <pubDate>Thu, 28 Dec 2023 00:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[중국 화웨이가 인공지능(AI) 초거대 모델을 기반으로 한 AI 프로그래밍 비서를 공개했다. 화웨이는 AI 비서를 사용할 경우 개발 시간을 대폭 단축할 수 있을 것이라고 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이노룰스, 농협손보 '보험금 자동심사시스템 구축' 수주]]></title>
             <link>https://zdnet.co.kr/view/?no=20231227141119</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231227090642</guid>
             <pubDate>Wed, 27 Dec 2023 01:46:30 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트의 생성형 인공지능(AI) 도구 '코파일럿'이 안드로이드 운영체제(OS)용 앱으로 출시됐다. 조만간 iOS 앱도 출시될 예정이다. 26일(현지시간) 윈도레이티스트에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, 신규 통합 OT 보안 솔루션 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231227093939</link>
-            <guid>https://zdnet.co.kr/view/?no=20231227093939</guid>
-            <pubDate>Wed, 27 Dec 2023 00:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[포티넷 코리아(조원균 대표)는 새로운 통합 OT 보안 솔루션 및 서비스를 선보인다고 27일 밝혔다. 포티넷 OT 보안 플랫폼은 산업용 네트워크에 특화되어 설계된 사이버보안 제품...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
