@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 22:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 23:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI 시대, 지속가능성·혁신 함께 잡는 스토리지 전략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231228100508</link>
+            <guid>https://zdnet.co.kr/view/?no=20231228100508</guid>
+            <pubDate>Thu, 28 Dec 2023 23:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)이 헬스케어, 반도체, 자동차, 금융 서비스 등 다양한 산업에 활용되면서 기업의 혁신과 새로운 비즈니스 기회 창출을 촉진하고 있다. 그리고 AI 활용 범위가 확대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[PCN, 이종 융합 데이터 탐지 및 추적 기술 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20231228190540</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228094222</guid>
             <pubDate>Thu, 28 Dec 2023 01:45:46 GMT</pubDate>
             <content:encoded><![CDATA[국민의 권리‧의무와 밀접한 관련이 있는 감사, 선거, 수사, 행정조사 등에 대한 개인정보 보호 원칙과 기준이 체계적으로 제시됐다. 개인정보보호위원회는 감사원, 국무조정실, 경찰...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙행정기관, 개정법 반영 '개인정보 보호 시행계획' 마련]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228092204</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228092204</guid>
-            <pubDate>Thu, 28 Dec 2023 01:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회는 지난 27일 전체회의에서 51개 중앙행정기관의 '2024년 개인정보 보호 시행계획'을 최종 의결했다. 개인정보 보호 시행계획은 개인정보보호법 제10조에 따라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
