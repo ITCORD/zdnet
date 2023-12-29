@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 02:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 03:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'줄서기 앱' 설치 강요하는 맛집, 개인정보법 위반"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231229102418</link>
+            <guid>https://zdnet.co.kr/view/?no=20231229102418</guid>
+            <pubDate>Fri, 29 Dec 2023 03:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회는 29일 올 한해 국민들의 생활과 밀접한 개인정보 관련 사례를 발굴해 해석한 '2023 개인정보 법령해석 사례 30선'을 공개했다. 이번 해석 사례집은 지난 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위 "올해 규제 혁신 다방면 추진"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231229101247</link>
+            <guid>https://zdnet.co.kr/view/?no=20231229101247</guid>
+            <pubDate>Fri, 29 Dec 2023 03:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회는 2023년 데이터 경제 시대에 신산업 육성 지원과 국민 불편 해소를 위해 개인정보 분야 규제 혁신을 적극 추진했다고 29일 밝혔다. 개인정보위는 지난 3월 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI인력 5만명 돌파···AI전문기업 2354곳·AI매출 5.2조]]></title>
             <link>https://zdnet.co.kr/view/?no=20231229110205</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228091836</guid>
             <pubDate>Thu, 28 Dec 2023 02:20:04 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕타임스가 오픈AI와 마이크로소프트를 상대로 저작권 침해소송을 제기했다. 뉴욕타임스의 기사에 의존해 GPT 모델을 훈련시키고, 답변 생성에 기사를 그대로 노출하며, 잘못된 정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브로드컴, VM웨어 파트너에 계약 종료 통지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228094857</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228094857</guid>
-            <pubDate>Thu, 28 Dec 2023 01:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[VM웨어를 인수한 브로드컴이 파트너사에게 계약 종료를 통지한 것으로 알려졌다. 기존 VM웨어 파트너사는 내년 2월4일로 계약 종료되고 새로 신청해야 한다. 최근 CRN은 브로드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신 '헤이나나' 사용자 수 15만명 기록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228093101</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228093101</guid>
-            <pubDate>Thu, 28 Dec 2023 01:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[롯데정보통신의 '헤이나나'가 반려동물 서비스 회원 수 15만명을 기록했다고 28일 밝혔다. 올 11월 10만 회원을 모은지 한달만이다. 헤이나나는 반려동물을 돌봐주는 애플리케이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
