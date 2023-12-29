@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 01:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 02:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI인력 5만명 돌파···AI전문기업 2354곳·AI매출 5.2조]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231229110205</link>
+            <guid>https://zdnet.co.kr/view/?no=20231229110205</guid>
+            <pubDate>Fri, 29 Dec 2023 02:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 인공지능(AI) 산업이 고금리·고물가 등 어려운 대내외 여건 속에서도 우리나라 인공지능(AI) 산업이 가파른 성장을 지속한 것으로 나타났다. 우선 AI 매출액이 202...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, '자율주행 로봇' 기업 규제 샌드박스 승인]]></title>
             <link>https://zdnet.co.kr/view/?no=20231229094549</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228093101</guid>
             <pubDate>Thu, 28 Dec 2023 01:45:46 GMT</pubDate>
             <content:encoded><![CDATA[롯데정보통신의 '헤이나나'가 반려동물 서비스 회원 수 15만명을 기록했다고 28일 밝혔다. 올 11월 10만 회원을 모은지 한달만이다. 헤이나나는 반려동물을 돌봐주는 애플리케이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이메시지로 사용자 몰래 아이폰 감염시킨다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228093919</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228093919</guid>
-            <pubDate>Thu, 28 Dec 2023 01:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰의 아이메시지를 이용해 하드웨어를 우회해 침투하는 공격 방식이 공개됐다. 이 방식은 iOS 16.2까지 적용되는 만큼 상위 버전으로 업데이트가 요구된다. 실리콘앵글 등 외...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
