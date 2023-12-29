@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 05:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 물류차량용 수소연료 직접 만들어 쓴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231229103643</link>
+            <guid>https://zdnet.co.kr/view/?no=20231229103643</guid>
+            <pubDate>Fri, 29 Dec 2023 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[아마존이 물류센터에 쓰이는 산업용 차량 운행을 위한 수소연료를 직접 생산한다. 28일(현지시간) 더버지 등 외신에 따르면 아마존이 미국 콜로라도주 오로라에 위치한 물류 센터에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["'줄서기 앱' 설치 강요하는 맛집, 개인정보법 위반"]]></title>
             <link>https://zdnet.co.kr/view/?no=20231229102418</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228103955</guid>
             <pubDate>Thu, 28 Dec 2023 02:20:04 GMT</pubDate>
             <content:encoded><![CDATA[금 기반 실물연계자산(RWA) 플랫폼 개발사 크레더(대표 임대훈)는 블록체인 기술 기업 오지스(대표 최진한)와 RWA 사업을 위한 전략적 파트너십을 체결했다고 28일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕타임스, 오픈AI·MS에 저작권 침해소송 제기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228091836</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228091836</guid>
-            <pubDate>Thu, 28 Dec 2023 02:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스가 오픈AI와 마이크로소프트를 상대로 저작권 침해소송을 제기했다. 뉴욕타임스의 기사에 의존해 GPT 모델을 훈련시키고, 답변 생성에 기사를 그대로 노출하며, 잘못된 정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
