@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 05:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 06:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국지능정보시스템학회 설립 30주년 기념식 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20231230143424</link>
+            <guid>https://zdnet.co.kr/view/?no=20231230143424</guid>
+            <pubDate>Sat, 30 Dec 2023 06:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[한국지능정보시스템학회(KIISS, 학회장 권오병 경희대 경영학부 교수) 설립 30주년 기념행사가 29일 오후 서울 잠실 소피텔호텔 3층 바스티룸에서 열렸다. 행사에는 권오병 학...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI에 치이고 끌려간 클라우드…새해에는 어떨까]]></title>
             <link>https://zdnet.co.kr/view/?no=20231222130317</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228184905</guid>
             <pubDate>Thu, 28 Dec 2023 10:10:27 GMT</pubDate>
             <content:encoded><![CDATA[IT 성능관리 전문기업 엑셈(대표 조종암·고평석)은 서울시가 발주한 '지속가능한 스마트 빅데이터 서비스 플랫폼 3단계 구축' 사업을 컨소시엄 형태로 수주했다고 28일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노드VPN, 애플TV용 VPN 보안 앱 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228170713</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228170713</guid>
-            <pubDate>Thu, 28 Dec 2023 08:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[노드VPN은 애플TV용 가상 사설 네트워크(VPN)앱을 출시했다고 28일 밝혔다. 애플의 tvOS17 업데이트가 적용됨에 따라 새롭게 선보이게 된 노드VPN의 애플TV 전용 앱...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
