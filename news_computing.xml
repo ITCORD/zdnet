@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위 고학수 "프라이버시 걱정 없는 AI 만들 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240102164104</link>
+            <guid>https://zdnet.co.kr/view/?no=20240102164104</guid>
+            <pubDate>Tue, 02 Jan 2024 08:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[고학수 개인정보보호위원회 위원장은 새해 신년사를 통해 인공지능(AI) 서비스를 신뢰하고 사용할 수 있도록 프라이버시 보호 체계 구축을 중점적으로 추진하겠다고 밝혔다. 고 위원장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['비트코인 현물 ETF' 출시 전부터 경쟁 고조]]></title>
             <link>https://zdnet.co.kr/view/?no=20240102152500</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240101105357</guid>
             <pubDate>Mon, 01 Jan 2024 03:11:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI의 이미지 생성 도구 '달리3'와 스태빌리티AI의 '스테이블 디퓨전'으로 신년 축하 이미지를 만들어 봤다. 현재 달리3에서 한국어로 이미지를 생성할 수 있지만, 스테이블...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["비트코인, 현물 ETF 출시 후 3만2천 달러까지 하락 전망"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240101105002</link>
-            <guid>https://zdnet.co.kr/view/?no=20240101105002</guid>
-            <pubDate>Mon, 01 Jan 2024 01:58:53 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인 현물 상장지수펀드(ETF)가 출시되면 현재 4만 달러(약 5천200만 원) 이상인 비트코인 시세가 3만2천 달러(약 4천200만 원) 수준까지 하락할 수 있다는 전망이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
