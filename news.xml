@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 22:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 23:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["올해 아이폰16 프로, 크기 커진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103075528</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103075528</guid>
+            <pubDate>Tue, 02 Jan 2024 23:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 올 가을 출시할 아이폰16 프로의 화면 크기를 더 늘릴 예정이다. IT매체 맥루머스는 그 동안 나온 정보를 종합해 올해 출시될 아이폰16 시리즈의 크기를 전망하는 기사를...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/09/14/4e7c4d86235b7c172aaa60d085ce1b67-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국선 드론 '신분증' 있어야 난다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103004528</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103004528</guid>
+            <pubDate>Tue, 02 Jan 2024 23:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 올해부터 '신분증'이 없는 드론은 비행이 불가능해졌다. 2일 중국 언론 펑파이신원에 따르면, 올해부터 '무인 항공기 비행 관리에 관한 임시 조례'가 공식 시행됐다. 조...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/03/587ffac87e38d5be39db0c2675dc0d65-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 '비전프로' 27일 출시설...中 기업도 디스플레이 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103004322</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103004322</guid>
+            <pubDate>Tue, 02 Jan 2024 23:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 이달말 신제품 '비전 프로'를 내놓을 것이란 전망이 제기됐다. 2일 중국 언론 화얼졔졘원에 따르면 애플의 협력사들은 비전 프로 헤드셋이 27일 미국 시장에 정식 출시될 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포스텍, 자유롭게 회전 가능한 '로봇 손목' 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20240103010015</link>
             <guid>https://zdnet.co.kr/view/?no=20240103010015</guid>
             <pubDate>Tue, 02 Jan 2024 16:10:56 GMT</pubDate>
             <content:encoded><![CDATA[손 일부가 절단된 이들도 보다 자유롭게 움직일 수 있도록 회전 모듈이 탑재된 로봇 손목이 개발됐다. 포항공과대학교(포스텍)은 김기훈 기계공학과·융합대학원 교수와 최서영 기계공학...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/03/94a8a5e4ddf3cd5552c4e2550d9bbf75-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['이재명 급습' 60대, 3주 전에도 지켜봤다]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240102211719</guid>
             <pubDate>Tue, 02 Jan 2024 13:11:29 GMT</pubDate>
             <content:encoded><![CDATA[이재명 더불어민주당 대표의 목을 찌른 60대 용의자가 지난달 이 대표의 부산 방문 때도 현장에 있었다는 주장이 제기됐다. 2일 사회관계망서비스(SNS)를 통해 공개된 사진을 보...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/02/88340f117c4dca48da111ba05d21b17e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[일본 하네다공항 항공기 충돌…해안경비대원 5명 사망]]></title>
@@ -140,30 +164,6 @@
             <link>https://zdnet.co.kr/view/?no=20240102181547</link>
             <guid>https://zdnet.co.kr/view/?no=20240102181547</guid>
             <pubDate>Tue, 02 Jan 2024 10:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[에스넷그룹이 그룹 간 시너지 및 내실강화를 위한 2024년 조직개편을 단행했다고 2일 밝혔다. 에스넷그룹은 이번 조직개편을 통해 ▲제품개발 전략과 마케팅 전략 연계로 고객사 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[프로필] 유고명 아이넷뱅크 사장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240102181234</link>
-            <guid>https://zdnet.co.kr/view/?no=20240102181234</guid>
-            <pubDate>Tue, 02 Jan 2024 10:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[에스넷그룹이 그룹 간 시너지 및 내실강화를 위한 2024년 조직개편을 단행했다고 2일 밝혔다. 에스넷그룹은 이번 조직개편을 통해 ▲제품개발 전략과 마케팅 전략 연계로 고객사 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정철호 컴투스홀딩스 대표 "게임·플랫폼·웹3 시너지 창출할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240102181047</link>
-            <guid>https://zdnet.co.kr/view/?no=20240102181047</guid>
-            <pubDate>Tue, 02 Jan 2024 10:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[정철호 컴투스홀딩스 대표가 2024년 게임 사업과 '하이브' 플랫폼 사업, 웹3 사업의 시너지를 강화하겠다고 밝혔다. 정 대표는 2일 신년사를 통해 "지난 한 해는 힘든 역경이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[프로필] 김오현 굿어스 부사장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240102180805</link>
-            <guid>https://zdnet.co.kr/view/?no=20240102180805</guid>
-            <pubDate>Tue, 02 Jan 2024 09:09:31 GMT</pubDate>
             <content:encoded><![CDATA[에스넷그룹이 그룹 간 시너지 및 내실강화를 위한 2024년 조직개편을 단행했다고 2일 밝혔다. 에스넷그룹은 이번 조직개편을 통해 ▲제품개발 전략과 마케팅 전략 연계로 고객사 및...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
