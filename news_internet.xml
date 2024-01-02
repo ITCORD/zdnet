@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 00:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 01:53:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오서 새해 다짐하면 선물 준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240102100128</link>
+            <guid>https://zdnet.co.kr/view/?no=20240102100128</guid>
+            <pubDate>Tue, 02 Jan 2024 01:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 갑진년 새해를 맞아 다짐으로 더 나은 세상을 만드는 데 동참할 수 있는 기회를 제공한다. 카카오 사회공헌 플랫폼 카카오같이가치는 각자 신년 계획과 다짐을 작성해 기부할...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다사다난했던 카카오...새해 '소통 경영' 본격 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20240101083302</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228124456</guid>
             <pubDate>Thu, 28 Dec 2023 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[카카오가 공동체 기술윤리 보고서를 처음 발간했다고 28일 밝혔다. 카카오는 지난해 7월 공동체 전반에 걸쳐 기술윤리를 점검하고, 사회와 함께 발전시켜나가는 방안을 연구하고자 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공정위, 카카오 택시 '콜 차단' 혐의 자진시정안 기각]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228123920</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228123920</guid>
-            <pubDate>Thu, 28 Dec 2023 05:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[카카오택시(카카오T) 운영사 카카오모빌리티가 경쟁사 가맹 택시 '콜(승객 호출) 차단' 혐의에 대해 공정거래위원회에 자진시정방안을 내놨지만, 끝내 받아들여지지 않았다. 공정위는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
