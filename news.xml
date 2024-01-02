@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 15:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 16:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스텍, 자유롭게 회전 가능한 '로봇 손목' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103010015</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103010015</guid>
+            <pubDate>Tue, 02 Jan 2024 16:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[손 일부가 절단된 이들도 보다 자유롭게 움직일 수 있도록 회전 모듈이 탑재된 로봇 손목이 개발됐다. 포항공과대학교(포스텍)은 김기훈 기계공학과·융합대학원 교수와 최서영 기계공학...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/03/94a8a5e4ddf3cd5552c4e2550d9bbf75-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이재명 급습' 60대, 3주 전에도 지켜봤다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240102211719</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240102211129</guid>
             <pubDate>Tue, 02 Jan 2024 12:16:44 GMT</pubDate>
             <content:encoded><![CDATA[일본 도쿄 하네다 공항에서 2일 오후 5시47분께 활주로를 달리던 두 항공기가 충돌해 두 곳 모두 화재가 발생했다. 400명 가까이가 타고 있던 일본항공(JAL) 탑승객들이 탈...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/02/5e87c1b26ea28365d50ce78cfd0e70e5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[세계적 클라우드 행사 '오픈인프라 서밋' 9월 수원서 열려]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240102180805</guid>
             <pubDate>Tue, 02 Jan 2024 09:09:31 GMT</pubDate>
             <content:encoded><![CDATA[에스넷그룹이 그룹 간 시너지 및 내실강화를 위한 2024년 조직개편을 단행했다고 2일 밝혔다. 에스넷그룹은 이번 조직개편을 통해 ▲제품개발 전략과 마케팅 전략 연계로 고객사 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[피씨엔, '2023 PCN 어워즈' 개최···"창업이래 가장 큰 사업 수주"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240102174301</link>
-            <guid>https://zdnet.co.kr/view/?no=20240102174301</guid>
-            <pubDate>Tue, 02 Jan 2024 09:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 플랫폼 전문 기업 피씨엔(PCN, 대표 송광헌)이 구랍 29일 서울 서초구 더 리버사이드호텔에서 한 해를 마무리하는 종무식인 '2023 PCN 어워즈(PCN AWARDS...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

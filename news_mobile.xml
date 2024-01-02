@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 15:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 16:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스텍, 자유롭게 회전 가능한 '로봇 손목' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103010015</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103010015</guid>
+            <pubDate>Tue, 02 Jan 2024 16:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[손 일부가 절단된 이들도 보다 자유롭게 움직일 수 있도록 회전 모듈이 탑재된 로봇 손목이 개발됐다. 포항공과대학교(포스텍)은 김기훈 기계공학과·융합대학원 교수와 최서영 기계공학...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['갤럭시S24가 온다'…브라질서 이미 홍보중?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240102153327</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231230063609</guid>
             <pubDate>Sat, 30 Dec 2023 00:41:46 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 새해 초 공개하는 차세대 스마트폰 '갤럭시S24' 시리즈에 자체 개발한 생성형 AI 모델 '삼성 가우스'가 탑재돼 실시간 통화 번역 기능이 제공된다고 알려진 가운데,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠쿠 킨델, 8중 코팅 인덕션 프라이팬·웍팬 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231229142629</link>
-            <guid>https://zdnet.co.kr/view/?no=20231229142629</guid>
-            <pubDate>Fri, 29 Dec 2023 06:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠가 일반 가스레인지를 비롯해 IH 인덕션레인지 등 모든 열원에서 사용 가능한 인덕션 프라이팬과 인덕션 웍팬 신제품을 출시한다고 29일 밝혔다. 쿠쿠 킨델...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
