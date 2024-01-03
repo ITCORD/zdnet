@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 01:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 02:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS 고위 개발자, 아마존의 '조용한 해고' 맹비난]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103101932</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103101932</guid>
+            <pubDate>Wed, 03 Jan 2024 02:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS) 소속의 고위 개발자가 아마존과 AWS의 '조용한 해고'를 공개적으로 비난하고 나섰다. 아마존이 작년 사무실복귀(RTO) 시행 후 자신의 팀을 해체한 뒤 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드, 신분증 검증 서비스에 얼굴 인식 기능 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20240103102838</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240102164104</guid>
             <pubDate>Tue, 02 Jan 2024 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[고학수 개인정보보호위원회 위원장은 새해 신년사를 통해 인공지능(AI) 서비스를 신뢰하고 사용할 수 있도록 프라이버시 보호 체계 구축을 중점적으로 추진하겠다고 밝혔다. 고 위원장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['비트코인 현물 ETF' 출시 전부터 경쟁 고조]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240102152500</link>
-            <guid>https://zdnet.co.kr/view/?no=20240102152500</guid>
-            <pubDate>Tue, 02 Jan 2024 07:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[비트코인 현물 상장지수펀드(ETF)의 미국 시장 출시가 당장 내일이라도 출시될 수 있다는 예상이 속속 나오고 있다. ETF 출시를 신청한 업체들도 본격적으로 상품 판매 경쟁에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
