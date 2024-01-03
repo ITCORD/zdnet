@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 00:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 01:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT엠모바일 "월 5천원 이상 요금제 가입하면 100만원 상당 경품 추첨”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240103095426</link>
+            <guid>https://zdnet.co.kr/view/?no=20240103095426</guid>
+            <pubDate>Wed, 03 Jan 2024 01:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[KT엠모바일이 이달 말까지 새해 챌린지 아이템 위클리 래플 이벤트를 진행한다고 3일 밝혔다. IT 가전 아이템으로 구성된 최대 100만원 상당의 경품을 두고 다이렉트몰에서 월 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세종텔레콤, 광물자원 활용 토큰증권 발행 플랫폼 구축 기술검증 완료]]></title>
             <link>https://zdnet.co.kr/view/?no=20240103094149</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20231228143429</guid>
             <pubDate>Thu, 28 Dec 2023 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[올해 국내 10~20대의 OTT 이용률이 98%에 도달했다. 사실상 20대 이하에는 OTT가 주류 미디어로 확고히 자리를 잡았다는 뜻이다. 아울러 노년층의 OTT 이용률도 급격...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["TV홈쇼핑 모바일 인터넷 결제가 69%...송출수수료 반영해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231228095012</link>
-            <guid>https://zdnet.co.kr/view/?no=20231228095012</guid>
-            <pubDate>Thu, 28 Dec 2023 05:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[69%에 달하는 TV홈쇼핑 시청자들이 모바일, 인터넷을 통해 상품을 구매하는 것으로 나타났다. 홈쇼핑채널 송출 수수료 분쟁이 끊이질 않는 가운데 모바일과 인터넷 매출이 수수료 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
