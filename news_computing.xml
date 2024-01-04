@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 IT 업계, AI로 성장 집중…국내 기업 지원 확장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240104160851</link>
+            <guid>https://zdnet.co.kr/view/?no=20240104160851</guid>
+            <pubDate>Thu, 04 Jan 2024 10:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[고객관계관리(CRM), 인적자원관리(HCM) 제품 등을 운영하는 글로벌 기업들은 올해 인공지능(AI)을 통한 성장에 집중한다. 새로운 제품을 출시하시보단 기존 솔루션에 AI를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티맥스그룹, 수평적 조직문화 도입…'~님'으로 부른다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240104163843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240104100307</guid>
             <pubDate>Thu, 04 Jan 2024 01:51:02 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 대표 조준희)는 산하 서비스혁신위원회에서 빠르게 변화하는 혁신 비즈니스 생태계에 대응하는 기업가들의 전략을 담은 사례집을 발간했다고 4일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이썬 공식 저장소, 악성코드 패키지 116개 발견]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240104094359</link>
-            <guid>https://zdnet.co.kr/view/?no=20240104094359</guid>
-            <pubDate>Thu, 04 Jan 2024 01:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[파이썬 패키지용 공개 저장소인 파이썬 패키지 색인(PyPI)에서 악성코드가 포함된 패키지가 발견되어 사용에 주의가 요구된다. 3일(현지시간) 미국 지디넷 등 외신에 따르면 사이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
