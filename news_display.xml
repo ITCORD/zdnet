@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 AI 팹리스 삼총사, HBM 최초 탑재...삼성·SK도 '마중물']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240105125225</link>
+            <guid>https://zdnet.co.kr/view/?no=20240105125225</guid>
+            <pubDate>Fri, 05 Jan 2024 08:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 인공지능(AI) 반도체 스타트업이 올해부터 고대역폭메모리(HBM)를 탑재한 AI 반도체 출시에 나선다. 추론용(Inference) AI 반도체 업계에서 HBM을 탑재하는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["새해는 OLED 대전환의 해"…삼성D·LGD 시장 대응 총력전]]></title>
             <link>https://zdnet.co.kr/view/?no=20240105112358</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240103164354</guid>
             <pubDate>Wed, 03 Jan 2024 08:12:31 GMT</pubDate>
             <content:encoded><![CDATA[디스플레이 전문 시장조사업체 유비리서치는 '폴더블 및 슬라이더블 OLED 기술과 시장 전망' 보고서를 발간했다고 3일 밝혔다. 해당 보고서는 폴더블 및 슬라이더블 OLED가 시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日 지진 피해 반도체 소부장 공급망 긴장…도시바 영업 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240103155332</link>
-            <guid>https://zdnet.co.kr/view/?no=20240103155332</guid>
-            <pubDate>Wed, 03 Jan 2024 08:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[일본 중부 이시카와현 노토(能登) 반도에서 지난 1일 지진이 발생하면서 IT 및 반도체 시장의 공급망에 비상이 걸렸다. 해당 지역에는 여러 소재·부품·장비(소부장) 업체가 몰려...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

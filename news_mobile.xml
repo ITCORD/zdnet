@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔·AMD·엔비디아, CES 2024서 신제품 공개 초읽기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240105153248</link>
+            <guid>https://zdnet.co.kr/view/?no=20240105153248</guid>
+            <pubDate>Fri, 05 Jan 2024 08:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[PC 관련 주요 글로벌 업체들이 다음 주 미국 라스베이거스에서 진행되는 세계 최대 규모 IT 가전 전시회 'CES 2024' 기간 중 신제품을 대거 공개할 예정이다. 인텔은 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이폰, 블랙베리로 변신…키보드 탑재 케이스 '화제']]></title>
             <link>https://zdnet.co.kr/view/?no=20240105151454</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240104161541</guid>
             <pubDate>Fri, 05 Jan 2024 00:43:29 GMT</pubDate>
             <content:encoded><![CDATA[작년 4분기부터 시작된 PC용 SSD 가격 인상이 새해에도 지속될 전망이다. SSD 핵심 부품인 낸드 플래시메모리 단가가 오르며 SSD 제조 원가 상승이 예고됐다. 시장조사업체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[iOS 17.3 베타2 깔았더니 '무한부팅'…애플, 배포 중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240105085322</link>
-            <guid>https://zdnet.co.kr/view/?no=20240105085322</guid>
-            <pubDate>Fri, 05 Jan 2024 00:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 iOS 17.3, 아이패드OS 17.3 두 번째 베타 버전 출시 3시간만에 배포를 일시 중단했다고 폰아레나 등 외신들이 4일(이하 현지시간) 보도했다. 애플이 두 개 운...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
