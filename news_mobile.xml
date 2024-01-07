@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 04:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ZD브리핑] 갈고 닦은 코리아 혁신 기술, CES서 뽐낸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240107130322</link>
+            <guid>https://zdnet.co.kr/view/?no=20240107130322</guid>
+            <pubDate>Sun, 07 Jan 2024 04:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스' 는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 세계 명소서 '갤럭시 AI' 알린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240107095002</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240105102136</guid>
             <pubDate>Fri, 05 Jan 2024 01:52:43 GMT</pubDate>
             <content:encoded><![CDATA[로봇 제조기업 뉴로메카는 한국과학기술연구원(KIST)과 한국과학기술원(KAIST)이 공동 개발한 소프트 그리퍼 일종인 '위빙 그리퍼'에 대한 기술이전 계약을 체결했다고 5일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 갤럭시 제품용 고속 충전기 개발 중]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240105090150</link>
-            <guid>https://zdnet.co.kr/view/?no=20240105090150</guid>
-            <pubDate>Fri, 05 Jan 2024 01:52:43 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 갤럭시 기기용 고속 충전기를 개발 중이라는 관측이 제기됐다. 4일(현지시간) 샘모바일은 IT팁스터 롤란드퀀트가 올린 X(구 트위터) 글을 인용해 삼성전자가 USB-C...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
