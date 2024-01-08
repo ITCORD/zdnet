@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 11:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 12:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑셈, IT인프라 관리에 챗봇 적용 "더 쉽고 간편히"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240108210921</link>
+            <guid>https://zdnet.co.kr/view/?no=20240108210921</guid>
+            <pubDate>Mon, 08 Jan 2024 12:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[IT 성능관리 전문기업 엑셈(대표 조종암, 고평석)이 생성형 AI 기술과 대규모 언어모델(LLM)을 활용한 대화형 챗봇 '큐리(QURI)'를 개발했다. 8일 액셈은 '큐리'를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[홍해 물류대란, 불확실성 어떻게 극복하나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240108154949</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240107105129</guid>
             <pubDate>Sun, 07 Jan 2024 03:11:24 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 새해 첫 업데이트를 통해 윈도 11에서 워드패드를 제공하지 않는다. 5일(현지시간) 더레지스터 등 외신에 따르면 마이크로소프트는 윈도11 인사이더 미리보기 빌드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['비트코인 현물 ETF' 목전...최종 서류 접수 마쳐]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240107101337</link>
-            <guid>https://zdnet.co.kr/view/?no=20240107101337</guid>
-            <pubDate>Sun, 07 Jan 2024 03:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[이달 10일까지 미국 증권거래위원회(SEC)가 비트코인 현물 상장지수펀드(ETF)의 미국 시장 출시 여부를 결정할 전망이다. 이를 앞두고 비트코인 현물 ETF 신청 업체들이 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
