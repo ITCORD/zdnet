@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 16:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 17:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모라이-텔레칩스, 자율주행 공동연구 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240110014331</link>
+            <guid>https://zdnet.co.kr/view/?no=20240110014331</guid>
+            <pubDate>Tue, 09 Jan 2024 17:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[자율주행 시뮬레이션 전문기업 모라이와 차량용 반도체 설계 전문 기업 텔레칩스가 9일부터 12일(현지시간)까지 미국 라스베이거스에서 개최중인 'CES 2024'에서 첨단운전자보조...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄컴, 보쉬와 인포테인먼트·ADAS 원칩 솔루션 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240109224109</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240109220417</guid>
             <pubDate>Tue, 09 Jan 2024 14:09:25 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 퀄컴은 9일(미국 현지시간)부터 12일까지 미국 라스베이거스에서 열리는 CES 2024에서 스냅드래곤 기반 자동차 플랫폼 '스냅드래곤 디지털...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/09/424328591246d54da77bb3f97deaf2cb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔씨, TL 소통 방송 진행...계정 도용 방지에 밸런스 개선까지]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240109175837</guid>
             <pubDate>Tue, 09 Jan 2024 10:11:03 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=이나리 기자] 삼성전자와 LG전자가 세계 최대 가전·IT 전시회 'CES 2024'에서 투명 스크린을 나란히 공개하며 경쟁구도를 펼친다. 다만, 삼성이 공...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파블로항공, CES 2024서 공연용 불꽃드론 'FB04' 최초 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240109180444</link>
-            <guid>https://zdnet.co.kr/view/?no=20240109180444</guid>
-            <pubDate>Tue, 09 Jan 2024 10:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[자율군집제어 전문기업 파블로항공은 9~12일(현지시간) 미국 라스베이거스에서 열리는 세계 최대 IT·가전 전시회 'CES 2024'에 참가해 혁신 기술을 소개하고 신형 공연용 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
