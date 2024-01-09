@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 08:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 09:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI "뉴욕타임스, 소송 근거 불명확"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240109165509</link>
+            <guid>https://zdnet.co.kr/view/?no=20240109165509</guid>
+            <pubDate>Tue, 09 Jan 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 뉴욕타임스(NYT)의 저작권 침해 소송 건에 입장을 밝혔다. 고소 이유가 불명확하고 제출된 근거도 설득력 없다는 입장이다. 8일 오픈AI는 NYT 소송에 대한 자사 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중견 IT서비스기업, 생성형AI로 새 수익모델 찾는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240109125330</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240108154949</guid>
             <pubDate>Mon, 08 Jan 2024 09:10:42 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDS가 글로벌 컨트롤센터(GCC)를 중심으로 글로벌 물류 리스크 현황을 분석하고 대응 방안을 제시했다. 5일 삼성SDS 첼로스퀘어 운영팀 서돈석 그룹장은 '홍해 물류 리스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["가상자산법, 이해상충 문제 해소 못해…독립기구 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240108163045</link>
-            <guid>https://zdnet.co.kr/view/?no=20240108163045</guid>
-            <pubDate>Mon, 08 Jan 2024 08:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 업계 불공정 거래 방지와 투자자 보호 등에 대한 기본적인 규제를 담은 '가상자산 이용자 보호법'이 올해 도입된다. 그러나 가상자산 거래소의 이해 상충 문제 해소 등 투...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
