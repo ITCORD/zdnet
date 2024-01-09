@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 06:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 07:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자동차의 디지털 전환에 현대차 'SDx'가 있다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240109152324</link>
+            <guid>https://zdnet.co.kr/view/?no=20240109152324</guid>
+            <pubDate>Tue, 09 Jan 2024 07:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차그룹이 단순히 완성차를 판매하는 제조회사에서 모빌리티로 이동의 제약을 넘어서는 솔루션 기업으로 탈바꿈하고 있다. 기존에는 자동차에 편의기능을 채우는 방식의 전통 완성차...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 리오토, 엔비디아 '드라이브 토르' 플랫폼 채택...첫 탑재 차량 올 상반기 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240108145615</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240104103322</guid>
             <pubDate>Thu, 04 Jan 2024 01:51:29 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부는 테슬라코리아·현대자동차·포드세일즈서비스코리아·한국닛산·기아·혼다코리아가 제작하거나 수입·판매한 13개 차종 7만2천674대에서 제작결함이 발견돼 자발적으로 시정조치...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 마그나와 자율주행 통합 플랫폼 개발 …CES서 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240104084735</link>
-            <guid>https://zdnet.co.kr/view/?no=20240104084735</guid>
-            <pubDate>Thu, 04 Jan 2024 01:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 자율주행 통합 플랫폼을 선보인다. LG전자는 4일 자동차 부품업체 마그나와 협업해 인포테인먼트 시스템(이하 IVI)과 첨단운전자보조시스템(이하 ADAS)을 통합한 단...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
