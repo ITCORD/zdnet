@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 14:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 15:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레노버, 안드로이드·윈도 결합 씽크북 신제품 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240110234023</link>
+            <guid>https://zdnet.co.kr/view/?no=20240110234023</guid>
+            <pubDate>Wed, 10 Jan 2024 15:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 레노버는 CES 2024에서 인텔 코어 울트라 프로세서 기반 노트북과 미니PC 등 신제품 40여 종을 공개한 데 이어 오는 12일(현지시간)...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/10/a48587a3c47ffa9ee77eca9a764053b1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테솔로, CES서 로봇 그리퍼 'DF-3G' 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240110215829</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240110220928</guid>
             <pubDate>Wed, 10 Jan 2024 14:09:27 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 일본 카메라영상기기공업회(CIPA)가 이달 초 집계한 자료에 따르면 카메라 출하 대수는 연간 1천만 대 이하까지 떨어졌다. 기존 카메라는 스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/10/99af01e9c3fd388989e313d5cceed791-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로터스로보틱스, CES서 첨단 자율주행 기술 선봬]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240110191444</guid>
             <pubDate>Wed, 10 Jan 2024 11:08:33 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 가전기업 바디프랜드가 9일(현지시간) 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 'CES 2024'에서 헬스케어 로봇 기술을 소개했다. 바디프랜드는 8년 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[탕웨이 "남편 ♥김태용, 딸보다 좋다" 애정 과시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240110192713</link>
-            <guid>https://zdnet.co.kr/view/?no=20240110192713</guid>
-            <pubDate>Wed, 10 Jan 2024 11:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 큰 사랑을 받는 중화권 배우 탕웨이가 남편이자 영화감독 김태용과의 이혼설을 부인했다. 9일 유튜브 채널 'The Do Show'에 출연한 탕웨이는 홍콩 유명 배우 정위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
