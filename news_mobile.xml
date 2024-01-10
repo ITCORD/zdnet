@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 04:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 05:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 현장] 삼성·하만, 증강현실로 정보 제공... AI 안전운전 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240109183500</link>
+            <guid>https://zdnet.co.kr/view/?no=20240109183500</guid>
+            <pubDate>Wed, 10 Jan 2024 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=이나리 기자] 삼성전자와 하만이 CES 2024에서 처음으로 통합 부스를 마련해 전장 솔루션을 함께 알린다. 증강현실 기술을 이용한 헤드업 디스플레이와 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우석우 LG NOVA 센터장 "올해 혁신 스타트업 사업 성과 낼 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240110062330</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240109132513</guid>
             <pubDate>Tue, 09 Jan 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 미국 라스베이거스에서 열리고 있는 'CES 2024'에서 '인앤아웃 폴더블' 기술이 적용된 플립폰형 폴더블 콘셉트를 공개했다. 미국 IT매체 씨넷은 8일(현지시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 올해 AI 아이폰 출시…서비스 매출 탄력 받는다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240109105224</link>
-            <guid>https://zdnet.co.kr/view/?no=20240109105224</guid>
-            <pubDate>Tue, 09 Jan 2024 05:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 오는 6월에 개최되는 WWDC 2024에서 업그레이드된 시리2.0을 발표하고 올 가을 AI 기반 아이폰을 출시할 것이라는 전망이 나왔다. IT매체 애플인사이더는 8일(이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
