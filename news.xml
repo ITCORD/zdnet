@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 21:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 22:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유닉스, 헤어드라이어 '디오' 출시…"냉온풍 자동전환"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240111061219</link>
+            <guid>https://zdnet.co.kr/view/?no=20240111061219</guid>
+            <pubDate>Wed, 10 Jan 2024 22:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[헤어기기 브랜드 유닉스가 헤어드라이어 '디오'를 출시한다고 10일 밝혔다. 디오 드라이어는 기존 BLDC 모터와 차별화된 업그레이드 초소형 항공모터인 X 13 U BLDC 모터...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/11/f997ffa148c6a4279e2c552d6642e7d5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계百, 명품 설 선물 5스타 물량 확 늘린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240110182914</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240111030722</guid>
             <pubDate>Wed, 10 Jan 2024 18:12:25 GMT</pubDate>
             <content:encoded><![CDATA[시장조사업체 IDC는 10일(미국 현지시간) 지난 해 세계 완제PC 출하량이 2억 5천900만 대로 2022년 대비 13.9%(4천200만 대) 줄었다고 밝혔다. IDC가 지난...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/11/e8d195ce8471798980997adfd6392437-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[포토] 에이수스 "휴대용 모니터도 접어서 다니세요"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240110201910</guid>
             <pubDate>Wed, 10 Jan 2024 12:17:35 GMT</pubDate>
             <content:encoded><![CDATA[종합 생활가전 기업 쿠쿠는 지난달 공기청정기와 가습기 판매가 전월 대비 각각 33%, 40% 증가했다고 10일 밝혔다. 쿠쿠에 따르면 두 제품군은 지난달에 이어 판매량이 연달아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 자동차용 프로세서 시장 본격 진출 선언]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240110200443</link>
-            <guid>https://zdnet.co.kr/view/?no=20240110200443</guid>
-            <pubDate>Wed, 10 Jan 2024 12:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 인텔이 9일 오후(한국시간 10일 아침) 라스베이거스 베네시안 엑스포에서 오토모티브 행사를 진행하고 자동차용 프로세서 시장 진출을 선언했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
