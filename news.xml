@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 09:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 10:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 현장] 솔루엠, 전기차 충전기부터 스마트 가로등까지...스마트시티]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240111181040</link>
+            <guid>https://zdnet.co.kr/view/?no=20240111181040</guid>
+            <pubDate>Thu, 11 Jan 2024 10:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=이나리 기자] 솔루엠이 미국 라스베이거스에서 개최된 CES 2024에 참가해 스마트 시티, 스마트 홈을 아우르는 혁신 기술을 선보였다. 솔루엠 부스에서는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/11/df35e04befd6403654e9a5e062871b3f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 현장] 월마트, 유통의 혁신…15분 드론배송, 냉장고 채움 서비스]]></title>
             <link>https://zdnet.co.kr/view/?no=20240111174413</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240111174820</guid>
             <pubDate>Thu, 11 Jan 2024 09:10:07 GMT</pubDate>
             <content:encoded><![CDATA[이재현 CJ그룹 회장이 5년만에 계열사 현장을 방문해 직원들을 격려하며 '현장 경영' 행보를 보였다. 이 회장은 10일 서울 용산구 동자동 CJ올리브영 본사를 방문해 임직원들과...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/11/a09ff3106e9f2077c35e53bf6a2c6970-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국IPTV방송협회, 이병석 신임 협회장 선임]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240111165440</guid>
             <pubDate>Thu, 11 Jan 2024 08:13:11 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차에서 출시된 경차 캐스퍼가 레미콘 트럭에 깔려 형체를 알아볼 수 없을 정도로 구겨진 사고 현장 사진이 공개됐다. 지난 10일 온라인 커뮤니티와 SNS에는 '오늘자 파주...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 美서 신형 '모델3' 출시…5천만원대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240111140243</link>
-            <guid>https://zdnet.co.kr/view/?no=20240111140243</guid>
-            <pubDate>Thu, 11 Jan 2024 08:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[미국 전기차업체 테슬라가 대표 차종인 모델3의 업그레이드 제품을 북미 지역에서 출시했다. 10일(현지시간) 로이터통신에 따르면 업그레이드된 테슬라 모델3는 세단 전면 디자인이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
