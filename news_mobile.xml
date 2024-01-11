@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 08:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 09:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 현장] 월마트, 유통의 혁신…15분 드론배송, 냉장고 채움 서비스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240111174413</link>
+            <guid>https://zdnet.co.kr/view/?no=20240111174413</guid>
+            <pubDate>Thu, 11 Jan 2024 09:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=이나리 기자] 미국 최대 유통업체 월마트가 미국 라스베이거스에서 개최된 CES 2024에 참가해 유통의 혁신 기술을 선보였다. 15분 드론 배송, 냉장고를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성스토어, 폰 판매량 꾸준히 성장…누적 1.2천만대]]></title>
             <link>https://zdnet.co.kr/view/?no=20240111154438</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240110215829</guid>
             <pubDate>Wed, 10 Jan 2024 14:09:49 GMT</pubDate>
             <content:encoded><![CDATA[로봇 그리퍼 전문기업 테솔로가 9일(현지시간) 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 'CES 2024'에서 상용화 로봇 그리퍼 'DG-3F'를 선보였다. DG...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[첨단 소재·원격 협업·카테크서 활로 찾는 카메라 업체들]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240110220928</link>
-            <guid>https://zdnet.co.kr/view/?no=20240110220928</guid>
-            <pubDate>Wed, 10 Jan 2024 14:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 일본 카메라영상기기공업회(CIPA)가 이달 초 집계한 자료에 따르면 카메라 출하 대수는 연간 1천만 대 이하까지 떨어졌다. 기존 카메라는 스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
