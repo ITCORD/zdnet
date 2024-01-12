@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 23:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 00:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 우한, 세계 최대 자율주행 서비스 도시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240112021920</link>
+            <guid>https://zdnet.co.kr/view/?no=20240112021920</guid>
+            <pubDate>Fri, 12 Jan 2024 00:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[중국 우한시가 세계에서 가장 많은 사람들에게 자율주행 서비스를 한 도시였다는 보도가 나왔다. 11일 중국 언론 장장르바오에 따르면 중국 국가지능형커넥티드차량(우한) 테스트시범구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中 "2027년 신차 45%는 친환경차"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240112022041</link>
+            <guid>https://zdnet.co.kr/view/?no=20240112022041</guid>
+            <pubDate>Fri, 12 Jan 2024 00:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 판매되는 신차 중 친환경차(하이브리드, 순전기, 수소 전기차 등)의 비중이 향후 3년 내 절반 가까이를 차지할 전망이다. 11일 중국 언론 IT즈자에 따르면 공산당 중...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 美서 신형 '모델3' 출시…5천만원대]]></title>
             <link>https://zdnet.co.kr/view/?no=20240111140243</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240110014331</guid>
             <pubDate>Tue, 09 Jan 2024 17:09:56 GMT</pubDate>
             <content:encoded><![CDATA[자율주행 시뮬레이션 전문기업 모라이와 차량용 반도체 설계 전문 기업 텔레칩스가 9일부터 12일(현지시간)까지 미국 라스베이거스에서 개최중인 'CES 2024'에서 첨단운전자보조...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 보쉬와 인포테인먼트·ADAS 원칩 솔루션 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240109224109</link>
-            <guid>https://zdnet.co.kr/view/?no=20240109224109</guid>
-            <pubDate>Tue, 09 Jan 2024 14:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 퀄컴은 9일(미국 현지시간) 자동차 부품 세계 1위 업체 보쉬와 협업해 자동차 업계 최초로 인포테인먼트와 ADAS(첨단운전자지원시스템)를 칩...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, CES 2024서 스냅드래곤 디지털 섀시 시연]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240109220417</link>
-            <guid>https://zdnet.co.kr/view/?no=20240109220417</guid>
-            <pubDate>Tue, 09 Jan 2024 14:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 퀄컴은 9일(미국 현지시간)부터 12일까지 미국 라스베이거스에서 열리는 CES 2024에서 스냅드래곤 기반 자동차 플랫폼 '스냅드래곤 디지털...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
