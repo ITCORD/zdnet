@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 01:56:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 02:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["말하고 춤추고 난다"…CES2024서 주목 받은 자동차 기술]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240112103744</link>
+            <guid>https://zdnet.co.kr/view/?no=20240112103744</guid>
+            <pubDate>Fri, 12 Jan 2024 02:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[자동차가 미국 라스베이거스에서 열린 CES2024의 새로운 주인공으로 떠올랐다. 새로운 전기차 콘셉트가 공개되는가 하면, 인공지능(AI) 결합 등으로 자동차 기술이 재정의되고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 우한, 세계 최대 자율주행 서비스 도시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240112021920</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240110021819</guid>
             <pubDate>Wed, 10 Jan 2024 00:44:48 GMT</pubDate>
             <content:encoded><![CDATA[중국 BYD가 스스로 차단기를 통과해 지하 주차장에 주차를 완료하고 다시 운전자에게 돌아오는 자율주행 발렛파킹 기술 영상을 공개했다. 앞서 화웨이, 리오토, 샤오펑, 샤오미가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모라이-텔레칩스, 자율주행 공동연구 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240110014331</link>
-            <guid>https://zdnet.co.kr/view/?no=20240110014331</guid>
-            <pubDate>Tue, 09 Jan 2024 17:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[자율주행 시뮬레이션 전문기업 모라이와 차량용 반도체 설계 전문 기업 텔레칩스가 9일부터 12일(현지시간)까지 미국 라스베이거스에서 개최중인 'CES 2024'에서 첨단운전자보조...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

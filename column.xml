@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 01:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 02:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 스마트 제조 혁신을 위한 2024 디지털 전환 과제]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240112112559</link>
+            <guid>https://zdnet.co.kr/view/?no=20240112112559</guid>
+            <pubDate>Fri, 12 Jan 2024 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 대전환이 산업의 구조와 운영 방식을 근본적으로 변화시키고 있는 가운데, 제조 산업도 적극적으로 디지털 혁신을 추진하고 있다. 시장분석 및 컨설팅 기관 IDC의 ‘2024년 전 세계 운영의 미래 예측(Worldwide Future of Operations 2024 Predictions)’ 보고서에 따르면, 2025년까지 산업 운영의 30%가 비전 기반 시스템과 로봇 및 자동화 프로세스에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/12/7687f263205f6ae67c86dfdd7de58d0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] CES2024의 네 가지 핵심 관전 포인트]]></title>
             <link>https://zdnet.co.kr/view/?no=20240110145720</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Nov 2023 09:11:22 GMT</pubDate>
             <content:encoded><![CDATA[[이창근 헤리티지랩 디렉터·박사(Ph.D.] 이번 칼럼은 지난 10월 30일 게재한 ‘2023년 문화유산 미디어아트 사업 실태 리포트 1호’의 연속이다. 2호는 올해에 이어 내년에도 개최 예정인 백제역사유적지구 미디어아트다. 공주와 부여, 익산에서 소관 지자체별 각각 개최됐다.백제역사유적지구는 백제 후기(475~660) 문화를 대표하는 유산으로 웅진시기의 공주 공산성, 공주 무령왕릉과 왕릉원...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/11/28/826a0da4e96cabaff984a87bd25ac319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 생성형 AI 열풍, 고성능 스토리지 시대를 열다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231122110038</link>
-            <guid>https://zdnet.co.kr/view/?no=20231122110038</guid>
-            <pubDate>Wed, 22 Nov 2023 02:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT로 촉발된 AI 비즈니스의 열기가 뜨거워지면서 생성형 AI 도입을 고려하는 기업이 늘고 있다. AI 발전으로 분석해야 할 데이터 양이 폭발적으로 증가하고, 다양한 종류의 데이터를 비용 효율적으로 저장하고 활용하는 데이터 운영의 혁신이 필요한 때다. AI/ML, 고성능 데이터 분석 등 최신 엔터프라이즈 워크로드를 위해서는 그에 걸맞는 고성능 스토리지가 필요하다.데이터 레이크는 데이터 유...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/22/5a67d7cafd8aa7338f17ad28b2001d37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
