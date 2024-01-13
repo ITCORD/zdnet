@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 01:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 02:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플 비전 프로, 앱으로 얼굴 스캔해 사이즈 추천한다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240113073422</link>
+            <guid>https://zdnet.co.kr/view/?no=20240113073422</guid>
+            <pubDate>Sat, 13 Jan 2024 02:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 다음 달 출시하는 혼합현실(MR) 헤드셋 '비전프로'가 앱 스토어에 등록된 앱을 통해 사용자에게 맞는 사이즈를 추천할 예정이라고 IT매체 맥루머스가 11일(현지시간) 보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 갤럭시S24 울트라 영상 유출…"각진 화면 갖췄네"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240113073132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240111072004</guid>
             <pubDate>Thu, 11 Jan 2024 01:54:23 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=신영빈 기자] 풍선으로 만들어진 건설 자재 운반 로봇이 CES에서 관심을 모았다. 고레로보틱스는 지난 9일 열린 세계 최대 IT·가전 전시회 'CES 20...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 신형 러기드 폰·태블릿 출시…1.5m 높이낙하에도 '끄떡']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240111085030</link>
-            <guid>https://zdnet.co.kr/view/?no=20240111085030</guid>
-            <pubDate>Thu, 11 Jan 2024 01:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 신형 러기드 스마트폰과 태블릿을 선보이며 모바일 B2B 시장 공략에 나선다. 러기드는 성능보다는 튼튼함을 강조하는 기기에 붙는 수식어다. 러기드폰은 험한 환경에서 일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
