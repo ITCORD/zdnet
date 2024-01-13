@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 00:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 01:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, '폰으로 위성통신' 서비스로 첫 문자 주고 받았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240113072615</link>
+            <guid>https://zdnet.co.kr/view/?no=20240113072615</guid>
+            <pubDate>Sat, 13 Jan 2024 01:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[우주탐사기업 스페이스X가 스마트폰에서 직접 위성통신을 이용할 수 있는 '다이렉트 투 셀(Direct to Cell)' 서비스로 처음으로 문자를 주고 받았다고 우주과학매체 스페이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위, 김유진·옥시찬 위원 해촉 건의안 의결]]></title>
             <link>https://zdnet.co.kr/view/?no=20240112141629</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240109091439</guid>
             <pubDate>Tue, 09 Jan 2024 00:43:51 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 터널, 지하철역 등의 재난방송 중계설비 설치 지원을 올해 더욱 확대한다고 9일 밝혔다. 방송통신발전기본법은 재난방송의 원활한 수신을 위해 도로, 철도, 지하철의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[첨단 엔진 개발, 정부가 나서야 하는 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240108171919</link>
-            <guid>https://zdnet.co.kr/view/?no=20240108171919</guid>
-            <pubDate>Mon, 08 Jan 2024 09:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[작년 5월 누리호 3차 발사가 성공했다. 한국은 자국 발사체에 자국 위성을 실어 나른 세계 7번째 국가가 되면서 글로벌 우주산업 경쟁에 나설 토대를 마련했다. 우주를 향한 국민...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
