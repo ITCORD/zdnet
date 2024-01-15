@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 01:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 02:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월마트의 반격, 마이크로소프트 힘보탠다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240115101206</link>
+            <guid>https://zdnet.co.kr/view/?no=20240115101206</guid>
+            <pubDate>Mon, 15 Jan 2024 02:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[소매유통기업 월마트가 마이크로소프트와 손잡고 아마존에 반격을 시도한다. 월마트는 마이크로소프트 코파일럿 기술을 활용해 온라인 쇼핑 고객에게 생성형 AI 기반의 맞춤형 상품 검색...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제로다크웹, 국내 사이트서 정보 유출 7만건 확인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240115081926</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240112092806</guid>
             <pubDate>Sun, 14 Jan 2024 04:12:47 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 잠시 애플을 제치고 전세계서 가장 가치있는 상장사에 올랐다가 장마감 시점에 애플에 다시 1위를 뺏겼다. 마이크로소프트의 시가총액 1위 탈환이 머지 않아 보인다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 집중하는 구글, 하드웨어 부서 최대 1천명 감축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240112083053</link>
-            <guid>https://zdnet.co.kr/view/?no=20240112083053</guid>
-            <pubDate>Sun, 14 Jan 2024 04:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 핏빗, 구글 어시스턴트 등 하드웨어 개발 부서에서 대규모 인력 감축을 실시한다. 11일(현지시간) 더버지 등 외신에 따르면 구글은 하드웨어 부서를 중심으로 1천 명 이상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
