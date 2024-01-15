@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 03:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 04:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS, 쓸 때만 돈 내는 '아마존 오로라' 서버리스1 종료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240115085107</link>
+            <guid>https://zdnet.co.kr/view/?no=20240115085107</guid>
+            <pubDate>Mon, 15 Jan 2024 04:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)가 사용중일 때만 요금을 청구하는 관계형데이터베이스(RDB) 서비스를 종료한다. 11일 데브클래스에 따르면, AWS는 관계형 데이터베이스 서비스 '아마존 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[월마트의 반격, 마이크로소프트 힘보탠다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240115101206</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240112085531</guid>
             <pubDate>Sun, 14 Jan 2024 04:12:47 GMT</pubDate>
             <content:encoded><![CDATA[사이냅소프트(대표 전경헌)는 실시간 동시 편집과 오피스 문서 기능을 갖춘 '사이냅 에디터3.0'을 출시했다고 12일 밝혔다. 사이냅 에디터는 기업용 웹 편집 애플리케이션이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 애플 제치고 시총 1위 탈환 눈앞]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240112092806</link>
-            <guid>https://zdnet.co.kr/view/?no=20240112092806</guid>
-            <pubDate>Sun, 14 Jan 2024 04:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 잠시 애플을 제치고 전세계서 가장 가치있는 상장사에 올랐다가 장마감 시점에 애플에 다시 1위를 뺏겼다. 마이크로소프트의 시가총액 1위 탈환이 머지 않아 보인다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
