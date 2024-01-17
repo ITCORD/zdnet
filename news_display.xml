@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 01:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 02:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 반도체 매출 2위로 하락…인텔에 밀려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240117085426</link>
+            <guid>https://zdnet.co.kr/view/?no=20240117085426</guid>
+            <pubDate>Wed, 17 Jan 2024 02:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 전세계 반도체 매출 순위에서 삼성전자가 2년만에 2위로 내려오고, 인텔이 1위로 올라섰다. SK하이닉스도 2022년 4위에서 지난해 6위로 떨어졌다. 메모리 시장 불황에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로칩, 네트워크 성능 강화 '차세대 이더넷 스위치' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240117094357</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240115152830</guid>
             <pubDate>Mon, 15 Jan 2024 07:10:30 GMT</pubDate>
             <content:encoded><![CDATA[한국디스플레이산업협회는 디스플레이 업계와 회원사의 첨단기술 보호 및 R&amp;D 경쟁력 강화를 위한 특허정보제공 서비스를 신설했다고 15일 밝혔다. 협회가 첨단기술 보호를 위해 추진...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPSP, imec과 손잡고 고압 어닐링·산화 공정 R&D 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240115094210</link>
-            <guid>https://zdnet.co.kr/view/?no=20240115094210</guid>
-            <pubDate>Mon, 15 Jan 2024 04:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내 반도체 전공정 장비업체 HPSP는 최근 세계 최대 반도체 연구소인 imec과 고압어닐링공정(HPA) 및 고압산화공정(HPO)에 대한 연구개발을 강화하는 공동연구개발 프로젝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
