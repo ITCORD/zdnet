@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 00:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] "NO"라고 당당히 이야기 못 하는 일본 젊은이들]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240117084629</link>
+            <guid>https://zdnet.co.kr/view/?no=20240117084629</guid>
+            <pubDate>Wed, 17 Jan 2024 00:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[나는 2000년 일본 도쿄에서 디지털트랜스포메이션(디지털 전환) 컨설팅 업무를 수행하는 기업을 창업해 오늘에 이르고 있다. 우리 회사는 일본취업을 위해 현해탄을 건너온 한국 젊은이들과 일본 전역에서 채용한 일본 젊은이들로 구성된 조그마한 중소기업이다.회사 규모는 비록 작지만 일본 정부나 지자체, 그리고 일본에서는 이름만 들어도 알 만한 각 분야 대기업으로부터 디지털트랜스포메이션 컨설팅 사업을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/17/3aaa54e8509fcadad05d8db3b174c2d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES2024 참관기] CES2024의 성과, 의미, 그리고 과제]]></title>
             <link>https://zdnet.co.kr/view/?no=20240115114719</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Nov 2023 00:44:08 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;초고령사회는 65세 이상 인구가 전체 인구의 20% 이상을 차지하는 사회를 한다. 2023년 현재 세계적으로 초고령사회 국가는 20개가 넘는다. 2005년 일본을 비롯해 이탈리아, 독일, 프랑스가 초고령사회이며, 우리나라도 2025년 진입이 예상되고 있다.초고령사회 국가 증가로 노인 인구 증가, 노동력 감소, 인건비 상승이 심화되고 있다. 노인 인구 증가는 생산성 저하와 경제 성장...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/11/30/d64dcbd7dba81adf64ec1f08cf66eaba.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AIOps 기반 데이터센터 운영 자동화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231129181133</link>
-            <guid>https://zdnet.co.kr/view/?no=20231129181133</guid>
-            <pubDate>Wed, 29 Nov 2023 10:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[데이터센터 최적화와 자동화, 무중단을 위해서는 인공지능(AI) 기반 지능형 IT 운영 관리 소프트웨어인 AI옵스(AIOps)가 필수다. IDC 설문 조사에 따르면 설문 대상 기업들의 68%는 잠재적인 문제가 시스템에 영향을 미치기 전에 식별하는 AIOps를 더 많이 사용하고 있다고 응답했다. 또 AIOps로 다운타임을 연 평균 201시간 예방할 수 있다고 추정했다.인프라 증가에 대응하고 AI...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/11/29/ea28a93c2fc4c9d03f486ca9e7ea7e3d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
