@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 09:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박윤규 차관 "디지털미디어 성장의 중요 경쟁 요소는 AI”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240117181924</link>
+            <guid>https://zdnet.co.kr/view/?no=20240117181924</guid>
+            <pubDate>Wed, 17 Jan 2024 10:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[광대역 레이저 3D 스캔 기술로 궁궐과 성벽, 산성 이미지를 생성한다. 가상의 지형 데이터를 만들고, 이를 버추얼 스튜디오에서 촬영하면 과거의 공간 동영상이 얻어진다. 수천 명...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 野 방심위원 해촉 재가…"숙청이 따로 없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240117155234</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240116090058</guid>
             <pubDate>Tue, 16 Jan 2024 00:43:57 GMT</pubDate>
             <content:encoded><![CDATA[KT가 대한민국 축구 국가대표 이강인 선수와 후원 계약을 연장했다고 16일 밝혔다. 앞서 KT는 2019년 FIFA U-20 월드컵에서 골든볼을 수상하며 스타덤에 오른 이강인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI로 3차원 환경 품질 분석...네트워크 운용 고도화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240116081628</link>
-            <guid>https://zdnet.co.kr/view/?no=20240116081628</guid>
-            <pubDate>Tue, 16 Jan 2024 00:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 인공지능(AI) 기술로 3차원 환경 네트워크 상황을 분석하는 딥 네트워크 AI(DNA) 솔루션을 상용망에 적용했다고 16일 밝혔다. 기존 네트워크 분석은 주로 위도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
