@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 07:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 08:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토요타, 역사상 첫 해외 생산공장 폐쇄]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240118154943</link>
+            <guid>https://zdnet.co.kr/view/?no=20240118154943</guid>
+            <pubDate>Thu, 18 Jan 2024 08:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[토요타가 해외 생산 기지를 처음으로 폐쇄하기로 결정했다. 이 공장에는 89년된 역사가 깊은 토요타의 700톤(t)급 프레스가 있었는데, 토요타는 이 프레스를 공장 폐쇄와 함께 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수입차 브랜드, 올해 고객 만족 위해 서비스센터 확충]]></title>
             <link>https://zdnet.co.kr/view/?no=20240118151610</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240116191849</guid>
             <pubDate>Tue, 16 Jan 2024 12:18:47 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 중국 충칭공장을 3천억원에 매각했다. 이는 처음 충칭공장을 매물에 내놓은 가격의 절반보다 저렴한 가격이다. 16일 업계에 따르면 현대차 중국 합작법인 베이징현대는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹, SW R&D 통합해 AVP 신설…본부장 송창현 사장 내정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240116162838</link>
-            <guid>https://zdnet.co.kr/view/?no=20240116162838</guid>
-            <pubDate>Tue, 16 Jan 2024 08:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹이 미래 모빌리티 연구개발(R&amp;D) 조직을 신설했다. 소프트웨어(SW) 조직을 통합해 첨단차플랫폼 본부(AVP)로 개편하는 것이 핵심이다. 새로운 AVP 본부장은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
