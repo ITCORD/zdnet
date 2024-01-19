@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 08:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 09:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스원, '스팸프리즘 솔루션' EAL2 CC 보안인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240119173031</link>
+            <guid>https://zdnet.co.kr/view/?no=20240119173031</guid>
+            <pubDate>Fri, 19 Jan 2024 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[시스원(대표이사 이상훈, 서일종)은 스팸메일 차단시스템인 '스팸 프리즘(SPAM PRISM) v5.0' 솔루션이 국내CC인증 EAL2등급을 획득했다고 19일 밝혔다. 스팸 프리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/03/57623efcc61a9a3196c528b50f866da9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤츠, 세계 최초로 韓에 마이바흐 센터 짓는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240119152044</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240119162827</guid>
             <pubDate>Fri, 19 Jan 2024 08:13:05 GMT</pubDate>
             <content:encoded><![CDATA[온라인동영상서비스(OTT) 웨이브가 메르세데스-벤츠 코리아와 협력해 11세대 '더 뉴 E-클래스' 완전변경 모델에 서비스를 탑재했다고 19일 밝혔다. 더 뉴 E-클래스는 엔터테...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/19/0a37a7d7c8fd07d3cb2ef74232eb0417-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["윈도12 코파일럿, PC 메모리 용량 16GB 요구"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240119154315</guid>
             <pubDate>Fri, 19 Jan 2024 07:09:32 GMT</pubDate>
             <content:encoded><![CDATA[한국수력원자력(대표 황주호)은 18일 서울 방이동 서울올림픽파크텔에서 '2024년도 제1차 수력·양수 분야 사외전문가 자문회의'를 개최했다고 19일 밝혔다. 수력·양수 분야 주...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온, 다케다 의약품판권 매각]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240119153317</link>
-            <guid>https://zdnet.co.kr/view/?no=20240119153317</guid>
-            <pubDate>Fri, 19 Jan 2024 07:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[셀트리온그룹이 지난 2020년 다케다제약으로부터 인수한 아시아태평양 지역 '프라이머리 케어' 사업 권리를 매각했다. 회사는 지난 18일 동화약품과 약 370억 원 규모의 프라이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

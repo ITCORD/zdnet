@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 08:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 09:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스원, '스팸프리즘 솔루션' EAL2 CC 보안인증 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240119173031</link>
+            <guid>https://zdnet.co.kr/view/?no=20240119173031</guid>
+            <pubDate>Fri, 19 Jan 2024 09:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[시스원(대표이사 이상훈, 서일종)은 스팸메일 차단시스템인 '스팸 프리즘(SPAM PRISM) v5.0' 솔루션이 국내CC인증 EAL2등급을 획득했다고 19일 밝혔다. 스팸 프리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위 "빅테크 정보 침해 대응 예산 2배 증액"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240119134627</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240118112052</guid>
             <pubDate>Thu, 18 Jan 2024 02:25:29 GMT</pubDate>
             <content:encoded><![CDATA[레드햇은 DGB대구은행의 프라이빗 클라우드 시스템 인프라 구축과 클라우드 전환 로드맵을 지원한다고 18일 발표했다. 대구은행은 레드햇과의 협업으로 PaaS 시스템을 구축하고 단...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트, 한화생명 이미지시스템 고도화 참여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240118105514</link>
-            <guid>https://zdnet.co.kr/view/?no=20240118105514</guid>
-            <pubDate>Thu, 18 Jan 2024 02:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[인젠트(대표 박재범)가 한화생명 이미지시스템 고도화 사업에 엑스퍼디비(eXperDB)를 공급하는 계약을 체결했다고 18일 밝혔다. 한화생명은 신계약 청약, 융자 등의 핵심 업무...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
