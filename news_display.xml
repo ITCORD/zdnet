@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 01:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 02:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC 회장 "日 구마모토 팹 내달 오픈...해외 투자 지속"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240119102527</link>
+            <guid>https://zdnet.co.kr/view/?no=20240119102527</guid>
+            <pubDate>Fri, 19 Jan 2024 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 업체 대만 TSMC가 내달 24일 일본 구마모토 1공장 개소식을 개최할 예정이다. 마크 리우(류더인) TSMC 회장은 18일 4분기 실적발...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ST, 개발자 혁신 가속화 위해 '나노엣지 AI' 무료 배포]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240119105144</link>
+            <guid>https://zdnet.co.kr/view/?no=20240119105144</guid>
+            <pubDate>Fri, 19 Jan 2024 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 자사의 대표 설계 툴인 '나노엣지 AI 스튜디오'로 구현된 소프트웨어 라이브러리를 모든 STM32 마이크로컨트롤러(MCU)에서 제한없이 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['AI 바람' 탄 엔비디아·AMD 주가, 나란히 사상최고치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240119104243</link>
+            <guid>https://zdnet.co.kr/view/?no=20240119104243</guid>
+            <pubDate>Fri, 19 Jan 2024 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[미국 반도체기업 엔비디아와 AMD 주가가 나란히 사상 최고치를 기록했다. CNBC 등 외신들에 따르면 18일(현지시간) 미국 뉴욕증시에서 AMD 주가는 전날보다 1.56% 상승...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로칩, 원격 온도센서 10종 구성 'MCP998x' 제품군 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240119085515</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240117094357</guid>
             <pubDate>Wed, 17 Jan 2024 01:54:27 GMT</pubDate>
             <content:encoded><![CDATA[마이크로칩테크놀로지는 산업 자동화 시스템 개발자들에게 결정론적 통신을 갖춘 안정적이고 강력한 네트워크 솔루션을 제공하기 위해 차세대 'LAN969x' 이더넷 스위치를 출시했다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NXP, 업계 최초 28나노 'RFCMOS' 레이더 원칩 제품군 확장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240117094922</link>
-            <guid>https://zdnet.co.kr/view/?no=20240117094922</guid>
-            <pubDate>Wed, 17 Jan 2024 01:54:27 GMT</pubDate>
-            <content:encoded><![CDATA[NXP반도체는 차량용 레이더 원칩(One-Chip) 제품군 확장 계획을 발표했다고 17일 밝혔다. 새로운 SAF86xx는 고성능 레이더 트랜시버, 멀티코어 레이더 프로세서, M...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 시높시스, 46조원에 앤시스 인수...반도체·SW 새해 '빅딜']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240117083521</link>
-            <guid>https://zdnet.co.kr/view/?no=20240117083521</guid>
-            <pubDate>Wed, 17 Jan 2024 00:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[미국 주요 반도체 설계 자동화(EDA) 기업 시높시스(Synopsys)가 소프트웨어 개발 기업 앤시스(Ansys)를 인수한다고 로이터통신 등이 17일 보도했다. 시높시스가 앤시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['OLED·XR 코리아' 3월 27일 개최...국내 디스플레이 산업 조명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240117082441</link>
-            <guid>https://zdnet.co.kr/view/?no=20240117082441</guid>
-            <pubDate>Wed, 17 Jan 2024 00:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[디스플레이 전문 시장조사업체 유비리서치는 오는 3월 27일부터 29일까지 서울 양재 소재 더케이 호텔에서 'OLED 코리아'와 'eXtended Reality 코리아'가 동시 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
