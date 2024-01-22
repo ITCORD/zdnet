@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 05:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 06:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가트너 "올해 세계 IT 지출 전년 대비 6.8% 성장 전망”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240122141742</link>
+            <guid>https://zdnet.co.kr/view/?no=20240122141742</guid>
+            <pubDate>Mon, 22 Jan 2024 06:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[작년 큰 주목을 받았던 생성형 인공지능(AI) 기술이 당장 기업의 대규모 IT 지출로 이어지진 않을 것으로 전망됐다. 가트너는 올해 전 세계 IT 지출이 작년보다 6.8% 증가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI 개발 속도 높이자"…AI 기업, 오픈소스 개발 활성화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240122112103</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240119112752</guid>
             <pubDate>Fri, 19 Jan 2024 03:11:30 GMT</pubDate>
             <content:encoded><![CDATA[에스티이지는 케이뱅크의 디지털 경쟁력 확보의 일환이자 ITSM&amp;ITAM 체계 개선 프로젝트를 성공적으로 완료했다고 19일 밝혔다. 케이뱅크는 IT서비스 업무 효율성 및 만족도 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 생성 AI 기반 독서 교육 앱 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240119103948</link>
-            <guid>https://zdnet.co.kr/view/?no=20240119103948</guid>
-            <pubDate>Fri, 19 Jan 2024 01:54:45 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 새로운 교육용 AI 도구를 선보였다. 이번엔 독서와 발음을 도와주는 앱이다. 18일(현지시간) 미국지디넷에 따르면, 마이크로소프트는 교육용 AI 보조도구 '리딩...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
