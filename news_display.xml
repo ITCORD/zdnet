@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 06:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첨단산업 등 국내 복귀하면 법인세 감면 3년 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240123143022</link>
+            <guid>https://zdnet.co.kr/view/?no=20240123143022</guid>
+            <pubDate>Tue, 23 Jan 2024 06:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 국가·첨단전략기술과 공급망핵심 분야 기업의 국내 복귀(유턴)를 촉진하기 위해 1천억원을 투입한다. 또 법인세 감면기간도 기존 7년에서 10년으로 3년 연장한다. 박덕열 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI 샘 알트먼 방한…삼성·SK와 AI칩 공급망 구축할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240123113620</link>
             <guid>https://zdnet.co.kr/view/?no=20240123113620</guid>
             <pubDate>Tue, 23 Jan 2024 04:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 AI 기업 오픈AI의 수장 샘 알트먼 최고경영자(CEO)가 이번 주 한국을 찾는다. 현재 오픈AI는 AI 반도체 공급망 구축에 심혈을 기울이고 있어 이번 짧은 방한 기간...]]></content:encoded>
+            <content:encoded><![CDATA[글로벌 AI 기업 오픈AI의 수장 샘 알트먼 최고경영자(CEO)가 이번 주 한국을 찾는다. 샘 알트먼은 인공지능(AI) 반도체 개발 협력을 위해 삼성전자와 SK와의 만남을 추진...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240118152835</guid>
             <pubDate>Thu, 18 Jan 2024 08:13:47 GMT</pubDate>
             <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 지난해 4분기 최선단 공정을 중심으로 견조한 실적을 기록했다. 특히 가장 최신 공정에 해당하는 3나노미터(nm) 공정의 매출 비중이 지난해 3분기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["HBM 수요, 예상보다 커…올해 삼성·SK 주문량만 12억GB"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240118112450</link>
-            <guid>https://zdnet.co.kr/view/?no=20240118112450</guid>
-            <pubDate>Thu, 18 Jan 2024 05:10:51 GMT</pubDate>
-            <content:encoded><![CDATA["HBM(고대역폭메모리) 시장은 우리가 생각하는 것보다 더 빠르게 성장하고 있다. 올해 HBM 시장의 수요를 5.2억GB(기가바이트)로 전망하기도 하는데, 삼성전자·SK하이닉스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

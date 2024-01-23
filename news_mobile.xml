@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 06:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특별기고] CES2024를 통해 본 미디어 기업의 미래와 대응]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240123141935</link>
+            <guid>https://zdnet.co.kr/view/?no=20240123141935</guid>
+            <pubDate>Tue, 23 Jan 2024 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 스트리밍 서비스인 넷플릭스의 급성장으로 미디어 시장의 판도는 급변하고 있다. 특히 코로나 팬데믹 기간을 거치면서 “스트리밍 서비스가 기존 실시간 방송을 대체할 것”이라는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 갤럭시링, 스마트반지 시장의 '절대반지' 될까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240123110657</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240122100146</guid>
             <pubDate>Mon, 22 Jan 2024 01:58:06 GMT</pubDate>
             <content:encoded><![CDATA[프린터 전문기업 브라더인터내셔널코리아가 G마켓 '2024 설빅세일' 행사에 참가한다고 22일 밝혔다. 브라더코리아는 이번 행사에서 최근 출시한 토너세이브 시리즈를 포함한 주요 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 'AI 경영시스템' 국제표준 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240122084247</link>
-            <guid>https://zdnet.co.kr/view/?no=20240122084247</guid>
-            <pubDate>Mon, 22 Jan 2024 01:58:06 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 인공지능(AI)을 적용한 생활가전의 개발부터 폐기까지 전 과정에서 데이터 보안이나 윤리적 책임을 성실히 수행하고 있다는 점을 인정받았다. LG전자 H&amp;A사업본부는 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
