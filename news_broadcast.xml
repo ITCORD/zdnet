@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 06:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 07:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이블TV, 선관위와 올바른 선거 정보 알린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240123144558</link>
+            <guid>https://zdnet.co.kr/view/?no=20240123144558</guid>
+            <pubDate>Tue, 23 Jan 2024 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[한국케이블TV방송기자협회가 중앙선거관리위원회와 함께 오는 4월10일 치러지는 제22대 국회의원 선거를 앞두고 올바른 선거정보 확산에 나선다. 케이블TV기자협회는 중앙선거관리위원...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[배민 자율주행 로봇, 모자이크 안된 영상으로 AI 학습]]></title>
             <link>https://zdnet.co.kr/view/?no=20240123150347</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240122094718</guid>
             <pubDate>Mon, 22 Jan 2024 01:57:53 GMT</pubDate>
             <content:encoded><![CDATA[신뢰성, 분산형 냉각 아키텍처, 예측형 유지보수, 라이프사이클 보안... 화웨이가 새해 주목할 데이터센터 트렌드로 꼽은 내용이다. 화웨이는 10대 데이터센터 트렌드에 대한 컨퍼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 모바일 앱 '당신의U+' 메인 화면 개편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240122084043</link>
-            <guid>https://zdnet.co.kr/view/?no=20240122084043</guid>
-            <pubDate>Mon, 22 Jan 2024 00:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 모바일 앱인 '당신의U+' 메인 화면을 전면 개편했다고 22일 밝혔다. 당신의U+는 이용자가 직접 가입, 이용 정보를 확인하고 휴대폰, 인터넷, IPTV를 구매할...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
