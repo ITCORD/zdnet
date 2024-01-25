@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 03:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지코어 "작년 하반기 디도스 공격 1.6Tbps로 급증"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240125124647</link>
+            <guid>https://zdnet.co.kr/view/?no=20240125124647</guid>
+            <pubDate>Thu, 25 Jan 2024 04:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[지코어코리아는 디도스(DDoS) 공격 추적을 위한 내부 분석 결과를 포함하는 '지코어 레이더 리포트'를 발간했다고 25일 밝혔다. '지코어 레이더 리포트'는 작년 하반기 디도스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서비스나우, 분야별 전문 파트너 제도 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240125123700</link>
+            <guid>https://zdnet.co.kr/view/?no=20240125123700</guid>
+            <pubDate>Thu, 25 Jan 2024 04:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[서비스나우는 차세대 파트너 프로그램인 '분야별 전문 파트너 제도'를 25일 발표했다. 분야별 전문 파트너 제도는 작년 1월 발표된 서비스나우 파트너 프로그램 개편의 일환으로 새...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 시총 3조 달러 첫 돌파…"AI바람 탔다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240125110430</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240124142614</guid>
             <pubDate>Wed, 24 Jan 2024 06:14:42 GMT</pubDate>
             <content:encoded><![CDATA[국제 해킹 조직의 국내 공공기관 공격 시도가 전년에 비해 36% 증가한 것으로 집계됐다. 또 전체 공격 건수 중에선 북한발이 80%로 가장 많은 비중을 차지한 것으로 나타났다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 디지털행정서비스 제공 협력 모색 현장 간담회 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240124140524</link>
-            <guid>https://zdnet.co.kr/view/?no=20240124140524</guid>
-            <pubDate>Wed, 24 Jan 2024 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 24일 천안시에 위치한 'KT 클라우드데이터센터'에서 디지털행정서비스 제공을 위한 협력방안 모색을 위한 현장 간담회를 개최했다. 이번 간담회는 디지털행정서비스 전반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[앤앤에스피, '앤넷트러스트' 보안기능확인서 V3.0 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240124141123</link>
-            <guid>https://zdnet.co.kr/view/?no=20240124141123</guid>
-            <pubDate>Wed, 24 Jan 2024 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[앤앤에스피(대표 김일용) 소프트웨어 공급망 보안 솔루션 '앤넷트러스트(nNetTrust)'가 국가정보원 '국가용보안요구사항 V3.0 보안기능확인서'를 획득했다. 국가정보원은 국...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
