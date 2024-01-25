@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 05:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 06:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, CCTV 개인정보법 위반 사업자에 '시정명령']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240125145001</link>
+            <guid>https://zdnet.co.kr/view/?no=20240125145001</guid>
+            <pubDate>Thu, 25 Jan 2024 06:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회가 고정형 영상정보처리기기(CCTV)를 설치·운영하면서, 안내판을 설치하지 않고 '개인정보 보호법'을 위반한 15개 사업자와 개인에게 시정명령·경고 조치하기로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 해커도 종류가 있다? 특성에 따라 달라지는 해커들]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240125150408</link>
+            <guid>https://zdnet.co.kr/view/?no=20240125150408</guid>
+            <pubDate>Thu, 25 Jan 2024 06:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[최근 사이버 공격이 급증하고 있어 사회적인 문제로 떠오르고 있습니다. 이에 개인을 비롯해 기업과 정부도 적극적으로 보안 환경을 구축에 집중하는 중입니다. 날로 늘어나는 해커들의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지코어 "작년 하반기 디도스 공격 1.6Tbps로 급증"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240125124647</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240124150539</guid>
             <pubDate>Wed, 24 Jan 2024 06:14:42 GMT</pubDate>
             <content:encoded><![CDATA[인젠트(대표 박재범)가 현대홈쇼핑 공식 온라인몰인 에이치몰(Hmall) 차세대 프로젝트에 엑스퍼디비(eXperDB)를 납품했다고 24일 밝혔다. 현대홈쇼핑은 급변하는 시장 환경...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이텐, KVM 오버 IP 스위치 KG 시리즈 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240124150115</link>
-            <guid>https://zdnet.co.kr/view/?no=20240124150115</guid>
-            <pubDate>Wed, 24 Jan 2024 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[에이텐(대표 첸순청)은 KG 시리즈 5종 (KG0032, KG1900T/6900T/8900T/9900T) 제품을 출시했고 24일 밝혔다. KG 시리즈는 원격으로 실시간 모니터링...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["작년 국제 해킹공격 36% 증가…80%가 북한발"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240124142614</link>
-            <guid>https://zdnet.co.kr/view/?no=20240124142614</guid>
-            <pubDate>Wed, 24 Jan 2024 06:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[국제 해킹 조직의 국내 공공기관 공격 시도가 전년에 비해 36% 증가한 것으로 집계됐다. 또 전체 공격 건수 중에선 북한발이 80%로 가장 많은 비중을 차지한 것으로 나타났다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
