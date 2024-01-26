@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 02:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI코딩 지원도구, 부적절한 사용 시 코드품질 저하 우려”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240126104717</link>
+            <guid>https://zdnet.co.kr/view/?no=20240126104717</guid>
+            <pubDate>Fri, 26 Jan 2024 03:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브 코파일럿 등 인공지능(AI)기반 코딩 도구에 과도하게 의존할 경우 코드 품질을 저하시킬 수 있어 사용에 주의를 요한다는 지적이 나왔다. 24일(현지시간) 데브클래스 등 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[관가에도 부는 AI 바람...인공지능 혁신으로 정책 '새바람']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240126113659</link>
+            <guid>https://zdnet.co.kr/view/?no=20240126113659</guid>
+            <pubDate>Fri, 26 Jan 2024 03:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[올해 인공지능(AI)이 산업 전환을 이끌 뜨거운 감자로 부상하면서 관가에도 AI를 활용한 혁신 바람이 일고 있다. AI와 밀접한 과학기술정보통신부와 같은 부처 외에도 저마다 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국정원, '중소기업 IT보안 가이드라인' 발간...해킹 피해 방지]]></title>
             <link>https://zdnet.co.kr/view/?no=20240126102406</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240125153916</guid>
             <pubDate>Thu, 25 Jan 2024 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT를 만든 오픈AI의 샘 알트먼 최고경영자(CEO)가 1박 2일 일정으로 한국을 방문한다. 알트먼은 25일 오후 늦게 인천공항을 통해 입국한 뒤 26일 오전부터 국내 공식...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 "올해 키워드는 AI 신뢰성·지속 가능성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240125105219</link>
-            <guid>https://zdnet.co.kr/view/?no=20240125105219</guid>
-            <pubDate>Thu, 25 Jan 2024 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA["올해 인공지능(AI) 기업은 신뢰성과 지속 가능성을 본격적으로 실행해야 한다. 세일즈포스는 이미 해당 전략을 꾸준히 준비해 왔다. 기업 고객에게 신뢰할 수 있고 지속 가능한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기관 보유 데이터 자체결합 가능해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240125150452</link>
-            <guid>https://zdnet.co.kr/view/?no=20240125150452</guid>
-            <pubDate>Thu, 25 Jan 2024 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[과거 법령상 자기 활용 목적 데이터 자체결합이 불가했던 규제가 앞으로는 풀릴 전망이다. 정부는 국립암센터와 같은 기관이 보유한 데이터를 직접 결합해 과학적 연구 등에 활용하는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
