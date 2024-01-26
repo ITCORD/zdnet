@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 04:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 05:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 혁명시대, 사람을 위한 보안·안전·신뢰가 핵심"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240126110915</link>
+            <guid>https://zdnet.co.kr/view/?no=20240126110915</guid>
+            <pubDate>Fri, 26 Jan 2024 05:09:22 GMT</pubDate>
+            <content:encoded><![CDATA["디지털 전환을 넘어 인공지능(AI) 트랜스포메이션이 가속화되고 있습니다. 한국이 성공적으로 AI 전환에 성공하려면 '보안(Security)-안전(Safety)-신뢰(Trust...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI코딩 지원도구, 부적절한 사용 시 코드품질 저하 우려”]]></title>
             <link>https://zdnet.co.kr/view/?no=20240126104717</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240125154113</guid>
             <pubDate>Thu, 25 Jan 2024 08:13:16 GMT</pubDate>
             <content:encoded><![CDATA[지난해 클라우드 분야에서 높은 성과를 거둔 삼성SDS는 2024년에는 생성형AI 기반 하이퍼 업무자동화 서비스로 한번 더 도약에 나선다. 삼성SDS 구형준 클라우드 서비스 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 알트먼, 오늘 방한…26일 삼성·SK 연쇄 회동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240125153916</link>
-            <guid>https://zdnet.co.kr/view/?no=20240125153916</guid>
-            <pubDate>Thu, 25 Jan 2024 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT를 만든 오픈AI의 샘 알트먼 최고경영자(CEO)가 1박 2일 일정으로 한국을 방문한다. 알트먼은 25일 오후 늦게 인천공항을 통해 입국한 뒤 26일 오전부터 국내 공식...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
