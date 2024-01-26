@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이벤트·행사, 코로나 전 수준 회복...AI 본격 대세”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240126150239</link>
+            <guid>https://zdnet.co.kr/view/?no=20240126150239</guid>
+            <pubDate>Fri, 26 Jan 2024 06:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[온오프믹스(대표 양준철)가 자사 이벤트데이터센터 분석 결과, 지난해 연간 이벤트 및 행사가 증가해 코로나 이전 수준으로 완전히 회복됐다고 26일 밝혔다. 온오프믹스 이벤트데이터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['AI 열풍' 탄 알파벳·MS·메타, 주가 신기록 행진]]></title>
             <link>https://zdnet.co.kr/view/?no=20240126104950</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240124084949</guid>
             <pubDate>Wed, 24 Jan 2024 00:46:01 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 생성형 인공지능(AI)를 활용한 광고 상품 '클로바 포 애드(CLOVA for AD)' 테스트를 시작했다고 24일 밝혔다. 글로벌 스포츠 브랜드 나이키(Nike)와 함...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요기요, 라이더 대상 전기 이륜차 지원 사업 시작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240124083730</link>
-            <guid>https://zdnet.co.kr/view/?no=20240124083730</guid>
-            <pubDate>Wed, 24 Jan 2024 00:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[배달앱 요기요는 자사의 딜리버리 서비스 '요기배달'을 수행 중인 라이더를 대상으로 전기 이륜차 지원 사업을 시작한다고 24일 밝혔다. 탄소 중립 실천과 쾌적한 배달 환경 조성을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
