@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 23:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 00:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시북4 활용한 AI 아트 전시회 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240126172254</link>
+            <guid>https://zdnet.co.kr/view/?no=20240126172254</guid>
+            <pubDate>Sat, 27 Jan 2024 00:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[인텔코리아와 삼성전자, 삼성디스플레이가 27일부터 오는 2월 12일까지 2주간 서울 중구 소재 전시공간 '뉴스뮤지엄 을지로점'에서 AI 아트 전시회 '터치 더 리얼'(Touch...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보다나, 설맞이 기획전 최대 70% 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240126180619</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240126020115</guid>
             <pubDate>Fri, 26 Jan 2024 00:42:05 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 중국 시장에서 내놓는 갤럭시S24에 바이두의 생성형 인공지능(AI) 기술을 탑재한다. 25일 중국 언론 수즈쳰셴에 따르면 갤럭시S24 시리즈 신제품 발표회에서 삼성전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 "온라인서 LLM 기술 적용된 챗봇 상용화 예정"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240125180613</link>
-            <guid>https://zdnet.co.kr/view/?no=20240125180613</guid>
-            <pubDate>Thu, 25 Jan 2024 10:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 25일 2023년 4분기 컨퍼런스콜에서 생성형 인공지능(AI)의 거대언어모델(LLM) 기술이 적용된 생성형 AI '챗봇'을 상용화할 예정이라고 밝혔다. AI 기능이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
