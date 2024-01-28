@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 19:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 20:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨가 미쳤다] 한국 재난심리지원 10년...제2라운드 준비 필요하다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240128195949</link>
+            <guid>https://zdnet.co.kr/view/?no=20240128195949</guid>
+            <pubDate>Sun, 28 Jan 2024 20:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[기사는 재난 발생과 심리지원의 앞 단계에 기후변화가 있으며, 기후변화는 자연재난 뿐만 아니라 사회재난에도 영향을 미친다는 전제로 쓰여졌다. 기후변화-기후재난-심리지원의 단계를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/15/4424a056c379c12c218a704fef446c48-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산업부, 원전 생태계 업계에 유동성 1천억원 추가 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20240128225018</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240128221011</guid>
             <pubDate>Sun, 28 Jan 2024 14:07:34 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 29일부터 2월 8일까지 녹색산업 협의체(얼라이언스) 참여기업을 확대 모집한다고 28일 밝혔다. 이번 확대 모집은 참여 희망 기업 수요를 반영하고 민관 협력체계의 외연...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/01/19/d1a99aaca587ccede79cc9e1ff8640b6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["힘드셨죠?"…응급실 다녀온 아빠에 용돈 준 초1 딸]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240128113315</guid>
             <pubDate>Sun, 28 Jan 2024 03:09:39 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스' 는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중기부 등 10개 부처 참여 '도전 K-스타트업 2024' 막올라]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240128115026</link>
-            <guid>https://zdnet.co.kr/view/?no=20240128115026</guid>
-            <pubDate>Sun, 28 Jan 2024 03:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[중기부와 과기정통부 등 10개 부처가 협력해 추진하는 공공분야 국내 최대 스타트업 경연인 '도전! K-스타트업 2024'가 29일 통합공고를 시작으로 막을 올린다. 9월까지 부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
