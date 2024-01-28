@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 04:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 05:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거침없는 웍질과 불쇼…만다린로보틱스 조리로봇 '로보틱웍']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240126193917</link>
+            <guid>https://zdnet.co.kr/view/?no=20240126193917</guid>
+            <pubDate>Sun, 28 Jan 2024 05:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[로봇이 주방에서 식재료를 계량하고 웍(철냄비)을 흔든다. 조리원은 알림 시간에 맞게 식재료를 부어주거나 접시에 옮겨 담기만 하면 된다. 만다린로보틱스가 구현한 자동화 주방 풍경...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中, 세계에서 가장 얇은 폴더블폰 내놨다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240127071651</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240126084156</guid>
             <pubDate>Fri, 26 Jan 2024 01:44:17 GMT</pubDate>
             <content:encoded><![CDATA[삼성 갤럭시S24 시리즈에 탑재된 엑시노스 2400 칩이 레이트레이싱 성능에서 경쟁사 칩보다 뛰어난 성능을 나타냈다고 IT매체 샘모바일이 25일(현지시간) 보도했다. IT 전문...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 폰 '갤럭시S24' 국내 사전판매 121만대...역대 최대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240126084307</link>
-            <guid>https://zdnet.co.kr/view/?no=20240126084307</guid>
-            <pubDate>Fri, 26 Jan 2024 00:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자의 플래그십 스마트폰 갤럭시S24 시리즈가 국내 사전판매에서 121만대를 기록하며 역대 갤럭시 S 시리즈 중 최다 판매 신기록을 세웠다. 갤럭시 시리즈 중 처음으로 선보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
