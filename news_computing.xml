@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 23:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 00:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 해킹 대회서 또 뚫렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240128033848</link>
+            <guid>https://zdnet.co.kr/view/?no=20240128033848</guid>
+            <pubDate>Sun, 28 Jan 2024 00:43:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난 해에 이어 올해도 해킹대회에서 테슬라의 차량 시스템이 해킹됐다. 최근 비핑컴퓨터 등 외신에 따르면 해킹대회 폰투온 오토모티브 참가자가 테슬라 차량 시스템 침투에 성공했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올거나이즈 "'알리 앱스토어'로 금융·공공·제조업 공략"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240126165232</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240125173331</guid>
             <pubDate>Thu, 25 Jan 2024 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 인터넷 보안 업체 노드VPN이 최근 네 번째 노-로그 정책(No-Log Policy) 검증 절차를 성공적으로 마쳤다고 25일 밝혔다. 이번 검증은 세계 빅4 회계 법인인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이티센, 말레이시아 거래소 '그린엑스'와 STO 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240125172919</link>
-            <guid>https://zdnet.co.kr/view/?no=20240125172919</guid>
-            <pubDate>Thu, 25 Jan 2024 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센(대표 박정재)은 토큰증권발행(STO) 사업 확대를 위해 말레이시아 STO 거래소인 '그린엑스(GreenX)'와 업무협약(MOU)을 체결했다고 25일 밝혔다. 이번 MO...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
