@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 09:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 10:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제4이통 주파수 경매 '과열'...입찰액 1400억원 넘었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240129165604</link>
+            <guid>https://zdnet.co.kr/view/?no=20240129165604</guid>
+            <pubDate>Mon, 29 Jan 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[신규사업자 대상 5G 28GHz 주파수 경매 최고 입찰액이 1천400억원대를 기록했지만 낙찰자를 가리지 못했다. 시작가의 약 2배에 이르는 입찰가로, 경매 흥행 수준을 넘어 과...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위, 팀장 3분의1 교체 인사 단행…노조 "보복인사"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240129161840</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240126090639</guid>
             <pubDate>Fri, 26 Jan 2024 01:44:05 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤 KT LG유플러스 이동통신 3사가 첫 갤럭시 인공지능(AI)폰 갤럭시S24 시리즈에 최대 24만원의 지원금을 공시했다. 전작 갤럭시S23 시리즈와 유사한 수준으로, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 갤S24 사전예약 1TB 한정판 모델 '완판']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240126085447</link>
-            <guid>https://zdnet.co.kr/view/?no=20240126085447</guid>
-            <pubDate>Fri, 26 Jan 2024 01:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 지난 19일부터 첫 갤럭시 인공지능(AI)폰 갤럭시S24 시리즈 사전예약을 진행한 결과 예약자 수는 전작 대비 소폭 증가했고, 1TB 한정판 모델이 예약 첫날 완판됐다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
