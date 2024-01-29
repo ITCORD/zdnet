@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 23:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 00:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데정보통신, 서울 자율주행 마을버스 사업 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240129084058</link>
+            <guid>https://zdnet.co.kr/view/?no=20240129084058</guid>
+            <pubDate>Mon, 29 Jan 2024 00:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[롯데정보통신은 서울특별시 동작구 자율주행 마을버스 운영을 위해 동작구·숭실대와 손잡았다고 29일 밝혔다. 양사는 이번 협약을 통해 실 생활도로에 자율주행 마을버스 노선을 설정하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 해킹 대회서 또 뚫렸다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240128033848</link>
@@ -16,11 +24,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[올거나이즈 "'알리 앱스토어'로 금융·공공·제조업 공략"]]></title>
+            <title><![CDATA[올거나이즈 "'알리 앱 마켓'으로 금융·공공·제조업 공략"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240126165232</link>
             <guid>https://zdnet.co.kr/view/?no=20240126165232</guid>
             <pubDate>Fri, 26 Jan 2024 09:11:04 GMT</pubDate>
-            <content:encoded><![CDATA["올거나이즈는 그동안 생성형 인공지능(AI) 애플리케이션을 연달아 출시해 왔다. 현재 이를 '알리 LLM 앱스토어'에 모아뒀다. 고객사는 알리 LLM 앱스토어에서 원하는 올거나...]]></content:encoded>
+            <content:encoded><![CDATA["올거나이즈는 그동안 생성형 인공지능(AI) 애플리케이션을 연달아 출시해 왔다. 현재 이를 '알리 LLM 앱 마켓'에 모아뒀다. 고객사는 알리 LLM 앱 마켓에서 원하는 올거나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240125173857</guid>
             <pubDate>Thu, 25 Jan 2024 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[킨드릴 코리아(대표 류주복)는 생성형 AI 기반 디지털 워크플레이스 솔루션인 킨드릴 워크플로 오케스트레이션 서비스를 출시한다고 발표했다. 킨드릴 워크플로 오케스트레이션 서비스는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노드VPN, 로그 기록 남기지 않는 '노 로그 정책' 준수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240125173331</link>
-            <guid>https://zdnet.co.kr/view/?no=20240125173331</guid>
-            <pubDate>Thu, 25 Jan 2024 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 인터넷 보안 업체 노드VPN이 최근 네 번째 노-로그 정책(No-Log Policy) 검증 절차를 성공적으로 마쳤다고 25일 밝혔다. 이번 검증은 세계 빅4 회계 법인인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
