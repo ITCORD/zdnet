@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 03:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 04:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성D, OLED 아이패드용 패널 양산 확대하나…협력사에 증설 요청]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240130113641</link>
+            <guid>https://zdnet.co.kr/view/?no=20240130113641</guid>
+            <pubDate>Tue, 30 Jan 2024 04:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이가 애플의 첫 OLED 아이패드용 패널 사업을 확대할 가능성이 점쳐진다. 본격적인 패널 양산을 앞두고 일부 후공정 협력사에 생산능력을 600만대 이상으로 확대할 것...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EVG, 3D 적층 기술 혁신하는 '나노클리브' 신기술 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20240130105950</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240126160638</guid>
             <pubDate>Sun, 28 Jan 2024 01:47:37 GMT</pubDate>
             <content:encoded><![CDATA[AI용 노트북 시대를 앞두고 메모리 업계가 차세대 D램 LPCAMM(Low Power Compression Attached Memory Module)을 올해부터 본격적인 양산체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파네시아, 글로벌 서버업체 HPE와 'CXL' 협업 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240126155129</link>
-            <guid>https://zdnet.co.kr/view/?no=20240126155129</guid>
-            <pubDate>Fri, 26 Jan 2024 08:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[파네시아는 글로벌 서버업체 HPE(휴렛팩커드엔터프라이즈) 본사와의 단독 대규모 미팅을 성공적으로 마쳤다고 26일 밝혔다. 파네시아는 CXL 전문 팹리스 스타트업으로, CXL 관...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
