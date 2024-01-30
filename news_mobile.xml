@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 06:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 07:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 10G 외부 회선 지원·망 이중화 갖춘 기업용 라우터]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240130152210</link>
+            <guid>https://zdnet.co.kr/view/?no=20240130152210</guid>
+            <pubDate>Tue, 30 Jan 2024 07:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷기어 10G/멀티 기가비트 듀얼 WAN 프로 라우터(이하 PR60X)는 10G/2.5G 등 외부 회선을 이중화해 일시적인 장애애도 중단 없이 가동 가능한 기업용 네트워크 장비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["애플, 비전프로 지금까지 20만대 팔았다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240130142827</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240129105503</guid>
             <pubDate>Mon, 29 Jan 2024 02:16:21 GMT</pubDate>
             <content:encoded><![CDATA[타블렛 전문기업 한국와콤은 서울 상암동 와콤 브랜드 쇼룸에서 프리미엄 액정 타블렛 '신티크 프로 패밀리' 라인업과 함께 준비된 크리에이터를 위한 작업 공간 서비스 '와콤 아트 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미마이크로닉스, ATX 3.1 지원 전원공급장치 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240129102708</link>
-            <guid>https://zdnet.co.kr/view/?no=20240129102708</guid>
-            <pubDate>Mon, 29 Jan 2024 01:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[한미마이크로닉스가 29일 ATX 3.1 규격을 적용한 데스크톱PC용 전원공급장치 '아스트로Ⅱ PT 1300W'를 출시했다. 이 제품은 그래픽카드 등 고출력 장치 전원공급용 단자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
