@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 09:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 10:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3.7GHz 대역 5G 주파수 추가 공급..."대역폭, 시기는 추가 검토"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240131181452</link>
+            <guid>https://zdnet.co.kr/view/?no=20240131181452</guid>
+            <pubDate>Wed, 31 Jan 2024 10:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 3.7GHz 대역의 300MHz 폭 주파수를 5G 통신 용도로 공급하기로 했다. 현재 5G 용도로 쓰이는 3.4~3.7GHz 인접대역으로, SK텔레콤이 추가 할당을 요구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TTA, AI신뢰성센터 신설…조직개편 단행]]></title>
             <link>https://zdnet.co.kr/view/?no=20240131135646</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240130091409</guid>
             <pubDate>Tue, 30 Jan 2024 00:40:55 GMT</pubDate>
             <content:encoded><![CDATA[KT와 KT클라우드, KT인베스트먼트는 인공지능(AI) 반도체 설계(팹리스) 업체 리벨리온의 시리즈B 라운드에 각각 200억원, 100억원, 30억원을 투자한다고 30일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 6G 주파수·망 구조 연구…"기술 생태계 구축"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240130085513</link>
-            <guid>https://zdnet.co.kr/view/?no=20240130085513</guid>
-            <pubDate>Tue, 30 Jan 2024 00:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 6G 주파수 특성을 고려한 최적의 망 구조를 설계하기 위해 학계와 함께 6G 후보 주파수 대역에 대한 실측, 시뮬레이션을 진행했다고 30일 밝혔다. 회사는 6G 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
