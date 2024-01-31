@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 08:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 09:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["디지털행정서비스, 장애 때도 서비스 중단 막는다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240131170524</link>
+            <guid>https://zdnet.co.kr/view/?no=20240131170524</guid>
+            <pubDate>Wed, 31 Jan 2024 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 지난해 연달아 장애가 발생한 디지털 행정서비스에 무중단 서비스 환경을 구현할 것이라고 밝혔다. 일부 장애가 발생하더라도 전체 시스템은 유지되는 환경을 마련해 국민과 공무...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 머스크 사례로 드러난 스톡옵션의 민낯]]></title>
             <link>https://zdnet.co.kr/view/?no=20240131155350</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240131084212</guid>
             <pubDate>Wed, 31 Jan 2024 00:41:41 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 클라우드의 가파른 성장세에 힘입어 기대치를 넘어선 분기 실적을 거뒀다. 마이크로소프트는 30일(현지시간) 회계연도 2024년 2분기 실적발표를 통해 해당 기간 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["소스코드 유출 걱정 끝"…LG CNS, AI에 최적화된 '이것' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240131082222</link>
-            <guid>https://zdnet.co.kr/view/?no=20240131082222</guid>
-            <pubDate>Wed, 31 Jan 2024 00:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[LG CNS가 코드 생성형 AI에 최적화된 대규모언어모델(Large Language Model, LLM)을 공개하며 고객사 확보에 속도를 낸다. LG CNS는 'AI 코딩'을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
