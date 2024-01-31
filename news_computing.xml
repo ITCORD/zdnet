@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘림넷, 오픈AI GPT 스토어에 온라인 시험 생성기 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240131151855</link>
+            <guid>https://zdnet.co.kr/view/?no=20240131151855</guid>
+            <pubDate>Wed, 31 Jan 2024 07:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[엘림넷(대표 한환희)은 오픈AI GPT 스토어에 '온라인 시험 생성기'와 '온라인 시험 출제 도우미' 등 2종의 온라인 시험 AI GPT를 출시했다고 31일 밝혔다. 엘림넷이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비욘드테크, 메가스터디 인강 아이패드에 MDM '미어캣' 탑재]]></title>
             <link>https://zdnet.co.kr/view/?no=20240131141902</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240130160953</guid>
             <pubDate>Tue, 30 Jan 2024 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[정부가 올해 인공지능(AI) 도입 원년으로 선포하고 초거대 AI를 활용할 수 있는 로드맵을 본격적으로 구상한다는 방침이다. 고진 디지털플랫폼정부위원장은 30일 진행된 '국민과 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문체부 "AI 콘텐츠 워터마크, 명확한 적용 기준 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240130163545</link>
-            <guid>https://zdnet.co.kr/view/?no=20240130163545</guid>
-            <pubDate>Tue, 30 Jan 2024 09:10:46 GMT</pubDate>
-            <content:encoded><![CDATA["생성형 인공지능(AI) 콘텐츠에 워터마크를 표기해야 한다는 건 당연하다. 이를 어떻게 콘텐츠에 적용할 건지 구체적으로 논의해야 한다. 정부가 이에 대한 명확한 기준을 만들겠다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
