@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 00:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 01:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["GM, 무인택시 사업부 예산 1.3조원 삭감"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240201103407</link>
+            <guid>https://zdnet.co.kr/view/?no=20240201103407</guid>
+            <pubDate>Thu, 01 Feb 2024 01:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[제네럴모터스(GM)은 자율주행 무인택시 사업부인 크루즈가 지난해 일으킨 인명사고 등으로 올해 예산을 삭감했지만, 자율주행 프로젝트는 유지할 것이라고 밝혔다. 로이터통신은 지난달...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 4분기 중국 판매비중 35%…美이어 2위]]></title>
             <link>https://zdnet.co.kr/view/?no=20240201020033</link>
@@ -48,7 +56,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[올 설 연휴에도 고속도로 통행료 면제…2월 9일 00시~2월 12일 24시]]></title>
+            <title><![CDATA[올 설 연휴에도 고속도로 통행료 면제…2월 9일 0시~12일 24시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240131083831</link>
             <guid>https://zdnet.co.kr/view/?no=20240131083831</guid>
             <pubDate>Wed, 31 Jan 2024 00:42:05 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240129094540</guid>
             <pubDate>Mon, 29 Jan 2024 01:43:19 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹은 설 명절을 앞둔 협력사의 자금 부담 완화를 위해 납품대금 2조 1천447억원을 당초 지급일보다 최대 23일 앞당겨 지급할 계획이라고 29일 밝혔다. 이번 납품대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차 월드랠리팀, 2024 WRC 개막전부터 1위]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240129092608</link>
-            <guid>https://zdnet.co.kr/view/?no=20240129092608</guid>
-            <pubDate>Mon, 29 Jan 2024 00:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차는 25일부터 28일(현지시간)까지 진행된 2024 월드랠리챔피언십(WRC) 첫번째 라운드 '몬테카를로 랠리'에서 티에리 누빌(Thierry Neuville)이 1위를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

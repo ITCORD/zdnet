@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 00:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 01:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이, '메타 테크놀로지 2.0'으로 화면 42% 더 밝혔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240201092844</link>
+            <guid>https://zdnet.co.kr/view/?no=20240201092844</guid>
+            <pubDate>Thu, 01 Feb 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[LG디스플레이가 자사 신기술 '메타 테크놀로지 2.0'이 화질의 핵심요소 중 하나인 휘도를 기존 대비 약 42% 향상시켜 현존 OLED TV 패널 중 가장 밝은 최대 휘도 3천...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["엔비디아, GPU 생산에 인텔 패키징 기술도 활용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240201084257</link>
+            <guid>https://zdnet.co.kr/view/?no=20240201084257</guid>
+            <pubDate>Thu, 01 Feb 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 서버용 GPU 생산량 확대를 위해 이르면 올해 2분기부터 대만 TSMC 이외에 인텔 3차원 반도체 적층 기술을 활용할 전망이다. 대만 경제일보(經濟日報)는 31일(현...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로옴, 부하 응답 특성 높인 차량용 프라이머리 LDO 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240201092832</link>
+            <guid>https://zdnet.co.kr/view/?no=20240201092832</guid>
+            <pubDate>Thu, 01 Feb 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 차량용 배터리로 동작하는 자동차 전장품 및 ECU(전자제어유닛) 등 전원에 최적화된 프라이머리 LDO 레귤레이터(이하 LDO)를 개발했다고 1일 밝혔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[D램·낸드 가격 4개월 연속 상승…삼성·SK 실적 개선 '청신호']]></title>
             <link>https://zdnet.co.kr/view/?no=20240201075637</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240131094332</guid>
             <pubDate>Wed, 31 Jan 2024 01:43:23 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 올해 메모리 시황과 IT 수요 회복이 기대되는 가운데 AI 반도체에 적극 대응해 시장 선점을 추진하겠다고 밝혔다. 동시에 프리미엄 리더십과 2나노미터(mn) 등 첨단...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 작년 4분기 매출 8.1조원...전년比 10% 증가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240131090628</link>
-            <guid>https://zdnet.co.kr/view/?no=20240131090628</guid>
-            <pubDate>Wed, 31 Jan 2024 00:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 30일(미국 현지시간) 2023년 4분기 실적을 발표했다. 2022년 동기 대비 일반 소비자와 서버용 제품 매출이 두 자릿수 성장을 기록했고 영업이익은 30배 이상 상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1보] 삼성전자, 작년 4Q 반도체 영업손실 2조1800억…4개 분기 연속 적자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240131085059</link>
-            <guid>https://zdnet.co.kr/view/?no=20240131085059</guid>
-            <pubDate>Wed, 31 Jan 2024 00:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 지난해 4분기 반도체를 담당하는 DS부문이 영업손실 2조1800억을 기록했다고 밝혔다. 이로써 삼성전자는 작년 4개 분기 연속으로 적자를 기록했다. 작년 4분기DS부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔·대만 UMC 파운드리 동맹…삼성 고객 빼앗나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240130165149</link>
-            <guid>https://zdnet.co.kr/view/?no=20240130165149</guid>
-            <pubDate>Tue, 30 Jan 2024 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[미국 인텔과 대만 UMC가 12나노미터(mn, 10억분의 1m) 공정에서 파운드리 협력에 나선다. 이번 협력은 파운드리 재진출을 선언한 인텔과 대만에서 파운드리 2위 업체인 U...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
