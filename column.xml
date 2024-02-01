@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 22:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 23:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] LLM의 새 시대 개막:혁신기술서 비즈니스 필수요소로]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240201171305</link>
+            <guid>https://zdnet.co.kr/view/?no=20240201171305</guid>
+            <pubDate>Thu, 01 Feb 2024 23:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;우리는 더이상 거대언어모델(Large Language Model, 이하 LLM)을 가벼이 여기지 않는다. 챗GTP, 바드(Bard)와 같은 LLM이 이제 혁신 기술을 넘어 비즈니스 필수 요소가 됐기 때문이다. 실제로 기업들이 생성AI 솔루션에 지출하는 금액은 2023년부터 2027년까지 연평균 86.1% 성장해 2027년 1511억 달러(약 202조원)에 달할 것으로 예상된다. 이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/01/0586025dbeced5433a4aa82fb6e6972b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 2024년 마케터가 꼭 알아야 할 4가지 키워드]]></title>
             <link>https://zdnet.co.kr/view/?no=20240131162717</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Dec 2023 00:42:26 GMT</pubDate>
             <content:encoded><![CDATA[지난해 오픈AI의 챗GPT 등장 이후, 거대언어모델(LLM)이라는 다소 생소했던 개념과 용어는 이제 전세계적으로 회자되며 널리 쓰이고 있다. LLM은 업종을 막론하고 산업 곳곳에서 업무 혁신을 가져올 것이라는 기대감을 모으고 또 실제로 이를 실현해 나가는 핵심 축이 되어가고 있다. 하지만 LLM은 ‘블랙박스’와 ‘할루시네이션(환각 현상)’이라는 문제적 네임택이 늘 따라붙고 있다.인공지능(AI...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/12/26/c2a68dc6a42d821c6d6ffed4b60837a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 행정전산망 장애가 중소기업 탓이라고?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20231224162246</link>
-            <guid>https://zdnet.co.kr/view/?no=20231224162246</guid>
-            <pubDate>Sun, 24 Dec 2023 08:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[“우리는 타인의 시선에서 지옥을 경험한다.”&nbsp;실존철학자 사르트르(Jean-Paul Sartre)가 한 말이다. 각종 매체와 언론은 지난달 17일 발생한 행정전산시스템 장애 사태의 전말과 원인에 대한 진단을 경쟁적으로 쏟아냈다. 사고 원인과 진단은 다양하더라도 대중을 상대로 한 매체들의 관통하는 시각과 논조는 이러하다. ‘이번 사태 원인은 중소기업이며, 해결책은 대기업’이라는 것이다....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/26/6692804620412176ac47d99de552dcd6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
