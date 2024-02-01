@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 06:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 07:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 검색서 '뷰' 사라진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240201152315</link>
+            <guid>https://zdnet.co.kr/view/?no=20240201152315</guid>
+            <pubDate>Thu, 01 Feb 2024 07:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 검색 결과에서 'VIEW(뷰)' 영역이 사라진다. 사용자에게 좀 더 명확한 검색 결과를 제공하기 위해서다. 네이버는 1일부터 순차적으로 네이버 검색서 '뷰' 대신 '인기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[하이브 방시혁·스쿠터 브라운, 美 빌보드 파워 100 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20240201143828</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240131122803</guid>
             <pubDate>Wed, 31 Jan 2024 06:12:58 GMT</pubDate>
             <content:encoded><![CDATA[최근 공정거래위원회가 추진하는 플랫폼 공정경쟁 촉진법(이하 플랫폼법)에 대한 논란이 커지는 가운데, 플랫폼 생태계를 연구하는 교수들은 해당 법안이 충분히 준비되지 않았다고 입을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이디포 "오픈소스 AI-LLM 잘 꿰어야 보배"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240131111747</link>
-            <guid>https://zdnet.co.kr/view/?no=20240131111747</guid>
-            <pubDate>Wed, 31 Jan 2024 06:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[속담에 '구슬이 서 말이라도 꿰어야 보배'(아무리 좋은 것이라도 쓸모 있게 만들어 놓아야 값어치가 있다는 뜻)라 했다. 다양한 인공지능(AI) 기술들이 쏟아져 나왔지만, 아직 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
