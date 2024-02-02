@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 00:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 01:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["갤럭시 스마트폰 자녀에게 물려주세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240202091021</link>
+            <guid>https://zdnet.co.kr/view/?no=20240202091021</guid>
+            <pubDate>Fri, 02 Feb 2024 01:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 삼성전자와 함께 기존 휴대폰을 자녀에게 물려주는 갤럭시 패밀리폰 프로그램을 진행한다고 2일 밝혔다. KT에서 갤럭시S, Z 플립, Z 폴드 시리즈를 신규 구매한 이용자는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 명절 전 파트너사 1천280억원 대금 조기 지급]]></title>
             <link>https://zdnet.co.kr/view/?no=20240202083849</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240131135646</guid>
             <pubDate>Wed, 31 Jan 2024 06:12:39 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신기술협회(TTA)가 인공지능(AI) 신뢰성 확보와 ICT 표준화, 소프트웨어(SW) 시험인증 분야 국제협력을 강화하기 위한 조직개편을 단행한다고 31일 밝혔다. 먼저...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 1위 독주…티빙, 작년 이용자 20% 늘렸다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240131105902</link>
-            <guid>https://zdnet.co.kr/view/?no=20240131105902</guid>
-            <pubDate>Wed, 31 Jan 2024 04:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 여전히 지난해 국내에서 가장 높은 이용률을 기록한 온라인동영상서비스(OTT)로 꼽혔다. 넷플릭스 이용자 수는 전년과 비교해 소폭 증가했다. 토종 OTT에선 티빙이 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
