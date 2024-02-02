@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 08:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 09:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오톡 이모지 다시 돌아온다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240202171511</link>
+            <guid>https://zdnet.co.kr/view/?no=20240202171511</guid>
+            <pubDate>Fri, 02 Feb 2024 09:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2011년도부터 사용했던 카카오톡 이모지가 원상 복구된다. 카카오는 2일 카카오톡에서 무료로 제공하던 이모지 서비스를 그대로 유지한다고 밝혔다. 앞서 카카오는 장기적인 개편 과...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 연 매출 10조원 목전…"AI로 수익 더 높인다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240202134234</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240201085716</guid>
             <pubDate>Thu, 01 Feb 2024 00:43:29 GMT</pubDate>
             <content:encoded><![CDATA[네이버는 대화형 인공지능(AI) 서비스 클로바X가 리테일 테크 서비스 '컬리', AI 매칭 채용 플랫폼 '원티드', 초개인화 여행 플랫폼 '트리플' 스킬 연동을 시작했다고 1일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강남 오피스 양극화...프리미엄급 뜨고·중소형급 지고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240201090803</link>
-            <guid>https://zdnet.co.kr/view/?no=20240201090803</guid>
-            <pubDate>Thu, 01 Feb 2024 00:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[주요 업무 권역 공급 부족 현상이 이어지고 있다. 지난 1년간 서울과 분당에 공급된 누적 오피스 면적은 최근 5개년 평균 공급량의 70% 수준이다. 올해 신규 오피스 공급 예정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
