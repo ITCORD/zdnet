@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 13:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 14:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알체라, 국내 대형 영상처리 및 이해 학술 대회서 논문상 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240205223049</link>
+            <guid>https://zdnet.co.kr/view/?no=20240205223049</guid>
+            <pubDate>Mon, 05 Feb 2024 14:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[영상인식 인공지능(AI) 전문기업 알체라(대표 황영규)는 자사의 기업부설연구소 연구진이 제주도에서 열린 '제36회 영상처리 및 이해에 관한 워크샵 2024(Image Proce...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/05/f6140a34fdf2e642dbfd2790984d5438-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딥노이드, 코그넥스코리아와 LMM 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20240205220007</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240205213753</guid>
             <pubDate>Mon, 05 Feb 2024 13:09:24 GMT</pubDate>
             <content:encoded><![CDATA[지난해 소프트웨어(SW) 불법복제에 따른 침해 규모가 109억 원으로 전년(49억원)보다 보다 123% 증가한 것으로 나타났다. SW 불법복제 제보는 956건이였다. 5일 한국...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/05/b242a26cdf3b815f5d2f5bc707178cf4-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KAI, 세계 방산전시서 중동시장 공략 나서]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240205172624</guid>
             <pubDate>Mon, 05 Feb 2024 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[KB국민은행이 전세사기 피해자들을 위한 실효성있는 지원책을 펼친다. 5일 KB국민은행은 전세사기 피해자를 대상으로 전세보증금반환소송 등 집행권원 확보 비용 및 경·공매 대행 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[180억…역대 최고가 아파트는 '파르크한남']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240205172553</link>
-            <guid>https://zdnet.co.kr/view/?no=20240205172553</guid>
-            <pubDate>Mon, 05 Feb 2024 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[역대 최고가 아파트 거래액은 180억원으로 서울 용산구 한남동 '파르크한남'이 주인공이다. 5일 국토교통부 실거래가 공개시스템에 따르면 용산구 한남동 '파르크한남' 전용면적 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
