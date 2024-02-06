@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 00:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스 "재활용 소재 사용 비중 2030년 30% 이상 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240206090938</link>
+            <guid>https://zdnet.co.kr/view/?no=20240206090938</guid>
+            <pubDate>Tue, 06 Feb 2024 00:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 글로벌 반도체 기업 최초로 재활용, 재생가능 소재(이하 '재활용 소재')를 제품 생산에 적극 활용하기 위한 중장기 계획을 수립했다고 6일 발표했다. SK하이닉스는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[리벨리온·슈퍼브에이아이, '비전 AI' 분야 파트너십 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240206083802</link>
+            <guid>https://zdnet.co.kr/view/?no=20240206083802</guid>
+            <pubDate>Tue, 06 Feb 2024 00:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[AI 반도체 스타트업 리벨리온은 슈퍼브에이아이와 비전 AI 모델과 반도체 인프라 올인원 제공을 위한 전략적 파트너십을 체결했다고 6일 밝혔다. 리벨리온은 AI 반도체를 설계하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[딥엑스, 초저전력 '온디바이스 AI 반도체' 내년 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240206081105</link>
+            <guid>https://zdnet.co.kr/view/?no=20240206081105</guid>
+            <pubDate>Tue, 06 Feb 2024 00:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[딥엑스는 서버의 초거대 AI와 온디바이스의 거대 AI를 연합구동하는 온디바이스 AI 반도체를 내년 하반기에 선보일 예정이다. 딥엑스의 AI 반도체 원천기술은 온디바이스에서 AI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해성디에스, 작년 영업익 1025억원…"올해 실적 개선 가능"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240205160730</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240201095723</guid>
             <pubDate>Thu, 01 Feb 2024 02:21:33 GMT</pubDate>
             <content:encoded><![CDATA[정부가 첨단 디스플레이 초격차를 위한 연구개발(R&amp;D)에 903억원을 지원한다. 산업통상자원부(이하 산업부)는 올해 디스플레이 분야 연구개발(R&amp;D)에 전년(767억) 대비 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, '메타 테크놀로지 2.0'으로 화면 42% 더 밝혔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240201092844</link>
-            <guid>https://zdnet.co.kr/view/?no=20240201092844</guid>
-            <pubDate>Thu, 01 Feb 2024 01:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이가 자사 신기술 '메타 테크놀로지 2.0'이 화질의 핵심요소 중 하나인 휘도를 기존 대비 약 42% 향상시켜 현존 OLED TV 패널 중 가장 밝은 최대 휘도 3천...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["엔비디아, GPU 생산에 인텔 패키징 기술도 활용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240201084257</link>
-            <guid>https://zdnet.co.kr/view/?no=20240201084257</guid>
-            <pubDate>Thu, 01 Feb 2024 01:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 서버용 GPU 생산량 확대를 위해 이르면 올해 2분기부터 대만 TSMC 이외에 인텔 3차원 반도체 적층 기술을 활용할 전망이다. 대만 경제일보(經濟日報)는 31일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 부하 응답 특성 높인 차량용 프라이머리 LDO 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240201092832</link>
-            <guid>https://zdnet.co.kr/view/?no=20240201092832</guid>
-            <pubDate>Thu, 01 Feb 2024 01:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 차량용 배터리로 동작하는 자동차 전장품 및 ECU(전자제어유닛) 등 전원에 최적화된 프라이머리 LDO 레귤레이터(이하 LDO)를 개발했다고 1일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
