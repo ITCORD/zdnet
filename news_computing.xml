@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 22:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 23:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인프라닉스, 보안기능 강화 PaaS 솔루션 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240207072519</link>
+            <guid>https://zdnet.co.kr/view/?no=20240207072519</guid>
+            <pubDate>Tue, 06 Feb 2024 23:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[인프라닉스(대표 송영선)는 기존 자사의 데브옵스(DevOps) PaaS 솔루션 '시스마스터 k8s(SysMaster k8s)'가 제공하는 애플리케이션 라이프 사이클에 보안 기능...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["산불 더 빨리 막는다"…정부, 재난·범죄 방지 기술 AI로 개선]]></title>
             <link>https://zdnet.co.kr/view/?no=20240206180026</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240206102453</guid>
             <pubDate>Tue, 06 Feb 2024 01:41:30 GMT</pubDate>
             <content:encoded><![CDATA[롯데정보통신이 설 명절을 맞아 협력사를 대상으로 돈보따리를 푼다. 롯데정보통신은 약 4주 가량을 앞당겨 납품 대금 약 220억 원을 파트너사에 조기 지급했다고 6일 밝혔다. 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지, LG 노트북에 AI 모델 넣는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240206081558</link>
-            <guid>https://zdnet.co.kr/view/?no=20240206081558</guid>
-            <pubDate>Tue, 06 Feb 2024 01:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지(대표 김성훈)의 인공지능(AI) 기술이 LG전자 노트북 '그램'에 적용될 예정이다. 이용자는 인터넷 연결 없이도 노트북 차제에서 AI 기능을 활용할 수 있다. 업스테...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
