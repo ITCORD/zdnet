@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 23:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 00:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 라이젠 CPU+SoC 결합 '임베디드+' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240206223750</link>
+            <guid>https://zdnet.co.kr/view/?no=20240206223750</guid>
+            <pubDate>Wed, 07 Feb 2024 00:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 7일 라이젠 프로세서와 버설(Versal) 적응형 SoC(시스템반도체)를 결합한 임베디드 솔루션인 '임베디드+'(Embedded+)를 출시했다. 2022년 인수를 마친...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TSMC, 日 2공장 착공 공식화…"2027년 가동 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240207072428</link>
+            <guid>https://zdnet.co.kr/view/?no=20240207072428</guid>
+            <pubDate>Wed, 07 Feb 2024 00:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 TSMC가 일본 제2공장 착공 계획을 공식 발표했다고 로이터통신 등이 6일(현지시간) 보도했다. TSMC와 소니그룹, 덴소의 합작사 JASM은 지난 2021년부터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 화웨이, 美 제재에도 올해 5나노 칩 생산 돌입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240207001456</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240205092024</guid>
             <pubDate>Mon, 05 Feb 2024 01:47:23 GMT</pubDate>
             <content:encoded><![CDATA[DB하이텍은 2023년 연결기준 매출액이 1조1천578억 원, 영업이익이 2천663억 원, 영업이익률이 23%로 잠정 집계됐다고 5일 공시를 통해 밝혔다. 이번 실적은 전년 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루엠 멕시코 신공장 준공…ESL∙전장 글로벌 전초기지로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240204092315</link>
-            <guid>https://zdnet.co.kr/view/?no=20240204092315</guid>
-            <pubDate>Sun, 04 Feb 2024 01:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[솔루엠이 멕시코 신공장 가동을 본격 시작하면서 전자가격표시기(ESL), 전장사업 글로벌 확대를 위한 발판을 마련했다. 솔루엠은 2일(현지 시간) 멕시코 티후아나에서 신규 생산법...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['반도체 강국 명성 되찾자'...日, 올해 다국적 기업 팹 잇따라 가동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240202154827</link>
-            <guid>https://zdnet.co.kr/view/?no=20240202154827</guid>
-            <pubDate>Fri, 02 Feb 2024 08:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[일본을 신규 거점으로 한 다국적 반도체 제조시설이 올해 잇달아 가동을 시작한다. TSMC, 웨스턴디지털(WD), 키옥시아, 르네사스, 로옴, 도시바 등이 해당된다. 80년대까지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
