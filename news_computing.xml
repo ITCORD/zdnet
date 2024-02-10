@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 09:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 10:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임 "르쿤, 오픈소스로 AI발전 기여"···'2024 영향력 인물' 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240210185933</link>
+            <guid>https://zdnet.co.kr/view/?no=20240210185933</guid>
+            <pubDate>Sat, 10 Feb 2024 10:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[AI 4대 천왕중 한명인 얀 르쿤(Yann LeCun, 본명 Yann André LeCun) 미국 뉴욕대 교수이자 메타(Meta)의 수석 AI과학자가 세계 최대 규모 주간지 미...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["엔비디아, 40조 규모 맞춤형 AI 칩 시장 진출한다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240210073348</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240208085755</guid>
             <pubDate>Thu, 08 Feb 2024 00:41:16 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 생성형 인공지능(AI) 서비스 '코파일럿'의 디자인 업데이트를 발표했다. 7일(현지시간) 마이크로소프트는 미국 슈퍼볼 광고 출시에 맞춰 마이크로소프트 코파일럿의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트캠프 "고객 접점서 전폭 지원"···'2024 파트너 데이' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240207224755</link>
-            <guid>https://zdnet.co.kr/view/?no=20240207224755</guid>
-            <pubDate>Wed, 07 Feb 2024 14:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[소프트캠프(대표 배환국)가 7일 양재 엘타워에서 '2024 파트너 데이'를 개최했다. 이 행사는 소프트캠프와 전국 파트너사들이 모여 성공사례를 공유하고 지속적인 발전과 상생을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
