@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 04:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 05:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이비씨티-에코플레닛, 탄소감축 위해 맞손]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240211135215</link>
+            <guid>https://zdnet.co.kr/view/?no=20240211135215</guid>
+            <pubDate>Sun, 11 Feb 2024 05:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[분산ID(DID) 기반 데이터플랫폼 서비스 전문 기술기업 아이비씨티(IBCT, 대표 이정륜)가 탄소감축 플랫폼서비스 기업 에코플레닛(대표 한해수)과 협력한다. 아이비씨티는 자사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/11/d195b120a4ad9e17e78b410700ca7404-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 첫 달 동안 122개 의료제품 품목 허가받아]]></title>
             <link>https://zdnet.co.kr/view/?no=20240211112027</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240211103924</guid>
             <pubDate>Sun, 11 Feb 2024 02:18:26 GMT</pubDate>
             <content:encoded><![CDATA[소셜네트워크서비스(SNS) 인스타그램, 스레드 운영사 메타가 정치적인 이슈가 담긴 콘텐츠 추천을 중단한다. 메타는 인스타그램과 텍스트 기반 서비스 스레드에서 정치 콘텐츠를 적극...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/11/e162fb8294e4469c039308676566aa01-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["사람보다 드론 잘 포착"…이스라엘군, AI 기술 전쟁 투입]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240210213855</guid>
             <pubDate>Sat, 10 Feb 2024 13:10:02 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 50억 달러(약 6조6천억 원) 규모의 국립반도체기술센터(National Semiconductor Technology Center, NSTC)를 출범시킨다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[늦은 밤까지 '귀경 전쟁'…부산→서울 5시간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240210195732</link>
-            <guid>https://zdnet.co.kr/view/?no=20240210195732</guid>
-            <pubDate>Sat, 10 Feb 2024 11:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[설날인 10일 본격화된 귀경 전쟁이 늦은 밤까지 이어질 것으로 보인다. 귀성 방향 정체는 상당 부분 완화된 모습이다. 한국도로공사에 따르면 이날 오후 6시 기준 경부고속도로 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
