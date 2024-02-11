@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 02:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 03:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 첫 달 동안 122개 의료제품 품목 허가받아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240211112027</link>
+            <guid>https://zdnet.co.kr/view/?no=20240211112027</guid>
+            <pubDate>Sun, 11 Feb 2024 03:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[새해 첫 달 동안 총 122개의 의료제품이 규제당국으로부터 허가를 획득했다. 식품의약품안전처가 허가한 올해 1월 의료제품들은 의약품 24개·의약외품 9개·의료기기 89개 등이었...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/11/ac59cb79f84c9791e96e3cc58578f964-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타 "인스타·스레드서 정치 콘텐츠 추천 안 해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240211103924</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240211102715</guid>
             <pubDate>Sun, 11 Feb 2024 02:18:26 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘군이 인공지능(AI) 기반 무기를 팔레스타인 무장정파 하마스와 진행 중인 전쟁에 투입했다. AI는 육안으로 보기 힘든 드론이나 적군 움직임을 인식·사격 지원을 한다. 이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/11/7f729bf313edb6cec9d5d0279489888e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1분건강] 설 연휴 응급처치법을 알아보자]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240210195732</guid>
             <pubDate>Sat, 10 Feb 2024 11:07:07 GMT</pubDate>
             <content:encoded><![CDATA[설날인 10일 본격화된 귀경 전쟁이 늦은 밤까지 이어질 것으로 보인다. 귀성 방향 정체는 상당 부분 완화된 모습이다. 한국도로공사에 따르면 이날 오후 6시 기준 경부고속도로 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 알트먼 "비전 프로, 아이폰 이후 두 번째로 인상적인 기술"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240210195328</link>
-            <guid>https://zdnet.co.kr/view/?no=20240210195328</guid>
-            <pubDate>Sat, 10 Feb 2024 11:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트먼 오픈AI 최고 경영자(CEO)가 애플의 혼합현실(MR) 헤드셋 '비전 프로'에 대해 아이폰 이후 두 번째로 인상적인 기술이라고 평가했다고 비즈니스인사이더(BI)가 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
