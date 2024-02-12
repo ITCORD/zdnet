@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 00:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 01:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["수 개월 걸리는 데이터 플랫폼 구축, 클라우드로 한번에"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240209100800</link>
+            <guid>https://zdnet.co.kr/view/?no=20240209100800</guid>
+            <pubDate>Mon, 12 Feb 2024 01:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[전 산업에 걸쳐 디지털전환(DX) 열풍이 불고 있다. 끝이 보이지 않는 불황과 전쟁, 이상기온, 팬데믹 등 불확실성의 확대에 대처하기 위해 인공지능(AI)와 데이터 분석의 의존...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 안드로이드 앱에서 C++와 러스트 함께 쓴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240211235519</link>
+            <guid>https://zdnet.co.kr/view/?no=20240211235519</guid>
+            <pubDate>Mon, 12 Feb 2024 01:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 C++ 기반 안드로이드 앱의 메모리 오류를 제거하기 위해 러스트를 함께 사용하는 방안을 연구한다. 최근 뉴스택 등 외신에 따르면 구글은 러스트 재단에 100만 달러의 연...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국경 넘는 해킹 공격에 국가간 사이버전쟁 '격화']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240209195048</link>
+            <guid>https://zdnet.co.kr/view/?no=20240209195048</guid>
+            <pubDate>Mon, 12 Feb 2024 01:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국경을 넘는 사이버 해킹 공격이 지속 발생하는 추세다. 미국과 중국을 중심으로한 사이버 전쟁이 격화하는 한편 국내에서도 북한이 배후세력으로 의심되는 미상의 해커조직이 개인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["20년간 매출 꺾인 적 없다"…상장 앞둔 RSN, 성공 비결은]]></title>
             <link>https://zdnet.co.kr/view/?no=20240208150639</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240208135039</guid>
             <pubDate>Thu, 08 Feb 2024 05:11:16 GMT</pubDate>
             <content:encoded><![CDATA[티맥스가이아(대표 이동석)의 문서 관리 협업 플랫폼 '와플닥스'가 정부로부터 품질 인증을 받았다. 티맥스가이아는 지난 6일 와플닥스가 소프트웨어 품질인증(GS) 인증 1등급을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 지방세입정보시스템, 설 연휴 납부 서비스 일시중단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208102927</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208102927</guid>
-            <pubDate>Thu, 08 Feb 2024 05:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[전국 세무행정을 통합·개선하는 차세대 지방세입정보시스템이 설 연휴 기간 시스템 통합과 데이터 이전 작업을 위해 전국 지자체 납세 서비스가 일시 중단된다. 8일 차세대지방세입정보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윈도서버2025 가을 출시…역대급 업데이트 예고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208124622</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208124622</guid>
-            <pubDate>Thu, 08 Feb 2024 04:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 온프레미스 서버용 운영체제(OS)의 차세대 버전인 '윈도서버 2025'를 오는 가을 중 출시한다. 윈도서버2025는 핫패치, 차세대 액티브디렉토리(AD) 및 S...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아 시총 1.7조 달러 돌파…아마존 제칠까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208104831</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208104831</guid>
-            <pubDate>Thu, 08 Feb 2024 02:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국 반도체기업 엔비디아의 주가가 7일(현지시간) 3% 가량 오르면서 종가 기준으로 사상 처음 700달러를 돌파했다. 이 같은 주가 상승에 힘입어 엔비디아는 아마존의 시가총액을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
