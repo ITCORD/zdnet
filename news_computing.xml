@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 12:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 13:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UAE AI기업 G42 "중국기업 지분 다 팔아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240212211834</link>
+            <guid>https://zdnet.co.kr/view/?no=20240212211834</guid>
+            <pubDate>Mon, 12 Feb 2024 13:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[아랍에미리트(UAE) 수도 아부다비에 있는 중동 대표적 AI기업 G42(Group42)가 미국 정부에 우호 제스처를 던졌다. G42는 석유 수익 대안으로 AI 산업을 키우고 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리 동네 최신 위성지도, '국토정보플랫폼'에서 확인해요]]></title>
             <link>https://zdnet.co.kr/view/?no=20240212122556</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240208164610</guid>
             <pubDate>Thu, 08 Feb 2024 09:10:07 GMT</pubDate>
             <content:encoded><![CDATA[정부가 사이버안보 위협 세력의 ICT 공급망 공격에 체계적으로 대응하기 위해 세부적인 대응책을 강구한다. 국가정보원과 과학기술정보통신부는 8일 'ICT 공급망 보안 가이드라인'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, AI로 만든 이미지에 워터마크 붙인다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208170926</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208170926</guid>
-            <pubDate>Thu, 08 Feb 2024 09:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[구글, 메타에 이어 오픈AI도 자사 인공지능(AI)으로 생성된 이미지에 특정 표시를 넣기로 했다. 오픈AI는 7일(현지시간) 공식 홈페이지를 통해 자사 이미지 생성형 AI 도구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
