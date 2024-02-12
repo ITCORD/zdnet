@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 03:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 04:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 동네 최신 위성지도, '국토정보플랫폼'에서 확인해요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240212122556</link>
+            <guid>https://zdnet.co.kr/view/?no=20240212122556</guid>
+            <pubDate>Mon, 12 Feb 2024 04:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부 국토지리정보원은 한반도 전역 모습을 담은 최신국토위성 정사영상을 다운로드 없이도 웹에서 바로 확인할 수 있는 국토위성 기반 영상지도(국토위성지도)를 14일부터 제공한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈AI·아마존·구글이 나섰다…美서 만든 AI 연구소 뭐길래?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240212122319</link>
+            <guid>https://zdnet.co.kr/view/?no=20240212122319</guid>
+            <pubDate>Mon, 12 Feb 2024 04:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 정부 주도로 안전하고 신뢰할 수 있는 인공지능(AI)을 개발하기 위한 본격적인 움직임에 착수했다. 11일(현지시간) 미국 상무부에 따르면 AI 역량평가, 위험 관리, 합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다쏘시스템, '솔리드웍스 2024' 활용 트렌드 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240212100759</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240208170926</guid>
             <pubDate>Thu, 08 Feb 2024 09:10:07 GMT</pubDate>
             <content:encoded><![CDATA[구글, 메타에 이어 오픈AI도 자사 인공지능(AI)으로 생성된 이미지에 특정 표시를 넣기로 했다. 오픈AI는 7일(현지시간) 공식 홈페이지를 통해 자사 이미지 생성형 AI 도구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 3월 중 범정부 사이버위협 대응훈련 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208133719</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208133719</guid>
-            <pubDate>Thu, 08 Feb 2024 06:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 오는 3월 국가 사이버위기관리단을 중심으로 범국가 차원 사이버위협 대응훈련을 실시한다. 8일 국가정보원은 전날 열린 사이버보안 기관별 대비태세 점검회의에서 이 같이 결정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 보안 시장 클라우드 중심으로 세대교체]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208140340</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208140340</guid>
-            <pubDate>Thu, 08 Feb 2024 06:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[팔로알토네트웍스, 체크포인트, 시만텍, 시스코 등이 주도했던 사이버 보안 시장이 클라우드 기반 기업으로 세대교체됐다. 미국 주식 시장 시가총액 10대 기업을 살펴보면, 그 변화...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
