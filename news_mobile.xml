@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 05:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 06:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 美 버라이즌과 5G 오픈랜 적합성 테스트 완료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213140444</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213140444</guid>
+            <pubDate>Tue, 13 Feb 2024 06:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 미국 최대 이동통신사인 버라이즌과 LTE와 5G NR(New Radio)에 대한 오픈랜(O-RAN: 개방형 무선접속망) 적합성 및 상호 운용성 테스트를 완료했다. 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤S24 울트라 vs 아이폰15 프로맥스, 같이 떨어뜨렸더니…]]></title>
             <link>https://zdnet.co.kr/view/?no=20240213104247</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240208135454</guid>
             <pubDate>Sat, 10 Feb 2024 03:11:23 GMT</pubDate>
             <content:encoded><![CDATA[5G 장비 업체들 실적이 나란히 내리막길을 걷고 있다. 5G(5세대 이동통신) 시장 성장이 둔화한 영향 때문이다. 10일 업계에 따르면 주요 통신장비 업체 에릭슨, 노키아, 삼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["20년 연구한 웨어러블 로봇으로 곧 상장해요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208113802</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208113802</guid>
-            <pubDate>Sat, 10 Feb 2024 03:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 입는 로봇을 하나씩 갖게 되는 세상이 다가온다. 웨어러블(착용형) 로봇 개발에 삼성전자를 비롯해 각종 산업계가 관심을 갖기 시작했다. 개인 보조나 치료 목적부터 산업·군...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
