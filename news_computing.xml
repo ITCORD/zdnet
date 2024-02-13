@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 14:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 15:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전문가 기고] 디지털플랫폼정부가 성공하려면(중)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213233630</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213233630</guid>
+            <pubDate>Tue, 13 Feb 2024 15:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라는 1990년대에 행정전산망을 구축했다. 이후 2000년대 이후에는 디지털 정부 구현을 목표로 서비스 범위를 확대하면서 수준을 고도화했다. 그 결과, 2022년 UN의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["클라우드로 매출은 올랐는데"…안랩, 영업익 '뚝']]></title>
             <link>https://zdnet.co.kr/view/?no=20240213174537</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240213094655</guid>
             <pubDate>Tue, 13 Feb 2024 01:42:03 GMT</pubDate>
             <content:encoded><![CDATA[구글의 프로그래밍 언어 고(GO)가 프로그래밍 인기 순위 역대 최고 순위인 8위를 기록했다. 12일(현지시간) 인포월드 등 외신에 따르면 소스코드 품질평가 기업인 티오베는 프로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다쏘시스템 회장 "AI가 미래 설계 판도 바꾼다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213021256</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213021256</guid>
-            <pubDate>Tue, 13 Feb 2024 00:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[[댈러스(미국)=김미정 기자] "인공지능(AI)은 미래 설계 판도를 바꿀 것입니다. 디자이너들은 AI와 대화하면서 제품 설계를 간편히 할 수 있을 것입니다. 원하는 제품 디자인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
