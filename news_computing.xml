@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 04:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다우오피스, 구글 클라우드로 서비스 운영 환경 전환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213135057</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213135057</guid>
+            <pubDate>Tue, 13 Feb 2024 05:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[다우기술(대표 김윤덕)이 업무 플랫폼 '다우오피스'의 서비스 운영 환경을 구글 클라우드로 전환한다고 13일 밝혔다. 이를 통해 업무플랫폼 비즈니스 확대의 기반을 마련하고, 서비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["LLM 만난 AI컨택센터, 상담원 같은 서비스 원년 될 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213131848</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213131848</guid>
+            <pubDate>Tue, 13 Feb 2024 05:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[“그동안 인공지능 컨택센터(AICC)는 데이터가 파편화되고 대규모언어모델(LLM)을 지원하지 않아 상담원 같은 자연스러움을 느낄 수 없었다. 이제는 고객에 최적화된 서비스를 제...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[라온시큐어, DGB대구은행 내부통제 혁신 시스템 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213121928</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213121928</guid>
+            <pubDate>Tue, 13 Feb 2024 05:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[라온시큐어는 자사 생체인증 솔루션을 중심으로 DGB대구은행의 내부통제 혁신을 위한 '개인화된 인증 시스템'을 구축해 공개했다고 13일 밝혔다. 이번 사업은 DGB대구은행의 전산...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시스코-엔비디아, 'AI 네트워킹' 동맹 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20240213115639</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240209100800</guid>
             <pubDate>Mon, 12 Feb 2024 01:42:07 GMT</pubDate>
             <content:encoded><![CDATA[전 산업에 걸쳐 디지털전환(DX) 열풍이 불고 있다. 끝이 보이지 않는 불황과 전쟁, 이상기온, 팬데믹 등 불확실성의 확대에 대처하기 위해 인공지능(AI)와 데이터 분석의 의존...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 안드로이드 앱에서 C++와 러스트 함께 쓴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240211235519</link>
-            <guid>https://zdnet.co.kr/view/?no=20240211235519</guid>
-            <pubDate>Mon, 12 Feb 2024 01:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 C++ 기반 안드로이드 앱의 메모리 오류를 제거하기 위해 러스트를 함께 사용하는 방안을 연구한다. 최근 뉴스택 등 외신에 따르면 구글은 러스트 재단에 100만 달러의 연...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국경 넘는 해킹 공격에 국가간 사이버전쟁 '격화']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240209195048</link>
-            <guid>https://zdnet.co.kr/view/?no=20240209195048</guid>
-            <pubDate>Mon, 12 Feb 2024 01:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국경을 넘는 사이버 해킹 공격이 지속 발생하는 추세다. 미국과 중국을 중심으로한 사이버 전쟁이 격화하는 한편 국내에서도 북한이 배후세력으로 의심되는 미상의 해커조직이 개인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["20년간 매출 꺾인 적 없다"…상장 앞둔 RSN, 성공 비결은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240208150639</link>
-            <guid>https://zdnet.co.kr/view/?no=20240208150639</guid>
-            <pubDate>Mon, 12 Feb 2024 00:43:09 GMT</pubDate>
-            <content:encoded><![CDATA["올해 설립 20주년을 맞아 주주들에게 친밀하게 다가갈 수 있도록 사명을 교체할 계획을 가지고 있습니다. 내년 초에는 정식 상장해 제2의 성장을 이끌겠습니다." 지난 6일 오후...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
