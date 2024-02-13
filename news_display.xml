@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 00:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 01:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로칩, 차량 내 사이버 보안 강화 위해 'ISO/SAE 21434표준' 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213090940</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213090940</guid>
+            <pubDate>Tue, 13 Feb 2024 01:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로칩테크놀로지는 최근 제3자 기관인 UL 솔루션의 감사를 통해 'ISO/SAE 21434표준' 인증을 획득했다고 13일 밝혔다. 국제표준화기구(ISO)와 국제자동차공학회(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠슨 황 엔비디아 "세계 각국, AI 인프라 독자 구축해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240213073743</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240207090733</guid>
             <pubDate>Wed, 07 Feb 2024 01:41:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 주요 반도체 장비기업 어플라이드머티어리얼즈(AMAT)는 '우수 공급업체 어워드' 수상자를 발표했다고 7일 밝혔다. 어플라이드 우수 공급업체 어워드는 품질, 서비스, 납기,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 라이젠 CPU+SoC 결합 '임베디드+' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240206223750</link>
-            <guid>https://zdnet.co.kr/view/?no=20240206223750</guid>
-            <pubDate>Wed, 07 Feb 2024 00:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 7일 라이젠 프로세서와 버설(Versal) 적응형 SoC(시스템반도체)를 결합한 임베디드 솔루션인 '임베디드+'(Embedded+)를 출시했다. 2022년 인수를 마친...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

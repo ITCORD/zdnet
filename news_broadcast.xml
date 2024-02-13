@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 00:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 01:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인도 정부, 올해 5G 주파수 추가 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240213102859</link>
+            <guid>https://zdnet.co.kr/view/?no=20240213102859</guid>
+            <pubDate>Tue, 13 Feb 2024 01:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[인도가 올해 5G 주파수 경매를 진행한다. 새롭게 공급하는 주파수의 기준 가격은 9천630억 인도루피(INR)다. 한화로 15조4천억원 수준이다. 12일(현지시간) RCR와이어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 글로벌 AI 연구기관 벡터연구소 주최 컨퍼런스 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20240213092144</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240207170240</guid>
             <pubDate>Wed, 07 Feb 2024 08:11:37 GMT</pubDate>
             <content:encoded><![CDATA[이동통신 3사의 패스(PASS) 앱에서 제공되는 모바일 운전면허 확인서비스에서 주민번호 뒷자리 확인이 가능해진다. 과학기술정보통신부는 7일 패스 앱의 모바일 운전면허 확인서비스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT 웨이브 "설연휴 추천작 '재벌X형사' '강심장' 둘러보세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240207162124</link>
-            <guid>https://zdnet.co.kr/view/?no=20240207162124</guid>
-            <pubDate>Wed, 07 Feb 2024 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[웨이브가 설 연휴를 맞아 드라마 '재벌X형사'부터 예능 '강심장VS' 등 추천작 15편을 7일 공개했다. 강력팀 형사가 된 재벌3세 이야기를 담은 재벌X형사는 배우 안보현이 재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
