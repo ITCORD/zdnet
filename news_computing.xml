@@ -4,15 +4,31 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 07:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 08:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["뭐 하나 달라진 게 없다"...행정망 종합 대책 발표 보름 만에 '먹통' 사태만 3건]]></title>
+            <title><![CDATA[한국시스템보증, 민간1호암호모듈 검증 시험기관 지정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240214164033</link>
+            <guid>https://zdnet.co.kr/view/?no=20240214164033</guid>
+            <pubDate>Wed, 14 Feb 2024 08:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[한국시스템보증(KOSYAS)이 민간 기업으로 첫번째 암호모듈 검증 시험기관(KCMVP)이 됐다. 국가정보원은 14일, 암호모듈 검증 민간 시험기관으로 KOSYAS를 지정했고 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[다쏘시스템 "3D 설계 돕는 생성형 AI 모델 개발 중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240214100504</link>
+            <guid>https://zdnet.co.kr/view/?no=20240214100504</guid>
+            <pubDate>Wed, 14 Feb 2024 08:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[[댈러스(미국)=김미정 기자] "다쏘시스템은 3D 설계를 돕는 생성형 인공지능(AI) 모델을 개발하고 있습니다. 설계자는 솔리드웍스를 비롯한 자사 소프트웨어(SW)에서 제품 스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["달라진 게 없다"...행정망 종합대책 보름 만에 3차례 '먹통']]></title>
             <link>https://zdnet.co.kr/view/?no=20240214155454</link>
             <guid>https://zdnet.co.kr/view/?no=20240214155454</guid>
             <pubDate>Wed, 14 Feb 2024 07:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[행정전산망 신뢰제고 대책이 발표된 지 채 보름도 되지 않아 정부 각 부처 전산망이 연쇄적으로 마비되면서 혼선을 빚고 있다. 정부연구지원시스템에서 행정안전부 재난포털까지 유형을 ...]]></content:encoded>
+            <content:encoded><![CDATA[행정전산망 신뢰제고 대책이 발표된 지 채 보름도 되지 않아 정부 각 부처 전산망이 연쇄적으로 마비되면서 혼선을 빚고 있다. 정부연구지원시스템에서 행정안전부 재난포털까지 연이어 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240213091933</guid>
             <pubDate>Wed, 14 Feb 2024 00:41:31 GMT</pubDate>
             <content:encoded><![CDATA[[댈러스(미국)=김미정 기자] 다쏘시스템이 3D 시뮬레이션 분야에서 오픈 생태계 구축을 강화할 방침이다. 자사 3D 제품 개발 솔루션 '솔리드웍스' 활용 사례를 공개하면서 생태...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셈, 상장 9년만에 첫 배당···기보유 자기주식 전체 현물배당]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213225007</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213225007</guid>
-            <pubDate>Tue, 13 Feb 2024 21:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[코스닥 상장사 엑셈(대표 조종암, 고평석)이 2015년 상장 이래 9년만에 처음으로 배당 지급을 결정하며 주주친화 정책을 시행했다. 13일 엑셈은 이사회 결의를 통해 기보유하고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[전문가 기고] 디지털플랫폼정부가 성공하려면(중)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240213233630</link>
-            <guid>https://zdnet.co.kr/view/?no=20240213233630</guid>
-            <pubDate>Tue, 13 Feb 2024 15:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라는 1990년대에 행정전산망을 구축했다. 이후 2000년대 이후에는 디지털 정부 구현을 목표로 서비스 범위를 확대하면서 수준을 고도화했다. 그 결과, 2022년 UN의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
