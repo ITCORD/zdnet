@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3세대 악성코드 진단 기술로 패러다임 전환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240215112708</link>
+            <guid>https://zdnet.co.kr/view/?no=20240215112708</guid>
+            <pubDate>Thu, 15 Feb 2024 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 전환을 넘어 AI 트랜스포메이션 시대입니다. 디지털 인프라의 근간은 사이버 보안입니다. 급변하는 환경 속에서 언제나 변화해야만 살아남는 방패를 만드는 사람들. 창의적인 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수세, 통신사용 어댑티브 인프라 플랫폼 새 버전 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240215114901</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240214100504</guid>
             <pubDate>Wed, 14 Feb 2024 08:12:35 GMT</pubDate>
             <content:encoded><![CDATA[[댈러스(미국)=김미정 기자] "다쏘시스템은 3D 설계를 돕는 생성형 인공지능(AI) 모델을 개발하고 있습니다. 설계자는 솔리드웍스를 비롯한 자사 소프트웨어(SW)에서 제품 스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["달라진 게 없다"...행정망 종합대책 보름 만에 3차례 '먹통']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240214155454</link>
-            <guid>https://zdnet.co.kr/view/?no=20240214155454</guid>
-            <pubDate>Wed, 14 Feb 2024 07:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[행정전산망 신뢰제고 대책이 발표된 지 채 보름도 되지 않아 정부 각 부처 전산망이 연쇄적으로 마비되면서 혼선을 빚고 있다. 정부연구지원시스템에서 행정안전부 재난포털까지 연이어 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
