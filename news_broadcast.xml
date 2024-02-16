@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 00:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 01:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["설 당일 티맵 하루 이용자 555만명"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240216083254</link>
+            <guid>https://zdnet.co.kr/view/?no=20240216083254</guid>
+            <pubDate>Fri, 16 Feb 2024 01:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난 설 명절 당일 모빌리티 플랫폼 티맵 하루 이용자수가 전년 대비 9.23% 늘어난 것으로 조사됐다. 이번 연휴에는 복합 쇼핑몰 스타필드 수원과 인청 영종도 모히건 인스파이어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유진이엔티, YTN 지분 인수 완료…매각잔금 납입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240215204519</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240214085427</guid>
             <pubDate>Wed, 14 Feb 2024 00:41:25 GMT</pubDate>
             <content:encoded><![CDATA[KT가 새 학기가 시작되는 다음 달부터 랑톡에서 인공지능(AI) 통화리포트 서비스를 제공한다고 14일 밝혔다. 랑톡은 교사가 개인 휴대폰 번호를 노출하지 않고 학생이나 학부모와...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[T맵 오토, BMW 차량에도 올라탄다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240214085906</link>
-            <guid>https://zdnet.co.kr/view/?no=20240214085906</guid>
-            <pubDate>Wed, 14 Feb 2024 00:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[BMW 차량에 TMAP 오토가 탑재된다. BMW 차량 인포테인먼트에 TMAP 차량 내장형 내비게이션이 탑재된 것은 처음이다. TMAP 오토는 모바일 TMAP의 차별화 된 서비스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
