@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 03:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 04:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국세청 홈택스 AI 전환, 아이티센이 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240216120624</link>
+            <guid>https://zdnet.co.kr/view/?no=20240216120624</guid>
+            <pubDate>Fri, 16 Feb 2024 04:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[국세청에서 실시하는 인공지능(AI) 상담서비스를 아이티센이 개발하는 것으로 확인됐다. 16일 지디넷코리아가 확인한 내용에 따르면 국세청의 AI 기반 고도화 홈택스 사업을 아이티...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI "명령어 입력하면 고화질 영상 완성"...AI모델 '소라' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240216105118</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240215145457</guid>
             <pubDate>Thu, 15 Feb 2024 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[실용 AI 기업 무하유가 '국회도서관 융복합서비스 데이터셋 구축 사업'을 마쳤다. 무하유는 이번 사업을 통해 국회도서관에서 제공 중인 AI 의정분석 서비스 '아르고스'에 법률 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티, '2023 앤어워드' 그랑프리 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240215145107</link>
-            <guid>https://zdnet.co.kr/view/?no=20240215145107</guid>
-            <pubDate>Thu, 15 Feb 2024 06:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티가 IT 서비스 분야에서 그랑프리 기업으로 인정받았다. 이스트시큐리티는 국내 1위 스마트폰 보안 앱 '알약M'이 한국디지털기업협회 주관 '2023 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
