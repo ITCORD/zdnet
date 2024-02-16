@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 01:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 02:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI "명령어 입력하면 고화질 영상 완성"...AI모델 '소라' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240216105118</link>
+            <guid>https://zdnet.co.kr/view/?no=20240216105118</guid>
+            <pubDate>Fri, 16 Feb 2024 02:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 간단한 프롬프트 명령어로 60초 분량의 고화질 영상을 제작할 수 있는 생성형 AI 서비스를 공개했다. 15일(현지시간) 테크크런치 등 외신에 따르면 오픈AI는 텍스트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI, 'GPT' 상표권 등록 실패…왜?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240216102245</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240215145107</guid>
             <pubDate>Thu, 15 Feb 2024 06:12:51 GMT</pubDate>
             <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티가 IT 서비스 분야에서 그랑프리 기업으로 인정받았다. 이스트시큐리티는 국내 1위 스마트폰 보안 앱 '알약M'이 한국디지털기업협회 주관 '2023 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라온피플, 5년 연속 'AI 바우처' 공급기업 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240215145226</link>
-            <guid>https://zdnet.co.kr/view/?no=20240215145226</guid>
-            <pubDate>Thu, 15 Feb 2024 06:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[AI 전문기업 라온피플이 정부가 추진하는 'AI 바우처' 지원사업에 5년 연속 공급기업으로 선정됐다. 라온피플은 이번 사업에서 AI비전 검사 솔루션과 함께 AI플랫폼 서비스, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

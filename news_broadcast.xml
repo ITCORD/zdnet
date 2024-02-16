@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 01:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 02:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴대폰 전문상가 가보니..."갤S24 14만5천원에 드려요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240215164535</link>
+            <guid>https://zdnet.co.kr/view/?no=20240215164535</guid>
+            <pubDate>Fri, 16 Feb 2024 02:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[“얼마 생각하고 왔어요? 가격만 보고 가세요.” “지난주 주말보다 비싼데, 그래도 이만하면 괜찮은 가격대죠.” 지난 15일 서울 구로구 신도림 테크노마트 9층에 위치한 휴대폰 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["설 당일 티맵 하루 이용자 555만명"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240216083254</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240214092812</guid>
             <pubDate>Wed, 14 Feb 2024 00:41:25 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 배달 대행 플랫폼 바로고와 제휴를 맺고 U+알뜰폰 공용 유심 원칩을 구매하면 2시간 내로 배송해주는 '지금배송' 서비스를 출시했다고 14일 밝혔다. LG유플러스는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 랑톡에 통화내용 텍스트 변환·감정분석 기능 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240214085427</link>
-            <guid>https://zdnet.co.kr/view/?no=20240214085427</guid>
-            <pubDate>Wed, 14 Feb 2024 00:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 새 학기가 시작되는 다음 달부터 랑톡에서 인공지능(AI) 통화리포트 서비스를 제공한다고 14일 밝혔다. 랑톡은 교사가 개인 휴대폰 번호를 노출하지 않고 학생이나 학부모와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
