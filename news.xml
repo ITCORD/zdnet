@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 03:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 04:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 정부, 인텔에 10조원대 반도체 지원금 지급 논의]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240218120147</link>
+            <guid>https://zdnet.co.kr/view/?no=20240218120147</guid>
+            <pubDate>Sun, 18 Feb 2024 04:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 인텔에 10조원대 반도체 지원금을 지급을 논의중이라고 블룸버그 통신이 17일(현지시간) 보도했다. 이는 미국의 반도체법 지원금 중 최대 규모가 될 전망이다. 블룸버...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/01/22/a72150f2b610116381ddc3a1b5481922-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 공공 마이데이터로 결합상품 서류 제출 간소화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240218091438</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240217131145</guid>
             <pubDate>Sun, 18 Feb 2024 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[디지털 분야 석·박사급 인재가 글로벌 선도인재로 성장하도록 돕는 사업이 올해 처음 시행된다. 과기정통부는 국내 대학 및 대학원을 대상으로 '디지털 분야 글로벌연구지원 사업' 공...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/17/fc18dd55a34302cd22f10dfc4aff8426-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부, 초거대AI 확산 데이터 구축에 558억 투입]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240217181748</guid>
             <pubDate>Sat, 17 Feb 2024 10:09:18 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 롤러블과 폴더블 디스플레이가 결합된 기기 특허를 미국 특허청(USPTO)에 등록했다. IT 팁스터 데이비드 코왈스키(엑스 @xleaks7)가 삼성디스플레이의 특...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["부자 아니다"라는 세계 1위 유튜버 미스터비스트…연봉 9300억원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240217155357</link>
-            <guid>https://zdnet.co.kr/view/?no=20240217155357</guid>
-            <pubDate>Sat, 17 Feb 2024 07:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에 약 2억4000만명의 구독자를 보유한 '세계 1위 유튜버' 미스터비스트(MrBeast)가 "연간 7억 달러(약 9348억원)를 벌어들이지만 부자는 아니다"라고 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
