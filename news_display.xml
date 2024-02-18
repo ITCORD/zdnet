@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 00:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 01:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 2세대 3나노 양산 임박...새로운 MBCFET 기술 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240216172635</link>
+            <guid>https://zdnet.co.kr/view/?no=20240216172635</guid>
+            <pubDate>Sun, 18 Feb 2024 01:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 올해 상반기 2세대 3나노미터(mn) 공정 칩 양산을 앞두고 2세대 MBCFET(Multi Bridge Channel FET) 기술을 내달 4일 세계 반도체 학회인 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 AMAT, 1분기 매출 67.1억 달러…예상치 상회]]></title>
             <link>https://zdnet.co.kr/view/?no=20240216134016</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240214102323</guid>
             <pubDate>Wed, 14 Feb 2024 05:12:04 GMT</pubDate>
             <content:encoded><![CDATA[일본 코쿠사이엘렉트릭이 국내 경쟁사 유진테크에 제기한 특허 소송에 업계의 이목이 쏠리고 있다. 이번 코쿠사이가 침해를 주장한 장비는 원자층증착(ALD) 장비로, 유진테크가 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 글로벌파운드리, 1분기 실적 감소 전망..."AMD·퀄컴 주문 축소"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240214080922</link>
-            <guid>https://zdnet.co.kr/view/?no=20240214080922</guid>
-            <pubDate>Wed, 14 Feb 2024 01:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[미국 파운드리 업체 글로벌파운드리의 1분기 실적이 시장 예상치를 하회할 것으로 예상된다. 13일(현지시간) 로이터통신은 글로벌파운드리의 1분기 실적 감소가 예상된다고 보도하면서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
