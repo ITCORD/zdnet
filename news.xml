@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 12:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 13:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경부, NASA와 아시아 대기질 조사 협력…관측장비 총동원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240218220020</link>
+            <guid>https://zdnet.co.kr/view/?no=20240218220020</guid>
+            <pubDate>Sun, 18 Feb 2024 13:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[환경부 소속 국립환경과학원은 우리나라를 포함한 아시아 대기질 개선과 환경위성(GEMS)의 아시아 관측 자료 검증을 위해 미항공우주국(NASA) 등과 아시아 대기질 공동 조사(A...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/18/d06902cc116e41672c5342237dc4f944-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, AI·자율차 등 신산업 3대 분야에 조사업무 집중]]></title>
             <link>https://zdnet.co.kr/view/?no=20240218151756</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240218164446</guid>
             <pubDate>Sun, 18 Feb 2024 08:11:41 GMT</pubDate>
             <content:encoded><![CDATA[환경부 소속 국립환경인재개발원은 겨울방학을 맞아 환경전공 대학생을 대상으로 19일부터 23일까지 '진로탐색과 직업체험 교육'을 실시한다. 국립환경인재개발원은 2021년부터 환경...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/18/32b56b1c73391f932fedd35987f09e17-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전공의 사직·의대생 휴학에 한덕수 총리 "국민 건강 볼모 삼지 말라”]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240216172635</guid>
             <pubDate>Sun, 18 Feb 2024 01:45:59 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 올해 상반기 2세대 3나노미터(mn) 공정 칩 양산을 앞두고 2세대 MBCFET(Multi Bridge Channel FET) 기술을 내달 4일 세계 반도체 학회인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 싱가포르서 혁신 가전 알리는 '브랜드 경험공간' 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240218092815</link>
-            <guid>https://zdnet.co.kr/view/?no=20240218092815</guid>
-            <pubDate>Sun, 18 Feb 2024 01:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 싱가포르서 브랜드 혁신성을 앞세워 프리미엄 경험공간을 확대한다. LG전자는 최근 싱가포르 대표 관광명소 마리나베이 인근에 위치한 고급 쇼핑몰 밀레니아워크 내 하비노만...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
