@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 02:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 03:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 초거대AI 확산 데이터 구축에 558억 투입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240218115237</link>
+            <guid>https://zdnet.co.kr/view/?no=20240218115237</guid>
+            <pubDate>Sun, 18 Feb 2024 03:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[과기정통부가 대규모 원천 데이터와 파인튜닝 데이터 수집에 초점을 맞춘 '초거대 AI 확산 생태계 조성 사업'을 올해 처음으로 실시, 558억원을 투입한다. 이 사업은 기존 'A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI, 커머스·서비스 시장서 고객 만족 이끄는 핵심 키워드]]></title>
             <link>https://zdnet.co.kr/view/?no=20240218111739</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240215220452</guid>
             <pubDate>Thu, 15 Feb 2024 13:10:13 GMT</pubDate>
             <content:encoded><![CDATA['신뢰할 수 있는 인공지능 국제연대(TRAIN 글로벌)'는 오는 22~23일 이틀간 판교 소재 '그래비티 서울 판교 오토그래프 컬렉션'에서 국제심포지엄(TRAIN 심포지엄)을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔리빅스 AI 카메라, GS 인증 1등급 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240215214357</link>
-            <guid>https://zdnet.co.kr/view/?no=20240215214357</guid>
-            <pubDate>Thu, 15 Feb 2024 13:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[비전AI 전문기업 인텔리빅스(대표 최은수, 장정훈)는 독자 개발한 AI카메라(이하 VIXCAM)가 한국정보통신기술협회(TTA)의 GS인증 1등급을 획득했다고 15일 밝혔다. G...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
