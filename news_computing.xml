@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 02:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 03:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["유통업체 70% 이상, 매출 감소로 어려움 겪어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240219115309</link>
+            <guid>https://zdnet.co.kr/view/?no=20240219115309</guid>
+            <pubDate>Mon, 19 Feb 2024 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[아태지역 유통업체 10곳 중 7곳은 부정행위 등으로 인한 매출 감소로 어려움을 겪고 있으며, 이를 극복하기 위해 수요 예측 능력을 향상을 요구하는 것으로 나타났다. 지브라 테크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[몽고DB, '아틀라스 스트림 프로세싱' 공개 프리뷰 버전 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240219114415</link>
+            <guid>https://zdnet.co.kr/view/?no=20240219114415</guid>
+            <pubDate>Mon, 19 Feb 2024 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[몽고DB는 아틀라스 스트림 프로세싱의 퍼블릭 프리뷰 버전을 19일 공개했다. 아틀라스 스트림 프로세싱은 높은 도큐먼트 모델 유연성 및 사용 편의성을 제공하고 쿼리 API를 지원...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 파일 속 숨겨진 악성코드 AI로 식별한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240219095227</link>
+            <guid>https://zdnet.co.kr/view/?no=20240219095227</guid>
+            <pubDate>Mon, 19 Feb 2024 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 파일 속에 숨겨진 악성코드를 자동으로 식별하는 인공지능(AI) 도구를 오픈소스로 공개했다. 최근 더레지스터 등 외신에 따르면 구글은 깃허브에 기계학습(ML)기반 파일 식...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제네시스, LG유플러스에 AI 컨택센터 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20240219101837</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240216100411</guid>
             <pubDate>Fri, 16 Feb 2024 07:09:29 GMT</pubDate>
             <content:encoded><![CDATA[행정전산망 먹통 사태가 연쇄적으로 발생하는 가운데 한국장학재단의 모바일 앱에도 먹통 사태가 발생해 혼선을 빚은 것으로 확인됐다. 특히 한국장학재단의 전산망은 이미 수차례 오류가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 주도권 우리가 잡는다"…글로벌 빅테크, 신기술 경쟁 치열]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240216154205</link>
-            <guid>https://zdnet.co.kr/view/?no=20240216154205</guid>
-            <pubDate>Fri, 16 Feb 2024 07:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI) 기술 경쟁이 본격화되면서 글로벌 빅테크 기업들이 시장 주도권 확보를 위해 분주히 움직이는 모양새다. 오픈AI와 구글이 앞다퉈 신기술을 선보이면서 AI 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미소정보기술, 비라벨링 데이터 솔루션 '데이터스캔' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240216150555</link>
-            <guid>https://zdnet.co.kr/view/?no=20240216150555</guid>
-            <pubDate>Fri, 16 Feb 2024 06:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[의료 및 산업분야에 최적화된 비(非)라벨링 데이터 표준화 솔루션이 출시했다. 미소정보기술(대표 안동욱)은 대규모언어모델(LLM) AI 구축과 소규모언어모델(sLLM) AI 구축...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포지큐브, 한국마이크로소프트 '코리아 솔루션 파트너 어워드' 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240216145614</link>
-            <guid>https://zdnet.co.kr/view/?no=20240216145614</guid>
-            <pubDate>Fri, 16 Feb 2024 06:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[포지큐브가 한국마이크로소프트의 '2024 코리아 솔루션 파트너 어워드'에서 'ISV 부문 탑 파트너' 상을 수상했다고 16일 밝혔다. 코리아 솔루션 파트너 어워드는 마이크로소프...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
