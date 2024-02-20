@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 20:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 21:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스코웍스, 웹소설 작가용 보조 AI 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240220224140</link>
+            <guid>https://zdnet.co.kr/view/?no=20240220224140</guid>
+            <pubDate>Tue, 20 Feb 2024 21:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[스토리 엔지니어링 기업 스코웍스(대표 이준수)는 자체 플랫폼 '스토리체인'에 인공지능 보조 작가 '웹소설 AI 어시스턴트'를 적용해 출시하는 한편 콘텐츠 지식 재산권(IP) 계...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/20/8ab63dcecc668878132a0e2117df8167-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건국대 신순영 교수팀, 집먼지진드기 유발 아토피 원인 규명]]></title>
             <link>https://zdnet.co.kr/view/?no=20240221005436</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240220231847</guid>
             <pubDate>Tue, 20 Feb 2024 15:09:27 GMT</pubDate>
             <content:encoded><![CDATA[중국 폴더블 스마트폰 시장에서 삼성전자가 해외 기업으로선 유일하게 톱5 기업에 꼽혔다. 20일 중국 언론 IT즈자는 IDC를 인용해 지난해 중국 폴더블 스마트폰 출하량 시장 점...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/20/06b9ff2467046153d0c673718f58bce4-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산업부, 첨단 나노소재 R&D에 4년간 국비 295억원 지원]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220181933</guid>
             <pubDate>Tue, 20 Feb 2024 10:09:38 GMT</pubDate>
             <content:encoded><![CDATA[환경부 산하 한국환경공단(이사장 안병옥)은 20일 충북 제천 소재 공단 인재개발원에서 ESG·탄소중립, 디지털전환, 글로벌·융합의 지속가능한 성장동력 확보를 위한 제3기 미래발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피닛블록, 커스터디 이상거래 탐지 지스템에 AI 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220181757</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220181757</guid>
-            <pubDate>Tue, 20 Feb 2024 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 핀테크 기업 인피닛블록(대표이사 정구태)이 커스터디 이상거래탐지시스템(FDS)에 인공지능을 도입하고 이와 관련된 특허등록을 완료했다고 20일 밝혔다. 인피닛블록이 이번...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

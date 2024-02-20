@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 20:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 21:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스코웍스, 웹소설 작가용 보조 AI 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240220224140</link>
+            <guid>https://zdnet.co.kr/view/?no=20240220224140</guid>
+            <pubDate>Tue, 20 Feb 2024 21:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[스토리 엔지니어링 기업 스코웍스(대표 이준수)는 자체 플랫폼 '스토리체인'에 인공지능 보조 작가 '웹소설 AI 어시스턴트'를 적용해 출시하는 한편 콘텐츠 지식 재산권(IP) 계...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보안 전문 기업 티오리, 새로운 CI 공개…글로벌 도약]]></title>
             <link>https://zdnet.co.kr/view/?no=20240220174342</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220130352</guid>
             <pubDate>Tue, 20 Feb 2024 05:11:03 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 기업 스틸리언이 코인원의 잠재적 취약점을 분석하기 위해 종합 보안 컨설팅을 진행한다. 스틸리언은 20일 코인원에 종합 보안 컨설팅을 제공한다면서 이같이 밝혔다. 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA-광역시도와 협력해 아파트 사이버보안 안전성 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220101459</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220101459</guid>
-            <pubDate>Tue, 20 Feb 2024 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이상중)이 광역시도와 함께 아파트 보안 강화에 나선다. KISA는 21일 아파트 보안 강화를 지원하기 위한 광역시도 협력회의를 개최한다고 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
