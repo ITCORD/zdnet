@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 01:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 02:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹서버 '엔진엑스', 새 포크 버전 나왔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221105945</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221105945</guid>
+            <pubDate>Wed, 21 Feb 2024 02:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 태생 오픈소스 엔진엑스(Nginx)의 분기(Fork)가 이뤄졌다. 러시아 개발자가 엔진엑스 소유기업인 F5의 통제를 벗어나기 위해 '프리엔진엑스(Freenginx)'란 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에이텐, 항공 교통 통제용 스위치 3종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221105610</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221105610</guid>
+            <pubDate>Wed, 21 Feb 2024 02:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[에이텐(대표 첸순청)이 고신뢰성이 요구되는 항공 교통 관제(ATC) 환경에 적용할 수 있는 ATC 스위치 신제품 3종을 다음 달 초 한국 시장에 공식 출시한다고 21일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[머스크 "뇌 칩 이식 환자, 생각만으로 마우스 움직여"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240221100815</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220150200</guid>
             <pubDate>Tue, 20 Feb 2024 09:09:59 GMT</pubDate>
             <content:encoded><![CDATA[사이버보안 전문기업 파이오링크가 클라우드와 보안을 중심으로 외연을 확장한다. 새로 출시한 시큐리티 플랫폼 등 데이터 최적화 기업으로 발돋움하겠다는 구상이다. 파이오링크(대표 조...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 영상 만드는 시대 왔다…"컴퓨팅 파워·수익 모델 마련해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220162304</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220162304</guid>
-            <pubDate>Tue, 20 Feb 2024 09:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 영상을 생성하는 인공지능(AI) 모델 '소라'를 공개한 가운데, AI 영상 생성 서비스 상용화에 대한 여러 전망이 나왔다. 국내 업계 관계자들은 영상을 생성할 때 드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, AI 시대 데이터 경제 활성화 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220112039</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220112039</guid>
-            <pubDate>Tue, 20 Feb 2024 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[산업계가 인공지능(AI) 활성화를 위해 신기술과 신서비스 기획 개발 과정에서 개인정보 보호 규제의 유연한 적용을 요청했다. 개인정보보호위원회(위원장 고학수, 이하 '개인정보위'...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
