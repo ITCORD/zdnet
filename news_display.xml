@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 06:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 반도체 장비사 ASML 지분 전량 매각]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221153903</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221153903</guid>
+            <pubDate>Wed, 21 Feb 2024 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 네덜란드 반도체 극자외선(EUV) 장비업체 ASML 지분을 전량 매각했다. 21일 삼성전자 2023년 감사보고서에 따르면, 삼성전자는 지난해 3분기까지 보유 중이던 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SEMI "1분기 글로벌 메모리 설비투자 규모 10% 증가 전망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221143324</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221143324</guid>
+            <pubDate>Wed, 21 Feb 2024 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 부진했던 반도체 설비투자 및 가동률이 올 1분기부터 회복세에 접어들 전망이다. 특히 메모리 설비투자 규모가 1분기 전분기 및 전년동기 대비 각각 9%, 10% 증가할 것...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·SK, HBM4용 본딩 기술 '저울질'…'제덱' 협의가 관건]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221133256</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221133256</guid>
+            <pubDate>Wed, 21 Feb 2024 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[오는 2026년 상용화를 앞둔 6세대 고대역폭메모리(HBM4)를 두고 업계의 고심이 깊어지고 있다. HBM4 제조의 핵심인 패키징 공정에 기존 본딩(접합) 기술을 이어갈지, 새...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 세계 최소 소비전류 구현한 OP 앰프 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20240221115247</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240219100703</guid>
             <pubDate>Mon, 19 Feb 2024 01:43:50 GMT</pubDate>
             <content:encoded><![CDATA[파인텍이 지난해 디스플레이, 이차전지 등 전방산업 악화로 부진한 실적을 거뒀다. 다만 올해에는 사업이 다시 회복세에 접어들 전망으로 주요 고객사의 IT용 OLED 설비투자에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 日 구마모토 1공장 조기 가동설에…"계획대로 4분기 양산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240219083116</link>
-            <guid>https://zdnet.co.kr/view/?no=20240219083116</guid>
-            <pubDate>Mon, 19 Feb 2024 00:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 최근 제기된 일본 구마모토현 제1공장의 조기 양산 주장을 부인했다고 타이페이타임스 등 현지 매체가 19일 보도했다. 앞서 자유시보 등 대만 현지 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['영하 32도, 중력 10배도 견뎌'...삼성 폴더블 패널, 美 국방부 '밀스펙' 첫 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240219090033</link>
-            <guid>https://zdnet.co.kr/view/?no=20240219090033</guid>
-            <pubDate>Mon, 19 Feb 2024 00:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이 폴더블 패널이 미국 국방부 내구성 표준 테스트를 통과해 '밀스펙(밀리터리 스펙)'을 획득했다. 폴더블 패널로 美 밀리터리 스펙을 획득한 것은 삼성디스플레이가 처음...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 정부, 인텔에 10조원대 반도체 지원금 지급 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240218120147</link>
-            <guid>https://zdnet.co.kr/view/?no=20240218120147</guid>
-            <pubDate>Sun, 18 Feb 2024 04:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 인텔에 10조원대 반도체 지원금을 지급을 논의중이라고 블룸버그 통신이 17일(현지시간) 보도했다. 이는 미국의 반도체법 지원금 중 최대 규모가 될 전망이다. 블룸버...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
