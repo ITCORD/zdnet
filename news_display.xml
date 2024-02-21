@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 22:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 23:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온칩스, 日 반도체 무역회사 '토멘'과 사업확대 MOU 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221114039</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221114039</guid>
+            <pubDate>Wed, 21 Feb 2024 23:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[시스템 반도체 개발 전문 기업 가온칩스는 일본 토요타그룹(Toyota Group)의 토멘디바이스(Tomen Devices Corporation)와 전략적 협업을 강화하고, 일본...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, AI 시대 겨냥한 '인텔 파운드리' 본격 출범]]></title>
             <link>https://zdnet.co.kr/view/?no=20240222041652</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220093911</guid>
             <pubDate>Tue, 20 Feb 2024 01:41:13 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 전용 그래픽 가속기를 갖춘 새로운 STM32 마이크로컨트롤러(MCU)를 출시한다고 20일 밝혔다. 이번 초저전력 STM32U5F9/G9 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노티시아·코셈, AI 전자현미경 솔루션 개발 협약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220075447</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220075447</guid>
-            <pubDate>Tue, 20 Feb 2024 01:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 시스템 전문기업 디노티시아는 대한민국 전자현미경 전문기업 코셈과 지난 16일 AI 기술을 접목한 전자현미경 개발과 사업화를 위한 업무 협약(MoU)을 체결했다고 20일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
