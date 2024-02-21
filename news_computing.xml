@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 23:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 00:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어도비, 애크로뱃·리더 'AI 어시스턴트' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221093515</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221093515</guid>
+            <pubDate>Wed, 21 Feb 2024 00:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[어도비는 '리더'와 '애크로뱃'에 새로운 생성형 AI 구동 대화형 엔진인 AI 어시스턴트 베타를 21일 공개했다. 리더와 애크로뱃의 워크플로우에 긴밀히 통합된 AI 어시스턴트는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BHSN, 법률 특화 언어모델 '리걸LLM' 고도화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221080957</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221080957</guid>
+            <pubDate>Wed, 21 Feb 2024 00:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서도 법률 특화 생성형 인공지능(AI) 서비스가 본격화할 전망이다. 기존보다 데이터 처리량과 답변 정확도가 올라 서비스 품질이 향상됐다. BHSN(대표 임정근)은 자체 개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스코웍스, 웹소설 작가용 보조 AI 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240220224140</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220131312</guid>
             <pubDate>Tue, 20 Feb 2024 05:11:03 GMT</pubDate>
             <content:encoded><![CDATA[시큐어시스템즈 통합보안관리솔루션인 '시큐어오케스트라(Secure Orchestra V3.0)'가 조달 등록을 통해 공공시장 진출의 발판을 마련했다. 시큐어시스템즈는 시큐어오케스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 새마을금고 사이버 보안 시스템 점검]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220133824</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220133824</guid>
-            <pubDate>Tue, 20 Feb 2024 05:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 일선 금융 현장을 찾아 사이버 보안 대응 점검에 나섰다. 행정안전부는 고기동 차관이 서울 강서구에 위치한 새마을금고 IT센터를 찾아 사이버 보안 강화방안을 논의했다고 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버 보안 기업 스틸리언, 코인원에 종합 보안 컨설팅 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220130352</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220130352</guid>
-            <pubDate>Tue, 20 Feb 2024 05:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 기업 스틸리언이 코인원의 잠재적 취약점을 분석하기 위해 종합 보안 컨설팅을 진행한다. 스틸리언은 20일 코인원에 종합 보안 컨설팅을 제공한다면서 이같이 밝혔다. 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
