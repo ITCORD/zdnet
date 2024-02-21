@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 08:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 09:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스넷그룹 "AI인프라 시장 5년 후 4조5천억 전망…선두 될 것”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221170812</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221170812</guid>
+            <pubDate>Wed, 21 Feb 2024 09:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[“전세계적인 인공지능(AI)에 대한 관심과 성장세를 토대로 분석한 결과 5년 후 국내 AI 인프라 시장 규모는 3~4.5조원이 될 것으로 예상된다. 이 시장에서 20%의 점유율...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 미혼 남녀, 데이팅 앱서 AI로 사진·멘트 꾸민다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240221164056</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240221114020</guid>
             <pubDate>Wed, 21 Feb 2024 03:10:27 GMT</pubDate>
             <content:encoded><![CDATA[HPE는 우주에서 인공지능(AI)과 머신러닝(ML) 업무를 처리할 고성능컴퓨터(HPC) 'HPE 스페이스본 컴퓨터-2'의 최신 버전을 국제우주정거장(ISS)에 보냈다고 21일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹서버 '엔진엑스', 새 포크 버전 나왔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240221105945</link>
-            <guid>https://zdnet.co.kr/view/?no=20240221105945</guid>
-            <pubDate>Wed, 21 Feb 2024 02:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 태생 오픈소스 엔진엑스(Nginx)의 분기(Fork)가 이뤄졌다. 러시아 개발자가 엔진엑스 소유기업인 F5의 통제를 벗어나기 위해 '프리엔진엑스(Freenginx)'란 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
