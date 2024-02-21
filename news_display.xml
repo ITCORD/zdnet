@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 06:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 세계 최소 소비전류 구현한 OP 앰프 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240221115247</link>
+            <guid>https://zdnet.co.kr/view/?no=20240221115247</guid>
+            <pubDate>Wed, 21 Feb 2024 06:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 소비전류를 세계 최소로 억제한 리니어 OP 앰프 'LMR1901YG-M'을 개발했다고 21일 밝혔다. 신제품은 로옴의 독자적인 초저소비전류 기술을 적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[피코콤, 웨이브 일렉트로닉스의 오픈랜 장비에 채택]]></title>
             <link>https://zdnet.co.kr/view/?no=20240221110859</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240218120147</guid>
             <pubDate>Sun, 18 Feb 2024 04:11:54 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 인텔에 10조원대 반도체 지원금을 지급을 논의중이라고 블룸버그 통신이 17일(현지시간) 보도했다. 이는 미국의 반도체법 지원금 중 최대 규모가 될 전망이다. 블룸버...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 석·박사, 네덜란드서 반도체 교육 받는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240218100703</link>
-            <guid>https://zdnet.co.kr/view/?no=20240218100703</guid>
-            <pubDate>Sun, 18 Feb 2024 02:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국과 네덜란드의 반도체 아카데미 교육이 본격적으로 시행된다. 산업통상자원부는 '제1차 한-네 첨단반도체 아카데미(이하 한-네 아카데미)'를 네덜란드 에인트호번공대에서 이달 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
