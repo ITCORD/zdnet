@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 14:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 15:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TRAIN, 첫 국제심포지엄···한국·베트남·태국 AI신뢰성 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240222231130</link>
+            <guid>https://zdnet.co.kr/view/?no=20240222231130</guid>
+            <pubDate>Thu, 22 Feb 2024 15:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[신뢰할 수 있는 인공지능 국제연대(이하 TRAIN 글로벌)가 22일 판교 소재 '그래비티 오토그래프 컬렉션'에서 첫 국제 심포지엄(TRAIN 심포지엄 1st)을 개최했다. 행사...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/22/183023657a7e16f2055b09a1102130e4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국여성공학기술인협회 이영옥 11대 회장 취임]]></title>
             <link>https://zdnet.co.kr/view/?no=20240222172351</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240222221703</guid>
             <pubDate>Thu, 22 Feb 2024 14:10:04 GMT</pubDate>
             <content:encoded><![CDATA[구글이 범용 인공지능(AI) 모델 제미나이(Gemini)의 이미지 생성 기능을 일시 중단시켰다고 CNBC를 비롯한 외신들이 22일 보도했다. 제미나이는 최근 역사적 사실과 맞지...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/12/07/016b01ad0424a3525f170cae2f3f8ea4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인피니언, 대만 ASE에 한국 천안·필리핀 공장 매각]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240222170018</guid>
             <pubDate>Thu, 22 Feb 2024 08:12:45 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 G&amp;E(Game and Earn) 플랫폼 퍼플레이(PERPLAY)가 약 4개월 간의 공개테스트를 거쳐 정식 서비스에 돌입한다고 22일 밝혔다. 퍼플레이는 어떤 게임이든 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 법률·생활 등 20개 분야 공공데이터 개방]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222162905</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222162905</guid>
-            <pubDate>Thu, 22 Feb 2024 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부가 올해 법률·생활안전·창업 관련 20개 분야 공공데이터를 '국가중점데이터 개방사업'을 통해 전격 개방한다. 22일 행안부에 따르면 '국가중점데이터 개방사업'은 행안부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
