@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 01:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 02:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맵, 작년 매출 2천918억원…전년比 41.1% 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240223100745</link>
+            <guid>https://zdnet.co.kr/view/?no=20240223100745</guid>
+            <pubDate>Fri, 23 Feb 2024 02:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[티맵모빌리티가 이용자 수 증가와 모빌리티 중개 사업 성장에 힘입어 지난해 매출 증가세를 보였다. 티맵모빌리티는 지난해 매출 2천918억원을 기록, 전년 대비 41.1% 늘어났다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK스퀘어, 작년 연결매출 2조2765억원]]></title>
             <link>https://zdnet.co.kr/view/?no=20240223101503</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240221112612</guid>
             <pubDate>Wed, 21 Feb 2024 03:10:19 GMT</pubDate>
             <content:encoded><![CDATA[이동통신사가 경쟁사의 가입자를 유치할 때 기존 위약금을 보조금 형태로 물어주는 것도 가능해진다. 정부가 단말기 유통법 폐지를 추진하면서 국회 협의를 거쳐야 하는 법 개정 이전에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 데이터센터 시장 진출…람다에 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240221083157</link>
-            <guid>https://zdnet.co.kr/view/?no=20240221083157</guid>
-            <pubDate>Wed, 21 Feb 2024 01:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 글로벌 그래픽처리장치(GPU) 클라우드 회사인 람다에 투자를 단행했다고 21일 밝혔다. AI 엔지니어가 설립한 람다는 엔비디아로부터 최신 GPU를 공급 받아 클라우...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

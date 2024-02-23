@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 01:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 02:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 신규 단거리 무선 P2P 트랜시버 IC 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240223093159</link>
+            <guid>https://zdnet.co.kr/view/?no=20240223093159</guid>
+            <pubDate>Fri, 23 Feb 2024 02:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)가 커넥터가 필요하지 않은 새로운 단거리 무선 P2P(Point-to-Point) 트랜시버 IC를 출시했다고 23일 밝혔다. 해당 IC는 디지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, SK실트론 생산능력 확대에 7천200억원 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20240223072751</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240221143324</guid>
             <pubDate>Wed, 21 Feb 2024 07:09:39 GMT</pubDate>
             <content:encoded><![CDATA[지난해 부진했던 반도체 설비투자 및 가동률이 올 1분기부터 회복세에 접어들 전망이다. 특히 메모리 설비투자 규모가 1분기 전분기 및 전년동기 대비 각각 9%, 10% 증가할 것...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·SK, HBM4용 본딩 기술 '저울질'…'제덱' 협의가 관건]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240221133256</link>
-            <guid>https://zdnet.co.kr/view/?no=20240221133256</guid>
-            <pubDate>Wed, 21 Feb 2024 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[오는 2026년 상용화를 앞둔 6세대 고대역폭메모리(HBM4)를 두고 업계의 고심이 깊어지고 있다. HBM4 제조의 핵심인 패키징 공정에 기존 본딩(접합) 기술을 이어갈지, 새...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
