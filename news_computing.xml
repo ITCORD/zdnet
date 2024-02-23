@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 22:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 23:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 장중 시총 2조 달러 돌파…"미국 기업 중 3번째"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240224071509</link>
+            <guid>https://zdnet.co.kr/view/?no=20240224071509</guid>
+            <pubDate>Fri, 23 Feb 2024 23:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[전일 16% 이상 폭등했던 엔비디아 주가가 이틀째 고공행진을 이어가며 장중 한때 시가총액 2조 달러를 돌파했다고 CNN 등 외신들이 23일(이하 현지시간) 보도했다. 23일 미...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔리콘, 한국법률 특화 AI '코알라' 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20240223173808</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240223110229</guid>
             <pubDate>Fri, 23 Feb 2024 02:15:44 GMT</pubDate>
             <content:encoded><![CDATA[국내 기업의 문서 솔루션을 오픈AI 'GPT스토어'에서 만나볼 수 있다. 사이냅소프트(대표 전경헌)는 '사이냅 문서뷰어'를 GPT스토어에 출시했다고 23일 밝혔다. GPT스토어...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오리엔텀-연대 금융투자AI연구소, 양자 활용 금융 선진화 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223110443</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223110443</guid>
-            <pubDate>Fri, 23 Feb 2024 02:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[양자컴퓨팅 소프트웨어회사 오리엔텀(방승현 대표)과 연세대학교 금융투자AI연구소(소장 오경주 금융공학과 교수)가 양자컴퓨팅을 활용한 금융 분야 선진화에 힘을 모은다. 두 기관은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

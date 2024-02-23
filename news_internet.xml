@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 22:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 23:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 베이징, 무인 자율주행차 타고 공항 간다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240224010043</link>
+            <guid>https://zdnet.co.kr/view/?no=20240224010043</guid>
+            <pubDate>Fri, 23 Feb 2024 23:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[중국 베이징 다싱 공항에서 베이징 이좡(亦庄)을 오가는 인공지능(AI) 자율주행 차량 셔틀 서비스가 시작됐다. 공항에 가거나 공항에서 귀가할 때 이용하면 된다. 23일 중국 언...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 검색창에서 '뉴스' 탭 사라지나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240223230123</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220171153</guid>
             <pubDate>Tue, 20 Feb 2024 09:10:13 GMT</pubDate>
             <content:encoded><![CDATA[국내 플랫폼 산업 활성화를 위해 자율·사후 규제 중심으로 정책 기조를 바꿔야 한다는 목소리가 제기됐다. 국내 디지털경제 산업을 대변하는 디지털경제연합(디경연)은 4월10일 22...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도 넘은 '이강인 기사'와 챗GPT 시대 저널리즘]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220160510</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220160510</guid>
-            <pubDate>Tue, 20 Feb 2024 08:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT 같은 생성형 인공지능(AI)이 대중화되면 기자들의 일 중 상당 부분이 사라질 것이란 전망이 적지 않다. 심하게는, 기자의 미래도 불투명하다는 경고를 하는 사람도 있다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
