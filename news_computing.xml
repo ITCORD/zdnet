@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 05:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 06:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 최고 경쟁자로 中 화웨이 지목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240223210028</link>
+            <guid>https://zdnet.co.kr/view/?no=20240223210028</guid>
+            <pubDate>Sat, 24 Feb 2024 06:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 중국 화웨이를 최고의 경쟁업체로 지목했다. 엔비디아가 미국 증권거래위원회(SEC)에 제출한 서류에서 인공지능(AI) 칩을 포함한 여러 분야에서 화웨이를 최고 경쟁업체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[못 믿을 '생성형 AI'…제미나이·챗GPT, 잦은 오류에 신뢰 '뚝']]></title>
             <link>https://zdnet.co.kr/view/?no=20240223144231</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240223111532</guid>
             <pubDate>Fri, 23 Feb 2024 03:10:21 GMT</pubDate>
             <content:encoded><![CDATA[래블업은 오는 26일부터 29일까지 4일간 스페인 바르셀로나에서 열리는 'MWC 2024'에 참가한다고 23일 밝혔다. MWC 2024의 최대 화두는 AI다. 통신사들은 글로벌...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 주목할 사이버 보안 분야는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223105401</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223105401</guid>
-            <pubDate>Fri, 23 Feb 2024 02:15:44 GMT</pubDate>
-            <content:encoded><![CDATA['생성AI 보안'과 '사용자인증관리(IAM)'에 주목하라. 글로벌 시장조사기관 CB인사이트와 가트너가 공통적으로 지목한 올해 주목해야 할 사이버 보안 분야다. CB인사이트는 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
