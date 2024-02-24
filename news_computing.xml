@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 03:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 04:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[못 믿을 '생성형 AI'…제미나이·챗GPT, 잦은 오류에 신뢰 '뚝']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240223144231</link>
+            <guid>https://zdnet.co.kr/view/?no=20240223144231</guid>
+            <pubDate>Sat, 24 Feb 2024 04:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 인공지능(AI) 시장 주도권을 잡기 위해 글로벌 빅테크들이 앞 다퉈 새로운 서비스를 선보이고 있지만 잦은 오류로 이용자들의 신뢰를 잃고 있다. 24일 업계에 따르면 오픈A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, 장중 시총 2조 달러 돌파…"미국 기업 중 3번째"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240224071509</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240223105401</guid>
             <pubDate>Fri, 23 Feb 2024 02:15:44 GMT</pubDate>
             <content:encoded><![CDATA['생성AI 보안'과 '사용자인증관리(IAM)'에 주목하라. 글로벌 시장조사기관 CB인사이트와 가트너가 공통적으로 지목한 올해 주목해야 할 사이버 보안 분야다. CB인사이트는 사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사이냅소프트, GPT 스토어에 문서뷰어 솔루션 등록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223110229</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223110229</guid>
-            <pubDate>Fri, 23 Feb 2024 02:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[국내 기업의 문서 솔루션을 오픈AI 'GPT스토어'에서 만나볼 수 있다. 사이냅소프트(대표 전경헌)는 '사이냅 문서뷰어'를 GPT스토어에 출시했다고 23일 밝혔다. GPT스토어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
