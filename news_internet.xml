@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 23:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 00:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 "검색창에서 뉴스 탭 뺄 계획 없다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240224093318</link>
+            <guid>https://zdnet.co.kr/view/?no=20240224093318</guid>
+            <pubDate>Sat, 24 Feb 2024 00:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[“검색창에서 뉴스 탭을 뺄 계획이 없다.” 구글이 최근 일부 이용자를 대상으로 검색창에서 '뉴스' 탭을 빼는 테스트를 진행해 그 배경에 관심이 쏠리고 있다. 이런 가운데 구글이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 베이징, 무인 자율주행차 타고 공항 간다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240224010043</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240220170056</guid>
             <pubDate>Wed, 21 Feb 2024 00:41:38 GMT</pubDate>
             <content:encoded><![CDATA['영어, 틀려야 트인다'라는 직관적인 광고 문구와 함께 가수 이효리를 앞세워 단숨에 인지도를 높인 말하기 영어 학습 서비스가 있다. 챗GPT 개발사 '오픈AI' 펀드로부터 전략...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["토종 플랫폼 활성화 위해 자율·사후 규제 기조로 정책 변해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240220171153</link>
-            <guid>https://zdnet.co.kr/view/?no=20240220171153</guid>
-            <pubDate>Tue, 20 Feb 2024 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[국내 플랫폼 산업 활성화를 위해 자율·사후 규제 중심으로 정책 기조를 바꿔야 한다는 목소리가 제기됐다. 국내 디지털경제 산업을 대변하는 디지털경제연합(디경연)은 4월10일 22...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
