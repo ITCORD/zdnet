@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 22:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 23:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 디지털트윈으로 UAM 관리시스템 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240226035840</link>
+            <guid>https://zdnet.co.kr/view/?no=20240226035840</guid>
+            <pubDate>Sun, 25 Feb 2024 23:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 MWC24에서 국내 UAM 대중화를 앞당길 기술을 선보였다. KT가 선보인 지능형 UAM 교통관리시스템(UATM)은 교통에 디지털 트윈을 접목한 'UAM 교통 트윈' 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[고삼석 칼럼] 가짜뉴스 '규제'는 왜 실패하는가?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240225220942</link>
+            <guid>https://zdnet.co.kr/view/?no=20240225220942</guid>
+            <pubDate>Sun, 25 Feb 2024 23:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[가짜뉴스(Fakenews) 문제가 정치권은 물론, 사회 영역, 심지어 테크(Tech) 영역에서 핫이슈로 다시 부상하고 있다. 국내뿐만 아니라 해외 각국, 그리고 국제기구에서도 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 와이낫 부스터스 누적 조회수 2천400만]]></title>
             <link>https://zdnet.co.kr/view/?no=20240225192428</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240222153801</guid>
             <pubDate>Thu, 22 Feb 2024 07:09:51 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드는 백본에 400Gbps급 차세대 IP 통합망을 도입한다고 22일 밝혔다. 백본은 네트워크 중추 역할을 하는 중심망이다. 이번 차세대 IP 통합망이 도입되면, 기존...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["트위치 국내 서비스 종료, 경영 실패 때문"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222145944</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222145944</guid>
-            <pubDate>Thu, 22 Feb 2024 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[트위치가 타국 대비 높은 망 이용대가로 국내 사업을 철수한다는 주장에, 한국통신사업자연합회(KTOA)는 “근본적인 원인은 경영실패 때문”이라고 반박했다. 앞서 트위치는 다른 나...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[165개 한국 기업, 다음주 MWC 무대 오른다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222102837</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222102837</guid>
-            <pubDate>Thu, 22 Feb 2024 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[스페인 바르셀로나에서 26일(현지시간) 열리는 MWC24에는 전 세계 200개국에서 2천400개 기업들이 참여하는 가운데 국내 통신 3사와 삼성전자, 스타트업 등 165개 한국...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
