@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 00:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 01:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로그래밍 언어 '러스트'…"보안 위해 쓰지만 어렵네"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240225022654</link>
+            <guid>https://zdnet.co.kr/view/?no=20240225022654</guid>
+            <pubDate>Sun, 25 Feb 2024 01:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[개발자들 사이에서 마이크로소프트, 구글 등 주요 IT 기업을 중심으로 성장을 이어가고 있는 프로그래밍 언어 러스트를 사용하기 어렵다는 평가가 나왔다. 안정성을 위해 도입했지만,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["비개발자도 파이썬 대신 자연어로 프로그램 만드세요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240223155207</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240223113332</guid>
             <pubDate>Fri, 23 Feb 2024 03:10:21 GMT</pubDate>
             <content:encoded><![CDATA[인텔은 델테크놀로지스, 엔비디아, 오하이오 슈퍼컴퓨터 센터(OSC)와 협업한 최첨단 고성능 컴퓨팅(HPC) 클러스터인 '카디널(Cardinal)'을 23일 공개했다. 카디널은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[핀테크 보안기업 아톤 'SW기업 경쟁력 대상' 최우수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223110240</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223110240</guid>
-            <pubDate>Fri, 23 Feb 2024 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[핀테크 보안기업 아톤(대표 김종서, 우길수)이 '제23회 대한민국 소프트웨어 기업 경쟁력 대상'에서 최우수상을 수상했다. 아톤은 '시스템 SW(보안)' 부문에서 '한국 소프트웨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
