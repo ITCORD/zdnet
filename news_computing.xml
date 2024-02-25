@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 01:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 02:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보전문가협회-김앤장, '데이터 프라이버시' 세미나 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240225110323</link>
+            <guid>https://zdnet.co.kr/view/?no=20240225110323</guid>
+            <pubDate>Sun, 25 Feb 2024 02:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보전문가협회(KAPP)는 김앤장법률사무소와 공동으로 개인정보 관련 법‧정책과 동향 세미나 '데이터 프라이버시 : 트렌드&amp;인사이트(DPTI 2024)'를 지난 22일 개최했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[프로그래밍 언어 '러스트'…"보안 위해 쓰지만 어렵네"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240225022654</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240223132044</guid>
             <pubDate>Fri, 23 Feb 2024 05:10:25 GMT</pubDate>
             <content:encoded><![CDATA[토종 클라우드 전문기업 이노그리드(대표 김명진) 상장이 코 앞에 다가왔다. 예정대로 이뤄지면 다음달말 코스닥에 기술특례로 상장한다. 23일 이 회사는 회사는 증권신고서를 제출하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 제온 맥스 756개 탑재 HPC '카디널' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223113332</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223113332</guid>
-            <pubDate>Fri, 23 Feb 2024 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[인텔은 델테크놀로지스, 엔비디아, 오하이오 슈퍼컴퓨터 센터(OSC)와 협업한 최첨단 고성능 컴퓨팅(HPC) 클러스터인 '카디널(Cardinal)'을 23일 공개했다. 카디널은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
