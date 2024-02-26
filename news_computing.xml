@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 01:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 02:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈 AI 챗 GPT, 안드로이드 OS서도 홈 화면 위젯 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240226104920</link>
+            <guid>https://zdnet.co.kr/view/?no=20240226104920</guid>
+            <pubDate>Mon, 26 Feb 2024 02:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 인공지능(AI) 기업 오픈AI가 앞으로는 챗 GPT의 안드로이드용 버전에서도 홈 화면 위젯을 제공할 전망이다. 미국 IT매체 더 버지는 26일(현지시간) 안드로이드 OS...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中 전문가 "중국 AI 기술, 1~2년 뒤 미국 능가할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240226103036</link>
+            <guid>https://zdnet.co.kr/view/?no=20240226103036</guid>
+            <pubDate>Mon, 26 Feb 2024 02:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 인공지능(AI) 기술이 약 2년 후 미국의 AI 수준을 뛰어넘을 것이라는 전문가 의견이 나왔다. 중국 관영매체 글로벌타임스는 중국 사이버 보안업체 치후360 창업자 겸 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[노르마 "5년 내 R2R 인쇄 양자센서라벨 개발”]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226104203</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240223173808</guid>
             <pubDate>Fri, 23 Feb 2024 09:09:40 GMT</pubDate>
             <content:encoded><![CDATA[인텔리콘연구소(대표 임영익)는 국내 최초로 한국 법률에 특화한 언어모델(sLLM) '코알라(KOALLA, Korean Adaptive Legal Language AI)' 개발에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오VX 위탁 운영 골프장 세라지오 GC... "개인정보 털렸다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223144344</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223144344</guid>
-            <pubDate>Fri, 23 Feb 2024 08:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[국내 한 골프장에서 개인정보가 유출된 정황이 포착됐다. 회원 대상의 문자발송 시스템에 해킹 공격이 들어온 것으로 추정되는데 보안 당국은 현재 피해규모 파악에 나섰다. 경기도 여...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 생성형 AI 안전 식별하는 도구 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240223135531</link>
-            <guid>https://zdnet.co.kr/view/?no=20240223135531</guid>
-            <pubDate>Fri, 23 Feb 2024 08:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI)의 보안이나 환각 현상 등을 자동으로 식별할 수 있는 도구가 나왔다. 개발자가 일일이 진행하던 모델 안전성 검증을 자동화할 수 있다. 22일(현지시간) 마...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
