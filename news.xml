@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 16:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 17:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC] 유심? 이심?..."혹시 r심은 들어보셨나요”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227020423</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227020423</guid>
+            <pubDate>Mon, 26 Feb 2024 17:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[가입자식별모듈(유심, USIM)도 진화한다. 플라스틱 카드 기반의 유심은 크기를 줄여나갔고, 단말기에 내장되는 이심(임베디드 유심) 형태가 쓰이기도 한다. 해외여행을 계획하다 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/27/b7475c5dbd9c56af8e4c2d7f37a14b50-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 삼성이 쏘아올린 AI폰...中 제조사 곧장 합류]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226203252</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240226230620</guid>
             <pubDate>Mon, 26 Feb 2024 14:10:06 GMT</pubDate>
             <content:encoded><![CDATA[한국데이터산업진흥원(K-DATA, 원장 윤혜정)이 올해 28억원을 투입해 '마이데이터 종합기반 조성사업'을 시행한다. 이번달 26일부터 다음달 29일까지 한달여간 사업자를 공모...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2018/08/23/kunst_rSxWs1uSQYFaJi-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트 코파일럿, 4월 한국어 지원 유력]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226181817</guid>
             <pubDate>Mon, 26 Feb 2024 10:11:18 GMT</pubDate>
             <content:encoded><![CDATA[오디오 브랜드 보스가 지난 23일 보스코리아 사옥에서 '보스 대학생 서포터즈' 발대식을 개최했다고 26일 밝혔다. 학생복지스토어에서 진행된 서포터즈 모집에 2주간 600여명이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브레빌, 화이트 주방가전 '씨 솔트 컬렉션' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226104243</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226104243</guid>
-            <pubDate>Mon, 26 Feb 2024 10:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[주방가전 브랜드 브레빌이 다가오는 봄 웨딩 시즌을 맞아 신혼부부를 겨냥한 '씨 솔트 컬렉션'을 선보였다. 반자동 커피머신, 오븐, 토스터, 전기주전자 등 기존 인기 주방가전에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 16:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 17:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC] 유심? 이심?..."혹시 r심은 들어보셨나요”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227020423</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227020423</guid>
+            <pubDate>Mon, 26 Feb 2024 17:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[가입자식별모듈(유심, USIM)도 진화한다. 플라스틱 카드 기반의 유심은 크기를 줄여나갔고, 단말기에 내장되는 이심(임베디드 유심) 형태가 쓰이기도 한다. 해외여행을 계획하다 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 6G 시대 도래...위성통신 존재감 커졌다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226212028</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226084938</guid>
             <pubDate>Mon, 26 Feb 2024 00:42:14 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 IPTV 시청 여정 콘텐츠 정보탐색 커뮤니티 'U+tv 모아'를 출시했다고 26일 밝혔다. U+tv 모아는 모바일로 U+tv를 보다 편리하게 이용할 수 있도록 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 디지털트윈으로 UAM 관리시스템 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226035840</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226035840</guid>
-            <pubDate>Sun, 25 Feb 2024 23:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 MWC24에서 국내 UAM 대중화를 앞당길 기술을 선보였다. KT가 선보인 지능형 UAM 교통관리시스템(UATM)은 교통에 디지털 트윈을 접목한 'UAM 교통 트윈' 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
