@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 09:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 10:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC] 진짜 UAM이 날아올랐다...스페인 수놓은 서울 하늘길]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240226171655</link>
+            <guid>https://zdnet.co.kr/view/?no=20240226171655</guid>
+            <pubDate>Mon, 26 Feb 2024 10:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[멀리서 보면 헬리콥터와 유사하다. 언뜻 드론을 늘려놓은 것 같기도 하다. 내부를 보면 좌석도 구비됐다. SK텔레콤이 MWC24 전시장에 마련한 도심항공교통(UAM) 기체다. S...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 샤오미 사이버도그2..."로봇이 멍멍 짓네요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226164800</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SKT, 글로벌 통신사 4곳과 AI 합작법인 세운다]]></title>
+            <title><![CDATA[[MWC] SKT, 글로벌 통신사 4곳과 AI 합작법인 세운다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226035014</link>
             <guid>https://zdnet.co.kr/view/?no=20240226035014</guid>
             <pubDate>Mon, 26 Feb 2024 08:12:51 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240224164415</guid>
             <pubDate>Sun, 25 Feb 2024 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 3월26일까지 비면허 주파수 활용 유망기술 실증사업 과제를 공모한다. 실증사업은 비면허 주파수 제도 기반 기술과 서비스가 시장에 조기 정착하고 확산할 수 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 진격하는 SKT...글로벌 연합부터 AI 일상까지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240225084850</link>
-            <guid>https://zdnet.co.kr/view/?no=20240225084850</guid>
-            <pubDate>Sun, 25 Feb 2024 00:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 MWC24에서 텔코 중심의 AI에 대한 비전을 제시한다. 이를 바탕으로 실생활 영역에서의 AI 기술을 선보인다는 전략이다. 글로벌 통신사 연합 협력을 확대하고 AI...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
