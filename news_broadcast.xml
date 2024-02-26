@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 23:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 00:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 'U+tv 모아' 출시...콘텐츠 정보 탐색 한데 모아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240226084938</link>
+            <guid>https://zdnet.co.kr/view/?no=20240226084938</guid>
+            <pubDate>Mon, 26 Feb 2024 00:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 IPTV 시청 여정 콘텐츠 정보탐색 커뮤니티 'U+tv 모아'를 출시했다고 26일 밝혔다. U+tv 모아는 모바일로 U+tv를 보다 편리하게 이용할 수 있도록 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 디지털트윈으로 UAM 관리시스템 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226035840</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240222180431</guid>
             <pubDate>Thu, 22 Feb 2024 09:10:26 GMT</pubDate>
             <content:encoded><![CDATA[정부가 단말기 유통법 폐지에 앞서 번호이동에 더 많은 공시 지원금을 지급할 수 있도록 하는 시행령 개정을 두고 고가 단말기와 고액 지원금을 통한 영업을 유도하게 되어 오히려 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 백본에 차세대 IP 통합망 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240222153801</link>
-            <guid>https://zdnet.co.kr/view/?no=20240222153801</guid>
-            <pubDate>Thu, 22 Feb 2024 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 백본에 400Gbps급 차세대 IP 통합망을 도입한다고 22일 밝혔다. 백본은 네트워크 중추 역할을 하는 중심망이다. 이번 차세대 IP 통합망이 도입되면, 기존...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
