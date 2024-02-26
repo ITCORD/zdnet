@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 22:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 23:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC]유영상 SKT "AI로 시장 판도 바꾸겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227070621</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227070621</guid>
+            <pubDate>Mon, 26 Feb 2024 23:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[“우리는 항상 글로벌에 대한 갈망과 피해의식이 있었다. 통신을 포함해 한국 서비스 기업이 글로벌 스케일을 가진 적이 많지 않다. 제조업은 글로벌 활약이 두드러지는데, 서비스는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 유심? 이심?..."혹시 r심은 들어보셨나요”]]></title>
             <link>https://zdnet.co.kr/view/?no=20240227020423</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226095156</guid>
             <pubDate>Mon, 26 Feb 2024 01:43:42 GMT</pubDate>
             <content:encoded><![CDATA[MWC24에서도 글로벌 통신사들의 네트워크 투자 공정 분담 논의에 불이 붙었다. 망 이용대가 등을 두고 키노트 연설에서 맞불 싸움이 붙었던 지난해 MWC와 달리 겉으로는 조용하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 'U+tv 모아' 출시...콘텐츠 정보 탐색 한데 모아]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226084938</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226084938</guid>
-            <pubDate>Mon, 26 Feb 2024 00:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 IPTV 시청 여정 콘텐츠 정보탐색 커뮤니티 'U+tv 모아'를 출시했다고 26일 밝혔다. U+tv 모아는 모바일로 U+tv를 보다 편리하게 이용할 수 있도록 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
