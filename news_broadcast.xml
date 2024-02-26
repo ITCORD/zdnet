@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 12:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 13:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC] 6G 시대 도래...위성통신 존재감 커졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240226212028</link>
+            <guid>https://zdnet.co.kr/view/?no=20240226212028</guid>
+            <pubDate>Mon, 26 Feb 2024 13:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[MWC24 현장에서 6G 이동통신 논의와 함께 위성통신의 존재감이 여실히 커졌다. 아직 6G 표준 기술 논의는 이뤄지지 않았지만 위성통신은 이미 6G 시대의 필수 기술로 꼽히기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 최태원, 창립 40주년 SKT에 "계속 기술·고객 리딩하는 기업으로 남아야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226204354</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226035840</guid>
             <pubDate>Sun, 25 Feb 2024 23:09:36 GMT</pubDate>
             <content:encoded><![CDATA[KT가 MWC24에서 국내 UAM 대중화를 앞당길 기술을 선보였다. KT가 선보인 지능형 UAM 교통관리시스템(UATM)은 교통에 디지털 트윈을 접목한 'UAM 교통 트윈' 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[고삼석 칼럼] 가짜뉴스 '규제'는 왜 실패하는가?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240225220942</link>
-            <guid>https://zdnet.co.kr/view/?no=20240225220942</guid>
-            <pubDate>Sun, 25 Feb 2024 23:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[가짜뉴스(Fakenews) 문제가 정치권은 물론, 사회 영역, 심지어 테크(Tech) 영역에서 핫이슈로 다시 부상하고 있다. 국내뿐만 아니라 해외 각국, 그리고 국제기구에서도 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
