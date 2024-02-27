@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 02:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 03:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드햇-NTT, IOWN 기술로 엣지 AI 분석 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227113908</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227113908</guid>
+            <pubDate>Tue, 27 Feb 2024 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[레드햇과 일본 통신 기업 NTT는 차세대 통신 표준 협의체 아이온(IOWN) 이니셔티브의 일환으로 엔비디아 및 후지쯔와 협력해 엣지에서 실시간 생성형 AI 데이터 분석을 향상하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플리토, 영상 콘텐츠에 AI 통번역 솔루션 적용]]></title>
             <link>https://zdnet.co.kr/view/?no=20240227103235</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226152438</guid>
             <pubDate>Mon, 26 Feb 2024 08:12:58 GMT</pubDate>
             <content:encoded><![CDATA[대한항공과 아시아나항공의 인수합병(M&amp;A)이 마지막 관문인 미국의 최종 승인만 남은 가운데 조원태 한진그룹 회장의 첫 직장인 한진정보통신 조직이 존속할 수 있을지 주목된다. 아...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인성디지탈, 글로벌 10억 보안 솔루션 '이셋' 총판 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226160035</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226160035</guid>
-            <pubDate>Mon, 26 Feb 2024 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[인성디지탈(대표 이인영, 조승필)이 이셋(ESET) 코리아(대표 이창규)와 정식 총판 계약을 체결했다고 26일 밝혔다. 이번 총판 계약으로 인성디지탈은 이셋 백신 제품을 국내에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
