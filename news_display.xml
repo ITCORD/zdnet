@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 04:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 델타 AC 어댑터에 '650V GaN 제품' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227102726</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227102726</guid>
+            <pubDate>Tue, 27 Feb 2024 05:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM)이 자사의 'EcoGaN' 650V GaN(질화갈륨) 제품을 대만 델타일렉트로닉스의 브랜드 이너지(Innergie)의 45W 출력 AC 어댑터 'C4 Duo'에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 세계 첫 36GB 12단 HBM3E 개발...상반기 양산]]></title>
             <link>https://zdnet.co.kr/view/?no=20240227081348</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226083315</guid>
             <pubDate>Mon, 26 Feb 2024 00:42:45 GMT</pubDate>
             <content:encoded><![CDATA[AI 반도체 기업 사피온(SAPEON)은 일본 최대 통신사인 NTT도코모의 실리콘밸리 소재 자회사인 도코모이노베이션스와 AI 서비스 확대를 위해 협력한다고 26일 밝혔다. 사피...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['삼성 짝꿍' ARM, 뉴로 손잡고 자율주행 차량 상용화 가속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226090650</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226090650</guid>
-            <pubDate>Mon, 26 Feb 2024 00:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[최근 삼성전자와 협력을 강화하고 나선 글로벌 반도체 기업 Arm이 배달 로봇 회사인 뉴로(Nuro)와도 손잡고 자율주행 차량을 상용화하기 위한 본격적인 움직임에 나섰다. 26일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
