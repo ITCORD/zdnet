@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 01:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 02:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 36GB 12단 HBM3E 개발...상반기 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227081348</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227081348</guid>
+            <pubDate>Tue, 27 Feb 2024 02:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 세계 최초로 36GB(기가바이트) 5세대 고대역폭메모리(HBM) HBM3E 12H(12단 적층) D램을 개발했다고 27일 밝혔다. 삼성전자는 12단 HBM3E의 샘플...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[손호영 SK하이닉스 부사장 "토털 AI 메모리 프로바이더로 나아갈 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240227092815</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226090650</guid>
             <pubDate>Mon, 26 Feb 2024 00:42:45 GMT</pubDate>
             <content:encoded><![CDATA[최근 삼성전자와 협력을 강화하고 나선 글로벌 반도체 기업 Arm이 배달 로봇 회사인 뉴로(Nuro)와도 손잡고 자율주행 차량을 상용화하기 위한 본격적인 움직임에 나섰다. 26일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부·삼성·SK, 반도체 초격차 위해 '원팀'으로 뛴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240225233718</link>
-            <guid>https://zdnet.co.kr/view/?no=20240225233718</guid>
-            <pubDate>Mon, 26 Feb 2024 00:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[정부와 삼성전자, SK하이닉스 등 국내 반도체 기업들이 반도체 초격차를 위해 공동 대응책을 논의한다. 안덕근 산업통상자원부 장관은 26일 반도체 기업인들과의 간담회를 개최했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
