@@ -4,16 +4,24 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 08:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 09:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지구가 멍 든다"…中서 바닷 속에 데이터센터 넣은 까닭은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227112545</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227112545</guid>
+            <pubDate>Tue, 27 Feb 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[데이터센터 증설 경쟁에 각국서 에너지 소비 비상…빅테크, '환경 문제'로 골머리]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/15/70abd48ff38ccec250c83a00a3516783-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재고 쌓이고 성장 정체 겪는 전기차...하이브리드로 곁눈질]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226161652</link>
             <guid>https://zdnet.co.kr/view/?no=20240226161652</guid>
             <pubDate>Tue, 27 Feb 2024 08:13:12 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 전기차·배터리에 닥친 '캐즘' 극복 방안 ①]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/26/f225610cef4f023b230147557f7459b2-300x300.png" length="0" type="image/png"/>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/27/ac820fc8de72202263d567014e3fbf8b-300x300.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 마이크론, HBM3E 양산 개시...삼성·SK 보다 빨라]]></title>
@@ -222,30 +230,6 @@
             <pubDate>Mon, 28 Aug 2023 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 반도체 공급망 확보전① 인도, 美·日과 손잡고 기술 협력]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/06/16/be1456451de0ccfbb453bc2153c66e8f-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, '논란작' 다크앤다커 IP 품에...업계는 "우려"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230825104213</link>
-            <guid>https://zdnet.co.kr/view/?no=20230825104213</guid>
-            <pubDate>Fri, 25 Aug 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 넥슨 법적 분쟁 '다크앤다커' 파장 지속]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/01/40e578825220a7c1c0cda09776d2081c-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 아이언메이스와 '다크앤다커' IP 라이선스 계약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230824115601</link>
-            <guid>https://zdnet.co.kr/view/?no=20230824115601</guid>
-            <pubDate>Fri, 25 Aug 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[다크앤다커 IP 모바일게임 글로벌 라이선스 확보]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/10/07/7af88854613e95d7dd8f7f4de79c2ab2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 유출작 논란 '다크앤다커', 체프 통해 서비스 재개...문제 없나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20230808143342</link>
-            <guid>https://zdnet.co.kr/view/?no=20230808143342</guid>
-            <pubDate>Fri, 25 Aug 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[퍼블리싱 담당 체프게임즈 "공식입장 아직 없어"]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/08/4d1363e5fe22012b14c2dd0b6627d90e-300x300.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
