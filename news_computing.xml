@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 07:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 08:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지구가 멍 든다"…中서 바닷 속에 데이터센터 넣은 까닭은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227112545</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227112545</guid>
+            <pubDate>Tue, 27 Feb 2024 08:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 빅테크 기업들이 급증하는 인공지능(AI) 데이터 처리 용량을 확보하기 위해 경쟁적으로 데이터센터 증설에 나서면서 환경 문제가 불거지고 있다. AI 관련 데이터센터 가동을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK C&C "AI 개념검증 넘어 도입 가속하는 해 될 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240227155535</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240227093336</guid>
             <pubDate>Tue, 27 Feb 2024 00:40:49 GMT</pubDate>
             <content:encoded><![CDATA[큐브리드(대표 정병주)가 국방기술품질원 오픈소스 DBMS 공급 계약으로 공공부문 공개소프트웨어(SW) 저변을 확대했다고 밝혔다. 큐브리드는 조달청 디지털서비스몰을 통해 국방기술...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼브에이아이, 중기 AI 서비스 활용 지원 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227090515</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227090515</guid>
-            <pubDate>Tue, 27 Feb 2024 00:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼브에이아이(대표 김현수)가 중소·벤처·중견 기업들이 인공지능(AI) 서비스를 손쉽게 활용할 수 있도록 지원에 나선다. 슈퍼브에이아이는 '2024 인공지능(AI) 바우처 지원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
