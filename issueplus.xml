@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 08:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 09:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://image.zdnet.co.kr/2023/08/17/fba72ecda66fdeab447dbf7af74ec25a-300x300.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["지구가 멍 든다"…中서 바닷 속에 데이터센터 넣은 까닭은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227112545</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227112545</guid>
-            <pubDate>Tue, 27 Feb 2024 09:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[데이터센터 증설 경쟁에 각국서 에너지 소비 비상…빅테크, '환경 문제'로 골머리]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/03/15/70abd48ff38ccec250c83a00a3516783-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[재고 쌓이고 성장 정체 겪는 전기차...하이브리드로 곁눈질]]></title>
             <link>https://zdnet.co.kr/view/?no=20240226161652</link>
             <guid>https://zdnet.co.kr/view/?no=20240226161652</guid>
             <pubDate>Tue, 27 Feb 2024 08:13:12 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 전기차·배터리에 닥친 '캐즘' 극복 방안 ①]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/02/27/ac820fc8de72202263d567014e3fbf8b-300x300.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["지구가 멍 든다"…中서 바닷 속에 데이터센터 넣은 까닭은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227112545</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227112545</guid>
+            <pubDate>Tue, 27 Feb 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[데이터센터 증설 경쟁에 각국서 에너지 소비 비상…빅테크, '환경 문제'로 골머리]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/15/70abd48ff38ccec250c83a00a3516783-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 마이크론, HBM3E 양산 개시...삼성·SK 보다 빨라]]></title>
@@ -214,6 +214,30 @@
             <pubDate>Thu, 21 Sep 2023 06:14:07 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 베트남, 中 대체할 새 IT 생산기지로 급부상]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/09/21/bedfde1b8387df80e63d4852054122f0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日, IBM·TSMC와 손잡고 반도체 강국 부활 꿈꾼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230831144024</link>
+            <guid>https://zdnet.co.kr/view/?no=20230831144024</guid>
+            <pubDate>Wed, 28 Feb 2024 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 반도체 공급망 확보전③ 일본, 2027년 2나노 칩 양산 목표]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/31/6cddfd6c0e60055c1a61294a68f756f0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU, 파운드리 투자 공세…차량용 칩 자급자족 목표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230829100718</link>
+            <guid>https://zdnet.co.kr/view/?no=20230829100718</guid>
+            <pubDate>Wed, 28 Feb 2024 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 반도체 공급망 확보전② 유럽, 2030년 제조점유 20% 목표]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/30/78552d309fe93bd91242f713e6052f42-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도, 반도체 투자 러시...中 대체국가 꿈꾼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20230824171950</link>
+            <guid>https://zdnet.co.kr/view/?no=20230824171950</guid>
+            <pubDate>Wed, 28 Feb 2024 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 반도체 공급망 확보전① 인도, 美·日과 손잡고 기술 협력]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/16/be1456451de0ccfbb453bc2153c66e8f-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
