@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 04:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 05:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["계정서 비정상적 행위 감지"...안랩, 기업 계정정보 탈취시도 포착]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240228132128</link>
+            <guid>https://zdnet.co.kr/view/?no=20240228132128</guid>
+            <pubDate>Wed, 28 Feb 2024 05:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[안랩이 최근 기업 계정 정보 탈취를 시도하는 피실 메일을 발견했다면서 사용자의 주의를 당부했다. 28일 안랩에 따르면 이번에 발견된 피싱 메일은 '계정에서 비정상적 행위가 감지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈텍스트 "장애대응과 DR, OS 레벨 실시간 복제 하나로 해결"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240228121249</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[과기정통부, 메타버스 육성 올 1200억 투입···500억 규모 펀드 조성]]></title>
+            <title><![CDATA[과기정통부, 메타버스 육성 올해 1200억 투입···500억 규모 펀드 조성]]></title>
             <link>https://zdnet.co.kr/view/?no=20240228092839</link>
             <guid>https://zdnet.co.kr/view/?no=20240228092839</guid>
             <pubDate>Wed, 28 Feb 2024 03:10:41 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240228093905</guid>
             <pubDate>Wed, 28 Feb 2024 00:40:32 GMT</pubDate>
             <content:encoded><![CDATA[엠로는 기획재정부 초청으로 참여한 행사에서 불안정한 공급망을 개선하기 위한 방안을 제시했다. 엠로(대표 송재민)가 '대한민국 경제공급망 안정화 정책 포럼'에 참여해 기업 공급망...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["우크라戰 승리 돕겠다"…獨 국방 AI 스타트업, 드론 기술 지원 사격 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240228075936</link>
-            <guid>https://zdnet.co.kr/view/?no=20240228075936</guid>
-            <pubDate>Wed, 28 Feb 2024 00:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[독일 국방 인공지능(AI) 스타트업 헬싱이 우크라이나가 생산하는 드론에 자사 AI 기술을 제공키로 했다. 러시아와 2년여간 전쟁을 벌이고 있는 우크라이나가 이번 일로 승기를 잡...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
