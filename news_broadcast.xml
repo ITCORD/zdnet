@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 22:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 23:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC] KT, AWS와 생성형 AI 맞손]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229014242</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229014242</guid>
+            <pubDate>Wed, 28 Feb 2024 23:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[KT와 아마존이 생성형 인공지능(AI) 분야 협업에 나선다. KT는 아마존웹서비스(AWS)와 MWC24에서 기업간거래(B2B) 이용자 모바일 서비스, 생성 AI 분야 협력을 강...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC] SKT, 개인형 AI비서 확 키운다...휴메인·퍼플렉시티와 한배 탔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229032641</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229032641</guid>
+            <pubDate>Wed, 28 Feb 2024 23:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 MWC24에서 글로벌 시장에서 차세대 AI 기업으로 주목 받고 있는 휴메인(Humane), 퍼플렉시티(Perplexity) 등과 개인형 AI 비서(PAA) 사업 고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC] SKT, 슈퍼마이크로-람다와 AI 데이터센터 시장 공략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229031650</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229031650</guid>
+            <pubDate>Wed, 28 Feb 2024 23:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 슈퍼마이크로, 람다와 협력해 AI 분야 필수 인프라로 손꼽히는 AI 데이터센터(AI DC) 시장 공략에 본격 나선다고 29일 밝혔다. AI DC란 AI 학습과 추론...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 오픈랜도 AI도...글로벌 통신업계 "뭉쳐야 산다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240228183913</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240227072621</guid>
             <pubDate>Tue, 27 Feb 2024 00:40:42 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 MWC24에서 아마존웹서비스(AWS), 삼성전자와 함께 인공지능(AI)으로 5G 장비 증설 시점을 최적화하는 자동화 기능을 개발하는 데 협력하기로 했다고 27일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC]유영상 SKT "AI로 시장 판도 바꾸겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227070621</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227070621</guid>
-            <pubDate>Mon, 26 Feb 2024 23:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[“우리는 항상 글로벌에 대한 갈망과 피해의식이 있었다. 통신을 포함해 한국 서비스 기업이 글로벌 스케일을 가진 적이 많지 않다. 제조업은 글로벌 활약이 두드러지는데, 서비스는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] 유심? 이심?..."혹시 r심은 들어보셨나요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227020423</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227020423</guid>
-            <pubDate>Mon, 26 Feb 2024 17:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[가입자식별모듈(유심, USIM)도 진화한다. 플라스틱 카드 기반의 유심은 크기를 줄여나갔고, 단말기에 내장되는 이심(임베디드 유심) 형태가 쓰이기도 한다. 해외여행을 계획하다 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] 6G 시대 도래...위성통신 존재감 커졌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226212028</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226212028</guid>
-            <pubDate>Mon, 26 Feb 2024 13:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[MWC24 현장에서 6G 이동통신 논의와 함께 위성통신의 존재감이 여실히 커졌다. 아직 6G 표준 기술 논의는 이뤄지지 않았지만 위성통신은 이미 6G 시대의 필수 기술로 꼽히기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
