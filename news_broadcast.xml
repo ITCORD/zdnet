@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MWC] "5G특화망 구축, HFR이 책임진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240227211638</link>
+            <guid>https://zdnet.co.kr/view/?no=20240227211638</guid>
+            <pubDate>Wed, 28 Feb 2024 03:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[통신장비 제조업체 HFR이 MWC24에서 비용 부담을 줄이고, 효율성을 높일 수 있는 5G 특화망 솔루션을 제시했다. 5G 특화망이란 기업이 공장, 건물 등 특정 지역에서 5G...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[안리쓰, 한국전파진흥협회와 '6G 기술 검증' 협력 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20240228111218</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226171655</guid>
             <pubDate>Mon, 26 Feb 2024 10:11:25 GMT</pubDate>
             <content:encoded><![CDATA[멀리서 보면 헬리콥터와 유사하다. 언뜻 드론을 늘려놓은 것 같기도 하다. 내부를 보면 좌석도 구비됐다. SK텔레콤이 MWC24 전시장에 마련한 도심항공교통(UAM) 기체다. S...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] 샤오미 사이버도그2..."로봇이 멍멍 짓네요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226164800</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226164800</guid>
-            <pubDate>Mon, 26 Feb 2024 08:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[MWC24 전시관 피라그란비아 3홀 샤오미 부스 앞에는 이른 시각부터 관람객들로 붐볐다. 멀리서 보면 강아지들이 움직이는 것처럼 보인다. 강아지가 아니다. 실제 강아지에서 모티...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
