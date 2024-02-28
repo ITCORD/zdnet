@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 01:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 02:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안리쓰, 한국전파진흥협회와 '6G 기술 검증' 협력 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240228111218</link>
+            <guid>https://zdnet.co.kr/view/?no=20240228111218</guid>
+            <pubDate>Wed, 28 Feb 2024 02:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[일본 통신 솔루션 업체 안리쓰와 한국전파진흥협회(RAPA)가 5세대 이후(B5G) 및 6세대(6G) 이동통신 분야 공동 기술 개발을 위한 협약을 지난 22일 일본 안리쓰 본사에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] SKT, 데이터센터 액침냉각 기술 확보]]></title>
             <link>https://zdnet.co.kr/view/?no=20240228014123</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240226164800</guid>
             <pubDate>Mon, 26 Feb 2024 08:12:51 GMT</pubDate>
             <content:encoded><![CDATA[MWC24 전시관 피라그란비아 3홀 샤오미 부스 앞에는 이른 시각부터 관람객들로 붐볐다. 멀리서 보면 강아지들이 움직이는 것처럼 보인다. 강아지가 아니다. 실제 강아지에서 모티...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] SKT, 글로벌 통신사 4곳과 AI 합작법인 세운다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240226035014</link>
-            <guid>https://zdnet.co.kr/view/?no=20240226035014</guid>
-            <pubDate>Mon, 26 Feb 2024 08:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 26일(현지시간) MWC24 개막 현장에서 유럽, 중동, 아시아의 대표 통신사 최고 경영진들과 만나 인공지능(AI) 기술 공동 개발 과 사업 협력을 수행할 합작법인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
