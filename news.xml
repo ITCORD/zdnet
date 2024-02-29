@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 20:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 21:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 2015년 인수한 FPGA 업체 '알테라' 재분사]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229174557</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229174557</guid>
+            <pubDate>Thu, 29 Feb 2024 21:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 2015년 167억 달러(약 18조 6천억원)에 인수했던 FPGA(프로그래머블반도체) 기업, 알테라를 다시 인텔 조직에서 분리한다. 현재 인텔에서 회계와 인사 등 법적인...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/29/75c294450b9146fe99da0aeb01b123b6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] 205개 국가서 10만명 모였다...2700개 기업 참여]]></title>
             <link>https://zdnet.co.kr/view/?no=20240301035949</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240229204154</guid>
             <pubDate>Thu, 29 Feb 2024 12:17:05 GMT</pubDate>
             <content:encoded><![CDATA[배우 윤진이가 결혼생활을 처음 공개한다. 29일 SBS에 따르면, 내달 11일 오후 10시10분 방송되는 SBS TV 예능물 '너는 내 운명- 동상이몽 시즌2'(이하 '동상이몽...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/29/enter890c04ad55db65811174f3b6aff78287-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['폭주' 비트코인, 1억원까지 얼마 안 남았다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229170151</guid>
             <pubDate>Thu, 29 Feb 2024 08:11:56 GMT</pubDate>
             <content:encoded><![CDATA[화웨이가 MWC24에서 ICT 서비스와 소프트웨어 분야의 디지털 지능형 솔루션 시리즈를 출시한다고 발표했다. 브루스 쉰 화웨이 글로벌기술서비스부문 사장은 ▲인텔리전트 커넥티비티...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 현대IT&E에 채용연계형 개발자 양성한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240229163219</link>
-            <guid>https://zdnet.co.kr/view/?no=20240229163219</guid>
-            <pubDate>Thu, 29 Feb 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA)가 유통·식품·패션에 필요한 IT 인재 확보에 나선다. KOSA는 현대백화점그룹 현대IT&amp;E와 손잡고 내달 10일까지 신입 소프트웨어(SW) 인재...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

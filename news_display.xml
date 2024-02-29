@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 20:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 21:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 2015년 인수한 FPGA 업체 '알테라' 재분사]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229174557</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229174557</guid>
+            <pubDate>Thu, 29 Feb 2024 21:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 2015년 167억 달러(약 18조 6천억원)에 인수했던 FPGA(프로그래머블반도체) 기업, 알테라를 다시 인텔 조직에서 분리한다. 현재 인텔에서 회계와 인사 등 법적인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC와 경쟁하는 삼성, HBM 사업에 악영향주나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240229155512</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240227072357</guid>
             <pubDate>Tue, 27 Feb 2024 01:41:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 현지에 투자를 계획 중인 반도체 기업들이 반도체지원법(칩스법) 규모의 2배에 달하는 지원금을 요청했다고 블룸버그통신 등이 26일 보도했다. 이날 지나 러몬도 상무장관은 워...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, "반도체 설게 인력 7백명 양성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227092022</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227092022</guid>
-            <pubDate>Tue, 27 Feb 2024 01:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 오는 2028년까지 반도체 설계 인력 7백 명을 양성할 계획이라고 27일 밝혔다. ETRI는 지난해 교육부가 주관하는 반도체 분야 인재양성을 위한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
