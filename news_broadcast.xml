@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 00:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 01:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용이 점 찍은 삼성 사업…美 디시네트워크 5G VoNR 상용화 이끌어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229101802</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229101802</guid>
+            <pubDate>Thu, 29 Feb 2024 01:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[미국 제4통신사인 디시네트워크가 삼성전자의 도움으로 현지에서 5세대(5G) 이동통신을 기반으로 음성통화를 제공하는 VoNR(Voice Over New Radio) 서비스를 상용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MWC] SKT, 글로모 어워드 2관왕·5년 연속 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229074338</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229074338</guid>
+            <pubDate>Thu, 29 Feb 2024 01:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 세계이동통신사업자연합회(GSMA) 글로벌 모바일 어워드에서 인공지능(AI) 기반 시각보조 음성 안내 서비스 '설리번 파인더', AI 클라우드 관리 플랫폼 '클라우드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MWC] KT, AWS와 생성형 AI 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20240229014242</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240227094634</guid>
             <pubDate>Tue, 27 Feb 2024 01:40:35 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 26(현지시간) MWC에서 책임성 있는 인공지능 주제로 장관 세션에 참석, '디지털 권리장전'을 전 세계에 알렸다. 류제명 과기정통부 네트워크정책실장과 앤 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] KT, 5G·위성 상용 주파수 지원 RIS 기술 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227081652</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227081652</guid>
-            <pubDate>Tue, 27 Feb 2024 00:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 서울대학교 전기, 정보공학부 연구팀과 5G 무선 통신 주파수 3.5GHz 대역과 KT스카이라이프 위성 주파수 12GHz 대역에서 동작하는 재구성 가능한 지능형 표면(RI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] LGU+, AWS·삼성전자와 AI로 5G 장비 용량 자동 조절]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227072621</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227072621</guid>
-            <pubDate>Tue, 27 Feb 2024 00:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 MWC24에서 아마존웹서비스(AWS), 삼성전자와 함께 인공지능(AI)으로 5G 장비 증설 시점을 최적화하는 자동화 기능을 개발하는 데 협력하기로 했다고 27일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
