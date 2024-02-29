@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 21:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 22:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혁신 일으키는 AI, 글로벌 기업서 어떻게 적용할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240229095004</link>
+            <guid>https://zdnet.co.kr/view/?no=20240229095004</guid>
+            <pubDate>Thu, 29 Feb 2024 22:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[알파고로 전 세계에 충격을 준 인공지능(AI)이 10년도 채 지나지 않아 글로벌 산업에 혁신의 바람을 일으키고 있다. 오픈AI가 선보인 챗GPT는 직접 콘텐츠를 만드는 생성형A...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/29/d0617e3bce3040df999ea39313f0d740-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 2015년 인수한 FPGA 업체 '알테라' 재분사]]></title>
             <link>https://zdnet.co.kr/view/?no=20240229174557</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240301035949</guid>
             <pubDate>Thu, 29 Feb 2024 19:07:36 GMT</pubDate>
             <content:encoded><![CDATA[29일(현지시간) 총 나흘간 열린 MWC24에 10만명 이상의 참관객이 몰리며 코로나 이전 수준의 열기를 회복하게 됐다. 세계이동통신사업자연합회(GSMA)에 따르면, MWC24...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/01/24c0c2c5c2894b1629a09c9cd71a2be4-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[윤진이, 동상이몽 출격...'금융맨 남편' 첫 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229170615</guid>
             <pubDate>Thu, 29 Feb 2024 08:11:56 GMT</pubDate>
             <content:encoded><![CDATA[tvN스포츠가 2024 AFC U-20 여자 아시안컵 대한민국 대표팀 전 경기 생중계를 맡는다. 2024 AFC U-20 여자 아시안컵 대회는 본선에 오른 8개 팀이 2개 조로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] 화웨이, DX 가속화 지능형 SW 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240229170151</link>
-            <guid>https://zdnet.co.kr/view/?no=20240229170151</guid>
-            <pubDate>Thu, 29 Feb 2024 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이가 MWC24에서 ICT 서비스와 소프트웨어 분야의 디지털 지능형 솔루션 시리즈를 출시한다고 발표했다. 브루스 쉰 화웨이 글로벌기술서비스부문 사장은 ▲인텔리전트 커넥티비티...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
