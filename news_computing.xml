@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 22:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 23:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 시총 2조 달러도 돌파…"종가 기준 최초"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240302074959</link>
+            <guid>https://zdnet.co.kr/view/?no=20240302074959</guid>
+            <pubDate>Fri, 01 Mar 2024 23:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아의 시가총액이 1일(현지시간) 미국 뉴욕 증시에서 사상 처음으로 2조 달러(약 2천660조원)를 돌파했다고 로이터 등 외신들이 보도했다. 이날 엔비디아의 주가는 전거래일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI에 '뿔난' 일론 머스크, 샘 알트먼과 법적 분쟁 벌인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240302001451</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229132313</guid>
             <pubDate>Thu, 29 Feb 2024 05:11:42 GMT</pubDate>
             <content:encoded><![CDATA[라이트릭스(Lightricks)가 인공지능(AI) 기반 영화 제작 도구인 'LTX 스튜디오(LTX Studio)'를 공개했다. 텍스트를 영상으로 만드는 것은 물론 스토리보드 생...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 도로교통공단 가명정보 결합기관지정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240229135050</link>
-            <guid>https://zdnet.co.kr/view/?no=20240229135050</guid>
-            <pubDate>Thu, 29 Feb 2024 05:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 교통 안전 데이터와 복지·의료·통신 등 데이터를 안전하게 가명정보로 결합할 수 있게 되면서 도로교통 행정이 개선될 것으로 기대된다. 개인정보위는 도로교통공단을 가명정보 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
