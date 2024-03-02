@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 23:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 00:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안전 확인하려다 계정탈취…피싱 메일 주의보]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240228113256</link>
+            <guid>https://zdnet.co.kr/view/?no=20240228113256</guid>
+            <pubDate>Sat, 02 Mar 2024 00:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[사내 지원팀으로 위장해 기업 계정 정보를 탈취하려는 시도가 발견돼 주의가 요구된다. 2일 안랩(대표 강석균)은 최근 기업 계정 정보 탈취를 시도하는 피싱 메일을 발견했다며 해당...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, 시총 2조 달러도 돌파…"종가 기준 최초"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240302074959</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229143243</guid>
             <pubDate>Thu, 29 Feb 2024 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA["국내 클라우드가 기술력 발전을 통한 해외 진출이 확대될 수 있도록 다양한 협력 체계와 지원 방안을 마련하기 위해 최선을 다하겠습니다." 29일 서울 양재동 엘타워에서 열린 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["프롬프트 입력하면 영상이?"...라이트릭스, AI 기반 영화 제작 도구 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240229132313</link>
-            <guid>https://zdnet.co.kr/view/?no=20240229132313</guid>
-            <pubDate>Thu, 29 Feb 2024 05:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[라이트릭스(Lightricks)가 인공지능(AI) 기반 영화 제작 도구인 'LTX 스튜디오(LTX Studio)'를 공개했다. 텍스트를 영상으로 만드는 것은 물론 스토리보드 생...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
