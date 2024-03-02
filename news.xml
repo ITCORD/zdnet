@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 08:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, 마이크로LED 애플워치 울트라 출시 취소"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240302172414</link>
+            <guid>https://zdnet.co.kr/view/?no=20240302172414</guid>
+            <pubDate>Sat, 02 Mar 2024 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[최근 마이크로LED 패널 제조사 독일 오슬람이 익명의 고객이 마이크로LED에 대한 모든 주문을 갑작스럽게 취소했다고 밝히면서 해당 고객이 애플이라는 소문이 나왔다. IT매체 맥...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/25/870a4fbf0b3d6e3a70771bfeea3750e2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '파묘' 개봉 10일 차 500만 돌파…'서울의 봄' 보다 더 빨라]]></title>
             <link>https://zdnet.co.kr/view/?no=20240302170303</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240301181804</guid>
             <pubDate>Sat, 02 Mar 2024 05:09:43 GMT</pubDate>
             <content:encoded><![CDATA[마이크로LED를 탑재한 애플워치 울트라가 출시될 것이라는 소문이 1년 넘게 나온 가운데, 애플이 이 계획을 연기했을 가능성이 제기됐다. IT매체 애플인사이더는 애플이 애플워치 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/27/19207ee1f139cc9a136af7f3bd8d186d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제25회 대한민국신약개발상 신약개발부문 대상 '유한양행‧GC녹십자' 선정]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229165816</guid>
             <pubDate>Sat, 02 Mar 2024 00:39:51 GMT</pubDate>
             <content:encoded><![CDATA[3평 규모로 작게 차렸던 카페는 '커피 맛집'이란 소문을 타고 문전성시를 이뤘다. 몇 번의 확장 이전과 만족스러운 성과도 있었다. 하지만 코로나로 상황이 반전됐고, 매장에서 하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아 4.0% 상승에 AMD도 5.25% 급등]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240302081503</link>
-            <guid>https://zdnet.co.kr/view/?no=20240302081503</guid>
-            <pubDate>Sat, 02 Mar 2024 00:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI) 최대 수혜주 엔비디아가 4% 급등하자 제2의 엔비디아로 불리는 AMD도 5% 이상 급등했다. 1일(현지시간) 뉴욕증시에서 AMD는 전거래일보다 5.25%...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
