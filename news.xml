@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 01:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 02:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 올해 반도체·디스플레이 소재부품 기술에 1.1조원 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240303094836</link>
+            <guid>https://zdnet.co.kr/view/?no=20240303094836</guid>
+            <pubDate>Sun, 03 Mar 2024 02:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 반도체, 디스플레이, 항공·우주 등 첨단산업의 소재부품 기술개발에 올해 총 1조1410억 원을 지원한다. 산업통상자원부(이하 산업부)는 첨단산업 초격차와 공급망 안정화 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/06/01/f8ff7f7017ae9aae6b88e4e0db5c235d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디캠프 2월 디데이, AI 간접광고 솔루션 '인쇼츠' 우승]]></title>
             <link>https://zdnet.co.kr/view/?no=20240303103952</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240303102930</guid>
             <pubDate>Sun, 03 Mar 2024 01:43:19 GMT</pubDate>
             <content:encoded><![CDATA['가요계 레전드' 남진이 '아빠하고 나하고'에 스페셜 게스트로 출격, '60년 지기' 백일섭을 향한 의리를 과시한다. 오는 6일 오후 방송되는 TV조선(TV CHOSUN) 리얼...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/03/enter8a2e59c3a8197a73ae476f5673799f9b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LG엔솔·SK온, '인터배터리'서 셀투팩·하이니켈 신제품 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240303090017</guid>
             <pubDate>Sun, 03 Mar 2024 00:43:13 GMT</pubDate>
             <content:encoded><![CDATA[CJ온스타일은 홈퍼니싱·인테리어·홈키친 등 집 관련 수요가 증가할 것으로 예측됨에 따라, 올 봄 리빙 키워드를 'H.O.M.E'으로 선정했다. '집콕' 시대가 도래하면서 집이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MWC] LG유플러스-AWS, AI 활용한 협업 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240303084039</link>
-            <guid>https://zdnet.co.kr/view/?no=20240303084039</guid>
-            <pubDate>Sun, 03 Mar 2024 00:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 지난달 열린 MWC24에서 아마존웹서비스(AWS)와 인공지능(AI) 활용 극대화를 위한 협력 강화 협약을 맺었다고 3일 밝혔다. 황현식 LG유플러스 대표와 캐서린...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
