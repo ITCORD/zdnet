@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 00:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 02:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN에듀, 메타버스 학습경험 플랫폼 원더버스 공식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240304093949</link>
+            <guid>https://zdnet.co.kr/view/?no=20240304093949</guid>
+            <pubDate>Mon, 04 Mar 2024 02:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[NHN에듀(대표 여원동)는 4일 세계 최초 메타버스 학습경험 플랫폼(Learning eXperience Platform, LXP) '원더버스(Wondervers)'를 공식 출시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인물 사진만 찍으면 '말하는 영상'이 나온다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240304015748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240228164406</guid>
             <pubDate>Wed, 28 Feb 2024 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[10년만에 한국에 온 메타 최고경영자(CEO) 마크 저커버그가 메타코리아 사무실에서 확장현실(XR) 스타트업 관계자들과 만나 업계 이목이 쏠렸다. 개발자 출신인 저커버그는 촉박...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 선거 관련 '허위 댓글 신고 기능' 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240228155145</link>
-            <guid>https://zdnet.co.kr/view/?no=20240228155145</guid>
-            <pubDate>Wed, 28 Feb 2024 08:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 4월 10일 제22대 국회의원 선거를 앞두고, 선거 관련 허위 정보 확산을 막기 위한 '뉴스 댓글 신고' 기능을 적용했다. 28일 네이버 공지에 따르면, 이날부터 선거...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
