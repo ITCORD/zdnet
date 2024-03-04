@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 02:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 03:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, Si·GaN 컨버터 효율성 높이는 동기식 정류기 컨트롤러 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240304093704</link>
+            <guid>https://zdnet.co.kr/view/?no=20240304093704</guid>
+            <pubDate>Mon, 04 Mar 2024 02:59:42 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 실리콘 또는 GaN 트랜지스터로 구현되는 컨버터의 설계를 간소화하고 효율성을 향상시키는 'SRK1004' 동기식 정류기 컨트롤러를 출시했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[캠시스, 공평 장학재단 장학생에 등록금 전액 지급]]></title>
             <link>https://zdnet.co.kr/view/?no=20240304085244</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240227102726</guid>
             <pubDate>Tue, 27 Feb 2024 05:10:56 GMT</pubDate>
             <content:encoded><![CDATA[로옴(ROHM)이 자사의 'EcoGaN' 650V GaN(질화갈륨) 제품을 대만 델타일렉트로닉스의 브랜드 이너지(Innergie)의 45W 출력 AC 어댑터 'C4 Duo'에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 세계 첫 36GB 12단 HBM3E 개발...상반기 양산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240227081348</link>
-            <guid>https://zdnet.co.kr/view/?no=20240227081348</guid>
-            <pubDate>Tue, 27 Feb 2024 02:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 세계 최초로 36GB(기가바이트) 5세대 고대역폭메모리(HBM) HBM3E 12H(12단 적층) D램을 개발했다고 27일 밝혔다. 삼성전자는 12단 HBM3E의 샘플...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
