@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 06:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 삼성전자, '2세대 3나노' 공정 명칭 '2나노'로 변경]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240305143119</link>
+            <guid>https://zdnet.co.kr/view/?no=20240305143119</guid>
+            <pubDate>Tue, 05 Mar 2024 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 파운드리(반도체 위탁생산) '2세대 3나노미터(mn)' 공정 명칭을 '2나노'로 변경하기로 결정했다. 즉, 연내 양산을 목표로 하던 2세대 3나노 공정을 앞으로 2나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TI, 'GaN 반도체' 시장 공략 가속화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240305123450</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229092326</guid>
             <pubDate>Thu, 29 Feb 2024 00:41:39 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스와 가우스랩스가 AI(인공지능) 기반 반도체 계측 기술 성과를 합동으로 발표했다. 이 기술을 통해 향후 반도체 제조 공장이 생산성이 개선될 것으로 기대된다. 양사는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 '큰 그림' 따로 있었다..."2027년 말 1나노급 공정 돌입"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240228231249</link>
-            <guid>https://zdnet.co.kr/view/?no=20240228231249</guid>
-            <pubDate>Thu, 29 Feb 2024 00:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 1나노급 반도체 생산 공정 '인텔 10A' 생산을 오는 2027년 말부터 시작한다는 내부 방침 아래 초미세공정 로드맵을 준비해 왔다는 사실이 뒤늦게 드러났다. 인텔은 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
