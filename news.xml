@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 10:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 11:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스엘게임즈, 위믹스 메인넷 '40 원더스' 합류]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240306192603</link>
+            <guid>https://zdnet.co.kr/view/?no=20240306192603</guid>
+            <pubDate>Wed, 06 Mar 2024 11:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[40 원더스는 위믹스3.0 메인넷 거래와 블록을 검증 및 전파하고 추가되는 노드와 연결을 유지해 메인넷을 안정적으로 운영하는 노드 카운슬 파트너다. 엑스엘게임즈는 '원더 24'...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/06/94809d2503ffee489ead87d184c4e1ca-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[머스크에 소송당한 오픈AI, 반박 성명 내놔]]></title>
             <link>https://zdnet.co.kr/view/?no=20240306175040</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240306171434</guid>
             <pubDate>Wed, 06 Mar 2024 10:10:22 GMT</pubDate>
             <content:encoded><![CDATA[[벡스코(부산)=신영빈 기자] 한국항공우주산업(KAI)은 6일부터 8일까지 부산 벡스코에서 열리는 '2024 드론쇼코리아'에 참가해 유·무인전투기와 무인기전투기, 위성까지 결합...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/06/ffaa2207b3665f9c5c2103c72dbd82bc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대한항공, 중고도 무인기 모형 선봬…"올해 양산 착수"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240306154413</guid>
             <pubDate>Wed, 06 Mar 2024 09:09:55 GMT</pubDate>
             <content:encoded><![CDATA[[벡스코(부산)=신영빈 기자] 자율군집제어 전문기업 파블로항공은 부산 벡스코에서 6일부터 3일간 '2024 드론쇼코리아'에 공식 후원사로 참가해 자율군집제어 기술과 관제시스템을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최윤호 삼성SDI 사장 "46파이 배터리 내년 초 양산 가능"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240306170021</link>
-            <guid>https://zdnet.co.kr/view/?no=20240306170021</guid>
-            <pubDate>Wed, 06 Mar 2024 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[삼성SDI가 내년 초 46파이 원통형 배터리 양산이 가능할 것으로 예상했다. 최윤호 삼성SDI 대표이사 사장은 6일 서울 삼성동 코엑스에서 개막한 '인터배터리 2024' 현장에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
