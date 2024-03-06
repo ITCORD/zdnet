@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 23:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 00:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 中 AI 반도체 수출 '제동'…美 상무부 규제]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240306081457</link>
+            <guid>https://zdnet.co.kr/view/?no=20240306081457</guid>
+            <pubDate>Wed, 06 Mar 2024 00:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[미국 주요 팹리스 AMD의 중국향 AI 반도체 수출에 미국 상무부가 제동을 걸었다고 블룸버그통신이 5일 보도했다. 블룸버그통신은 익명의 소식통을 인용해 "AMD가 기존 대비 성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 6세대 FPGA '스파르탄 울트라스케일+' 내년 하반기 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240305163708</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240229155512</guid>
             <pubDate>Thu, 29 Feb 2024 08:12:32 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 메모리 시장 1위 자리를 공고히 지켜온 삼성전자가 차세대 메모리로 주목되는 고대역폭메모리(HBM) 분야에서는 SK하이닉스에 밀리며 자존심을 구기고 있다. 최근엔 HBM ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日 파운드리 라피더스, 텐스토렌트와 2나노 AI 칩 생산 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240229083507</link>
-            <guid>https://zdnet.co.kr/view/?no=20240229083507</guid>
-            <pubDate>Thu, 29 Feb 2024 01:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[일본 파운드리(위탁생산) 업체 라피더스가 캐나다 팹리스 텐스토렌트로부터 2나노미터(㎚: 1㎚=10억분의 1m) 공정 기반 인공지능(AI) 칩 생산을 수주했다. 한국, 미국, 대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
