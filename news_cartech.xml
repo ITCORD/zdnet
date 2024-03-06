@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 10:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전기차 에너지밀도 50%, 가격 40% 이상 절감 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240306173908</link>
+            <guid>https://zdnet.co.kr/view/?no=20240306173908</guid>
+            <pubDate>Wed, 06 Mar 2024 10:11:34 GMT</pubDate>
+            <content:encoded><![CDATA["현대자동차는 세계 최초로 리튬이온 배터리를 양산했습니다. 토요타도 프리우스에 하이브리드 시스템을 넣으면서 양산했지만, 현대차와는 다른 방식입니다. 저희가 사용하는 변속기 장착...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["현대차도 탐냈다"…전기차 충전 신기술 한가득]]></title>
             <link>https://zdnet.co.kr/view/?no=20240306160107</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240304015440</guid>
             <pubDate>Mon, 04 Mar 2024 00:42:12 GMT</pubDate>
             <content:encoded><![CDATA[중국에서 전기차 배터리를 12분 충전하면 500km까지 주행할 수 있는 충전기가 가동된다. 3일 중국 언론 IT즈자에 따르면 리오토는 '5C 슈퍼차저' 운영을 시작했다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, '458㎞' 가는 아이오닉5 부분변경 출시…가격동결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240229162946</link>
-            <guid>https://zdnet.co.kr/view/?no=20240229162946</guid>
-            <pubDate>Mon, 04 Mar 2024 00:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차가 상품성을 대폭 강화한 전용 전기차 '더 뉴 아이오닉 5(아이오닉 5)'를 4일 출시했다고 밝혔다. 현대차가 출시한 아이오닉 5는 2021년 출시 이후 3년 여 만에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

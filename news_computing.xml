@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 10:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크에 소송당한 오픈AI, 반박 성명 내놔]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240306175040</link>
+            <guid>https://zdnet.co.kr/view/?no=20240306175040</guid>
+            <pubDate>Wed, 06 Mar 2024 10:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 "전 인류 이익을 위해 인공지능(AI) 기술을 만든다"는 사명을 어겼다고 오픈AI를 고소한 가운데, 오픈AI가 머스크와 나눈 이메일을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["3개 심장 가진 AI 전문회사"···마음AI, 창립 9주년 기념 신기술·신제품 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240306180712</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240306094442</guid>
             <pubDate>Wed, 06 Mar 2024 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[과기정통부가 혁신 AI 기술을 영남권 제조업과 호남권 농업 분야에 융합하는 사업을 올해 시행한다. 이를 통해 각 지역이 보유한 장점을 극대화하고, 직면한 현안 해결과 산업 체질...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지 '솔라', 센드버드 챗봇에 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240306105345</link>
-            <guid>https://zdnet.co.kr/view/?no=20240306105345</guid>
-            <pubDate>Wed, 06 Mar 2024 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지(대표 김성훈)가 자사 언어모델 '솔라'를 센드버드의 챗봇에 적용한다. 업스테이지는 인공지능(AI) 커뮤니케이션 플랫폼 센드버드와 자사 사전학습 언어모델 솔라 적용 협...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
