@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 10:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[스푼, 인기 DJ 10명 얼마 벌었나..."1인당 평균 7억원”]]></title>
+            <title><![CDATA[서울 버스정류장 전광판 먹통..."통신장비 장애"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240307183307</link>
+            <guid>https://zdnet.co.kr/view/?no=20240307183307</guid>
+            <pubDate>Thu, 07 Mar 2024 10:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[서울시 교통정보시스템 '토피스(TOPIS)'가 일시적으로 마비돼 시민의 출퇴근에 불편이 발생하고 있다. 7일 서울시는 토피스에 발생한 오류로 인해 버스정류장과 카카오톡 맵 등에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/07/ba7acd4f0ded094a48acc7b5609bdf2f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IAR, 임베디드 시스템 기능안전 'FSG 컨소시엄' 출범]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240307180913</link>
+            <guid>https://zdnet.co.kr/view/?no=20240307180913</guid>
+            <pubDate>Thu, 07 Mar 2024 10:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[IAR은 임베디드 소프트웨어 솔루션 개발기업, 반도체 전문기업, 테스트 솔루션 기업, 인증 및 컨설팅 솔루션 기업 등과 함께 기능 안전 강화를 위한 컨소시엄 FSG(Functi...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/07/71fb8513ee7efc835b6117ea7a211894-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스푼, 인기 DJ 10명 얼마 벌었나..."1인당 평균 7억원"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240307180543</link>
             <guid>https://zdnet.co.kr/view/?no=20240307180543</guid>
             <pubDate>Thu, 07 Mar 2024 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[오디오 소셜 플랫폼 '스푼'을 운영하는 스푼라디오가 상위 크리에이터의 작년 수익을 분석한 결과, 작년 한 해 동안 상위 10%에 해당하는 DJ들의 후원 수익이 2배 증가했다고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/07/fa84b20ed4d93cd3322f6fd916a8a3f7-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[넥슨 '데이브 더 다이버', 닌텐도 스위치 실물 패키지판 예약 판매]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240307163548</guid>
             <pubDate>Thu, 07 Mar 2024 08:10:17 GMT</pubDate>
             <content:encoded><![CDATA[모노커뮤니케이션즈(대표 이형수)가 양방향문자 서비스 '텔톡(TelTok)'을 협업툴 잔디와 연동해 업무 환경 개선에 나선다. 모노커뮤니케이션즈는 토스랩과 업무협약을 7일 체결했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[장항준 감독, 단순 참고인 조사…"카카오 고가인수 의혹과 무관"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307163504</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307163504</guid>
-            <pubDate>Thu, 07 Mar 2024 08:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[영화감독 장항준이 카카오엔터테인먼트의 드라마 제작사 고가 인수 의혹에 선을 그었다. 소속사 미디어시소랩은 7일 "장항준은 최근 단순 참고인 조사를 받았을 뿐"이라며 "의혹이 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KAIST, 대규모 데이터 출력 때 GPU 에러 해결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307162927</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307162927</guid>
-            <pubDate>Thu, 07 Mar 2024 08:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 그래픽 연산 장치(GPU)에서 메로리 한계로 인해 초병렬 연산 등 대규모 데이터 출력 때 발생하는 에러 문제를 국내 연구진이 해결했다. 향후 가정에서 사용하는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

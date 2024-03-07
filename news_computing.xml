@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 10:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 버스정류장 전광판 먹통..."통신장비 장애"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240307183307</link>
+            <guid>https://zdnet.co.kr/view/?no=20240307183307</guid>
+            <pubDate>Thu, 07 Mar 2024 10:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[서울시 교통정보시스템 '토피스(TOPIS)'가 일시적으로 마비돼 시민의 출퇴근에 불편이 발생하고 있다. 7일 서울시는 토피스에 발생한 오류로 인해 버스정류장과 카카오톡 맵 등에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KISA, 협력사와 ESG 확산 지원 협약 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20240307170022</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240307104021</guid>
             <pubDate>Thu, 07 Mar 2024 02:09:33 GMT</pubDate>
             <content:encoded><![CDATA[베스핀글로벌이 아마존웹서비스(AWS) 컨트롤 타워 구축기간을 최대 60%까지 단축할 수 있도록 지원한다. 베스핀글로벌은 '컨트롤 타워 위드 베스핀글로벌'을 출시한다고 7일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[흥국생명 '보험가입심사' 기간, SK C&C 덕분에 줄어든다…이유는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307103620</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307103620</guid>
-            <pubDate>Thu, 07 Mar 2024 02:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[SK C&amp;C가 디지털로 고객들의 보다 간편한 보험가입을 지원하며 설계사의 현장 보험 영업 역량을 높인다. SK C&amp;C는 7일 흥국생명의 '디지털 기반 보험 선(先)심사 및 설계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
