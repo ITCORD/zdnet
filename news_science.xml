@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 07:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 08:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST, 대규모 데이터 출력 때 GPU 에러 해결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240307162927</link>
+            <guid>https://zdnet.co.kr/view/?no=20240307162927</guid>
+            <pubDate>Thu, 07 Mar 2024 08:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 그래픽 연산 장치(GPU)에서 메로리 한계로 인해 초병렬 연산 등 대규모 데이터 출력 때 발생하는 에러 문제를 국내 연구진이 해결했다. 향후 가정에서 사용하는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/07/bba7af4471393b2c89561214d0dabe95-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["NTC 사업 출연연 자율에 맡겨달라"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240307152431</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240307032740</guid>
             <pubDate>Thu, 07 Mar 2024 02:11:23 GMT</pubDate>
             <content:encoded><![CDATA[대형언어모델(LLM)을 기반으로 만들어진 절차 성능을 자동 평가하는 기술이 세계 처음 개발했다. 한국전자통신연구원(ETRI)은 사람이 말로 작업을 명령하면 스스로 작업 절차를 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/07/a61911f7950156c04a06447aed339fa3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생명연,  고순도 줄기세포 대량 배양 성공]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240303130221</guid>
             <pubDate>Sun, 03 Mar 2024 04:15:40 GMT</pubDate>
             <content:encoded><![CDATA[과학기술연합대학원대학교(UST·총장 김이환)는 국가연구기관을 기반으로 한 고유 특성화 교육 발전에 공로가 큰 5개 스쿨 교원 7명을 명예교수로 추대했다고 3일 밝혔다. 명예교수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["물 끓이면 미세플라스틱 확 줄일 수 있다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240303104509</link>
-            <guid>https://zdnet.co.kr/view/?no=20240303104509</guid>
-            <pubDate>Sun, 03 Mar 2024 03:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[물을 끓이고 여과하면 미세플라스틱 양을 크게 줄일 수 있다는 연구 결과가 나와 주목된다. 지난 달 28일 Environmental Science &amp; Technology Lett...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
