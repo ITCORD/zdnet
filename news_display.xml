@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Mar 2024 04:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Mar 2024 05:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["中, 美 대응 위해 36조원 규모 반도체 칩 펀드 조성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240309072907</link>
+            <guid>https://zdnet.co.kr/view/?no=20240309072907</guid>
+            <pubDate>Sat, 09 Mar 2024 05:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 미국의 반도체 규제에 대응하기 위해 사상 최대 규모인 2천억 위안(약 36조원) 규모 '칩 펀드'를 조성하고 있다고 블룸버그 통신이 8일(현지시간) 소식통을 인용해 보도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGD, 1.3조원 유상증자 흥행 성공…청약률 '104.91%']]></title>
             <link>https://zdnet.co.kr/view/?no=20240308144801</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240306100220</guid>
             <pubDate>Wed, 06 Mar 2024 07:09:59 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 작년 4분기 D램 시장에서 45.5% 점유율을 차지했다. 특히 삼성전자는 2위 SK하이닉스, 3위 마이크론과 점유율 격차를 더 벌리면서 D램 시장 우위를 입증했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] SK하이닉스, 지난달 엔비디아에 '12단 HBM3E' 샘플 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240306093438</link>
-            <guid>https://zdnet.co.kr/view/?no=20240306093438</guid>
-            <pubDate>Wed, 06 Mar 2024 05:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 최선단 HBM(고대역폭메모리)인 12단 D램 적층 HBM3E(5세대 HBM)의 초기 샘플을 지난달 엔비디아에 공급한 것으로 파악됐다. 지난해 8월 8단 제품의 샘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
