@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 20:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 21:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘젠 "온디바이스AI 선점···국방 분야에 납품 기술력 등 인정"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240310161527</link>
+            <guid>https://zdnet.co.kr/view/?no=20240310161527</guid>
+            <pubDate>Sun, 10 Mar 2024 21:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 전문회사 엘젠(대표 김남현)이 온 디바이스(On Device) AI 분야 선점을 위해 속도를 내고 있다. 온 디바이스는 인터넷에 연결하지 않아도 AI를 사용할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제 7회 빅데이터AI포럼 21일 열려···클라우드 LLM 등 소개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240310224411</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240308152821</guid>
             <pubDate>Fri, 08 Mar 2024 07:11:08 GMT</pubDate>
             <content:encoded><![CDATA[기업 정보보호 공시제 이행과 신뢰성 향상을 위한 자율협의체가 발족했다. 한국인터넷진흥원(KISA 원장 이상중)은 과학기술정보통신부와 함께 정보보호 공시 내용의 신뢰성을 높이기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가명 정보 제도 도입 5년...정부, 데이터 유인 체계 강화 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240308143116</link>
-            <guid>https://zdnet.co.kr/view/?no=20240308143116</guid>
-            <pubDate>Fri, 08 Mar 2024 07:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[카카오뱅크, 강원연구원, 한국에너지재단 등이 가명 정보를 활용해 연구한 성과를 기반으로 정부가 데이터 제공 유인 체계 강화 방안 마련에 나선다. 개인정보보호위원회는 8일 한국 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
