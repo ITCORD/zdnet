@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 06:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 현대차, 5나노 공정으로 차량용 반도체 개발 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240311154455</link>
+            <guid>https://zdnet.co.kr/view/?no=20240311154455</guid>
+            <pubDate>Mon, 11 Mar 2024 07:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 5나노미터(nm, 1㎚는 10억분의 1) 첨단 공정으로 자체 차량용 반도체 개발에 나선다. 11일 업계에 따르면 현대자동차는 5나노 첨단 공정으로 ADAS용 차량용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 BYD, 8천억 들여 멕시코에 전기차 공장 짓는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240311103554</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240307101935</guid>
             <pubDate>Thu, 07 Mar 2024 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 전기차(EV)를 마치 전자기기처럼 살 수 있는 보상판매 제도를 도입했다. EV를 새로 구입하려는 소비자의 가격 부담을 줄이고, 국내 시장에서 EV 판매를 늘리기 위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓자동차기자가 뽑은 3월의 차는 '벤츠 CLE 쿠페']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307103928</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307103928</guid>
-            <pubDate>Thu, 07 Mar 2024 02:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국자동차기자협회는 올해 3월의 차에 메르세데스-벤츠 디 올-뉴 CLE 쿠페를 선정했다고 7일 밝혔다. 기자협회 산하 올해의 차 선정위원회는 전월 1일부터 말일까지 한 달 동안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

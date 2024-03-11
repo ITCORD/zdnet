@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 06:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 현대차, 5나노 공정으로 차량용 반도체 개발 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240311154455</link>
+            <guid>https://zdnet.co.kr/view/?no=20240311154455</guid>
+            <pubDate>Mon, 11 Mar 2024 07:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 5나노미터(nm, 1㎚는 10억분의 1) 첨단 공정으로 자체 차량용 반도체 개발에 나선다. 11일 업계에 따르면 현대자동차는 5나노 첨단 공정으로 ADAS용 차량용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인피니언, 차세대 'SiC MOSFET' 트렌치 기술 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240311100021</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240307145837</guid>
             <pubDate>Thu, 07 Mar 2024 07:09:26 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 TSMC, 인텔에 이어 반도체 설계기술(IP) 업체 Arm의 '토탈 디자인 프로그램'에 합류하며 2나노(mn) 공정 기반의 고성능컴퓨팅 칩 양산에 속도를 낸다. 7일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네패스, 칩렛 기반 AI반도체 개발에 지멘스 솔루션 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307144711</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307144711</guid>
-            <pubDate>Thu, 07 Mar 2024 07:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[지멘스EDA 사업부는 국내 OSAT(반도체외주패키징테스트) 기업인 네패스가 첨단 3D-IC 패키지 개발과 관련한 자사의 솔루션을 활용했다고 7일 밝혔다. 네패스는 과학기술정통부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
