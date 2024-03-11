@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 07:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 08:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, iOS18서 에어팟 프로 '보청기' 기능 추가"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240311135349</link>
+            <guid>https://zdnet.co.kr/view/?no=20240311135349</guid>
+            <pubDate>Mon, 11 Mar 2024 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[블룸버그 통신은 애플이 올 가을 출시할 예정인 차기 아이폰 운영체제 iOS18에 에어팟 프로를 위한 새로운 '보청기' 모드를 추가할 예정이라고 10일(현지시간) 보도했다. 보도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[켄우드, '뉴 셰프베이커 키친머신' 반죽기 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240311141420</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240309065339</guid>
             <pubDate>Fri, 08 Mar 2024 23:11:23 GMT</pubDate>
             <content:encoded><![CDATA[애플이 올 가을 출시할 예정인 아이폰16 프로의 디자인을 엿볼 수 있는 CAD 렌더링이 공개됐다. IT매체 91모바일은 8일(현지시간) 아이폰16 프로의 CAD 정보를 입수해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["협동로봇 충돌 안전 계산하고 써야죠"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240305160245</link>
-            <guid>https://zdnet.co.kr/view/?no=20240305160245</guid>
-            <pubDate>Fri, 08 Mar 2024 23:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[산업용 다관절 로봇 가운데 사람과 가까운 곳에서 작업한다는 '협동로봇'이라는 개념이 로봇 업계 관심사다. 다만 협동로봇이라는 범주는 업계 편의로 정한 것일 뿐이다. 특정한 안전...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
