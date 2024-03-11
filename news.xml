@@ -4,24 +4,48 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 02:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 03:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위, 소비자보호 소홀한 '에어비앤비' 제재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240311101640</link>
+            <guid>https://zdnet.co.kr/view/?no=20240311101640</guid>
+            <pubDate>Mon, 11 Mar 2024 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회가 사이버몰 운영자로서 자사 신원 정보를 초기 화면에 기재하지 않고, 호스트 신원을 소비자에게 제공하지 않은 에어비앤비 아일랜드(이하 에어비앤비)에 제재 조치했다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/03/21/014847050f920041147a1f083c99787f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인피니언, 차세대 'SiC MOSFET' 트렌치 기술 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240311100021</link>
+            <guid>https://zdnet.co.kr/view/?no=20240311100021</guid>
+            <pubDate>Mon, 11 Mar 2024 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[인피니언 테크놀로지스는 차세대 실리콘 카바이드(SiC) MOSFET 트렌치 기술을 출시한다고 11일 밝혔다. 새로운 인피니언 CoolSiC MOSFET 650V 및 1200V ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/11/491a9bc019f04e6fe44dfe24309612aa-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 CATL·샤오미 돈 모아 '배터리 셀' 공장 베이징에 짓는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240311013637</link>
+            <guid>https://zdnet.co.kr/view/?no=20240311013637</guid>
+            <pubDate>Mon, 11 Mar 2024 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[중국 자동차 기업과 배터리 기업 등이 공동으로 투자해 베이징에 배터리 셀 공장을 건설한다. 9일 중국 언론 신징바오에 따르면, 중국 국영 기업 베이징자동차의 친환경 자동차 계열...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이강인·손흥민 모두 발탁…황선홍호 명단 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20240311111456</link>
             <guid>https://zdnet.co.kr/view/?no=20240311111456</guid>
             <pubDate>Mon, 11 Mar 2024 02:17:18 GMT</pubDate>
             <content:encoded><![CDATA[황선홍 축구대표팀 임시 감독이 이강인(파리생제르맹)을 발탁, 정면 돌파를 택했다. 황 감독은 11일 서울 종로구 축구회관에서 3월 태국과의 A매치 2연전(21·26일)에 나설 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/21/90f6b54bbde20b6d104fe4ac87ab5aae-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[IBM "작년 해커의 신원 정보 탈취 71% 급증”]]></title>
+            <title><![CDATA[IBM "작년 해커의 신원 정보 탈취 71% 급증"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240311111236</link>
             <guid>https://zdnet.co.kr/view/?no=20240311111236</guid>
             <pubDate>Mon, 11 Mar 2024 02:17:18 GMT</pubDate>
             <content:encoded><![CDATA[IBM은 최근 발표한 '2024 엑스포스 위협 인텔리전스 인덱스 보고서(이하 엑스포스 인덱스)'를 통해 사이버 공격자가 해킹 대신 유효한 자격 증명을 사용해 단순히 '로그인'해...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/03/05/00dfb07a85a735424fa01ebfc298b121-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["육아 걱정 마세요"…게임업계, 보육복지 확대 나선다]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240311100849</guid>
             <pubDate>Mon, 11 Mar 2024 01:42:02 GMT</pubDate>
             <content:encoded><![CDATA[현대오토에버가 취약점을 노리는 사이버 공격에 대응해 자동차 부품 협력사의 공장 보안을 강화하는 '스마트 상생'에 나선다. 현대오토에버는 자동차 산업에 중대한 위협이 될 수 있는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ESS 시장도 중국 천하…K-배터리 점유율 하락]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240311094354</link>
-            <guid>https://zdnet.co.kr/view/?no=20240311094354</guid>
-            <pubDate>Mon, 11 Mar 2024 01:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 글로벌 에너지저장장치(ESS) 시장에서 국내 기업들의 점유율이 전년 23% 대비 9%p 하락한 14%를 기록했다. ESS 시장이 리튬인산철(LFP) 배터리 위주로 전환되...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이티센 "지난해 다진 기반으로 올해 가시적인 성과낸다”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240311100032</link>
-            <guid>https://zdnet.co.kr/view/?no=20240311100032</guid>
-            <pubDate>Mon, 11 Mar 2024 01:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[아이티센이 지난해 경쟁력을 강화한 주력 사업 분야와 새롭게 기반을 다진 웹3.0 분야의 성과를 올해 거둘 계획이다. 아이티센은 2023년 연결 기준 매출 2조8천28억 원, 영...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈엣지, 세미파이브와 AI·HPC 반도체 협력 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240311085124</link>
-            <guid>https://zdnet.co.kr/view/?no=20240311085124</guid>
-            <pubDate>Mon, 11 Mar 2024 01:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계자산(IP) 플랫폼 업체 오픈엣지테크놀로지(이하 오픈엣지)가 반도체 디자인하우스(DSP) 업체 세미파이브와 인공지능(AI) 반도체, 고성능컴퓨팅(HPC) 등 미래 반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
