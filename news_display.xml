@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 23:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 00:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 소형·저전력 DC-DC 컨버터 IC 4종 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240312082729</link>
+            <guid>https://zdnet.co.kr/view/?no=20240312082729</guid>
+            <pubDate>Tue, 12 Mar 2024 00:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 냉장고, 세탁기, PLC, 인버터 등 민생기기 및 산업기기 어플리케이션에 최적인 소형 DC-DC 컨버터 IC 4개 기종을 개발했다고 12일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 현대차, 5나노 공정으로 차량용 반도체 개발 착수]]></title>
             <link>https://zdnet.co.kr/view/?no=20240311154455</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240307161051</guid>
             <pubDate>Thu, 07 Mar 2024 08:10:48 GMT</pubDate>
             <content:encoded><![CDATA[이강욱 SK하이닉스 부사장이 7일 블룸버그통신과의 인터뷰에서 올해 HBM(고대역폭메모리)에 10억 달러(한화 약 1조3천억 원) 이상을 투자하겠다고 밝혔다. HBM은 여러 개의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 인텔·TSMC 이어 'Arm 2나노 공정 생태계' 합류]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307145837</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307145837</guid>
-            <pubDate>Thu, 07 Mar 2024 07:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 TSMC, 인텔에 이어 반도체 설계기술(IP) 업체 Arm의 '토탈 디자인 프로그램'에 합류하며 2나노(mn) 공정 기반의 고성능컴퓨팅 칩 양산에 속도를 낸다. 7일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
