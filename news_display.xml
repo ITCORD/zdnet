@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 04:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["삼성·SK, 美 반발 우려로 반도체 중고장비 판매 중단"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240312131452</link>
+            <guid>https://zdnet.co.kr/view/?no=20240312131452</guid>
+            <pubDate>Tue, 12 Mar 2024 05:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[국내 주요 반도체 기업 삼성전자와 SK하이닉스가 미국의 대중(對中) 반도체 수출 규제를 고려해 중고 반도체 제조장비 판매를 중단했다고 영국 파이낸셜타임즈가 12일 보도했다. 파...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[車 날개 단 SK하이닉스 HBM, 이젠 자율주행에도 적용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240312110333</link>
+            <guid>https://zdnet.co.kr/view/?no=20240312110333</guid>
+            <pubDate>Tue, 12 Mar 2024 05:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 HBM(고대역폭메모리) 영역을 기존 서버에서 엣지 단으로 확장하기 위한 준비에 나섰다. 차량 내부에 HBM을 탑재하기 위해, 차량용 반도체 안전 표준인 'AEC-...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 반도체 공장 폐열을 '지역난방 열'로 바꾼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240312091616</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240308093507</guid>
             <pubDate>Fri, 08 Mar 2024 01:41:28 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 세계 여성의 날을 기념해 올해 여성의 날 슬로건인 #InspireInclusion(포용성 촉진)과 관련된 다양한 행사를 진행하고 있다고 8일 밝혔다. DX부문에서는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 지능형 기능·효율성 결합한 하이사이드 스위치 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240308091154</link>
-            <guid>https://zdnet.co.kr/view/?no=20240308091154</guid>
-            <pubDate>Fri, 08 Mar 2024 01:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 지능형 기능 및 유연성을 겸비한 새로운 8진 하이사이드 스위치를 출시했다고 8일 밝혔다. 해당 스위치는 PCB 공간을 절감하는 컴팩트한 크...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IAR, 임베디드 시스템 기능안전 'FSG 컨소시엄' 출범]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307180913</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307180913</guid>
-            <pubDate>Thu, 07 Mar 2024 10:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[IAR은 임베디드 소프트웨어 솔루션 개발기업, 반도체 전문기업, 테스트 솔루션 기업, 인증 및 컨설팅 솔루션 기업 등과 함께 기능 안전 강화를 위한 컨소시엄 FSG(Functi...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

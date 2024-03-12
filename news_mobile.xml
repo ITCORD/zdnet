@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 04:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[iOS18, 생성형 AI 품는다…어떤 모습일까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240312133307</link>
+            <guid>https://zdnet.co.kr/view/?no=20240312133307</guid>
+            <pubDate>Tue, 12 Mar 2024 05:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 인공지능(AI) 기술을 품은 차세대 아이폰 운영체제 iOS18의 모습은 어떨까? 올 가을 출시될 예정인 차기 아이폰 운영체제 iOS 18에는 다양한 생성형 AI 기능들이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 美베어로보틱스에 800억원 투자..."상업용 로봇 공략"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240312105932</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240311094128</guid>
             <pubDate>Mon, 11 Mar 2024 04:11:47 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 경쟁사 대비 합리적인 가격으로 선보인 올인원 세탁·건조기 '비스포크 AI 콤보' 신제품이 누적 판매량이 3천대를 돌파하며 순항 중이다. 제품은 출시 전 사전 알림 때...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["M3 맥북 에어, 전작보다 SSD 읽기 속도 최대 82%↑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240311094007</link>
-            <guid>https://zdnet.co.kr/view/?no=20240311094007</guid>
-            <pubDate>Mon, 11 Mar 2024 02:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 최근 출시한 M3 기반 맥북 에어가 전작에 비해 훨씬 빠른 SSD 속도를 보였다는 테스트 결과가 나왔다고 IT매체 맥루머스가 최근 보도했다. 최근 유튜브 맥스테크(Max...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
