@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 03:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 04:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복지부-서울시, 의료계-산업계 연결해 의료데이터 기반 헬스케어 육성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240313130359</link>
+            <guid>https://zdnet.co.kr/view/?no=20240313130359</guid>
+            <pubDate>Wed, 13 Mar 2024 04:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부와 서울시는 한국보건의료정보원과 서울바이오허브와 협력해 서울 유망 바이오 스타트업들이 의료데이터 중심병원과 의료데이터를 공동으로 활용·연구하는 프로젝트를 추진한다고 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[의대 교수 "정부 대화 나서라" vs 정부 "증원 연기·축소 없다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240313115849</link>
@@ -16,11 +24,19 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[정부, 군의관·봉직의에도 '진료유지명령' 오발송 빈축]]></title>
+            <title><![CDATA["저 군의관인데요”…정부, '진료유지명령' 오발송 빈축]]></title>
             <link>https://zdnet.co.kr/view/?no=20240313114241</link>
             <guid>https://zdnet.co.kr/view/?no=20240313114241</guid>
             <pubDate>Wed, 13 Mar 2024 03:12:51 GMT</pubDate>
             <content:encoded><![CDATA[수년 전 전문의를 사직하고 봉직의로 근무 중인 의사나 군의관에게 '진료유지명령'에 송부되며 정부의 대상자 확인 과정에 구멍이 있다는 지적이다. 정부는 기존 보유한 정보 변경에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[상급병원 입원환자 일평균 36.5% 감소…비대면진료 15.7% 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240313113728</link>
+            <guid>https://zdnet.co.kr/view/?no=20240313113728</guid>
+            <pubDate>Wed, 13 Mar 2024 04:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[상급종합병원 입원환자가 일 평균 36.5% 감소한 것으로 나타났다. 의사 집단행동 중앙재난안전대책본부(이하 중대본)에 따르면 2월 첫주 대비 3월 첫주의 일 평균 입원환자는 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240312101139</guid>
             <pubDate>Tue, 12 Mar 2024 01:41:59 GMT</pubDate>
             <content:encoded><![CDATA[전공의에 이어 의대 교수들의 이탈 움직임이 본격화되고 있다. 국공립대병원의 중심인 서울대의대 교수들이 전날 전원 사직을 결정하면서 의사-정부 간 갈등은 전면전으로 확산될 전망이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이세라 외과의사회장 "의료보험 만든 이후 문제있는 수가 아직도 해결안돼"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240310184025</link>
-            <guid>https://zdnet.co.kr/view/?no=20240310184025</guid>
-            <pubDate>Sun, 10 Mar 2024 20:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[“의료보험으로 수가가 만들어지면서 문제도 시작됐지만 거의 해결되지 않고 있다” 이세라 대한외과의사회 회장은 10일 기자간담회에서 “개인적으로 의대 증원에 찬성했지만 2천명 증원...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11일부터 20개 병원에 군의관‧공중보건의 158명 파견]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240310180659</link>
-            <guid>https://zdnet.co.kr/view/?no=20240310180659</guid>
-            <pubDate>Sun, 10 Mar 2024 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 11일부터 4주간 의료현장 지원을 위해 군의관 20명, 공중보건의사 138명 등 158명을 20개 병원에 파견한다. 10일 조규홍 의사 집단행동 대응 중앙재난안전대책본부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
