@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 01:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 02:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨스턴디지털, PC 제조사용 'PC SN5000s NVMe SSD' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240314104211</link>
+            <guid>https://zdnet.co.kr/view/?no=20240314104211</guid>
+            <pubDate>Thu, 14 Mar 2024 02:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[웨스턴디지털이 14일 PC 제조사 공급용 QLC SSD 'PC SN5000s NVMe SSD'를 출시했다. 이 제품은 한 셀당 4비트를 저장할 수 있는 BiCS6 QLC 낸드 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[솔루엠, 日1위 슈퍼마켓 '라이프코퍼레이션'에 ESL 추가 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20240314095409</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240312094711</guid>
             <pubDate>Tue, 12 Mar 2024 01:41:47 GMT</pubDate>
             <content:encoded><![CDATA[임베디드 및 에지 컴퓨팅 전문기업 콩가텍은 서울 코엑스에서 이달 27일부터 29일까지 열리는 '스마트공장·자동화산업전'에 참여해(부스번호 D243) 다양해진 스마트 자동화용 애...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 소형·저전력 DC-DC 컨버터 IC 4종 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240312082729</link>
-            <guid>https://zdnet.co.kr/view/?no=20240312082729</guid>
-            <pubDate>Tue, 12 Mar 2024 00:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 냉장고, 세탁기, PLC, 인버터 등 민생기기 및 산업기기 어플리케이션에 최적인 소형 DC-DC 컨버터 IC 4개 기종을 개발했다고 12일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
