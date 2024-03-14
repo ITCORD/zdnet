@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 05:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 06:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 올해 갤럭시향 '리지드 OLED'로 시장 정체 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240314104630</link>
+            <guid>https://zdnet.co.kr/view/?no=20240314104630</guid>
+            <pubDate>Thu, 14 Mar 2024 06:13:04 GMT</pubDate>
+            <content:encoded><![CDATA["현재 삼성디스플레이는 애플향 플렉시블 OLED 출하량의 정체, 중국향 리지드 OLED 사업 부진 등을 겪고 있다. 이러한 상황에서 삼성디스플레이가 올해 기대할 수 있는 부분은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 국방부, 인텔에 주려던 25억弗 반도체 보조금 철회]]></title>
             <link>https://zdnet.co.kr/view/?no=20240314112901</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240312162337</guid>
             <pubDate>Tue, 12 Mar 2024 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[작년 4분기 파운드리 시장에서 1위인 TSMC와 2위인 삼성전자의 점유율 격차가 이전보다 더 벌어졌다. 12일 시장조사업체 트렌드포스에 따르면 대만 TSMC의 작년 4분기 매출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성·SK, 美 반발 우려로 반도체 중고장비 판매 중단"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240312131452</link>
-            <guid>https://zdnet.co.kr/view/?no=20240312131452</guid>
-            <pubDate>Tue, 12 Mar 2024 05:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내 주요 반도체 기업 삼성전자와 SK하이닉스가 미국의 대중(對中) 반도체 수출 규제를 고려해 중고 반도체 제조장비 판매를 중단했다고 영국 파이낸셜타임즈가 12일 보도했다. 파...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
