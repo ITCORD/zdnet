@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 04:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 05:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 국방부, 인텔에 주려던 25억弗 반도체 보조금 철회]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240314112901</link>
+            <guid>https://zdnet.co.kr/view/?no=20240314112901</guid>
+            <pubDate>Thu, 14 Mar 2024 05:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[미국 국방부가 인텔에 약속했던 반도체 보조금 25억달러 지원을 철회할 예정이다. 국방 예산이 부족한데다가 한 기업에 몰아주기식 투자에 대한 비판 때문이다. 보조금 부족분은 미국...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두산, 엔비디아 차세대 AI반도체용 'CCL' 공급업체 단독 진입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240313144136</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240312131452</guid>
             <pubDate>Tue, 12 Mar 2024 05:12:01 GMT</pubDate>
             <content:encoded><![CDATA[국내 주요 반도체 기업 삼성전자와 SK하이닉스가 미국의 대중(對中) 반도체 수출 규제를 고려해 중고 반도체 제조장비 판매를 중단했다고 영국 파이낸셜타임즈가 12일 보도했다. 파...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[車 날개 단 SK하이닉스 HBM, 이젠 자율주행에도 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240312110333</link>
-            <guid>https://zdnet.co.kr/view/?no=20240312110333</guid>
-            <pubDate>Tue, 12 Mar 2024 05:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 HBM(고대역폭메모리) 영역을 기존 서버에서 엣지 단으로 확장하기 위한 준비에 나섰다. 차량 내부에 HBM을 탑재하기 위해, 차량용 반도체 안전 표준인 'AEC-...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
