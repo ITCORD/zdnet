@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 00:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 01:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인류 최대 로켓 '스타십' 3차 발사…절반의 성공 [우주로 간다]]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240315084129</link>
+            <guid>https://zdnet.co.kr/view/?no=20240315084129</guid>
+            <pubDate>Fri, 15 Mar 2024 01:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크가 이끄는 우주기업 스페이스X의 대형 우주선 '스타십'이 세 번째 시험비행에서 절반의 성공을 거뒀다. 스페이스닷컴을 비롯한 외신들에 따르면 스페이스X는 14일 오전 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/15/f702243b064df4695358647c27abc1c5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혁신도전형 국가 R&D사업 협의체 출범]]></title>
             <link>https://zdnet.co.kr/view/?no=20240315000904</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240314142051</guid>
             <pubDate>Thu, 14 Mar 2024 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[시간이 경과해도 인공지능 모델 성능을 일정하게 유지하는 새로운 학습 데이터 선택 기술이 개발됐다. KAIST(총장 이광형)는 전기및전자공학부 황의종 교수 연구팀이 시간에 따라 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/14/1b367e2d3bfb192d03e05abb473e885b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주청 임무본부장 연봉 대통령급 대우]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240307152431</guid>
             <pubDate>Thu, 07 Mar 2024 07:10:34 GMT</pubDate>
             <content:encoded><![CDATA[“과기정통부가 추진하는 글로벌 톱 연구단이 기관 간 칸막이를 허물고, 새롭게 나아가는 방향에 대해 십분 공감한다. 다만, 국가기술연구센터(NTC) 설립을 둘러싸고 논란이 일었듯...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, 절차 생성 AI 벤치마크 기술 첫 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307032740</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307032740</guid>
-            <pubDate>Thu, 07 Mar 2024 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[대형언어모델(LLM)을 기반으로 만들어진 절차 성능을 자동 평가하는 기술이 세계 처음 개발했다. 한국전자통신연구원(ETRI)은 사람이 말로 작업을 명령하면 스스로 작업 절차를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
