@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 06:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 07:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성과기인 보직자 비율 격차 여전]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240315133140</link>
+            <guid>https://zdnet.co.kr/view/?no=20240315133140</guid>
+            <pubDate>Fri, 15 Mar 2024 07:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 여성과학기술인 보직자 비율은 지난 10년 간 꾸준히 늘었으나, 남성대비 승진에서 여전히 격차를 보이는 것으로 나타났다. 한국여성과학기술인육성재단(이사장 문애리, WIS...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/15/e6d86798b091f3c2df4da0e5dda234ca-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["혁신·도전형 R&D에 연구예산 5% 투자"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240315104919</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240315084129</guid>
             <pubDate>Fri, 15 Mar 2024 01:44:31 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크가 이끄는 우주기업 스페이스X의 대형 우주선 '스타십'이 세 번째 시험비행에서 절반의 성공을 거뒀다. 스페이스닷컴을 비롯한 외신들에 따르면 스페이스X는 14일 오전 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/15/f702243b064df4695358647c27abc1c5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[혁신도전형 국가 R&D사업 협의체 출범]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240309065608</guid>
             <pubDate>Sat, 09 Mar 2024 00:41:13 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크가 이끄는 우주탐사기업 스페이스X의 팰컨9 로켓 추진체가 지구로 귀환하는 모습이 카메라에 포착됐다고 IT매체 디지털트렌드가 최근 보도했다. 최근 스페이스X는 '크루-...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KAIST, 대규모 데이터 출력 때 GPU 에러 해결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240307162927</link>
-            <guid>https://zdnet.co.kr/view/?no=20240307162927</guid>
-            <pubDate>Thu, 07 Mar 2024 08:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 그래픽 연산 장치(GPU)에서 메로리 한계로 인해 초병렬 연산 등 대규모 데이터 출력 때 발생하는 에러 문제를 국내 연구진이 해결했다. 향후 가정에서 사용하는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
