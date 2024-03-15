@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 09:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["커지는 외산SW 리스크, 이제는 국산이 더 합리적"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240315160636</link>
+            <guid>https://zdnet.co.kr/view/?no=20240315160636</guid>
+            <pubDate>Fri, 15 Mar 2024 09:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[“많은 기업에서 안정성과 합리성을 외산 소프트웨어(SW)를 선호해왔다. 하지만 지난 십 수년 간의 히스토리를 보면 오히려 그렇지 않은 모습이 자주 목격된다. 기술력을 많이 축적...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[딥노이드 '딥 솔라', AI모델 평가 'Ko-LMM 리더보드'서 1위]]></title>
             <link>https://zdnet.co.kr/view/?no=20240315164433</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240315100058</guid>
             <pubDate>Fri, 15 Mar 2024 01:43:04 GMT</pubDate>
             <content:encoded><![CDATA[국가 전략 산업에 침투한 실제 사이버 공격 사례를 분석하고 공격 목표와 기술 관점을 정교하게 풀어낸 보안 지침서가 나왔다. 사이버 보안 전문 기업인 테르텐은 '마이터 어택'(M...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["RIP, SW 엔지니어"…세계 첫 AI 개발자 '데빈' 뭐길래]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240315080107</link>
-            <guid>https://zdnet.co.kr/view/?no=20240315080107</guid>
-            <pubDate>Fri, 15 Mar 2024 01:43:04 GMT</pubDate>
-            <content:encoded><![CDATA["RIP(Rest In Peace) 소프트웨어 엔지니어, 컴퓨터 공학 전공자들. '데빈'이 어쩌면 (앞으로) 기술 산업 전체를 대체할 지도 모릅니다." 6년 이상 암호화폐 투자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
