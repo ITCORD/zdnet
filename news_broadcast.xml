@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 20:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 21:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["번호이동 50만원이요? 그냥 기기변경 하세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240316155322</link>
+            <guid>https://zdnet.co.kr/view/?no=20240316155322</guid>
+            <pubDate>Sat, 16 Mar 2024 21:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[“그 통신사 잘 써왔으면, 그냥 기기변경하세요. 그게 (전환지원금보다) 훨씬 나아요” “전환지원금이요? 여긴 다 똑같아요. 5만원에서 많아야 10만원 지급할 거에요.” “(전환...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 휴대폰 가입자 기반 무선통신 점유율 40.8%]]></title>
             <link>https://zdnet.co.kr/view/?no=20240316111048</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240314114254</guid>
             <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드는 탄소정보공개프로젝트(CDP)가 주관하는 '2023 CDP 코리아 어워즈'에서 탄소경영 섹터 아너스를 수상했다고 14일 밝혔다. CDP는 전 세계 2만여 개 참여...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 희망나눔인상에 이주여성 협동조합 '레인보우해피잡']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240314113907</link>
-            <guid>https://zdnet.co.kr/view/?no=20240314113907</guid>
-            <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[KT그룹 희망나눔재단은 올해 첫 희망나눔인상에 11년간 다문화 가정을 위한 나눔활동을 해 온 '레인보우해피잡 협동조합'을 선정했다고 14일 밝혔다. 레인보우해피잡 협동조합은 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
