@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 02:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 03:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["GPT-4 넘었다"…전기차 버린 애플, 생성형 AI 주도권 잡을 新무기 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240317101248</link>
+            <guid>https://zdnet.co.kr/view/?no=20240317101248</guid>
+            <pubDate>Sun, 17 Mar 2024 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 최고 성능의 이미지-텍스트 멀티모달 모델을 깜짝 공개했다. 최근 마이크로소프트(MS), 구글 등 다른 빅테크에 비해 생성형 인공지능(AI) 경쟁에서 뒤처졌다는 평가를 받...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메르세데스 벤츠도 공장에 휴머노이드 로봇 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240316101543</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240315104259</guid>
             <pubDate>Fri, 15 Mar 2024 02:16:51 GMT</pubDate>
             <content:encoded><![CDATA[서울시가 최근 각광받고 있는 인공지능(AI), 로봇 분야에 올해 수 백억원의 자금을 투입해 혁신 기술 발굴에 나선다. 특히 기술 사업화에 183억원을 투입하는 등 시장 진출의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[교보DTS, AWS 금융 특화 클라우드 사업 박차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240315104740</link>
-            <guid>https://zdnet.co.kr/view/?no=20240315104740</guid>
-            <pubDate>Fri, 15 Mar 2024 02:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[교보DTS(구 교보정보통신)가 금융권 특화 클라우드 서비스 사업에 박차를 가한다. 교보DTS는 아마존웹서비스(AWS)로부터 마이그레이션 컴피턴시를 취득했다고 15일 밝혔다. A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
