@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 03:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 04:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VM웨어發 가상화 시장 요동, 레드햇이 움직인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240318124526</link>
+            <guid>https://zdnet.co.kr/view/?no=20240318124526</guid>
+            <pubDate>Mon, 18 Mar 2024 04:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[브로드컴의 VM웨어 인수 후 서버 가상화 시장이 요동치고 있다. 이런 가운데 경쟁사 레드햇이 VM웨어 가상화 이용자를 자사 플랫폼으로 끌어들이려는 행보를 본격화했다. 한국레드햇...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, AI 활용 보안 기업 육성에 총 48억원 투입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240318102255</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240317124133</guid>
             <pubDate>Sun, 17 Mar 2024 04:12:06 GMT</pubDate>
             <content:encoded><![CDATA[정부가 읍면동 스마트 복지 서비스와 재난안전관리기능을 강화하기 위해 13억5천만원의 예산을 투입한다. 행정안전부는 17일 2024년 '읍면동 스마트 복지·안전서비스 개선모델 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["국내 AI모델, 정말 안전할까"…직접 확인하는 행사 열린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240317091207</link>
-            <guid>https://zdnet.co.kr/view/?no=20240317091207</guid>
-            <pubDate>Sun, 17 Mar 2024 04:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 국내 거대언어모델(LLM)의 윤리성과 안전성 향상을 위한 행사를 개최한다. 과학기술정보통신부는 다음 달 11일부터 12일까지 양일간 서울 코엑스에서 '생성형 AI 레드팀...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
