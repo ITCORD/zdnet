@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 21:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 22:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 차세대 AI GPU 플랫폼 '블랙웰' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240319070508</link>
+            <guid>https://zdnet.co.kr/view/?no=20240319070508</guid>
+            <pubDate>Mon, 18 Mar 2024 22:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 18일 오후(현지시간, 한국시간 19일 오전 5시) 미국 캘리포니아 주 새너제이에서 진행된 GTC 2024 기조연설을 통해 차세대 AI GPU '블랙웰'(Blackw...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국힘 경기남부 후보들 "1호 법안으로 반도체 메가시티 특별법 만들겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240318195125</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240314104211</guid>
             <pubDate>Thu, 14 Mar 2024 02:16:42 GMT</pubDate>
             <content:encoded><![CDATA[웨스턴디지털이 14일 PC 제조사 공급용 QLC SSD 'PC SN5000s NVMe SSD'를 출시했다. 이 제품은 한 셀당 4비트를 저장할 수 있는 BiCS6 QLC 낸드 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루엠, 日1위 슈퍼마켓 '라이프코퍼레이션'에 ESL 추가 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240314095409</link>
-            <guid>https://zdnet.co.kr/view/?no=20240314095409</guid>
-            <pubDate>Thu, 14 Mar 2024 01:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[솔루엠이 일본 최대 슈퍼마켓 체인인 라이프코퍼레이션에 전자가격표시기(이하 ESL)를 추가 공급했다. 라이프코퍼레이션은 2020년부터 매장에 솔루엠의 ESL를 도입해 도쿄 지역 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
