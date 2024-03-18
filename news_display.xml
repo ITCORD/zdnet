@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 22:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 23:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC·시높시스, 엔비디아 cu리소로 포토마스크 생성 공정 가속]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240319073937</link>
+            <guid>https://zdnet.co.kr/view/?no=20240319073937</guid>
+            <pubDate>Mon, 18 Mar 2024 23:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 18일(미국 현지시간) 전세계 1위 파운드리 업체인 대만 TSMC, 전자설계자동화(EDA) 업체인 시높시스와 협력해 반도체 생산 공정에 필요한 포토마스크 생성 과정을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, 차세대 AI GPU 플랫폼 '블랙웰' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240319070508</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240314112733</guid>
             <pubDate>Thu, 14 Mar 2024 03:11:34 GMT</pubDate>
             <content:encoded><![CDATA[지난달 반도체 수출액이 100억 달러에 근접했다. 지난 2022년 하반기에 17개월 연속 반도체 수출 100억 달러 돌파 기록이 중단된 이후 약 1년 반 만에 반도체 수출 10...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴디지털, PC 제조사용 'PC SN5000s NVMe SSD' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240314104211</link>
-            <guid>https://zdnet.co.kr/view/?no=20240314104211</guid>
-            <pubDate>Thu, 14 Mar 2024 02:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[웨스턴디지털이 14일 PC 제조사 공급용 QLC SSD 'PC SN5000s NVMe SSD'를 출시했다. 이 제품은 한 셀당 4비트를 저장할 수 있는 BiCS6 QLC 낸드 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
