@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 01:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 02:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴, 중간급 스마트폰용 스냅드래곤 8s 3세대 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240319111432</link>
+            <guid>https://zdnet.co.kr/view/?no=20240319111432</guid>
+            <pubDate>Tue, 19 Mar 2024 02:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 19일 스마트폰용 SoC(시스템반도체)인 스냅드래곤 8s 3세대를 출시했다. 스냅드래곤 8s 3세대는 지난 해 10월 공개 후 삼성전자 갤럭시S24 울트라 등 스마트폰에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 세계 최초 'HBM3E' 본격 양산 …고객사 납품 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20240319100451</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240315093302</guid>
             <pubDate>Fri, 15 Mar 2024 01:43:24 GMT</pubDate>
             <content:encoded><![CDATA[해성옵틱스는 2023년 연결기준 매출액 1천212억원을 기록했다고 14일 공시했다. 영업이익은 40억원, 순이익은 21억원으로 흑자전환을 달성했다. 스마트폰 출하량 감소 여파에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["美 바이든, 다음 주 인텔 '반도체 보조금' 발표"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240315085325</link>
-            <guid>https://zdnet.co.kr/view/?no=20240315085325</guid>
-            <pubDate>Fri, 15 Mar 2024 00:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[조 바이든 미국 대통령이 다음 주 애리조나주 인텔 공장을 방문해 반도체 보조금 지원을 발표할 예정이라고 로이터통신이 14일 보도했다. 로이터통신은 소식통을 인용해 "바이든 대통...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
