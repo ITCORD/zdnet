@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 00:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 01:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 'GTC 2024'서 온디바이스 AI PC용 SSD 신제품 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240320091303</link>
+            <guid>https://zdnet.co.kr/view/?no=20240320091303</guid>
+            <pubDate>Wed, 20 Mar 2024 01:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 18일부터 21일(미국시간)까지 미국 캘리포니아주 새너제이에서 열리고 있는 엔비디아 주최 세계 최대 AI 개발자 컨퍼런스인 'GTC(GPU Technology C...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ams OSRAM, LED 제품에 '데이터 매트릭스 코드(DMC)' 각인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240320090155</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240318161758</guid>
             <pubDate>Mon, 18 Mar 2024 08:13:12 GMT</pubDate>
             <content:encoded><![CDATA[내년부터 2나노미터(nm) 공정으로 반도체 양산을 앞둔 삼성전자가 오는 20일 처음으로 해당 기술 개발 현황을 공개한다. 아울러 삼성전자는 시놉시스, Arm 등 반도체 설계자산...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["TSMC, 日에 첨단 반도체 패키징 공정 도입 검토 중"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240318105338</link>
-            <guid>https://zdnet.co.kr/view/?no=20240318105338</guid>
-            <pubDate>Mon, 18 Mar 2024 06:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 일본 팹에 첨단 패키징 공정 도입을 검토 중이라는 소식이 전해졌다. 18일 로이터통신은 두 명의 소식통을 인용해 "TSMC가 일본에서는 첨단 패키...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
