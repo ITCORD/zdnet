@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 06:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 07:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑셈, 작년 연결매출 539억원···올해 신사업 실적 경신 기대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240320155801</link>
+            <guid>https://zdnet.co.kr/view/?no=20240320155801</guid>
+            <pubDate>Wed, 20 Mar 2024 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[IT 성능관리 전문기업 엑셈(대표 조종암, 고평석)은 지난해 연결 매출액 538억 9천만원, 영업이익 49억 1천만원, 당기순이익 104억 2천만원을 기록했다고 20일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미라콤아이앤씨, 제조부터 관제까지 통합 자동화 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240320155706</link>
+            <guid>https://zdnet.co.kr/view/?no=20240320155706</guid>
+            <pubDate>Wed, 20 Mar 2024 07:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[미라콤아이앤씨가 제조기업의 업무 혁신을 위한 통합 스마트팩토리 솔루션을 선보인다. 미라콤아이앤씨(이하 미라콤, 대표 강석립,)가 '2024 스마트공장·자동화산업전'에 참가한다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["전 애인에게 협박 받았다"…네이버 손 잡은 법률 AI, 답변 '뚝딱']]></title>
             <link>https://zdnet.co.kr/view/?no=20240320144450</link>
@@ -24,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['AGI 시대' 어떻게 준비해야 할까…"AI 윤리·안전성 세분화부터"]]></title>
+            <title><![CDATA['AGI 시대' 어떻게 준비할까…"AI 윤리·안전성 세분화부터"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240319204812</link>
             <guid>https://zdnet.co.kr/view/?no=20240319204812</guid>
             <pubDate>Wed, 20 Mar 2024 05:11:12 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240320103334</guid>
             <pubDate>Wed, 20 Mar 2024 01:41:45 GMT</pubDate>
             <content:encoded><![CDATA[레드햇은 애플리케이션 플랫폼 '오픈시프트 4.15' 버전을 정식 출시한다고 20일 밝혔다. 최신 업데이트 버전은 쿠버네티스 1.28과 CRI-O 1.28에 기반한다. 신뢰할 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, 브래드 아킨 최고신뢰책임자(CTO) 선임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240320102451</link>
-            <guid>https://zdnet.co.kr/view/?no=20240320102451</guid>
-            <pubDate>Wed, 20 Mar 2024 01:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스는 최고 신뢰 책임자(CTO)로 브래드 아킨을 선임했다고 20일 밝혔다. 브래드 아킨은 세일즈포스 합류 전 시스코, 어도비 등의 글로벌 기업에서 20년 이상 제품 및 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["데이터 유출 방지"…솔트룩스, AI 서비스 '루시아 온' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240320092556</link>
-            <guid>https://zdnet.co.kr/view/?no=20240320092556</guid>
-            <pubDate>Wed, 20 Mar 2024 01:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[솔트룩스(대표 이경일)가 기업용 특화 생성형 인공지능(AI) 서비스 개발을 통해 기업의 데이터 보안 강화에 나섰다. 솔트룩스는 온프레미스 환경에서 정보 유출 없이 내부 문서로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
