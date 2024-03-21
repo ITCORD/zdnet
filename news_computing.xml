@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 03:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수세, 랜처프라임3.0 등 컨테이너 관리 포트폴리오 업데이트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240321123904</link>
+            <guid>https://zdnet.co.kr/view/?no=20240321123904</guid>
+            <pubDate>Thu, 21 Mar 2024 04:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[수세(SUSE)는 언제 어디서나 비즈니스에 중요한 워크로드를 안전하게 배포하고 관리할 수 있도록 하는 클라우드 네이티브 및 엣지 포트폴리오에 대한 대대적인 개선 사항을 21일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[英 AI 기업 스태빌리티, 핵심 기술개발자 떠난다…왜?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240321112509</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240321083652</guid>
             <pubDate>Thu, 21 Mar 2024 00:42:40 GMT</pubDate>
             <content:encoded><![CDATA[최근 삼성전자 '갤럭시 링' 출시 예고로 웨어러블 시장이 달아오른 가운데 구글이 '핏빗(Fitbit)'에 생성형 인공지능(AI)을 적용해 스마트워치 시장에서의 입지 강화에 나선...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오픈AI, 올해 GPT-5 출시…시연 진행 중"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240321080359</link>
-            <guid>https://zdnet.co.kr/view/?no=20240321080359</guid>
-            <pubDate>Thu, 21 Mar 2024 00:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 멀티모달 모델 'GPT-5' 출시를 준비 중인 것으로 알려졌다. 비즈니스인사이더는 20일(현지시간) 생성형 인공지능(AI) 모델 GPT-5가 몇달 안에 출시될 예정이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
