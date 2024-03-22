@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 08:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼마이크로, 풀스택 생성형 AI 슈퍼클러스터 3종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240322180628</link>
+            <guid>https://zdnet.co.kr/view/?no=20240322180628</guid>
+            <pubDate>Fri, 22 Mar 2024 09:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼마이크로컴퓨터(이하 슈퍼마이크로)는 생성형 AI의 도입을 가속화하기 위한 슈퍼클러스터 포트폴리오를 22일 발표했다. 최신 솔루션은 현재는 물론 미래의 거대언어모델(LLM) ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제천시청, 양방향문자로 '맞춤형 소통' 적극행정 실현]]></title>
             <link>https://zdnet.co.kr/view/?no=20240322165111</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240321140151</guid>
             <pubDate>Thu, 21 Mar 2024 06:12:55 GMT</pubDate>
             <content:encoded><![CDATA[구글이 인공지능(AI) 기술을 사용해 약 80개국의 홍수 정보를 최대 7일 전에 제공하는데 성공했다는 연구 결과를 발표했다. IT매체 엔가젯 등 외신들은 20일(현지시간) 과학...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[수세, 랜처프라임3.0 등 컨테이너 관리 포트폴리오 업데이트]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240321123904</link>
-            <guid>https://zdnet.co.kr/view/?no=20240321123904</guid>
-            <pubDate>Thu, 21 Mar 2024 04:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[수세(SUSE)는 언제 어디서나 비즈니스에 중요한 워크로드를 안전하게 배포하고 관리할 수 있도록 하는 클라우드 네이티브 및 엣지 포트폴리오에 대한 대대적인 개선 사항을 21일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
