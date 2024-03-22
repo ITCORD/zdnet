@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 22:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 23:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[총 쏘는 로봇 차량 등장…미래의 전쟁 모습?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240322181545</link>
+            <guid>https://zdnet.co.kr/view/?no=20240322181545</guid>
+            <pubDate>Fri, 22 Mar 2024 23:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[미군의 훈련에 인공지능(AI) 구동 로봇 차량이 등장해 눈길을 끌고 있다. IT매체 기즈모도는 21일(현지시간) 미 육군 미래사령부(Army Futures Command)가 지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[델 파워스케일, 엔비디아 DGX 이더넷 스토리지 인증 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20240322181357</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240321131646</guid>
             <pubDate>Thu, 21 Mar 2024 06:12:55 GMT</pubDate>
             <content:encoded><![CDATA[정부가 회의록 자동 작성을 비롯해 보고서 작성 등에 활용할 수 있는 인공지능(AI) 기반 업무지원 서비스를 행정현장에 도입해 업무 효율성을 높인다. 행정안전부는 오는 22일부터...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트 엑스퍼디비, 건국대 홈페이지 재구축 DB로 도입돼]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240321142229</link>
-            <guid>https://zdnet.co.kr/view/?no=20240321142229</guid>
-            <pubDate>Thu, 21 Mar 2024 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 플랫폼 전문기업 인젠트가 건국대학교 홈페이지 재구축 데이터베이스 신규 도입 사업을 수주하고 데이터베이스를 안정적으로 안착시켰다. 인젠트는 건국대학교 홈페이지 재구축 데이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

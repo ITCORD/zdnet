@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 22:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 23:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미반도체, HBM용 TC본더 '그리핀'으로 SK하이닉스 수주 2천억원 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240322163910</link>
+            <guid>https://zdnet.co.kr/view/?no=20240322163910</guid>
+            <pubDate>Fri, 22 Mar 2024 23:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체가 인공지능 반도체 HBM(고대역폭메모리) 3세대 하이퍼 모델인 '듀얼 TC 본더 그리핀 (DUAL TC BONDER GRIFFIN)' 장비에 대해 SK하이닉스로부터 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ST, 삼성 파운드리와 18나노 FD-SOI 기술 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20240321181431</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240320113337</guid>
             <pubDate>Wed, 20 Mar 2024 03:11:53 GMT</pubDate>
             <content:encoded><![CDATA[AMD는 20일 이미징·센싱 반도체 기업인 소니세미컨덕터솔루션즈가 최신 자동차용 라이다(LiDAR) 개발에 AMD 적응형 컴퓨팅 기술을 적용했다고 밝혔다. 라이다 기술은 야간,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 'GTC 2024'서 온디바이스 AI PC용 SSD 신제품 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240320091303</link>
-            <guid>https://zdnet.co.kr/view/?no=20240320091303</guid>
-            <pubDate>Wed, 20 Mar 2024 01:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스는 18일부터 21일(미국시간)까지 미국 캘리포니아주 새너제이에서 열리고 있는 엔비디아 주최 세계 최대 AI 개발자 컨퍼런스인 'GTC(GPU Technology C...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
