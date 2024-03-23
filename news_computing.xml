@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 03:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 04:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피씨엔, '대한민국 SW 마켓 페어' 참가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240323122323</link>
+            <guid>https://zdnet.co.kr/view/?no=20240323122323</guid>
+            <pubDate>Sat, 23 Mar 2024 04:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 전문기업 피씨엔(PCN)은 과학기술정보통신부가 주최하고 한국상용소프트웨어협회(회장 송광헌)가 주관한 '대한민국 SW 마켓 페어(SW Market Fair)'에 참...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[총 쏘는 로봇 차량 등장…미래의 전쟁 모습?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240322181545</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240321103240</guid>
             <pubDate>Thu, 21 Mar 2024 06:12:55 GMT</pubDate>
             <content:encoded><![CDATA[메가존클라우드(대표 이주완)가 테라 퀀텀과 손잡고 양자 애플리케이션 플랫폼과 클라우드 서비스 개발에 나선다. 메가존클라우드는 스위스 양자컴퓨팅 서비스 기업 테라 퀀텀과 양자컴퓨...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["회의록·보고서 작성도 AI가"...행안부, AI 기반 업무지원 서비스 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240321131646</link>
-            <guid>https://zdnet.co.kr/view/?no=20240321131646</guid>
-            <pubDate>Thu, 21 Mar 2024 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 회의록 자동 작성을 비롯해 보고서 작성 등에 활용할 수 있는 인공지능(AI) 기반 업무지원 서비스를 행정현장에 도입해 업무 효율성을 높인다. 행정안전부는 오는 22일부터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
