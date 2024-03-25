@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 04:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 신기술에 투자하는 기업이 고려해야 할 주요 사항]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240325135601</link>
+            <guid>https://zdnet.co.kr/view/?no=20240325135601</guid>
+            <pubDate>Mon, 25 Mar 2024 05:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[기업이 민첩성을 확보하고 경쟁 우위를 유지하려면 적절한 기술을 갖추어야 한다. 현재 국내 산업 전반의 인력난을 감안해봤을 때, 기술을 통해 효율성을 개선하고 노동력을 최적화하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 쿠버네티스 가시성도구 '레티나' 오픈소스로 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240325134706</link>
+            <guid>https://zdnet.co.kr/view/?no=20240325134706</guid>
+            <pubDate>Mon, 25 Mar 2024 05:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 쿠버네티스 네트워킹을 시각화하는 가시성 도구를 오픈소스 소프트웨어로 공개했다. 최근 마이크로소프트는 컨테이너 네트워킹 가시성 플랫폼 '레티나(Retina)'를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주니퍼네트웍스, 강화된 파트너 프로그램 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20240325124016</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240324115656</guid>
             <pubDate>Sun, 24 Mar 2024 04:11:55 GMT</pubDate>
             <content:encoded><![CDATA[스태빌리티AI의 창업자인 에마드 모스타크가 최고경영자(CEO) 자리를 내려 놓는다. 23일(현지시간) 블룸버그 통신에 따르면 에마드 모스타크는 자신의 엑스(X·구 트위터) 계정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["얼마나 다급하면"…AI 경쟁 뒤처진 애플, 구글 이어 中 바이두에 SOS]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240323153404</link>
-            <guid>https://zdnet.co.kr/view/?no=20240323153404</guid>
-            <pubDate>Sat, 23 Mar 2024 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 생성형 인공지능(AI) 기술에서 뒤처지고 시장 경쟁력을 잃어가면서 오랜 적수인 구글뿐 아니라 중국 IT 대기업인 바이두에도 도움을 요청하며 다급해하는 모양새다. 최근 스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[협력사 만난 유인상 "CJ올리브네트웍스, 지속 가능 동반성장 체계 확립할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240323150311</link>
-            <guid>https://zdnet.co.kr/view/?no=20240323150311</guid>
-            <pubDate>Sat, 23 Mar 2024 06:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[CJ올리브네트웍스가 주요 협력사들과 동반성장 강화를 위해 만남을 가졌다. CJ올리브네트웍스는 최근 서울시 용산구 본사에서 주요 협력사 대표 및 관계자들을 초청해 견고한 파트너십...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
