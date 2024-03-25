@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 21:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 22:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[임상 설계부터 연구자 의견 반영…'혁신신약 만드는 노력에 경계는 없다']]></title>
+            <title><![CDATA[애플, 알리바바와도 접촉...바이두 AI, 'iOS18' 등 탑재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240326011601</link>
+            <guid>https://zdnet.co.kr/view/?no=20240326011601</guid>
+            <pubDate>Mon, 25 Mar 2024 22:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[중국 바이두도 애플 기기에 생성형 인공지능(AI)을 탑재한다고 밝혔다. 25일 바이두의 한 내부 관계자는 중국 언론 스다이저우바오와 인터뷰에서 "바이두가 애플이 올해 발표할 아...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/26/e5df46e30860e096bf55c249fad58d0d-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[임상 설계부터 연구자 의견 반영…"혁신신약 만드는 노력에 경계는 없다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240325172926</link>
             <guid>https://zdnet.co.kr/view/?no=20240325172926</guid>
             <pubDate>Mon, 25 Mar 2024 20:10:07 GMT</pubDate>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240326023927</guid>
             <pubDate>Mon, 25 Mar 2024 18:12:50 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)는 유럽 연합(EU) 최대 연구혁신(R&amp;I) 프로그램인 호라이즌 유럽에 준회원국으로 가입하기로 하는 협상을 EU 연구혁신총국 측과 타결했다고 26...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/26/66ae08e2166c8ceb01701411c487d7e7-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NRF 우주기술단장에 인하대 이형진 교수]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240325173453</guid>
             <pubDate>Mon, 25 Mar 2024 09:10:28 GMT</pubDate>
             <content:encoded><![CDATA[법무법인 디라이트(D'Light∙대표변호사 조원희)는 다음달 12일 오후 2시 서울 뱅뱅사거리 인근 드림플러스 강남 지하 1층 이벤트홀에서 'GDPR의 실무와 EU 최신 규제 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·SK하이닉스, 이번엔 CXL 기술 경쟁...제 2의 HBM 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325164630</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325164630</guid>
-            <pubDate>Mon, 25 Mar 2024 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자와 SK하이닉스가 인공지능(AI)을 위한 차세대 메모리 CXL(Compute Express Link, 컴퓨트 익스프레스 링크) 신기술을 대거 공개한다. 삼성전자와 SK하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
