@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 19:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 20:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임상 설계부터 연구자 의견 반영…'혁신신약 만드는 노력에 경계는 없다']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240325172926</link>
+            <guid>https://zdnet.co.kr/view/?no=20240325172926</guid>
+            <pubDate>Mon, 25 Mar 2024 20:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[임상부서는 제약회사 안에서는 중심핵 역할을 한다. 중심이 강해야 밖을 둘러싸고 있는 업무도 튼튼해지는데, 제약사에서는 임상분야를 얼마나 투자하고 지원하느냐가 향후 발전 가능성의...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/25/f256ad1a97007c914b1c06d4054d8922-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 '호라이즌 유럽' 亞 첫 가입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240326023927</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240326011328</guid>
             <pubDate>Mon, 25 Mar 2024 18:12:50 GMT</pubDate>
             <content:encoded><![CDATA[한국연구재단(이사장 이광복,NRF)은 인하대학교 이형진 항공우주공학과 교수를 우주기술단장에 선임했다고 26일 밝혔다. 이형진 단장은 정부에서 위탁받은 우주기술단 소관분야 지원사...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/26/405a644719948ad88d9249f61d1e4494-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EU, 애플·구글 꼼짝마…'플랫폼 횡포' 전방위 조사]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240325164630</guid>
             <pubDate>Mon, 25 Mar 2024 09:10:28 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자와 SK하이닉스가 인공지능(AI)을 위한 차세대 메모리 CXL(Compute Express Link, 컴퓨트 익스프레스 링크) 신기술을 대거 공개한다. 삼성전자와 SK하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위기의 이마트...첫 전사 희망퇴직 받는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325163900</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325163900</guid>
-            <pubDate>Mon, 25 Mar 2024 09:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 연간 적자로 전환하며 실적 부진을 겪고 있는 이마트가 창사 이래 첫 전사 희망 퇴직을 받는다. 25일 유통 업계에 따르면, 이마트는 이날 오후 게시판에 희망퇴직 관련 공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
