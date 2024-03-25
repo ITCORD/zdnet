@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 23:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 00:45:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST, "생성형 AI로 신약 개발"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240325094132</link>
+            <guid>https://zdnet.co.kr/view/?no=20240325094132</guid>
+            <pubDate>Mon, 25 Mar 2024 00:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 신약을 생성형 AI로 개발하는 시대에 본격 진입했다. KAIST(총장 이광형)는 김재철AI대학원 예종철 교수 연구팀이 분자 데이터의 분자 구조와 생화학적 특성을 동시에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/25/a2b71eac2e4f80338d3fe74e9fb7bf15-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IITP, "MWC 2024 테크니컬 리뷰"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240324214748</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240323170426</guid>
             <pubDate>Sat, 23 Mar 2024 08:13:21 GMT</pubDate>
             <content:encoded><![CDATA[KAIST(총장 이광형)는 김성용 기계공학과 교수가 전 세계 해양 디지털 트윈(Digital Twins of the Ocean; 이하 DITTO) 운영 위원회(Steering ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/23/ddde2b3f6989ec93b9682d835ae105e5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국, "2050년 원전발전량 3배" 재확인]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240318124154</guid>
             <pubDate>Mon, 18 Mar 2024 04:14:18 GMT</pubDate>
             <content:encoded><![CDATA[컴퓨터를 통해 24개 암종에 해당하는 1천43명의 암 환자에 대한 대사 모델 구축에 성공했다. KAIST(총장 이광형)는 생명화학공학과 김현욱 교수, 이상엽 특훈교수 연구팀이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['폭발위험 없는 배터리 "성큼"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240318105300</link>
-            <guid>https://zdnet.co.kr/view/?no=20240318105300</guid>
-            <pubDate>Mon, 18 Mar 2024 02:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[폭발·화재 위험 없는 전고체전지 상용화에 한 걸음 다가선 새로운 공정 기술이 개발됐다. 차세대 휴대폰 배터리 활용 가능성을 높인 연구 결과물이다. 한국전기연구원(KERI) 은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
