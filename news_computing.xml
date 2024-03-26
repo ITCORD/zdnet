@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 05:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 모델 순위 매기는 '리더보드'는 과장됐다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240326144716</link>
+            <guid>https://zdnet.co.kr/view/?no=20240326144716</guid>
+            <pubDate>Tue, 26 Mar 2024 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 언어모델의 성능을 측정해 순위를 매기는 리더보드 점수가 과장됐다는 지적이 이어지고 있다. 기업들이 임의로 데이터를 조정해 모델 점수를 높여 이를 홍보나 투자 유...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[UAE, '오일머니'로 앤트로픽 지분 확보…사우디는 고배]]></title>
             <link>https://zdnet.co.kr/view/?no=20240326120035</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240325170357</guid>
             <pubDate>Mon, 25 Mar 2024 08:14:16 GMT</pubDate>
             <content:encoded><![CDATA[스패로우(대표 장일수)가 SaaS 앱 보안 취약점 분석을 원하는 중소기업을 모집한다. 스패로우는 '2024년 중소기업 클라우드서비스 보급·확산 사업'의 공급기업으로 5년 연속 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유아이패스, 사무업무 돕는 생성형 AI 제품군 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325164833</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325164833</guid>
-            <pubDate>Mon, 25 Mar 2024 08:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[유아이패스가 새로운 인공지능(AI) 기능과 솔루션을 출시하며 기업 업무 자동화 지원에 나선다. 유아이패스는 지난 19일 온라인으로 개최한 'AI 서밋'에서 생성형 AI 신기능과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
