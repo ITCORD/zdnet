@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 15:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 16:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 美 인디애나에 5.3조원 규모 반도체 패키징 팹 건설]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240327010018</link>
+            <guid>https://zdnet.co.kr/view/?no=20240327010018</guid>
+            <pubDate>Tue, 26 Mar 2024 16:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 메모리 업체 SK하이닉스가 40억달러(5조3,600억원)를 투자해 미국 인디애나주 웨스트라파옛에 첨단 반도체 패키징 공장을 건설할 계획이라고 월스트리트저널(WSJ)이 26...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[솔루스첨단소재, 북미 GPU 기업에 AI 가속기용 동박 승인 받아]]></title>
             <link>https://zdnet.co.kr/view/?no=20240326152917</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240321181431</guid>
             <pubDate>Thu, 21 Mar 2024 10:10:46 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 차세대 임베디드 프로세싱 기기를 지원하기 위해 ePCM(embedded Phase Change Memory)을 탑재한 18나노미터(nm) ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[텍트로닉스, CAN XL 프로토콜 분석 기능 솔루션 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240321180310</link>
-            <guid>https://zdnet.co.kr/view/?no=20240321180310</guid>
-            <pubDate>Thu, 21 Mar 2024 10:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[텍트로닉스가 CAN XL(Controller Area Network Extended Length) 프로토콜 디코더 기능을 추가한다. 이 솔루션은 최신 세대의 CAN 통신을 통합...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
