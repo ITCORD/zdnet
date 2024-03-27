@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 00:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2분기 D램 가격 인상폭 완화…"예상보다 수요 부진"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240327074852</link>
+            <guid>https://zdnet.co.kr/view/?no=20240327074852</guid>
+            <pubDate>Wed, 27 Mar 2024 00:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 말부터 이어진 D램 가격의 공격적인 상승세가 올 2분기에는 다소 누그러질 것으로 보인다. 예상보다 약한 고객사 수요가 주 원인으로 지목된다. 26일 시장조사업체 트렌드포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 美 인디애나에 5.3조원 규모 반도체 패키징 팹 건설]]></title>
             <link>https://zdnet.co.kr/view/?no=20240327010018</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240322163910</guid>
             <pubDate>Fri, 22 Mar 2024 23:10:03 GMT</pubDate>
             <content:encoded><![CDATA[한미반도체가 인공지능 반도체 HBM(고대역폭메모리) 3세대 하이퍼 모델인 '듀얼 TC 본더 그리핀 (DUAL TC BONDER GRIFFIN)' 장비에 대해 SK하이닉스로부터 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 삼성 파운드리와 18나노 FD-SOI 기술 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240321181431</link>
-            <guid>https://zdnet.co.kr/view/?no=20240321181431</guid>
-            <pubDate>Thu, 21 Mar 2024 10:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 차세대 임베디드 프로세싱 기기를 지원하기 위해 ePCM(embedded Phase Change Memory)을 탑재한 18나노미터(nm) ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
