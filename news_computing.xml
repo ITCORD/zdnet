@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 03:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 04:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠콘, 미성년자 계좌 비대면 개설 API 제공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240327104222</link>
+            <guid>https://zdnet.co.kr/view/?no=20240327104222</guid>
+            <pubDate>Wed, 27 Mar 2024 04:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[쿠콘(대표 김종현)은 미성년자 계좌 개설에 필요한 '대법원 증명서 열람' API를 제공한다고 27일 밝혔다. 그동안 미성년 자녀를 둔 부모는 자녀 명의 인감과 가족관계증명서, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타넷티플랫폼, 한국MS 대기업 고객 클라우드 전환 주도]]></title>
             <link>https://zdnet.co.kr/view/?no=20240327113001</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240326172049</guid>
             <pubDate>Tue, 26 Mar 2024 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[정부가 고도화된 사이버 보안 훈련 플랫폼을 국내 기업에게 제공한다. 지능화되고 있는 보안 위협을 사전에 차단하기 위한 조처다. 한국인터넷진흥원(KISA)은 과학기술정보통신부와 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐디안, 설계속도·도면비교 기능 향상 'CADian2024 SE' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240326172236</link>
-            <guid>https://zdnet.co.kr/view/?no=20240326172236</guid>
-            <pubDate>Tue, 26 Mar 2024 09:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[토종캐드(CAD) 프로그램 개발기업 캐디안(대표 박승훈)은 '캐디안 2024 SE' 버전을 출시한다고 26일 밝혔다. CADian 2024 SE(Second Edition)는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
