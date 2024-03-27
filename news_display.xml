@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 00:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 01:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 태블릿PC용 OLED 시장, 애플 덕에 6배 이상 성장 전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240327100526</link>
+            <guid>https://zdnet.co.kr/view/?no=20240327100526</guid>
+            <pubDate>Wed, 27 Mar 2024 01:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[27일 디스플레이 전문 시장조사업체 유비리서치는 최근 발간한 '2024 중대형 OLED 디스플레이 연간 보고서'를 통해 태블릿 PC용 OLED 패널 출하량이 올해 1천200만 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2분기 D램 가격 인상폭 완화…"예상보다 수요 부진"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240327074852</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240322084936</guid>
             <pubDate>Sat, 23 Mar 2024 00:40:34 GMT</pubDate>
             <content:encoded><![CDATA[CMOS 이미지센서 전문 팹리스 픽셀플러스는 제2 판교 테크노벨리에 신사옥을 준공해 확장 이전한다고 22일 밝혔다. 픽셀플러스는 신사옥을 '차량용 이미지센서 글로벌 탑 5'의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미반도체, HBM용 TC본더 '그리핀'으로 SK하이닉스 수주 2천억원 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240322163910</link>
-            <guid>https://zdnet.co.kr/view/?no=20240322163910</guid>
-            <pubDate>Fri, 22 Mar 2024 23:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[한미반도체가 인공지능 반도체 HBM(고대역폭메모리) 3세대 하이퍼 모델인 '듀얼 TC 본더 그리핀 (DUAL TC BONDER GRIFFIN)' 장비에 대해 SK하이닉스로부터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
