@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 04:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 05:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 3만원대 5G 요금제 출시...데이터 1GB 더 준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240327131331</link>
+            <guid>https://zdnet.co.kr/view/?no=20240327131331</guid>
+            <pubDate>Wed, 27 Mar 2024 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 월 3만원대 신규 요금제를 출시하고 청년 혜택 대상 연령을 넓히기로 했다. 또 기존 요금제 데이터 제공량도 대폭 늘린다. 새롭게 출시하는 '5G 미니'는 월 요금...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT, 5G 요금제 최저가 3만원대로 낮췄다...온라인 전용 2만원대도 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240327125441</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[과기정통부-방통위 정책협의체 가동..."칸막이 털고 원팀 플레이”]]></title>
+            <title><![CDATA[과기정통부-방통위 정책협의체 가동..."칸막이 털고 원팀 플레이"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240327124235</link>
             <guid>https://zdnet.co.kr/view/?no=20240327124235</guid>
             <pubDate>Wed, 27 Mar 2024 04:13:39 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240325090929</guid>
             <pubDate>Mon, 25 Mar 2024 01:44:27 GMT</pubDate>
             <content:encoded><![CDATA[KT가 인공지능(AI) 기술을 활용해 자동으로 스팸 문자를 차단하는 AI 스팸 수신차단 무료 서비스를 시작한다고 25일 밝혔다. AI 스팸 수신차단 서비스는 받고 싶지 않은 광...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 파리 올림픽 방송중계 회선 단독 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240325091835</link>
-            <guid>https://zdnet.co.kr/view/?no=20240325091835</guid>
-            <pubDate>Mon, 25 Mar 2024 01:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 오는 7월 프랑스 파리에서 개최되는 2024 파리올림픽 방송 중계 회선을 국내 지상파 방송 3사에 단독으로 제공한다고 25일 밝혔다. LG유플러스는 파리 현지에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
