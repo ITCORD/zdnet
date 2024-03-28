@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 06:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 외부 완전 차단…"개인정보 안심구역 본격 운영"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240328134005</link>
+            <guid>https://zdnet.co.kr/view/?no=20240328134005</guid>
+            <pubDate>Thu, 28 Mar 2024 06:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 제로트러스트 시대를 맞아 외부와 완전히 차단된 개인정보 안심구역을 운영한다. 개인정보보호위원회와 통계청은 개인정보 안심구역을 본격 운영한다고 28일 밝혔다. 통계청은 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["성인 10명 중 9명 개인정보 중요"…확인되지 않은 이메일 미열람]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240328133102</link>
+            <guid>https://zdnet.co.kr/view/?no=20240328133102</guid>
+            <pubDate>Thu, 28 Mar 2024 06:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[성인 10명 중 9명은 개인정보 보호를 중요하게 생각하고 출처가 분명하지 않는 이메일은 열어보지 않는 것으로 나타났다. 개인정보보호위원회는 개인정보처리자의 개인정보 보호·활용 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[와이즈스톤, KETI와 국내 중기 AI 가전제품 시험 인증 활성화 나서]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240328144522</link>
+            <guid>https://zdnet.co.kr/view/?no=20240328144522</guid>
+            <pubDate>Thu, 28 Mar 2024 06:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[국가 공인 SW 시험인증기관 와이즈스톤 ICT시험인증연구소와 한국전자기술연구원 인공지능(AI)융합가전연구센터(KETI)가 국내 중소기업의 AI 가전제품 시험 인증 활성화를 위해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 내부서 쓰는 API 가시성을 확보한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240328123336</link>
+            <guid>https://zdnet.co.kr/view/?no=20240328123336</guid>
+            <pubDate>Thu, 28 Mar 2024 06:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[호주 2위 이동통신사 '옵터스'가 2022년 해킹 공격을 받아 고객 980만명의 개인정보가 유출됐다. 당시 사고의 원인은 애플리케이션 프로그래밍 인터페이스(API) 인증 부재다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HPE 아루바, 생성형 AI 기능으로 AI옵스 기능 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240328125722</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240328093711</guid>
             <pubDate>Thu, 28 Mar 2024 01:42:44 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA)이 광고성 정보 전송자의 혼란을 방지하기 위해 실무상 가이드라인을 강화한다. KISA와 방송통신위원회는 '불법스팸 방지를 위한 정보통신망법 안내서' 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['오픈AI 라이벌' 앤트로픽, 3.7兆 투자금 '잭팟'…"아마존 최대 투자"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328095153</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328095153</guid>
-            <pubDate>Thu, 28 Mar 2024 01:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 스타트업 앤트로픽(Anthropic)이 또 다시 아마존의 자금 지원을 받게 됐다. 생성형 AI 경쟁에서 다소 뒤처지고 있는 아마존이 설립 30년 만에 최대 규모...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온, AI 통한 개발 프로세스 혁신 …'젠 AI 듀스' 개발 조직 전체 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328093151</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328093151</guid>
-            <pubDate>Thu, 28 Mar 2024 00:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[더존비즈온이 인공지능(AI)를 통한 개발 프로세스 혁신에 나선다. 자사는 물론 협력사에 이르기까지 협력 생산성을 증대하겠다는 전략이다. 더존비즈온은 '젠 AI 듀스(GEN AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] "영화 한 편도 뚝딱"…오픈AI, '소라'로 할리우드 넘어설까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328084615</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328084615</guid>
-            <pubDate>Thu, 28 Mar 2024 00:42:08 GMT</pubDate>
-            <content:encoded><![CDATA["머지않아 누구나 몇 분 안에 영화를 만들 수 있게 될 거예요." 오픈AI가 지난달 공개한 동영상 생성 인공지능(AI) '소라'로 영상을 제작해 또 한 번 더 시장을 놀래켰다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보법 개정 후 분쟁조정 실효성↑...月 평균 처리 건수 33.7% 상승]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240327153631</link>
-            <guid>https://zdnet.co.kr/view/?no=20240327153631</guid>
-            <pubDate>Wed, 27 Mar 2024 08:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보 보호법 개정 이후 개인정보 분쟁조정 월평균 처리 건수가 개정 전과 비교해 33.7% 상승한 것으로 집계됐다. 개인정보보호위원회는 개인정보 분쟁조정위원회가 처리한 지난해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
