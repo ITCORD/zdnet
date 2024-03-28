@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 14:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 15:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴라리스오피스, 28일 발족 '한국 AI PC 얼라이언스' 참여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240328233945</link>
+            <guid>https://zdnet.co.kr/view/?no=20240328233945</guid>
+            <pubDate>Thu, 28 Mar 2024 15:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[폴라리스오피스(대표 지준경) 가 28일 출범한 '한국 인공지능 컴퓨터 얼라이언스(Korea-AI PC Alliance, K-APA)'에 참여한다. 'K-APA'는 중소기업벤처부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[화제의 두 공공정보화 사업 세림·쌍용이 수주]]></title>
             <link>https://zdnet.co.kr/view/?no=20240328225044</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240328125722</guid>
             <pubDate>Thu, 28 Mar 2024 04:11:22 GMT</pubDate>
             <content:encoded><![CDATA[HPE는 클라우드 네이티브 네트워크 관리 솔루션인 'HPE 아루바 네트워킹 센트럴'에 다양한 생성형 AI 대규모 언어 모델(LLM)을 통합해 AI옵스 네트워크 관리 기능을 확장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코 "사이버 위협에 회복탄력성 갖춘 국내 기업은 4%”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328125210</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328125210</guid>
-            <pubDate>Thu, 28 Mar 2024 04:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[시스코는 초연결성과 빠르게 진화하는 위협 환경으로 정의되는 시대에 기업이 사이버보안 준비를 제대로 갖추고 있는지 그 수준을 분석한 보고서를 28일 발표했다. '2024 시스코 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
