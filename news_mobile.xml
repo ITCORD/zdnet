@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 22:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 23:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇 HW 진화 '주춤' AI와 시너지는 '가속']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240328132253</link>
+            <guid>https://zdnet.co.kr/view/?no=20240328132253</guid>
+            <pubDate>Fri, 29 Mar 2024 23:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[로봇 하드웨어 기술이 고도화되면서 이를 더 똑똑하게 쓸 수 있는 방법론이 주요 의제로 떠올랐다. 인공지능(AI) 기술을 접목해 상황에 맞는 작업을 스스로 판단하거나 작업 효율을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플표 AI, 어떻게 나올까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240329171603</link>
+            <guid>https://zdnet.co.kr/view/?no=20240329171603</guid>
+            <pubDate>Fri, 29 Mar 2024 23:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 오는 6월 10일에 개최하는 세계개발자회의(WWDC)에서 아이폰, 아이패드 등 소프트웨어 업데이트와 함께 새로운 인공지능(AI) 전략을 공개할 것으로 예상된다. IT매체...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테솔로, 로봇 그리퍼 'DG-3F' 활용한 자동화 기술 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240329200419</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240328143458</guid>
             <pubDate>Thu, 28 Mar 2024 06:13:28 GMT</pubDate>
             <content:encoded><![CDATA[구글이 픽셀8, 픽셀7에 이어 픽셀6 등 모든 텐서 칩 기반 픽셀폰에 '서클 투 서치'(Circle to Search) 기능을 확대 적용한다고 IT매체 나인투파이브구글이 27일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10주년 기념 애플워치, 언제·어떻게 바뀌나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328105225</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328105225</guid>
-            <pubDate>Thu, 28 Mar 2024 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 2014년 9월 첫 선을 보인 애플워치가 공개 10주년을 앞두고 있다. IT매체 나인투파이브맥은 27일(현지시간) 애플이 선보일 10주년 기념 애플워치에 대한 전망 기사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마로솔 "누구나 편리하게 로봇 관제...자동화 경험 혁신"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328123022</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328123022</guid>
-            <pubDate>Thu, 28 Mar 2024 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA["공정에서 사용하는 로봇과 승강기를 프로그램 하나로 관제할 수 있습니다. 다양한 제조사의 앱 프로그래밍 인터페이스(API)를 통합해 불편을 줄였고, 누구나 편리하게 로봇을 쓸 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
