@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 23:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 00:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아이폰16 프로, 광택 티타늄 마감 적용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240329190204</link>
+            <guid>https://zdnet.co.kr/view/?no=20240329190204</guid>
+            <pubDate>Sat, 30 Mar 2024 00:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 올 가을 출시할 예정인 아이폰16 프로에 티타늄 가공과 색감 처리를 개선한 공법이 적용될 것이라는 전망이 나왔다. IT매체 맥루머스는 29일(현지시간) 국내 IT팁스터 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로봇 HW 진화 '주춤' AI와 시너지는 '가속']]></title>
             <link>https://zdnet.co.kr/view/?no=20240328132253</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240328161323</guid>
             <pubDate>Thu, 28 Mar 2024 08:13:04 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴이 올 하반기부터 시장에 투입할 PC용 프로세서, 스냅드래곤 X 엘리트 출시를 앞두고 막바지 준비에 한창이다. CPU나 GPU 등 설계가 이미 끝난 상황에서 강점을 최대한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 '서클 투 서치', 구형 폰에도 제공…번역 기능도 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328143458</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328143458</guid>
-            <pubDate>Thu, 28 Mar 2024 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 픽셀8, 픽셀7에 이어 픽셀6 등 모든 텐서 칩 기반 픽셀폰에 '서클 투 서치'(Circle to Search) 기능을 확대 적용한다고 IT매체 나인투파이브구글이 27일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
