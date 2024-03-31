@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 09:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 10:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토] 한국인공지능협회 주최 'AI CEO 아카데미' 1기 개강식]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240331190550</link>
+            <guid>https://zdnet.co.kr/view/?no=20240331190550</guid>
+            <pubDate>Sun, 31 Mar 2024 10:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[한국인공지능협회(회장 김현철)가 개최한 'AI CEO 아카데미(AI CEO ACADEM) 최고위과정' 제 1기 개강식이 지난 27일 서울 을지로 프레지던트 호텔 19층 브람스홀...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/31/ca5722525e2d9ebe2557419c6ca97751-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복지부 장관, 의대교수 주 52시간 진료 유감]]></title>
             <link>https://zdnet.co.kr/view/?no=20240331171457</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240331164227</guid>
             <pubDate>Sun, 31 Mar 2024 08:12:54 GMT</pubDate>
             <content:encoded><![CDATA[2022년 기준 장애인기업 수는 16만4660개(2020년 대비 42.8% 증가)로 이 중 90.3%(14만8723개)가 소상공인으로 나타났다. 또 장애인 기업의 전체 종사자 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/31/37a52996f216f7878e49d7cfb072ce5b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 AT&T, 7300만 고객정보 다크웹으로 유출됐다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240330174559</guid>
             <pubDate>Sun, 31 Mar 2024 01:51:20 GMT</pubDate>
             <content:encoded><![CDATA[집안일 부담을 덜어주는 생활가전으로 음식물처리기가 다변화하고 있다. 싱크대 부착형부터 건조분쇄형, 미생물 발효형 등 다양한 제품군으로 소비자 관심이 확산되는 중이다. 시장조사기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[링크드인, 틱톡 스타일 숏폼 영상 기능 도입 계획]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240331094147</link>
-            <guid>https://zdnet.co.kr/view/?no=20240331094147</guid>
-            <pubDate>Sun, 31 Mar 2024 01:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[링크드인이 글로벌 숏폼 서비스 '틱톡'과 비슷한 세로로 영상이 보여지는 피드를 도입할 전망이다. 미국 IT매체 테크크런치는 27일(현지시간) 링크드인이 앱에 '영상' 탭을 추가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
