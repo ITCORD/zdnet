@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 00:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 01:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, 목소리 복제하는 '보이스 엔진' 미리보기 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240331092943</link>
+            <guid>https://zdnet.co.kr/view/?no=20240331092943</guid>
+            <pubDate>Sun, 31 Mar 2024 01:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 음성을 복제할 수 있는 인공지능(AI) 모델을 공개했다. 현재 소수 테스터들만 해당 모델에 접근할 수 있다. 29일 벤처비트는 오픈AI가 AI 음성 모델 '보이스 엔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS-오픈AI, 135조 규모 AI 슈퍼컴퓨터 개발...전용칩만 수백만개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240331082358</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240329111326</guid>
             <pubDate>Fri, 29 Mar 2024 02:16:21 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)가 생성형 인공지능(AI)의 악의적 사용을 막기 위해 새로운 보안 기능을 개발했다. 이 기능을 앞세워 엔터프라이즈(기업용) AI 시장에서 경쟁력을 유지한다는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글에 밀린 MS, AI 주도권 잡기 안간힘…경영진도 물갈이]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240329102615</link>
-            <guid>https://zdnet.co.kr/view/?no=20240329102615</guid>
-            <pubDate>Fri, 29 Mar 2024 01:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[사티아 나델라 마이크로소프트(MS) 최고경영자(CEO)가 인공지능(AI) 시장 주도권 확보 문제를 두고 초조해 하는 모습을 보이고 있다. 경쟁사인 구글에 대한 비판의 목소리를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
