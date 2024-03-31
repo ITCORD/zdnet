@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 08:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복지부 장관, 의대교수 주 52시간 진료 유감]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240331171457</link>
+            <guid>https://zdnet.co.kr/view/?no=20240331171457</guid>
+            <pubDate>Sun, 31 Mar 2024 09:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[조규홍 보건복지부 장관이 의대 교수들의 주 52시간 근무를 하겠다고 밝힌 데 대해 유감을 표명했다. 의사 집단행동 중앙사고수습본부 조규홍 본부장(보건복지부 장관)은 31일 오후...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/31/1b419dab6cf5d53765dc5a6b1467a341-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장애인기업 16만4600개···90.3%가 소상공인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240331164227</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240331151716</guid>
             <pubDate>Sun, 31 Mar 2024 08:12:54 GMT</pubDate>
             <content:encoded><![CDATA[미국 통신 대기업 AT&amp;T의 약 7천만명에 달하는 고객정보가 다크웹으로 유출됐다. 30일(현지시간) 블룸버그 통신 등 복수의 외신에 따르면 AT&amp;T는 계정 사용자 760만명을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2016/04/25/lyk_47p3k1Nic8ktZM6i-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코웨이, 코디 재해 예방 위해 '안전보건 영상 송출 시스템' 구축]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240331094147</guid>
             <pubDate>Sun, 31 Mar 2024 01:51:20 GMT</pubDate>
             <content:encoded><![CDATA[링크드인이 글로벌 숏폼 서비스 '틱톡'과 비슷한 세로로 영상이 보여지는 피드를 도입할 전망이다. 미국 IT매체 테크크런치는 27일(현지시간) 링크드인이 앱에 '영상' 탭을 추가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, 목소리 복제하는 '보이스 엔진' 미리보기 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240331092943</link>
-            <guid>https://zdnet.co.kr/view/?no=20240331092943</guid>
-            <pubDate>Sun, 31 Mar 2024 01:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 음성을 복제할 수 있는 인공지능(AI) 모델을 공개했다. 현재 소수 테스터들만 해당 모델에 접근할 수 있다. 29일 벤처비트는 오픈AI가 AI 음성 모델 '보이스 엔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
