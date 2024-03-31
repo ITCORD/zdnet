@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 07:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 08:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 AT&T, 7300만 고객정보 다크웹으로 유출됐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240331151716</link>
+            <guid>https://zdnet.co.kr/view/?no=20240331151716</guid>
+            <pubDate>Sun, 31 Mar 2024 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[미국 통신 대기업 AT&amp;T의 약 7천만명에 달하는 고객정보가 다크웹으로 유출됐다. 30일(현지시간) 블룸버그 통신 등 복수의 외신에 따르면 AT&amp;T는 계정 사용자 760만명을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[작년 스미싱 발생 50만건 육박..."내 폰 카메라 제어까지?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240329151113</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240329112924</guid>
             <pubDate>Fri, 29 Mar 2024 03:10:31 GMT</pubDate>
             <content:encoded><![CDATA[다우데이타가 새로운 수장을 앞세워 기업 경쟁력 제고에 본격 나선다. 다우데이타는 29일 서울 마포구 본사에서 제32기 정기주주총회를 개최해 김상준 전 한국정보인증 사장을 새로운...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 우울증 분석, 백인만 통해…흑인 징후는 못 잡아"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240329090853</link>
-            <guid>https://zdnet.co.kr/view/?no=20240329090853</guid>
-            <pubDate>Fri, 29 Mar 2024 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)을 사용한 소셜 미디어 분석이 미국 백인들의 우울증 신호는 포착할 수 있는 반면, 흑인들에 대해서는 제대로 효과를 발휘하지 못한다는 연구 결과가 발표됐다. 미국 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
