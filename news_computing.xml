@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 05:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 06:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작년 스미싱 발생 50만건 육박..."내 폰 카메라 제어까지?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240329151113</link>
+            <guid>https://zdnet.co.kr/view/?no=20240329151113</guid>
+            <pubDate>Sun, 31 Mar 2024 06:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 국내에서 발생한 스미싱 탐지 건수가 50만3천300건으로 집계됐다. 특히 같은 기간 스미싱 악성앱 탐지·분석 건수는 3천761건에 달하는 것으로 조사됐다. 한국인터넷진흥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI, 목소리 복제하는 '보이스 엔진' 미리보기 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240331092943</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240329090853</guid>
             <pubDate>Fri, 29 Mar 2024 03:10:31 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)을 사용한 소셜 미디어 분석이 미국 백인들의 우울증 신호는 포착할 수 있는 반면, 흑인들에 대해서는 제대로 효과를 발휘하지 못한다는 연구 결과가 발표됐다. 미국 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 활용 사기 막는다"…MS, '보안' 강화 위한 新 무기 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240329111326</link>
-            <guid>https://zdnet.co.kr/view/?no=20240329111326</guid>
-            <pubDate>Fri, 29 Mar 2024 02:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)가 생성형 인공지능(AI)의 악의적 사용을 막기 위해 새로운 보안 기능을 개발했다. 이 기능을 앞세워 엔터프라이즈(기업용) AI 시장에서 경쟁력을 유지한다는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
