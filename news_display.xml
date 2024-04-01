@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 01:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 뛰어난 시그널링·속도 갖춘 'RS-485' 트랜시버 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240401104805</link>
+            <guid>https://zdnet.co.kr/view/?no=20240401104805</guid>
+            <pubDate>Mon, 01 Apr 2024 02:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 40Mbit/s의 속도, PROFIBUS 호환 출력, 순간부하 및 핫스왑 보호 기능을 갖춘 RS-485 트랜시버인 ST4E1240을 출시했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMAT, 2024 인텔 협력사 다양성 부문 'EPIC 우수 협력사 어워드' 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20240401085655</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240328154300</guid>
             <pubDate>Thu, 28 Mar 2024 07:09:35 GMT</pubDate>
             <content:encoded><![CDATA[인피니언테크놀로지스와 HD한국조선해양은 저전력 반도체 기술을 사용해 선박 엔진 및 기계의 전동화 기술을 공동 개발하는 양해각서(MoU)를 체결했다고 밝혔다. HD한국조선해양은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IAR, 르네사스 범용 'RISC-V MCU'에 동급 최고 지원 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240328112417</link>
-            <guid>https://zdnet.co.kr/view/?no=20240328112417</guid>
-            <pubDate>Thu, 28 Mar 2024 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[임베디드 개발용 소프트웨어 및 서비스 공급회사인 IAR은 르네사스(Renesas)가 자체 개발한 CPU 코어를 탑재한 최초의 범용 32비트 RISC-V MCU(마이크로컨트롤러유...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

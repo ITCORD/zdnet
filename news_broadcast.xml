@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 01:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["갤럭시에서 에이닷 통화녹음·요약 기능 사용하세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240401102337</link>
+            <guid>https://zdnet.co.kr/view/?no=20240401102337</guid>
+            <pubDate>Mon, 01 Apr 2024 02:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 인공지능(AI) 개인비서 '에이닷' 내 전화 서비스를 고도화해 안드로이드 버전에서도 통역콜 등 기능을 제공한다고 1일 밝혔다. SK텔레콤은 에이닷 안드로이드 버전에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["예약부터 키오스크까지"...LGU+, 통합 매장 관리 솔루션 내놨다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240401094051</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240329110055</guid>
             <pubDate>Fri, 29 Mar 2024 02:16:15 GMT</pubDate>
             <content:encoded><![CDATA[KT는 BBC스튜디오와 영유아 전용 IPTV 서비스인 지니 TV 키즈랜드의 새로운 월정액 서비스 'BBC Kids'를 출시한다고 29일 밝혔다. BBC키즈는 BBC 스튜디오의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이지파이브, 안랩과 알뜰폰 개통 보안점검]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240329102327</link>
-            <guid>https://zdnet.co.kr/view/?no=20240329102327</guid>
-            <pubDate>Fri, 29 Mar 2024 01:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[스테이지파이브는 안랩과 협업을 통해 알뜰폰 개통 명의도용에 대한 방지 노력을 강화하기 위한 정기 보안 점검을 진행한다고 29일 밝혔다. 최근 알뜰폰을 통한 개통 명의도용 사례가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
