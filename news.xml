@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 21:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 22:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국서 'AI 부활' 기술 논란...경고 나선 틱톡]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404022625</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404022625</guid>
+            <pubDate>Wed, 03 Apr 2024 22:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[4일부터 사흘 간 이어지는 중국의 명절 청명절을 앞두고 글로벌 동영상 플랫폼 틱톡의 중국 버전 '더우인'이 죽은 사람이 살아있는 듯한 영상을 만드는 인공지능(AI) 기술 사용에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/04/c96783d46d8b803e74db5cb1bcc2f867-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스 "美에 5.2조원 패키징 공장 건설"...엔비디아·TSMC와 시너지]]></title>
             <link>https://zdnet.co.kr/view/?no=20240404011839</link>
             <guid>https://zdnet.co.kr/view/?no=20240404011839</guid>
             <pubDate>Wed, 03 Apr 2024 19:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 38억7천만 달러(약 5조2천억 원)를 투자해 미국 인디애나주(州) 웨스트라피엣(West Lafayette)에 AI 메모리용 어드밴스드 패키징 생산 공장을 건설한...]]></content:encoded>
+            <content:encoded><![CDATA[SK하이닉스가 38억7천만 달러(약 5조2천억원)를 투자해 미국 인디애나주웨스트라피엣(West Lafayette)에 AI 메모리용 어드밴스드 패키징 생산 공장을 건설한다. SK...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/01/09/d73695eaae4a16a8880a13174648f5b7-290x182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240403234639</guid>
             <pubDate>Wed, 03 Apr 2024 15:09:56 GMT</pubDate>
             <content:encoded><![CDATA[한국국제협력단(KOCIA)이 지난 2018년부터 2022년까지 4년간 수행한 디지털ODA사업 규모가 총 482건에 5927억 원에 달했다. 이는 KOICA의 전체 사업 중 36...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/03/15e175c51c15eb75831dc45bb5fc0ded-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[7개국 해외송금 플랫폼 구축…예금토큰·스마트계약 활용]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240403165831</guid>
             <pubDate>Wed, 03 Apr 2024 09:10:50 GMT</pubDate>
             <content:encoded><![CDATA[보안 기업 플랜티넷의 계열사 플랜티엠이 국내 디지털 매거진 산업 공략에 나선다. 플랜티엠과 한국잡지협회는 디지털 매거진 콘텐츠사업 활성화와 국내 잡지산업 진흥을 위한 업무협약(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨 '퍼스트 디센던트', 이범준 PD 글로벌 이용자 대상 깜짝 라이브 방송 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240403171931</link>
-            <guid>https://zdnet.co.kr/view/?no=20240403171931</guid>
-            <pubDate>Wed, 03 Apr 2024 09:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨의 글로벌 기대작 '퍼스트 디센던트'의 이범준 PD가 첫 라이브 방송을 켜고 깜짝 이용자 소통을 진행했다. 지난 2일 정오에 진행된 라이브 방송은 30분간 이용자들의 질문에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
