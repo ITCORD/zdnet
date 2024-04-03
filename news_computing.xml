@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 02:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 03:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴렐릭, 가시성 플랫폼에 오픈텔레메트리 기본 지원 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240403114436</link>
+            <guid>https://zdnet.co.kr/view/?no=20240403114436</guid>
+            <pubDate>Wed, 03 Apr 2024 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[뉴렐릭은 오픈소스 오픈텔레메트리와 프로메테우스로 계측되는 호스트 및 쿠버네티스 클러스터에 대한 기본 지원을 제공할 것이라고 3일 발표했다. 기업은 오픈텔레메트리 콜렉터와 프로메...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버클라우드, 섬유 패션 기업 AI 기술 확산 돕는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240403105843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240402115844</guid>
             <pubDate>Tue, 02 Apr 2024 04:12:15 GMT</pubDate>
             <content:encoded><![CDATA[“지난해는 인공지능(AI) 기술검증(POC)의 해였다면 올해는 엔터프라이즈 AI의 해가 될 것이다.” 1일 SK C&amp;C 차지원 G.AI 그룹장은 올해가 기업들이 AI도입을 본격...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사이냅소프트, 디지털 문서 자산화 돕는 제품 공개 앞둬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240402112128</link>
-            <guid>https://zdnet.co.kr/view/?no=20240402112128</guid>
-            <pubDate>Tue, 02 Apr 2024 04:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[사이냅소프트(대표 전경헌)가 표·그래프 등 시각정 정보와 문서 구조를 분석하는 인공지능(AI) 솔루션 출시를 앞뒀다. 사이냅소프트는 5월 초 코엑스에서 개최하는 AI 엑스포 2...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
