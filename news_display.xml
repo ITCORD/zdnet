@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 01:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 02:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대만 7.2 강진 발생…TSMC 등 현지 직원 긴급대피]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240403104451</link>
+            <guid>https://zdnet.co.kr/view/?no=20240403104451</guid>
+            <pubDate>Wed, 03 Apr 2024 02:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[대만 동부에서 규모 7.2의 강진이 발생했다. 이에 현지 반도체 파운드리 업체 TSMC를 비롯한 현지 주요 기업들은 직원들을 긴급 대피시키고 구체적인 피해 현황을 파악하고 있다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[내부 매출 합산했더니...인텔, 삼성 제치고 세계 2위 파운드리 등극]]></title>
             <link>https://zdnet.co.kr/view/?no=20240403083506</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240329154112</guid>
             <pubDate>Fri, 29 Mar 2024 08:12:37 GMT</pubDate>
             <content:encoded><![CDATA[최근 파운드리 사업 확장에 초강수를 둔 인텔이 삼성전자 파운드리 부사장 출신 임원을 앞세워 국내에서 관련 영업 활동에 전념하고 있는 것으로 확인됐다. 삼성전자 텃밭인 한국에서 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마우저, NXP반도체 'MCX' 산업·IoT용 MCU 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240329144349</link>
-            <guid>https://zdnet.co.kr/view/?no=20240329144349</guid>
-            <pubDate>Fri, 29 Mar 2024 06:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[마우저일렉트로닉스는 NXP반도체의 MCX 산업용 및 IoT MCU(마이크로컨트롤러)를 공급한다고 29일 밝혔다. MCX N 시리즈 MCU는 Arm Cortex-M33 CPU를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
