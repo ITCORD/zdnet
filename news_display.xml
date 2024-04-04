@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMAT, 삼성·인텔 등 초미세공정 공략…"2나노서 검증 중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404114553</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404114553</guid>
+            <pubDate>Thu, 04 Apr 2024 06:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[어플라이드머티어리얼즈(AMAT)가 삼성전자, 인텔 등 고객사의 반도체 초미세공정 개발을 위한 혁신 솔루션을 공개했다. 최신 제품의 경우 2나노미터(nm) 공정에서 검증을 진행 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2월 전세계 반도체 매출 16.3% 증가...본격적인 회복세]]></title>
             <link>https://zdnet.co.kr/view/?no=20240404080451</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240401085655</guid>
             <pubDate>Mon, 01 Apr 2024 00:46:44 GMT</pubDate>
             <content:encoded><![CDATA[어플라이드머티어리얼즈(이하 AMAT)가 2024년도 인텔 'EPIC(Excellence, Partnership, Inclusion and Continuous Improvemen...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 반도체 업계 최초 '네온 가스 재활용 기술' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240401093010</link>
-            <guid>https://zdnet.co.kr/view/?no=20240401093010</guid>
-            <pubDate>Mon, 01 Apr 2024 00:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 국내 반도체용 특수가스 기업 TEMC와 협업해 반도체 업계 최초로 네온(Ne) 가스 재활용 기술을 개발했다고 1일 밝혔다. 최근 국제 정세 불안으로 인해 수입에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

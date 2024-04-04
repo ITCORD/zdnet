@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 06:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스트시큐리티, 라무라 손잡고 '알약 샐러드'로 선행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404142109</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404142109</guid>
+            <pubDate>Thu, 04 Apr 2024 06:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[이스트시큐리티가 자사의 보안솔루션 '알약'을 활용한 '알약샐러드'로 선한 영향력 확산에 앞장선다. 이스트시큐리티는 라멘 레스토랑 '라무라(RAMURA)'와 콜라보레이션을 통해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지코어코리아, 한국에 엔비디아 H100 기반 데이터센터 개소]]></title>
             <link>https://zdnet.co.kr/view/?no=20240404134511</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240403162120</guid>
             <pubDate>Wed, 03 Apr 2024 08:13:20 GMT</pubDate>
             <content:encoded><![CDATA["기업 데이터 환경이 복잡해졌습니다. 기업이 자사 데이터를 찾고 활용하는 것이 버거울 정도입니다. 이제 데이터를 한 플랫폼에서 관리할 수 있어야 합니다. 디노도는 '디노도플랫폼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[랜섬웨어 공격 급증…'무빗·고애니웨어' 취약점 공격 때문]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240403142016</link>
-            <guid>https://zdnet.co.kr/view/?no=20240403142016</guid>
-            <pubDate>Wed, 03 Apr 2024 06:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[최근 랜섬웨어가 확산하고 있는 가운데 '무빗(MOVEit)'과 '고애니웨어(GoAnywhere)' 취약점을 악용한 공격이 원인으로 지목됐다. 랜섬웨어 데이터 유출 건수도 지난해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
