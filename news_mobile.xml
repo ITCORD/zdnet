@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 07:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 08:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤큐, 모니터 조명 '스크린바 헤일로' 예판 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240404162913</link>
+            <guid>https://zdnet.co.kr/view/?no=20240404162913</guid>
+            <pubDate>Thu, 04 Apr 2024 08:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[벤큐코리아가 오는 14일까지 모니터 조명 '스크린바 헤일로' 예약판매를 진행한다. 스크린바 헤일로는 모니터 위에 설치해 주변 키보드나 마우스 등 작업 공간을 비춘다. LED 간...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[초당 32GB 전송 'PCI 익스프레스 7.0' 초안 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240404155340</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240403174223</guid>
             <pubDate>Wed, 03 Apr 2024 10:11:14 GMT</pubDate>
             <content:encoded><![CDATA['AI 가전' 경쟁이 가열되고 있는 가운데 LG전자는 자체 개발한 가전 전용 온디바이스 AI칩 'DQ-C'를 앞세워 시장을 선점한다는 목표를 밝혔다. 아울러 LG전자는 경쟁사 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] "빅스비, 에어컨 꺼줘. 아, TV도"...삼성 가전에 생성형AI 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240403160442</link>
-            <guid>https://zdnet.co.kr/view/?no=20240403160442</guid>
-            <pubDate>Wed, 03 Apr 2024 09:11:11 GMT</pubDate>
-            <content:encoded><![CDATA["빅스비, 안방이 습해. 에어컨 무풍으로 켜주고, 날씨 알려줘" 삼성전자는 3일 오전 서울 서초구 삼성전자 서초사옥에서 신제품 론칭 미디어데이 '웰컴 투 비스포크 AI'를 열고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
