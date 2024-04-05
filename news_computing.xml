@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 03:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 04:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매스웍스, 매트랩·시뮬링크 '릴리즈 2024a' 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240405122753</link>
+            <guid>https://zdnet.co.kr/view/?no=20240405122753</guid>
+            <pubDate>Fri, 05 Apr 2024 04:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[매스웍스는 매트랩과 시뮬링크 제품군의 '릴리즈 2024a(이하 R2024a)'를 5일 발표했다. R2024a는 AI 및 무선 통신 시스템을 다루는 엔지니어와 연구원의 워크플로우...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유미's 픽] "해외 상장도 노린다"…베스핀글로벌, 내년부터 IPO 준비 본격화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240405114536</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240404161030</guid>
             <pubDate>Thu, 04 Apr 2024 08:13:45 GMT</pubDate>
             <content:encoded><![CDATA[한국지역정보개발원(이하 개발원)은 지난 3일 오전 여의도에 위치한 오케스트로 본사 회의실에서 지자체 정보화 담당 공무원 대상 '클라우드 네이티브 전략 모색 기술 세미나'를 개최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 "하이퍼클로바X, GPT-4·라마보다 일 잘한다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404092425</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404092425</guid>
-            <pubDate>Thu, 04 Apr 2024 07:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[네이버의 거대언어모델(LLM) '하이퍼클로바X'가 메타의 오픈소스 모델 '라마'와 오픈AI의 폐쇄형 모델 GPT보다 번역, 추론, 수학, 일반상식 등에서 높은 성능을 기록했다는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
