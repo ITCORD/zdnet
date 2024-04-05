@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 04:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 05:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ETRI, 두손이 자유로운 스마트글라스 출품 "관심"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240405131822</link>
+            <guid>https://zdnet.co.kr/view/?no=20240405131822</guid>
+            <pubDate>Fri, 05 Apr 2024 05:10:25 GMT</pubDate>
+            <content:encoded><![CDATA["스마트 안경이 책을 대신 읽어드립니다." 2024 대구국제안경전에서 한국전자통신연구원(ETRI)이 첨단 스마트 글라스 기술을 선보여 화제다. 5일 대구 엑스코 1층 ETRI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성디스플레이, 올해 평균 임금 5.1% 인상안 잠정 합의]]></title>
             <link>https://zdnet.co.kr/view/?no=20240405124524</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240402104630</guid>
             <pubDate>Tue, 02 Apr 2024 02:20:49 GMT</pubDate>
             <content:encoded><![CDATA[아이에스시(ISC)가 고성능 시스템반도체용 테스트 소켓 사업 확장에 추진력을 얻고 있다. 지난해 개발한 대면적용 소켓으로 주요 고객사와 검증에 돌입해, 최근 양산 적용에 대한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["토종 AI칩, 엔비디아와 경쟁 위해 특화 시장 공략해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240402094652</link>
-            <guid>https://zdnet.co.kr/view/?no=20240402094652</guid>
-            <pubDate>Tue, 02 Apr 2024 01:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[“엔비디아가 AI 반도체 시장에서 지배적인 입지에 있다고 해도 국내 기업이 경쟁을 포기하고 종속되면 안 됩니다. 국산 AI 반도체가 성공하려면 애플리케이션 맞춤형 저전력 NPU...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
