@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 06:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 07:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영현로보틱스, 中협동로봇 1위와 대구에 생산기지 마련]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240405110101</link>
+            <guid>https://zdnet.co.kr/view/?no=20240405110101</guid>
+            <pubDate>Fri, 05 Apr 2024 07:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[중국 협동로봇 선두업체 아우보의 기술을 전수받은 국내 업체가 연내 대구에 로봇 생산기지를 마련한다. 올해 안에 제품 생산과 납품을 시작해 내년에는 국내 250대, 해외 1천 대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴로메카, 협동로봇 모방학습 기술 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240405145227</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240404162913</guid>
             <pubDate>Thu, 04 Apr 2024 08:13:52 GMT</pubDate>
             <content:encoded><![CDATA[벤큐코리아가 오는 14일까지 모니터 조명 '스크린바 헤일로' 예약판매를 진행한다. 스크린바 헤일로는 모니터 위에 설치해 주변 키보드나 마우스 등 작업 공간을 비춘다. LED 간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[초당 32GB 전송 'PCI 익스프레스 7.0' 초안 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404155340</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404155340</guid>
-            <pubDate>Thu, 04 Apr 2024 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[프로세서와 저장장치, 그래픽카드와 AI 가속기를 연결하는 데이터 전송 규격인 PCI 익스프레스 7.0 초안(버전 0.5)이 공개됐다. 한 레인(lane, 데이터 전송 통로)에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
