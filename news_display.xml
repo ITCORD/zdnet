@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 00:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 01:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 신규 100V 트렌치 쇼트키 정류기 다이오드 제품군 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240405093858</link>
+            <guid>https://zdnet.co.kr/view/?no=20240405093858</guid>
+            <pubDate>Fri, 05 Apr 2024 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 높은 스위칭 주파수 동작으로 전력변환 장치의 효율을 높여주는 100V 트렌치 쇼트키(Schottky) 정류기 다이오드를 출시했다고 5일 밝...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 1분기 '어닝 서프라이즈'…반도체 兆단위 흑자 전환]]></title>
             <link>https://zdnet.co.kr/view/?no=20240405083338</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240402084140</guid>
             <pubDate>Tue, 02 Apr 2024 01:50:20 GMT</pubDate>
             <content:encoded><![CDATA[일본 경제산업성이 자국 내 첨단 반도체 제조업체인 라피더스에 5천900억 엔(한화 약 5조3천588억원)을 추가 지원할 예정이라고 닛케이아시아가 1일 보도했다. 라피더스는 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미반도체, HBM 제조용 '듀얼 TC 본더 타이거' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240401134129</link>
-            <guid>https://zdnet.co.kr/view/?no=20240401134129</guid>
-            <pubDate>Mon, 01 Apr 2024 05:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[한미반도체는 AI 반도체용 HBM(고대역폭메모리)의 필수 공정 장비인 '듀얼 TC 본더 타이거(DUAL TC BONDER TIGER)'를 출시했다고 1일 밝혔다. 듀얼 TC 본...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
