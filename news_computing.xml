@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 02:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일자리 위협하는 AI, 대안 모색 나선 글로벌 빅테크]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240405161626</link>
+            <guid>https://zdnet.co.kr/view/?no=20240405161626</guid>
+            <pubDate>Sat, 06 Apr 2024 03:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)의 폭발적인 성장이 일자리에 심각한 영향을 줄 것이란 예측이 나오고 있다. 이러한 문제를 해결하기 위해 글로벌 빅테크들이 대안 마련에 나섰다. 시스코를 비롯해 마...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["중국, 올해 AI 이용해 한국 선거 개입할 수도”]]></title>
             <link>https://zdnet.co.kr/view/?no=20240406064426</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240405114536</guid>
             <pubDate>Fri, 05 Apr 2024 03:12:15 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 클라우드 고성장세에 탑승한 토종 관리 서비스 기업(MSP) 베스핀글로벌이 내년부터 기업공개(IPO) 작업에 본격 나선다. 올해 흑자 전환을 반드시 이뤄 재무 구조를 탄...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고정관념에 빠진 AI?…메타, 아시아인 이미지 오류 논란]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240405094751</link>
-            <guid>https://zdnet.co.kr/view/?no=20240405094751</guid>
-            <pubDate>Fri, 05 Apr 2024 02:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[메타의 인공지능(AI) 기반 이미지 생성기가 아시아인과 백인이 함께 있는 사진을 제대로 표현해내지 못했다고 미국 IT매체 더버지가 4일(현지시간) 보도했다. 이 같은 오류는 아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
