@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 08:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 13·14세대 CPU, 게임 강제종료 문제 '시끌']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240408160200</link>
+            <guid>https://zdnet.co.kr/view/?no=20240408160200</guid>
+            <pubDate>Mon, 08 Apr 2024 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[데스크톱PC용 인텔 13·14세대 코어 프로세서 기반 PC에서 일부 게임이 비정상 종료 등 문제를 일으킨다는 주장이 제기됐다. 인텔도 최근 해당 문제를 인지하고 조사에 착수했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['애플카' 포기한 애플, 신성장 동력 어디서 찾나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240408110343</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240406052951</guid>
             <pubDate>Sun, 07 Apr 2024 15:10:16 GMT</pubDate>
             <content:encoded><![CDATA[올 여름 출시될 예정인 삼성전자의 차세대 폴더블폰 '갤럭시Z폴드 6'의 배터리 용량이 전작과 동일한 4천400mAh 배터리를 탑재할 것이라는 전망이 나왔다. IT매체 나인투파이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 버즈3 프로, 언제·어떻게 나올까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240405194943</link>
-            <guid>https://zdnet.co.kr/view/?no=20240405194943</guid>
-            <pubDate>Sun, 07 Apr 2024 15:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 차세대 플래그십 무선 이어폰 '갤럭시 버즈3 프로'가 올해 하반기 출시될 것으로 전망되고 있다. IT매체 기즈모도는 5일(현지시간) 그 동안 나온 소문들을 종합해 삼성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
