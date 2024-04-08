@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 12:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 13:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 "대만 TSMC에 반도체 보조금·대출 총 15.7조원 지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240408211734</link>
+            <guid>https://zdnet.co.kr/view/?no=20240408211734</guid>
+            <pubDate>Mon, 08 Apr 2024 13:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 파운드리(위탁 생산 기업) 업체 대만 TSMC에 총 116억 달러(15조7000억원)에 달하는 규모의 반도체 보조금과 대출을 지원한다. 이는 당초 예상됐던 50억 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/03/29/870cddb0186bbb9daddf4ef7dc86add0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["남편, 친정엄마가 준 김치 쓰레기봉투에 넣어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240408204541</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240408204456</guid>
             <pubDate>Mon, 08 Apr 2024 12:16:47 GMT</pubDate>
             <content:encoded><![CDATA[육아 솔루션 프로그램 '금쪽같은 내 새끼'에 출연하는 아동이 TV쇼의 희생양이 될 수 있다며 현직 교사가 우려를 전했다. 8일 여러 온라인 커뮤니티에는 '금쪽이 출연 경력 아이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/08/enterdc1d49bc25291755334f74d2e6692758-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[최불암 "'박정희가 담배 따라 피우니 줄여라' 육영수가 전화"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240408114325</guid>
             <pubDate>Mon, 08 Apr 2024 09:11:31 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(과기정통부')는 기업이 보유한 데이터의 자산 가치를 활용한 투자유치 및 자금조달, 고품질 데이터의 유통‧활용을 촉진하기 위하여 데이터 가치평가 및 품질인증 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[체험기] "마감 쫓기는 영상편집, '드롭박스 리플레이'로 시간 단축"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240408165142</link>
-            <guid>https://zdnet.co.kr/view/?no=20240408165142</guid>
-            <pubDate>Mon, 08 Apr 2024 08:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[영상 제작은 시간이 많이 든다. 여러 사람이 영상을 만들 땐 더욱 그렇다. 편집 회의를 하고 지속적인 수정 과정을 거쳐야 한다. 마감 시간이 넉넉하지도 않다. 기업 내 영상편집...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
