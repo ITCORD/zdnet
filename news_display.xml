@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 08:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 09:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 버설 AI 엣지/프라임 2세대 공개...2025년 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240409153028</link>
+            <guid>https://zdnet.co.kr/view/?no=20240409153028</guid>
+            <pubDate>Tue, 09 Apr 2024 09:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 임베디드 기기에서 AI 처리 역량을 극대화한 버설(Versal) AI 엣지/프라임 2세대 SoC(시스템반도체)를 내년 하반기 출시한다. 버설 AI 엣지/프라임 2세대는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美日獨 보조금 받은 TSMC, 반도체 공급망 확대 가속화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240409155825</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240405124524</guid>
             <pubDate>Sun, 07 Apr 2024 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이 노사가 올해 평균 임금을 5.1% 인상하기로 잠정 합의했다. 이번 협약에 대한 확정은 내주 진행될 예정이다. 5일 업계에 따르면 삼성디스플레이와 열린노동조합은 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 신규 100V 트렌치 쇼트키 정류기 다이오드 제품군 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240405093858</link>
-            <guid>https://zdnet.co.kr/view/?no=20240405093858</guid>
-            <pubDate>Sun, 07 Apr 2024 15:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 높은 스위칭 주파수 동작으로 전력변환 장치의 효율을 높여주는 100V 트렌치 쇼트키(Schottky) 정류기 다이오드를 출시했다고 5일 밝...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
