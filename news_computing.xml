@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 23:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 00:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 런던에 AI 연구소 세운다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240409080830</link>
+            <guid>https://zdnet.co.kr/view/?no=20240409080830</guid>
+            <pubDate>Tue, 09 Apr 2024 00:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 영국 런던에 새로운 인공지능(AI) 연구소를 연다. 8일(현지시간) 영국 BBC는 마이크로소프트가 최첨단 거대언어모델(LLM)과 지원 인프라 개발연구를 위한 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에티버스, 임직원과 청계천 생태계 보전활동 동참]]></title>
             <link>https://zdnet.co.kr/view/?no=20240408180632</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240408092904</guid>
             <pubDate>Mon, 08 Apr 2024 05:10:42 GMT</pubDate>
             <content:encoded><![CDATA[마크 저커버그 메타 최고경영자(CEO)가 일론 머스크 테슬라 CEO를 제치고 세계 갑부 순위 3위로 올라섰다. 블룸버그통신 등 복수의 외신에 따르면 지난 6일(현지시간) 메타 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[줌, 규제준수 관리 도구 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240408132203</link>
-            <guid>https://zdnet.co.kr/view/?no=20240408132203</guid>
-            <pubDate>Mon, 08 Apr 2024 05:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[줌비디오커뮤니케이션즈(이하 줌)는 아카이빙, 전자증거개시(E디스커버리), 소송보존, 정보 보호 기능 등을 제공하는 '줌 컴플라이언스 매니저'를 출시한다고 8일 발표했다. 줌 컴...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
