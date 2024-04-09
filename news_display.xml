@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 01:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 02:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, VCSEL·LED 특징 융합한 적외선 광원 'VCSELED' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240409104310</link>
+            <guid>https://zdnet.co.kr/view/?no=20240409104310</guid>
+            <pubDate>Tue, 09 Apr 2024 02:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 수직 공진기 타입의 면발광 레이저 VCSEL 소자를 레이저 광원용 수지 광확산제로 몰딩한 새로운 적외선 광원 기술 'VCSELED'를 확립했다고 9일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ISC, 인터페이스 보드 사업부 매각…"선택과 집중 전략"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240409083947</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240403231821</guid>
             <pubDate>Sun, 07 Apr 2024 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[네패스는 2년 전부터 초도 생산을 시작한 도금액이 HBM(고대역폭메모리)용 TSV(실리콘관통전극) 공정에 적용된다고 3일 밝혔다. 이정영 네패스 전자재료 사업부장은 "네패스는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스 "美에 5.2조원 HBM 공장 건설"...엔비디아·TSMC와 시너지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240404011839</link>
-            <guid>https://zdnet.co.kr/view/?no=20240404011839</guid>
-            <pubDate>Sun, 07 Apr 2024 15:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 38억7천만 달러(약 5조2천억원)를 투자해 미국 인디애나주웨스트라피엣(West Lafayette)에 AI 메모리용 어드밴스드 패키징 생산 공장을 건설한다. SK...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
