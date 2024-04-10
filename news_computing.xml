@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 03:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 04:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 자체 개발 서버용 CPU 내놨다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240410124251</link>
+            <guid>https://zdnet.co.kr/view/?no=20240410124251</guid>
+            <pubDate>Wed, 10 Apr 2024 04:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 자체 개발한 서버용 CPU 악시온(Axion)을 공개했다. 고성능 고효율 칩셋을 내세워 클라우드 인프라 시장에서 영향력을 늘리겠다는 전략이다. 구글 클라우드는 9일(현지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 생성형AI 개발 도구 3종 공개...개발 생태계 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20240410101501</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240409095638</guid>
             <pubDate>Tue, 09 Apr 2024 01:43:46 GMT</pubDate>
             <content:encoded><![CDATA[다쏘시스템이 버추얼 트윈 기술과 로봇 자동화 활용 사례를 소개한다. 다쏘시스템은 오는 22일부터 26일(현지시간)까지 독일 하노버에서 열리는 산업기술전 2024 하노버 산업박람...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 쇼츠·틱톡 등 짧은 영상만 따로 검색한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240409090020</link>
-            <guid>https://zdnet.co.kr/view/?no=20240409090020</guid>
-            <pubDate>Tue, 09 Apr 2024 01:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 유튜브 쇼츠, 틱톡 등 짧은 동영상 전용 검색 기능을 선보일 전망이다. 8일(현지시간) 더버지 등 외신은 구글에서 '짧은 동영상' 전용 검색 필터를 테스트 중인 정황이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
