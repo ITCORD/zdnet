@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 10:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 11:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[22대 총선 잠정 집계 투표율 67%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240410195955</link>
+            <guid>https://zdnet.co.kr/view/?no=20240410195955</guid>
+            <pubDate>Wed, 10 Apr 2024 11:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[22대 국회의원 총선거 잠정 투표율이 67%를 기록했다. 1992년 14대 총선 71.9% 이후 32년 만에 가장 높은 투표율이다. 10일 중앙선거관리위원회의 투표율 집계에 따...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지상파 출구조사...민주·연합 178~196석, 국힘·미래 87~105석]]></title>
             <link>https://zdnet.co.kr/view/?no=20240410182609</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240408095515</guid>
             <pubDate>Mon, 08 Apr 2024 01:44:50 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 한국정보통신진흥협회와 최근 급증하고 있는 온라인상의 각종 사칭 피해에 대해 제1호 이용자 피해주의보를 발령했다. 방통위 온라인피해365센터와 온라인피해지원협의회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 칸 시리즈에서 韓 콘텐츠 알린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240407103659</link>
-            <guid>https://zdnet.co.kr/view/?no=20240407103659</guid>
-            <pubDate>Sun, 07 Apr 2024 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부와 한국방송통신전파진흥원(KCA)은 8일부터 사흘간 제7회 칸 국제 시리즈 페스티벌과 연계해 국내 방송 OTT 콘텐츠와 미디어 기술을 알리고 해외 수출을 지원하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
