@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 00:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 01:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언로켓 "젠버스, 웹소설을 웹툰으로 순식간 제작"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240409172326</link>
+            <guid>https://zdnet.co.kr/view/?no=20240409172326</guid>
+            <pubDate>Wed, 10 Apr 2024 01:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[라이언로켓(대표 정승환)이 생성형 인공지능(AI)으로 웹소설을 웹툰으로 제작해 주는 이벤트를 진행한다. 라이언로켓은 AI 웹툰 제작 서비스 '젠버스' 프로모션을 시작했다고 9일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코딧 "검색어 입력만으로 법률속 규제 쉽게 찾아내"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240409173654</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240409091205</guid>
             <pubDate>Tue, 09 Apr 2024 01:43:46 GMT</pubDate>
             <content:encoded><![CDATA[뤼튼테크놀로지스(대표 이세영)가 인공지능(AI) 대중화 시대를 이끌겠다고 발표했다. 뤼튼은 지난 6일 서울 마포구 프론트원에서 '제1회 유저 컨퍼런스'를 성료했다고 9일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 런던에 AI 연구소 세운다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240409080830</link>
-            <guid>https://zdnet.co.kr/view/?no=20240409080830</guid>
-            <pubDate>Tue, 09 Apr 2024 00:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 영국 런던에 새로운 인공지능(AI) 연구소를 연다. 8일(현지시간) 영국 BBC는 마이크로소프트가 최첨단 거대언어모델(LLM)과 지원 인프라 개발연구를 위한 A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
