@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 01:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 02:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 생성형AI 개발 도구 3종 공개...개발 생태계 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240410101501</link>
+            <guid>https://zdnet.co.kr/view/?no=20240410101501</guid>
+            <pubDate>Wed, 10 Apr 2024 02:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 생성형 인공지능(AI) 개발을 지원하기 위한 오픈소스 도구 3종을 공개했다. 오픈AI와 달리 자체 AI만으로 경쟁력을 확보하기 어려워지면서 개발자 생태계 지원에 보다 집...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라이언로켓 "젠버스, 웹소설을 웹툰으로 순식간 제작"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240409172326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240409090020</guid>
             <pubDate>Tue, 09 Apr 2024 01:43:46 GMT</pubDate>
             <content:encoded><![CDATA[구글이 유튜브 쇼츠, 틱톡 등 짧은 동영상 전용 검색 기능을 선보일 전망이다. 8일(현지시간) 더버지 등 외신은 구글에서 '짧은 동영상' 전용 검색 필터를 테스트 중인 정황이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 대중화 주도"…뤼튼, 유저 컨퍼런스 성료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240409091205</link>
-            <guid>https://zdnet.co.kr/view/?no=20240409091205</guid>
-            <pubDate>Tue, 09 Apr 2024 01:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[뤼튼테크놀로지스(대표 이세영)가 인공지능(AI) 대중화 시대를 이끌겠다고 발표했다. 뤼튼은 지난 6일 서울 마포구 프론트원에서 '제1회 유저 컨퍼런스'를 성료했다고 9일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
