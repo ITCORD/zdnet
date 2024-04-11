@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 22:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 23:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, '2나노 공정' 아이폰17 프로에 먼저 적용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240412020830</link>
+            <guid>https://zdnet.co.kr/view/?no=20240412020830</guid>
+            <pubDate>Thu, 11 Apr 2024 23:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[TSMC의 2나노미터(nm) 공정 칩이 애플의 내년 아이폰 신제품에 적용될 것이란 전망이 힘을 얻고 있다. 11일 대만 언론 디지타임스는 TSMC의 2nm 칩 연구개발이 이미 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국레노버, 씽크패드 X1 신제품 2종 국내 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240411162831</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240411015817</guid>
             <pubDate>Wed, 10 Apr 2024 23:11:27 GMT</pubDate>
             <content:encoded><![CDATA[중국 누비아가 얇은 두께에 인공지능(AI) 통역도 지원하는 저가형 폴더블 스마트폰을 내놨다. 10일 중국 언론 레이커지에 따르면 누비아가 전일 '2024 신제품 발표회'를 열고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공정위, 삼성전자 대리점 부당한 경영활동 간섭행위 제재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411025557</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411025557</guid>
-            <pubDate>Wed, 10 Apr 2024 18:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 삼성전자가 합리적인 이유 없이 대리점에 영업상 비밀에 해당하는 상품 판매금액 정보를 요구한 행위에 시정명령을 내리기로 결저했다고 10일 밝혔다. 공정위 조사결과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
