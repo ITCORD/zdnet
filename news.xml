@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 09:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 10:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사람 부정적 감정 예측 우울증 진단 가능"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240411183748</link>
+            <guid>https://zdnet.co.kr/view/?no=20240411183748</guid>
+            <pubDate>Thu, 11 Apr 2024 10:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[다른 사람의 긍정적 부정적 생각을 읽어 우울증이나 외상후 스트레스 장애 등을 진단, 치료할 수 있는 길이 열렸다. 기초과학연구원(IBS, 원장 노도영)은 뇌과학 이미징 연구단 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/11/13c074064a5153890d543f9c2cb77175-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["국산AI 취약점을 찾아라" 과기부, 국민해커 1천명 모았다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240411165932</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240411171124</guid>
             <pubDate>Thu, 11 Apr 2024 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[제22대 총선에서 여야를 대표하는 키워드는 '정권 심판론'과 '이조 심판론'이었다. 하지만 정부출연연구기관 26개가 몰려있는 대전 지역에선 과학기술계 이슈도 중요한 쟁점이었다....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/11/97965e4182c785204ac9145e53225b60-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['삼성 합병 반발' 메이슨 2600억원 소송 오늘 선고]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240411163956</guid>
             <pubDate>Thu, 11 Apr 2024 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[지난 2022년 중국 시장을 떠났던 블리자드엔터테인먼트가 약 1년 3개월만에 다시 중국에 진출한다. 중국 현지 퍼블리셔는 또 한 번 넷이즈가 맡는다. 블리자드의 게임은 올해 여...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중기부-지멘스 DISW, '지중해' 협력 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411163712</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411163712</guid>
-            <pubDate>Thu, 11 Apr 2024 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부 오영주 장관은 11일 서울 광화문 인근에서 토니 헤멀건(Tony Hemmelgarn) 지멘스 디지털 인더스트리 소프트웨어(이하 지멘스 DISW) CEO와 면담을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

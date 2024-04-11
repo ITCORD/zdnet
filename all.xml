@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 09:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 10:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사람 부정적 감정 예측 우울증 진단 가능" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240411183748</link>
+            <guid>https://zdnet.co.kr/view/?no=20240411183748</guid>
+            <pubDate>Thu, 11 Apr 2024 10:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[다른 사람의 긍정적 부정적 생각을 읽어 우울증이나 외상후 스트레스 장애 등을 진단, 치료할 수 있는 길이 열렸다. 기초과학연구원(IBS, 원장 노도영)은 뇌과학 이미징 연구단 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/11/13c074064a5153890d543f9c2cb77175-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["국산AI 취약점을 찾아라" 과기부, 국민해커 1천명 모았다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240411165932</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240411171124</guid>
             <pubDate>Thu, 11 Apr 2024 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[제22대 총선에서 여야를 대표하는 키워드는 '정권 심판론'과 '이조 심판론'이었다. 하지만 정부출연연구기관 26개가 몰려있는 대전 지역에선 과학기술계 이슈도 중요한 쟁점이었다....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/11/97965e4182c785204ac9145e53225b60-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['삼성 합병 반발' 메이슨 2600억원 소송 오늘 선고 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -160,18 +168,10 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[중기부-지멘스 DISW, '지중해' 협력 강화 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411163712</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411163712</guid>
-            <pubDate>Thu, 11 Apr 2024 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부 오영주 장관은 11일 서울 광화문 인근에서 토니 헤멀건(Tony Hemmelgarn) 지멘스 디지털 인더스트리 소프트웨어(이하 지멘스 DISW) CEO와 면담을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[모바일 전자고지 연계정보 활용 법적근거 구체화 (지디넷코리아 ─ 뉴스 ─ 방송/통신)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240411171913</link>
             <guid>https://zdnet.co.kr/view/?no=20240411171913</guid>
-            <pubDate>Thu, 11 Apr 2024 09:10:50 GMT</pubDate>
+            <pubDate>Thu, 11 Apr 2024 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[모바일 전자고지나 금융 마이데이터에서 연계정보를 안전하게 활용할 수 있는 법적 근거가 명확히 마련됐다. 방송통신위원회는 온라인에서 연계정보를 활용한 국민편의 서비스가 안전하게 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -331,7 +331,7 @@
             <title><![CDATA["국산AI 취약점을 찾아라" 과기부, 국민해커 1천명 모았다 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240411165932</link>
             <guid>https://zdnet.co.kr/view/?no=20240411165932</guid>
-            <pubDate>Thu, 11 Apr 2024 09:10:57 GMT</pubDate>
+            <pubDate>Thu, 11 Apr 2024 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[국민 1천여 명이 참석해 국내 생성AI의 잠재적 취약점을 찾는 '생성형AI 레드팀 챌린지'가 정부 주도로 열렸다. 11일 과학기술정보통신부(이하 과기정통부)와 한국정보통신기술협...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -2456,10 +2456,18 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["사람 부정적 감정 예측 우울증 진단 가능" (지디넷코리아 ─ 과학)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240411183748</link>
+            <guid>https://zdnet.co.kr/view/?no=20240411183748</guid>
+            <pubDate>Thu, 11 Apr 2024 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[다른 사람의 긍정적 부정적 생각을 읽어 우울증이나 외상후 스트레스 장애 등을 진단, 치료할 수 있는 길이 열렸다. 기초과학연구원(IBS, 원장 노도영)은 뇌과학 이미징 연구단 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/11/13c074064a5153890d543f9c2cb77175-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[과학기술계 'R&D 예산삭감∙우주청' 등 현안 산적 (지디넷코리아 ─ 과학)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240411171124</link>
             <guid>https://zdnet.co.kr/view/?no=20240411171124</guid>
-            <pubDate>Thu, 11 Apr 2024 09:12:26 GMT</pubDate>
+            <pubDate>Thu, 11 Apr 2024 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[제22대 총선에서 여야를 대표하는 키워드는 '정권 심판론'과 '이조 심판론'이었다. 하지만 정부출연연구기관 26개가 몰려있는 대전 지역에선 과학기술계 이슈도 중요한 쟁점이었다....]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/04/11/97965e4182c785204ac9145e53225b60-290x182.jpg" length="0" type="image/jpg"/>
         </item>
@@ -2469,7 +2477,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240411101830</guid>
             <pubDate>Thu, 11 Apr 2024 02:19:58 GMT</pubDate>
             <content:encoded><![CDATA[우주탐사 스타트업 '맥스 스페이스'(Max Space)가 팽창식 우주 서식지를 공개했다고 우주과학매체 스페이스닷컴이 10일(현지시간) 보도했다. 맥스 스페이스는 최근 열린 제3...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/11/e168a8e4b47ec3f51715680db49d168c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주서 본 개기일식…"지구에 달 그림자 드리웠네" (지디넷코리아 ─ 과학)]]></title>
@@ -2605,14 +2613,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240405165902</guid>
             <pubDate>Fri, 05 Apr 2024 08:12:02 GMT</pubDate>
             <content:encoded><![CDATA[4.10총선 차지호 더불어민주당 오산시 후보가 오산 관내 중고생을 위해 'KAIST 여름학기 프로그램'와 '옥스퍼드 글로벌 썸머스쿨'(이상 가칭)추진을 공약으로 내걸었다. 5일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, 두손이 자유로운 스마트글라스 출품 "관심" (지디넷코리아 ─ 과학)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240405131822</link>
-            <guid>https://zdnet.co.kr/view/?no=20240405131822</guid>
-            <pubDate>Fri, 05 Apr 2024 05:09:50 GMT</pubDate>
-            <content:encoded><![CDATA["스마트 안경이 책을 대신 읽어드립니다." 2024 대구국제안경전에서 한국전자통신연구원(ETRI)이 첨단 스마트 글라스 기술을 선보여 화제다. 5일 대구 엑스코 1층 ETRI ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
