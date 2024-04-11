@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 06:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5나노 이하 최선단 파운드리, AI·애플 효과로 비중 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240411140530</link>
+            <guid>https://zdnet.co.kr/view/?no=20240411140530</guid>
+            <pubDate>Thu, 11 Apr 2024 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[5나노미터(nm) 이하의 최선단 파운드리 공정 매출 비중이 지난해 말 기준 35%에 육박한 것으로 나타났다. 견조한 AI 반도체 수요와 최신형 아이폰용 칩셋의 양산화에 따른 효...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대만 팹, 지진 피해 정상화...삼성·SK하이닉스 반사익 '제한적']]></title>
             <link>https://zdnet.co.kr/view/?no=20240411100640</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240409091135</guid>
             <pubDate>Tue, 09 Apr 2024 04:13:39 GMT</pubDate>
             <content:encoded><![CDATA[정부가 반도체 메가 클러스터를 신속 조성에 나서고 AI G3로 도약하기 위해 'AI-반도체 이니셔티브'를 추진한다. 윤석열 대통령은 9일 오전 10시 용산 대통령실(자유홀)에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, VCSEL·LED 특징 융합한 적외선 광원 'VCSELED' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240409104310</link>
-            <guid>https://zdnet.co.kr/view/?no=20240409104310</guid>
-            <pubDate>Tue, 09 Apr 2024 02:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[로옴(ROHM) 주식회사는 수직 공진기 타입의 면발광 레이저 VCSEL 소자를 레이저 광원용 수지 광확산제로 몰딩한 새로운 적외선 광원 기술 'VCSELED'를 확립했다고 9일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
