@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 09:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 10:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 모델, 클수록 위험성 증가…AI 안전성 강화해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240412174401</link>
+            <guid>https://zdnet.co.kr/view/?no=20240412174401</guid>
+            <pubDate>Fri, 12 Apr 2024 10:11:10 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 기술이 어디까지 영향 미칠지 아무도 모른다. 확실한 건 AI가 발전할수록 안전성은 더 낮아진다는 점이다. 각국이 나서서 AI 안전성을 강화해야 하는 이유다" ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/12/8fabcf048da029ad75d5e771e8ae40bc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 '와우' 멤버십 가격 변경…"납득" vs "해지"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240412172427</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240412173831</guid>
             <pubDate>Fri, 12 Apr 2024 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[하이브IM(대표 정우용)은 플린트(대표 김영모)에서 개발한 2D 액션 MORPG '별이되어라2: 베다의 기사들'이 국내 구글 플레이스토어 최고 매출 순위 6위에 진입했다고 12...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/12/bf3667d7a0b686e4c61e4539d4a4f52b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[신라젠, 'BAL0891' 국내 임상1상 IND 변경 승인 신청]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240412163413</guid>
             <pubDate>Fri, 12 Apr 2024 08:12:05 GMT</pubDate>
             <content:encoded><![CDATA[결혼 18년 차 배우 한채영이 남편과 다투다 코피가 흘렀던 일화를 전했다.11일 유튜브 채널 '노빠꾸 탁재훈'에는 '한채영, 노래방에서 응급실 부르게 만드는 이제는 많이 낡은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐모빌리티, 인도네시아에 1천억 규모 전기오토바이 수출한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240412163111</link>
-            <guid>https://zdnet.co.kr/view/?no=20240412163111</guid>
-            <pubDate>Fri, 12 Apr 2024 08:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[세븐모빌리티(대표 송영봉)는 최근 인도네시아 PT 탐스 글로벌과 전기오토바이 제품(모델명 SM01)에 대한 1천억원 규모의 현지 조립생산수출 계약을 체결했다고 12일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
