@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 01:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 02:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[C/C++ 보안 취약점, 테스트로 미리 확인한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240412093806</link>
+            <guid>https://zdnet.co.kr/view/?no=20240412093806</guid>
+            <pubDate>Fri, 12 Apr 2024 02:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[메모리버그 등 보안 취약점을 사전에 파악하기 위한 C와 C++앱용 테스트도구가 공개됐다. 최근 인포월드 등 외신에 따르면 파라소프트가 전용 테스트 도구인 'C/C++테스트 CT...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["신형 LLM 쏟아진다"…오픈AI 이어 미스트랄도 新 무기 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240412082748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240411120718</guid>
             <pubDate>Thu, 11 Apr 2024 05:10:55 GMT</pubDate>
             <content:encoded><![CDATA[전 세계적으로 인공지능(AI) 열풍이 불며 많은 기업에서 AI도입을 검토하며 관련 시장의 성장을 예고했다. 하지만 최근 관련 기업들의 성과는 이에 미치지 못하고 있다. 상당수가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["우리 조직에 맞는 LLM 찾아줍니다"···다음달 22일 전문가 세미나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411111344</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411111344</guid>
-            <pubDate>Thu, 11 Apr 2024 02:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[AI열풍 속에 기업과 교육, 공공 시장 등에 최적화한 거대언어모델(LLM, Large Language Model)인 이른바 '엔터프라이즈 LLM' 시장도 달아오르고 있다. 엔터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
