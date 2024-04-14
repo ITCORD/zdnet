@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 05:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 07:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 가명정보 활용 지원센터 대구·전북에 설치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240414145745</link>
+            <guid>https://zdnet.co.kr/view/?no=20240414145745</guid>
+            <pubDate>Sun, 14 Apr 2024 07:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회가 지역 소재 데이터 중소·새싹기업 등의 가명정보 활용 전반을 지원하기 위해 대구광역시와 전북특별자치도에 거점 조직을 설치한다. 개인정보위는 대구시와 전북도에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, '제2기 가명정보 전문가 집단' 신규 모집]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240414145153</link>
+            <guid>https://zdnet.co.kr/view/?no=20240414145153</guid>
+            <pubDate>Sun, 14 Apr 2024 07:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 안전한 데이터 활용을 지원할 전문가 조직을 신설한다. 조직은 컨설팅, 교육사업 등에서 적극 활동하게 될 예정이다. 개인정보보호위원회와 한국인터넷진흥원은 '제2기 가명정보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["초거대AI, 정부·지자체·기관·기업 도입 지원"···올 예산 104억 투입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240414101145</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240412093806</guid>
             <pubDate>Fri, 12 Apr 2024 02:21:49 GMT</pubDate>
             <content:encoded><![CDATA[메모리버그 등 보안 취약점을 사전에 파악하기 위한 C와 C++앱용 테스트도구가 공개됐다. 최근 인포월드 등 외신에 따르면 파라소프트가 전용 테스트 도구인 'C/C++테스트 CT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["신형 LLM 쏟아진다"…오픈AI 이어 미스트랄도 新 무기 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240412082748</link>
-            <guid>https://zdnet.co.kr/view/?no=20240412082748</guid>
-            <pubDate>Fri, 12 Apr 2024 00:42:21 GMT</pubDate>
-            <content:encoded><![CDATA['프랑스판 오픈AI'로 불리는 미스트랄AI가 새로운 거대언어모델(LLM)을 앞세워 메타, 오픈AI 등 글로벌 거물들과의 본격 경쟁에 나선다. 12일 미국 지디넷, 영국 가디언 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존 "AI 투자 확대"…앤드류 응 이사회 영입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240412081708</link>
-            <guid>https://zdnet.co.kr/view/?no=20240412081708</guid>
-            <pubDate>Fri, 12 Apr 2024 00:42:21 GMT</pubDate>
-            <content:encoded><![CDATA[아마존이 올해 인공지능(AI) 개발·투자를 확대한다. 이를 위해 'AI 4대 천왕'으로 알려진 미국 스탠퍼드대학 앤드류 응 교수를 이사로 영입했다. 11일(현지시간) 워싱턴포스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
