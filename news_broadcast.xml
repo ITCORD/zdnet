@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 00:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 02:56:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["소상공인 매장 선점하자"…통신사, 소호 '결합상품' 경쟁]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240412152441</link>
+            <guid>https://zdnet.co.kr/view/?no=20240412152441</guid>
+            <pubDate>Sun, 14 Apr 2024 02:54:02 GMT</pubDate>
+            <content:encoded><![CDATA[이동통신 3사가 중소상공인(소호, SOHO)을 겨냥한 결합 상품으로 새로운 먹거리 경쟁에 나섰다. 합리적인 가격과 편의성을 내세워 소호 시장 주도권을 빠르게 선점하겠다는 행보다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI 꿈나무들 SKT 티움 찾았다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240414092537</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SKT "10년 이상 가입자, '숲캉스' 모십니다"]]></title>
+            <title><![CDATA[SKT "10년 이상 가입자, 에버렌드 '숲캉스' 모십니다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240414091537</link>
             <guid>https://zdnet.co.kr/view/?no=20240414091537</guid>
             <pubDate>Sun, 14 Apr 2024 00:49:42 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240411061910</guid>
             <pubDate>Wed, 10 Apr 2024 22:11:03 GMT</pubDate>
             <content:encoded><![CDATA[22대 국회의원 선거 전국 개표율 99.45% 기준 더불어민주당이 지역구 161석을 거머쥐었다. 국민의힘은 지역구 90석을 확보했고 개혁신당과 새로운미래, 진보당이 각각 한명씩...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개표율 94%...민주당 지역구 158석, 국민의힘 93석]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411033733</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411033733</guid>
-            <pubDate>Wed, 10 Apr 2024 19:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[22대 국회의원 선거 개표가 진행 중인 11일 오전 3시를 넘어서면서 더불어민주당이 158석, 국민의힘이 93석을 확보했거나 득표율 1위를 기록하고 있다. 현재 전국 개표율 9...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
