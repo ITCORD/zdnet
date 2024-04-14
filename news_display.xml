@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 22:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 23:59:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미반도체, 'HBM6 사이드 검사 장비' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240415083512</link>
+            <guid>https://zdnet.co.kr/view/?no=20240415083512</guid>
+            <pubDate>Sun, 14 Apr 2024 23:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체가 인공지능 반도체용 HBM(고대역폭메모리) 필수 공정 장비인 'HBM6 SIDE 인스펙션' 을 출시했다고 15일 밝혔다. 한미반도체가 처음으로 선보이는 HBM6 SI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네패스, 美 고객사 'AI반도체용 PMIC' 대량 수주]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240415082113</link>
+            <guid>https://zdnet.co.kr/view/?no=20240415082113</guid>
+            <pubDate>Sun, 14 Apr 2024 23:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[네패스는 미국 시에틀에 본사를 둔 전력 반도체 전문 팹리스사로부터 AI 서버용 저전력 PMIC(전력관리반도체)를 대량 수주해 공급을 확대한다고 밝혔다. 8인치는 현재 월 3천장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['창립 24주년' 픽셀플러스, 비전2030 선포...톱5 진입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240412151051</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240411085726</guid>
             <pubDate>Thu, 11 Apr 2024 00:42:46 GMT</pubDate>
             <content:encoded><![CDATA[TSMC는 연결 기준 지난 1분기 매출이 총 5천926억4천만 대만달러(한화 약 25조600억 원)로 전년 동기 대비 16.5% 증가했다고 10일 밝혔다. 이번 실적은 증권가 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, '임베디드 월드 2024'서 신규 네트워크·IoT 플랫폼 소개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411085747</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411085747</guid>
-            <pubDate>Thu, 11 Apr 2024 00:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 임베디드 월드(Embedded World) 전시회 및 컨퍼런스에서 자사의 임베디드 및 사물인터넷(IoT) 생태계와 함께 산업군 전반에서 지속적으로 혁신을 견인하는 디지털...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안덕근 산업 장관, 미국 방문…IRA·반도체법 등 통상 현안 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411024500</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411024500</guid>
-            <pubDate>Wed, 10 Apr 2024 18:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 안덕근 장관이 미국과 첨단산업·에너지 분야 협력 방안을 논의하기 위해 10일 출국했다고 밝혔다. 안덕근 장관의 이번 미국 방문은 취임 이후 첫 번째로 상무부와 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
