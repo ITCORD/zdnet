@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 07:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 08:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 코어 울트라 CPU 임베디드 시장으로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240415155633</link>
+            <guid>https://zdnet.co.kr/view/?no=20240415155633</guid>
+            <pubDate>Mon, 15 Apr 2024 08:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 산업용 PC를 겨냥한 코어 울트라 PS 프로세서 9종을 출시하고 주요 임베디드 PC 업체에 공급을 시작했다. CPU, 아크 GPU, NPU 등 기존 코어 울트라 프로세서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소니코리아, 베이스 특화 오디오 브랜드 '얼트 파워 사운드' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240415153308</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240414122917</guid>
             <pubDate>Sun, 14 Apr 2024 04:34:40 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스' 는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자 올레드 TV, 탄소∙플라스틱 사용 줄였다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240414094435</link>
-            <guid>https://zdnet.co.kr/view/?no=20240414094435</guid>
-            <pubDate>Sun, 14 Apr 2024 02:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자의 환경보호 노력이 해외 유력 인증기관으로부터 잇따라 인정 받았다. LG 올레드 TV는 최근 비영리 인증기관인 영국 카본트러스트와 스위스 SGS(Société Génér...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

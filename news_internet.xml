@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 07:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 08:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모바일 다음 상단에 콘텐츠 큐레이션 공간 '틈' 생겼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240415161737</link>
+            <guid>https://zdnet.co.kr/view/?no=20240415161737</guid>
+            <pubDate>Mon, 15 Apr 2024 08:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[카카오(대표 정신아)의 콘텐츠CIC(대표 양주일)는 콘텐츠 퍼블리싱 플랫폼 브런치스토리가 만든 콘텐츠 큐레이션 공간, '[ 틈 ]'을 선보인다고 15일 밝혔다. 특정 주제에 대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 美 캘리포니아서 뉴스링크 뺀다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240415085823</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240410192634</guid>
             <pubDate>Wed, 10 Apr 2024 13:11:05 GMT</pubDate>
             <content:encoded><![CDATA[네이버가 서비스하는 스트리밍 플랫폼 치지직이 그리드(P2P) 방식을 적용한다. 트위치가 한국 시장에서 철수한 이후 이용자가 늘자, 네트워크 트래픽 부담을 줄이려고 해당 방식을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서 투표하지?...'투표소 찾기 연결 서비스' 검색하세요]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240409170344</link>
-            <guid>https://zdnet.co.kr/view/?no=20240409170344</guid>
-            <pubDate>Tue, 09 Apr 2024 08:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[22대 총선이 내일(10일) 전국 1만4천259곳의 투표소에서 오전 6시부터 오후 6시까지 진행된다. 관외투표가 가능한 사전투표와 달리 본 투표 당일에는 주소지에 따라 지정 투...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
