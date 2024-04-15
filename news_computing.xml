@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 08:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 09:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가존클라우드, 클라우드인재 직접 양성하고 채용한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240415174839</link>
+            <guid>https://zdnet.co.kr/view/?no=20240415174839</guid>
+            <pubDate>Mon, 15 Apr 2024 09:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[메가존클라우드(대표 이주완)가 부산에서 클라우드 인재를 키우고 정규직으로 채용하는 양성과정을 실시한다. 메가존클라우드는 부산정보산업진흥원(BIPA)에서 주관하는 부산정보산업인력...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기업 계약서 관리하는 'AI 법무팀' 정체는]]></title>
             <link>https://zdnet.co.kr/view/?no=20240415163221</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240415110931</guid>
             <pubDate>Mon, 15 Apr 2024 03:17:24 GMT</pubDate>
             <content:encoded><![CDATA[클라우드는 인프라 현대화를 넘어 애플리케이션 현대화 시대로 나아가고 있다. 클라우드 네이티브 기술의 핵심인 컨테이너, 쿠버네티스 등이 새롭게 만들어지는 클라우드향 애플리케이션의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI에 최적화한 PaaS 개발"···이노그리드, 50억 사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240415110153</link>
-            <guid>https://zdnet.co.kr/view/?no=20240415110153</guid>
-            <pubDate>Mon, 15 Apr 2024 03:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[이노그리드(대표 김명진)가 50억 규모 'AI 모델과 서비스 개발을 위한 PaaS 기술 개발(이하 AI PaaS)' 과제를 수주했다. 과학기술정보통신부와 정보통신기획평가원(II...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
