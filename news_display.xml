@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 00:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈엣지, 자율주행용 NPU IP '인라이트 프로' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240416083707</link>
+            <guid>https://zdnet.co.kr/view/?no=20240416083707</guid>
+            <pubDate>Tue, 16 Apr 2024 00:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 설계자산(IP) 플랫폼 전문회사 오픈엣지테크놀로지(이하 오픈엣지)가 고성능 신경망처리장치(NPU) '인라이트 프로(ENLIGHT PRO)'를 16일 출시했다. 오픈엣지는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 美 반도체 보조금 9조원 받는다…"2나노 칩도 생산"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240415180748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240411140530</guid>
             <pubDate>Thu, 11 Apr 2024 06:13:18 GMT</pubDate>
             <content:encoded><![CDATA[5나노미터(nm) 이하의 최선단 파운드리 공정 매출 비중이 지난해 말 기준 35%에 육박한 것으로 나타났다. 견조한 AI 반도체 수요와 최신형 아이폰용 칩셋의 양산화에 따른 효...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 팹, 지진 피해 정상화...삼성·SK하이닉스 반사익 '제한적']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240411100640</link>
-            <guid>https://zdnet.co.kr/view/?no=20240411100640</guid>
-            <pubDate>Thu, 11 Apr 2024 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[대만에서 이달 3일에 발생한 지진이 글로벌 D램 가격 상승에 미치는 영향이 제한적이라는 전망이 나왔다. 아울러 삼성전자와 SK하이닉스에 반사익 가능성 또한 낮을 것이란 전망이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
