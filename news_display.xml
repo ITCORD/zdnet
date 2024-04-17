@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 06:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 07:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASML, 1분기 순이익 37% 감소...연매출 전년 수준 전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240417140817</link>
+            <guid>https://zdnet.co.kr/view/?no=20240417140817</guid>
+            <pubDate>Wed, 17 Apr 2024 07:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 반도체 장비 업체 ASML이 올해 1분기 실적에서 전년 보다 저조한 성적표를 냈다. ASML에 따르면 1분기 순매출은 52억9000만유로(약 7조7800억원)으로 전년...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NXP, 차량용 반도체 'S32N55' 출시...SDV 중앙 제어 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20240417142439</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240415083512</guid>
             <pubDate>Sun, 14 Apr 2024 23:58:15 GMT</pubDate>
             <content:encoded><![CDATA[한미반도체가 인공지능 반도체용 HBM(고대역폭메모리) 필수 공정 장비인 'HBM6 SIDE 인스펙션' 을 출시했다고 15일 밝혔다. 한미반도체가 처음으로 선보이는 HBM6 SI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네패스, 美 고객사 'AI반도체용 PMIC' 대량 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240415082113</link>
-            <guid>https://zdnet.co.kr/view/?no=20240415082113</guid>
-            <pubDate>Sun, 14 Apr 2024 23:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[네패스는 미국 시에틀에 본사를 둔 전력 반도체 전문 팹리스사로부터 AI 서버용 저전력 PMIC(전력관리반도체)를 대량 수주해 공급을 확대한다고 밝혔다. 8인치는 현재 월 3천장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

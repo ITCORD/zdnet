@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 06:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 07:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT DS "RPA에 생성AI 접목, 반복업무에 판단력 갖췄다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240417160919</link>
+            <guid>https://zdnet.co.kr/view/?no=20240417160919</guid>
+            <pubDate>Wed, 17 Apr 2024 07:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[KT DS가 WIS 2024에 참가해 앤트봇(AntBot)과 비스트(BEAST) 솔루션 2종을 선보였다. 앤트봇은 로봇 프로세스 자동화(RPA) 솔루션에 생성형 AI를 접목한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["불법스팸 근절”...전송자격인증제 시행 초읽기]]></title>
             <link>https://zdnet.co.kr/view/?no=20240417120719</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240415145017</guid>
             <pubDate>Mon, 15 Apr 2024 06:14:17 GMT</pubDate>
             <content:encoded><![CDATA[28GHz 주파수 경매에서 낙찰자로 선정, 제4이통으로서 기간통신사업 등록을 앞둔 스테이지엑스가 투자 규모를 현실적으로 높여야 한다는 주장이 제기됐다. 주파수 비용을 포함해 설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 인재 발굴 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240415092006</link>
-            <guid>https://zdnet.co.kr/view/?no=20240415092006</guid>
-            <pubDate>Mon, 15 Apr 2024 03:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 인공지능(AI) 분야 미래 인재를 발굴하는 육성 프로그램 AI 펠로우십 6기 지원자를 모집한다고 15일 밝혔다. SK텔레콤 AI 펠로우십은 AI를 공부하는 대학(원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
