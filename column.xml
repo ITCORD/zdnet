@@ -4,7 +4,7 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 00:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 16 Apr 2024 02:19:16 GMT</pubDate>
             <content:encoded><![CDATA[HR실무자를 대상으로 데이터를 잘 활용하는 방법에 대해 정기적으로 강의를 하곤 합니다. 최근에는 콕 집어, ‘ChatGPT를 HR에서 활용하는 방법’에 대한 강의를 자주 요청 받습니다. 그럴 때마다 ‘생성AI가 핫하긴 핫하구나’ 라는 생각을 합니다. 하지만 막상 강의장에 가보면 생각이 조금 달라지고는 합니다. ChatGPT를 한번도 써보지 않은 사람들이 여전히 많기 때문입니다.무서운 이야기이...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/04/16/294ce0e3772a2f7a056e10bea519dba1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[곽노건 교수의 웹3 ②] 탈중앙화 및 자율성]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240415132147</link>
+            <guid>https://zdnet.co.kr/view/?no=20240415132147</guid>
+            <pubDate>Wed, 17 Apr 2024 00:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난 칼럼에서 언급했듯이 웹3에서 가장 중요한 개념이자 비전은 서비스의 탈중앙화와 이를 유지할 수 있도록 자율성이 보장되어야 합니다.현재의 웹2 중앙집중형 플랫폼들과 달리 웹3는 권한과 데이터를 개인과 커뮤니티에 돌려줌으로써 민주적이고 공평한 온라인 환경을 조성해 제공합니다. 지금까지 써왔던 서비스와 동일해 보이지만 개념과 서비스 구조, 내용의 투명성, 익명성이 달라 어색하거나 이색적인 느낌...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/15/7a4a22b49496ef3083458d6e63ae6059.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고] 서비스형 네트워크(NaaS) 선택 시 고려해야 할 5가지]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Mar 2024 07:10:15 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;활발한 데이터 유통 체계는 국가 AI·데이터 산업 활성화의 핵심 요소다. 원본데이터를 제 3자에게 제공하는 방법은 가명정보와 익명정보로 구분된다. 가명정보는 개인의 본명만 가명으로 변경한 데이터고 익명정보는 개인의 모든 정보를 원본과 다르게 수정한 데이터다. 현재 우리나라는 가명정보가 유일한 합법적인 데이터 유통 방법이다. 개인을 특정할 수 있는 가명정보는 안전하게 유통하기 위해 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/03/03/5b04e1e63c14835ef664c1a9f77fe1c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고삼석 칼럼] 가짜뉴스 ‘규제’는 왜 실패하는가?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240225220942</link>
-            <guid>https://zdnet.co.kr/view/?no=20240225220942</guid>
-            <pubDate>Sun, 25 Feb 2024 23:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[가짜뉴스(Fakenews) 문제가 정치권은 물론, 사회 영역, 심지어 테크(Tech) 영역에서 핫이슈로 다시 부상하고 있다. 국내뿐만 아니라 해외 각국, 그리고 국제기구에서도 활발하게 논의되고 있다. ‘민주주의의 꽃’이라는 선거가 전 세계적으로 치러지는 가운데 첨단 인공지능(AI) 기술을 악용하여 만들어진 ‘진짜 같은 가짜뉴스’가 쏟아져나오고 있기 때문이다.올 한 해 동안 전 세계 50개 국...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/25/1a39d73f9150a75ed005c1078e7279fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
