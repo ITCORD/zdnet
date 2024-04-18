@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 06:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 07:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스트랄AI, 기업 가치 6조 넘어…신규 투자 유치 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240418145027</link>
+            <guid>https://zdnet.co.kr/view/?no=20240418145027</guid>
+            <pubDate>Thu, 18 Apr 2024 07:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 인공지능(AI) 스타트업 미스트랄AI가 회사 가치를 50억 달러(약 6조8천750억원)로 정하고 신규 투자 유치를 시작한 것으로 전해졌다. 18일 미국 디인포메이션에 따...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NIPA, 초거대 인공지능 확산…"AI 조직 개편·민간 기업 수출 경쟁력↑"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240418134821</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240417154905</guid>
             <pubDate>Wed, 17 Apr 2024 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[IBM이 인공지능(AI) 열풍과 함께 급격하게 성장한 대규모 데이터의 보안 취약점을 관리하기 위한 방법을 제시했다. IBM 최주영 차장은 17일 서울 삼성동 인터컨티넨털 코엑스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마드라스체크 "생성형 AI 만난 플로우, 1인 1비서 시대 열다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240417165326</link>
-            <guid>https://zdnet.co.kr/view/?no=20240417165326</guid>
-            <pubDate>Wed, 17 Apr 2024 08:13:05 GMT</pubDate>
-            <content:encoded><![CDATA["플로우가 생성형 인공지능(AI)를 만나 누구나 쉽게 업무를 진행할 수 있도록 돕게 됐습니다. 사용자는 플로우를 통해 프로젝트 생성부터 업무 요약, 담당자 추천 등을 쉽게 경험...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
