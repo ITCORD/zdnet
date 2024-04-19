@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 07:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 09:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 퀄컴·미디어텍과 기업용 PC에 '와이파이7' 탑재 협업]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240419163159</link>
+            <guid>https://zdnet.co.kr/view/?no=20240419163159</guid>
+            <pubDate>Fri, 19 Apr 2024 09:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 PC용 무선 연결성 분야에서 퀄컴, 미디어텍과 협력해 와이파이7(802.11be), 블루투스 5.4 등 최신 규격을 적용할 예정이다. AMD는 2022년 초 퀄컴과 와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세스코, 인테리어 포충등 '블루온 아트' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240419150737</link>
@@ -72,7 +80,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SK매직, 전남 결식우려아동 후원]]></title>
+            <title><![CDATA[SK매직, 결식우려아동 후원 '행복두끼 프로젝트']]></title>
             <link>https://zdnet.co.kr/view/?no=20240419105631</link>
             <guid>https://zdnet.co.kr/view/?no=20240419105631</guid>
             <pubDate>Fri, 19 Apr 2024 02:21:26 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240418233117</guid>
             <pubDate>Thu, 18 Apr 2024 15:10:30 GMT</pubDate>
             <content:encoded><![CDATA[조주완 LG전자 최고경영자(CEO) 사장이 미국 마이크로소프트(MS)의 사티아 나델라 CEO를 만나 인공지능(AI) 협업 방안을 논의한다. 두 회사의 경영진이 만나는 것은 이번...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, '레드닷' 디자인상 18년 연속 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240418145743</link>
-            <guid>https://zdnet.co.kr/view/?no=20240418145743</guid>
-            <pubDate>Thu, 18 Apr 2024 06:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[종합 가전기업 코웨이는 '2024 레드닷 디자인 어워드' 헬스케어 부문에서 본상을 수상했다고 18일 밝혔다. 레드닷 디자인 어워드는 독일 노르트하임 베스트팔렌 디자인센터가 주관...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
