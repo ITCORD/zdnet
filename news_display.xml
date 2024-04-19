@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 00:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 01:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, TSMC와 6세대 HBM 개발...내후년 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240419101800</link>
+            <guid>https://zdnet.co.kr/view/?no=20240419101800</guid>
+            <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 차세대 HBM 생산과 어드밴스드 패키징 기술 역량을 강화하기 위해 대만 파운드리 업체 TSMC와 긴밀히 협력하기로 했다고 19일 밝혔다. 양사는 최근 대만 타이페...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 "서버·AI PC서 메타 라마3 구동 지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240419102145</link>
+            <guid>https://zdnet.co.kr/view/?no=20240419102145</guid>
+            <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 19일 메타가 공개한 생성 AI LLM(거대언어모델) 라마3(Llama 3)를 제온 프로세서와 가우디 AI 가속기, 코어 울트라 탑재 AI PC 등에서 지원한다고 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴 "메타 라마3 PC·스마트폰·차량서 구동 지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240419095102</link>
+            <guid>https://zdnet.co.kr/view/?no=20240419095102</guid>
+            <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴은 19일 메타가 공개한 LLM(거대언어모델)인 라마3(Llama 3)를 스마트폰과 PC, VR/AR 헤드셋과 차량 등에서 직접 구동할 수 있도록 지원한다고 밝혔다. 메타가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 "ASML 차세대 EUV 장비 선점...'인텔 14A' 내년부터 연구"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240418223708</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240416135535</guid>
             <pubDate>Tue, 16 Apr 2024 06:13:31 GMT</pubDate>
             <content:encoded><![CDATA[한국디스플레이산업협회는 16일부터 17일까지 중국 상하이 펜양 가든 호텔에서 개최되는 한국, 중국, 대만 디스플레이 생산 3개국 간의 ESG 분야 협력 협의체인 'WDICC(세...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산학연, 국가 장래 위해 'AI-반도체 이니셔티브' 머리 맞댄다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240415230418</link>
-            <guid>https://zdnet.co.kr/view/?no=20240415230418</guid>
-            <pubDate>Tue, 16 Apr 2024 03:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[국내 AI 반도체 분야 산·학·연 최고 전문가들이 만나 'AI-반도체 이니셔티브'를 논의한다. 산업통상자원부(이하 산업부)와 과학기술정보통신부(이하 과기정통부)는 16일 오후 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈엣지, 자율주행용 NPU IP '인라이트 프로' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240416083707</link>
-            <guid>https://zdnet.co.kr/view/?no=20240416083707</guid>
-            <pubDate>Tue, 16 Apr 2024 00:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계자산(IP) 플랫폼 전문회사 오픈엣지테크놀로지(이하 오픈엣지)가 고성능 신경망처리장치(NPU) '인라이트 프로(ENLIGHT PRO)'를 16일 출시했다. 오픈엣지는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 美 반도체 보조금 9조원 받는다…"2나노 칩도 생산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240415180748</link>
-            <guid>https://zdnet.co.kr/view/?no=20240415180748</guid>
-            <pubDate>Mon, 15 Apr 2024 10:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 15일(현지시간) 삼성전자 텍사스주 공장에 반도체 설립 보조금으로 64억 달러(약 8조8505억원)를 지원한다고 발표했다. 이는 미국 인텔(85억 달러), 대만 T...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
