@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 02:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 03:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["SW로 노숙인 생활 개선"···NIPA, 경진대회 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240420120646</link>
+            <guid>https://zdnet.co.kr/view/?no=20240420120646</guid>
+            <pubDate>Sat, 20 Apr 2024 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[노숙인 생활을 개선하는 SW개발 경진대회(이하 피우다 프로젝트)가 열린다. 국내 처음이다. 서울 ICT이노베이션스퀘어는 이달 5일부터 오는 7월 4일까지 '피우다 프로젝트'를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["역량기반 채용 문화 만들어요"···자인원, 대학생 서포터즈 2기 워크숍]]></title>
             <link>https://zdnet.co.kr/view/?no=20240419143342</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240418140623</guid>
             <pubDate>Thu, 18 Apr 2024 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[정부는 초거대 인공지능(AI)을 비롯해 IT 산업을 한 층 끌어 올려 올해 도약하는 한 해로 만들겠다는 국정 방향을 밝혔다. 행정안전부는 전 부처에 AI 역량을 강화하기 위해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, SW 공급망 공격 심화…S-BOM 보안 가이드라인 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240418174503</link>
-            <guid>https://zdnet.co.kr/view/?no=20240418174503</guid>
-            <pubDate>Thu, 18 Apr 2024 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 최근 소프트웨어(SW) 공급망을 노린 사이버 공격을 막기 위해 민간과 협력해 소프트웨어 자재명세서(SBOM) 가이드라인을 배포하고 디지털 보안을 강화한다. 디지털플랫폼정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
