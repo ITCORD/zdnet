@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 23:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈소스 AI 모델 경쟁 치열…"AI 생태계 확장 기여"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240419162545</link>
+            <guid>https://zdnet.co.kr/view/?no=20240419162545</guid>
+            <pubDate>Sat, 20 Apr 2024 23:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 오픈소스 생성형 인공지능(AI) 모델 '라마3'를 공개하면서 기업 간 오픈소스 모델 경쟁이 더 치열해졌다. 올해 초 구글을 비롯한 스태빌리티AI, 미스트랄AI, xAI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국인공지능데이터과학협회 출범]]></title>
             <link>https://zdnet.co.kr/view/?no=20240420202307</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240419094611</guid>
             <pubDate>Fri, 19 Apr 2024 01:45:02 GMT</pubDate>
             <content:encoded><![CDATA[개발 시세에 한참 못 미쳐 병폐로 지적된 공공 소프트웨어(SW)사업 개발 기능점수(펑션포인트) 단가가 올 상반기 내 오른다. 올해 기획재정부도 이같은 인상안에 동의한 것으로 전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["올해도 한 번 더"…실적 새 역사 쓴 IT서비스 기업, 하반기도 '기대']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240418170107</link>
-            <guid>https://zdnet.co.kr/view/?no=20240418170107</guid>
-            <pubDate>Fri, 19 Apr 2024 01:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 전환(DX) 트렌드를 따라 주요 IT서비스 기업들이 지난해 대외 서비스 비중을 확대하며 역대 최대 성과를 기록하는 것에 성공했다. 기업들은 이러한 실적을 하반기에도 이어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
