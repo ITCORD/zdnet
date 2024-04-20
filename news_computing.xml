@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 23:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 00:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아 주가 10% 급락…시총 2조 달러 붕괴]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240420072505</link>
+            <guid>https://zdnet.co.kr/view/?no=20240420072505</guid>
+            <pubDate>Sat, 20 Apr 2024 00:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 랠리를 주도해 온 엔비디아의 주가가 19일(현지시간) 10% 급락하면서 시가총액 2조 달러가 붕괴됐다. 이날 뉴욕증시에서 엔비디아는 전거래일보다 10% 폭락한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3기 AI 윤리·신뢰성 포럼 발족···범부처 과제 등 발굴]]></title>
             <link>https://zdnet.co.kr/view/?no=20240419225113</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240418163939</guid>
             <pubDate>Thu, 18 Apr 2024 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[한국IT전문가협회(IPAK)가 IT 전문가 회원들을 초청해 인공지능(AI) 기술 논의와 제품 소개하는 자리를 마련했다. IPAK은 창립 이래 처음으로 석찬 세미나를 열었다고 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['알테쉬' 조사 나선 정부, 中서 韓 개인정보법령 준수 요청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240418164039</link>
-            <guid>https://zdnet.co.kr/view/?no=20240418164039</guid>
-            <pubDate>Thu, 18 Apr 2024 08:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[알테쉬(알리익스프레스, 테무, 쉬인) 등 중국 기업의 국내 개인정보법 위반 여부가 조사 중인 가운데 정부가 중국 베이징을 방문해 개인정보 보호 법령을 설명하고 철저하게 준수해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
