@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 04:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 05:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진 한 장으로 '충분'…MS, 말하고 노래하는 신규 AI 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240421124255</link>
+            <guid>https://zdnet.co.kr/view/?no=20240421124255</guid>
+            <pubDate>Sun, 21 Apr 2024 05:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 사진 한장으로 실제 사람과 같은 표정을 구현할 수 있는 새로운 인공지능(AI) 모델을 공개했다. 21일 더레지스터 등 외신에 따르면 마이크로소프트는 시각적 감정...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보 교육, 더 쉬워진다…개보위, 교육전문사이트 '탈바꿈']]></title>
             <link>https://zdnet.co.kr/view/?no=20240421123347</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240419101537</guid>
             <pubDate>Fri, 19 Apr 2024 02:21:18 GMT</pubDate>
             <content:encoded><![CDATA[미국 국방부가 인간 조종사와 AI간의 실제 공중전 테스트를 성공적으로 마쳤다. 18일(현지시간) 디펜스스쿱 등 외신은 미국 국방부 산하 국방고등연구계획국(DARPA)과 공군(U...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, AI 역량 강화에 방점…내부조직 개편 예고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240419095838</link>
-            <guid>https://zdnet.co.kr/view/?no=20240419095838</guid>
-            <pubDate>Fri, 19 Apr 2024 02:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 인공지능(AI) 역량을 강화하기 위해 내부 조직 개편을 예고했다. 19일(현지시간) 미국 IT 매체 더 버지에 따르면 순다르 피차이 구글 최고경영자(CEO)는 지난 18...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
