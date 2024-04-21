@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 15:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 16:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 만든 전기, 소비자와 직거래 길 열렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240422001738</link>
+            <guid>https://zdnet.co.kr/view/?no=20240422001738</guid>
+            <pubDate>Sun, 21 Apr 2024 16:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[소규모 발전사업자와 전력고객 간에도 안심하고 직접 전력을 거래할 수 있는 길이 열렸다. 그동안은 한국전력공사를 통하거나 대규모(1000㎾과) 신재생에너지 발전사업자가 공급사업자...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/22/28b878ab968d7ce98ac75696bd550283-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핵융합연, 인공태양 'KSTAR' 일반 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240421233010</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240420224304</guid>
             <pubDate>Sat, 20 Apr 2024 14:09:56 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(과기정통부)는 '인간 중심의 미래 사회 구현을 위한 융합의 역할'을 주제로 19일 한국과학기술연구원(KIST) 서울 본원에서 '제1회 미래융합 소사이어티'를 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/20/f453f7ca4c6ba704efd5cc10b070d197-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박종팔 KR벤처스 대표 "서울 자본+대덕특구 기술 가교역 할 것"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240417015152</guid>
             <pubDate>Tue, 16 Apr 2024 23:12:43 GMT</pubDate>
             <content:encoded><![CDATA[중국에서 천문학 연구에 초거대 인공지능(AI) 모델을 접목한다. 16일 중국 언론 IT즈자에 따르면 중국과학원 국가천문대 인공지능TF는 차세대 천문 초거대 AI 모델 '싱위(星...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, LED 비춰 필름위에 입체 촉각 생성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240415215558</link>
-            <guid>https://zdnet.co.kr/view/?no=20240415215558</guid>
-            <pubDate>Tue, 16 Apr 2024 02:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[혁신적인 햅틱(Haptic, 촉각) 디스플레이 기술이 개발됐다. LED만 비추면 점자 등 입체화된 촉감을 다양하게 생성할 수 있는 기술이다. 향후 시각장애인용 정보전달 기기나 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

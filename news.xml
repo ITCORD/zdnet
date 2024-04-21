@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 15:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 16:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 만든 전기, 소비자와 직거래 길 열렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240422001738</link>
+            <guid>https://zdnet.co.kr/view/?no=20240422001738</guid>
+            <pubDate>Sun, 21 Apr 2024 16:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[소규모 발전사업자와 전력고객 간에도 안심하고 직접 전력을 거래할 수 있는 길이 열렸다. 그동안은 한국전력공사를 통하거나 대규모(1000㎾과) 신재생에너지 발전사업자가 공급사업자...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/22/28b878ab968d7ce98ac75696bd550283-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[韓 제외한 스탠퍼드 AI보고서…"모델 선정에 참고한 출처 겨우 2개"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240421223706</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240421233010</guid>
             <pubDate>Sun, 21 Apr 2024 15:09:43 GMT</pubDate>
             <content:encoded><![CDATA[4월 과학의 달을 맞아 한국핵융합에너지연구원이 인공태양 KSTAR를 일반에 공개했다. 한국핵융합에너지연구원(이하 핵융합연)은 일반 국민을 초청해 핵융합 연구자와의 만남 및 연구...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/21/0f3b9848ac71dad2381a0d192e0ebb92-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고려대 기술법정책센터, '마이데이터 2.0 시대 현안과 과제' 세미나 25일 개최]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240421122334</guid>
             <pubDate>Sun, 21 Apr 2024 04:11:34 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스가 만든 가정용 방범카메라(CCTV)가 '개인정보보호 중심 설계(PbD)'를 첫 번째로 인증 받으며 시장 경쟁력을 확보할 수 있게 됐다. 개인정보보호위원회와 한국인터넷...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['제빵왕' 허영인, "아프다" 호소했지만…회장 구속 기소에 SPC '비상']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240421120541</link>
-            <guid>https://zdnet.co.kr/view/?no=20240421120541</guid>
-            <pubDate>Sun, 21 Apr 2024 03:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[파리바게뜨 제빵기사들에게 민주노총 탈퇴를 종용한 혐의를 받는 허영인 SPC그룹 회장이 결국 구속 상태로 재판에 넘겨졌다. 올해 K-푸드 열풍에 힙입어 해외 사업을 적극 확대할 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
