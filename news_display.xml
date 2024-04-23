@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 05:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓 팹리스, 스타 기업 배출 가시권…정부·대기업이 적극 도와야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240423094932</link>
+            <guid>https://zdnet.co.kr/view/?no=20240423094932</guid>
+            <pubDate>Tue, 23 Apr 2024 06:14:07 GMT</pubDate>
+            <content:encoded><![CDATA["국내 팹리스 산업이 성장하려면 미국 엔비디아 같은 스타 기업이 나와야만 합니다. 현재 국내 기업들 중에서도 성공 궤도에 70~80%까지 도달한 기업이 몇 군데 있죠. 이들 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 업계 최초 290단 '9세대 V낸드' 양산…속도 33%↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20240423111602</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240419095102</guid>
             <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴은 19일 메타가 공개한 LLM(거대언어모델)인 라마3(Llama 3)를 스마트폰과 PC, VR/AR 헤드셋과 차량 등에서 직접 구동할 수 있도록 지원한다고 밝혔다. 메타가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "ASML 차세대 EUV 장비 선점...'인텔 14A' 내년부터 연구"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240418223708</link>
-            <guid>https://zdnet.co.kr/view/?no=20240418223708</guid>
-            <pubDate>Thu, 18 Apr 2024 15:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 2027년 경 투입될 1.4나노급 '인텔 14A' 공정의 핵심인 고개구율(High-NA) EUV(극자외선) 기술 준비 상황을 공개했다. 인텔은 2022년 1분기 네덜란드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
