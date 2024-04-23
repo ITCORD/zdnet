@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 07:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 08:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·인텔, 반도체 IP 확보전...팹리스 유치 가속화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240423154758</link>
+            <guid>https://zdnet.co.kr/view/?no=20240423154758</guid>
+            <pubDate>Tue, 23 Apr 2024 08:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자, TSMC, 인텔 등 파운드리 업체 간의 경쟁이 가열된 가운데 반도체 설계자산(IP)을 확보하려는 위한 움직임이 활발하다. 1위 TSMC를 쫓아 파운드리 점유율 확대에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["韓 팹리스, 스타 기업 배출 가시권…정부·대기업이 적극 도와야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240423094932</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240419102145</guid>
             <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
             <content:encoded><![CDATA[인텔은 19일 메타가 공개한 생성 AI LLM(거대언어모델) 라마3(Llama 3)를 제온 프로세서와 가우디 AI 가속기, 코어 울트라 탑재 AI PC 등에서 지원한다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴 "메타 라마3 PC·스마트폰·차량서 구동 지원"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240419095102</link>
-            <guid>https://zdnet.co.kr/view/?no=20240419095102</guid>
-            <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 19일 메타가 공개한 LLM(거대언어모델)인 라마3(Llama 3)를 스마트폰과 PC, VR/AR 헤드셋과 차량 등에서 직접 구동할 수 있도록 지원한다고 밝혔다. 메타가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
