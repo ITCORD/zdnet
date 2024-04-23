@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 04:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 05:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 업계 최초 290단 '9세대 V낸드' 양산…속도 33%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240423111602</link>
+            <guid>https://zdnet.co.kr/view/?no=20240423111602</guid>
+            <pubDate>Tue, 23 Apr 2024 05:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 업계 최초로 '1Tb(테라비트) TLC(Triple Level Cell) 9세대 V낸드' 양산을 시작했다고 23일 밝혔다. 삼성전자는 ▲업계 최소 크기 셀(Cell)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, '지구의 날' 맞아 안성천 생태 모니터링 활동]]></title>
             <link>https://zdnet.co.kr/view/?no=20240423092635</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240418223708</guid>
             <pubDate>Thu, 18 Apr 2024 15:10:43 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 2027년 경 투입될 1.4나노급 '인텔 14A' 공정의 핵심인 고개구율(High-NA) EUV(극자외선) 기술 준비 상황을 공개했다. 인텔은 2022년 1분기 네덜란드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, AI 열풍에 1분기 순이익 9% 증가...예상치 상회]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240418153302</link>
-            <guid>https://zdnet.co.kr/view/?no=20240418153302</guid>
-            <pubDate>Thu, 18 Apr 2024 08:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리(반도체 위탁생산) 업체 TSMC가 AI 반도체 수주 증가에 힘입어 올해 1분기 순이익이 전분기 대비 3.8% 증가하며 시장의 예상치를 상회했다. TSMC가 18일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
