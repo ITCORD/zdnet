@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 08:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 09:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 위성통신 프로젝트, 본 궤도 올랐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240423172752</link>
+            <guid>https://zdnet.co.kr/view/?no=20240423172752</guid>
+            <pubDate>Tue, 23 Apr 2024 09:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 국가 차원에서 수년 간 공을 들여온 위성통신이 현실화 됐다. 지상의 기지국 장비 없이 인공위성과 스마트폰을 연결해 통화가 이뤄지는 방식이다. 미국의 이통사인 T모바일이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방심위, 호박고구마 팔면서 일반고구마 섞은 공영홈쇼핑 '의견진술']]></title>
             <link>https://zdnet.co.kr/view/?no=20240423160359</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240421085608</guid>
             <pubDate>Sun, 21 Apr 2024 00:45:51 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 온라인 동영상 서비스(OTT) 업체 넷플릭스가 지난해 하반기 호실적에도 불구하고 주가 급락세를 피하지 못했다. 향후 성장세가 둔화할 수 있다는 전망이 나온 탓이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 최대주주에 현대차그룹...정부 공익성 심사 신청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240419181902</link>
-            <guid>https://zdnet.co.kr/view/?no=20240419181902</guid>
-            <pubDate>Fri, 19 Apr 2024 10:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹이 KT 최대주주에 오르기 위한 행정 절차에 돌입했다. 19일 과학기술정보통신부에 따르면 KT는 이날 오후 기간통신사업자 최대주주 변경에 따른 공익성 심사를 신청했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
