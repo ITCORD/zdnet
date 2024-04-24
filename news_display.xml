@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 05:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 06:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘비세미콘, '메모리' 패키징 수주 추진…사업 다각화 노린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240424104732</link>
+            <guid>https://zdnet.co.kr/view/?no=20240424104732</guid>
+            <pubDate>Wed, 24 Apr 2024 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내 반도체 후공정(OSAT) 기업 엘비세미콘이 사업 영역을 기존 시스템반도체에서 메모리로 확장하기 위한 움직임에 나섰다. 국내 메모리 업체가 HBM(고대역폭메모리) 투자에 집...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中, 슈퍼마이크로·델 등 통해 엔비디아 AI칩 '우회 수급']]></title>
             <link>https://zdnet.co.kr/view/?no=20240424080647</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240419102835</guid>
             <pubDate>Fri, 19 Apr 2024 02:21:40 GMT</pubDate>
             <content:encoded><![CDATA[한미반도체가 고대역폭메모리(HBM)용 TC 본더 장비를 생산하는 6번째 공장을 오픈했다고 19일 밝혔다. 한미반도체는 최근 AI 반도체 열풍에 따른 HBM용 장비 공급 확대에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, TSMC와 6세대 HBM 개발...내후년 양산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240419101800</link>
-            <guid>https://zdnet.co.kr/view/?no=20240419101800</guid>
-            <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 차세대 HBM 생산과 어드밴스드 패키징 기술 역량을 강화하기 위해 대만 파운드리 업체 TSMC와 긴밀히 협력하기로 했다고 19일 밝혔다. 양사는 최근 대만 타이페...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
