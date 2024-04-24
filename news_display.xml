@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 23:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 00:44:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中, 슈퍼마이크로·델 등 통해 엔비디아 AI칩 '우회 수급']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240424080647</link>
+            <guid>https://zdnet.co.kr/view/?no=20240424080647</guid>
+            <pubDate>Wed, 24 Apr 2024 00:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 대학 및 연구기관이 수입이 금지된 미국 엔비디아의 AI 칩을 리셀링(되팔기) 방식으로 우회 수급했다고 로이터통신이 23일(현지시간) 보도했다. 로이터가 입수한 입찰 문서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성·인텔, 반도체 IP 확보전...팹리스 유치 가속화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240423154758</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240419101800</guid>
             <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 차세대 HBM 생산과 어드밴스드 패키징 기술 역량을 강화하기 위해 대만 파운드리 업체 TSMC와 긴밀히 협력하기로 했다고 19일 밝혔다. 양사는 최근 대만 타이페...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "서버·AI PC서 메타 라마3 구동 지원"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240419102145</link>
-            <guid>https://zdnet.co.kr/view/?no=20240419102145</guid>
-            <pubDate>Fri, 19 Apr 2024 01:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[인텔은 19일 메타가 공개한 생성 AI LLM(거대언어모델) 라마3(Llama 3)를 제온 프로세서와 가우디 AI 가속기, 코어 울트라 탑재 AI PC 등에서 지원한다고 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
