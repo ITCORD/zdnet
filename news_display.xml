@@ -4,11 +4,51 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 23:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 00:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[1보] SK하이닉스, 1Q 영업익 2.8조…흑자전환]]></title>
+            <title><![CDATA[한미반도체, '한국전쟁 참전용사의 친구' 라미현 작가에 1억원 후원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240425085922</link>
+            <guid>https://zdnet.co.kr/view/?no=20240425085922</guid>
+            <pubDate>Thu, 25 Apr 2024 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체가 한국전쟁 참전용사에게 감사를 전하고 그들의 자부심을 사진과 영상으로 기록하는 사단법인 프로젝트 솔져 라미 현(한국명 현효제) 작가에게 1억원을 후원했다. 곽동신 한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK키파운드리, 0.13μm BCD 공정 개선…차량용 반도체 사업 확장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240425084043</link>
+            <guid>https://zdnet.co.kr/view/?no=20240425084043</guid>
+            <pubDate>Thu, 25 Apr 2024 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[SK키파운드리가 차량용 전력 반도체 설계 기업들이 고성능 차량용 반도체 제품을 설계할 수 있도록 개선된 0.13마이크로미터(㎛) BCD 공정을 제공한다고 25일 밝혔다. SK키...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성디스플레이, 와콤의 첫 'OLED 태블릿'에 패널 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240425083226</link>
+            <guid>https://zdnet.co.kr/view/?no=20240425083226</guid>
+            <pubDate>Thu, 25 Apr 2024 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이가 글로벌 펜 태블릿 전문기업 와콤(Wacom)에 유기발광다이오드(OLED)를 패널을 공급하며 크리에이터 전문 IT기기 시장에 진출한다. 와콤이 자사 제품에 OLE...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세미파이브, 메티스엑스와 'CXL 기반 메모리 가속기' 개발 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240425083600</link>
+            <guid>https://zdnet.co.kr/view/?no=20240425083600</guid>
+            <pubDate>Thu, 25 Apr 2024 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 설계 솔루션 회사 세미파이브는 메티스엑스(MetisX)와 협력해 컴퓨트 익스프레스 링크(CXL) 기반 메모리 가속기 칩을 개발한다고 25일 밝혔다. 해당 칩은 고성능 컴...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 1분기 영업익 2.8조 '어닝 서프라이즈'..."AI 메모리 덕분"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240425081700</link>
+            <guid>https://zdnet.co.kr/view/?no=20240425081700</guid>
+            <pubDate>Thu, 25 Apr 2024 00:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 올해 1분기 실적에서 영업이익 2조8860억원을 기록하며 시장 전망치(1조6479억원)를 크게 웃도는 '어닝 서프라이즈'를 기록했다. 이는 1분기 기준 최대 호황...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[1보] SK하이닉스, 1분기 영업익 2.8조…흑자전환]]></title>
             <link>https://zdnet.co.kr/view/?no=20240425080841</link>
             <guid>https://zdnet.co.kr/view/?no=20240425080841</guid>
             <pubDate>Wed, 24 Apr 2024 23:12:47 GMT</pubDate>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240423084040</guid>
             <pubDate>Tue, 23 Apr 2024 00:42:51 GMT</pubDate>
             <content:encoded><![CDATA[로옴(ROHM)은 소전력~중전력대(30W~1kW 클래스)의 산업기기, 민생기기를 위한 '로지코아(LogiCoA)' 전원 솔루션을 제공한다고 23일 밝혔다. 로지코아는 아날로그 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로 디스플레이 업계, 연내 원자현미경 도입…수율 향상 총력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240422104127</link>
-            <guid>https://zdnet.co.kr/view/?no=20240422104127</guid>
-            <pubDate>Mon, 22 Apr 2024 07:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[국내 주요 전자업체가 올해 초 웨어러블 기기용 LEDoS(LED on silicon; 레도스) 개발을 위한 AFM(원자현미경) 장비를 첫 발주한 것으로 파악됐다. AFM은 나노...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재연 SK하이닉스 부사장 "이머징 메모리, AI 시대 이끌 패러다임 제시"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240422092718</link>
-            <guid>https://zdnet.co.kr/view/?no=20240422092718</guid>
-            <pubDate>Mon, 22 Apr 2024 02:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 AI 시대를 이끌어 갈 차세대 메모리의 선제적 개발 및 폭넓은 협력 관계 구축의 중요성을 강조했다. 22일 SK하이닉스는 공식 뉴스룸을 통해 이재연 글로벌 RTC...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서플러스글로벌·함께웃는재단, 발달장애전문박람회 '오티즘엑스포' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240422090544</link>
-            <guid>https://zdnet.co.kr/view/?no=20240422090544</guid>
-            <pubDate>Mon, 22 Apr 2024 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[서플러스글로벌은 아시아 최초 및 세계 최대 규모의 발달장애전문박람회 '오티즘엑스포'를 오는 7월 12일부터 13일까지 양일간 서울 양재동 aT센터 제2전시장에서 개최한다고 22...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TEL코리아, 취약계층 아동 대상 지구환경 교육 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240422091253</link>
-            <guid>https://zdnet.co.kr/view/?no=20240422091253</guid>
-            <pubDate>Mon, 22 Apr 2024 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 반도체 제조장비 기업 도쿄일렉트론(TEL)의 한국법인 도쿄일렉트론코리아는 지난 20일 경기도 과천시 서울랜드에서 취약계층 아동을 대상으로 지구환경 교육 '공룡편'을 실시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥엑스, 5나노 AI칩으로 美·中 영상분석·보안 시장 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240422083143</link>
-            <guid>https://zdnet.co.kr/view/?no=20240422083143</guid>
-            <pubDate>Mon, 22 Apr 2024 00:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[온디바이스 AI 반도체 기업 딥엑스는 글로벌 물리보안 업체, 물리보안 기기 OEM/ODM 및 IDH(독립계 디자인하우스) 업체들과 사업적 제휴와 딥엑스의 AI 반도체 기반 인공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
