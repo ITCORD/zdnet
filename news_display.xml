@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 08:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 6축 관성 모듈 '엣지-AI 센서' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240425163039</link>
+            <guid>https://zdnet.co.kr/view/?no=20240425163039</guid>
+            <pubDate>Thu, 25 Apr 2024 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)가 32g(gravity)의 넓은 풀스케일 범위를 가진 가속도 센서와 4000dps(degrees-per-second)의 자이로스코프를 갖춘 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG디스플레이 "패널 가격·출하량 증가..하반기 업황 개선 기대"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240425152914</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240424114142</guid>
             <pubDate>Wed, 24 Apr 2024 07:10:00 GMT</pubDate>
             <content:encoded><![CDATA[마우저일렉트로닉스가 아나로그디바이스(이하 ADI)의 MAX32690 마이크로컨트롤러(MCU)를 공급한다고 24일 밝혔다. MAX32690은 다양한 컨슈머 및 산업용 사물인터넷(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엘비세미콘, '메모리' 패키징 수주 추진…사업 다각화 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240424104732</link>
-            <guid>https://zdnet.co.kr/view/?no=20240424104732</guid>
-            <pubDate>Wed, 24 Apr 2024 06:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내 반도체 후공정(OSAT) 기업 엘비세미콘이 사업 영역을 기존 시스템반도체에서 메모리로 확장하기 위한 움직임에 나섰다. 국내 메모리 업체가 HBM(고대역폭메모리) 투자에 집...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
