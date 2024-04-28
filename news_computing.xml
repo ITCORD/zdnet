@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 11:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 12:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[C#12, 신규 기능 '기본 생성자' 혹평..."역대 최악의 기능"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240428052130</link>
+            <guid>https://zdnet.co.kr/view/?no=20240428052130</guid>
+            <pubDate>Sun, 28 Apr 2024 12:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 프로그래밍 언어 C# 12에 추가된 신규 기능 '기본 생성자(primary constructors)'에 대해 역대 최악의 기능이라며 불만의 목소리를 내고 있다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["시총 2조 달러, 나도 할 수 있어"…AI 바람 탄 구글, 엔비디아 추월할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240428154415</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240426114716</guid>
             <pubDate>Fri, 26 Apr 2024 06:14:56 GMT</pubDate>
             <content:encoded><![CDATA[중소·중견 기업의 주력 분야인 공공소프트웨어(SW) 사업의 수익성을 높이기 위한 방안으로 노코드와 로우코드가 주목받고 있다. 노코드 플랫폼을 활용해 적은 인력으로 공공SW 사업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다이렉트클라우드, 재팬 IT 위크서 데이터 활용 방향 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240426133648</link>
-            <guid>https://zdnet.co.kr/view/?no=20240426133648</guid>
-            <pubDate>Fri, 26 Apr 2024 05:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[다이렉트클라우드(대표 안정선)가 24일부터 26일까지 일본 도쿄에서 열린 '재팬 IT 위크'에서 기업 데이터 활용을 지원하는 클라우드 파일서버를 선보였다. 일본은 디지털화 가속...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
