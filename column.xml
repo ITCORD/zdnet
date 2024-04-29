@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 04:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 05:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 클라우드 서비스 선택, 5가지만 알아두세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240429140600</link>
+            <guid>https://zdnet.co.kr/view/?no=20240429140600</guid>
+            <pubDate>Mon, 29 Apr 2024 05:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[클라우데라의 조사에 따르면 IT 의사결정권자의 68%는 하이브리드 클라우드 전략을 선호했다. 또한, IT 의사결정권자의 72%는 여러 클라우드 서비스 공급업체(CSP)와 계약을 맺고 있는 것으로 나타났다. 클라우드 환경이 복잡해지면서 각 CSP는 다양한 서비스를 제공한다. 때문에 올바른 데이터 아키텍처를 기반으로 삼는 것은 매우 중요하다. 이를 어긴다면 관리 자체가 요원하게 된다.클라우드 비...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/08/31/45838790f2e261f5afaa957cdac5c3c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 데이터 산업 활성화와 '데이터의 날' 제정]]></title>
             <link>https://zdnet.co.kr/view/?no=20240428104003</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 16 Mar 2024 06:13:03 GMT</pubDate>
             <content:encoded><![CDATA[아직 일반인에 생소한 '익명정보'를 개인정보보호위원회(개보위)는 어떻게 생각할까. 개보위는 '익명정보'를 ‘시간·비용·기술 등을 합리적으로 고려할 때 다른 정보를 사용해도 더 이상 개인을 알아볼 수 없는 정보’라고 정의한다. 유럽 개인정보보호법(GDPR)은 보다 구체적이다. 익명정보 요건으로 ➀개별화 배제 ②구별 가능성 배제 ③추론 가능성 배제 ④연결 가능성 배제...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/07/28/0dadc8bd66950b05e28519828afa734a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 생성형 AI 도입, 기업이 반드시 유념해야 할 두 가지 전략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240314152739</link>
-            <guid>https://zdnet.co.kr/view/?no=20240314152739</guid>
-            <pubDate>Thu, 14 Mar 2024 07:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 AI 모델에 대한 뜨거운 관심은 이제 다방면으로 확산되고 있다. 지난 해 까지만 해도 변호사 자격시험 통과나 다양한 주제의 학술 논문 작성은 물론, 정보 검색 지원 등 놀라운 신기능이 화제의 중심이었다. 이제 우리는 생성형 AI가 텍스트 생성과 SQL 쿼리 생성, 코드 작성, 심지어는 예술작품 제작은 물론, 기업의 제품 지원에 이르기까지 거의 모든 분야의 작업을 수행하는 것을 목격하고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/12/06/4c86325a93cf715a67d77682702872c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
