@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 05:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 06:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[곽노건 교수의 웹3 ④] DeFi(디파이, 탈중앙화 금융)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240429144422</link>
+            <guid>https://zdnet.co.kr/view/?no=20240429144422</guid>
+            <pubDate>Mon, 29 Apr 2024 06:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[지난 칼럼에서 블록체인 기술이&nbsp;탈중앙화 개념을 구현해주는 중요한 요소라고 말씀 드렸습니다.&nbsp;오늘은 웹3의 또 하나의 중요한 구성요소인 탈중앙화 금융(Decentralized Finance, 이하 디파이)을 얘기해 보겠습니다.웹3 탈중앙화된 구조에서 서비스를 자율적으로 이용하기 위해서는 중재자 없이 운영되는 디파이는 꼭 필요합니다. 디파이는 기존 금융 시스템의 중앙 집중적인 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/29/af829917950fa31a7fcfc9e34a17cbc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 클라우드 서비스 선택, 5가지만 알아두세요]]></title>
             <link>https://zdnet.co.kr/view/?no=20240429140600</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240323155418</guid>
             <pubDate>Sat, 23 Mar 2024 07:12:14 GMT</pubDate>
             <content:encoded><![CDATA[예전엔 정보화가 유행이였다. 정보화란 무엇일까. 산업화 시대의 업무처리 방식을 컴퓨터로 개선하는 과정이다. 업무프로세스 재설계(BPR)라는 것도 있다. 이는 기관의 과거 업무 흐름을 컴퓨터로 할 수 있는 방식으로 재설계한 걸 말한다. 또 BPR과 연관성이 높은 정보화전략계획(ISP)은 재설계한 업무 흐름을 구동할 수 있는 정보시스템 구축 방법과 예산을 산정하는 것이다. 이 둘을 기반으로 기관...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/28/0dadc8bd66950b05e28519828afa734a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이원석 교수의 익명정보③] 복어와 익명정보···신기술로 신세계 열어야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240316150012</link>
-            <guid>https://zdnet.co.kr/view/?no=20240316150012</guid>
-            <pubDate>Sat, 16 Mar 2024 06:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[아직 일반인에 생소한 '익명정보'를 개인정보보호위원회(개보위)는 어떻게 생각할까. 개보위는 '익명정보'를 ‘시간·비용·기술 등을 합리적으로 고려할 때 다른 정보를 사용해도 더 이상 개인을 알아볼 수 없는 정보’라고 정의한다. 유럽 개인정보보호법(GDPR)은 보다 구체적이다. 익명정보 요건으로 ➀개별화 배제 ②구별 가능성 배제 ③추론 가능성 배제 ④연결 가능성 배제...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/07/28/0dadc8bd66950b05e28519828afa734a.png" length="0" type="image/png"/>
         </item>
     </channel>
