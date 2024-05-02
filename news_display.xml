@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 06:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 07:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PCI-SIG, 서버용 데이터 케이블 '코퍼링크' 규격 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240502153819</link>
+            <guid>https://zdnet.co.kr/view/?no=20240502153819</guid>
+            <pubDate>Thu, 02 May 2024 07:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[PCI 익스프레스 규격을 주관하는 업계 표준화 단체인 PCI-SIG가 서버 환경에서 초당 최대 64Gbps로 데이터를 전송할 수 있는 코퍼링크(CopprLink) 사양을 공개했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[곽노정 SK하이닉스 "내년 HBM 완판...TSMC와 HBM4 기술협력 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240502123243</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240430115037</guid>
             <pubDate>Tue, 30 Apr 2024 03:11:22 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 QD-OLED(퀀텀닷 OLED)를 TV,모니터 시장에 공급한데 이어 B2B(기업간 거래) 시장까지 진출할 계획이라고 밝혔다. 삼성디스플레이는 30일 삼성전자 2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 "서버용 SSD 출하량 전년比 80% 이상 증가"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240430112848</link>
-            <guid>https://zdnet.co.kr/view/?no=20240430112848</guid>
-            <pubDate>Tue, 30 Apr 2024 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 생성형AI 확산에 따른 영향으로 올해 서버향 SSD 출하량은 전년 대비 80% 증가한다고 전망했다. 삼성전자는 30일 2024년 1분기 실적발표 컨퍼런스콜에서 "생성...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
