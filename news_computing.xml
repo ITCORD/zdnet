@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 08:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 09:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업스테이지 "솔라, 특정 분야서 'GPT4' 넘을 수 있어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240502171540</link>
+            <guid>https://zdnet.co.kr/view/?no=20240502171540</guid>
+            <pubDate>Thu, 02 May 2024 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA["특정 목적에 맞는 특정 분야에 있어서는 '솔라(Solar)'가 오픈AI의 'GPT4'를 넘는 것도 가능하다 생각합니다." 업스테이지 박찬준 수석 연구원이 업스테이지 LLM(거...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스윗 "'AI 도입 장벽' 데이터 파편화, 해결 급선무"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240502171040</link>
+            <guid>https://zdnet.co.kr/view/?no=20240502171040</guid>
+            <pubDate>Thu, 02 May 2024 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 도입 과정에서 주요 진입장벽 중 하나는 데이터와 업무 파편화입니다. 디지털전환(DX)을 시행하기 위해선 이것부터 해결하는 것이 급선무라고 봅니다." 스윗 테크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['120억' 실탄 마련한 비투엔, 조직도 확 바꾼다…경영 정상화 '총력']]></title>
             <link>https://zdnet.co.kr/view/?no=20240502165759</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240502115551</guid>
             <pubDate>Thu, 02 May 2024 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[지니언스가 세계 최대 사이버 보안 전시회 'RSA 컨퍼런스 2024'를 통해 우수한 기술력을 선보이며 글로벌 시장 공략에 박차를 가한다. 지니언스는 오는 6일부터 9일까지 미국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업 생성 AI 시장 노린 삼성SDS "브리티 코파일럿, 보안·한국어 능력·비용 강점"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240502105050</link>
-            <guid>https://zdnet.co.kr/view/?no=20240502105050</guid>
-            <pubDate>Thu, 02 May 2024 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA["삼성SDS는 기존 업무 협업툴에 인공지능(AI) 비서 '브리티 코파일럿'을 달았습니다. 메일 작성부터 회의 내용 요약, 문서 관리 등 기업 업무를 자동화합니다. 기업 클라우드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["원티드랩서 '솔라' 쉽게 쓰세요"…업스테이지, 기업 생성형 AI 도입 촉진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240502113326</link>
-            <guid>https://zdnet.co.kr/view/?no=20240502113326</guid>
-            <pubDate>Thu, 02 May 2024 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지가 개발한 사전학습 거대언어모델(LLM) '솔라'를 더욱 쉽게 도입할 수 있는 기반이 마련됐다. 업스테이지는 원티드랩과 '원티드 LaaS(LLM-as-a-Service...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
