@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 04:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VM웨어 임원이 말하는 라이선스 전략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240503112246</link>
+            <guid>https://zdnet.co.kr/view/?no=20240503112246</guid>
+            <pubDate>Fri, 03 May 2024 05:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 말 브로드컴에 인수된 VM웨어가 가격체계를 '구독제'로 변경했다. 갑작스러운 가격 변동에 이어 국내 지사 규모가 축소되는 등 부정적인 이슈가 이어지자, 고객사들이 혼란을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["가상화 이상의 것 바란다면 뉴타닉스가 고려 1순위”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240503135836</link>
+            <guid>https://zdnet.co.kr/view/?no=20240503135836</guid>
+            <pubDate>Fri, 03 May 2024 05:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[“뉴타닉스의 기본 전략은 온프레미스든, 클라우드든 어떤 환경으로 워크로드를 이동하든 총괄적으로 통합된 매니지먼트 플랫폼을 제공한다는 것이다. 지금 VM웨어 사태로 많은 고객이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[몽고DB, 아틀라스 스트림 프로세싱 등 신규 기능 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240503122855</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240502191952</guid>
             <pubDate>Thu, 02 May 2024 11:08:54 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼코더가 중소벤처기업부가 주최하고 고려대학교 크림슨창업지원단이 주관하는 '2024 초기창업패키지 창업기업'에 선정됐다고 2일 밝혔다. '초기창업패키지'는 유망 창업 아이템 및...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시옷, 국제 전자 모빌리티 엑스포에서 차량 보안 기술 뽐내]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240502141149</link>
-            <guid>https://zdnet.co.kr/view/?no=20240502141149</guid>
-            <pubDate>Thu, 02 May 2024 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[시옷(대표 박현주)은 제주에서 열린 제11회 국제 전자 모빌리티 엑스포에서 PnC(Plug-and-Charge) 보안, OTA(Over-the-Air) 보안, 커넥티드 카 통신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엘젠 "우리가 개발한 음성챗봇 'AI노트' 인기 좋네요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240502182251</link>
-            <guid>https://zdnet.co.kr/view/?no=20240502182251</guid>
-            <pubDate>Thu, 02 May 2024 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA["요즘 AI가 열풍이다 보니 투자 문의도 많았고 기술 문의도 많았습니다." AI 전문기업 엘젠(대표 김남현)이 1~3일 사흘간 서울 강남구 삼성동 코엑스에서 열리는 'AI EX...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
