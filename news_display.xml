@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 23:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 00:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사피온, 텔레칩스에 차량용 NPU IP 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240503083307</link>
+            <guid>https://zdnet.co.kr/view/?no=20240503083307</guid>
+            <pubDate>Fri, 03 May 2024 00:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[AI 반도체 기업 사피온이 AI 반도체 'X300' 아키텍처 기반의 오토모티브용 NPU(신경망처리장치) IP(설계자산)를 차량용 종합 반도체 기업인 텔레칩스에 공급한다고 3일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주성엔지니어링, 반도체 부문 인적분할…주력 사업 경쟁력 높인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240502172040</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240430151835</guid>
             <pubDate>Tue, 30 Apr 2024 07:11:51 GMT</pubDate>
             <content:encoded><![CDATA[미루웨어는 오는 5월 1일부터 3일까지 서울 삼성동 코엑스에서 열리는 '국제인공지능대전'(AI EXPO) 2024에 엣지 컴퓨팅·서버 솔루션을 출품한다. 미루웨어는 전시회 기간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코아시아, 美 고객사 HPC용 4나노 AI칩 턴키 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240430114431</link>
-            <guid>https://zdnet.co.kr/view/?no=20240430114431</guid>
-            <pubDate>Tue, 30 Apr 2024 06:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[시스템반도체 설계 전문기업 코아시아는 미국 생성형 AI 반도체 플랫폼 개발 전문기업과 HPC(고성능컴퓨팅)향 생성형 AI 반도체 설계 개발 및 시제품 공급 계약을 체결했다고 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
