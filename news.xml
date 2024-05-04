@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 04:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰16 시리즈 금형 유출…전작과 비교해 봤더니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240504070849</link>
+            <guid>https://zdnet.co.kr/view/?no=20240504070849</guid>
+            <pubDate>Sat, 04 May 2024 05:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 올 가을 출시할 예정인 아이폰16 시리즈 전체 모델의 금형 사진이 유출됐다. IT매체 폰아레나는 3일(현지시간) 프랑스 케이스 회사 샵시스템(Shopsystem)이 공유...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/04/813a601aea2539360adfb21032aedf51-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[36년 역사 과학기술인 테니스 대회 열려]]></title>
             <link>https://zdnet.co.kr/view/?no=20240504125007</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240504112205</guid>
             <pubDate>Sat, 04 May 2024 03:11:39 GMT</pubDate>
             <content:encoded><![CDATA[어린이날을 앞둔 지난 3일. 해긴이 개발한 모바일 소셜 네트워크 게임 플레이투게더에 신규 콘텐츠 '지니쌤과 트리케 이야기'가 업데이트 됐다. 어린이날을 맞아 신규 업데이트가 진...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/04/196f9b38313f38a392ebbff57d9356b0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인크로스, 1분기 매출 84억6300만원]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240504071752</guid>
             <pubDate>Fri, 03 May 2024 23:10:26 GMT</pubDate>
             <content:encoded><![CDATA["아무것도 안 사주고 넘기긴 그래서…" 장난감 매장으로 들어온 30대 이모씨가 장바구니를 들고 매대 앞에서 한참을 망설였다. 이씨는 "아이가 이제 5살 됐다. 어린이날이니 장난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 전국 낮 최고 기온 29도 '여름 날씨']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240504071558</link>
-            <guid>https://zdnet.co.kr/view/?no=20240504071558</guid>
-            <pubDate>Fri, 03 May 2024 23:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[어린이날 연휴 첫날일 4일은 낮 최고기온이 30도에 육박하는 여름 날씨를 보이겠다. 이날 기상청에 따르면 낮 기온이 전국 대부분 지역에서 25도 내외로 올라 덥겠고, 낮과 밤의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
