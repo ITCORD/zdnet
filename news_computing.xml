@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 01:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 02:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["구글이 보낸 메일이 아니네?"…교묘해진 北 해킹에 美 정부 사이버보안 '경고']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240503151118</link>
+            <guid>https://zdnet.co.kr/view/?no=20240503151118</guid>
+            <pubDate>Sat, 04 May 2024 02:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한 해커들의 움직임이 갈수록 지능화되고 교묘해지고 있는 가운데 구글, 하버드대 등의 메일 주소를 사칭한 '이메일 피싱'이 최근 활발히 진행되고 있어 주의가 요구된다. 4일 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SaaS 전문 개발사 아이펠스, 필리핀 IT채용 시장 진출]]></title>
             <link>https://zdnet.co.kr/view/?no=20240503172615</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240503103233</guid>
             <pubDate>Fri, 03 May 2024 02:23:44 GMT</pubDate>
             <content:encoded><![CDATA[최근 기업을 노린 랜섬웨어와 알려지지 않은 보안 위협이 증가함에 따라 이를 탐지·대응하는 '안랩MDS'가 주목받고 있다. 안랩(대표 강석균)은 자사 지능형 위협(APT) 대응 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 말레이시아에 데이터센터 세운다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503101140</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503101140</guid>
-            <pubDate>Fri, 03 May 2024 02:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 말레이시아에 클라우드와 인공지능(AI) 인프라 구축을 위해 22억 달러(약 3조원)를 투자한다. 이를 통해 동남아시아에서 증가하는 AI 컴퓨팅 수요에 대응할 방...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
