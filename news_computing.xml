@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 22:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 23:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1분기 랜섬웨어 공격 23% 증가…보안 시스템 우회 늘어]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240503140654</link>
+            <guid>https://zdnet.co.kr/view/?no=20240503140654</guid>
+            <pubDate>Sat, 04 May 2024 23:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[대규모 랜섬웨어 그룹 '락빗(LockBit)'이 검거됐지만 여전히 랜섬웨어 공격은 활발하게 이뤄지고 있는 추세다. SK쉴더스(대표 홍원표)가 2024년 1분기 KARA 랜섬웨어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["구글이 보낸 메일이 아니네?"…교묘해진 北 해킹에 美 정부 사이버보안 '경고']]></title>
             <link>https://zdnet.co.kr/view/?no=20240503151118</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240503113831</guid>
             <pubDate>Fri, 03 May 2024 03:12:09 GMT</pubDate>
             <content:encoded><![CDATA[올해로 10주년을 맞이하는 국내 최대 규모의 클라우드 기술 컨퍼런스인 'AWS 서밋 서울'에 다수의 국내 기업들이 참가해 아마존웹서비스(AWS)와의 협업 강화에 나선다. AWS...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩 "기업 랜섬웨어·보안 위협 증가…'안랩MDS' 관심↑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503103233</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503103233</guid>
-            <pubDate>Fri, 03 May 2024 02:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[최근 기업을 노린 랜섬웨어와 알려지지 않은 보안 위협이 증가함에 따라 이를 탐지·대응하는 '안랩MDS'가 주목받고 있다. 안랩(대표 강석균)은 자사 지능형 위협(APT) 대응 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
