@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 02:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 03:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해긴, '플레이투게더'에 콘텐츠로 선보인 어린이 소원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240504112205</link>
+            <guid>https://zdnet.co.kr/view/?no=20240504112205</guid>
+            <pubDate>Sat, 04 May 2024 03:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[어린이날을 앞둔 지난 3일. 해긴이 개발한 모바일 소셜 네트워크 게임 플레이투게더에 신규 콘텐츠 '지니쌤과 트리케 이야기'가 업데이트 됐다. 어린이날을 맞아 신규 업데이트가 진...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/04/196f9b38313f38a392ebbff57d9356b0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인크로스, 1분기 매출 84억6300만원]]></title>
             <link>https://zdnet.co.kr/view/?no=20240504110617</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240504062600</guid>
             <pubDate>Sat, 04 May 2024 02:18:45 GMT</pubDate>
             <content:encoded><![CDATA[애플이 올 가을 출시할 예정인 아이폰16의 렌더링 영상이 공개됐다고 IT매체 BGR이 최근 보도했다. 콘셉트 아티스트 4RMD가 공개한 영상에서 상단의 다이내믹 아일랜드 디자인...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/04/8c62a5defa483894832f252379170803.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["구글이 보낸 메일이 아니네?"…교묘해진 北 해킹에 美 정부 사이버보안 '경고']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240504071356</guid>
             <pubDate>Fri, 03 May 2024 23:10:26 GMT</pubDate>
             <content:encoded><![CDATA[서울대 성악과 출신 뮤지컬 배우 김소현의 재학 시절 미담이 공개돼 누리꾼들의 가슴을 따뜻하게 만들었다. 지닌 2022년 MBC 예능 '라디오스타'에 출연한 김소현의 활약을 모은...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[권은비, '런닝맨' 출연…"고정하려고 왔다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240504071319</link>
-            <guid>https://zdnet.co.kr/view/?no=20240504071319</guid>
-            <pubDate>Fri, 03 May 2024 23:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[가수 권은비가 예능감을 뽐냈다. 5일 오후 6시15분 방송되는 SBS TV 예능물 '런닝맨'에서는 '돌아온 고, 스톱(Go, Stop) 레이스'가 펼쳐진다. 게스트로 권은비가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
