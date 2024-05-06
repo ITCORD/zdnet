@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 05:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 06:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비트나인 "PGTS 론칭···1년 파격 무상지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240506144307</link>
+            <guid>https://zdnet.co.kr/view/?no=20240506144307</guid>
+            <pubDate>Mon, 06 May 2024 06:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[데이터베이스(DB) 전문기업 비트나인(대표 강철순)이 포스트그레SQL(PostgreSQL) 글로벌 통합 기술지원 서비스인 'PGTS'를 공식 론칭했다. 론칭 기념 파격적인 1년...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 AI 핫 뉴스] AI 대모, '공간 지능' 스타트업 설립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240506142353</link>
+            <guid>https://zdnet.co.kr/view/?no=20240506142353</guid>
+            <pubDate>Mon, 06 May 2024 06:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)이 세상을 삼키고 있습니다. AI뉴스도 국내외에서 쏟아지고 있습니다. 뉴스 유형도 기술, 정책, 기업 등 다양합니다. 난 한 주(4월 29일~5월 6일)간국내외에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위-프랑스, 아동·청소년 개인정보 권리 알린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240505123334</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240503122855</guid>
             <pubDate>Fri, 03 May 2024 04:13:49 GMT</pubDate>
             <content:encoded><![CDATA[몽고DB는 최근 개최한 연례 개발자 행사인 '몽고DB 닷로컬 뉴욕'에서 최신 애플리케이션을 빠르고 쉽게 구축, 배포 및 실행할 수 있는 몽고DB 아틀라스의 새로운 기능을 발표했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 한국도 AWS 마켓플레이스로 소프트웨어 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503122511</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503122511</guid>
-            <pubDate>Fri, 03 May 2024 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 한국을 포함한 전 세계 92개국에서 아마존웹서비스(AWS) 마켓플레이스를 통해 공급하는 자사 소프트웨어 포트폴리오를 확대한다고 3일 발표했다. AWS 마켓플레이스는 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비, 파이어플라이 적용 '어도비 익스프레스' 모바일 앱 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503122058</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503122058</guid>
-            <pubDate>Fri, 03 May 2024 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[어도비는 파이어플라이 Ai를 적용한 '어도비 익스프레스' 모바일 애플리케이션을 공식 출시한다고 3일 밝혔다. 콘텐츠 크리에이터는 어디서나 어도비 파이어플라이 생성형 AI 구동 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
