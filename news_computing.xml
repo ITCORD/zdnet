@@ -4,14 +4,30 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 02:29:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['망분리'는 갈라파고스를 야기하는 규제인가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240503150154</link>
+            <guid>https://zdnet.co.kr/view/?no=20240503150154</guid>
+            <pubDate>Tue, 07 May 2024 02:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[공공 및 금융기관의 망분리에 대한 논란이 뜨겁다. 망분리를 리셋하고 원점에서 다시 보안 아키텍처를 구축해야 한다는 목소리도 적지 않다. 망분리의 효과를 인정하되, 부작용을 완화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈AI 의존 줄이려는 마이크로소프트, 자체 LLM 'MAI-1' 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240507100624</link>
+            <guid>https://zdnet.co.kr/view/?no=20240507100624</guid>
+            <pubDate>Tue, 07 May 2024 02:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 오픈AI에 대한 의존도를 줄이기 위해 자체 대규모 언어모델(LLM)을 개발 중이다. 6일(현지시간) 디인포메이션 등 외신은 마이크로소프트가 약 5천억 개의 매개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[샘 알트먼 체제 더 공고해지나…오픈AI 초기 멤버 2명 동시 사임, 누구?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240507094720</link>
             <guid>https://zdnet.co.kr/view/?no=20240507094720</guid>
-            <pubDate>Tue, 07 May 2024 01:52:01 GMT</pubDate>
+            <pubDate>Tue, 07 May 2024 02:28:06 GMT</pubDate>
             <content:encoded><![CDATA['챗GPT' 개발사 오픈AI 초기 멤버 2명이 회사를 떠나면서 샘 알트먼 최고경영자(CEO) 체제가 한층 더 공고해진 분위기다. 7일 정보통신(IT) 전문 매체 디인포메이션에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240503141409</guid>
             <pubDate>Fri, 03 May 2024 06:13:42 GMT</pubDate>
             <content:encoded><![CDATA[아이티센(대표 강진모)가 부산디지털자산거래소를 정식 출범한다. 아이티센은 부산디지털자산거래소의 주주인 부산BDX컨소시엄 11개사는 이날 출자금 100억원을 전액 납입하며 부산디...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어 임원이 말하는 라이선스 전략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503112246</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503112246</guid>
-            <pubDate>Fri, 03 May 2024 05:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 말 브로드컴에 인수된 VM웨어가 가격체계를 '구독제'로 변경했다. 갑작스러운 가격 변동에 이어 국내 지사 규모가 축소되는 등 부정적인 이슈가 이어지자, 고객사들이 혼란을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["가상화 이상의 것 바란다면 뉴타닉스가 고려 1순위"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503135836</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503135836</guid>
-            <pubDate>Fri, 03 May 2024 05:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[“뉴타닉스의 기본 전략은 온프레미스든, 클라우드든 어떤 환경으로 워크로드를 이동하든 총괄적으로 통합된 매니지먼트 플랫폼을 제공한다는 것이다. 지금 VM웨어 사태로 많은 고객이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
