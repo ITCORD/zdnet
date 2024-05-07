@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 02:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 스노우플레이크가 제안하는 기업 환경을 위한 생성형 AI]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240507112954</link>
+            <guid>https://zdnet.co.kr/view/?no=20240507112954</guid>
+            <pubDate>Tue, 07 May 2024 03:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 AI는 생산성을 개선하며 데이터에서 더 많은 가치를 창출하는 새로운 방법을 제시한다. 하지만 기업은 생성형 AI를 도입하기에 앞서 ‘데이터는 과연 신뢰할 수 있는 것인가?’, ‘새로운 기술 채택을 위해 컴퓨팅 환경을 새롭게 구축해야 하는가?’, ‘생성형 AI 기능을 제공하는 애플리케이션을 구축하고 운영해야 하는가?’와 같은 다양한 고민이 생긴다. 그런데 흥미로운 것은 이 모든 고민들의...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/22/1217e9ffd1522b88af93df4ece59a35b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['망분리'는 갈라파고스를 야기하는 규제인가]]></title>
             <link>https://zdnet.co.kr/view/?no=20240503150154</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Apr 2024 23:58:51 GMT</pubDate>
             <content:encoded><![CDATA[서비스형 네트워크(NaaS)는 구독 기반 과금 모델 또는 유연한 소비 모델로 한 번에 제공되는 네트워크 인프라스트럭처의 하드웨어, 소프트웨어, 서비스, 관리 및 라이선스 컴포넌트를 말한다. 기업들은 NaaS를 통해 프로비저닝, 배포, 네트워크 관리, 유지 및 네트워크 인프라 생명주기 관리 등에 이르는 일련의 작업들을 외주로 처리할 수 있는데, 최근 더욱 업계 전반에 다양해진 IoT 기기의 활...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/12/15/07678c6c51e8c7b9313221910e3309a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고삼석 칼럼] 총선 이후 ICT 정책, '대화·타협' 없으면 해법도 없다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240412102819</link>
-            <guid>https://zdnet.co.kr/view/?no=20240412102819</guid>
-            <pubDate>Fri, 12 Apr 2024 06:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[야당 압승, 여당 참패로 총선은 막을 내렸다. 대통령의 임기 중간에 실시하는 선거에서 유권자들은 회고적 투표 성향을 보인다. 국정 운영을 잘했다고 생각하면 지지에, 잘못했다고 생각하면 응징에 자신의 한 표를 행사한다. 이번 선거에서 국민들은 ‘정권 지지’보다는 압도적으로 ‘정권 심판’을 선택했다. 대통령의 남은 임기 동안 입법부의 주도권을 여당이 아닌 야당의 손에 쥐어 줬다는 의미에서 ‘징벌...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/10/23/psooh_ZLv0GuerVVhUpZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
