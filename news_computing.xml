@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 00:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 01:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샘 알트먼 체제 더 공고해지나…오픈AI 초기 멤버 2명 동시 사임, 누구?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240507094720</link>
+            <guid>https://zdnet.co.kr/view/?no=20240507094720</guid>
+            <pubDate>Tue, 07 May 2024 01:52:01 GMT</pubDate>
+            <content:encoded><![CDATA['챗GPT' 개발사 오픈AI 초기 멤버 2명이 회사를 떠나면서 샘 알트먼 최고경영자(CEO) 체제가 한층 더 공고해진 분위기다. 7일 정보통신(IT) 전문 매체 디인포메이션에 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비트나인 "PGTS 론칭···1년 파격 무상지원"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240506144307</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240503135836</guid>
             <pubDate>Fri, 03 May 2024 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[“뉴타닉스의 기본 전략은 온프레미스든, 클라우드든 어떤 환경으로 워크로드를 이동하든 총괄적으로 통합된 매니지먼트 플랫폼을 제공한다는 것이다. 지금 VM웨어 사태로 많은 고객이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몽고DB, 아틀라스 스트림 프로세싱 등 신규 기능 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503122855</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503122855</guid>
-            <pubDate>Fri, 03 May 2024 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[몽고DB는 최근 개최한 연례 개발자 행사인 '몽고DB 닷로컬 뉴욕'에서 최신 애플리케이션을 빠르고 쉽게 구축, 배포 및 실행할 수 있는 몽고DB 아틀라스의 새로운 기능을 발표했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
