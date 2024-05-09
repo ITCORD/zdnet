@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 07:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 08:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 13·14세대 메인보드 설정값 둘러싼 '혼선' 불가피]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240509154039</link>
+            <guid>https://zdnet.co.kr/view/?no=20240509154039</guid>
+            <pubDate>Thu, 09 May 2024 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 13·14세대 코어 프로세서 제품에서 게임 구동시 발생하는 문제를 두고 여전히 원인 조사중인 가운데, 주요 메인보드 제조사가 프로세서 작동시 과다한 전압이나 전류를 공급...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시그니아, 가정의 달 맞아 보청기 선택 가이드 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240509155045</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240508110013</guid>
             <pubDate>Wed, 08 May 2024 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[올 여름 출시될 예정인 삼성전자 차세대 폴더블폰 '갤럭시Z폴드6'의 커버 디스플레이 보호기 사진이 공개됐다. IT매체 샘모바일은 7일(현지시간) 유명 IT 팁스터 아이스유니버스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[WD, 8TB 외장 SSD '샌디스크 데스크 드라이브' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240508112745</link>
-            <guid>https://zdnet.co.kr/view/?no=20240508112745</guid>
-            <pubDate>Wed, 08 May 2024 03:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[웨스턴디지털이 8일 대용량 데이터 저장용 외장형 SSD '샌디스크 데스크 드라이브'를 출시했다. 이 제품은 USB-C(USB 3.2 Gen 2x1) 단자로 데스크톱PC·노트북과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
