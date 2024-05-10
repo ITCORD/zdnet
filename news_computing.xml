@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 00:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 01:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드햇, RHEL용 이미지 모드 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240510103552</link>
+            <guid>https://zdnet.co.kr/view/?no=20240510103552</guid>
+            <pubDate>Fri, 10 May 2024 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[레드햇은 플랫폼을 컨테이너 이미지로 제공하는 레드햇 엔터프라이즈 리눅스(RHEL)의 새로운 배포 방식 'RHEL용 이미지 모드'를 출시한다고 10일 밝혔다. 이미지 모드는 운영...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미's 픽] "韓서 못푼 한 푼다"…K-보안, 글로벌 시장서 날개 펼칠까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240509161554</link>
+            <guid>https://zdnet.co.kr/view/?no=20240509161554</guid>
+            <pubDate>Fri, 10 May 2024 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[국내 시장에서 한계를 느낀 보안기업들이 글로벌 고객을 공략하기 위해 앞 다퉈 해외 무대로 진출하고 있다. 중동, 일본에 이어 미국 시장에서도 'K-보안'의 우수성을 앞세워 최신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, 러스트 재단 100만 달러 기부]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240510095853</link>
+            <guid>https://zdnet.co.kr/view/?no=20240510095853</guid>
+            <pubDate>Fri, 10 May 2024 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 프로그래밍 언어 러스트의 발전을 위해 100만 달러를 기부했다. 최근 더뉴스택 등 외신에 따르면 러스트 재단의 전무이사이자 최고 경영자인 레베카 럼불 박사는 마...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['AI 후발주자' 애플, 자체 개발 칩 탑재 데이터센터로 연내 AI 기능 구동]]></title>
             <link>https://zdnet.co.kr/view/?no=20240510080438</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240509152240</guid>
             <pubDate>Thu, 09 May 2024 07:12:20 GMT</pubDate>
             <content:encoded><![CDATA[폴라리스오피스(대표 지준경)가 온디바이스 오피스 인공지능(AI) 소프트웨어(SW)를 선보인다. 첫 탑재는 애플 맥(Mac) 운영체제(OS)다. 회사는 "세계 처음"이라고 강조했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업스테이지-플리토, 아시아 다국어 AI모델 함께 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240509151516</link>
-            <guid>https://zdnet.co.kr/view/?no=20240509151516</guid>
-            <pubDate>Thu, 09 May 2024 07:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지(대표 김성훈)가 플리토와 함께 일본어, 태국어 등 데이터가 부족한 아시아 지역 대규모 언어모델을 공동 개발한다. 업스테이지는 플리토와 AI 언어 데이터 구축을 위한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코오롱베니트, 비전AI로 건설현장 사고 막는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240509150838</link>
-            <guid>https://zdnet.co.kr/view/?no=20240509150838</guid>
-            <pubDate>Thu, 09 May 2024 06:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[코오롱베니트(대표 강이구)가 비전AI 기술을 이용해 건설현장의 안전을 감시한다 코오롱베니트는 건설현장의 안전 모니터링에 특화된 비전AI 실증 프로젝트에 착수했다고 9일 밝혔다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['리모트VS' 덕에 신난 알서포트, 1분기 호실적에 '함박웃음']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240509150245</link>
-            <guid>https://zdnet.co.kr/view/?no=20240509150245</guid>
-            <pubDate>Thu, 09 May 2024 06:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[알서포트가 클라우드 기반의 온라인 영상 상담·세일즈 솔루션 '리모트VS(RemoteVS)'의 선전으로 올해 1분기 동안 호실적을 기록했다. 알서포트는 지난 1분기 연결기준 매출...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
