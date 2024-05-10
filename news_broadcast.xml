@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 03:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 04:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신사, AI사업 탄력 받았다…데이터센터 급성장 예고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240510113135</link>
+            <guid>https://zdnet.co.kr/view/?no=20240510113135</guid>
+            <pubDate>Fri, 10 May 2024 04:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[통신 3사 올해 1분기 합산 영업이익 1조2천억원을 넘어섰다. 5G 전환 가입을 통한 무선 사업의 성장이 이어졌고 데이터센터(IDC)를 필두로 B2B 사업이 새로운 수익을 만들...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 갤럭시S23 프리미엄 Y에디션 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240510114408</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240509091245</guid>
             <pubDate>Thu, 09 May 2024 00:43:41 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 대만의 글로벌 XR 솔루션 기업 HTC와 AI XR 버추얼 스튜디오의 글로벌 미디어 사업 확장을 위한 업무협약을 체결했다고 9일 밝혔다. SK T타워에서 8일 오후...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI 성과 가시화...데이터센터·클라우드 매출 날았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240508165252</link>
-            <guid>https://zdnet.co.kr/view/?no=20240508165252</guid>
-            <pubDate>Wed, 08 May 2024 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 데이터센터와 클라우드와 같은 엔터프라이즈 사업의 고공 성장으로 빼어난 수익 실적을 거뒀다. 엔터프라이즈 AI 관련 매출이 빠르게 늘면서 AI 컴퍼니의 면모를 갖췄다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
