@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 07:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 08:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOSA, 사우디 아람코와 디지털 경제 발전 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240512160911</link>
+            <guid>https://zdnet.co.kr/view/?no=20240512160911</guid>
+            <pubDate>Sun, 12 May 2024 08:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 회장 조준희)는 사우디아라비아 소재 글로벌 에너지·화학 기업 아람코(Aramco)와 AI 및 디지털 경제 발전을 위한 양해각서(MOU)를 교환했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[샘 알트먼 "다음 주 GPT-5나 AI검색엔진 공개 없을 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240512123258</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240510105619</guid>
             <pubDate>Fri, 10 May 2024 02:27:24 GMT</pubDate>
             <content:encoded><![CDATA[팔로알토 네트웍스가 최근 급증하는 생성형AI 기반 공격을 차단하기 위한 보안 솔루션을 선보인다. 팔로알토 네트웍스는 스트라타, 프리즈마, 코어텍스 등 프리시전 AI를 적용한 새...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드햇, RHEL용 이미지 모드 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240510103552</link>
-            <guid>https://zdnet.co.kr/view/?no=20240510103552</guid>
-            <pubDate>Fri, 10 May 2024 01:54:34 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇은 플랫폼을 컨테이너 이미지로 제공하는 레드햇 엔터프라이즈 리눅스(RHEL)의 새로운 배포 방식 'RHEL용 이미지 모드'를 출시한다고 10일 밝혔다. 이미지 모드는 운영...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
