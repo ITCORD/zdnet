@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 14:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 15:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스 "HBM4E, 2026년부터 양산"...1년 앞당긴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240513235605</link>
+            <guid>https://zdnet.co.kr/view/?no=20240513235605</guid>
+            <pubDate>Mon, 13 May 2024 15:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 7세대 고대역폭메모리(HBM4E)를 2026년부터 양산한다. HBM4에 이어 HBM4E 또한 양산 시기를 1년 앞당겨 기술 초격차를 이어 나간다는 목표다. 6세대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/19/f65398b89aaccc7226e0fa2dc3a36902-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지능정보산업협회 명칭 한국인공지능산업협회로 변경]]></title>
             <link>https://zdnet.co.kr/view/?no=20240513224515</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240513212409</guid>
             <pubDate>Mon, 13 May 2024 13:11:55 GMT</pubDate>
             <content:encoded><![CDATA[네이버와 소프트뱅크가 '라인야후' 지분매각 협상을 공식화 하면서 라인 한국 임직원들의 고용 불안감이 커지고 있다. 이에 라인의 한국법인인 라인플러스(대표 이은정)가 14일 전직...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2022/06/20/982350747fe08032876e82f990649135-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['선우은숙과 이혼' 이영하 "재혼 생각한 적 없어"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240513173901</guid>
             <pubDate>Mon, 13 May 2024 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[쿠콘(대표 김종현)이 일본 라쿠텐 그룹에 금융기관, 전자화폐, 통신사, 쇼핑몰 등 약 500여 기관의 금융 정보를 제공한다고 13일 밝혔다. 라쿠텐 그룹은 일본 대표 쇼핑몰을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日 평균 보안 알림 2천 개, 담당자 2명의 해결 방안은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513172635</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513172635</guid>
-            <pubDate>Mon, 13 May 2024 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[“하루에 2천 개 이상의 보안 알림이 쏟아지는데 단 2명이서 이를 처리해야 한다. 인공지능(AI)이 위험수준을 분석해 우선순위를 정해주지 않으면 도저히 감당할 수 없는 수준이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
