@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 06:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인피니언, 자동차 터치 센싱 위한 PSoC4 HVMS 제품 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240513142353</link>
+            <guid>https://zdnet.co.kr/view/?no=20240513142353</guid>
+            <pubDate>Mon, 13 May 2024 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[인피니언테크놀로지스는 PSoC 4 HVMS 차량용 마이크로컨트롤러 제품군을 출시한다고 밝혔다. PSoC 4 HVMS 제품은 고전압 기능의 12V 레귤레이터, LIN/CXPI 트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마우저, 아두이노 'AKX00051 PLC 스타터 키트' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240513141023</link>
+            <guid>https://zdnet.co.kr/view/?no=20240513141023</guid>
+            <pubDate>Mon, 13 May 2024 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[마우저 일렉트로닉스는 아두이노(Arduino)의 'AKX00051' PLC(프로그래머블 로직 컨트롤러) 스타터 키트를 공급한다고 13일 밝혔다. 현재 마우저에서 구매할 수 있는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 반도체 장비업계, 올 1분기도 中 매출 의존도 '높음']]></title>
             <link>https://zdnet.co.kr/view/?no=20240513112920</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240509212120</guid>
             <pubDate>Fri, 10 May 2024 00:44:13 GMT</pubDate>
             <content:encoded><![CDATA[차량용 종합 반도체 기업 텔레칩스는 올해 1분기 매출액 454억원, 영업이익 10억2천만원, 당기순손실 61억7천만원을 기록했다고 9일 밝혔다. 매출액은 전기 및 전년 동기와 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, AI 반도체 '마하-1' 4나노 공정 검토...개발인력 충원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240509171525</link>
-            <guid>https://zdnet.co.kr/view/?no=20240509171525</guid>
-            <pubDate>Thu, 09 May 2024 09:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 올 하반기 양산을 목표로 자체 개발하는 AI 반도체 '마하-1'에 4나노(㎚·10억분의 1m) 공정 적용을 검토 중인 것으로 파악된다. 또 오토모티브 반도체 개발 인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·SK·마이크론 'HBM3E' 경쟁, 브로드컴으로 확전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240509150032</link>
-            <guid>https://zdnet.co.kr/view/?no=20240509150032</guid>
-            <pubDate>Thu, 09 May 2024 07:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자, SK하이닉스, 마이크론 등 주요 메모리 기업 간 HBM3E(5세대 HBM) 경쟁이 엔비디아에 이어 브로드컴으로 확전되면서 귀추가 주목되고 있다. 현재 3사의 8단 샘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
