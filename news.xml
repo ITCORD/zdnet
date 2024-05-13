@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 20:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 21:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 우리은행, 제 4인뱅 설립 참여…한국신용데이터와 맞손]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240513215051</link>
+            <guid>https://zdnet.co.kr/view/?no=20240513215051</guid>
+            <pubDate>Mon, 13 May 2024 21:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[우리은행이 한국신용데이터(KCD)가 주도하는 제4인터넷전문은행 컨소시엄에 참여한다. 14일 금융권에 따르면 우리은행이 내부적으로 KCD가 주도하는 제4인터넷전문은행 컨소시엄에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/02/70583896480fb820d271aed8645bcf0e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[병·의원 본인 확인…사진‧주민번호 없는 건강보험증 인정 될까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240513175841</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240513235605</guid>
             <pubDate>Mon, 13 May 2024 15:11:18 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 7세대 고대역폭메모리(HBM4E)를 2026년부터 양산한다. HBM4에 이어 HBM4E 또한 양산 시기를 1년 앞당겨 기술 초격차를 이어 나간다는 목표다. 6세대...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/19/f65398b89aaccc7226e0fa2dc3a36902-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지능정보산업협회 명칭 한국인공지능산업협회로 변경]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240513174107</guid>
             <pubDate>Mon, 13 May 2024 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 전문회사 마브렉스가 필리핀 최대 가상자산거래소 코인스에 MBX 토큰을 상장했다고 13일 밝혔다. 코인스는 필리핀 중앙은행의 라이선스를 취득한 필리핀 최대 규모의 가상자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국게임정책학회, '제3회 게임산업정책 연합 워크숍' 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513173916</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513173916</guid>
-            <pubDate>Mon, 13 May 2024 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[한국게임정책학회(회장 이재홍)는 지난 9일 '제3회 게임산업정책 연합 워크숍'을 제주국제평화센터에서 개최했다고 밝혔다. 올해로 3회를 맞이한 '게임산업정책 연합 워크숍'은 한국...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
