@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 22:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 23:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["수학 가르치고 실시간 통역까지"…오픈AI, 새 챗봇 'GPT-4o' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514071217</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514071217</guid>
+            <pubDate>Mon, 13 May 2024 23:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 새로운 인공지능(AI) 챗봇을 출시했다. 사람처럼 말하고 보고 들을 수 있다. 수학 문제도 풀어주고, 실시간 통역까지 할 수 있다. PC뿐 아니라 모바일로도 이용할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지능정보산업협회 명칭 한국인공지능산업협회로 변경]]></title>
             <link>https://zdnet.co.kr/view/?no=20240513224515</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240513111028</guid>
             <pubDate>Mon, 13 May 2024 02:26:24 GMT</pubDate>
             <content:encoded><![CDATA[레드햇은 퀄컴테크놀로지(퀄컴)와 기술 협력을 통해 소프트웨어 정의 차량(SDV)의 가상 테스트와 배포를 위한 플랫폼을 제공한다고 13일 발표했다. 양사는 이번 협력을 통해 마이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몽고DB, AWS・구글클라우드와 생성형 AI 협력 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513110553</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513110553</guid>
-            <pubDate>Mon, 13 May 2024 02:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[몽고DB는 아마존웹서비스(AWS), 구글 클라우드 등과 협력을 확대한다고 13일 밝혔다 . 몽고DB는 '날리지베이스 포 아마존 베드록'에 '몽고DB 아틀라스 벡터 서치'를 정식...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
