@@ -4,11 +4,51 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 08:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 09:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[고학수 개인정보위원장"日 조사 요청 이례적…답변 방식 검토 중”]]></title>
+            <title><![CDATA[티젠소프트, '멀티미디어 아카이브'로 교육환경 개선]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514172946</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514172946</guid>
+            <pubDate>Tue, 14 May 2024 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[티젠소프트가 자사 '멀티미티어 아카이브' 시스템으로 미래 교육환경을 구현한다. 티젠소프트는 한국교육학술정보원에 멀티미디어콘텐츠 통합관리 아카이브 솔루션을 성공적으로 구축했다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["MS 365 사용자 보안 걱정 끝"…시큐레터, MS 마켓플레이스에 '이것' 내놨다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514173227</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514173227</guid>
+            <pubDate>Tue, 14 May 2024 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[최근 많은 기업이 클라우드 기반 오피스 프로그램 MS 365를 도입하면서 기업 정보를 노리는 공격이 갈수록 고도화되고 있는 가운데 시큐레터가 안전한 환경에서 비즈니스를 수행할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[모니터랩, 중소기업 대상 웹보안 서비스 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514172806</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514172806</guid>
+            <pubDate>Tue, 14 May 2024 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[모니터랩(대표 이광후)이 클라우드 전환을 위한 중소기업에게 웹보안 서비스를 제공한다. 모니터랩은 '2024년 중소기업 클라우드 서비스 보급·확산 사업'의 공급기업으로 선정되었다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원-KISA, 금융 사이버 침해사고 대응 맞손]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514170304</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514170304</guid>
+            <pubDate>Tue, 14 May 2024 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 금융 서비스 관련 사이버 위협 대응을 본격화한다. 금융보안원은 한국인터넷진흥원(KISA)과 손잡고 금융 분야 사이버 침해사고 대응 협력을 위한 업무협약을 체결했다고 14...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[모비젠, 빅데이터 기반으로 무역보험 서비스 혁신 나선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514172103</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514172103</guid>
+            <pubDate>Tue, 14 May 2024 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[모비젠이 빅데이터를 기반으로 한 무역보험 서비스 혁신에 앞장선다. 모비젠은 한국무역보험공사가 발주한 '2024년 무역보험 빅데이터 플랫폼 고도화' 사업을 수주하고 착수보고회를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[개보위 "日 네이버클라우드 조사 요청 이례적…답변 방식 검토 중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240514170217</link>
             <guid>https://zdnet.co.kr/view/?no=20240514170217</guid>
             <pubDate>Tue, 14 May 2024 08:14:35 GMT</pubDate>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240514111504</guid>
             <pubDate>Tue, 14 May 2024 05:11:17 GMT</pubDate>
             <content:encoded><![CDATA[국내 웹툰 제작팀 100여 곳이 라이언로켓의 웹툰 제작 인공지능(AI) 비서 '젠버스'로 만화 제작을 진행할 방침이다. 라이언로켓(대표 정승환)은 지난 4월 약 3주간 진행한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터스트림즈, 감염병 분야 빅데이터 플랫폼 구축 3차사업 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514115426</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514115426</guid>
-            <pubDate>Tue, 14 May 2024 03:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)가 '감염병 분야 빅데이터 플랫폼 및 센터 구축 사업'의 3차연도 착수보고회를 개최했다. 행사는 지난 10일 서울 성북구에 위치한 한국과학기술연구원(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['분기 첫 흑자' 낸 메가존클라우드, IPO 추진 '청신호'…해외 주관사도 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514114501</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514114501</guid>
-            <pubDate>Tue, 14 May 2024 03:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[국내 클라우드 관리 서비스 사업자(MSP) 업계 최초로 유니콘 기업에 오른 메가존클라우드가 올해 1분기에 당기순익 첫 흑자 달성에 성공했다. 연간 기준 흑자 전환에 대한 기대감...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 활용 역량이 더 많은 직업의 기회를 만든다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514114611</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514114611</guid>
-            <pubDate>Tue, 14 May 2024 03:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[전세계 근로자 4명 중 3명이 직장에서 인공지능(AI)을 업무에 활용중인 것으로 조사됐다. 직원은 회사의 준비를 기다리지 않고 AI를 이미 활발하게 사용하는 반면, AI를 어떻...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오픈AI·미스트랄, 한 판 붙자"…'아마존 픽' 앤트로픽, 유럽서 '클로드'로 승부수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514101532</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514101532</guid>
-            <pubDate>Tue, 14 May 2024 02:23:16 GMT</pubDate>
-            <content:encoded><![CDATA['오픈AI 라이벌'로 불리는 앤트로픽이 '챗GPT'에 맞서 유럽에서도 생성형 인공지능(AI) 챗봇 '클로드(Claude)'를 선보이며 수익 확대에 본격 나선다. 14일 블룸버그...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미's 픽] "日·동남아에도 돈 몰리는데"…데이터센터 투자 경쟁서 韓 '찬밥']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514100327</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514100327</guid>
-            <pubDate>Tue, 14 May 2024 02:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 생성형 인공지능(AI) 시장이 빠른 속도로 성장하면서 한국을 제외한 해외 곳곳에서 빅테크들의 데이터센터 확보 경쟁이 점차 치열해지고 있다. 오픈AI의 챗GPT 같은 거대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
