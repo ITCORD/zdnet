@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 00:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 01:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기본도 못 갖췄다" MS, C# 개발도구...개발자 비판]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514103656</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514103656</guid>
+            <pubDate>Tue, 14 May 2024 01:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 지난해 출시한 C# 개발도구(C# Dev Kit)가 낮은성능으로 오히려 개발에 악영향을 미쳐 비판받고 있다. 13일(현지시간) 데브클래스 등 외신에 따르면 C#...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우데라, 레드햇 오픈시프트용 쿠버네티스 오퍼레이터 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514103849</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514103849</guid>
+            <pubDate>Tue, 14 May 2024 01:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[클라우데라는 데이터 인 모션을 지원하는 쿠버네티스 오퍼레이터를 올해 2분기에 출시한다고 14일 발표했다. 쿠버네티스 오퍼레이터는 레드햇 오픈시프트와 같은 쿠버네티스 애플리케이션...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클, OCI '레드햇 오픈시프트' 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514103619</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514103619</guid>
+            <pubDate>Tue, 14 May 2024 01:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 '오라클 클라우드 인프라스트럭처(OCI) 컴퓨트 가상머신(VM) 기반 레드햇 오픈시프트' 를 정식 출시한다고 14일 발표했다. 레드햇 오픈시프트는 쿠버네티스 기반 클라...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가비아-서울시50플러스재단, IT 시니어 정규직 채용]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514103003</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514103003</guid>
+            <pubDate>Tue, 14 May 2024 01:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[가비아(대표 김홍국)는 서울시50플러스재단과 함께 중장년 직원을 상시 채용한다고 14일 밝혔다. 고용 형태는 정규직이며, 채용 규모는 두 자릿수다. 서울시50플러스재단은 서울특...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 제온 기반 '오로라' 슈퍼컴, 세계서 가장 빠른 AI 성능 달성]]></title>
             <link>https://zdnet.co.kr/view/?no=20240514085018</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240513131116</guid>
             <pubDate>Mon, 13 May 2024 04:14:18 GMT</pubDate>
             <content:encoded><![CDATA[“와탭랩스는 세계적으로 차별화되는 기술력을 가지고 있다고 자부한다. 이를 바탕으로 2027년내에 아시아 1위 IT모니터링 기업을 달성하겠다.” 이동인 와탭랩스 대표는 13일 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["세계적 AI연구 거점 신설"···2028년까지 360억 투입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513110709</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513110709</guid>
-            <pubDate>Mon, 13 May 2024 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[과기정통부가 대한민국을 대표하는 세계적 AI연구를 수행하는 기관을 새로 선정, 지원한다. 13일 과기정통부는 올해부터 오는 2028년까지 국비 360억원을 투입해 최고 수준 국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[유미's 픽] 'AI 기업' 꿈꾸는 한컴, 김연수 매직 통했다…1Q 실적 '굿']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513112154</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513112154</guid>
-            <pubDate>Mon, 13 May 2024 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[오너일가 2세인 김연수 한글과컴퓨터 대표가 글로벌 인공지능(AI) 기업으로 도약하기 위한 발판 마련에 한 걸음 더 다가선 분위기다. 클라우드 및 웹기반 제품군의 호조에 힘입어 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["하이퍼클로바X, 어떻게 활용할까"…네이버클라우드, 세미나 통해 '해법' 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513114510</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513114510</guid>
-            <pubDate>Mon, 13 May 2024 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[네이버의 초대규모 AI '하이퍼클로바X(HyperCLOVA X)'를 실제 도입한 기업의 사례를 소개하고 기업들의 생성형 AI 도입에 필요한 방안을 제시하는 자리가 마련된다. 네...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴라이프케어, 1년 새 적자 폭 '확' 줄었다…매각 '청신호']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513113326</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513113326</guid>
-            <pubDate>Mon, 13 May 2024 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터 자회사인 한컴라이프케어가 실적 턴어라운드를 시작하며 매각에 '청신호'가 켜졌다. 한컴라이프케어는 올해 1분기 연결기준 매출액이 전년 동기 대비 58.2% 늘어난 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
