@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 23:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 00:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍콩 대학에 등장한 아인슈타인 'AI 강사']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514014030</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514014030</guid>
+            <pubDate>Tue, 14 May 2024 00:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩의 대학에서 유명인의 모습을 한 인공지능(AI) 강사가 등장해 화제가 되고 있다. 13일 중국 언론 신징바오에 따르면 홍콩과기대학이 생성형 AI 툴을 이용해 10명의 AI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美·中 정부 'AI 리스크' 첫 회동]]></title>
             <link>https://zdnet.co.kr/view/?no=20240514013606</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240511102629</guid>
             <pubDate>Sat, 11 May 2024 01:48:17 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 숏폼 동영상 플랫폼 틱톡이 최근 타사 플랫폼에서 제작된 AI 생성 콘텐츠(AI-generated content, AIGC)에도 자동으로 'AI 생성' 라벨을 붙이는 정책...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어도어, 31일 임시 주총….하이브와 공방 지속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240510181207</link>
-            <guid>https://zdnet.co.kr/view/?no=20240510181207</guid>
-            <pubDate>Fri, 10 May 2024 10:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[최대주주 하이브와 공방을 벌이고 있는 어도어가 31일 임시주주총회를 연다. 어도어 측은 10일 이사회를 열고 "오늘 이사회는 감사를 포함한 구성원 전원이 참석해 5월 31일 임...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
