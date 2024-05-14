@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 12:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 13:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 클로이 로봇에 구글 '제미나이' 탑재한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514220830</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514220830</guid>
+            <pubDate>Tue, 14 May 2024 13:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자가 구글의 생성형 인공지능(AI) '제미나이'가 탑재된 로봇 '클로이'를 내달 공개한다. 14일 업계에 따르면 LG전자는 오는 6월 27일 열리는 '구글 클라우드 서밋 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/01/05/eb9f0e14f5425415a02121036e517a7e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기관용 CBDC 활용 국경 간 결제 프로젝트, 금융사 참가 모집]]></title>
             <link>https://zdnet.co.kr/view/?no=20240514180853</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240514205605</guid>
             <pubDate>Tue, 14 May 2024 12:18:53 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론은 올 1분기에 매출 30.2억원, 영업이익 7.5억원을 각각 기록했다고 10일 전자공시시스템(DART)에 공시했다고 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/14/36767912a9c26337987737f9ad8886ad-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["보이스피싱인 줄 알았는데…" 배우 김지석 미담 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240514172806</guid>
             <pubDate>Tue, 14 May 2024 09:11:10 GMT</pubDate>
             <content:encoded><![CDATA[모니터랩(대표 이광후)이 클라우드 전환을 위한 중소기업에게 웹보안 서비스를 제공한다. 모니터랩은 '2024년 중소기업 클라우드 서비스 보급·확산 사업'의 공급기업으로 선정되었다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 제4이통 스테이지엑스 제출 서류 추가검토]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514172656</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514172656</guid>
-            <pubDate>Tue, 14 May 2024 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부가 제4이동통신사 등록 절차를 진행 중인 스테이지엑스에 주파수할당 필요사항을 이행하고 증명하는 내용의 서류를 추가로 제출토록 요청했다고 14일 밝혔다. 과기정통...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
