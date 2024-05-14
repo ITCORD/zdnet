@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 01:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 02:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["메타, 카메라 장착 AI 이어폰 개발 중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240514103356</link>
+            <guid>https://zdnet.co.kr/view/?no=20240514103356</guid>
+            <pubDate>Tue, 14 May 2024 02:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[메타 플랫폼이 카메라를 이용해 인공지능(AI) 기술로 구동되는 이어폰을 개발 중이라는 소식이 나왔다. IT매체 디인포메이션은 13일(현지시간) 메타 직원 3명을 인용해 메타가 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, iOS 17.5 출시...눈에 띄는 신기능은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240514093428</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240513080842</guid>
             <pubDate>Mon, 13 May 2024 00:45:07 GMT</pubDate>
             <content:encoded><![CDATA[애플이 생성형 인공지능(AI) 챗GPT를 아이폰에 탑재하기 위해 오픈AI와 협상을 진행하고 있다고 블룸버그통신이 11일(현지시간) 소식통을 인용해 보도했다. 보도에 따르면, 현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세라젬, KLPGA 황유민 프로 공식 후원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240513084455</link>
-            <guid>https://zdnet.co.kr/view/?no=20240513084455</guid>
-            <pubDate>Mon, 13 May 2024 00:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 세라젬은 올해 한국여자프로골프(KLPGA) 국내 개막전 우승을 차지한 황유민 프로와 공식 후원 협약을 체결했다고 13일 밝혔다. 작년 KLPGA에 입단한 황유...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
