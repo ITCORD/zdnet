@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 13:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 14:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기업경쟁력, LLM 도입보다 데이터 활용이 더 중요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240516230038</link>
+            <guid>https://zdnet.co.kr/view/?no=20240516230038</guid>
+            <pubDate>Thu, 16 May 2024 14:10:47 GMT</pubDate>
+            <content:encoded><![CDATA["오는 22일 강연에서는 생성AI(Generative AI)를 이용해 기업이 어떤 방식으로 직원 창의성과 생산성을 높이거나 도울 수 있는 지 말하려 합니다." 이건복 한국마이크...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/28/3c8f06228adac3988e18ef70df9f864c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차승원·유해진, '삼시세끼'로 재회할까… tvN "확정된 부분 없다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240516204353</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240516204317</guid>
             <pubDate>Thu, 16 May 2024 12:19:12 GMT</pubDate>
             <content:encoded><![CDATA[방송인 노홍철이 가족과의 일상을 공개했다. 노홍철은 15일 자신의 유튜브 채널에 '노홍철 엄마,아빠,형 총출동 효도여행 (유전자의 힘)'이라는 제목의 영상을 공개했다. 영상에서...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/16/enter09dba5094ed1781b8fcfb36f77951107-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경찰 '뺑소니 의혹' 김호중 자택·소속사 압수수색]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240516171222</guid>
             <pubDate>Thu, 16 May 2024 09:09:55 GMT</pubDate>
             <content:encoded><![CDATA[전해액 전문 기업 엔켐은 올해 1분기 연결기준으로 매출 781억원, 영업손실 118억원, 당기순손실 2천986억원을 기록했다고 16일 공시했다. 전년 동기 대비 매출은 46.3...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코오롱, 1분기 영업익 234억원 전년비 47.6%↓]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240516171921</link>
-            <guid>https://zdnet.co.kr/view/?no=20240516171921</guid>
-            <pubDate>Thu, 16 May 2024 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[㈜코오롱이 계열사의 전반적인 부진으로 부진한 실적을 기록했다. 코오롱은 16일 올해 1분기 매출 1조 3천970억원, 영업이익 243억원, 당기순손실 61억원을 기록했다고 공시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
