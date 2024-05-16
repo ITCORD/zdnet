@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 08:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 09:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠로, 1분기 영업익 전년比 92%↓…매출은2.4%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240516164432</link>
+            <guid>https://zdnet.co.kr/view/?no=20240516164432</guid>
+            <pubDate>Thu, 16 May 2024 09:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[엠로(대표 송재민)가 솔루션 사업 투자와 연구개발비 확대로 올해 1분기 영업익이 줄었다. 매출액은 소폭 상승했다. 엠로는 연결 재무제표 기준 올해 1분기 영업익 3천1백만원, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쌍용정보통신, 1분기 SI사업 감소로 전년比 36% 매출 '↓']]></title>
             <link>https://zdnet.co.kr/view/?no=20240516165107</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240516131941</guid>
             <pubDate>Thu, 16 May 2024 05:11:54 GMT</pubDate>
             <content:encoded><![CDATA["아마존웹서비스(AWS) 고객은 아마존 베드록으로 최신 거대언어모델(LLM)을 즉각적으로 경험할 수 있다. 또한 다양한 추가 옵션을 통해 새로운 애플리케이션을 효율적으로 구축할...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["한국은 어떤 마법을 만들고 싶습니까?"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240516122012</link>
-            <guid>https://zdnet.co.kr/view/?no=20240516122012</guid>
-            <pubDate>Thu, 16 May 2024 05:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[“생성형 AI 덕분에 한국에서 더 이상 빌더가 되기 이보다 더 좋은 시기는 없었다. 여러분이 오늘 발명하는 모든게 전세계에 영향 미칠 것이다. 한국은 어떤 마법을 만들고자 하느...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
