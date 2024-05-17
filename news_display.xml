@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 05:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 06:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·SK, 차세대 HBM4 경쟁력 승부처 '1c D램' 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240517100833</link>
+            <guid>https://zdnet.co.kr/view/?no=20240517100833</guid>
+            <pubDate>Fri, 17 May 2024 06:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[이르면 내년부터 양산이 시작되는 HBM4(6세대 고대역폭메모리)에 대한 기술 경쟁이 뜨겁다. 삼성전자가 최근 HBM4에 탑재될 D램을 한 세대 진화된 제품으로 변경하는 방안을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성·SK, 반도체 호황에도 재고자산 증가…충당금 환입 영향]]></title>
             <link>https://zdnet.co.kr/view/?no=20240517100853</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240515091537</guid>
             <pubDate>Wed, 15 May 2024 01:56:09 GMT</pubDate>
             <content:encoded><![CDATA[LG디스플레이는 14일(현지시간) 미국 새너제이 맥에너리컨벤션센터에서 개막한 세계 최대 디스플레이 전시회 'SID 2024'에서 '더 나은 미래'를 주제로 차세대 OLED 신기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 데이터센터 GPU 맥스 단종 절차 돌입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240515080844</link>
-            <guid>https://zdnet.co.kr/view/?no=20240515080844</guid>
-            <pubDate>Wed, 15 May 2024 00:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 2022년 11월 출시한 '데이터센터 GPU 맥스'(폰테베키오) 단종 절차에 들어갔다. 데이터센터와 슈퍼컴퓨터 등 기존 도입 계약을 맺은 고객사에는 계속 공급하지만 신규...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
