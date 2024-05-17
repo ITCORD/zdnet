@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 09:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 10:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS, 74%에 달하는 개발 중 반복 업무 해결 방안은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240517184230</link>
+            <guid>https://zdnet.co.kr/view/?no=20240517184230</guid>
+            <pubDate>Fri, 17 May 2024 10:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[“가트너에 따르면 개발 과정에서 24%만이 창의적인 생각과 업무에 사용된다. 나머지는 버그를 찾아 해결하고 앱을 배포하는 등의 부가적인 업무에 소비된다. 아마존웹서비스(AWS)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[실적 발표 앞둔 엔비디아, 주가 더 오를까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240517150014</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240516163049</guid>
             <pubDate>Thu, 16 May 2024 08:11:23 GMT</pubDate>
             <content:encoded><![CDATA[주니퍼네트웍스는 유무선 액세스 솔루션인 AI 네이티브 네트워킹 플랫폼에 선제적 인사이트와 자동화를 향상시키는 강력한 최신 기능을 추가했다고 16일 발표했다. 클라우드에서 제공되...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델, CSP와 엣지 위한 파워엣지 서버 신모델 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240516162257</link>
-            <guid>https://zdnet.co.kr/view/?no=20240516162257</guid>
-            <pubDate>Thu, 16 May 2024 08:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[델테크놀로지스는 클라우드 서비스 사업자(CSP)를 위한 서버 신제품 2종과 및 엣지 워크로드를 위한 컴팩트한 구성의 신제품 2종을 16일 발표했다. 델이 이번에 파워엣지 서버 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
