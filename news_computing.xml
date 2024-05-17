@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 08:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실적 발표 앞둔 엔비디아, 주가 더 오를까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240517150014</link>
+            <guid>https://zdnet.co.kr/view/?no=20240517150014</guid>
+            <pubDate>Fri, 17 May 2024 08:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[오는 22일(이하 현지시간) 실적 발표를 앞두고 있는 '인공지능(AI) 우량주' 엔비디아의 주가에 대해 긍정적인 전망이 제기됐다. 미국 투자전문매체 더모틀리풀은 엔비디아의 향후...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시큐센, 1분기 영업손실 13억…금융DX 사업 개편 여파]]></title>
             <link>https://zdnet.co.kr/view/?no=20240517153724</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240516162257</guid>
             <pubDate>Thu, 16 May 2024 08:11:23 GMT</pubDate>
             <content:encoded><![CDATA[델테크놀로지스는 클라우드 서비스 사업자(CSP)를 위한 서버 신제품 2종과 및 엣지 워크로드를 위한 컴팩트한 구성의 신제품 2종을 16일 발표했다. 델이 이번에 파워엣지 서버 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스노우플레이크 "AI 개발자 일 평균 90개 앱 개발”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240516161903</link>
-            <guid>https://zdnet.co.kr/view/?no=20240516161903</guid>
-            <pubDate>Thu, 16 May 2024 08:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[스노우플레이크는 대규모언어모델(LLM) 앱 중 챗봇 비중이 지난해 5월 대비 46%까지 증가했다고 16일 밝혔다. 스노우플레이크는 9천 개 이상 고객을 대상으로 데이터 및 AI...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
