@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 18:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 19:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 '윈도 PC' 아니라 '코파일럿+PC']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521040156</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521040156</guid>
+            <pubDate>Mon, 20 May 2024 19:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 윈도 PC의 새로운 카테고리인 '코파일럿 플러스 PC'를 발표했다. 마이크로소프트는 생성형 AI를 중심으로 PC 플랫폼을 완전히 새롭게 구성했다고 강조했다. 마...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/21/fe7c51282840e2942788a14c0cfb75d5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중기부, 우주·항공 등 초격차 스타트업 본격 육성]]></title>
             <link>https://zdnet.co.kr/view/?no=20240520234017</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240520151020</guid>
             <pubDate>Mon, 20 May 2024 15:10:55 GMT</pubDate>
             <content:encoded><![CDATA[요양 서비스 스타트업 케어링이 시니어 생활양식 플랫폼 '오뉴' 운영사 로쉬코리아와 업무협약을 맺고 시니어 주거 공동체와 연계를 위한 시니어 특화 여가 콘텐츠 개발에 나선다고 2...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/20/0841b59d0c7fc2aa2148d7fc4796dfa8-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI전략최고위협의회 산하 R&D분과 첫 회의 개최]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240520110024</guid>
             <pubDate>Mon, 20 May 2024 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[전기차 '캐즘'(대중화 전 수요 정체기)을 맞은 완성차 업체들이 다른 생존법을 택하고 있다. 투자를 줄이며 보수적인 접근을 취하거나, 오히려 투자를 늘리는 과감한 전략을 택하는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트 "5월 셋째 주 가상자산 시장...UBMI 지수 반등세"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240520163118</link>
-            <guid>https://zdnet.co.kr/view/?no=20240520163118</guid>
-            <pubDate>Mon, 20 May 2024 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[가상자산 거래소 업비트가 5월 셋째 주(5월 13일~5월 19일) 업비트 디지털 자산 지수(UBCI) 리포트를 발간했다. UBCI는 업비트 원화 마켓의 모든 가상자산이 반영된 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
