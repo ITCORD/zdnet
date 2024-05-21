@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 20:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 21:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디스플레이용 '마이크로 LED 검사장비' 국제 표준으로 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521170615</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521170615</guid>
+            <pubDate>Tue, 21 May 2024 21:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 디스플레이의 핵심부품으로 평가되는 마이크로 엘이디(Micro LED, 초소형 발광 다이오드) 소자의 검사장비 기술이 국제표준으로 추진된다. 산업통상자원부 국가기술표준원(...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/21/c7a84d7891b02746836e410ebfd4b80c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[델, 빠르고 안전한 AI 기반 구축 '델 AI 팩토리' 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20240522041000</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240522020142</guid>
             <pubDate>Tue, 21 May 2024 17:09:39 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 코파일럿이 윈도 운영체제(OS)의 소프트웨어 스택에 들어갔다. 윈도 애플리케이션 계층에 '코파일럿 런타임'이란 AI 전용 라이브러리가 포함돼, 개발자는 자신의 윈...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/22/d91a458897c0d89e4ebfa8c647ac9309-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 자체 Arm CPU 기반 '코발트 VM' 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240521174215</guid>
             <pubDate>Tue, 21 May 2024 09:11:29 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 최근 연속해 발생한 카카오톡 장애에 대해 21일 긴급 현장점검에 착수했다고 밝혔다. 과기정통부는 소프트웨어, 네트워크 등 관련 분야 전문가와 함께 현장 조사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아스펜테크, 아람코와 온실가스 배출 완화 기술 투자 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521173354</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521173354</guid>
-            <pubDate>Tue, 21 May 2024 09:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[아스펜테크가 기업들의 온실가스 배출 완화 기술에 투자를 유도하기 위한 지원에 나선다. 아스펜테크 코리아(대표 김흥식)는 '지속가능성 경로를 위한 아스펜테크 전략 계획을 발표했다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

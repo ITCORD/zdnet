@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 20:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 21:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디스플레이용 '마이크로 LED 검사장비' 국제 표준으로 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521170615</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521170615</guid>
+            <pubDate>Tue, 21 May 2024 21:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 디스플레이의 핵심부품으로 평가되는 마이크로 엘이디(Micro LED, 초소형 발광 다이오드) 소자의 검사장비 기술이 국제표준으로 추진된다. 산업통상자원부 국가기술표준원(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 최대 16코어 서버용 프로세서 '에픽 4004' 시리즈 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240521175459</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240520084145</guid>
             <pubDate>Mon, 20 May 2024 00:45:02 GMT</pubDate>
             <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어의 지멘스 EDA 사업부는 '반도체 교육 연합(Semiconductor Education Alliance)'에 가입했다고 20일 발표했다. 반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네패스, AI 반도체용 패키징 기술 'PoP' 상용화 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240519162339</link>
-            <guid>https://zdnet.co.kr/view/?no=20240519162339</guid>
-            <pubDate>Mon, 20 May 2024 00:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[네패스는 인공지능(AI) 및 첨단 반도체에 필요한 차세대 패키징 기술 PoP(Package on Package)를 국내외 칩 제조사들과의 협력으로 개발하고 있다고 20일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
