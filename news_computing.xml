@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 16:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 17:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS 코파일럿 스택, 윈도용 앱 개발에 API로 끌어와 쓴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240522020142</link>
+            <guid>https://zdnet.co.kr/view/?no=20240522020142</guid>
+            <pubDate>Tue, 21 May 2024 17:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 코파일럿이 윈도 운영체제(OS)의 소프트웨어 스택에 들어갔다. 윈도 애플리케이션 계층에 '코파일럿 런타임'이란 AI 전용 라이브러리가 포함돼, 개발자는 자신의 윈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 자체 Arm CPU 기반 '코발트 VM' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240521224930</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240521103915</guid>
             <pubDate>Tue, 21 May 2024 03:11:43 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA)이 도메인이름 분쟁조정정책, 도메인이름 분쟁조정 관련 법적·기술적 동향 및 정책 개선방안 등을 공유하는 장을 마련한다. KISA는 오는 30일부터 양일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['MS 파트너' 티디지, '코파일럿' 효과적 활용 방안 소개한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521105941</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521105941</guid>
-            <pubDate>Tue, 21 May 2024 02:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[AI 전문기업 라온피플의 자회사인 티디지(TDG)가 '마이크로소프트 365'와 '코파일럿'의 효과적 활용법 등 고객사 경쟁력 강화를 위한 웨비나를 개최한다. 마이크로소프트 클라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
