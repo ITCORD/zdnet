@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 12:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 13:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 최대 16코어 서버용 프로세서 '에픽 4004' 시리즈 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521175459</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521175459</guid>
+            <pubDate>Tue, 21 May 2024 13:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 중소기업과 호스팅 기반 IT 서비스 업체를 겨냥한 서버용 프로세서 '에픽(EPYC) 4004' 시리즈를 출시했다. AMD는 2019년부터 데스크톱PC용 라이젠 프로세서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "하반기 QLC 낸드 개발...AI 시장 대응"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240521155215</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240519162339</guid>
             <pubDate>Mon, 20 May 2024 00:45:02 GMT</pubDate>
             <content:encoded><![CDATA[네패스는 인공지능(AI) 및 첨단 반도체에 필요한 차세대 패키징 기술 PoP(Package on Package)를 국내외 칩 제조사들과의 협력으로 개발하고 있다고 20일 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국전파진흥협회·텔레칩스, 차량용 반도체 임베디드 스쿨 1기 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240520084259</link>
-            <guid>https://zdnet.co.kr/view/?no=20240520084259</guid>
-            <pubDate>Mon, 20 May 2024 00:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[한국전파진흥협회(RAPA)는 실무형 반도체 임베디드 SW 전문인력 양성을 위한 '텔레칩스 차량용 반도체 임베디드 스쿨' 클래스메이트를 모집한다고 20일 밝혔다. 텔레칩스 차량용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
