@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 22:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 23:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[델, 엔비디아 블랙웰 GPU 8개 탑재 4U 서버 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240522074520</link>
+            <guid>https://zdnet.co.kr/view/?no=20240522074520</guid>
+            <pubDate>Tue, 21 May 2024 23:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 델테크놀로지스가 엔비디아와의 협력을 확대하며, 엔비디아 블랙웰 GPU를 한 랙에 최대 72개 장착할 수 있는 파워엣지 서버 신제품을 공개했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[델, 빠르고 안전한 AI 기반 구축 '델 AI 팩토리' 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20240522041000</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240520131928</guid>
             <pubDate>Tue, 21 May 2024 05:11:12 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아는 창간 24주년을 맞아 윤석열 정부 정책 2년을 평가했습니다. 전년과 마찬가지로 통신·플랫폼·로봇·금융·반도체·SW·AI·자동차·배터리 디지털헬스케어·게임 등의 분...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개발원, 지자체 AI활용 사례 소개 온라인 세미나 30일 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521122733</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521122733</guid>
-            <pubDate>Tue, 21 May 2024 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[한국지역정보개발원(이하 개발원)은 30일 오후 2시 독일 프리드리히 나우만재단과 공동으로 제2회 온라인 정기세미나를 개최한다. 이번 세미나는 초거대AI 지원 사업 및 지자체 A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
