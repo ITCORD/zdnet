@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 15:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 16:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 자체 Arm CPU 기반 '코발트 VM' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521224930</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521224930</guid>
+            <pubDate>Tue, 21 May 2024 16:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 자세 설계한 Arm 기반 CPU '애저 코발트100'에서 구동되는 '코발트 VM'을 출시했다. 21일(현지시간) 마이크로소프트는 미국 시애틀에서 개최된 연례 개...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, '깃허브 코파일럿 익스텐션' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521225229</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521225229</guid>
+            <pubDate>Tue, 21 May 2024 16:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브 코파일럿이 익스텐션 기능을 달고 워크플로우 통합 범위를 확장한다. 마이크로소프트는 21일(현지시간) 미국 시애틀에서 개최한 연례 개발자 컨퍼런스 '마이크로소프트 빌드 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트 코파일럿, 개인용에서 팀 도우미로 진화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521225443</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521225443</guid>
+            <pubDate>Tue, 21 May 2024 16:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 생성형 인공지능(AI) 기반 도구인 '마이크로소프트 코파일럿'을 팀 단위에서 함께 이용할 수 있게 됐다. 마이크로소프트는 21일(현지시간) 개최한 연례 개발자 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EU, 세계 첫 'AI법' 확정…이사회 최종 승인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240521222654</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240521105941</guid>
             <pubDate>Tue, 21 May 2024 02:24:11 GMT</pubDate>
             <content:encoded><![CDATA[AI 전문기업 라온피플의 자회사인 티디지(TDG)가 '마이크로소프트 365'와 '코파일럿'의 효과적 활용법 등 고객사 경쟁력 강화를 위한 웨비나를 개최한다. 마이크로소프트 클라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포티넷코리아, AI기반 차세대 통합 보안 전략 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521103629</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521103629</guid>
-            <pubDate>Tue, 21 May 2024 01:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[포티넷 코리아(조원균 대표)가 28일 인공지능(AI) 기반의 차세대 통합 보안 전략을 소개한다. 포티넷 코리아는 고객 및 사용자 대상 연례 컨퍼런스인 '포티넷 액셀러레이트(Ac...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팔로알토 네트웍스, SOC 플랫폼 '코어텍스 XSIAM' 기계학습 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521103407</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521103407</guid>
-            <pubDate>Tue, 21 May 2024 01:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[팔로알토 네트웍스가 보안 운영 플랫폼 '코어텍스 XSIAM'에 기계학습 모델을 통합한 신버전을 출시했다. 팔로알토 네트웍스는 자체적으로 보유한 써드파티 EDR 데이터를 원활하게...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[회사 탕비실 간식도 AI로 관리…다우오피스, '이것' 앞세워 직원 입맛 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521102527</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521102527</guid>
-            <pubDate>Tue, 21 May 2024 01:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 탕비실을 운영하는 경영지원 담당자의 업무 부담이 다소 줄어들 것으로 보인다. 다우기술에서 제공하는 올인원 업무플랫폼 다우오피스는 맞춤형 사내 스낵바 '오피스 간식' 서비...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

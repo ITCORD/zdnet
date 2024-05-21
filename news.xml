@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 15:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 16:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 자체 Arm CPU 기반 '코발트 VM' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521224930</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521224930</guid>
+            <pubDate>Tue, 21 May 2024 16:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 자세 설계한 Arm 기반 CPU '애저 코발트100'에서 구동되는 '코발트 VM'을 출시했다. 21일(현지시간) 마이크로소프트는 미국 시애틀에서 개최된 연례 개...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/11/16/213d87d8732eed8aa1cf4c15e5dbd94e-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, '깃허브 코파일럿 익스텐션' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521225229</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521225229</guid>
+            <pubDate>Tue, 21 May 2024 16:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브 코파일럿이 익스텐션 기능을 달고 워크플로우 통합 범위를 확장한다. 마이크로소프트는 21일(현지시간) 미국 시애틀에서 개최한 연례 개발자 컨퍼런스 '마이크로소프트 빌드 2...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/20/24626bcb8917122f9a9cf5ae0d319841-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트 코파일럿, 개인용에서 팀 도우미로 진화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240521225443</link>
+            <guid>https://zdnet.co.kr/view/?no=20240521225443</guid>
+            <pubDate>Tue, 21 May 2024 16:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 생성형 인공지능(AI) 기반 도구인 '마이크로소프트 코파일럿'을 팀 단위에서 함께 이용할 수 있게 됐다. 마이크로소프트는 21일(현지시간) 개최한 연례 개발자 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EU, 세계 첫 'AI법' 확정…이사회 최종 승인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240521222654</link>
             <guid>https://zdnet.co.kr/view/?no=20240521222654</guid>
             <pubDate>Tue, 21 May 2024 14:09:13 GMT</pubDate>
             <content:encoded><![CDATA[세계 첫 인공지능(AI) 규제법으로 관심을 모으고 있는 유럽연합(EU)의 AI법이 마침내 최종 확정됐다. 유럽이사회는 21일(현지시간) AI법을 최종 승인했다고 테크크런치를 비...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/06/24/pym_iTP5kKAfKqOPcTFG-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AMD, 최대 16코어 서버용 프로세서 '에픽 4004' 시리즈 출시]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240521175459</guid>
             <pubDate>Tue, 21 May 2024 13:12:28 GMT</pubDate>
             <content:encoded><![CDATA[AMD가 중소기업과 호스팅 기반 IT 서비스 업체를 겨냥한 서버용 프로세서 '에픽(EPYC) 4004' 시리즈를 출시했다. AMD는 2019년부터 데스크톱PC용 라이젠 프로세서...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/21/77fbab2fa71978a15b317a49ee53794f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국바른채용인증원, 채용전문면접관 2급 자격과정 개최]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240521172256</guid>
             <pubDate>Tue, 21 May 2024 09:11:29 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처는 경찰청‧지방자치단체와 함께 의료용 마약류의 처방·사용에 대한 불법취급을 예방하고자 요양병원 등 의료기관 18개소에 대한 기획합동점검을 21일부터 31일까지 실...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['젬퍼리주' 사용기한과 제조번호 바뀌어 기재한 GSK, 과징금 부과]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521171855</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521171855</guid>
-            <pubDate>Tue, 21 May 2024 09:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[식품의약품안전처가 글락소스미스클라인(GSK) '젬퍼리주'(도스탈리맙)에 대해 과징금 98만원을 부과(납부기한 5월31일까지)했다. 이번 처분은 의약품 '젬퍼리주'(제조번호:20...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日 토요타, 韓 기업 덕에 AI로 자동차 생산 효율성 높였다…어디길래?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521171754</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521171754</guid>
-            <pubDate>Tue, 21 May 2024 09:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[비전 AI 올인원 솔루션 기업 슈퍼브에이아이가 인공지능(AI) 전환을 노리는 일본 기업 공략에 나섰다. 슈퍼브에이아이는 최근 최대 자동차 기업 토요타에 '슈퍼브 플랫폼'을 공급...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구리 가격 역대 최고…동박업계 "영향 미미" 왜?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521115602</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521115602</guid>
-            <pubDate>Tue, 21 May 2024 09:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[구리 가격이 급등하는 가운데, 구리가 주요 원자재인 동박 산업에 미칠 여파가 주목된다. 동박업계는 구리 시장을 예의주시하고 있으나, 사업에 큰 영향은 없다는 게 대체적 관측이다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
