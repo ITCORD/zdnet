@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 22:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 23:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기업 LLM 도입, 가장 큰 장애는 내부역량"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240523073811</link>
+            <guid>https://zdnet.co.kr/view/?no=20240523073811</guid>
+            <pubDate>Wed, 22 May 2024 23:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[미국 마이크로소프트(MS)가 인공지능(AI)을 활용한 새로운 서비스와 제품을 21일(현지시각) 열린 자사 개발자 회의 '빌드(Build)'에서 50종 이상 공개, AI시장 확대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[킨드릴, 엔비디아 AI 플랫폼 통합 지원한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240522175606</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240522041000</guid>
             <pubDate>Tue, 21 May 2024 20:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=김우용 기자] 델테크놀로지스는 21일(현지시간) 개최한 '델테크놀로지스월드(DTW) 2024' 행사에서 디바이스, 데이터센터, 클라우드에 걸쳐 광범위한 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 코파일럿 스택, 윈도용 앱 개발에 API로 끌어와 쓴다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240522020142</link>
-            <guid>https://zdnet.co.kr/view/?no=20240522020142</guid>
-            <pubDate>Tue, 21 May 2024 17:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 코파일럿이 윈도 운영체제(OS)의 소프트웨어 스택에 들어갔다. 윈도 애플리케이션 계층에 '코파일럿 런타임'이란 AI 전용 라이브러리가 포함돼, 개발자는 자신의 윈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
