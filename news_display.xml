@@ -4,11 +4,35 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 00:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 01:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[엔비디아, 1분기 또 깜짝 실적…10대1 액면분할 주가 급등]]></title>
+            <title><![CDATA[반도체 업황 회복세지만…SEMI "전체 팹 가동률 지속 하락"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240523084248</link>
+            <guid>https://zdnet.co.kr/view/?no=20240523084248</guid>
+            <pubDate>Thu, 23 May 2024 01:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 업황이 올해부터 전반적인 회복세에 접어든 가운데, 성숙(레거시) 공정의 가동률은 여전히 낮은 수준을 기록하고 있다. 주요 산업인 소비자 및 자동차 시장의 수요가 부진한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 주가 20만원 첫 돌파..."땡큐 엔비디아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240523095230</link>
+            <guid>https://zdnet.co.kr/view/?no=20240523095230</guid>
+            <pubDate>Thu, 23 May 2024 01:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스 주가가 사상 첫 20만원선을 돌파했다. 엔비디아가 시장의 예상을 뛰어넘는 1분기 실적을 발표하면서, 고객사인 SK하이닉스에 매수세가 몰린 탓이다. 23일 SK하이닉...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[블루투스SIG, 네빌 마이어 신임 CEO 선임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240523095301</link>
+            <guid>https://zdnet.co.kr/view/?no=20240523095301</guid>
+            <pubDate>Thu, 23 May 2024 01:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[블루투스 규격을 관장하는 업계 표준화 단체인 블루투스SIG가 네빌 마이어(Neville Meijers) 신임 CEO를 선임했다고 밝혔다. 네빌 마이어 CEO는 퀄컴에서 산업용 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아, 1분기 매출 262%·순이익 4.5배 '껑충']]></title>
             <link>https://zdnet.co.kr/view/?no=20240523091228</link>
             <guid>https://zdnet.co.kr/view/?no=20240523091228</guid>
             <pubDate>Thu, 23 May 2024 00:45:23 GMT</pubDate>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240521150125</guid>
             <pubDate>Tue, 21 May 2024 07:10:53 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 21일 김용관 삼성메디슨 대표이사(부사장)를 삼성전자 사업지원TF(테스크포스)로 위촉했다. 김용관 부사장의 후임으로 삼성메디슨 대표이사에는 유규태 삼성전자 DX부문 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 반도체 수장 전격 교체...위기 돌파하고 '초격차' 고삐 죈다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521092820</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521092820</guid>
-            <pubDate>Tue, 21 May 2024 02:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 3년 5개월 만에 반도체 수장을 교체하는 파격 인사를 단행했다. 불확실한 대내외 환경에서 반도체 사업 경쟁력 강화를 위해 새로운 리더십을 통한 쇄신을 결정한 것으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 협력사 찾아 커피·도넛 선물하는 'SDC Day' 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521085512</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521085512</guid>
-            <pubDate>Tue, 21 May 2024 01:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 봄을 맞아 협력사에 대한 감사의 마음을 전하기 위해 '찾아가는 커피차' 이벤트를 진행하고 있다. 삼성디스플레이는 지난 3월부터 인천, 경기, 충청지역에 위치한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈엣지, 중기부 '초격차 스타트업 1000+ 육성사업'에 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240521084357</link>
-            <guid>https://zdnet.co.kr/view/?no=20240521084357</guid>
-            <pubDate>Tue, 21 May 2024 01:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 설계자산(IP) 플랫폼 전문회사 오픈엣지테크놀로지(이하 오픈엣지)는 중소벤처기업가 주관하는 '2024년 초격차 스타트업 1000+ 육성사업'에 선정됐다고 21일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
