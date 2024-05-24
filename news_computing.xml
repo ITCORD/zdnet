@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 05:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 비주얼베이직스크립트 하반기 지원 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240524103659</link>
+            <guid>https://zdnet.co.kr/view/?no=20240524103659</guid>
+            <pubDate>Fri, 24 May 2024 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 비주얼베이직스크립트(VB스크립트) 하반기 지원 중단을 위해 단계적인 계획을 공개했다. 23일(현지시간) 마이크로소프트는 VB스크립트를 자바스크립트와 파워셸 등으...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠슨 황 "듣고 말하는 'AI 비서' 시대…엔비디아 칩 인기 더 상승"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240524123722</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240523161532</guid>
             <pubDate>Thu, 23 May 2024 08:14:13 GMT</pubDate>
             <content:encoded><![CDATA[2009년 미국발 서브프라임 모기지 사태로 미국 뿐 아니라 전 세계 경제가 휘청거렸다. 그런데 서브프라임 모기지 사태 발생 직전까지도 은행과 투자자들은 제대로 감지하지도 못했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["생성형 AI 업무에 잘 사용하려면 '통합 플랫폼'에 적용해라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240523122845</link>
-            <guid>https://zdnet.co.kr/view/?no=20240523122845</guid>
-            <pubDate>Thu, 23 May 2024 07:10:47 GMT</pubDate>
-            <content:encoded><![CDATA["생성형 인공지능(AI) 기술은 더 복잡해질 것이다. 향후 기업은 기존 시스템에 생성형 AI 적용하는 것을 버거워할 것이다. 서비스나우는 다르다. 단일 플랫폼을 운영하기 때문이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
