@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 06:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 07:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 HBM3E '공급 난항설'…좀더 지켜봐야 하는 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240524085849</link>
+            <guid>https://zdnet.co.kr/view/?no=20240524085849</guid>
+            <pubDate>Fri, 24 May 2024 07:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 엔비디아향 HBM3E(5세대 고대역폭메모리) 공급 여부가 최근 연일 화두에 오르고 있다. 24일 엔비디와의 퀄테스트가 실패했다는 외신 보도에 대해 삼성전자는 "테스트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아, 3년만에 다시 액면분할…AI 반도체 '대장주']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240524141225</link>
+            <guid>https://zdnet.co.kr/view/?no=20240524141225</guid>
+            <pubDate>Fri, 24 May 2024 07:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아 주가가 서버용 AI GPU수요 폭증으로 지난 해 초부터 우상향을 거듭하고 있다. 24일 현재 엔비디아 주가는 1주당 1천37달러(약 142만원)로 5년 전인 2019년...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1분기 파운드리 TSMC 62%, 삼성 13%...격차 더 벌어져]]></title>
             <link>https://zdnet.co.kr/view/?no=20240524105147</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240523091228</guid>
             <pubDate>Thu, 23 May 2024 00:45:23 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 22일(미국 현지시간) 1분기(2~4월) 실적을 발표했다. 매출은 260억 4천만 달러(약 35조 6천억원)로 전년 동기 대비 262% 늘어났고 순이익은 주당 6.1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 모니터용 QD-OLED 누적 출하 100만대 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240523083715</link>
-            <guid>https://zdnet.co.kr/view/?no=20240523083715</guid>
-            <pubDate>Thu, 23 May 2024 00:45:23 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이 QD-OLED가 프리미엄 모니터 시장의 블루칩으로 떠올랐다. 삼성디스플레이는 자사의 모니터용 QD-OLED가 5월 누계 기준 출하량 100만 대를 기록했다고 23...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 장비 톱5, 1분기 매출↑...AI·중국 비중 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240522155029</link>
-            <guid>https://zdnet.co.kr/view/?no=20240522155029</guid>
-            <pubDate>Wed, 22 May 2024 08:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 반도체 장비 상위 5개 기업의 올해 1분기 매출이 AI 반도체향이 늘고 중국 비중이 증가한 것으로 나타났다. 글로벌 반도체 장비 매출 상위 5개 기업은 어플라이드머티얼리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
