@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 03:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 04:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠슨 황 "듣고 말하는 'AI 비서' 시대…엔비디아 칩 인기 더 상승"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240524123722</link>
+            <guid>https://zdnet.co.kr/view/?no=20240524123722</guid>
+            <pubDate>Fri, 24 May 2024 04:14:14 GMT</pubDate>
+            <content:encoded><![CDATA["기업은 인공지능(AI) 모델에 텍스트뿐 아니라 음성, 이미지, 비디오까지 이해하는 멀티모달 기능을 추가하고 있다. 사람처럼 듣고 말하는 AI 비서 시대가 본격화했다. 이런 추...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["가명정보, 이렇게 활용하세요"…KISA-개인정보위, 기업 대상 설명회 진행]]></title>
             <link>https://zdnet.co.kr/view/?no=20240524114719</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240523122845</guid>
             <pubDate>Thu, 23 May 2024 07:10:47 GMT</pubDate>
             <content:encoded><![CDATA["생성형 인공지능(AI) 기술은 더 복잡해질 것이다. 향후 기업은 기존 시스템에 생성형 AI 적용하는 것을 버거워할 것이다. 서비스나우는 다르다. 단일 플랫폼을 운영하기 때문이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["생성AI, 발전 무궁무진···통합 플랫폼 갖춰 추진해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240523141451</link>
-            <guid>https://zdnet.co.kr/view/?no=20240523141451</guid>
-            <pubDate>Thu, 23 May 2024 06:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[투이컨설팅(대표 김인현)과 트러스트커텍터(대표 윤석빈)가 공동 주관하고 지디넷코리아가 후원한 '우리 조직에 맞는 엔터프라이즈 LLM 세미나'가 22일 서울 강남 뱅뱅사거리 인근...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
