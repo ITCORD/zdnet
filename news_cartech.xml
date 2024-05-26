@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 00:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 02:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 기아 전기차 EV3에 '차량용 webOS' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240526092522</link>
+            <guid>https://zdnet.co.kr/view/?no=20240526092522</guid>
+            <pubDate>Sun, 26 May 2024 01:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자가 차량용 webOS 콘텐츠 플랫폼(ACP, Automotive Content Platform) 공급을 내연기관을 넘어 전기차까지 확대한다. 즐길 수 있는 콘텐츠 앱도 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[페라리, 내년 4분기 첫 번째 전기 슈퍼카 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240524144803</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240522094305</guid>
             <pubDate>Wed, 22 May 2024 07:12:05 GMT</pubDate>
             <content:encoded><![CDATA[메르세데스-벤츠 코리아가 부분 변경 전기스포츠유틸리티차(SUV) 모델인 '더 뉴 EQA'와 '더 뉴 EQB'를 공식 출시한다고 22일 밝혔다. 도심형 콤팩트 전기 SUV 'EQ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] FSD 모드 테슬라 차량, 달리는 열차에 진입?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240522100550</link>
-            <guid>https://zdnet.co.kr/view/?no=20240522100550</guid>
-            <pubDate>Wed, 22 May 2024 02:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라의 운전자 지원 소프트웨어인 완전자율주행(FSD) 모드로 주행 중이던 차량이 달리는 열차에 진입하려는 모습이 영상에 포착됐다. 최근 미국 오하이오주의 테슬라 소유주가 FS...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
