@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 03:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 04:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, AI 챗봇 운영할 슈퍼컴퓨터 구축한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240527083613</link>
+            <guid>https://zdnet.co.kr/view/?no=20240527083613</guid>
+            <pubDate>Mon, 27 May 2024 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크가 운영하는 인공지능(AI) 스타트업 xAI가 슈퍼컴퓨터를 구축할 계획이다. 디인포메이션은 25일(현지시간) xAI가 챗봇 '그록' 새로운 버전을 위해 슈퍼컴퓨터 구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 초거대 AI로 '미래 15일' 기상 예보]]></title>
             <link>https://zdnet.co.kr/view/?no=20240526193253</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240523183911</guid>
             <pubDate>Thu, 23 May 2024 10:13:14 GMT</pubDate>
             <content:encoded><![CDATA[카카오스타일(Kakao Style, 대표 서정훈)이 운영하는 4050 패션 플랫폼 '포스티(Posty)'는 최근 남성 옷 판매가 증가하면서 중장년층 여성, 남성 의류를 동시에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이엠스쿨, 경기도·제주도 교육청 가정통신문 발송 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240523183415</link>
-            <guid>https://zdnet.co.kr/view/?no=20240523183415</guid>
-            <pubDate>Thu, 23 May 2024 10:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[NHN에듀(대표 강용혁)는 대한민국 국민 알림장 앱 서비스인 아이엠스쿨이 '가정통신문 일괄 발송 시스템 구축' 사업을 지원해 경기도와 제주특별자치도 교육청 소식을 학부모에게 바...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
