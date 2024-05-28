@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 02:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이블TV 공동제작, '최선규의 이제는 지방시대 시즌2' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240528112240</link>
+            <guid>https://zdnet.co.kr/view/?no=20240528112240</guid>
+            <pubDate>Tue, 28 May 2024 03:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[케이블TV 4개 사가 공동제작한 프로그램 '최선규의 이제는 지방시대'가 시즌2 개막을 알렸다. 이 프로그램은 한국케이블TV방송협회가 추진하는 공동제작 사업의 일환이다. 지방자치...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[부산 우체국-경찰, 지역사회 안전 사각지대 살핀다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240528103905</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240523094030</guid>
             <pubDate>Thu, 23 May 2024 00:43:57 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 미국 라스베이거스 만다레이베이 컨벤션센터에서 열린 '2024 라이선싱 엑스포'에 참가해 대표 캐릭터 '무너 크루'를 선보였다고 밝혔다. 라이선싱 엑스포는 캐릭터와...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 국내 최고 속도 양자암호통신 기술 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240523093037</link>
-            <guid>https://zdnet.co.kr/view/?no=20240523093037</guid>
-            <pubDate>Thu, 23 May 2024 00:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 초당 15만개의 비밀키 정보를 생성하는 양자 암호 키 분배(QKD) 장비 개발에 성공했다고 23일 밝혔다. 이 장비는 국내 기술로 만든 양자 암호 키 분배기 중 가장 빠...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
