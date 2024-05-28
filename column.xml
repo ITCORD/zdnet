@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 00:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 스킬 기반 HR과 생성 AI]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240528093207</link>
+            <guid>https://zdnet.co.kr/view/?no=20240528093207</guid>
+            <pubDate>Tue, 28 May 2024 00:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[직무(job)는 기업에서 구성원을 관리하는 데 오랫동안 사용해 온 체계입니다. 산업화 시대에는 기계의 순서에 따라 노동력을 배치했습니다. 생산성을 위해 분업을 했고, 그것을 개인의 역할 단위로 구분한 것이 바로 ‘직무’입니다.그런데 AI와 자동화 기술의 발달로 인해 이제는 사람이 생각하는 흐름에 맞춰서 일의 순서를 바꾸고 있습니다. 딜로이트에서 2022년에 실시한 설문조사에 따르면 기업 임원...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/28/e6c99d8bc913f993ddd00e18325424bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 정부, 기술탈취 피해기업 구제 법 개정···어떤 의미가 있나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240524000035</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Apr 2024 01:52:24 GMT</pubDate>
             <content:encoded><![CDATA[2023년 우리 모두는 챗GPT가 제공한 새로운 서비스를 경험했다. 생성형 AI와 대규모 언어 모델(LLM)은 개인과 직업의 환경을 혁신적으로 변화시키고 있다. 기업들도 불과 1년 만에 대다수가 생성형 AI에서 제공하는 서비스를 통해 비즈니스 역량을 강화하려는 시도를 하고 있다. 본 글에서는 생성형 AI와 대규모 언어 모델(이하 LLM)이 무엇이며 기업들은 이 서비스를 어떤 분야에 활용할 수...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/04/22/1217e9ffd1522b88af93df4ece59a35b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 탄소중립 선도국으로 가는 길 GPA]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240420214536</link>
-            <guid>https://zdnet.co.kr/view/?no=20240420214536</guid>
-            <pubDate>Sat, 20 Apr 2024 13:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[온실가스 증대로 인류생존을 위협하는 지구환경 형성이 심화하고 있다. 이에 따라 오는 2050년까지 산업화 이전 대비 지구온도 상승을 1.50C 유지하려는 파리협약(2015)에 대부분 국가가 참여해국가별 탄소감축 목표를 천명(한국은 2030년까지 탄소배출 40% 감축을 약속)했다. 하지만 국제기구와 국가, 기업들이 탄소배출 감축과 배출된 탄소의 포집/저장/흡수에 매진하고 있음에도 현실은 이미 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/20/61a8526b04ad1d9d35c131cf461c47e4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
