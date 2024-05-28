@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 06:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 07:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3D 벤치마크 대명사 '타임스파이', GPU 성능 상향 평준화로 8년만에 퇴장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240528140535</link>
+            <guid>https://zdnet.co.kr/view/?no=20240528140535</guid>
+            <pubDate>Tue, 28 May 2024 07:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[그래픽카드와 게임용 데스크톱PC·노트북 성능 비교용으로 널리 쓰이는 벤치마크 프로그램 '3D마크'(3DMark)에 최근 새 그래픽 성능 테스트 시나리오 '스틸노매드'(Steel...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글 텐서 G5칩, 삼성 아닌 TSMC서 만들까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240528140918</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240527141208</guid>
             <pubDate>Mon, 27 May 2024 06:15:45 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 웨어러블 로봇 '봇핏' 출시를 앞두고 관련 특허 확대에 나섰다. 작년부터 기술 특허와 상표도안 등 관련 지식재산권 확보를 이어온 데 이어 일반 소비자 시장을 공략하기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['M4칩' 장착 아이패드 프로, 수요는 부진…이유는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240527134016</link>
-            <guid>https://zdnet.co.kr/view/?no=20240527134016</guid>
-            <pubDate>Mon, 27 May 2024 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달 초 출시된 신형 아이패드 프로는 강력한 M4 칩을 탑재해 많은 관심을 끌었다. 더 얇은 두께와 가벼운 무게 역시 신형 아이패드 프로의 장점으로 꼽힌다. 하지만 정작 실...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
