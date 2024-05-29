@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 09:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 10:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스웨이브시스템즈, 국방부·소방청 등 공공기관 잇달아 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240529182332</link>
+            <guid>https://zdnet.co.kr/view/?no=20240529182332</guid>
+            <pubDate>Wed, 29 May 2024 10:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 최근 공공기관에 연달아 웹 표준 UI/UX 솔루션 '웹스퀘어5'를 공급하며 우수성을 입증했다고 강조했다. 인스웨이브시스템즈는 국방부, 소방청,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[워크데이, 1분기 매출 19억9천만 달러…전년比 18.1%↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20240529175940</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240529095604</guid>
             <pubDate>Wed, 29 May 2024 01:57:52 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 기업들이 생성형 인공지능(AI) 환각현상 방지에 활용되는 검색증강생성(RAG) 성능을 비교하고 자사 제품에 가장 적합한 RAG를 고를 수 있게 됐다. 올거나이즈(대표 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI "GPT-4 능가할 새 모델 훈련…수년 후 출시할 수도"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240529084615</link>
-            <guid>https://zdnet.co.kr/view/?no=20240529084615</guid>
-            <pubDate>Wed, 29 May 2024 01:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 자사 인공지능(AI) 모델 GPT-4를 능가할 새 모델을 훈련하기 시작했다는 보도가 나왔다. 새 모델은 챗봇 역할뿐 아니라 검색엔진, 이미지 생성기 역할을 맡아 오픈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
