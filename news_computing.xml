@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 11:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 12:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티젠소프트, 신한은행 홈페이지에 영상 솔루션 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240530172408</link>
+            <guid>https://zdnet.co.kr/view/?no=20240530172408</guid>
+            <pubDate>Thu, 30 May 2024 12:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[신한은행이 티젠소프트 영상 솔루션을 홈페이지 적용해 금융권 고객 만족도 향상에 나섰다. 티젠소프트는 신한은행에 '동영상 등록 변환 및 스트리밍' 제품을 구축했다고 30일 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔키화이트햇 "보안 담당자 역량은 실제 사례 경험 여부"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240530175949</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530093902</guid>
             <pubDate>Thu, 30 May 2024 02:27:54 GMT</pubDate>
             <content:encoded><![CDATA[사람과 대화하면서 코드를 설계하고 코드베이스 질문에 답까지 하는 인공지능(AI) 모델이 나왔다. 다만 일각에선 해당 모델이 개발 환경에 큰 도움을 주진 못할 것이란 반응이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인젠트, ECM 솔루션 '엑스톰' 연계 분리보관 패키지 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530111937</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530111937</guid>
-            <pubDate>Thu, 30 May 2024 02:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[인젠트(대표 박재범)가 비정형 데이터 파기 및 분리보관 수요를 충족하기 위한 서비스를 선보인다. 인젠트는 ECM 솔루션 '엑스톰(Xtorm)'과 연계한 분리보관 패키지를 개발했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
