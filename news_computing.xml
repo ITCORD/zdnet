@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 01:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 02:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스트랄AI, 코드 생성하는 모델 공개…"큰 매력은 없어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240530093902</link>
+            <guid>https://zdnet.co.kr/view/?no=20240530093902</guid>
+            <pubDate>Thu, 30 May 2024 02:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[사람과 대화하면서 코드를 설계하고 코드베이스 질문에 답까지 하는 인공지능(AI) 모델이 나왔다. 다만 일각에선 해당 모델이 개발 환경에 큰 도움을 주진 못할 것이란 반응이다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인젠트, ECM 솔루션 '엑스톰' 연계 분리보관 패키지 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240530111937</link>
+            <guid>https://zdnet.co.kr/view/?no=20240530111937</guid>
+            <pubDate>Thu, 30 May 2024 02:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[인젠트(대표 박재범)가 비정형 데이터 파기 및 분리보관 수요를 충족하기 위한 서비스를 선보인다. 인젠트는 ECM 솔루션 '엑스톰(Xtorm)'과 연계한 분리보관 패키지를 개발했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이매트릭스, 노코드로 생성형AI 제조SW 글로벌 진출 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240530105638</link>
+            <guid>https://zdnet.co.kr/view/?no=20240530105638</guid>
+            <pubDate>Thu, 30 May 2024 02:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[비아이매트릭스가 노코드 기술을 이용해 제조·금융·서비스 소프트웨어(SW)의 글로벌 시장 진출 지원에 나선다. 비아이매트릭스는 글로벌 시장 진출을 위한 생성형 인공지능(AI)기반...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스-NHN 클라우드, CSAP 인증 컨설팅 사업 공동 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20240530105012</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240529161751</guid>
             <pubDate>Wed, 29 May 2024 08:14:21 GMT</pubDate>
             <content:encoded><![CDATA[투이컨설팅(대표 김인현)과 SGA솔루션즈(대표 최영철)는 28일 SGA솔루션즈 본사에서 수요기관과 기업을 대상으로 기존 경계망 보안에서 제로트러스트 보안으로 전환을 위한 '제로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NSHC이 제시한 인텔리전스 보안 생태계 전략은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240529112403</link>
-            <guid>https://zdnet.co.kr/view/?no=20240529112403</guid>
-            <pubDate>Wed, 29 May 2024 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[NSHC(대표 최병규)가 보안 업계 고객사 대상으로 인텔리전스 보안 생태계 확장 전략을 공유했다. NSHC는 28일 서울 역삼동 한국과학기술연구원에서 '인텔리전스 세미나'를 성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS, 가정여중에 국내 첫 '씽크 빅 스페이스' 개설]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240529153324</link>
-            <guid>https://zdnet.co.kr/view/?no=20240529153324</guid>
-            <pubDate>Wed, 29 May 2024 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)코리아는 가정여자중학교에 새로운 교육 실습실인 '씽크 빅 스페이스'를 개설했다고 29일 발표했다. AWS와 가정여자중학교의 협업을 통해 마련된 국내 최초의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["몬스타엑스 팬들 걱정 끝"…NHN 덕에 공연 티켓 문자 오발송 줄어든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240529113108</link>
-            <guid>https://zdnet.co.kr/view/?no=20240529113108</guid>
-            <pubDate>Wed, 29 May 2024 03:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 전 세계 몬스타엑스 등 K-팝 스타들을 좋아하는 팬들이 공연 티켓, 굿즈 등과 관련해 잘못된 문자를 받을 일이 줄어들 것으로 보인다. NHN클라우드는 메시징 특화 솔루션...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
