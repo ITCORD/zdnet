@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 06:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 07:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 세계 최소형 CMOS OP Amp 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240530144048</link>
+            <guid>https://zdnet.co.kr/view/?no=20240530144048</guid>
+            <pubDate>Thu, 30 May 2024 07:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[로옴(ROHM)은 스마트폰 및 소형 IoT 기기 등에서 온도, 압력, 유량 등을 검출하고 계측한 센서 신호의 증폭에 최적인 초소형 패키지 CMOS OP Amp 'TLR377GY...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 14나노 eMRAM 개발 완료…"8나노도 마무리 단계"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240530112738</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240528114348</guid>
             <pubDate>Tue, 28 May 2024 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[전자부품 유통기업인 마우저일렉트로닉스는 지멘스(Siemens)의 '로고!파워(LOGO!Power)' 소형 전원공급장치를 공급한다고 밝혔다. 로고!파워 소형 전원공급장치는 계단 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알엔투테크놀로지, 중동 방산업체에 MCP 공급사 등록]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240528094130</link>
-            <guid>https://zdnet.co.kr/view/?no=20240528094130</guid>
-            <pubDate>Tue, 28 May 2024 01:55:52 GMT</pubDate>
-            <content:encoded><![CDATA[알엔투테크놀로지는 중동 대형 방산업체에 MCP(다층세라믹 PCB) 공급 회사로 등록됐다고 28일 밝혔다. 알엔투테크놀로지는 작년 11월 중동 방산업체 A사로부터 납품할 MCP ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
