@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 02:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 03:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 각계 전문가와 합성데이터 활용 방안 모색]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240529174337</link>
+            <guid>https://zdnet.co.kr/view/?no=20240529174337</guid>
+            <pubDate>Thu, 30 May 2024 03:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(이하 개인정보위)가 개인 정보를 보호하면서도 산업적 활용도가 높은 '합성데이터'의 활용법을 찾기 위해 각계 전문가와 논의를 실시했다. 30일 개인정보위와 한국...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미스트랄AI, 코드 생성하는 모델 공개…"큰 매력은 없어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240530093902</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240529160246</guid>
             <pubDate>Wed, 29 May 2024 08:14:21 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDS가 실시간으로 외국어를 한국어로 통역하는 생성형AI 기반 서비스를 앞세워 글로벌 미팅이 잦은 기업들을 공략하고 나섰다. 29일 업계에 따르면 삼성SDS는 최근 서울 송...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[투이컨설팅-SGA솔루션즈, 제로트러스트 사업 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240529161751</link>
-            <guid>https://zdnet.co.kr/view/?no=20240529161751</guid>
-            <pubDate>Wed, 29 May 2024 08:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[투이컨설팅(대표 김인현)과 SGA솔루션즈(대표 최영철)는 28일 SGA솔루션즈 본사에서 수요기관과 기업을 대상으로 기존 경계망 보안에서 제로트러스트 보안으로 전환을 위한 '제로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
