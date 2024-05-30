@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 07:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["로봇 자율성 부여할수록 위험 수반…통제 기술 중요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240530162530</link>
+            <guid>https://zdnet.co.kr/view/?no=20240530162530</guid>
+            <pubDate>Thu, 30 May 2024 08:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[휴머노이드 로봇은 자동차로 보면 F1 경주차와 유사한 성격이 있어요. 최고의 기술을 다 투입해서 한정된 공간에서 검증하고, 이를 일반화된 로봇 기술로 적용하는 선순환 구조를 갖...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이폰 내구성, 이렇게 테스트한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240530153347</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530083847</guid>
             <pubDate>Thu, 30 May 2024 00:45:42 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 중남미 지역에서 AI TV 기술력을 입증했다. 삼성전자가 28일과 29일(현지시간) 양일간 브라질 상파울루에서 '2024 중남미 테크세미나'를 열고 2024년형 네오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["갤럭시링, 분실방지 기능 탑재…불빛으로 쉽게 찾는다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530075852</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530075852</guid>
-            <pubDate>Thu, 30 May 2024 00:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 선보일 예정인 스마트 반지 '갤럭시링'에 경쟁제품인 오우라 링과 차별화할 수 있는 분실 방지 및 보안 기능이 탑재될 것이라는 소식이 나왔다. IT매체 안드로이드오쏘리...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
