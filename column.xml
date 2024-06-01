@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 09:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 10:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[심승배의 국방&디지털⑤] 디지털 전장 정보와 AI 증강 분석]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240601184857</link>
+            <guid>https://zdnet.co.kr/view/?no=20240601184857</guid>
+            <pubDate>Sat, 01 Jun 2024 10:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[군사정보(Military Intelligence)는 군사 목적으로 적이나 작전지역에서 수집해 분석한 정보다. 정보 수집방법에 따라 인간정보(HUMINT: Human Intelligence), 신호정보(SIGINT: Signal Intelligence), 영상정보(IMINT: Image Intelligence), 공개출처정보(OSINT: Open Source Intelligence) 등으로 구...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/03/2a9f6b01aeee1b6833a67120dc555f15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이랜서 칼럼] AI 준지도학습, 반도체 공정 비전 AI 분야서 각광]]></title>
             <link>https://zdnet.co.kr/view/?no=20240601173143</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Apr 2024 05:13:09 GMT</pubDate>
             <content:encoded><![CDATA[클라우데라의 조사에 따르면 IT 의사결정권자의 68%는 하이브리드 클라우드 전략을 선호했다. 또한, IT 의사결정권자의 72%는 여러 클라우드 서비스 공급업체(CSP)와 계약을 맺고 있는 것으로 나타났다. 클라우드 환경이 복잡해지면서 각 CSP는 다양한 서비스를 제공한다. 때문에 올바른 데이터 아키텍처를 기반으로 삼는 것은 매우 중요하다. 이를 어긴다면 관리 자체가 요원하게 된다.클라우드 비...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/08/31/45838790f2e261f5afaa957cdac5c3c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 데이터 산업 활성화와 '데이터의 날' 제정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240428104003</link>
-            <guid>https://zdnet.co.kr/view/?no=20240428104003</guid>
-            <pubDate>Sun, 28 Apr 2024 01:55:18 GMT</pubDate>
-            <content:encoded><![CDATA[4차산업혁명 선도국가로 발돋움하기 위해 우리나라가 세계 최초로 제정한 ‘데이터 산업진흥 및 이용촉진에 관한 기본법(약칭 데이터산업법)’이 지난 2022년 4월 20일 자로 시행한 지 벌써 2년여 시간이 지났다. 디지털 변혁을 위해서는 무엇보다 데이터가 가장 중요함에도, 데이터와 별개일 수 없는 챗GPT 등 생성형 AI로 국가적 관심이 매몰하면서 데이터가 뒷전인 듯하기에 아이러니하다.지난해 정...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/28/94c65cce56785ea54f9cbe497e6f135a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
