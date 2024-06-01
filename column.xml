@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 08:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 09:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이랜서 칼럼] AI 준지도학습, 반도체 공정 비전 AI 분야서 각광]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240601173143</link>
+            <guid>https://zdnet.co.kr/view/?no=20240601173143</guid>
+            <pubDate>Sat, 01 Jun 2024 09:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[[이랜서칼럼]은 ‘IT를 기반으로 자유롭게 일하는 21세기형 전문가’를 지칭하는 ‘이랜서’(e-Lancer)들이 21세기형 일과 생활에 대한 인사이트와 노하우를 공유하는 장입니다.“미국과 영국, 독일에서 알렉사의 사용자 음성 인식을 25% 이상 개선했다. 준지도학습(semi-supervised learning) 기술을 이용해 알렉사의 머신러닝 관련 요소를 강화하는 방법을 사용했다. 준지도학습...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/01/d2995fba49efa47e3ae2ac8ac13d6487.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특별기고] 지디넷코리아 창간 24주년을 축하하며]]></title>
             <link>https://zdnet.co.kr/view/?no=20240531180639</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 Apr 2024 01:55:18 GMT</pubDate>
             <content:encoded><![CDATA[4차산업혁명 선도국가로 발돋움하기 위해 우리나라가 세계 최초로 제정한 ‘데이터 산업진흥 및 이용촉진에 관한 기본법(약칭 데이터산업법)’이 지난 2022년 4월 20일 자로 시행한 지 벌써 2년여 시간이 지났다. 디지털 변혁을 위해서는 무엇보다 데이터가 가장 중요함에도, 데이터와 별개일 수 없는 챗GPT 등 생성형 AI로 국가적 관심이 매몰하면서 데이터가 뒷전인 듯하기에 아이러니하다.지난해 정...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/04/28/94c65cce56785ea54f9cbe497e6f135a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[곽노건 교수의 웹3 ③] 블록체인 기술]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240423102509</link>
-            <guid>https://zdnet.co.kr/view/?no=20240423102509</guid>
-            <pubDate>Tue, 23 Apr 2024 01:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난 칼럼에서 탈중앙화 및 자율성과 그 중심에 블록체인 기술이 있음을 말씀 드렸습니다. 오늘은 블록체인 기술을 웹3 관점에서 얘기해 보겠습니다.블록체인 기술은 암호화폐(정부는 특정 금융거래정보의 보고 및 이용 등에 대한 법률에서 가상자산이라 정의) 명암으로 인해 정확하게 이해되지 못한 기술의 특징과 장점보다 막연한 불신과 부정적 견해가 생겨나 기술이 가진 순수 가치에 대한 인정이 낮아진 것 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/23/5a76ecf9b093108ce629c418a39d0b31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

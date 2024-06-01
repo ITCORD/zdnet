@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 08:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 09:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NIPA "공공 전산사고 막아라···발주자 교육 메스"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240601181038</link>
+            <guid>https://zdnet.co.kr/view/?no=20240601181038</guid>
+            <pubDate>Sat, 01 Jun 2024 09:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신산업진흥원(NIPA, 원장 허성욱)은 공공 소프트웨어(SW)사업 수·발주자 역량 강화를 위한 '2024년 SW발주 역량강화 교육프로그램'을 본격 운영한다고 1일 밝혔다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알체라, AI바우처 공급기업 선정···"AI 근태관리 솔루션 제공"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240601170711</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530174838</guid>
             <pubDate>Thu, 30 May 2024 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[한국IT서비스학회(회장 이정훈 연세대 정보대학원 교수)와 국제전자상거래연구원(ICEC, International Center for Electronic Commerce 원장 임...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[앤앤에스피, 엔터프라이즈 SW공급망 공격 대안 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530174827</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530174827</guid>
-            <pubDate>Thu, 30 May 2024 09:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[앤앤에스피(대표 김일용)가 전력, 원자력, 수자원, 스마트시티, 스마트팩토리 등 엔터프라이즈 분야에서 소프트웨어(SW) 공급망을 보호할 수 있는 기술을 제시했다. 앤앤에스피는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
