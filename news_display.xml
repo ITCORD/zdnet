@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 13:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 14:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 차세대 AI GPU '루빈' 2026년 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240602222512</link>
+            <guid>https://zdnet.co.kr/view/?no=20240602222512</guid>
+            <pubDate>Sun, 02 Jun 2024 14:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 엔비디아가 2일 저녁 7시(이하 현지시간)부터 진행된 기조연설에서 서버·데이터센터용 GPU 로드맵을 공개했다. 이날 젠슨 황 엔비디아 CEO는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[5월 메모리 가격 보합세…D램, 3분기 추가 상승 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20240531162016</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240529094321</guid>
             <pubDate>Wed, 29 May 2024 01:58:41 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 'ASM330LHBG1' 자동차용 3축 가속도 센서 및 3축 자이로스코프 모듈을 출시했다고 29일 밝혔다. ASM330LHBG1은 주변 동...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, 신사업 '항공기용 OLED' 공략한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240529090241</link>
-            <guid>https://zdnet.co.kr/view/?no=20240529090241</guid>
-            <pubDate>Wed, 29 May 2024 01:58:41 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이가 신사업으로 항공용 OLED(유기발광다이오드) 시장 공략에 나선다. LG디스플레이는 보잉, LIG넥스원과 함께 28일~30일(현지시간) 독일 함부르크에서 진행되는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
