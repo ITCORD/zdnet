@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 06:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, 로봇전용 AI 연구 4년 만에 재개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240602144258</link>
+            <guid>https://zdnet.co.kr/view/?no=20240602144258</guid>
+            <pubDate>Sun, 02 Jun 2024 07:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 4년 전 중단했던 로봇용 인공지능(AI) 모델 학습 팀을 구축하고 연구를 재개한다. 최근 실리콘앵글 등 외신에 따르면 오픈AI는 로봇공학(Robotics) 팀을 만들...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2020/06/15/firstblood_cTo0O89mE-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉐보레, 이달 트랙스 사면 최대 72개월 할부 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20240602133920</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240602132902</guid>
             <pubDate>Sun, 02 Jun 2024 05:10:03 GMT</pubDate>
             <content:encoded><![CDATA[국내 기술로 제작한 물리탐사연구선 '탐해 3호'가 지난달 31일 출항식을 갖고 해저 지질자원 탐사에 나섰다. 이번에 출항식을 가진 '탐해 3호'는 국비 1천810억 원이 투입됐...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/02/5edea10429297e235c2ae8f5fac26990-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[ZD브리핑]삼성 '신경영 선언' 31주년…22대 국회 첫 본회의 열린다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240602104221</guid>
             <pubDate>Sun, 02 Jun 2024 01:59:07 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 월 2만6천원에 데이터 6GB를 제공하는 5G 요금제를 내놨다. LG유플러스는 2일 너겟(Nerhet)을 정규 상품으로 개변하면서 통신 3사 최저가 5G 요금제를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홈쇼핑서 연애 클래스 수강권도 판매…"솔로 탈출하세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240602103714</link>
-            <guid>https://zdnet.co.kr/view/?no=20240602103714</guid>
-            <pubDate>Sun, 02 Jun 2024 01:59:07 GMT</pubDate>
-            <content:encoded><![CDATA[롯데홈쇼핑(대표 김재겸)은 오는 4일 11만 연애 유튜버 '마선생'과 '유혹의 절대공식' 연애강의 수강권을 업계 최초로 선보인다고 2일 밝혔다. 연애 예능 프로그램이 젊은 층 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
