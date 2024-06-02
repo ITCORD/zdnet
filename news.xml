@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 16:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 17:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, AI 가속 위한 차세대 GPU·솔루션 대거 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240603012616</link>
+            <guid>https://zdnet.co.kr/view/?no=20240603012616</guid>
+            <pubDate>Sun, 02 Jun 2024 17:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] "대만은 컴퓨터와 킥보드를 만든 데 이어 이제 데이터센터를 만든다. 나아가 걸어다니는 컴퓨터(로봇)를 만들 것이다. 이 여정은 엔비디아에도 중요...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/03/07d7f265a34f7270eb1da0b0a193c1e3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, 컴퓨텍스서 RTX GPU 탑재 노트북 6종 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240602223747</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240602222512</guid>
             <pubDate>Sun, 02 Jun 2024 14:08:57 GMT</pubDate>
             <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 엔비디아가 2일 저녁 7시(이하 현지시간)부터 진행된 기조연설에서 서버·데이터센터용 GPU 로드맵을 공개했다. 이날 젠슨 황 엔비디아 CEO는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/02/f355e66fcbf92fffb04a1adb5c4259cd-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[손예진, ♥현빈과 데이트 중?…눈부신 미소]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240602105240</guid>
             <pubDate>Sun, 02 Jun 2024 03:12:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 교육기관용 챗지피티(ChatGPT)인 '챗GPT 에듀(ChatGPT Edu)'를 출시한다. 최근 오픈AI에 따르면, 챗GPT 에듀는 ▲학생의 맞춤형 개인 교습 ▲이력...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, '펫페어' 진행…반려동물 상품 할인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240602113655</link>
-            <guid>https://zdnet.co.kr/view/?no=20240602113655</guid>
-            <pubDate>Sun, 02 Jun 2024 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡이 여름을 맞아 오는 15일까지 반려동물 전용 인기 상품을 할인하는 '펫페어'를 진행한다고 2일 밝혔다. 와우회원을 위한 특별 할인쿠폰과 함께 다양한 테마관도 마련했다. 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
