@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 07:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 차세대 라이젠 AI 300 CPU로 x86 코파일럿+ PC 포문]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240603170253</link>
+            <guid>https://zdnet.co.kr/view/?no=20240603170253</guid>
+            <pubDate>Mon, 03 Jun 2024 08:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 퀄컴에 이어 AMD가 젠5(Zen 5) 아키텍처 기반 노트북용 프로세서 '라이젠 AI 300' 시리즈를 올 7월 출시하며 '코파일럿+ PC' 시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AMD, 데스크톱PC용 젠5 기반 라이젠 9000 프로세서 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240603162015</link>
+            <guid>https://zdnet.co.kr/view/?no=20240603162015</guid>
+            <pubDate>Mon, 03 Jun 2024 08:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] AMD가 3일(이하 현지시간) 컴퓨텍스 2024 기조연설에서 새 아키텍처 '젠5'(Zen 5) 기반 PC용 프로세서 4종을 공개했다. 데스크톱P...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["청소기 아닌 로봇"…드리미 로봇청소기 'X40 울트라' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240603150514</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240602093336</guid>
             <pubDate>Sun, 02 Jun 2024 01:59:55 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 로봇청소기 라인업을 확대해 온라인 전용 제품인 '비스포크 스팀'을 선보인다고 2일 밝혔다. '비스포크 스팀'은 '비스포크 AI 스팀'의 스팀 청정스테이션과 강력한 청...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI가 사용 패턴 분석"…LG전자, 직수형 냉장고 브랜드 '스템' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240602092937</link>
-            <guid>https://zdnet.co.kr/view/?no=20240602092937</guid>
-            <pubDate>Sun, 02 Jun 2024 01:59:55 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자는 위생을 강화하기 위해 직수관을 통해 물을 직접 보내 정수를 공급하고 얼음을 만드는 직수형 냉장고 새 브랜드 '스템(STEM)'을 출시했다고 2일 밝혔다. 이 제품은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데하이마트, 가전 당일 설치 서비스 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240531210631</link>
-            <guid>https://zdnet.co.kr/view/?no=20240531210631</guid>
-            <pubDate>Sat, 01 Jun 2024 21:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[롯데하이마트가 가전 제품을 구매 당일 설치까지 완료해주는 '오늘 설치' 서비스를 출시한다고 31일 밝혔다. 오늘 설치 서비스는 오후 1시까지 결제·주문한 건에 대하여 결제 당일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
