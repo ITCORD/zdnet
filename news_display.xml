@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 08:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 09:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리사 수 AMD CEO "매년 신제품 투입...4분기 서버용 GPU MI325X 출시"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240603175054</link>
+            <guid>https://zdnet.co.kr/view/?no=20240603175054</guid>
+            <pubDate>Mon, 03 Jun 2024 09:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] AMD가 올 4분기를 시작으로 매년 서버용 AI GPU 신제품을 출시하겠다고 밝혔다. 전날인 2일(이하 현지시각) 엔비디아가 매년 신제품을 투입...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 시안 낸드 팹 '풀가동' 전환…V6 낸드 '깜짝 수요']]></title>
             <link>https://zdnet.co.kr/view/?no=20240603155444</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530112738</guid>
             <pubDate>Thu, 30 May 2024 05:11:41 GMT</pubDate>
             <content:encoded><![CDATA["자동차, 고성능컴퓨팅, AI 등에서 내장형 MRAM에 대한 필요성이 점점 더 높아지고 있다. 이에 삼성전자도 14나노미터(nm) 공정 개발을 완료했고, 8나노 공정도 거의 완...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, HBM 고삐 죈다..."내년 공급 계획도 이미 논의 중"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530093731</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530093731</guid>
-            <pubDate>Thu, 30 May 2024 05:11:41 GMT</pubDate>
-            <content:encoded><![CDATA["빅테크 고객들이 AI 시장 주도권을 확보하기 위해 신제품 출시 시점을 앞당기고 있다. 이에 SK하이닉스는 차세대 HBM(고대역폭메모리)를 적기에 공급할 수 있도록 올해에 이어...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
