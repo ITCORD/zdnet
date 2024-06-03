@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 11:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 12:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴, 컴퓨텍스서 코파일럿+ 업고 스냅드래곤 X 엘리트 세몰이]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240603203703</link>
+            <guid>https://zdnet.co.kr/view/?no=20240603203703</guid>
+            <pubDate>Mon, 03 Jun 2024 12:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 퀄컴은 2015년 경 스냅드래곤 기반 윈도 PC 플랫폼에 처음 진출한 후 성능과 호환성 면에서 고전했다. 기반 구조를 PC에 맞게 고친 스냅드래...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리사 수 AMD CEO "매년 신제품 투입...4분기 서버용 GPU MI325X 출시"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240603175054</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530144048</guid>
             <pubDate>Thu, 30 May 2024 07:12:28 GMT</pubDate>
             <content:encoded><![CDATA[로옴(ROHM)은 스마트폰 및 소형 IoT 기기 등에서 온도, 압력, 유량 등을 검출하고 계측한 센서 신호의 증폭에 최적인 초소형 패키지 CMOS OP Amp 'TLR377GY...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 14나노 eMRAM 개발 완료…"8나노도 마무리 단계"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530112738</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530112738</guid>
-            <pubDate>Thu, 30 May 2024 05:11:41 GMT</pubDate>
-            <content:encoded><![CDATA["자동차, 고성능컴퓨팅, AI 등에서 내장형 MRAM에 대한 필요성이 점점 더 높아지고 있다. 이에 삼성전자도 14나노미터(nm) 공정 개발을 완료했고, 8나노 공정도 거의 완...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
