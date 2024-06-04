@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 11:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 12:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT, 대규모 접속 장애 또 발생…오픈AI "신속히 복구 완료"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604200256</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604200256</guid>
+            <pubDate>Tue, 04 Jun 2024 12:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI의 인공지능(AI) 챗봇 '챗GPT'가 중단하는 사태가 또 벌어졌다. 4일 국내외에서 약 3시간 동안 챗GPT 접속이 불가했다. 무료·유료 버전 모두 답변 생성을 할 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스노우플레이크, 아이스버그용 오픈소스 카탈로그 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604200629</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604085651</guid>
             <pubDate>Tue, 04 Jun 2024 00:46:18 GMT</pubDate>
             <content:encoded><![CDATA[미소정보기술(대표 안동욱)이 코오롱베니트와 인공지능(AI)분야 사업제휴 및 AI얼라이언스 등 상호협력을 위한 업무제휴(MOU)를 체결했다고 4일 밝혔다. 이번 양사의 업무제휴를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["파일 스토리지도 실시간 성능 분석이 필요해졌다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604072949</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604072949</guid>
-            <pubDate>Tue, 04 Jun 2024 00:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[히타치밴타라는 올해 들어 블록, 파일, 오브젝트 등의 스토리지를 단일 플랫폼에 통합하는 '히타치밴타라 VSP 원' 전략을 내놨다. 그 첫번째 제품으로 기존 NAS 제품의 후속작...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

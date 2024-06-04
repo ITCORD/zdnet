@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 11:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 12:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 "노트북용 프로세서 '팬서레이크', 인텔 18A로 찍는다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604201436</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604201436</guid>
+            <pubDate>Tue, 04 Jun 2024 12:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 인텔이 내년 출시할 모바일(노트북)용 프로세서 '팬서레이크'(Panther Lake) 출시와 함께 그동안 뒤처졌던 반도체 제조 공정 리더십을 회...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['반지의 제왕' 꿈꾸는 삼성, 왜 오우라 제소했나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604155744</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240603220932</guid>
             <pubDate>Mon, 03 Jun 2024 13:13:28 GMT</pubDate>
             <content:encoded><![CDATA[폴더블 아이폰이 출시되기까지 좀 더 시간이 필요할 것이란 전망이 제기됐다. 당초 예상됐던 2026년 출시도 힘들 것이란 전망이다. 애플이 2027년 이후에나 폴더블 아이폰을 출...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 차세대 라이젠 AI 300 CPU로 x86 코파일럿+ PC 포문]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240603170253</link>
-            <guid>https://zdnet.co.kr/view/?no=20240603170253</guid>
-            <pubDate>Mon, 03 Jun 2024 08:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 퀄컴에 이어 AMD가 젠5(Zen 5) 아키텍처 기반 노트북용 프로세서 '라이젠 AI 300' 시리즈를 올 7월 출시하며 '코파일럿+ PC' 시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
