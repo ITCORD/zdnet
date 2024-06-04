@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 06:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 07:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·SK하이닉스·마이크론, HBM4 패권 경쟁 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604133917</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604133917</guid>
+            <pubDate>Tue, 04 Jun 2024 07:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아와 AMD가 2027년까지 차세대 인공지능(AI) 반도체 로드맵을 발표하면서 AI 반도체를 지원하는 고대역폭메모리(HBM) 시장에서 SK하이닉스, 삼성전자, 마이크론 등...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인피니언, 8인치 공정 기반 'CoolGaN 트랜지스터' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604143842</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240603084354</guid>
             <pubDate>Mon, 03 Jun 2024 01:58:34 GMT</pubDate>
             <content:encoded><![CDATA[화합물 반도체 전문기업 RFHIC는 방산·항공우주 사업 확대를 위해 총괄사장으로 LIG넥스원 출신의 권병현 부사장을 영입했다고 3일 밝혔다. 권병현 사장은 연세대학교 대학원에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DB하이텍, 글로벌 셔터·SPAD 공정 고도화...이미지센서 사업 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240603090807</link>
-            <guid>https://zdnet.co.kr/view/?no=20240603090807</guid>
-            <pubDate>Mon, 03 Jun 2024 00:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[8인치 파운드리 전문기업 DB하이텍이 글로벌 셔터와 SPAD(단일광자 포토다이오드) 공정 기술을 고도화해 특화 이미지센서 사업을 확대 중이라고 3일 밝혔다. 글로벌 셔터는 빠르...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
