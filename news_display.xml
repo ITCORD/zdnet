@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 03:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 04:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GPU 포기설 부인한 인텔...2세대 '배틀메이지' 온다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604023738</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604023738</guid>
+            <pubDate>Tue, 04 Jun 2024 04:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 인텔은 GPU 시장 재진출 선언 이후 오랜 준비 과정을 거쳐 지난 2022년 3월 모바일(노트북)용 아크 A350M, 6월 데스크톱용 아크 A3...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[CPU 코어 분신술 '하이퍼스레딩' 20년만에 버린 인텔]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604023505</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240603083530</guid>
             <pubDate>Mon, 03 Jun 2024 00:46:55 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자서비스가 '폴더블폰 디스플레이 단품 수리'를 확대하며 갤럭시 사용 고객의 서비스 편의 향상에 나섰다. '디스플레이 단품 수리'는 디스플레이 부품과 테두리, 케이스 등을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, AI 가속 위한 차세대 GPU·솔루션 대거 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240603012616</link>
-            <guid>https://zdnet.co.kr/view/?no=20240603012616</guid>
-            <pubDate>Sun, 02 Jun 2024 17:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] "대만은 컴퓨터와 킥보드를 만든 데 이어 이제 데이터센터를 만든다. 나아가 걸어다니는 컴퓨터(로봇)를 만들 것이다. 이 여정은 엔비디아에도 중요...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
