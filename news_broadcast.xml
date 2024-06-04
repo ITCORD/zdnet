@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 02:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 03:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 최대 휠체어농구대회 열린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604102841</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604102841</guid>
+            <pubDate>Tue, 04 Jun 2024 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부가 10일까지 닷새간 서울시교육청 학생체육관에서 '제20회 우정사업본부장배 전국휠체어농구대회'를 개최한다. 총 18개 팀 250명의 선수단이 참여하며 국내에서 열리는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+ '유플투쁠', 누적 이용자 80만명 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604091911</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240603084503</guid>
             <pubDate>Mon, 03 Jun 2024 00:45:59 GMT</pubDate>
             <content:encoded><![CDATA[KT는 국내 최초로 비수도권 지역인 부산에 인터넷 3센터를 구축했다고 3일 밝혔다. 재난, 정전 등으로 인해 수도권 위치한 메인 통신센터(이하 1, 2 센터)가 정상적으로 동작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[월 2만6000원에 데이터 6GB...LGU+ 최저가 5G 요금 개편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240602104221</link>
-            <guid>https://zdnet.co.kr/view/?no=20240602104221</guid>
-            <pubDate>Sun, 02 Jun 2024 01:59:13 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 월 2만6천원에 데이터 6GB를 제공하는 5G 요금제를 내놨다. LG유플러스는 2일 너겟(Nerhet)을 정규 상품으로 개변하면서 통신 3사 최저가 5G 요금제를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
