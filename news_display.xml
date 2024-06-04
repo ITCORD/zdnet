@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 00:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 01:59:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류병훈 SK하이닉스 부사장 "HBM 전망 청신호…그래도 투자 신중해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604094827</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604094827</guid>
+            <pubDate>Tue, 04 Jun 2024 01:57:03 GMT</pubDate>
+            <content:encoded><![CDATA["AI 서비스가 고도화될 수록 HBM(고대역폭메모리)의 수요는 더더욱 증가할 것으로 예상됩니다. 다만 전방산업의 변동성과 AI 데이터센터 구축 속도를 감안하면 신중하게 투자를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[RF머트리얼즈, AI 반도체 시장 공략...'콜드 플레이트' 국산화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604083743</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530154616</guid>
             <pubDate>Thu, 30 May 2024 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[차세대 메모리 PIM(프로세싱 인 메모리, Processing-In-Memory) 반도체가 몇 년 안에 AI(인공지능) PC와 AI 스마트폰에 적용될 전망이다. 삼성전자와 SK...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arm, 3나노 공정 검증 마친 클라이언트용 'Arm CSS' 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530131238</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530131238</guid>
-            <pubDate>Thu, 30 May 2024 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[Arm이 AI 산업을 위한 컴퓨팅 서브시스템(CSS) 및 소프트웨어를 공개했다. 신규 CSS는 최선단 파운드리인 3나노미터(nm) 공정 검증을 거쳐, 현재 양산 준비를 마무리했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
