@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 23:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 00:50:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RF머트리얼즈, AI 반도체 시장 공략...'콜드 플레이트' 국산화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604083743</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604083743</guid>
+            <pubDate>Tue, 04 Jun 2024 00:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 패키지 전문기업 RF머트리얼즈는 콜드 플레이트를 통한 인공지능(AI) 반도체 시장 진출을 추진한다고 4일 밝혔다. 콜드 플레이트는 마이크로 채널 기술을 통해 작은 유체통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄컴, 컴퓨텍스서 코파일럿+ 업고 스냅드래곤 X 엘리트 세몰이]]></title>
             <link>https://zdnet.co.kr/view/?no=20240603203703</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240530131238</guid>
             <pubDate>Thu, 30 May 2024 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[Arm이 AI 산업을 위한 컴퓨팅 서브시스템(CSS) 및 소프트웨어를 공개했다. 신규 CSS는 최선단 파운드리인 3나노미터(nm) 공정 검증을 거쳐, 현재 양산 준비를 마무리했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 세계 최소형 CMOS OP Amp 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240530144048</link>
-            <guid>https://zdnet.co.kr/view/?no=20240530144048</guid>
-            <pubDate>Thu, 30 May 2024 07:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[로옴(ROHM)은 스마트폰 및 소형 IoT 기기 등에서 온도, 압력, 유량 등을 검출하고 계측한 센서 신호의 증폭에 최적인 초소형 패키지 CMOS OP Amp 'TLR377GY...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
