@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 20:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 21:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이큐랩, 국내 최초 8인치 전력반도체 전용팹 건립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604175928</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604175928</guid>
+            <pubDate>Tue, 04 Jun 2024 21:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[부산 전력반도체 소부장 특화단지에 우리나라 최초의 8인치 전력반도체 전용팹이 건립된다. 이는 지난 4월 3일 정부의 '제2기 소부장 특화단지 맞춤형 지원방안' 발표 이후 이루어...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/15/bb5c670fd92671626b3709c4b8e3c5d2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스노우플레이크, 개발자 플랫폼 대거 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20240605044904</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240604213856</guid>
             <pubDate>Tue, 04 Jun 2024 13:12:41 GMT</pubDate>
             <content:encoded><![CDATA[그룹 '슈퍼주니어' 김희철㊵이 자신을 둘러싼 루머에 입을 열었다. 김희철은 4일 팬 소통 플랫폼 버블에서 한 팬이 "희철아 대체 일본에서 뭘 하고 온 거야"라고 묻는 메시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/04/enter35241e24a427422725c2fd2a594e8f6e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정형돈 "코코넛 오일로 다이어트...망했다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604174411</guid>
             <pubDate>Tue, 04 Jun 2024 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[음악 투자 플랫폼 뮤직카우가 이달 옥션 라인업을 공개하고 옥션 낙찰자를 대상으로 다양한 혜택을 제공할 예정이라고 4일 밝혔다. 이달 첫 옥션은 이날부터 11일까지 진행된다. 그...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[젠슨 황 엔비디아 CEO "삼성전자·마이크론 HBM 공급 검증중"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604173431</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604173431</guid>
-            <pubDate>Tue, 04 Jun 2024 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 젠슨 황 엔비디아 CEO가 4일(대만 현지시각) 삼성전자와 마이크론의 HBM(고대역폭메모리) 제품 검증 작업을 진행중이라고 밝혔다. 젠슨 황 C...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
