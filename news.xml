@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 21:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 22:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플TV+ 中 상륙?…애플-차이나모바일 협상설]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240605014138</link>
+            <guid>https://zdnet.co.kr/view/?no=20240605014138</guid>
+            <pubDate>Tue, 04 Jun 2024 22:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 중국에서 애플TV 플러스 구독 서비스를 출시하려는 정황이 포착됐다. 4일 중국 언론 신랑차이징과 IT즈자 등은 미국 디인포메이션을 인용해 애플과 차이나모바일이 중국에서 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/05/1bb9243e6929795e980117f6cc94ba53-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스노우플레이크, 노코드로 LLM 챗봇 구축 기능 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240605063938</link>
+            <guid>https://zdnet.co.kr/view/?no=20240605063938</guid>
+            <pubDate>Tue, 04 Jun 2024 22:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[[샌프란시스코(미국)=김우용 기자] 스노우플레이크는 4일(현지시간) 미국 샌프란시스코에서 개최한 '스노우플레이크 서밋 2024' 둘째날 행사에서 '스노우플레이크 코텍스 AI'의...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/05/300e1135efeec8fc1248e1533a9a9ba3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 휴머노이드 로봇이 車 만든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240605013941</link>
+            <guid>https://zdnet.co.kr/view/?no=20240605013941</guid>
+            <pubDate>Tue, 04 Jun 2024 22:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 인공지능(AI) 휴머노이드 로봇이 자동차를 제조하는 생산라인에 정식으로 투입된다. 3일 중국 언론 정췐스바오에 따르면, 상용차 기업 둥펑리우치와 로봇 기업 유비테크가 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이큐랩, 국내 최초 8인치 전력반도체 전용팹 건립]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604175928</link>
             <guid>https://zdnet.co.kr/view/?no=20240604175928</guid>
             <pubDate>Tue, 04 Jun 2024 21:09:45 GMT</pubDate>
             <content:encoded><![CDATA[부산 전력반도체 소부장 특화단지에 우리나라 최초의 8인치 전력반도체 전용팹이 건립된다. 이는 지난 4월 3일 정부의 '제2기 소부장 특화단지 맞춤형 지원방안' 발표 이후 이루어...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/15/bb5c670fd92671626b3709c4b8e3c5d2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스노우플레이크, 개발자 플랫폼 대거 업데이트]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240605044904</guid>
             <pubDate>Tue, 04 Jun 2024 20:11:30 GMT</pubDate>
             <content:encoded><![CDATA[[샌프란시스코(미국)=김우용 기자] 스노우플레이크는 4일(현지시간) 미국 샌프란시스코에서 개최한 '스노우플레이크서밋 2024' 둘째날 행사에서 데이터를 활용한 엔터프라이즈급 파...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/05/5f96d6f0f5a352f8ed45db4e0c62277e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김희철, 루머 해명 "SM 후배들과 술 마신 적 없어"]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604180925</guid>
             <pubDate>Tue, 04 Jun 2024 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[한국과 아세안 국가 간 엔터테인먼트 기술 분야 협력과 교류를 목표로 출범하는 국회 엔터테크포럼이 오는 11일 국회서 '신한류, 인공지능(AI) 시대 한-아세안 교류 협력의 새로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[남부발전, 차세대 전자결재 시스템 구축…생산성·업무 효율 향상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604180921</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604180921</guid>
-            <pubDate>Tue, 04 Jun 2024 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[남부발전이 생산성과 업무 효율성 향상을 위한 '차세대 전자결재 시스템'을 구축하고 본격적인 운영에 나섰다. 한국남부발전(대표 이승우)은 나눔기술·캠벨·세포아소프트와 협력해 차세...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IITP "글로벌 디지털 프런티어로 도약"···설립 10주년 기념식]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604180513</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604180513</guid>
-            <pubDate>Tue, 04 Jun 2024 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA["가장 위험한 말은 여태껏 이렇게 해왔어 라는 말이다" 미국 컴퓨터 과학자이자 해군 제독으로 컴퓨터 프로그래밍 언어 코볼 개발을 주도한 그래이스 머레이 하퍼(Grace Brew...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직카우, 6월 옥션 라인업 공개…첫 곡은 AOA '단발머리']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604174411</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604174411</guid>
-            <pubDate>Tue, 04 Jun 2024 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[음악 투자 플랫폼 뮤직카우가 이달 옥션 라인업을 공개하고 옥션 낙찰자를 대상으로 다양한 혜택을 제공할 예정이라고 4일 밝혔다. 이달 첫 옥션은 이날부터 11일까지 진행된다. 그...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

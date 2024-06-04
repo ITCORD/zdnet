@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 21:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 22:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스노우플레이크, 노코드로 LLM 챗봇 구축 기능 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240605063938</link>
+            <guid>https://zdnet.co.kr/view/?no=20240605063938</guid>
+            <pubDate>Tue, 04 Jun 2024 22:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[[샌프란시스코(미국)=김우용 기자] 스노우플레이크는 4일(현지시간) 미국 샌프란시스코에서 개최한 '스노우플레이크 서밋 2024' 둘째날 행사에서 '스노우플레이크 코텍스 AI'의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스노우플레이크, 개발자 플랫폼 대거 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20240605044904</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604094403</guid>
             <pubDate>Tue, 04 Jun 2024 00:46:18 GMT</pubDate>
             <content:encoded><![CDATA['인공지능(AI)' 열풍이 최근 사그라들면서 헤지펀드들이 잇따라 관련 소프트웨어 기업들의 주식들을 정리하고 나섰다. AI 칩과 관련 장비 업체들의 주식을 사들이는 것과는 다소 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠로, 'AI 구매시스템' 美특허 등록 결정..."해외 사업 탄력 기대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604090715</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604090715</guid>
-            <pubDate>Tue, 04 Jun 2024 00:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[엠로(대표 송재민)는 자체 개발한 AI 기술에 대한 특허가 미국 특허청으로부터 등록 결정됐다고 4일 밝혔다. 이번에 등록 결정된 '기계 학습을 통한 학습 모델을 사용한 정보 제...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
