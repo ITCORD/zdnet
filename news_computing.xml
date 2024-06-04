@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 10:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 11:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스노우플레이크, 아이스버그용 오픈소스 카탈로그 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604200629</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604200629</guid>
+            <pubDate>Tue, 04 Jun 2024 11:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[[샌프란시스코(미국)=김우용 기자] 스노우플레이크가 아파치 아이스버그 호출 API를 표준화할 수 있는 데이터 카탈로그를 공개했다. 스노우플레이크는 3일(현지시간) 미국 샌프란시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["엔터프라이즈 AI의 시대가 왔다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240604192421</link>
+            <guid>https://zdnet.co.kr/view/?no=20240604192421</guid>
+            <pubDate>Tue, 04 Jun 2024 11:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[[샌프란시스코(미국)=김우용 기자] “엔터프라이즈 AI의 시대가 도래했습니다.” 슈리다 라마스워미 스노우플레이크 최고경영자(CEO)는 3일(현지시간) 미국 샌프란시스코에서 개최...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[남부발전, 차세대 전자결재 시스템 구축…생산성·업무 효율 향상]]></title>
             <link>https://zdnet.co.kr/view/?no=20240604180921</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604072949</guid>
             <pubDate>Tue, 04 Jun 2024 00:46:18 GMT</pubDate>
             <content:encoded><![CDATA[히타치밴타라는 올해 들어 블록, 파일, 오브젝트 등의 스토리지를 단일 플랫폼에 통합하는 '히타치밴타라 VSP 원' 전략을 내놨다. 그 첫번째 제품으로 기존 NAS 제품의 후속작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울디지털재단, 한국IT서비스학회서 AI 공공서비스 혁신사례 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604075431</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604075431</guid>
-            <pubDate>Mon, 03 Jun 2024 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[서울디지털재단(강요식 이사장)은 지난달 30일 한국과학기술회관에서 열린 '2024 한국IT서비스학회 춘계학술대회'에 참가해 '인공지능(AI)시대, 스마트라이프 서울 구현 방향과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 간 SW정책 이끈 SPRi "SW업계, 산업 융합으로 혁신해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240603194456</link>
-            <guid>https://zdnet.co.kr/view/?no=20240603194456</guid>
-            <pubDate>Mon, 03 Jun 2024 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[올해 10주년을 맞이하는 소프트웨어정책연구소(SPRi)는 국내 소프트웨어(SW) 산업의 발전과 지속 가능한 혁신을 도모하는 핵심 기관으로서, 국가 차원의 SW 정책 수립을 지원...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
