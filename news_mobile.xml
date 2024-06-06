@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 01:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 02:30:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] "시놀로지, AI 시대 위한 고가용성 스토리지 공급"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240606093342</link>
+            <guid>https://zdnet.co.kr/view/?no=20240606093342</guid>
+            <pubDate>Thu, 06 Jun 2024 02:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] "AI 시대는 각종 처리 속도 뿐만 아니라 데이터 저장과 관리도 중요하다. 오늘 공개한 백업 어플라이언스 '액티브프로텍트', '스케일아웃'은 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, 美 '오토테크 디트로이트' 첫 참가...차량용 솔루션 '알파웨어' 소개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240606094248</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604201436</guid>
             <pubDate>Tue, 04 Jun 2024 12:19:27 GMT</pubDate>
             <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 인텔이 내년 출시할 모바일(노트북)용 프로세서 '팬서레이크'(Panther Lake) 출시와 함께 그동안 뒤처졌던 반도체 제조 공정 리더십을 회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['반지의 제왕' 꿈꾸는 삼성, 왜 오우라 제소했나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604155744</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604155744</guid>
-            <pubDate>Tue, 04 Jun 2024 08:14:22 GMT</pubDate>
-            <content:encoded><![CDATA['갤럭시 링' 출시를 앞둔 삼성전자가 특허소송을 제기했다. 경쟁사 오우라의 무차별 특허 소송을 사전 차단하면서 '반지의 제왕'을 향한 힘찬 행보를 하려는 조치로 풀이된다. 더버...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
