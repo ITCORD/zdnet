@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 23:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 00:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] "루나레이크, 개발 과정 단축에 조기 출시"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240606012040</link>
+            <guid>https://zdnet.co.kr/view/?no=20240606012040</guid>
+            <pubDate>Thu, 06 Jun 2024 00:45:23 GMT</pubDate>
+            <content:encoded><![CDATA["루나레이크는 개발 기간 중 모든 이정표를 예정보다 앞당겨 달성했다. 개발 과정은 그만큼 성공적이었다. 개발 기간과 출시 시기 등을 종합적으로 고려한 결과 업계 예상보다 보다 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국필립모리스, 양산시·환경재단과 플로깅 캠페인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240605223633</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604141147</guid>
             <pubDate>Tue, 04 Jun 2024 06:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2013년 9월 출시된 애플 아이폰5S가 단종된다. IT매체 폰아레나는 애플이 최근 단종 제품 목록에 아이폰5S를 추가했다고 3일(현지시간) 보도했다. 제품이 단종되면 모든 하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI PC, 사생활 침해·지연 없는 맞춤형 경험 제공할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604023818</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604023818</guid>
-            <pubDate>Tue, 04 Jun 2024 03:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] AI PC의 핵심은 클라우드에 의존했던 AI 기능을 PC로 가져오는 것이다. 미리 학습된 AI 모델을 내려받아 CPU와 GPU, NPU(신경망처...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
