@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 05:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기업 환경에 LLM 특화"…미스트랄AI, 미세조정 SDK 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240606110628</link>
+            <guid>https://zdnet.co.kr/view/?no=20240606110628</guid>
+            <pubDate>Thu, 06 Jun 2024 06:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[미스트랄AI가 대규모언어모델(LLM)의 성능을 개선하거나 기업에 특화할 수 있도록 기술 지원을 제공한다. 미스트랄은 5일(현지시간) AI모델 미세 조정을 위한 소프트웨어 개발 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] "中에 개인정보 다 넘어갔다고?"…알리·테무 조사한 개보위, 이달 중 결과 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240605190946</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240605105311</guid>
             <pubDate>Wed, 05 Jun 2024 01:56:08 GMT</pubDate>
             <content:encoded><![CDATA[인젠트(대표 박재범)는 '이론부터 실전까지, 오픈소스 DBMS 완전정복' 웨비나를 개최했다고 5일 밝혔다. 지난 4일 개최한 웨비나는 교실 콘셉트로 진행되어 인젠트 OSD사업팀...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나모 크로스에디터4, 점자 변환 기능 탑재...시각장애인 웹사용 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240605104228</link>
-            <guid>https://zdnet.co.kr/view/?no=20240605104228</guid>
-            <pubDate>Wed, 05 Jun 2024 01:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[지란지교소프트가 시각장애인도 웹문서를 읽을 수 있도록 점자 변환을 지원한다. 지란지교소프트가 에이티소프트와 업무 제휴를 맺고 웹에디터 나모 크로스에디터4에 점자 변환 기능을 연...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
