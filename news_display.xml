@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 04:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 05:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 아이폰15 OLED 추가 공급…中 BOE 품질 문제 탓]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240607112501</link>
+            <guid>https://zdnet.co.kr/view/?no=20240607112501</guid>
+            <pubDate>Fri, 07 Jun 2024 05:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[삼성디스플레이가 올 2분기 중국 BOE의 아이폰15용 OLED 패널 물량을 대신 생산한다. BOE가 그간 제기된 불량 문제를 해결하지 못한 탓으로, 국내 디스플레이 업계에 수혜...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한미반도체, SK하이닉스로부터 HBM용 TC본더 1500억 수주]]></title>
             <link>https://zdnet.co.kr/view/?no=20240607101859</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604024031</guid>
             <pubDate>Tue, 04 Jun 2024 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 인텔은 2003년 펜티엄M 프로세서와 와이파이 모듈을 통합한 센트리노 플랫폼으로 노트북 와이파이 보편화를 이끌어냈다. 지난 해 출시한 코어 울트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "루나레이크, P/E코어 작업 배분 효율화로 전력 절감"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604024106</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604024106</guid>
-            <pubDate>Tue, 04 Jun 2024 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 인텔은 12세대 코어 프로세서(엘더레이크)부터 고성능 P(퍼포먼스) 코어, 저전력·고효율 기반 E(에피션트) 코어를 혼합한 하이브리드 코어를 투...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
