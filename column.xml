@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 03:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 04:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] '유니콘 IP', 콘텐츠 넘어 지속가능한 산업으로]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240607130033</link>
+            <guid>https://zdnet.co.kr/view/?no=20240607130033</guid>
+            <pubDate>Fri, 07 Jun 2024 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[K-콘텐츠 위상이 높아지고 있다. 인기만큼 시장도 커졌다. 2022년 연간 한국 콘텐츠 산업 매출액은 약 148조1천607억원 규모로 추정되며, 전년 대비 7.7% 성장했다. 드라마, 웹툰, 영화, 게임 등 다양한 국내 콘텐츠의 글로벌 성공 사례가 속속 등장했다.&nbsp;하지만 만족은 이르다. 세계 시장은 광활하기 때문이다. 2022년 기준 전세계 콘텐츠 시장은 출판업을 제외한 모든 분야에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/07/d6009a80f831401f5a4bd26c3e707327.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[곽노건 교수의 웹3 ⑦] 웹3 개발 및 참여]]></title>
             <link>https://zdnet.co.kr/view/?no=20240603090929</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Apr 2024 15:11:52 GMT</pubDate>
             <content:encoded><![CDATA[반도체에서 수율은 결함이 없는 합격품의 비율을 말한다. 쉽게 말하면 웨이퍼 한 장에서 설계한 최대 칩 개수 대비 실제 생산한 정상 칩의 개수를 백분율로 나타낸 것이다. 불량률의 반대말이다. 즉 투입한 양 대비 제조해 나온 양의 비율이 수율인데, 높은 수율은 곧 높은 생산성을 의미, 반도체 산업에서 수율을 높이는 것은 매우 중요하다.반도체는 미세 회로로 구성된다. 이 때문에 공정 중 결함이나 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/04/29/b808434b8b0757bc5d7f6f70e230a767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[곽노건 교수의 웹3 ④] DeFi(디파이, 탈중앙화 금융)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240429144422</link>
-            <guid>https://zdnet.co.kr/view/?no=20240429144422</guid>
-            <pubDate>Mon, 29 Apr 2024 06:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[지난 칼럼에서 블록체인 기술이&nbsp;탈중앙화 개념을 구현해주는 중요한 요소라고 말씀 드렸습니다.&nbsp;오늘은 웹3의 또 하나의 중요한 구성요소인 탈중앙화 금융(Decentralized Finance, 이하 디파이)을 얘기해 보겠습니다.웹3 탈중앙화된 구조에서 서비스를 자율적으로 이용하기 위해서는 중재자 없이 운영되는 디파이는 꼭 필요합니다. 디파이는 기존 금융 시스템의 중앙 집중적인 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/04/29/af829917950fa31a7fcfc9e34a17cbc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
