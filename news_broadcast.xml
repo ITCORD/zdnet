@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 00:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 02:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 "문자메시지로 911 긴급신고”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240607104910</link>
+            <guid>https://zdnet.co.kr/view/?no=20240607104910</guid>
+            <pubDate>Fri, 07 Jun 2024 01:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 휴대폰 문자 메시지로 911에 긴급신고를 할 수 있는 기능을 선보인다. 음성통화가 여의치 않은 상황에서 RCS를 통해 문자 메시지로 미국 긴급 콜센터를 통하게 하는 것이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 오픈랜 환경에서 전력 절감 기술 검증 성공]]></title>
             <link>https://zdnet.co.kr/view/?no=20240607092238</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604180925</guid>
             <pubDate>Tue, 04 Jun 2024 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[한국과 아세안 국가 간 엔터테인먼트 기술 분야 협력과 교류를 목표로 출범하는 국회 엔터테크포럼이 오는 11일 국회서 '신한류, 인공지능(AI) 시대 한-아세안 교류 협력의 새로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[르포] "2030년 미래교실이 궁금하신가요?"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604162342</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604162342</guid>
-            <pubDate>Tue, 04 Jun 2024 08:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[[여수=최지연 기자] 사회 수업이 시작되자 환경 통합센서가 자동으로 집중력을 강화시키는 쿨톤으로 교실 분위기를 변경했다. 이어 실내 공기질 정보를 토대로 공기청정기와 에어컨이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

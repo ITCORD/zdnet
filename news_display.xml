@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 00:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 02:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미반도체, SK하이닉스로부터 HBM용 TC본더 1500억 수주]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240607101859</link>
+            <guid>https://zdnet.co.kr/view/?no=20240607101859</guid>
+            <pubDate>Fri, 07 Jun 2024 01:59:04 GMT</pubDate>
+            <content:encoded><![CDATA[한미반도체 대표이사 곽동신 부회장은 SK하이닉스로부터 인공지능 반도체 고대역폭메모리(HBM) 3세대 하이퍼 모델인 '듀얼 TC본더 그리핀'을 1천500억원 규모로 수주했다고 7...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['컴퓨텍스 첫 출전' SK하이닉스, TSMC와 협업 5세대 HBM3E 실물 전시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240606221705</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240604024106</guid>
             <pubDate>Tue, 04 Jun 2024 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 인텔은 12세대 코어 프로세서(엘더레이크)부터 고성능 P(퍼포먼스) 코어, 저전력·고효율 기반 E(에피션트) 코어를 혼합한 하이브리드 코어를 투...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[류병훈 SK하이닉스 부사장 "HBM 전망 청신호…그래도 투자 신중해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240604094827</link>
-            <guid>https://zdnet.co.kr/view/?no=20240604094827</guid>
-            <pubDate>Tue, 04 Jun 2024 01:57:03 GMT</pubDate>
-            <content:encoded><![CDATA["AI 서비스가 고도화될 수록 HBM(고대역폭메모리)의 수요는 더더욱 증가할 것으로 예상됩니다. 다만 전방산업의 변동성과 AI 데이터센터 구축 속도를 감안하면 신중하게 투자를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
