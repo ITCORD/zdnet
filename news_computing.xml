@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 08:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 신뢰할 수 있는 인공지능과 설명요구권]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240607172719</link>
+            <guid>https://zdnet.co.kr/view/?no=20240607172719</guid>
+            <pubDate>Fri, 07 Jun 2024 09:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["北 해킹 도발 막겠다"…국정원, 사이버공격 대응훈련 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240607165853</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[250억원 투자 받은 뤼튼 "권고 사직설은 거짓…법적 대응 고려 중"]]></title>
+            <title><![CDATA[250억원 투자 받은 뤼튼 "대규모 권고 사직설은 거짓…법적 대응 고려 중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240607152807</link>
             <guid>https://zdnet.co.kr/view/?no=20240607152807</guid>
             <pubDate>Fri, 07 Jun 2024 08:13:54 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240605190946</guid>
             <pubDate>Thu, 06 Jun 2024 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[최근 중국 e커머스 업체를 둘러싼 국내 소비자 개인정보 침해·유출 우려가 제기된 가운데 개인정보보호위원회가 이달 말까지 실태 조사를 마무리하고 처분 결과를 내놓을 방침이다. 최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시놀로지, 백업 어플라이언스 '액티브프로텍트' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240606112632</link>
-            <guid>https://zdnet.co.kr/view/?no=20240606112632</guid>
-            <pubDate>Thu, 06 Jun 2024 02:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] 시놀로지가 백업 소프트웨어와 하드웨어를 결합한 기업용 저장장치 '액티브프로텍트'(ActiveProtect)로 어플라이언스(통합장치) 시장에 진출...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
