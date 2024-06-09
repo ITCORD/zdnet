@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 09:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 10:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인큐텍, 대한파킨슨병협회와 AI교육 협약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240609181508</link>
+            <guid>https://zdnet.co.kr/view/?no=20240609181508</guid>
+            <pubDate>Sun, 09 Jun 2024 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[인큐텍(대표 송인규 고려대 겸임교수)은 대한파킨슨병협회와 장애인을 위한 AI교육을 공동으로 추진하기로 하고 협약을 맺었다고 9일 밝혔다 이번 협약은 장애인들이 AI를 학습해 취...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틸론 "추격 불가능한 제품 만들 것"···신제품 'D스테이션X' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240609175905</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240607084118</guid>
             <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
             <content:encoded><![CDATA[구글이 사용자 노트북에서 작동하는 메모 애플리케이션 기능을 업그레이드했다. 7일 더 버지에 따르면 구글은 메모 앱 '노트북LM'에 자사 멀티모달 모델 제미나이1.5 프로를 탑재...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['AI 3강' 엔비디아·MS·오픈AI, 美서 조사 대상됐다…무슨 일?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240607100049</link>
-            <guid>https://zdnet.co.kr/view/?no=20240607100049</guid>
-            <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방 규제 당국이 엔비디아, 마이크로소프트, 오픈AI 등 인공지능(AI) 주요 3사를 대상으로 반독점 조사에 나선다. 챗GPT 출시 후 빅테크 기업들이 AI 분야 투자에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
