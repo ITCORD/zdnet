@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 02:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 02:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아가신 할머니, AI 덕에 만났다…"사진 1장·10초 음성이면 가능"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240610110023</link>
+            <guid>https://zdnet.co.kr/view/?no=20240610110023</guid>
+            <pubDate>Mon, 10 Jun 2024 02:35:20 GMT</pubDate>
+            <content:encoded><![CDATA["식용유 두 병을 샀는데 아주 향이 좋네." 석달 전 사망한 할머니는 사투리가 묻어 나오는 목소리로 손자가 "설 명절을 대비해 산 물건이 있나요?"라는 물음에 영상에서 이처럼 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세일즈포스, AI로 기업 시스템 품질 관리·고장 예측한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240610090911</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240607105538</guid>
             <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
             <content:encoded><![CDATA[로그프레소(대표 양봉열)가 기업의 정보자산 보호를 위한 사이버위협 탐지 역량 강화에 박차를 가한다. 로그프레소는 후이즈XML API(WhoisXML API)와 사이버 위협 탐지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['멍멍' 소리로 개의 감정·품종까지 알아채는 AI 나왔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240607101746</link>
-            <guid>https://zdnet.co.kr/view/?no=20240607101746</guid>
-            <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[시끄럽게만 느껴졌던 개 짖는 소리의 비밀을 알려주는 인공지능(AI) 모델이 개발됐다. IT매체 기즈모도는 미국 미시간 대학, 멕시코 국립 천체물리학 연구소 등 공동 연구진이 개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
