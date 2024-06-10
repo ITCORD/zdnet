@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 00:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 02:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세일즈포스, AI로 기업 시스템 품질 관리·고장 예측한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240610090911</link>
+            <guid>https://zdnet.co.kr/view/?no=20240610090911</guid>
+            <pubDate>Mon, 10 Jun 2024 01:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[세일즈포스가 인공지능(AI)과 고객 데이터를 활용해 기업 시스템과 시설 관리를 시작한다. 고객 자산에 발생할 수 있는 이슈를 미리 알리고 수명 주기도 예측할 수 있다. 이 기업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스노우플레이크 창업자가 밝히는 성공 비결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240610100845</link>
+            <guid>https://zdnet.co.kr/view/?no=20240610100845</guid>
+            <pubDate>Mon, 10 Jun 2024 01:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[2012년 오라클에서 일하던 데이터베이스 전문가 2명이 퇴사 후 네덜란드의 또 다른 데이터 전문가와 함께 한 회사를 설립했다. 이 회사의 창업자들은 빅데이터와 클라우드 기술의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['구글 대항마'로 떠오른 美 퍼플렉시티, 저작권 침해 문제로 '몸살']]></title>
             <link>https://zdnet.co.kr/view/?no=20240610093432</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240607101746</guid>
             <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
             <content:encoded><![CDATA[시끄럽게만 느껴졌던 개 짖는 소리의 비밀을 알려주는 인공지능(AI) 모델이 개발됐다. IT매체 기즈모도는 미국 미시간 대학, 멕시코 국립 천체물리학 연구소 등 공동 연구진이 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 FBI, 락빗 랜섬웨어 암호화 해독 키 무료 제공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240607102411</link>
-            <guid>https://zdnet.co.kr/view/?no=20240607102411</guid>
-            <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방수사국(FBI)이 악명 높은 랜섬웨어 집단 '락빗(LockBit)'의 피해자 데이터 복구 지원을 본격화한다. 7일 실리콘앵글 등 외신에 따르면 FBI 브라이언 본드란 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['온디바이스AI' 노린 업스테이지, 인텔 고성능 프로세서에 '솔라' 탑재]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240607103147</link>
-            <guid>https://zdnet.co.kr/view/?no=20240607103147</guid>
-            <pubDate>Fri, 07 Jun 2024 01:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[업스테이지가 개발한 거대언어모델(LLM) 솔라가 인텔 프로세서에 최적화된다. 업스테이지는 솔라의 경량화 버전인 '솔라 미니(Solar Mini)'와 솔라 기반 LLM 문서 작업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
