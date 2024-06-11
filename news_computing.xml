@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 09:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 10:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클릭, 올여름 AI 비즈니스 플랫폼 출시한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240611183129</link>
+            <guid>https://zdnet.co.kr/view/?no=20240611183129</guid>
+            <pubDate>Tue, 11 Jun 2024 10:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[클릭테크놀로지스가 미국서 열린 행사에서 인공지능(AI) 사업에 속도를 내겠다고 발표했다. 클릭테크놀로지스는 이달 4일 미국 플로리다에서 열린 연례 글로벌 이벤트 '클릭 커넥트'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코오롱베니트-에이플랫폼, DB 사업 확대 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20240611151358</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240610135005</guid>
             <pubDate>Mon, 10 Jun 2024 06:16:28 GMT</pubDate>
             <content:encoded><![CDATA[국내 의료기관서 처방되는 항생제 등 의약품 이상사례 정보를 취합·공유하는 인공지능(AI) 비서가 개발된다. SK C&amp;C는 국내 제약회사 일성아이에스와 '제약 분야 AI 디지털전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지코어, 엣지에서 실시간 추론 '인퍼런스앳더엣지' 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240610142128</link>
-            <guid>https://zdnet.co.kr/view/?no=20240610142128</guid>
-            <pubDate>Mon, 10 Jun 2024 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[지코어는 AI 애플리케이션에 초저지연 경험을 실시간 제공하는 '인퍼런스 앳더 엣지' 솔루션을 출시한다고 10일 밝혔다. 솔루션은 사전 학습된 머신 러닝 모델을 전 세계에 분포돼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
