@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 05:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, '1b D램' 양산에 사활…수율 잡을 TF 가동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240611110025</link>
+            <guid>https://zdnet.co.kr/view/?no=20240611110025</guid>
+            <pubDate>Tue, 11 Jun 2024 06:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 데이터센터용 최선단 D램 사업 확대에 사활을 걸고 있다. 최근 1b(5세대 10나노급) D램의 수율을 끌어올리기 위한 조직을 만들고, 연내 생산량을 크게 확대하기 위...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1Q 반도체 장비 청구액 264억 달러...전년比 2% 하락]]></title>
             <link>https://zdnet.co.kr/view/?no=20240611111307</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240606221705</guid>
             <pubDate>Fri, 07 Jun 2024 00:47:48 GMT</pubDate>
             <content:encoded><![CDATA[[타이베이(대만)=권봉석 기자] SK하이닉스가 오는 7일(대만 현지시간)까지 진행되는 컴퓨텍스 타이베이 2024에 참여해 HBM3E, PCI 익스프레스 5.0 NVMe SSD ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최태원 회장, TSMC 회장 만나 "인류 도움 AI 시대 초석 함께 열자"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240607081559</link>
-            <guid>https://zdnet.co.kr/view/?no=20240607081559</guid>
-            <pubDate>Fri, 07 Jun 2024 00:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[최태원 SK그룹 회장이 세계 최대 반도체 위탁생산(파운드리) 기업인 TSMC 웨이저자 회장을 만나 AI 반도체 경쟁력 강화를 위한 양사 협력을 한층 강화하기로 했다. 최 회장은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
