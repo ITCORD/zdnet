@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 03:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 04:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 광고제작부터 인스타 활용 마케팅까지 AI 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240611121155</link>
+            <guid>https://zdnet.co.kr/view/?no=20240611121155</guid>
+            <pubDate>Tue, 11 Jun 2024 04:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 인공지능(AI) 기술로 인스타그램을 활용한 마케팅에 나선다. 회사가 개발한 AI 익시를 활용해 숏폼 형태의 릴스도 만든다. 회사의 마케팅 전 영역에 이처럼 AI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OTT 티빙, 동시에 프로야구 최대 6경기 시청]]></title>
             <link>https://zdnet.co.kr/view/?no=20240611115401</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240607160712</guid>
             <pubDate>Sun, 09 Jun 2024 00:51:38 GMT</pubDate>
             <content:encoded><![CDATA[이동통신 3사가 5G 중간요금제 재개편에 이어 최저가 요금제도 새로 내놓으면서 알뜰폰이 그나마 우위를 점하던 가격 경쟁력도 사라지고 있다는 우려가 쏟아지고 있다. 알뜰폰 도매대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ 알뜰폰 공용 유심, 철도역 스토리웨이 편의점에서도 판매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240609075029</link>
-            <guid>https://zdnet.co.kr/view/?no=20240609075029</guid>
-            <pubDate>Sun, 09 Jun 2024 00:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 중소 알뜰폰 공용 유심 원칩을 전국 철도역 내 '스토리웨이' 편의점에서도 판매한다고 9일 밝혔다. '원칩'은 선후불 관계없이 40여개 U+알뜰폰 사업자 요금제, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
