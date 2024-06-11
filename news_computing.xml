@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 00:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 02:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼마이크로, '블랙웰' 탑재 AI 최적화 서버 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240611103055</link>
+            <guid>https://zdnet.co.kr/view/?no=20240611103055</guid>
+            <pubDate>Tue, 11 Jun 2024 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼마이크로컴퓨터는 생성형 AI 개발 및 구축을 지원하는 엔비디아 AI 엔터프라이즈 소프트웨어 플랫폼에 최적화된 '슈퍼클러스터'를 11일 공개했다. 슈퍼마이크로 슈퍼클러스터는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI, 첫 최고재무책임자 영입…"AI 사업 성장 집중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240611085135</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240610100845</guid>
             <pubDate>Mon, 10 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[2012년 오라클에서 일하던 데이터베이스 전문가 2명이 퇴사 후 네덜란드의 또 다른 데이터 전문가와 함께 한 회사를 설립했다. 이 회사의 창업자들은 빅데이터와 클라우드 기술의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['구글 대항마'로 떠오른 美 퍼플렉시티, 저작권 침해 문제로 '몸살']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240610093432</link>
-            <guid>https://zdnet.co.kr/view/?no=20240610093432</guid>
-            <pubDate>Mon, 10 Jun 2024 00:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI에 이어 '구글 검색의 대안'으로 꼽히는 인공지능(AI) 스타트업 퍼플렉시티도 저작권 침해 논란에 휩싸였다. 10일 블룸버그 통신에 따르면 퍼플렉시티는 사용자 요구에 따...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
