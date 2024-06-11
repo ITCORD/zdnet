@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 02:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 03:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴렐릭, 'IT 및 통신 업계 옵저버빌리티 현황 보고서' 발간]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240611113346</link>
+            <guid>https://zdnet.co.kr/view/?no=20240611113346</guid>
+            <pubDate>Tue, 11 Jun 2024 03:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[뉴렐릭은 IT 및 통신 업계 옵저버빌리티 현황 보고서(State of Observability for IT and Telecommunications report)를 발간했다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼마이크로, '블랙웰' 탑재 AI 최적화 서버 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240611103055</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240610090911</guid>
             <pubDate>Mon, 10 Jun 2024 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[세일즈포스가 인공지능(AI)과 고객 데이터를 활용해 기업 시스템과 시설 관리를 시작한다. 고객 자산에 발생할 수 있는 이슈를 미리 알리고 수명 주기도 예측할 수 있다. 이 기업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스노우플레이크 창업자가 밝히는 성공 비결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240610100845</link>
-            <guid>https://zdnet.co.kr/view/?no=20240610100845</guid>
-            <pubDate>Mon, 10 Jun 2024 01:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[2012년 오라클에서 일하던 데이터베이스 전문가 2명이 퇴사 후 네덜란드의 또 다른 데이터 전문가와 함께 한 회사를 설립했다. 이 회사의 창업자들은 빅데이터와 클라우드 기술의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
