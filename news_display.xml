@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 02:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 02:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유블럭스, 블루투스 AoA 통합 솔루션 '유로케이트' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240611110131</link>
+            <guid>https://zdnet.co.kr/view/?no=20240611110131</guid>
+            <pubDate>Tue, 11 Jun 2024 02:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[유블럭스는 위치 추적 정확도, 비용 및 전력 소모의 최적의 조합을 제공하는 실내 위치 추적 솔루션 유로케이트(u-locate)를 출시한다고 11일 밝혔다. 블루투스 LE AoA...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 2in1 SiC 몰드 타입 신형 모듈 'TRCDRIVE' 팩 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20240611101658</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240605181829</guid>
             <pubDate>Wed, 05 Jun 2024 10:12:28 GMT</pubDate>
             <content:encoded><![CDATA['OLED 명가(名家)' LG디스플레이가 독보적 기술력을 앞세워 프리미엄 디스플레이 시장을 선도하고 있다. 5일 LG디스플레이에 따르면 회사는 화질의 한계를 뛰어넘는 '메타(M...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["엔비디아 고마워"…'HBM 칩 테스트' 소식에 삼성 주가 상승세]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240605151420</link>
-            <guid>https://zdnet.co.kr/view/?no=20240605151420</guid>
-            <pubDate>Wed, 05 Jun 2024 08:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 삼성전자의 고대역폭메모리(HBM) 품질검증 작업을 진행 중이라고 밝히면서 삼성전자의 주가가 상승세를 보이고 있다고 블룸버그통신이 4일(이하 현지시간) 보도했다. 젠슨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
