@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 21:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 22:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 올해 내 한 차례 금리 인하]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240613070849</link>
+            <guid>https://zdnet.co.kr/view/?no=20240613070849</guid>
+            <pubDate>Wed, 12 Jun 2024 22:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[미국 연방준비제도(연준)이 6월 11~12일(현지시간) 열린 공개시장위원회(FOMC)에서 정책금리를 종전과 같은 수준인 5.25~5.50%로 동결하면서, 올해 한 차례 금리를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/06/23/4564df5215777f962f3d07714191a1ac-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포르쉐 카이엔 등 주행보조시스템 SW 오류…자발적 리콜]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240613070542</link>
+            <guid>https://zdnet.co.kr/view/?no=20240613070542</guid>
+            <pubDate>Wed, 12 Jun 2024 22:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 기아·포르쉐코리아·르노코리아자동차·한국토요타자동차·한국지엠·현대자동차가 제작 또는 수입·판매한 17개 차종 3만6천897대에서 제작결함이 발견돼 자발적으로 시정조치...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/13/68ee08d700d999a49c51f1f59eeef7ae-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이마트, 상반기 과일데이 개최…수박·참외·토마토 등 할]]></title>
             <link>https://zdnet.co.kr/view/?no=20240612184139</link>
             <guid>https://zdnet.co.kr/view/?no=20240612184139</guid>
             <pubDate>Wed, 12 Jun 2024 21:10:13 GMT</pubDate>
             <content:encoded><![CDATA[이마트가 14일부터 16일까지 과일데이를 열고 5월~6월 과일 매출 상위 6대 품목을 선별해 30% 할인 판매한다고 13일 밝혔다. 과일매출 상위 6대 품목은 수박, 참외, 토...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/12/e20874e4e2672cc6ea8c0116bc941f22-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국계 AI석학 최예진 "AGI, 멀고 먼 길··상식 부족해 AI역설 발생"]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240612211243</guid>
             <pubDate>Wed, 12 Jun 2024 12:18:48 GMT</pubDate>
             <content:encoded><![CDATA[“최예진보다 인공지능(AI)을 더 잘 설명하는 사람은 거의 없다.” 빌 게이츠 마이크로소프트(MS) 창업자가 지난해 11월 최예진 워싱턴대 교수와 대담을 나눈 뒤 자신의 유튜브...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/12/7670d588cc219c99bcfb27a6bc64e7e5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[야마하뮤직, 온라인 합주 플랫폼 '싱크룸' 버전 2.0 공개]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240612163310</guid>
             <pubDate>Wed, 12 Jun 2024 08:13:32 GMT</pubDate>
             <content:encoded><![CDATA["커스터디 사업자는 기술 기업이기보다는 규제를 대행하는 관리 기업의 서비스를 제공한다. 그래서 법인들의 경우 커스터디를 이용하면 규제 대응 부분에서 커버가 수월해진다는 장점이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사피온-리벨리온 합병…업계 "국내 AI 반도체 경쟁력 위해 긍정적"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240612164904</link>
-            <guid>https://zdnet.co.kr/view/?no=20240612164904</guid>
-            <pubDate>Wed, 12 Jun 2024 08:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내 AI 반도체 스타트업 대표주자인 사피온과 리벨리온이 경쟁력 강화를 위해 합병을 결정했다. 이번 합병 추진은 국내 AI 반도체 기업간 대승적 통합을 통해 글로벌 AI인프라 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS 크리스 베츠 CISO "보안 문화 핵심은 리더십과 오너십"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240612163759</link>
-            <guid>https://zdnet.co.kr/view/?no=20240612163759</guid>
-            <pubDate>Wed, 12 Jun 2024 08:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS)의 크리스 베츠 최고정보책임자(CISO)는 11일(현지시간) AWS 리인포스 2024 키노트 발표 후 이어진 인터뷰에서 보안 문화의 핵심 요소로 리더십과 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
