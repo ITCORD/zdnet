@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 08:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 09:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TI, 가전·공조 시장 겨냥한 초소형 'GaN IPM' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240613174043</link>
+            <guid>https://zdnet.co.kr/view/?no=20240613174043</guid>
+            <pubDate>Thu, 13 Jun 2024 09:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[텍사스인스트루먼트(TI)는 13일 미디어 간담회를 통해 업계 최초로 250W 모터 드라이브 애플리케이션을 위한 650V 3상 질화갈륨(GaN) IPM을 소개했다. 니콜 나빈스키...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[차세대 2나노 첨단공정 개발에 'W2W' 웨이퍼 본딩 기술 뜬다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240613143343</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240611155623</guid>
             <pubDate>Tue, 11 Jun 2024 07:11:43 GMT</pubDate>
             <content:encoded><![CDATA[마우저일렉트로닉스는 유블럭스의 XPLR-IOT-1 익스플로러 키트(Explorer Kit)를 공급한다고 11일 밝혔다. XPLR-IOT-1은 센서 네트워크, 환경 제어, 의료 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '1b D램' 양산에 사활…수율 잡을 TF 가동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240611110025</link>
-            <guid>https://zdnet.co.kr/view/?no=20240611110025</guid>
-            <pubDate>Tue, 11 Jun 2024 06:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 데이터센터용 최선단 D램 사업 확대에 사활을 걸고 있다. 최근 1b(5세대 10나노급) D램의 수율을 끌어올리기 위한 조직을 만들고, 연내 생산량을 크게 확대하기 위...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
