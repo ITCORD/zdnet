@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 06:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 07:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스 "챗GPT가 못하는 IT 통합, '가이아'는 할 수 있다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240613143322</link>
+            <guid>https://zdnet.co.kr/view/?no=20240613143322</guid>
+            <pubDate>Thu, 13 Jun 2024 07:11:03 GMT</pubDate>
+            <content:encoded><![CDATA["슈퍼앱 '가이아'가 완전히 새로운 디지털 트렌스포메이션(DT) 시대를 엽니다. 기업 시스템과 데이터, 애플리케이션, 인공지능(AI)이 가이아 안에서 통합된 형태로 작동합니다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 시동 건 신세계I&C, 인텔과 동남아 공략 본격화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240613144303</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240612224747</guid>
             <pubDate>Wed, 12 Jun 2024 23:11:15 GMT</pubDate>
             <content:encoded><![CDATA[[필라델피아(미국)=남혁우 기자] 아마존웹서비스가 한국 기업들이 안전하게 혁신을 추구할 수 있도록 보안 전략과 연계된 인공지능(AI) 기술 지원 서비스를 제공한다 12일(현지시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS "보안과 IT혁신 동시 지원하는 자동화된 추론"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240613054538</link>
-            <guid>https://zdnet.co.kr/view/?no=20240613054538</guid>
-            <pubDate>Wed, 12 Jun 2024 23:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[[필라델피아(미국)=남혁우 기자] 아마존웹서비스(AWS)가 자동화된 추론(Automated Reasoning)이라는 인공지능(AI) 기술을 통해 기업 보안 강화와 함께 기술혁신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

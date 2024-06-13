@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 06:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 07:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 2나노 첨단공정 개발에 'W2W' 웨이퍼 본딩 기술 뜬다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240613143343</link>
+            <guid>https://zdnet.co.kr/view/?no=20240613143343</guid>
+            <pubDate>Thu, 13 Jun 2024 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[최첨단 패키징 기술인 W2W 하이브리드 본딩이 미래 반도체 시장의 핵심 요소로 떠오를 전망이다. 특히 2나노미터(nm) 이하에서 상용화될 BSPDN, CFET 등이 유력한 적용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파두, 해외기업 매각·투자설에 "사실무근" 반박]]></title>
             <link>https://zdnet.co.kr/view/?no=20240613132622</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240611110025</guid>
             <pubDate>Tue, 11 Jun 2024 06:15:19 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 데이터센터용 최선단 D램 사업 확대에 사활을 걸고 있다. 최근 1b(5세대 10나노급) D램의 수율을 끌어올리기 위한 조직을 만들고, 연내 생산량을 크게 확대하기 위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1Q 반도체 장비 청구액 264억 달러...전년比 2% 하락]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240611111307</link>
-            <guid>https://zdnet.co.kr/view/?no=20240611111307</guid>
-            <pubDate>Tue, 11 Jun 2024 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[국제반도체장비재료협회(SEMI)는 올해 1분기 반도체 장비 청구액이 전년동기 대비 2% 감소한 264억 달러를 기록했다고 11일 밝혔다. 전분기 대비로는 6% 하락한 수치다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
