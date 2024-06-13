@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 04:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 05:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국IBM "생성형 AI로 더 복잡해진 IT, 자동화는 필수"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240613110216</link>
+            <guid>https://zdnet.co.kr/view/?no=20240613110216</guid>
+            <pubDate>Thu, 13 Jun 2024 05:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[“오늘날 기업들은 다양한 클라우드 환경과 수 많은 애플리케이션을 비즈니스에서 활용하고 있으며, 이 환경은 생성형 AI의 도입으로 더욱 복잡해지고 있다. 생성형 AI가 2028년...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈소스컨설팅, 한국클라우드산업협회 주최 'K-AI PaaS Summit 2024' 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20240613112617</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240612162234</guid>
             <pubDate>Wed, 12 Jun 2024 08:14:15 GMT</pubDate>
             <content:encoded><![CDATA[#. 공무원 A씨는 인사이동으로 새로운 업무를 맡을 때마다 업무 매뉴얼을 숙지하고 정책 관련 법령 등을 찾아보는 것에 대한 부담이 컸다. 전임자나 팀원들에게 물어보는 것도 한계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 기술로 이끄는 스포츠 산업의 녹색 혁명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240612162253</link>
-            <guid>https://zdnet.co.kr/view/?no=20240612162253</guid>
-            <pubDate>Wed, 12 Jun 2024 08:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[녹색 미래를 향한 리그에서 기술은 스타플레이어며 지속가능성 골이 터질 때마다 그 짜릿함은 실제 스포츠 경기만큼이나 강렬하다. 지난 몇 년 동안 스포츠 산업은 글로벌 지속가능성 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
