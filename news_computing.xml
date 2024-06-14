@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 02:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 02:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美·EU 등 SW 공급망 보안 강화…스패로우가 제시한 대응 방안은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240614111611</link>
+            <guid>https://zdnet.co.kr/view/?no=20240614111611</guid>
+            <pubDate>Fri, 14 Jun 2024 02:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[스패로우가 국내외 최대 보안 이슈 중 하나인 SW 공급망 보안 동향과 이에 대응하기 위한 실제 적용 사례를 공유하는 자리를 가졌다. 스패로우는 지난 13일 오후 서울 양재 엘타...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["허락없이 음원 쓰지 마"…소니 뮤직 경고에 韓 AI 기업 반응은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240614105132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240613102705</guid>
             <pubDate>Thu, 13 Jun 2024 01:57:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 오라클과 마이크로소프트 애저 AI 플랫폼 확장을 위한 파트너십을 체결했다. 오라클은 마이크로소프트, 오픈AI등과 오라클클라우드인프라스트럭처(OCI)를 활용해 플랫폼을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트시큐리티, 통합 보안 플랫폼 개발 위해 '이곳'과 뭉쳤다…"해외 시장 개척 박차"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240613101213</link>
-            <guid>https://zdnet.co.kr/view/?no=20240613101213</guid>
-            <pubDate>Thu, 13 Jun 2024 01:57:01 GMT</pubDate>
-            <content:encoded><![CDATA[이스트시큐리티가 시큐어링크, 사이시큐연구소와 손잡고 제로트러스트 기반 엔드포인트 통합 보안 플랫폼 개발 사업에 본격 나선다. 이스트시큐리티는 시큐어링크, 사이시큐연구소와 함께 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
