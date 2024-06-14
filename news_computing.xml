@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 23:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 00:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, 챗GPT 공짜로 쓴다…오픈AI에 사용료 안 내"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240614080838</link>
+            <guid>https://zdnet.co.kr/view/?no=20240614080838</guid>
+            <pubDate>Fri, 14 Jun 2024 00:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 인공지능(AI) 챗봇 활용을 위해 챗GPT 개발사 오픈AI와 파트너십을 체결했지만 오픈AI에 금전적인 대가를 지불하지 않는다고 블룸버그통신이 13일(현지시간) 보도했다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1만4천여 회원사 KOSA 부여서 첫 '리더스포럼'···"SW가 산업 핵심"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240613225407</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240613093538</guid>
             <pubDate>Thu, 13 Jun 2024 00:46:46 GMT</pubDate>
             <content:encoded><![CDATA[업스테이지가 자사 언어모델 '솔라'로 금융투자 업무에 특화된 인공지능(AI) 플랫폼을 개발해 금융 시장 공략에 본격 나선다. 업스테이지는 금융투자업 특화 생성형 AI 플랫폼 구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알에스엔, 환각 없앤 생성형 질의응답 AI 분석 서비스로 고객 확보 박차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240613093903</link>
-            <guid>https://zdnet.co.kr/view/?no=20240613093903</guid>
-            <pubDate>Thu, 13 Jun 2024 00:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[알에스엔(RSN)이 할루시네이션(환각, 허위정보 생성) 현상이 없는 생성형 질의응답 인공지능(AI) 분석 서비스를 앞세워 고객 확보에 박차를 가한다. 알에스엔은 오는 19일부터...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
