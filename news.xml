@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 14:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 15:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터스트림즈, 말레이시아에 현지 합작사 설립]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240617234646</link>
+            <guid>https://zdnet.co.kr/view/?no=20240617234646</guid>
+            <pubDate>Mon, 17 Jun 2024 15:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[데이터스트림즈(대표 이영상)가 말레이시아 대형 SI기업과 손잡고 말레이시아 현지에 합작사를 설립했다. 합작사를 통해 말레이시아 공공과 산업 현장의 디지털 혁신을 촉진하고 지원할...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/17/104366d2a4e11e6572d4fd95aced0252-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과학 및 기술서비스업 비자발 실업자 증가세 왜?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240617224713</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240617221300</guid>
             <pubDate>Mon, 17 Jun 2024 13:13:37 GMT</pubDate>
             <content:encoded><![CDATA[브라이트에너지파트너스(BEP)가 경상북도 영주시 안정면 소재 500kW 규모 태양광 발전소의 리파워링(Repowering)을 마치고 발전 용량을 약 두 배 늘린 1.1MW 발전...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/17/b028d1f080e6471e6c5e251278552c9d-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하이브리드차 세제 감면연장 의안 국회 발의…2026년까지]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240617174817</guid>
             <pubDate>Mon, 17 Jun 2024 09:11:41 GMT</pubDate>
             <content:encoded><![CDATA[의약품 허가자료의 신뢰성을 확인하는 절차가 신설된다. 식품의약품안전처는 17일 식품의약품안전평가원 산하 '신뢰성 확인 심의위원회'를 통해 의약품 허가‧심사 과정에서 제출되는 허...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAP코리아, 연암공대와 DX 인재 양성 MOU 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240617174623</link>
-            <guid>https://zdnet.co.kr/view/?no=20240617174623</guid>
-            <pubDate>Mon, 17 Jun 2024 09:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[SAP 코리아(대표 신은영)는 연암공과대학교와 디지털 전환 분야 우수 인재 양성을 위한 업무협약(MOU)을 체결했다고 17일 밝혔다. 이날 SAP 코리아에서 진행된 MOU 체결...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
