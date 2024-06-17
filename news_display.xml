@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 00:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 02:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이, 업계 최초로 자체 '생성형 AI' 업계 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240617083750</link>
+            <guid>https://zdnet.co.kr/view/?no=20240617083750</guid>
+            <pubDate>Mon, 17 Jun 2024 02:01:02 GMT</pubDate>
+            <content:encoded><![CDATA[LG디스플레이가 기술 및 정보 유출 우려 없이 사내 지식을 고도화할 수 있는 '생성형 AI'를 자체 개발했다. LG디스플레이는 업계 최초로 자체 생성형 AI를 개발해 도입했다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, '커피트럭' 끌고 대학교서 이색 채용 행사]]></title>
             <link>https://zdnet.co.kr/view/?no=20240616090548</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240612105139</guid>
             <pubDate>Wed, 12 Jun 2024 05:12:16 GMT</pubDate>
             <content:encoded><![CDATA[Samsung Electronics is making every effort to expand its DRAM business to the top end for data cen...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 미디어텍, Arm 기반 '윈도우용 PC 칩' 개발 착수..."인텔 위협"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240612094146</link>
-            <guid>https://zdnet.co.kr/view/?no=20240612094146</guid>
-            <pubDate>Wed, 12 Jun 2024 01:58:55 GMT</pubDate>
-            <content:encoded><![CDATA[대만 반도체 팹리스 기업 미디어텍이 마이크로소프트의 윈도우 운영체제를 실행할 Arm 기반의 노트북용 칩을 개발 중이라고 로이터통신이 12일 보도했다. 두 명의 소식통에 따르면 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
