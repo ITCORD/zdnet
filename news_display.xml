@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 05:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 06:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우저, AMD·자일링스의 알베오 MA35D 미디어 가속기 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240617143911</link>
+            <guid>https://zdnet.co.kr/view/?no=20240617143911</guid>
+            <pubDate>Mon, 17 Jun 2024 06:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[마우저일렉트로닉스는 AMD·자일링스(Xilinx)의 '알베오 MA35D' 미디어 가속기를 공급한다고 17일 밝혔다. 알베오 MA35D 미디어 가속기는 인공지능(AI) 지원이 가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[낸드 부활에 日 키오시아 '투자 시동'…韓 장비업계 '방긋']]></title>
             <link>https://zdnet.co.kr/view/?no=20240617092520</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240612145538</guid>
             <pubDate>Wed, 12 Jun 2024 06:15:55 GMT</pubDate>
             <content:encoded><![CDATA[시스템 반도체 설계 전문기업 코아시아가 삼성 파운드리 포럼(SFF)과 삼성 SAFE Forum 2024에 참가해 MDI(Multi-Die Integration) 솔루션 등 최신...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프랙틸리아, EUV 공정 안정성 높이기 위한 'FAME OPC' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240612111536</link>
-            <guid>https://zdnet.co.kr/view/?no=20240612111536</guid>
-            <pubDate>Wed, 12 Jun 2024 06:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[스토캐스틱 기반 분석 및 제어 솔루션 전문기업 Fractilia(프랙틸리아)는 'FAME OPC'라는 신제품을 출시한다고 12일 밝혔다. 프랙틸리아의 FAME OPC는 첨단 패...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
