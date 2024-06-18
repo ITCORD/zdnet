@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 21:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 22:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 소비자 43% "AI 폰 매우 흥미"...세계 평균은 7%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240619020316</link>
+            <guid>https://zdnet.co.kr/view/?no=20240619020316</guid>
+            <pubDate>Tue, 18 Jun 2024 22:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[중국 모바일 소비자들의 생성형 인공지능(AI) 기능에 대한 수요가 높은 것으로 나타났다. 18일 시장조사업체 캐널리스가 생성형 AI 기능을 탑재한 스마트폰에 대한 편향을 조사한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데하이마트, 애플 아이패드 신모델 2종 판매]]></title>
             <link>https://zdnet.co.kr/view/?no=20240618204044</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240618083557</guid>
             <pubDate>Tue, 18 Jun 2024 00:47:20 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 갤럭시 AI의 PC 경험을 제공하는 '갤럭시북4 엣지'를 18일 국내 출시한다. '갤럭시북4 엣지'는 온디바이스와 클라우드를 모두 지원하는 '하이브리드 AI'를 통해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, '갤럭시S24 울트라'로 2024 파리 올림픽 개막식 생중계]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240618083238</link>
-            <guid>https://zdnet.co.kr/view/?no=20240618083238</guid>
-            <pubDate>Tue, 18 Jun 2024 00:47:20 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 2024 파리 올림픽에 '갤럭시S24 울트라'를 지원해 혁신적인 중계 시청 경험을 제공한다. 삼성전자는 국제올림픽위원회(IOC), 올림픽방송서비스(OBS)와 협력해,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
