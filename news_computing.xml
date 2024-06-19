@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 04:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 05:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강이구 코오롱베니트 "AI협력으로 고객과 AI시장 모두 공략"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240619123621</link>
+            <guid>https://zdnet.co.kr/view/?no=20240619123621</guid>
+            <pubDate>Wed, 19 Jun 2024 05:12:19 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 시장이 본격화되면서 수많은 AI서비스가 출시되고 있지만 개별 서비스로는 고객사에게 비즈니스 가치를 어필하기 어려운 것이 현실이다. 고객사들의 복잡하고 다양한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NHN클라우드-베슬AI, AI 인프라 관리 시장 본격 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240619111328</link>
+            <guid>https://zdnet.co.kr/view/?no=20240619111328</guid>
+            <pubDate>Wed, 19 Jun 2024 05:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[NHN클라우드가 인공지능(AI) 기술 인프라 통합 관리 시장에 본격 착수했다. NHN클라우드는 머신러닝(ML) 개발 및 운영 플랫폼 기업 베슬AI와 사업 협력을 맺었다고 19일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수세, 옵저버빌리티 플랫폼 '스택스테이트' 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20240619124307</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240619091204</guid>
             <pubDate>Wed, 19 Jun 2024 00:46:32 GMT</pubDate>
             <content:encoded><![CDATA[데이터브릭스는 클라우드, 데이터 형식 및 데이터 플랫폼 전반의 데이터 및 AI 거버넌스를 위한 업계 유일의 통합 솔루션인 유니티 카탈로그(Unity Catalog)를 오픈소스로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비 애크로뱃, 파이어플라이 AI  달았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619090612</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619090612</guid>
-            <pubDate>Wed, 19 Jun 2024 00:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[어도비는 파이어플라이 AI를 통합한 '어도비 애크로뱃'의 혁신을 19일 발표했다. 새로운 애크로뱃 기능을 통해 사용자는 생성형 AI로 기존 이미지를 손쉽게 개선하거나 새로운 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 마침내 美 시총 1위…MS까지 제쳤다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619082617</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619082617</guid>
-            <pubDate>Wed, 19 Jun 2024 00:46:32 GMT</pubDate>
-            <content:encoded><![CDATA['거침 없는 하이킥'을 계속하고 있는 엔비디아가 마침내 미국 기업 시가총액 1위로 올라섰다. 18일(현지시간) 엔비디아는 주가가 3.6% 상승하면서 시가총액 3조3천400억 달...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
