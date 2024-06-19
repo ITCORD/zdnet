@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 07:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 08:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노르마, 양자컴 생성형 AI알고리즘 활용 결과 26일 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240619163706</link>
+            <guid>https://zdnet.co.kr/view/?no=20240619163706</guid>
+            <pubDate>Wed, 19 Jun 2024 08:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[양자 보안과 양자 컴퓨팅 전문 기업 노르마(대표 정현철, www.norma.co.kr)는 오는 25일부터 27일까지 킨텍스에서 열리는 '퀀텀코리아 2024'에 참가한다고 19일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[노드VPN "韓서 악성 SW 300만개 차단…일본·베트남보다 多"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240619150008</link>
+            <guid>https://zdnet.co.kr/view/?no=20240619150008</guid>
+            <pubDate>Wed, 19 Jun 2024 08:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서 300만개에 달하는 악성 소프트웨어(SW)가 차단된 것으로 전해졌다. 일본, 베트남 등 아시아 국가 중에서 가장 높은 수치다. 노드VPN은 올해 1월부터 5월까지 보안...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위가 제시한 AI 프라이버시 미래는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240619095058</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240619101619</guid>
             <pubDate>Wed, 19 Jun 2024 01:58:36 GMT</pubDate>
             <content:encoded><![CDATA[인포뱅크가 AICC(AI Contact Center, 인공지능컨택센터) 솔루션 사업을 본격적으로 확대하며 엔터프라이즈 AI 기업으로 도약한다. 인포뱅크는 AICC 분야로 사업 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['AWS 인증' 받은 LG CNS, 생성형 AI 시장 공략 박차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619095755</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619095755</guid>
-            <pubDate>Wed, 19 Jun 2024 01:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[LG CNS가 아마존웹서비스(AWS)의 AWS 생성형 AI 컴피턴시(AWS Generative AI Competency) 인증을 획득했다. 19일 LG CNS에 따르면 AWS ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생성형AI 적용 검색엔진 '젠스파크', 구글에 도전장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619091235</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619091235</guid>
-            <pubDate>Wed, 19 Jun 2024 01:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI) 기반의 새로운 검색 엔진 '젠스파크(Genspark)'가 6천만 달러 투자를 유치했다. 18일(현지시간) 로이터 등 외신에 따르면 젠스파크는 싱가포르 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
