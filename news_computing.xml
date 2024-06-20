@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 01:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 02:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효성인포메이션-엑세스랩, Arm 서버 시장 확대 파트너십 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240620105550</link>
+            <guid>https://zdnet.co.kr/view/?no=20240620105550</guid>
+            <pubDate>Thu, 20 Jun 2024 02:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[AI·데이터 인프라 솔루션 전문기업 효성인포메이션시스템(대표 양정규)은 국내 유일 ARM 서버 개발 기업 엑세스랩(대표 유명환)과 총판 계약을 체결하고 저전력 고효율 데이터센터...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 개인정보 전송요구권 세부 기준 알린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240620102041</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240619154724</guid>
             <pubDate>Wed, 19 Jun 2024 07:10:53 GMT</pubDate>
             <content:encoded><![CDATA[지난해 말 행정망 먹통 사태로 곤욕을 치른 정부가 세 번째 데이터센터를 마련해 전산망 장애 대비에 본격 나섰다. 행정안전부는 19일 대구 동구에 마련된 국가정보자원관리원 대구센...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE-엔비디아, 생성형 AI 인프라 협업 포트폴리오 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619153050</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619153050</guid>
-            <pubDate>Wed, 19 Jun 2024 07:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[HPE는 엔비디아와 공동 개발한 AI 솔루션 'HPE 기반 엔비디아 AI 컴퓨팅(NVIDIA AI Computing by HPE) 포트폴리오'를 19일 출시했다. 이는 HPE가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
