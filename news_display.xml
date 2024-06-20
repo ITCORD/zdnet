@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 00:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 01:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 범죄집단 "AMD 내부 데이터 해킹했다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240620081854</link>
+            <guid>https://zdnet.co.kr/view/?no=20240620081854</guid>
+            <pubDate>Thu, 20 Jun 2024 01:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[AMD 내부 네트워크를 해킹했다고 주장하는 사이버 범죄집단이 빼돌린 내부 데이터 판매에 나섰다. 19일(미국 현지시각) 블리핑컴퓨터, 사이버익스프레스 등 보안 매체에 따르면, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["땡큐 애플" LG디스플레이, 태블릿용 OLED로 턴어라운드 가속화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240619145612</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240613174043</guid>
             <pubDate>Thu, 13 Jun 2024 09:13:47 GMT</pubDate>
             <content:encoded><![CDATA[텍사스인스트루먼트(TI)는 13일 미디어 간담회를 통해 업계 최초로 250W 모터 드라이브 애플리케이션을 위한 650V 3상 질화갈륨(GaN) IPM을 소개했다. 니콜 나빈스키...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 2나노 첨단공정 개발에 'W2W' 웨이퍼 본딩 기술 뜬다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240613143343</link>
-            <guid>https://zdnet.co.kr/view/?no=20240613143343</guid>
-            <pubDate>Thu, 13 Jun 2024 07:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[최첨단 패키징 기술인 W2W 하이브리드 본딩이 미래 반도체 시장의 핵심 요소로 떠오를 전망이다. 특히 2나노미터(nm) 이하에서 상용화될 BSPDN, CFET 등이 유력한 적용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
