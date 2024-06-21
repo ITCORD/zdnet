@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 10:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 11:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, VLSI 심포지엄서 인텔 3 공정 개선 사항 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240621194109</link>
+            <guid>https://zdnet.co.kr/view/?no=20240621194109</guid>
+            <pubDate>Fri, 21 Jun 2024 11:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 최근 미국 하와이에서 진행된 연례 글로벌 반도체 학회 'VLSI 심포지엄'에서 최근 본격 가동에 들어간 '인텔 3'(Intel 3) 공정의 개선 사항을 공개했다고 밝혔다...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/04/10/14173ce9b028facadb036b4df6cfb673-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하다하다 아침까지...갈수록 격해지는 배달 경쟁]]></title>
             <link>https://zdnet.co.kr/view/?no=20240621114351</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240621173500</guid>
             <pubDate>Fri, 21 Jun 2024 09:11:15 GMT</pubDate>
             <content:encoded><![CDATA[유럽에서 개최된 배터리 산업 전시회 '인터배터리 2024'가 한국 배터리의 기술력을 선보이며 21일 성황리에 막을 내렸다. LG에너지솔루션, 삼성SDI 등 78개 한국 배터리 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/21/5004ae96471cc3a92ef8eee08dc87a79-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[최태원 회장, 美 출장서 빅테크 만나 'AI·반도체 사업' 점검]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240621122922</guid>
             <pubDate>Fri, 21 Jun 2024 04:13:56 GMT</pubDate>
             <content:encoded><![CDATA[이달 말 출시 예정이었던 클레이튼과 핀시아의 통합 메인넷 카이아의 출시가 미뤄졌다. 클레이튼은 공지를 통해 카이아 메인넷 출시가 오는 3분기로 소폭 연기됐다고 전했다. 당초 클...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규 계약 건 50% 늘어난 이 기업..."생성형 AI 덕분"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240621092634</link>
-            <guid>https://zdnet.co.kr/view/?no=20240621092634</guid>
-            <pubDate>Fri, 21 Jun 2024 04:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[액센츄어가 생성형 인공지능(AI) 비즈니스를 시작한 후 신규 계약을 지난 분기보다 약 50% 더 체결한 것으로 나타났다. 21일 로이터 등 외신에 따르면 액센츄어 주가는 전일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
