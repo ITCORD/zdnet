@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 23:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 00:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간이 화성에 오래 머물면 신장 망가진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240621180511</link>
+            <guid>https://zdnet.co.kr/view/?no=20240621180511</guid>
+            <pubDate>Sat, 22 Jun 2024 00:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[미국 항공우주국(NASA)과 스페이스X가 향후 인간을 화성에 보내기 위해 유인 우주선 개발에 박차를 가하고 있는 가운데, 인간이 지구가 아닌 우주 환경이나 화성에 오래 머물게 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/19/62b3e575b0a105697685cb6ce6f2de6a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[목성의 거대폭풍 '대적점'의 비밀은? [우주로 간다]]]></title>
             <link>https://zdnet.co.kr/view/?no=20240621172619</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240621154853</guid>
             <pubDate>Fri, 21 Jun 2024 07:15:24 GMT</pubDate>
             <content:encoded><![CDATA["슈퍼컴을 뚫어라." 한국과학기술정보연구원(원장 김재수, KISTI)은 한국정보보호학회 충청지부와 공동 주관으로 신·변종 사이버 위협 시나리오 공모전을 개최한다. 이 공모전은 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/21/5be4b46b42e9cdfde5907d53fe683180-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KAIST, 뉴로모픽 컴퓨팅 신뢰성·속도 실험실 수준 '개선']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240619105355</guid>
             <pubDate>Wed, 19 Jun 2024 02:02:10 GMT</pubDate>
             <content:encoded><![CDATA[고려대학교(총장 김동원)는 20일 고려대학교 백주년기념삼성관 국제원격회의실에서 2024 예일-고려대 포럼을 개최한다.'지속가능한 미래를 위한 에너지/물 기후기술 혁신'이 주제다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KAIST, 챗GPT4.0 정답률보다 32.5% 더 나은 'PlanRAG' 첫 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619090425</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619090425</guid>
-            <pubDate>Wed, 19 Jun 2024 00:49:20 GMT</pubDate>
-            <content:encoded><![CDATA[KAIST가 거대언어모델(LLM)을 이용해 챗GPT4.0의 기업 의사결정 정답률을 32.5% 개선한 '플랜래그'(Plan RAG)를 처음 공개했다. 오픈AI의 최신모델인 챗GP...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
