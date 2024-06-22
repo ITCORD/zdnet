@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 00:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 01:57:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 이틀 연속 급락해 시총 3위 추락…이유는?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240622064842</link>
+            <guid>https://zdnet.co.kr/view/?no=20240622064842</guid>
+            <pubDate>Sat, 22 Jun 2024 01:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난 18일(이하 현지시간) 마이크로소프트(MS)를 제치고 시가총액 1위로 올랐던 엔비디아의 주가가 이틀 연속 3% 이상 급락하며 시총 3위까지 밀렸다고 블룸버그통신이 21일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["산업특화 LLM·다큐에이전트42 관람객 반응 좋네요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240621155804</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240620172424</guid>
             <pubDate>Thu, 20 Jun 2024 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[현대IT&amp;E가 숏폼 등 동영상 기반 마케팅 지원을 위한 전용 플랫폼을 선보인다. 현대IT&amp;E는 온라인 동영상 공유·관리 플랫폼 '비쉐어(Vishare)'를 출시했다고 20일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔키화이트햇, 급증하는 사이버 위협 속 스마트 시티 보호 방안 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240620171729</link>
-            <guid>https://zdnet.co.kr/view/?no=20240620171729</guid>
-            <pubDate>Thu, 20 Jun 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[엔키화이트햇(대표 이성권)이 급증하는 사이버 위협에서 스마트 시티를 보호하는 방법을 제시했다 엔키화이트햇은 정부세종컨벤션센터에서 개최한 '2024 핵테온 세종 국제 사이버 보안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
