@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 05:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 06:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끓어넘침 인식하는 'AI 쿡탑' 나온다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240622040215</link>
+            <guid>https://zdnet.co.kr/view/?no=20240622040215</guid>
+            <pubDate>Sat, 22 Jun 2024 06:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[소비자들이 조리물이 끓어서 넘치는 것에서 불편을 느낀다고 합니다. 그래서 인공지능(AI)을 통해 이런 끓어 넘침을 인지하고 알람을 해주는 쿡탑 기술을 개발했습니다. 제품은 이달...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 유럽서 아이폰 AI 기능 탑재 보류…이유는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240622071745</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240621005859</guid>
             <pubDate>Thu, 20 Jun 2024 16:14:01 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 스포츠 시계 브랜드 순토가 올인원 GPS 워치 '순토 오션'을 출시한다고 21일 밝혔다. 순토 오션은 고해상도 1.43인치 아몰레드 디스플레이를 탑재했다. 수중에서 최대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오디오테크니카, 노이즈 캔슬링 무선 헤드폰 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240621004641</link>
-            <guid>https://zdnet.co.kr/view/?no=20240621004641</guid>
-            <pubDate>Thu, 20 Jun 2024 16:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[오디오 브랜드 오디오테크니카는 노이즈 캔슬링 무선 헤드폰 'ATH-S300BT'를 출시한다고 21일 밝혔다. 오디오테크니카 S 시리즈는 사운드 구현력과 함께 패션의 하나로 녹아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
