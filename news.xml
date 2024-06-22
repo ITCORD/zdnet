@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 01:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 02:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["황희찬과 사진 찍어볼까?"…포토그레이, 라이브 필터 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240622110340</link>
+            <guid>https://zdnet.co.kr/view/?no=20240622110340</guid>
+            <pubDate>Sat, 22 Jun 2024 02:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 뷰티테크 기업 에이피알(대표 김병훈)의 즉석 포토부스 브랜드 포토그레이에서 축구선수 황희찬과 콜라보를 통한 한정판 포토 라이브 필터와 스페셜 프레임을 선보인다고 22일 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/22/826a7e8d9cb02f045cde15195d92b9ff-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, 이틀 연속 급락해 시총 3위 추락…이유는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240622064842</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240622061454</guid>
             <pubDate>Sat, 22 Jun 2024 01:54:07 GMT</pubDate>
             <content:encoded><![CDATA[작년에는 애플 에어팟 라인업에 큰 변화가 없었으나, 올해 애플은 에어팟의 대대적인 개편을 준비 중이다. 올해 에어팟 라인업의 주요 내용은 보급형 에어팟이 될 예정이다. IT매체...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/09/09/e934623456b2df5bf6fa47d2dd27597f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[타보고서] 뉴 미니 컨트리맨, 패밀리카 다 됐네]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240621155804</guid>
             <pubDate>Fri, 21 Jun 2024 07:11:18 GMT</pubDate>
             <content:encoded><![CDATA["하루에 기념품 500개, 3일에 1500개 정도 준비했는데 이틀만에 다 나갔네요. B2C보다 B2B 전시회라 참관객 숫자보다 비즈니스에 도움이 되는 관람객이 더 중요합니다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["KISTI 슈퍼 컴퓨터를 뚫어라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240621154853</link>
-            <guid>https://zdnet.co.kr/view/?no=20240621154853</guid>
-            <pubDate>Fri, 21 Jun 2024 07:11:18 GMT</pubDate>
-            <content:encoded><![CDATA["슈퍼컴을 뚫어라." 한국과학기술정보연구원(원장 김재수, KISTI)은 한국정보보호학회 충청지부와 공동 주관으로 신·변종 사이버 위협 시나리오 공모전을 개최한다. 이 공모전은 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
