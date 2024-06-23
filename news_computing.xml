@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 23:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 00:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이메일 용량 관리 필요' 메시지=피싱]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240621100501</link>
+            <guid>https://zdnet.co.kr/view/?no=20240621100501</guid>
+            <pubDate>Sun, 23 Jun 2024 00:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[안랩이 이메일 용량 관리나 바이어 문의 공지 내용으로 위장한 범죄 사례가 늘고 있다며 사용자들에 주의를 당부했다. 안랩은 이메일에 가짜 로그인 링크를 심어 계정 탈취를 시도하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈AI, 검색·분석 스타트업 '락셋' 인수...데이터 검색 인프라 혁신]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240623073011</link>
+            <guid>https://zdnet.co.kr/view/?no=20240623073011</guid>
+            <pubDate>Sun, 23 Jun 2024 00:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 검색 및 데이터베이스 분석 스타트업인 락셋(Rockset)을 인수했다. 이번 인수는 급증하는 데이터를 보다 빠르고 정확하게 분석해 조직에서 실시간으로 중요한 결정을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SDT, 양자 가상화 실험실 지원 '클라우드 플랫폼' 첫 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240622233547</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240621074527</guid>
             <pubDate>Thu, 20 Jun 2024 23:13:04 GMT</pubDate>
             <content:encoded><![CDATA["국방 분야에 생성AI 사용이 꼭 필요합니다. 하지만 목적에 맞게 써야합니다." 한국국방연구원(KIDA) 국방데이터연구단과 과실연 AI미래포럼이 공동 주최하고 한국IT서비스학회...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐아이, 최신 디도스 공격 대응전략 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240620173516</link>
-            <guid>https://zdnet.co.kr/view/?no=20240620173516</guid>
-            <pubDate>Thu, 20 Jun 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[시큐아이가 빠르게 발전하는 차세대 디도스 공격에 대응하기 위한 방안으로 디도스 대응 시스템 '블루맥스 ADS'를 제시했다. 시큐아이는 중구 소공동 롯데호텔에서 국내 주요 통신사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클로잇-스트라토, 하이브리드·멀티 클라우드 시장 공략 박차]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240620173054</link>
-            <guid>https://zdnet.co.kr/view/?no=20240620173054</guid>
-            <pubDate>Thu, 20 Jun 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[클로잇(대표 이세희)이 하이브리드 및 멀티 클라우드 시장 확대에 나선다. 클로잇은 스트라토와 클라우드 시장 공동 대응 및 솔루션 사업 확대를 위한 협력을 위한 전략적 사업 제휴...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

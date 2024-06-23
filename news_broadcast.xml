@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 23:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 00:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OTT 평균 구독료 2만여원...'계정 공유 플랫폼' 안전할까요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240622164836</link>
+            <guid>https://zdnet.co.kr/view/?no=20240622164836</guid>
+            <pubDate>Sun, 23 Jun 2024 00:50:20 GMT</pubDate>
+            <content:encoded><![CDATA[온라인동영상서비스(OTT) 계정 공유 플랫폼이 인기를 얻고 있다. OTT들이 가격 인상에 나서면서 스트림플레이션(스트리밍+인플레이션)이 가속화되자 이에 부담을 느낀 이용자들이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김홍일 위원장 "2인 체제 방통위, 바람직하지 않지만 위법 아니다”]]></title>
             <link>https://zdnet.co.kr/view/?no=20240621152154</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240620094908</guid>
             <pubDate>Thu, 20 Jun 2024 01:55:09 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스가 재생에너지 공급 사업에 진출한다. LG유플러스는 태양광 발전 사업 개발 컨설팅 업체 스마트그린빌리지, 태양광 발전소 관련 ICT 솔루션 및 인프라 전문 기업 한화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TTA, 안티드론 시스템 프레임워크 표준화 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240619174646</link>
-            <guid>https://zdnet.co.kr/view/?no=20240619174646</guid>
-            <pubDate>Wed, 19 Jun 2024 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보통신기술협회(TTA)는 불법 드론을 이용한 범죄, 테러 등에 대응할 수 있는 시스템인 안티드론 시스템 프레임워크를 표준화한다고 19일 밝혔다. 불법 드론 위협에 대응할 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
