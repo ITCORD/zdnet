@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 02:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 03:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBM, 파워·AIX 2039년까지 지원 로드맵 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240624114439</link>
+            <guid>https://zdnet.co.kr/view/?no=20240624114439</guid>
+            <pubDate>Mon, 24 Jun 2024 03:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 2039년까지의 유닉스 환경을 위한 하드웨어와 소프트웨어 지원 로드맵을 24일 공개했다. IBM은 2039년까지 IBM 파워 프로세서와 AIX OS 지원 및 개발 계획...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클DB앳애저, 오라클 자율운영 DB 정식 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240624113524</link>
+            <guid>https://zdnet.co.kr/view/?no=20240624113524</guid>
+            <pubDate>Mon, 24 Jun 2024 03:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 마이크로소프트 애저 미국 동부 리전에서 제공 중인 오라클 데이터베이스앳애저 서비스에서 오라클 자율운영 데이터베이스를 정식 지원한다고 24일 밝혔다. 애저 데이터센터 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SAP코리아, 연례행사 'SAP 나우 코리아' 내달 9일 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240624113001</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240621124317</guid>
             <pubDate>Fri, 21 Jun 2024 04:14:39 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신규 계약 건 50% 늘어난 이 기업..."생성형 AI 덕분"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240621092634</link>
-            <guid>https://zdnet.co.kr/view/?no=20240621092634</guid>
-            <pubDate>Fri, 21 Jun 2024 04:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[액센츄어가 생성형 인공지능(AI) 비즈니스를 시작한 후 신규 계약을 지난 분기보다 약 50% 더 체결한 것으로 나타났다. 21일 로이터 등 외신에 따르면 액센츄어 주가는 전일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["인건비 절약 성공할까"…타겟, 직원 업무에 'AI 도우미' 둔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240621102616</link>
-            <guid>https://zdnet.co.kr/view/?no=20240621102616</guid>
-            <pubDate>Fri, 21 Jun 2024 04:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국 유통 업체 타겟이 매출 부진과 인건비 상승의 돌파구로 생성형 인공지능(AI) 도입을 택했다. 21일 악시오스 등 외신에 따르면 타겟은 직원 업무를 돕는 생성형 AI 챗봇을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
