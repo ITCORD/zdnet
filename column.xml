@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 00:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 02:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[곽노건 교수의 웹3 ⑨] 웹3의 미래]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240624103612</link>
+            <guid>https://zdnet.co.kr/view/?no=20240624103612</guid>
+            <pubDate>Mon, 24 Jun 2024 02:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[지난 칼럼에서 웹3 기술이 도입되면서 일어날 긍정적인 영향, 문제점을 예상해 보았습니다. 탈중앙화 특성상 많은 부분이 불안정한 모습으로 비쳐지고 있기에 문제해결을 위한 노력이 절실히 필요합니다.&nbsp;오늘은 연장 선에서 어떻게 웹3가 전개될지 미래에 대해 이야기 해보려고 합니다.&nbsp;아직 본격적으로 도입된 상황이 아닌 상태에서 제가 논할 수 있는지 모르겠지만 극초기의 웹3 진행 상황...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/24/824b8cdb0b539c576e496d66ff87f396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이정규 칼럼] 난 한 놈만 패]]></title>
             <link>https://zdnet.co.kr/view/?no=20240617103919</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 May 2024 02:29:00 GMT</pubDate>
             <content:encoded><![CDATA[공공 및 금융기관의 망분리에 대한 논란이 뜨겁다. 망분리를 리셋하고 원점에서 다시 보안 아키텍처를 구축해야 한다는 목소리도 적지 않다. 망분리의 효과를 인정하되, 부작용을 완화시킬 방안에 대해 차분히 논의를 진행해야 할 때이다.■ 망 분리 효과&nbsp;우리나라 공공기관과 금융기관은 인터넷 접속단말(PC)에 망분리 정책을 시행하고 있다. 금융기관은 주요 서버접근 단말(PC)에도 망분리를 적용...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/05/07/4ea80228840ab20693c47fa116081f08.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[곽노건 교수의 웹3 ⑤] NFT(Non-Fungible Token, 대체 불가능한 토큰)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240507112111</link>
-            <guid>https://zdnet.co.kr/view/?no=20240507112111</guid>
-            <pubDate>Tue, 07 May 2024 02:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 칼럼에서 디파이(탈중앙화 금융)에 대해 알아보면서 탈중앙화 개념을 구현해주는 중요한 요소라고 말씀 드렸습니다. 오늘은 웹3 사용자 대상의 실질적 서비스(구매, 보상, 보유, 판매, 소유권 보호, 이용)에 해당하는 NFT에 대하여 얘기해 보겠습니다.NFT란 무엇인가요?2021년에 시작하여 &nbsp;2022년까지 코인(Fungible Token) 열풍에 이어 가장자산시장 돌풍의 주인공은 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/07/fe49de60a7cd078fa4e3b855f42bcc3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
