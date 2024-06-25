@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 06:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 07:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI PC 내장 NPU의 또 다른 용도는 '보안 강화']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240625153958</link>
+            <guid>https://zdnet.co.kr/view/?no=20240625153958</guid>
+            <pubDate>Tue, 25 Jun 2024 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[지난 해부터 주요 PC 제조사가 투입하는 AI PC는 CPU, GPU에 더해 NPU(신경망처리장치)를 이용해 각종 AI 응용프로그램을 실행할 수 있다. 주요 소프트웨어 제조사는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시Z플립 6, 뭐가 바뀌나…달라지는 점은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240625131735</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240625081239</guid>
             <pubDate>Tue, 25 Jun 2024 00:47:14 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 언어 장벽 없이 자유로운 소통이 가능하도록 돕는 '갤럭시 AI'의 언어 지원을 현재 16개 연내 20개로 확대할 예정이다. 삼성전자는 언어를 넘어 문화를 이해하고 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 애플에 벌금폭탄?…"앱스토어, DMA 위반"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240624225918</link>
-            <guid>https://zdnet.co.kr/view/?no=20240624225918</guid>
-            <pubDate>Mon, 24 Jun 2024 14:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU)이 애플 앱스토어에 대해 디지털시장법(DMA) 위반에 해당된다는 예비 결론을 내렸다고 파이낸셜타임스를 비롯한 외신들이 24일(현지시간) 보도했다. 보도에 따르면 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

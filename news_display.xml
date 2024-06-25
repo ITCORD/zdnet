@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 06:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 07:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 인력 확보 경쟁...삼성·SK 이어 현대차 가세]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240625143633</link>
+            <guid>https://zdnet.co.kr/view/?no=20240625143633</guid>
+            <pubDate>Tue, 25 Jun 2024 07:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내 반도체 인력 확보전이 삼성전자, SK하이닉스에 이어 자동차 그룹인 현대자동차까지 확산되고 있다. 미래 자동차가 전동화되고 소프트웨어 중심 자동차(SDV)로 급격히 전환되면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['AI 시대' HBM 이을 주자는 QLC 낸드…삼성·SK·엔비디아도 주목]]></title>
             <link>https://zdnet.co.kr/view/?no=20240625111853</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240621194109</guid>
             <pubDate>Fri, 21 Jun 2024 11:11:08 GMT</pubDate>
             <content:encoded><![CDATA[인텔은 최근 미국 하와이에서 진행된 연례 글로벌 반도체 학회 'VLSI 심포지엄'에서 최근 본격 가동에 들어간 '인텔 3'(Intel 3) 공정의 개선 사항을 공개했다고 밝혔다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 데이터센터 전원 시스템 신뢰성 모델링 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240621103430</link>
-            <guid>https://zdnet.co.kr/view/?no=20240621103430</guid>
-            <pubDate>Fri, 21 Jun 2024 02:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언테크놀로지스는 전력 공급 장애로 인해 데이터 센터와 통신용 인프라 시스템에 발생하는 문제를 해결하는 전원 시스템 신뢰성 모델링을 21일 발표했다. 다운타임의 39%가 정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
