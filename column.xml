@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 02:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 02:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 임베디드 시스템의 발전 방향..."효율성과 보안의 중요성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240626110943</link>
+            <guid>https://zdnet.co.kr/view/?no=20240626110943</guid>
+            <pubDate>Wed, 26 Jun 2024 02:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[과거에는 특정 애플리케이션에만 국한되었던 임베디드 시스템이 이제는 어디에서나 찾아볼 수 있는 세상이 됐다. 공장, 가전 제품, 고가의 의료 기기, 유비쿼터스 웨어러블 기기에 이르기까지 세상이 더 연결될수록 임베디드 시스템은 혁신의 핵심에 자리잡았다.&nbsp;이 시스템은 제품 개발뿐만 아니라 세상을 바꾸고 더 나은 미래를 이끌어가는 새로운 방법을 제시한다. 따라서 임베디드 시스템의 향후 방향...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/26/fa70bbad40b3e9c2a5b205e54e03d478.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[곽노건 교수의 웹3 ⑨] 웹3의 미래]]></title>
             <link>https://zdnet.co.kr/view/?no=20240624103612</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 May 2024 03:13:35 GMT</pubDate>
             <content:encoded><![CDATA[생성형 AI는 생산성을 개선하며 데이터에서 더 많은 가치를 창출하는 새로운 방법을 제시한다. 하지만 기업은 생성형 AI를 도입하기에 앞서 ‘데이터는 과연 신뢰할 수 있는 것인가?’, ‘새로운 기술 채택을 위해 컴퓨팅 환경을 새롭게 구축해야 하는가?’, ‘생성형 AI 기능을 제공하는 애플리케이션을 구축하고 운영해야 하는가?’와 같은 다양한 고민이 생긴다. 그런데 흥미로운 것은 이 모든 고민들의...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/04/22/1217e9ffd1522b88af93df4ece59a35b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['망분리'는 갈라파고스를 야기하는 규제인가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503150154</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503150154</guid>
-            <pubDate>Tue, 07 May 2024 02:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[공공 및 금융기관의 망분리에 대한 논란이 뜨겁다. 망분리를 리셋하고 원점에서 다시 보안 아키텍처를 구축해야 한다는 목소리도 적지 않다. 망분리의 효과를 인정하되, 부작용을 완화시킬 방안에 대해 차분히 논의를 진행해야 할 때이다.■ 망 분리 효과&nbsp;우리나라 공공기관과 금융기관은 인터넷 접속단말(PC)에 망분리 정책을 시행하고 있다. 금융기관은 주요 서버접근 단말(PC)에도 망분리를 적용...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/07/4ea80228840ab20693c47fa116081f08.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
