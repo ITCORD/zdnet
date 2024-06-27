@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 02:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 03:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 별도 트랜시버 없는 광학 I/O 반도체 칩렛 구현]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240627115914</link>
+            <guid>https://zdnet.co.kr/view/?no=20240627115914</guid>
+            <pubDate>Thu, 27 Jun 2024 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 27일 별도 트랜시버 없이 광섬유를 직접 실리콘에 연결해 데이터를 주고 받는 완전 통합형 광학 입출력 반도체 칩렛을 구현했다고 밝혔다. 인텔은 미국 샌디에이고에서 개최된...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아바코, 中 BOE에 'OLED 진공증착시스템 장비' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240627105145</link>
+            <guid>https://zdnet.co.kr/view/?no=20240627105145</guid>
+            <pubDate>Thu, 27 Jun 2024 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[디스플레이 및 이차전지 장비 전문기업 아바코가 중국 디스플레이 기업 BOE와 OLED 진공증착시스템(OLED Vacuum Transfer system EV Line) 공급계약을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스 "자체 기술로 HBM 성공…경쟁사 출신 영입설 '사실무근'"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240627092052</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240625115743</guid>
             <pubDate>Tue, 25 Jun 2024 04:13:58 GMT</pubDate>
             <content:encoded><![CDATA[위치추적 및 무선통신 부품 기업 유블럭스가 LTE Cat 1bis 셀룰러 연결을 위해 R10 제품군 2종을 출시한다고 밝혔다. 'LEXI-R10 글로벌'은 사람이나 반려동물 추...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 최신 GSMA 표준 충족하는 eSIM 'ST4SIM-300' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240625094003</link>
-            <guid>https://zdnet.co.kr/view/?no=20240625094003</guid>
-            <pubDate>Tue, 25 Jun 2024 01:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 eSIM IoT 구축을 위한 새로운 GSMA 표준을 충족하는 업계 최초의 임베디드 SIM인 ST4SIM-300을 출시했다고 25일 밝혔다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이디테크놀로지, 5기 공채 경쟁률 30대 1 '역대 최고']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240624235455</link>
-            <guid>https://zdnet.co.kr/view/?no=20240624235455</guid>
-            <pubDate>Tue, 25 Jun 2024 01:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[에이디테크놀로지의 2024년도 5기 공개채용이 창사 이래 역대 최고 경쟁률을 경신하며 성황리에 마무리 됐다고 밝혔다. 이번 공채는 53명 모집에 총 1500명이 지원하며 30대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
