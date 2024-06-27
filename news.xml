@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 09:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 10:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리턴제로, '기사 작성 보조 AI' 언론사에 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240627180919</link>
+            <guid>https://zdnet.co.kr/view/?no=20240627180919</guid>
+            <pubDate>Thu, 27 Jun 2024 10:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[리턴제로(대표 이참솔)가 'AI 기사 작성 어시스턴트'를 새롭게 선보이고 언론사에 공급한다고 27일 밝혔다. 리턴제로의 AI 기사 작성 어시스턴트는 한국언론진흥재단에서 진행한 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/27/30ea2c83d5c03427021b1b69866f1c62-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홈리에종 "고객 맞춤형 홈스타일링 플랫폼으로 도약”]]></title>
             <link>https://zdnet.co.kr/view/?no=20240627180831</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240627180534</guid>
             <pubDate>Thu, 27 Jun 2024 09:11:31 GMT</pubDate>
             <content:encoded><![CDATA[다음 달부터 중국 당국의 전자기기 불심검문 권한이 강화돼 현지 체류·여행자들은 중국 당국의 승인을 받지 않은 가상사설망(VPN)을 이용해 카카오톡 등을 사용하는 것이 어려워질 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/24/5af884f2e00a3eea4c09169eb14a27c6-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이그니스, 중기부 예비유니콘 기업 선정]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240627173038</guid>
             <pubDate>Thu, 27 Jun 2024 09:11:31 GMT</pubDate>
             <content:encoded><![CDATA[[부산=김재성 기자] 장재훈 현대자동차 사장은 27일 부산 벡스코에서 열린 '2024 부산 모빌리티쇼'를 방문해 "현대차가 나름대로 (전기차 둔화) 반전의 기회를 우리 캐스퍼를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트, 스테이킹 서비스 개편...이용자 편의성 향상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240627172749</link>
-            <guid>https://zdnet.co.kr/view/?no=20240627172749</guid>
-            <pubDate>Thu, 27 Jun 2024 09:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[두나무(대표 이석우)는 '업비트 스테이킹' 서비스를 개편했다고 27일 밝혔다. 이번 개편은 직관적인 이용자 경험(UX)과 환경(UI)을 적용하여 이용자 편의성을 극대화한 것이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
