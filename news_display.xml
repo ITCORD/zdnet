@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 02:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 02:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, AI 지원 제품 개발 가속화 'ST 엣지 AI 스위트' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240628104212</link>
+            <guid>https://zdnet.co.kr/view/?no=20240628104212</guid>
+            <pubDate>Fri, 28 Jun 2024 02:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 엣지 AI 애플리케이션 구현을 간소화하고 가속화하도록 툴, 소프트웨어, 전문지식을 결합한 ST 엣지 AI 스위트(ST Edge AI Sui...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, AI PC용 고성능 SSD '개발...연내 양산]]></title>
             <link>https://zdnet.co.kr/view/?no=20240628090321</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240626110943</guid>
             <pubDate>Wed, 26 Jun 2024 02:31:03 GMT</pubDate>
             <content:encoded><![CDATA[과거에는 특정 애플리케이션에만 국한되었던 임베디드 시스템이 이제는 어디에서나 찾아볼 수 있는 세상이 됐다. 공장, 가전 제품, 고가의 의료 기기, 유비쿼터스 웨어러블 기기에 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, AI 서버용 신규 CoolSiC MOSFET 400V 제품군 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240626105528</link>
-            <guid>https://zdnet.co.kr/view/?no=20240626105528</guid>
-            <pubDate>Wed, 26 Jun 2024 02:31:03 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언테크놀로지스는 최신 2세대(G2) CoolSiC 기술을 기반으로 하는 새로운 CoolSiC MOSFET 400V 제품군을 출시했다고 26일 밝혔다. 이 새로운 MOSFE...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
