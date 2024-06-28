@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 00:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 02:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKB, 제로트러스트 기반 SD-WAN 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240628100057</link>
+            <guid>https://zdnet.co.kr/view/?no=20240628100057</guid>
+            <pubDate>Fri, 28 Jun 2024 01:58:07 GMT</pubDate>
+            <content:encoded><![CDATA[SK브로드밴드는 제로트러스트 보안 기반의 기업용 서비스 'SmartWAN'을 새롭게 출시했다고 28일 밝혔다. 'SmartWAN'은 소프트웨어 방식으로 다양한 인터넷 연결 서비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, EVPS와 전기버스 충전 사업 공동추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20240628092748</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240627100332</guid>
             <pubDate>Thu, 27 Jun 2024 01:57:25 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전은 로컬 크리에이터로서 사업 추진 방향과 ESG(사회·환경·지배구조) 경영 현황을 담은 두 번째 지속가능경영보고서를 발간했다고 27일 밝혔다. 보고서는 외부 이해관계...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 경찰대학 치안정책연구소와 AI로 범죄 예방 '맞손']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240627100132</link>
-            <guid>https://zdnet.co.kr/view/?no=20240627100132</guid>
-            <pubDate>Thu, 27 Jun 2024 01:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 AI기술로 보다 안전한 사회를 만드는 것을 목표로 경찰대학 치안정책연구소와 'AI 기반 범죄 예방 기술 협력' 양해각서를 27일 체결했다고 밝혔다. 이에 따라 SK...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
