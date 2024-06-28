@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 02:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 03:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["내년 메모리 캐파 역성장할 수도"…삼성전자, 생산량 확대 선제 대응]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240628092446</link>
+            <guid>https://zdnet.co.kr/view/?no=20240628092446</guid>
+            <pubDate>Fri, 28 Jun 2024 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 메모리 생산량을 적극 확대하려는 움직임을 보이고 있다. HBM(고대역폭메모리)와 최선단 제품으로 공정 전환을 적극 추진하면서, 내년 레거시 메모리 생산능력이 매우 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ST, AI 지원 제품 개발 가속화 'ST 엣지 AI 스위트' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240628104212</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240626142042</guid>
             <pubDate>Wed, 26 Jun 2024 06:16:08 GMT</pubDate>
             <content:encoded><![CDATA[국내 SiC(실리콘카바이드) 웨이퍼 전문기업 쎄닉은 지난 20일 서울 양재 엘타워에서 산업통상자원부가 주관하는 '화합물 전력반도체 산업 고도화를 위한 킥오프 미팅에 참가했다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 임베디드 시스템의 발전 방향..."효율성과 보안의 중요성"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240626110943</link>
-            <guid>https://zdnet.co.kr/view/?no=20240626110943</guid>
-            <pubDate>Wed, 26 Jun 2024 02:31:03 GMT</pubDate>
-            <content:encoded><![CDATA[과거에는 특정 애플리케이션에만 국한되었던 임베디드 시스템이 이제는 어디에서나 찾아볼 수 있는 세상이 됐다. 공장, 가전 제품, 고가의 의료 기기, 유비쿼터스 웨어러블 기기에 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
