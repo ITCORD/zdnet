@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 11:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 12:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇협회, 2025 국제로봇심포지엄 유치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240630211144</link>
+            <guid>https://zdnet.co.kr/view/?no=20240630211144</guid>
+            <pubDate>Sun, 30 Jun 2024 12:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[한국로봇산업협회는 내년 국제로봇심포지엄(ISR)을 유치했다고 30일 밝혔다. ISR은 국제로봇연맹(IFR)이 주관하는 산업용 및 서비스 로봇 분야 글로벌 최고의 로봇학술대회 행...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/30/1f8b1ca5d054e2bf54662b45c1c04921-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국정보처리학회, '2024 IT 21' 다음달 3~5일 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240630202753</link>
+            <guid>https://zdnet.co.kr/view/?no=20240630202753</guid>
+            <pubDate>Sun, 30 Jun 2024 12:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보처리학회(회장 백윤흥 서울대 교수)가 미래 정보통신 기술 흐름을 조망하고 국가 ICT 기술 및 산업 경쟁력 확보를 목적으로 개최하는 '2024년 IT21 글로벌 컨퍼런스...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/06/30/5e48a5baeab0ab2b7706b34fb87d8804-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 인기 브랜드 할인 '메가뷰티쇼' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240630140249</link>
             <guid>https://zdnet.co.kr/view/?no=20240630140249</guid>
             <pubDate>Sun, 30 Jun 2024 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡이 7월 1일부터 21일까지 '메가뷰티쇼'를 개최한다고 30일 밝혔다. 메가뷰티쇼는 쿠팡이 연 3회 진행하는 대규모 뷰티 할인 행사다. 이번 행사에서는 선크림, 젤, 마스크...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/30/55995a08c241a2ff602433c626b710df-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["명품 플랫폼도 IT 투자 필수"…젠테에 '럭셔리 테크' 어떻게 쓰이나]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240630131546</guid>
             <pubDate>Sun, 30 Jun 2024 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[명품 플랫폼 젠테가 빠른 성장을 통해 올해 하반기 글로벌 플랫폼 출시를 준비 중이다. 특히 자체 ERP 시스템인 '젠테포레'를 선보이면서 믿을만한 부티크 소싱을 차별점으로 삼으...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/08/22/b399fbf8ce8dee68d12b8c017cf8d27b-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["뉴 르노 그랑 콜레오스, D세그먼트의 새로운 대안 될 것"]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240630110517</guid>
             <pubDate>Sun, 30 Jun 2024 03:12:52 GMT</pubDate>
             <content:encoded><![CDATA[KT는 국내 IPTV 최초로 생성형 AI 기술을 활용해 제작한 '지니 TV AI트래블뷰' 채널을 선보였다고 30일 밝혔다. AI트래블뷰는 다양한 유명 도시나 아름다운 휴양지의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT 가족로밍, 1년 동안 126만명이 썼다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240630110122</link>
-            <guid>https://zdnet.co.kr/view/?no=20240630110122</guid>
-            <pubDate>Sun, 30 Jun 2024 02:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 로밍 데이터 공유 서비스 '가족로밍'이 출시 이후 1년 간 53만가구 126만명이 이용, 로밍 사용 가구의 75% 이상이 '가족로밍' 서비스를 선택했다고 30일 밝...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 외국어 학습하면 뭐가 좋을까?…"수준별 맞춤 교육 기대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240628171228</link>
-            <guid>https://zdnet.co.kr/view/?no=20240628171228</guid>
-            <pubDate>Sun, 30 Jun 2024 02:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[뇌새김을 운영하는 AI 에듀테크 기업 위버스마인드(대표이사 정성은)가 진행한 설문 조사 결과, 81.7%의 응답자가 인공지능(AI) 기술을 활용한 외국어 학습을 사용해볼 의사가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
