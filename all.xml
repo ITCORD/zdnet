@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 22:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 23:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국정보처리학회, '2024 IT 21' 다음달 3~5일 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <title><![CDATA[한국정보처리학회, '2024 IT 21' 3~5일 삼성SDS서 개최 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240630202753</link>
             <guid>https://zdnet.co.kr/view/?no=20240630202753</guid>
             <pubDate>Sun, 30 Jun 2024 12:18:16 GMT</pubDate>
@@ -336,7 +336,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국정보처리학회, '2024 IT 21' 다음달 3~5일 개최 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
+            <title><![CDATA[한국정보처리학회, '2024 IT 21' 3~5일 삼성SDS서 개최 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240630202753</link>
             <guid>https://zdnet.co.kr/view/?no=20240630202753</guid>
             <pubDate>Sun, 30 Jun 2024 12:18:16 GMT</pubDate>
@@ -1776,6 +1776,14 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이랜서 칼럼] 인생 설계도 백로그(Backlog)처럼 (지디넷코리아 ─ 전문가 칼럼)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240701074440</link>
+            <guid>https://zdnet.co.kr/view/?no=20240701074440</guid>
+            <pubDate>Sun, 30 Jun 2024 23:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[[이랜서칼럼]은 ‘IT를 기반으로 자유롭게 일하는 21세기형 전문가를 지칭하는 ‘이랜서’(e-Lancer)들이 21세기형 일과 생활에 대한 인사이트와 노하우를 공유하는 장입니다.미래 불확실성으로 막연한 불안을 느끼는 사람들이 많다. 특히 미혼 여성은 결혼과 가정을 꾸리고 싶어도 결혼으로 인한 새로운 인생 무게감과 불확실성 때문에 결정을 미루기 쉽다. 이러한 무게감에 먼저 압도되어 현명한 삶의...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/21/baa1a731b8ccb2a5a1c0818bf94fd2c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테헤란로에 살고 있는 축지법 고수 (지디넷코리아 ─ 전문가 칼럼)]]></title>
             <link>https://zdnet.co.kr/view/?no=20240628103312</link>
             <guid>https://zdnet.co.kr/view/?no=20240628103312</guid>
@@ -1926,14 +1934,6 @@
             <pubDate>Tue, 14 May 2024 05:12:13 GMT</pubDate>
             <content:encoded><![CDATA[일본 정부가 최근 라인의 개인정보유출로 인한 문제해결책으로 ‘회사지배구조를 변경하라’는 행정지도를 내렸다. ‘네이버 지분을 일본기업에 넘기라’는 얘기다.도를 넘어선 일본 정부 요구가 한국에선 커다란 파장을 일으키고 있다. 상식적으로 생각해 봐도 대한민국이 일본 적성국가도 아닐뿐더러, 윤석열 정부 들어서 한일 양국의 우호적인 분위기가 한껏 고양된 가운데 양국관계에 찬물을 끼얹는 처사다.라인사태...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/05/14/c399c48ee35d9ce2dd05d505265d2b29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 성과 관리에서 생성AI의 효용성과 한계 (지디넷코리아 ─ 전문가 칼럼)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240514111542</link>
-            <guid>https://zdnet.co.kr/view/?no=20240514111542</guid>
-            <pubDate>Tue, 14 May 2024 02:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[성과 관리(Performance management)는 회사의 성장과 구성원 육성에서 중요한 역할을 차지하는 HR 프로세스입니다. 그러나 성과 관리에 사용되는 프로세스와 기술은 그동안 크게 변화하지 않았습니다. 예를 들어 아직도 많은 조직에서 사용하고 있는 MBO(Management by Objectives)는 피터 드러커가 1954년에 소개한 개념입니다. 어니스트 헤밍웨이가 ‘노인과 바다’...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/14/a78acd464f39ac07ece942ef5f1adbce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["명품 플랫폼도 IT 투자 필수"…젠테에 '럭셔리 테크' 어떻게 쓰이나 (지디넷코리아 ─ 중기&스타트업)]]></title>
