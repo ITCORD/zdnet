@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 02:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 02:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우저, 마이크로칩 32비트 MCU 'PIC32CK' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702111405</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702111405</guid>
+            <pubDate>Tue, 02 Jul 2024 02:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[마우저일렉트로닉스는 마이크로칩 테크놀로지의 32비트 마이크로컨트롤러(MCU)인 PIC32CK를 공급한다고 2일 밝혔다. 이 새로운 중간 사양의 MCU 제품군은 개발자가 비용 효...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[램테크놀러지, 유리기판용 TGV 기술 관련 특허 출원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702110715</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702110715</guid>
+            <pubDate>Tue, 02 Jul 2024 02:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 공정용 화학소재 전문 기업 램테크놀러지는 'TGV(유리관통전극) 인터포저 제조 핵심기술 글라스 홀 식각 기술개발 관련 특허'를 출원했다고 2일 밝혔다. 램테크놀러지는 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['국내 최초' 커스터마이저블 능동 소음제어용 칩 개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20240702085841</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240628104212</guid>
             <pubDate>Fri, 28 Jun 2024 02:32:17 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 엣지 AI 애플리케이션 구현을 간소화하고 가속화하도록 툴, 소프트웨어, 전문지식을 결합한 ST 엣지 AI 스위트(ST Edge AI Sui...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, AI PC용 고성능 SSD '개발...연내 양산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240628090321</link>
-            <guid>https://zdnet.co.kr/view/?no=20240628090321</guid>
-            <pubDate>Fri, 28 Jun 2024 01:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 온디바이스(On-Device) AI* PC에 탑재되는 업계 최고 성능의 SSD(Solid State Drive) 제품인 'PCB01'의 개발을 완료했다고 28일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TI·델타, 전기차 온보드 충전 솔루션 위한 '장기 협력' 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240628091328</link>
-            <guid>https://zdnet.co.kr/view/?no=20240628091328</guid>
-            <pubDate>Fri, 28 Jun 2024 01:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[텍사스인스트루먼트(TI)는 전력 및 에너지 관리 제조업체인 델타일렉트로닉스와 차세대 전기차 온보드 충전 및 전력 솔루션을 개발하기 위해 장기적으로 협력한다고 28일 밝혔다. 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
