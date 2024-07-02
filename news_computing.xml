@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 03:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 04:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓 사이버 공격, 금융업서 가장 많아…VPN·라우터 취약점 노려"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702121601</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702121601</guid>
+            <pubDate>Tue, 02 Jul 2024 04:14:17 GMT</pubDate>
+            <content:encoded><![CDATA["올해 상반기 금융업을 노린 사이버 공격이 가장 많았습니다. 유형별로는 VPN과 라우터 등 네트워크 장비 취약점을 노린 사고가 빈번했습니다. 국내 산업계는 네트워크 장비를 시급...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글클라우드, CJ올리브영 통합 데이터 분석 플랫폼 구축 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702124028</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702124028</guid>
+            <pubDate>Tue, 02 Jul 2024 04:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[구글 클라우드는 CJ올리브영(이하 올리브영)이 자사 환경을 기반으로 통합 데이터 분석 플랫폼을 구축하고 전 세계 고객 데이터를 빠르게 처리할 수 있는 애자일한 분석 환경을 조성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클, 히트웨이브 생성형AI 발표…추가비용 無]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702123749</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702123749</guid>
+            <pubDate>Tue, 02 Jul 2024 04:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 인데이터베이스(in-database) 거대언어모델(LLM), 자동화된 인데이터베이스 벡터 저장소, 확장 벡터 처리, 자연어 대화 기능 등을 제공하는 '히트웨이브 생성형...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["부처 협업 AI확산"···아크릴컨소시엄 등 10곳 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20240702101239</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240701135821</guid>
             <pubDate>Mon, 01 Jul 2024 08:15:19 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 시스템에 침투한 러시아 해커들이 고객들의 이메일까지 해킹했다는 사실이 추가로 공개됐다. 특히 이 중에는 미국 정부 기관 이메일 계정도 다수 포함돼 있는 것으로 드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파수, 보안 강화 돕는 '마인드셋 올인원 패키지' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701141950</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701141950</guid>
-            <pubDate>Mon, 01 Jul 2024 07:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[파수가 기업들이 보안 지식과 수준을 강화할 수 있도록 돕는 서비스를 내놨다. 파수는 보안 취약점 진단부터 악성메일 대응, 정보보안 교육 등을 돕는 '마인드셋 올인원 패키지'를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿤텍, SW 공급망 보안 가이드라인 준수 전용 솔루션 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701155523</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701155523</guid>
-            <pubDate>Mon, 01 Jul 2024 07:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[쿤텍(대표 방혁준)이 소프트웨어(SW) 공급망 보안 가이드라인 준수 지원을 위해 전용 솔루션'이지스(AEGIS)'를 선보인다고 1일 밝혔다. 지난 5월 12일 정부는 SW 공급...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버보안 기업 진앤현시큐리티, 드론 사업 진출]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701153643</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701153643</guid>
-            <pubDate>Mon, 01 Jul 2024 07:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[진앤현시큐리티(대표 김병익)가 보안에 이어 생활 드론 사업에 진출한다. 진핸현시큐리티는 다양한 생활 분야에 활용 가능한 드론 서비스 '유콜(U-cal)'을 론칭한다고 1일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

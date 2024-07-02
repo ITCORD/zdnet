@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 03:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 04:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓 사이버 공격, 금융업서 가장 많아…VPN·라우터 취약점 노려"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702121601</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702121601</guid>
+            <pubDate>Tue, 02 Jul 2024 04:14:06 GMT</pubDate>
+            <content:encoded><![CDATA["올해 상반기 금융업을 노린 사이버 공격이 가장 많았습니다. 유형별로는 VPN과 라우터 등 네트워크 장비 취약점을 노린 사고가 빈번했습니다. 국내 산업계는 네트워크 장비를 시급...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/02/1b6ff60b05bfb4cf8cb1d9d69068e0cc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글클라우드, CJ올리브영 통합 데이터 분석 플랫폼 구축 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702124028</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702124028</guid>
+            <pubDate>Tue, 02 Jul 2024 04:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[구글 클라우드는 CJ올리브영(이하 올리브영)이 자사 환경을 기반으로 통합 데이터 분석 플랫폼을 구축하고 전 세계 고객 데이터를 빠르게 처리할 수 있는 애자일한 분석 환경을 조성...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/06/934bd754f0df88a479dac3a6efde9ac4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오라클, 히트웨이브 생성형AI 발표…추가비용 無]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702123749</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702123749</guid>
+            <pubDate>Tue, 02 Jul 2024 04:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[오라클은 인데이터베이스(in-database) 거대언어모델(LLM), 자동화된 인데이터베이스 벡터 저장소, 확장 벡터 처리, 자연어 대화 기능 등을 제공하는 '히트웨이브 생성형...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["게임 관련 기초연구 더 많아져야"…'2024 게임과학포럼' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240702121032</link>
             <guid>https://zdnet.co.kr/view/?no=20240702121032</guid>
             <pubDate>Tue, 02 Jul 2024 03:12:13 GMT</pubDate>
             <content:encoded><![CDATA[게임문화재단이 주최하고 게임과학연구원이 주관하는 '2024 게임과학포럼'이 2일 양재 엘타워 골드홀에서 열렸다. 이번 포럼은 게임을 둘러싼 다양한 현상과 관점 차이를 뇌과학, ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/02/4d14d8949327d3cee2591da6b847b4e3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["B2B 사업, AI로 키운다"..LGU+, 올인 AI 전략 공개]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240702093526</guid>
             <pubDate>Tue, 02 Jul 2024 03:12:13 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 2일 서울 용산구에 위치한 LG유플러스 본사에서 기자간담회를 열고 AI 중심의 B2B 중장기 성장 전략 '올 인(All in) AI'를 공개했다. 올인 AI는 L...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/02/3df6787fde2e440dea22507010ccb121-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["부처 협업 AI확산"···아크릴컨소시엄 등 10곳 선정]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240702104934</guid>
             <pubDate>Tue, 02 Jul 2024 01:58:18 GMT</pubDate>
             <content:encoded><![CDATA[안랩이 최근 사용자가 직접 악성코드를 실행하도록 유도하는 피싱 메일을 발견하고 사용자의 주의를 당부했다. 2일 안랩이 최근 발견한 사례에 따르면 공격자는 비용처리나 운영 지침 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온다, 중소 숙박업주 위한 '펜션 판매 가이드북' 발간]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240702104331</link>
-            <guid>https://zdnet.co.kr/view/?no=20240702104331</guid>
-            <pubDate>Tue, 02 Jul 2024 01:58:18 GMT</pubDate>
-            <content:encoded><![CDATA[호스피탈리티 테크 기업 온다가 국내 중소 숙박업주의 온라인 객실 판매를 돕기 위한 가이드북을 무료로 공개했다. 온다(대표 오현석)는 국내 온라인 숙박 시장의 최신 동향과 숙소 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['국내 최초' 커스터마이저블 능동 소음제어용 칩 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240702085841</link>
-            <guid>https://zdnet.co.kr/view/?no=20240702085841</guid>
-            <pubDate>Tue, 02 Jul 2024 01:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[강원대학교 전자공학과 정익주 교수는 교원창업사인 에이엔씨티와 공동으로 국내 최초로 커스터마이저블 능동 소음 제어(ANC)용 칩을 개발했다고 2일 밝혔다. 이번에 개발된 ANC ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주인 바뀐 남양유업, 대리점주에 '지원·복지' 약속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240702092749</link>
-            <guid>https://zdnet.co.kr/view/?no=20240702092749</guid>
-            <pubDate>Tue, 02 Jul 2024 01:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[새 경영진을 맞이한 남양유업이 대리점 점주들을 만나 이들을 대상으로 한 지원과 복지정책을 이어가겠다고 약속했다. 남양유업은 지난달 27일 서울 강남구 본사 대회의실에서 경영권 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
