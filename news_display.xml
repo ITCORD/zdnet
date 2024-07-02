@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 05:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 06:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['반도체 훈풍' 삼성·SK, 2분기 메모리 영업익 나란히 5兆 돌파 기대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240702144708</link>
+            <guid>https://zdnet.co.kr/view/?no=20240702144708</guid>
+            <pubDate>Tue, 02 Jul 2024 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[국내 주요 메모리 기업인 삼성전자와 SK하이닉스가 올 2분기 나란히 호실적을 거둘 것으로 관측된다. HBM(고대역폭메모리) 전환에 따른 범용 D램의 생산능력 감소, 고용량 낸드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마우저, 마이크로칩 32비트 MCU 'PIC32CK' 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20240702111405</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240628092446</guid>
             <pubDate>Fri, 28 Jun 2024 03:13:59 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 메모리 생산량을 적극 확대하려는 움직임을 보이고 있다. HBM(고대역폭메모리)와 최선단 제품으로 공정 전환을 적극 추진하면서, 내년 레거시 메모리 생산능력이 매우 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, AI 지원 제품 개발 가속화 'ST 엣지 AI 스위트' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240628104212</link>
-            <guid>https://zdnet.co.kr/view/?no=20240628104212</guid>
-            <pubDate>Fri, 28 Jun 2024 02:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)는 엣지 AI 애플리케이션 구현을 간소화하고 가속화하도록 툴, 소프트웨어, 전문지식을 결합한 ST 엣지 AI 스위트(ST Edge AI Sui...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
