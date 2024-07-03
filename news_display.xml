@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 00:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 01:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 정부, 인텔·퀄컴에 中화웨이 수출허가 8건 취소]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240703090406</link>
+            <guid>https://zdnet.co.kr/view/?no=20240703090406</guid>
+            <pubDate>Wed, 03 Jul 2024 01:57:50 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부는 올해 중국 통신 장비 대기업 화웨이에 대한 미국 기업의 상품을 배송할 수 있도록 허용한 면허(라이선스) 8개를 취소했다. 3일 로이터통신은 미국 수출 정책을 총괄하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 내년 5월 옵테인 메모리 200 시리즈 단종 예고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240703085136</link>
+            <guid>https://zdnet.co.kr/view/?no=20240703085136</guid>
+            <pubDate>Wed, 03 Jul 2024 01:57:50 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 3D 크로스포인트(3D XPoint) 기술을 적용한 서버용 메모리 제품인 옵테인 퍼시스턴트 메모리 200 시리즈를 내년 5월 단종하겠다고 밝혔다. 인텔은 2019년 초 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[칩스앤미디어 비디오 IP 적용된 AI PC 첫 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240703081522</link>
+            <guid>https://zdnet.co.kr/view/?no=20240703081522</guid>
+            <pubDate>Wed, 03 Jul 2024 01:57:50 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 설계자산(IP) 전문기업 칩스앤미디어는 미국 모바일 칩셋 전문 팹리스의 최신 AI PC용 칩에 자사 비디오 IP가 적용됐다고 3일 밝혔다. 칩스앤미디어의 비디오 IP가 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 노조, 총파업 앞두고 "생산 차질이 목적"…사측 압박 지속]]></title>
             <link>https://zdnet.co.kr/view/?no=20240702185003</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240701091734</guid>
             <pubDate>Mon, 01 Jul 2024 03:13:26 GMT</pubDate>
             <content:encoded><![CDATA[어플라이드머티어리얼즈(AMAT, 이하 어플라이드)는 최신 '2023 지속가능성 보고서'를 1일 밝혔다. 이 보고서는 지난 한 해 어플라이드의 탄소 배출량 감축 노력과 반도체 업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루스첨단소재, 엔비디아 AI 가속기에 동박 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701111448</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701111448</guid>
-            <pubDate>Mon, 01 Jul 2024 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[솔루스첨단소재가 엔비디아 차세대 AI가속기에 동박을 공급한다. 국내 기업 중 AI가속기용 동박의 승인을 얻어 양산까지 연결된 것은 솔루스첨단소재가 처음이다. 솔루스첨단소재는 북...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, CoolGaN 700V 전력 트랜지스터 제품군 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701110312</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701110312</guid>
-            <pubDate>Mon, 01 Jul 2024 02:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언테크놀로지스는 새로운 CoolGaN 트랜지스터 700V G4 제품군을 출시한다고 밝혔다. 이 제품군은 최대 700V의 전압 범위를 가지고 있어 전력 변환에 매우 효율적이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바이코, 'AID 2024'서 48V 존 아키텍처용 모듈형 솔루션 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701100238</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701100238</guid>
-            <pubDate>Mon, 01 Jul 2024 02:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[바이코는 오는 4일 서울에서 열리는 2024 오토모티브 이노베이션 데이(AID)에서 EV 전력 공급 네트워크용 솔루션 등을 발표한다고 1일 밝혔다. 먼저 그렉 그린 바이코 차량...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
