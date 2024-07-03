@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 12:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 13:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전력거래소, 유관기관 합동 전력수급 비상훈련]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240703220701</link>
+            <guid>https://zdnet.co.kr/view/?no=20240703220701</guid>
+            <pubDate>Wed, 03 Jul 2024 13:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[전력거래소는 지난달 24일 여름철 전력수급대책 기간이 시작됨에 따라 3일 전력거래소 중앙전력관제센터에서 여름철 안정적인 전력수급 관리를 위한 유관기관 합동 '전력수급 비상훈련'...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/03/21b6923701bf8b1e64a279a26b61c23d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미래와소프트웨어 꿈찾기 캠프, 8월 13일 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240703184544</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240703153841</guid>
             <pubDate>Wed, 03 Jul 2024 10:12:28 GMT</pubDate>
             <content:encoded><![CDATA[하반기 IPO 최대어로 평가되는 시프트업의 공모주 청약이 마무리됐다. 시프트업은 지난 2일과 3일까지 이틀간 진행된 일반투자자 대상 공모주 청약을 마무리했다. 일반인 대상 청약...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/25/e935b1f73b3c489ab5713c4508de3c8c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노키아 "5G 6G로 한국 산업 성장 돕겠다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240703165216</guid>
             <pubDate>Wed, 03 Jul 2024 08:14:04 GMT</pubDate>
             <content:encoded><![CDATA[인스웨이브시스템즈(이하 인스웨이브, 대표 어세룡)가 마곡에서 여의도로 이전하며 인공지능(AI)기반 신사업을 본격화한다. 인스웨이브는 서울 여의도 앵커원 빌딩에서 미래혁신 비전 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트리니티, 웹 취약점 진단 '스캔레이 엑스지 V 6.0' GS인증 1등급 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240703165140</link>
-            <guid>https://zdnet.co.kr/view/?no=20240703165140</guid>
-            <pubDate>Wed, 03 Jul 2024 08:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[애플리케이션 보안 전문기업 트리니티소프트(대표 김진수)는 자사의 웹 취약점 진단 솔루션 '스캔레이 엑스지 V6.0(SCAN-RAY XG V6.0)'가 한국정보통신기술협회(TTA...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
