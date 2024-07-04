@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 10:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 11:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자율주행 로봇 '아파트 빌트인'으로 영역 확장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240704153617</link>
+            <guid>https://zdnet.co.kr/view/?no=20240704153617</guid>
+            <pubDate>Thu, 04 Jul 2024 11:11:57 GMT</pubDate>
+            <content:encoded><![CDATA["똑똑 택배왔어요" 아파트 건물 내에서 로봇이 택배를 문 앞까지 배달했다. 1층에서 적재한 물건을 엘리베이터를 타고 올라가 문 앞에서 전달해준다. 별도 통신 연결 없이도 승강기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 14나노 기반 10세대 보급형 CPU 단종절차 돌입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240704163717</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240703100008</guid>
             <pubDate>Wed, 03 Jul 2024 01:57:36 GMT</pubDate>
             <content:encoded><![CDATA[청소가전 전문기업 로보락은 오는 6일 토요일 오후 9시 35분부터 약 1시간 동안 CJ홈쇼핑에서 최신상 로봇청소기 '로보락 S8 맥스 울트라'를 판매한다고 밝혔다. 로보락 S8...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 스마트홈 플랫폼 기업 '앳홈' 인수..."AI홈 시대 선도"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240703080713</link>
-            <guid>https://zdnet.co.kr/view/?no=20240703080713</guid>
-            <pubDate>Wed, 03 Jul 2024 01:57:36 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자가 네덜란드 스마트홈 플랫폼 선도기업 '앳홈' 을 인수했다고 밝혔다. LG전자는 앳홈의 지분 80%를 인수하고, 향후 3년 내 나머지 20%를 인수하는 계약을 체결했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
