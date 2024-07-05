@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 23:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 00:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클라우드 강자' AWS, 호주서 극비 데이터센터 설립한 이유는?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705085453</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705085453</guid>
+            <pubDate>Fri, 05 Jul 2024 00:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[긴밀한 협력 관계를 가진 미국과 호주가 아마존웹서비스(AWS)의 데이터센터 설립을 통해 외교 관계를 더욱 강화한다. 5일 월스트리트저널(WSJ) 등 외신에 따르면 AWS는 호주...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크 '경고' 이유 있었네…오픈AI, '해킹' 당하고도 덮기 바빴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705084612</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705084612</guid>
+            <pubDate>Fri, 05 Jul 2024 00:46:41 GMT</pubDate>
+            <content:encoded><![CDATA['챗GPT' 개발사로 알려진 오픈AI가 안전성 문제로 또 도마 위에 올랐다. 사내 메신저 시스템이 지난해 초 해킹당했음에도 외부에 이 사실을 제대로 알리지 않았기 때문이다. 5...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KOSA, 중대와 손잡고 청년 디지털 교육]]></title>
             <link>https://zdnet.co.kr/view/?no=20240705080114</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240704121945</guid>
             <pubDate>Thu, 04 Jul 2024 06:15:33 GMT</pubDate>
             <content:encoded><![CDATA["공공기관이 여전히 클라우드 네이티브 도입에 어려움을 겪고 있습니다. 기관 내부 보안, 서버, 네트워크 담당자가 제각각이기 때문입니다. 도입 활성화를 위해 조직 구조가 공급자·...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이너, 학술 논문으로만 답하는 'AI 박사' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704122348</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704122348</guid>
-            <pubDate>Thu, 04 Jul 2024 05:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[학술 논문 기반으로 사용자 질문에 답하는 인공지능(AI) 챗봇 서비스가 나왔다. 라이너는 '학술 AI 검색' 서비스를 베타버전으로 출시했다고 4일 밝혔다. 라이너 AI 워크스페...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["5년 새 탄소 배출 66%↑"…구글, 넷제로 달성 먹구름]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704094706</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704094706</guid>
-            <pubDate>Thu, 04 Jul 2024 05:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[구글의 넷제로(net zero·탄소 중립) 달성 목표에 먹구름이 꼈다. 생성형 인공지능(AI) 개발과 데이터센터 확장 등으로 탄소 배출량이 크게 늘어서다. 파이낸셜타임스(FT)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
