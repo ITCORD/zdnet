@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 00:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 01:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI와 인간 사이 격차 줄인다"…메타, 새로운 AI 학습방법 제시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705101614</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705101614</guid>
+            <pubDate>Fri, 05 Jul 2024 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 사람의 언어를 보다 깊이 이해할 수 있는 인공지능(AI) 학습 방법을 제시했다. 5일 벤처비트 등 외신에 따르면 메타는 다중토큰예측 방식으로 사전학습한 대규모언어모델(L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NIPA, AWS와 협력 국내 SaaS기업 글로벌 진출 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705103218</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705103218</guid>
+            <pubDate>Fri, 05 Jul 2024 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신산업진흥원(원장 허성욱, 이하 NIPA)은 글로벌 클라우드 서비스 제공사(CSP)인 아마존웹서비스 코리아(Amazon Web Services Korea, 대표 함기호, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["텃밭 美서 삼성에 밀리더니"…다급한 애플, '챗GPT' 이어 구글 '제미나이'도 품는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705100829</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705100829</guid>
+            <pubDate>Fri, 05 Jul 2024 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)폰 시장이 열리며 경쟁사인 삼성전자에게 점차 밀리고 있는 애플이 그간 고수했던 폐쇄적인 생태계에서 벗어나 외부에 도움을 요청하는 모양새다. 아이폰 등 자사 기기에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미루웨어, AMD MI300X 기반 기가바이트 서버 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705095951</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705095951</guid>
+            <pubDate>Fri, 05 Jul 2024 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[AI, HPC 전문기업인 미루웨어가 5일 AMD AI 처리용 GPU인 MI300X를 탑재한 기가바이트 서버 'G593-ZX1 5U MI300X OAM'을 국내 출시한다. 기가바...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['클라우드 강자' AWS, 호주서 극비 데이터센터 설립한 이유는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240705085453</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240704152419</guid>
             <pubDate>Thu, 04 Jul 2024 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[영상인식 인공지능(AI) 전문기업 알체라(대표 황영규)는 금융 플랫폼 전문기업 아이티아이즈와 금융권 비대면 채널 서비스 구축 전문기업 레이풀시스템 등과 함께 우리은행 안면인증 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 생성형 AI 도입한 현대제철, '보안 강자' S2W에 '감사 인사' 전한 이유는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704152004</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704152004</guid>
-            <pubDate>Thu, 04 Jul 2024 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA["비정형 텍스트 데이터 추출에 굉장한 기술을 가지고 있는 기업이라는 판단에 따라 S2W(에스투더블유)에게 먼저 손을 내밀었습니다. 기술검증(PoC)부터 자체 생성형 인공지능(A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생성형 AI 특허, 中이 압도적 1위…우리나라는?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704143625</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704143625</guid>
-            <pubDate>Thu, 04 Jul 2024 06:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[생성형 인공지능(AI) 기술 경쟁이 치열해지는 가운데 지난 10년간 생성형 AI 관련 특허를 가장 많이 확보한 나라는 중국인 것으로 조사됐다. 미국 경제매체 CNBC는 4일(현...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["DX로 GDP 1% 절약" AWS 퍼블릭 섹터 데이 서울 2024 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704140157</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704140157</guid>
-            <pubDate>Thu, 04 Jul 2024 06:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[“인도 정부의 경우 2013년부터 2019년에 걸쳐 디지털 공공 인프라(DPI)를 도입해 340억 달러를 절약했다. 이는 인도의 국내총생산(GDP)의 약 1%에 달한다.” 아마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나무기술 "공공기관, 클라우드 네이티브 도입 멀어…조직 단순화 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704121945</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704121945</guid>
-            <pubDate>Thu, 04 Jul 2024 06:15:33 GMT</pubDate>
-            <content:encoded><![CDATA["공공기관이 여전히 클라우드 네이티브 도입에 어려움을 겪고 있습니다. 기관 내부 보안, 서버, 네트워크 담당자가 제각각이기 때문입니다. 도입 활성화를 위해 조직 구조가 공급자·...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
