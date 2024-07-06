@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 13:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 14:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모기가 무는 사람 따로 있다…분비물 냄새 1m 떨어져도 판별]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240706230250</link>
+            <guid>https://zdnet.co.kr/view/?no=20240706230250</guid>
+            <pubDate>Sat, 06 Jul 2024 14:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[최근 전국에 말라리아 주의보가 내려졌다. 매개체는 모기다.그렇다면 이들 모기를 피할 길은 없을까.모기가 좋아하는 사람이 따로 있다는 연구 결과가 있다. 대부분 물리는 사람만 물...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/06/b809c99c84172ee3691f3d64622813cb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['애플 인텔리전스' 지원하는 스마트홈 기기 나오나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240706061744</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240705110427</guid>
             <pubDate>Fri, 05 Jul 2024 23:11:08 GMT</pubDate>
             <content:encoded><![CDATA[국내 연구진이 물로 양자컴퓨터의 큐비트를 생성하고, 이를 제어하는 방법을 찾아냈다. 기존의 양자컴퓨터를 구현하는 초전도, 이온트랙, 포토닉, 다이아몬드, 중성원자 등의 방식 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 주가, 이번 주 27% 상승…올 수익률 플러스 전환]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240706074649</link>
-            <guid>https://zdnet.co.kr/view/?no=20240706074649</guid>
-            <pubDate>Fri, 05 Jul 2024 23:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라 주가가 8거래일 연속 강세를 이어가며 올해 처음으로 수익률이 플러스로 전환했다고 CNBC 등 외신들이 5일(현지시간) 보도했다. 이날 뉴욕 증시에서 테슬라 주가는 전 거...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
