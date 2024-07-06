@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 01:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 02:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["구글 픽셀9, 초음파 지문 스캐너 탑재…물에 젖어도 OK"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240705161843</link>
+            <guid>https://zdnet.co.kr/view/?no=20240705161843</guid>
+            <pubDate>Sat, 06 Jul 2024 02:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 오는 8월 '메이드 바이 구글' 행사에서 차세대 스마트폰 '픽셀9' 시리즈를 공개할 예정인 가운데, 픽셀9에 새롭게 초음파 지문 스캐너가 탑재될 것이라는 전망이 나왔다....]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/04/73daeda87f4cc94ec7d9952a8382fc7f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["갤럭시S25 시리즈, 기존대로 3개 모델로 출시"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240705135854</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240706010731</guid>
             <pubDate>Sat, 06 Jul 2024 00:45:23 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 광고 없는 가장 저렴한 상품인 '베이직 요금제'를 없애는 모양새다. 광고 플랫폼 기능을 강화해 수익을 늘리기 위해서라고 분석되는데, 이미 일부 국가에서 베이직 요금제...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/02/08/cf36549df318ae8ef56b6245a879a375-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, EU에서 '에픽게임즈 스토어' 허용한다]]></title>
@@ -84,7 +92,7 @@
             <link>https://zdnet.co.kr/view/?no=20240705110427</link>
             <guid>https://zdnet.co.kr/view/?no=20240705110427</guid>
             <pubDate>Fri, 05 Jul 2024 23:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 물로 양자컴퓨터의 큐비트를 생성하고, 이를 제어하는 방법을 찾아냈다. 기존의 양자컴퓨터를 구현하는 초전도, 이온트랙, 포토닉, 다이오몬드, 중성원자 등의 방식 이...]]></content:encoded>
+            <content:encoded><![CDATA[국내 연구진이 물로 양자컴퓨터의 큐비트를 생성하고, 이를 제어하는 방법을 찾아냈다. 기존의 양자컴퓨터를 구현하는 초전도, 이온트랙, 포토닉, 다이아몬드, 중성원자 등의 방식 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240705174123</guid>
             <pubDate>Fri, 05 Jul 2024 09:12:58 GMT</pubDate>
             <content:encoded><![CDATA[한국전력 부채금액과 부채비율이 매년 높아지면서 전기요금을 인상해야 한다는 목소리가 커지고 있다. 2020년 설립된 세이브일렉트릭(Save Electric)은 '전기를 절감하자'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유영제약 '아트리플러스주' 1개 제조번호 잠정 판매·사용중지 조치]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240705171350</link>
-            <guid>https://zdnet.co.kr/view/?no=20240705171350</guid>
-            <pubDate>Fri, 05 Jul 2024 09:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[유영제약 '아트리플러스주'의 1개 제조번호가 잠정 판매·사용중지 조치됐다. 식품의약품안전처(이하 식약처)는 무릎관절의 골관절염 치료 등에 사용되는 유영제약의 '아트리플러스주'(...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
