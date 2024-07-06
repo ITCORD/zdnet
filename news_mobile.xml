@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 10:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 11:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['애플 인텔리전스' 지원하는 스마트홈 기기 나오나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240706061744</link>
+            <guid>https://zdnet.co.kr/view/?no=20240706061744</guid>
+            <pubDate>Sat, 06 Jul 2024 11:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[미국 IT매체 맥루머스는 애플이 오랜 기간 개발하고 있다고 알려진 스마트홈 기기에 대한 정보가 나왔다고 4일(현지시간) 보도했다. 애플 백엔드에서 발견된 코드에서 새로운 '홈 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[궁지 몰린 구글, 사파리선 'AI 검색' 제한하나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240706115530</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240704163717</guid>
             <pubDate>Thu, 04 Jul 2024 08:14:42 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 14나노급 공정에서 생산되는 데스크톱PC용 10세대 코어 프로세서 단종 절차에 들어갔다. 이번에 단종되는 10세대 코어 프로세서는 2020년 2분기 출시된 제품이며 14...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글, 픽셀9폰에 '구글 AI' 이식"…신기능은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240704131649</link>
-            <guid>https://zdnet.co.kr/view/?no=20240704131649</guid>
-            <pubDate>Thu, 04 Jul 2024 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 오는 8월 '메이드 바이 구글' 행사에서 차세대 스마트폰 '픽셀9' 시리즈를 공개할 예정인 가운데, 픽셀9에 새로 탑재되는 구글의 인공지능(AI) 기능들이 공개됐다. I...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
