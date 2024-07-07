@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 06:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 클라우드플레어, '웹사이트 스크랩' 차단 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240707062520</link>
+            <guid>https://zdnet.co.kr/view/?no=20240707062520</guid>
+            <pubDate>Sun, 07 Jul 2024 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 인터넷 보안 업체 클라우드플레어가 웹사이트 소유자들이 인공지능(AI) 서비스의 콘텐츠 접근을 차단하는 기능을 출시했다. 여러 AI 기업들이 타사 웹사이트를 무단으로 스크...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2017/03/09/imc_f4BP4qIa6l2DBXku-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ZD 브리핑] 삼성 갤럭시 언팩, 10일 파리서 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240707140316</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240707121504</guid>
             <pubDate>Sun, 07 Jul 2024 04:12:21 GMT</pubDate>
             <content:encoded><![CDATA[국내 클라우드 관리 서비스 사업자(MSP) 업계 최초로 유니콘 기업에 오른 메가존클라우드가 상장 주관사 선정을 완료하고 기업공개(IPO)를 위한 본격적인 움직임에 돌입했다. 2...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/01/23/89413efe085943d92627530beffbf2e2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스퀘어 에닉스, 텐센트 통해 '파이널판타지14' 모바일 출시하나]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240707093759</guid>
             <pubDate>Sun, 07 Jul 2024 00:52:21 GMT</pubDate>
             <content:encoded><![CDATA[미국 출장 중인 최태원 SK 그룹 회장이 현지법인을 잇따라 찾아 반도체 소재, 바이오 등 SK 미래사업 현장 점검에 나섰다. 지난달 22 부터 오픈 AI, 마이크로소프트, 아마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["알뜰폰 활성화 위해 일시적 지원 아닌 '중장기 플랜' 세워야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240705115554</link>
-            <guid>https://zdnet.co.kr/view/?no=20240705115554</guid>
-            <pubDate>Sun, 07 Jul 2024 00:52:21 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 알뜰폰 활성화의 정책 효과를 높이기 위해 중장기 그랜드 플랜을 세워야 한다는 주장이 제기됐다. 각종 알뜰폰 지원책을 예고했지만, 여전히 알뜰폰 시장 상황이 개선될 여지가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

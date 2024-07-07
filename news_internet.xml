@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 05:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 06:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 클라우드플레어, '웹사이트 스크랩' 차단 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240707062520</link>
+            <guid>https://zdnet.co.kr/view/?no=20240707062520</guid>
+            <pubDate>Sun, 07 Jul 2024 06:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 인터넷 보안 업체 클라우드플레어가 웹사이트 소유자들이 인공지능(AI) 서비스의 콘텐츠 접근을 차단하는 기능을 출시했다. 여러 AI 기업들이 타사 웹사이트를 무단으로 스크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버웹툰, 태국 '스플래시' 참석해 글로벌 성과 알려]]></title>
             <link>https://zdnet.co.kr/view/?no=20240707094043</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240705083107</guid>
             <pubDate>Fri, 05 Jul 2024 01:57:50 GMT</pubDate>
             <content:encoded><![CDATA[텔레그램이 자체 결제 화폐 '스타즈'로 유료 콘텐츠 구매를 지원한다. 미국 IT매체 테크크런치는 3일(현지시간) 텔레그램이 지난달 출시한 인앱 디지털 화폐 스타즈로 유료 콘텐츠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 센스타임 "인물 사진으로 영상 생성...표정도 제어"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240705083426</link>
-            <guid>https://zdnet.co.kr/view/?no=20240705083426</guid>
-            <pubDate>Fri, 05 Jul 2024 01:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[중국 인공지능(AI) 기업 센스타임이 인물 사진을 영상으로 바꿔주는 기술을 내놓고 영상 속 표정 제어도 가능하다고 전했다. 4일 중국 언론 IT즈자에 따르면 중국 센스타임은 세...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
