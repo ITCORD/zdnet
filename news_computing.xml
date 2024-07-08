@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 05:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 06:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작게, 더 작게…AI 모델 크기 줄인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240708105917</link>
+            <guid>https://zdnet.co.kr/view/?no=20240708105917</guid>
+            <pubDate>Mon, 08 Jul 2024 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI, 마이크로소프트, 구글 등 인공지능(AI) 기업들이 과도한 비용경쟁 문제를 해결하기 위해 매개변수 줄이기에 나선다. 월스트리트저널(WSJ) 등 외신은 8일 구글, 오픈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코드 없이 비즈니스 OK…티맥스, 가이아 활용법 소개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240708135816</link>
+            <guid>https://zdnet.co.kr/view/?no=20240708135816</guid>
+            <pubDate>Mon, 08 Jul 2024 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[티맥스가이아가 코드 없이도 앱 개발 등을 처리할 수 있는 노코드(No-Code) 방식을 선보인다. 티맥스가이아는 B2B 고객사를 대상으로 '가이아' 앱 활용법에 대한 웨비나를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[B2B SECaaS 강자 모니터랩, 新 무기 'RBI'로 국내외 시장 공략 가속]]></title>
             <link>https://zdnet.co.kr/view/?no=20240708104819</link>
@@ -112,7 +128,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AWS FIS 게임대회 '우리FIS' 우승…"임종룡 회장에 감사"]]></title>
+            <title><![CDATA[AWS FSI 게임대회 '우리FSI' 우승…"임종룡 회장에 감사"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240706120841</link>
             <guid>https://zdnet.co.kr/view/?no=20240706120841</guid>
             <pubDate>Sun, 07 Jul 2024 02:04:28 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240705155925</guid>
             <pubDate>Fri, 05 Jul 2024 07:11:32 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 120억원 규모의 운영자금을 조달받은 비투엔이 인공지능(AI) 사업 추진에 속도를 낼 전망이다. 비투엔은 빅데이터와 AI 기능 고도화, 데이터 처리 자동화에 집중해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZD SW 투데이] 지란지교소프트, 보안 관련 정부 사업 선정 外]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240705151610</link>
-            <guid>https://zdnet.co.kr/view/?no=20240705151610</guid>
-            <pubDate>Fri, 05 Jul 2024 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 SW '탑픽'으로 지목된 더존비즈온…비결이 뭐길래?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240705152836</link>
-            <guid>https://zdnet.co.kr/view/?no=20240705152836</guid>
-            <pubDate>Fri, 05 Jul 2024 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 비즈니스 플랫폼을 앞세워 올해 AX(AI 전환) 기업으로 변신을 시도하는 더존비즈온이 시장에서도 높은 기대감을 얻고 있다. 생성형 AI 사업 시작을 앞두고 있는 데다 클...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
