@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 13:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 14:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISTI,  상금 2천400만원 걸고 "AI로 사회·과학 문제 해결"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240710231217</link>
+            <guid>https://zdnet.co.kr/view/?no=20240710231217</guid>
+            <pubDate>Wed, 10 Jul 2024 14:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[한국과학기술정보연구원(원장 김재수, 이하 KISTI)은 오는 10일부터 오는 11월 20일까지 '2024 DATA‧AI 분석 경진대회'를 개최한다. 주최는 국가과학기술연구회, ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/10/16fa007cd064b780cff601e0bd83e949-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타십 우주선이 달에 가면 달 얼음이 오염된다고?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240710150933</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240710110059</guid>
             <pubDate>Wed, 10 Jul 2024 03:14:47 GMT</pubDate>
             <content:encoded><![CDATA[100배 더 정밀하고 5배 더 빠르게 출력되는.가시광선 반응 3D 프린팅 소재가 개발됐다. 상용화를 위해선 경제성 및 추가 공정 개선이 다소 필요하다는 것이 연구진 설명이다. ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/10/1b2db8414d6d246c3e7b065038fdb4d3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KAIST, 진청색 페로브스카이트 LED 완벽 구현…"상용화는 아직"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240706230250</guid>
             <pubDate>Sat, 06 Jul 2024 14:12:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 전국에 말라리아 주의보가 내려졌다. 매개체는 모기다.그렇다면 이들 모기를 피할 길은 없을까.모기가 좋아하는 사람이 따로 있다는 연구 결과가 있다. 대부분 물리는 사람만 물...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[물로 큐비트 생성 성공…국산 양자컴 실마리될까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240705110427</link>
-            <guid>https://zdnet.co.kr/view/?no=20240705110427</guid>
-            <pubDate>Fri, 05 Jul 2024 23:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 물로 양자컴퓨터의 큐비트를 생성하고, 이를 제어하는 방법을 찾아냈다. 기존의 양자컴퓨터를 구현하는 초전도, 이온트랙, 포토닉, 다이아몬드, 중성원자 등의 방식 이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
