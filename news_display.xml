@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 06:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 07:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["中 IT OLED 추격 거세…애플 공급망은 삼성·LG 독점 지속"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240711123248</link>
+            <guid>https://zdnet.co.kr/view/?no=20240711123248</guid>
+            <pubDate>Thu, 11 Jul 2024 07:12:16 GMT</pubDate>
+            <content:encoded><![CDATA["중국은 탄탄한 내수 시장과 정부의 지원금으로 OLED 산업을 빠르게 발전시켜 왔다. 향후에는 IT용 OLED에도 많은 투자를 진행할 것으로 예상된다. 다만 애플 공급망은 국내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄리타스반도체, AI·자율주행용  2나노 공정 IP 개발 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240711144645</link>
+            <guid>https://zdnet.co.kr/view/?no=20240711144645</guid>
+            <pubDate>Thu, 11 Jul 2024 07:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[초고속 인터페이스 IP(설계자산) 기업 퀄리타스반도체가 전 세계 파운드리 공정 중 가장 최선단 공정인 2나노(nm) 공정 및 4나노 IP 개발에 국내 최초로 착수했다고 11일 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 삼성·LG와 '무기발광 디스플레이' 산업 생태계 본격 조성]]></title>
             <link>https://zdnet.co.kr/view/?no=20240711075513</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240709092856</guid>
             <pubDate>Tue, 09 Jul 2024 06:15:54 GMT</pubDate>
             <content:encoded><![CDATA[아이에스시(ISC)는 인공지능(AI) 데이터센터와 스마트폰 시장을 겨냥한 새로운 NPU(신경망처리장치) 반도체 테스트 소켓인 'WiDER-Coax'를 선보였다고 9일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 "2나노 가속기 수주...국내 DSP와 협력 강화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240709083014</link>
-            <guid>https://zdnet.co.kr/view/?no=20240709083014</guid>
-            <pubDate>Tue, 09 Jul 2024 05:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 팹리스 업체들이 HPCㆍAI 분야에서 영향력을 빠르게 확대해 나갈 수 있도록 디자인 솔루션 파트너(DSP)들과 협력해 적극적으로 지원한다. 삼성전자는 9일 코엑스에서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파두, 해외 고객사로부터 68억 규모 eSSD 컨트롤러 추가 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240709115923</link>
-            <guid>https://zdnet.co.kr/view/?no=20240709115923</guid>
-            <pubDate>Tue, 09 Jul 2024 05:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[데이터센터 반도체 전문기업 기업 파두는 해외 낸드 플래시 메모리 제조사로부터 68억원 규모의 SSD(솔리드 스테이트 드라이브) 컨트롤러를 추가 수주했다고 9일 공시했다. 이번 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

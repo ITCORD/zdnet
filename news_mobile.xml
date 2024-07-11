@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 06:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 07:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 포토 사진, 애플 아이클라우드로 쉽게 옮긴다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240711160221</link>
+            <guid>https://zdnet.co.kr/view/?no=20240711160221</guid>
+            <pubDate>Thu, 11 Jul 2024 07:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[구글과 애플이 구글 포토에서 아이클라우드로 손쉽게 사진을 전송하는 새로운 기능을 출시한다고 엔가젯 등 외신들이 10일(현지시간) 보도했다. 이 기능은 지난 2021년 애플 아이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠하이저, 올인원 화상회의 시스템 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240711134532</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240710233552</guid>
             <pubDate>Wed, 10 Jul 2024 16:13:21 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 구글, 퀄컴과 협력해 개발 중인 XR(혼합현실) 플랫폼이 연내 출시된다. 노태문 삼성전자 MX사업부장 사장이 10일(현지시간) 프랑스 파리 루브르박물관에서 열린 '갤...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 갤럭시Z폴드6·Z플립6에 스냅드래곤8 3세대 SoC 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240710231930</link>
-            <guid>https://zdnet.co.kr/view/?no=20240710231930</guid>
-            <pubDate>Wed, 10 Jul 2024 15:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 10일 삼성전자 폴더블 안드로이드 스마트폰 신제품 갤럭시Z폴드6·Z플립6에 '갤럭시용 스냅드래곤8 3세대'를 공급했다고 밝혔다. 삼성전자 갤럭시Z폴드6·Z플립6는 갤럭시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
