@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 22:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 23:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 팀즈 오피스365 커넥터 8월15일 폐기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240714015834</link>
+            <guid>https://zdnet.co.kr/view/?no=20240714015834</guid>
+            <pubDate>Sat, 13 Jul 2024 23:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 팀즈 채널로 써드파티 애플리케이션의 콘텐츠와 서비스 업데이트를 직접 가져올 수 있는 '팀즈 커넥터'를 오는 8월15일로 폐기하기로 했다. 사용자 비난이 격렬하게...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국가 산업이라더니…新 SW 성장 '뜬구름 잡기'였나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240708175158</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240711174153</guid>
             <pubDate>Thu, 11 Jul 2024 10:11:55 GMT</pubDate>
             <content:encoded><![CDATA[신시웨이가 국내 기업에 데이터베이스(DB) 보안 솔루션을 제공해 시스템 암호화와 접근제어를 강화한다. 신시웨이는 SK C&amp;C, 한전KDN 클라우드 플랫폼과 DB보안 솔루션 파트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 커닝 딱 걸렸다"...무하유, 수도권 특목고에 'GPT킬러' 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240711163944</link>
-            <guid>https://zdnet.co.kr/view/?no=20240711163944</guid>
-            <pubDate>Thu, 11 Jul 2024 09:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[무하유가 학생들에게 올바른 챗GPT 활용법을 알리기 위해 나섰다. 무하유는 고양국제고를 비롯한 미추홀외국어고, 서울과학고, 인천과학예술영재고, 청심국제고, 하나고 등 특목고에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
