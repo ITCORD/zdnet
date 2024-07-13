@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 00:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 02:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수소 전기 항공택시, 840km 날았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240712144926</link>
+            <guid>https://zdnet.co.kr/view/?no=20240712144926</guid>
+            <pubDate>Sat, 13 Jul 2024 01:58:57 GMT</pubDate>
+            <content:encoded><![CDATA[미국 전기 수직이착륙기(eVTOL) 스타트업 조비에비에이션이 수소를 동력원으로 하는 항공택시의 시험 비행을 성공적으로 완료했다고 IT매체 엔가젯이 11일(현지시간) 보도했다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 트럼프 '페북·인스타그램 계정' 제한 푼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240713090246</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240711082938</guid>
             <pubDate>Thu, 11 Jul 2024 02:00:36 GMT</pubDate>
             <content:encoded><![CDATA[메타가 10세~12세 아이들의 퀘스트 사용을 허용한다. 앞으로 부모의 허락을 받은 아이들은 퀘스트를 통해 전화하고, 채팅하는 등의 가상현실(VR) 경험을 할 수 있게 된다. 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 멜론에서 가장 많이 검색한 곡 '밤양갱'…아티스트는 '아이유']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240711092149</link>
-            <guid>https://zdnet.co.kr/view/?no=20240711092149</guid>
-            <pubDate>Thu, 11 Jul 2024 00:48:57 GMT</pubDate>
-            <content:encoded><![CDATA[올해 상반기 멜론에서 가장 많이 검색된 곡은 '밤양갱'이고, 아티스트는 '아이유'인 것으로 나타났다. 또한 버추얼 아이돌 PLAVE의 'ASTERUM : 134-1'앨범이 가장...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
