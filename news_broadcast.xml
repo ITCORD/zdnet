@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 23:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 00:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, IPTV 셋탑에 온디바이스AI 적용...초개인화 서비스 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240714072007</link>
+            <guid>https://zdnet.co.kr/view/?no=20240714072007</guid>
+            <pubDate>Sun, 14 Jul 2024 00:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 IPTV 서비스에 자체 개발한 AI 익시(ixi) 기반의 '온디바이스 AI' 기술을 적용한다고 14일 밝혔다. 온디바이스 AI는 서버와의 통신 과정 없이 기기 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이우재 초대 KT 사장 별세...향년 90세]]></title>
             <link>https://zdnet.co.kr/view/?no=20240713064935</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240711153326</guid>
             <pubDate>Thu, 11 Jul 2024 08:14:03 GMT</pubDate>
             <content:encoded><![CDATA[유료방송 사업자가 특정 스포츠 독점 중계권을 가져가면 정보의 자유를 인정한 헌법적 가치에 위배된다는 주장이 나와 이목을 끈다. 이에 방송법의 보편적 시청권 개념에 대한 조항을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라쿠텐심포니, 무인사업장 운영 IoT 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240711155103</link>
-            <guid>https://zdnet.co.kr/view/?no=20240711155103</guid>
-            <pubDate>Thu, 11 Jul 2024 07:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[라쿠텐심포니는 11일 무인 사업장의 효율적 운영을 위한 인공지능 기반 공간 운영 자동화 사물인터넷(IoT) 솔루션 '라쿠텐 NEO'를 출시했다고 밝혔다. 라쿠텐 NEO는 머신러...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
