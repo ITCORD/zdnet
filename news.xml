@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 15:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상반기 무역기술장벽(TBT) 2009건 기록]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240714232035</link>
+            <guid>https://zdnet.co.kr/view/?no=20240714232035</guid>
+            <pubDate>Sun, 14 Jul 2024 15:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 올해 상반기 세계무역기구(WTO) 회원국이 통보한 기술규제는 2천9건으로 지난해 같은 기간의 2천53건 수준을 유지했다고 14일 밝혔다. 2분기에...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/07/05/8c6286909fe107689f720a727a641579-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국토부, 모빌리티 분야 생활 밀착형 사업 4건, 규제 특례]]></title>
             <link>https://zdnet.co.kr/view/?no=20240714230818</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240714222525</guid>
             <pubDate>Sun, 14 Jul 2024 13:32:25 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 전문기업 아크릴(Acryl, 대표 박외진)은 자사 AAAI 연구팀이 작성한 최신 논문 'PeRF: Preemption-enabled RDMA FRAMEwork'...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/14/e89554465d1d0a6109296d11f2be1cfc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["트럼프 총격 용의자, 20세 美공화당 등록당원"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240714100138</guid>
             <pubDate>Sun, 14 Jul 2024 02:07:28 GMT</pubDate>
             <content:encoded><![CDATA[LG이노텍은 세계 최대 규모의 ESG 평가 기관인 에코바디스(EcoVadis)로부터 최고 등급인 '플래티넘'을 획득했다고 14일 밝혔다. 2007년 프랑스 파리에서 설립된 에코...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오픈AI가 제품 위험성 못 알리게 입막음"…美 SEC에 서한]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240714093039</link>
-            <guid>https://zdnet.co.kr/view/?no=20240714093039</guid>
-            <pubDate>Sun, 14 Jul 2024 02:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 인공지능(AI) 기술 위험이 규제 당국에 전달되지 못하도록 직웓 입막음했다는 내부 고발이 나왔다. 13일(현지시간) 워싱턴포스트(WP)에 따르면 회사 직원들이 이달 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
