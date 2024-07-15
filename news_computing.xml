@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 04:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 05:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰서도 추억의 게임 즐긴다…애플, PC 에뮬레이터 첫 승인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240715104519</link>
+            <guid>https://zdnet.co.kr/view/?no=20240715104519</guid>
+            <pubDate>Mon, 15 Jul 2024 05:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 고전 소프트웨어와 고전 게임을 실행할 수 있는 PC 에뮬레이션 앱 'UTM SE'를 마침내 승인했다고 IT매체 더버지가 14일(현지시간) 보도했다. 해당 앱은 iOS, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["내 유심 돌려줘"…'심 스와핑 해킹' 확산 우려]]></title>
             <link>https://zdnet.co.kr/view/?no=20240715090855</link>
@@ -128,7 +136,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['AI 사용' 주장한 BBC에 뿔난 세븐틴 팬클럽 '캐럿'…우지가 밝힌 입장은?]]></title>
+            <title><![CDATA[세븐틴 팬클럽, 'AI 사용' 주장 BBC에 뿔났다…우지가 밝힌 입장은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240715092956</link>
             <guid>https://zdnet.co.kr/view/?no=20240715092956</guid>
             <pubDate>Mon, 15 Jul 2024 00:51:12 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240714222525</guid>
             <pubDate>Sun, 14 Jul 2024 13:32:37 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 전문기업 아크릴(Acryl, 대표 박외진)은 자사 AAAI 연구팀이 작성한 최신 논문 'PeRF: Preemption-enabled RDMA FRAMEwork'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오픈AI가 제품 위험성 못 알리게 입막음"…美 SEC에 서한]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240714093039</link>
-            <guid>https://zdnet.co.kr/view/?no=20240714093039</guid>
-            <pubDate>Sun, 14 Jul 2024 02:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 인공지능(AI) 기술 위험이 규제 당국에 전달되지 못하도록 직웓 입막음했다는 내부 고발이 나왔다. 13일(현지시간) 워싱턴포스트(WP)에 따르면 회사 직원들이 이달 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
