@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 23:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 00:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SKT, 美 AI데이터센터 기업에 2800억원 전격 투자]]></title>
+            <title><![CDATA[中 연구진, 세계 최초 6G 통신 필드테스트 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240716091019</link>
+            <guid>https://zdnet.co.kr/view/?no=20240716091019</guid>
+            <pubDate>Tue, 16 Jul 2024 00:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 통신사들이 세계 최초로 6G 통신 필드 테스트를 진행했다는 소식이다. 15일(현지시간) 라이트리딩닷컴은 신화통신 등 중국 현지 언론을 인용, 북경우전대학교 연구진들은 6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, 美 AI클러스터 설계 기업에 2800억원 투자..."AI 분야 역대 최대규모"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240716063319</link>
             <guid>https://zdnet.co.kr/view/?no=20240716063319</guid>
             <pubDate>Mon, 15 Jul 2024 22:11:09 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240712200546</guid>
             <pubDate>Fri, 12 Jul 2024 20:11:40 GMT</pubDate>
             <content:encoded><![CDATA[스페이스X가 노트북 크기의 위성통신 안테나 단말기를 내놨다. 휴대용 위성안테나로 위성통신 신호를 수신해 인터넷 공유기로 활용할 수 있다. 11일(현지시간) 스페이스X는 소형 판...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, KBS·방문진 이사 지원자 국민의견 수렴]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240712185041</link>
-            <guid>https://zdnet.co.kr/view/?no=20240712185041</guid>
-            <pubDate>Fri, 12 Jul 2024 10:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 한국방송공사 이사와 방송문화진흥회 이사 지원자에 대해 15일 오전 9시부터 19일 오후 6시까지 국민의견을 접수 받는다고 밝혔다. 이 기간 동안 방통위 홈페이지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
