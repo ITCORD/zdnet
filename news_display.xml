@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 20:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 21:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["엔비디아 천하 영원하지 않아…韓 반도체 기회 잡아야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240717083130</link>
+            <guid>https://zdnet.co.kr/view/?no=20240717083130</guid>
+            <pubDate>Wed, 17 Jul 2024 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA["현재 AI 반도체 시장은 엔비디아가 주도하고 있지만, 전력소모 등의 문제로 NPU가 향후 대체재로 떠오를 것이다. 차세대 메모리 시장에도 많은 변화가 올 것이다. 국내 업계도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ASML, 2분기도 中 매출 '절반' 육박…고성능 DUV 수요 여전]]></title>
             <link>https://zdnet.co.kr/view/?no=20240717140623</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240715174502</guid>
             <pubDate>Mon, 15 Jul 2024 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[오픈엣지테크놀로지는 HBM3(4세대 고대역폭메모리)를 지원하는 PHY(물리계층) IP(설계자산) 테스트 칩을 성공적으로 출시 및 검증했다고 15일 밝혔다. 이번 검증은 오픈엣지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마우저, 2분기 1만개 이상 신제품 추가 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240715172004</link>
-            <guid>https://zdnet.co.kr/view/?no=20240715172004</guid>
-            <pubDate>Mon, 15 Jul 2024 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[마우저일렉트로닉스는 지난 2분기에 즉시 선적이 가능한 1만개 이상의 제품을 추가로 공급하기 시작했다고 15일 밝혔다. 마우저가 지난 4월부터 6월까지 공급을 시작한 제품에는 T...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
