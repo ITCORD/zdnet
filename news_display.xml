@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 23:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 00:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美, 中 반도체 수출 규제 강화한다…TEL·ASML 등 압박]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240718090306</link>
+            <guid>https://zdnet.co.kr/view/?no=20240718090306</guid>
+            <pubDate>Thu, 18 Jul 2024 00:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 중국에 대한 최첨단 반도체 제조장비 수출 규제 수위를 높이는 방안을 고려하고 있다고 블룸버그통신이 17일(현지시간) 보도했다. 해당 방안은 네덜란드 ASML, 일본...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가온칩스-어보브반도체, 28나노 고성능 가전 MCU 개발 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240717144926</link>
+            <guid>https://zdnet.co.kr/view/?no=20240717144926</guid>
+            <pubDate>Thu, 18 Jul 2024 00:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[어보브반도체와 가온칩스가 고성능 가전용 마이크로컨트롤러(MCU) 개발을 위해 협력한다. 양사는 이번 협력으로 삼성전자 파운드리의 28나노 공정 기술을 활용해 하이엔드 가전 MC...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아 주가 6% 이상 폭락…시총 3조 달러 붕괴]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240718081030</link>
+            <guid>https://zdnet.co.kr/view/?no=20240718081030</guid>
+            <pubDate>Thu, 18 Jul 2024 00:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 대중 반도체 수출 규제를 더 강화할 가능성이 제기되면서 인공지능(AI) 칩 선두주자 엔비디아를 비롯해 대만 TSMC, ASML 등 제조업체에 이르기까지 전 세계 반...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["엔비디아 천하 영원하지 않아…韓 반도체 기회 잡아야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240717083130</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240716092000</guid>
             <pubDate>Tue, 16 Jul 2024 00:49:33 GMT</pubDate>
             <content:encoded><![CDATA[임베디드 및 에지 컴퓨팅 전문 기업 콩가텍은 NXP의 'i.MX 95' 프로세서를 탑재한 고성능 컴퓨터 온 모듈(COM)을 새롭게 출시한다고 16일 밝혔다. 새롭게 출시된 모듈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리벨리온·이글루코퍼레이션, AI 보안 솔루션 개발 '맞손']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240716092117</link>
-            <guid>https://zdnet.co.kr/view/?no=20240716092117</guid>
-            <pubDate>Tue, 16 Jul 2024 00:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[AI 반도체 스타트업 리벨리온은 AI 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션과 전략적 제휴를 맺고 AI 보안 제품 및 서비스 사업 분야에서 협력하기로 했다고 16일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 미디어텍 최신 모바일 AP에 'LPDDR5X' 검증 완료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240716080248</link>
-            <guid>https://zdnet.co.kr/view/?no=20240716080248</guid>
-            <pubDate>Tue, 16 Jul 2024 00:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 대만 반도체 설계 기업인 미디어텍과 업계 최고 속도인 10.7Gbps LPDDR5X D램 동작 검증을 완료했다고 16일 밝혔다. 삼성전자는 올해 하반기 출시 예정인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈엣지, HBM3 검증용 7나노 테스트 칩 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240715174502</link>
-            <guid>https://zdnet.co.kr/view/?no=20240715174502</guid>
-            <pubDate>Mon, 15 Jul 2024 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[오픈엣지테크놀로지는 HBM3(4세대 고대역폭메모리)를 지원하는 PHY(물리계층) IP(설계자산) 테스트 칩을 성공적으로 출시 및 검증했다고 15일 밝혔다. 이번 검증은 오픈엣지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
