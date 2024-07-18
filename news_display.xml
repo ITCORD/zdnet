@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 04:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 05:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, CXL 2.0 D램 하반기 양산 시작…"1y D램 탑재"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240718094059</link>
+            <guid>https://zdnet.co.kr/view/?no=20240718094059</guid>
+            <pubDate>Thu, 18 Jul 2024 05:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 차세대 메모리 솔루션으로 주목받는 CXL(컴퓨트 익스프레스 링크) 2.0 D램의 양산을 연내 시작한다. 해당 제품은 1y D램(10나노급 2세대)을 기반으로, 256...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 中 반도체 수출 규제 강화한다…TEL·ASML 등 압박]]></title>
             <link>https://zdnet.co.kr/view/?no=20240718090306</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240716084843</guid>
             <pubDate>Tue, 16 Jul 2024 02:02:07 GMT</pubDate>
             <content:encoded><![CDATA[국내 디스플레이·이차전지 장비업체 파인텍이 최근 삼성디스플레이로부터 지속적인 수주를 받고 있다. 향후 견조한 성장세가 예견되는 IT OLED용 투자가 긍정적인 영향을 끼친 것으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콩가텍, NXP 'i.MX 95' 프로세서 기반 신규 모듈 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240716092000</link>
-            <guid>https://zdnet.co.kr/view/?no=20240716092000</guid>
-            <pubDate>Tue, 16 Jul 2024 00:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[임베디드 및 에지 컴퓨팅 전문 기업 콩가텍은 NXP의 'i.MX 95' 프로세서를 탑재한 고성능 컴퓨터 온 모듈(COM)을 새롭게 출시한다고 16일 밝혔다. 새롭게 출시된 모듈...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
