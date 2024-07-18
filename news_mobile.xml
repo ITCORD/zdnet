@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 09:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 10:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] AI가 불량률 낮추고 위험 감지…LG 스마트팩토리 가보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240718183305</link>
+            <guid>https://zdnet.co.kr/view/?no=20240718183305</guid>
+            <pubDate>Thu, 18 Jul 2024 10:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[제조공장에 AI(인공지능)과 로봇이 사용되면서 불량률을 낮춰주고 위험이 생기면 알림을 준다. 최근에는 생성형AI 기술까지 적용되면서 공장 운영 관련 리포트를 편리하게 받아볼 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["5년 공들여 개발"…화웨이, 두번 접는 '트리폴드폰' 9월 출시 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20240718170918</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240717080121</guid>
             <pubDate>Wed, 17 Jul 2024 00:48:53 GMT</pubDate>
             <content:encoded><![CDATA[올해 2분기 전세계 스마트폰 판매량이 3분기 연속 전년 동기 대비 성장세를 보이며 회복세를 이어가고 있다. 지난 10년 중 최악의 판매량을 기록했던 지난해 수준을 벗어나는 모습...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[확 바뀌는 애플워치…올해 어떻게 달라지나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240717081322</link>
-            <guid>https://zdnet.co.kr/view/?no=20240717081322</guid>
-            <pubDate>Wed, 17 Jul 2024 00:48:53 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올해 애플워치 전체 라인업을 재정비할 계획이다. IT매체 맥루머스는 16일(현지시간) 그 동안 나온 정보를 종합해 올해 출시될 애플워치의 주요 변화를 보도했다. 올해도 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
