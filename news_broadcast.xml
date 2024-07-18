@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 05:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 06:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사, 휴가·장마철 맞아 통신품질 집중관리]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240718134608</link>
+            <guid>https://zdnet.co.kr/view/?no=20240718134608</guid>
+            <pubDate>Thu, 18 Jul 2024 06:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[이동통신 3사가 여름 휴가철 및 장마철과 파리 올림픽을 맞아 통신 품질 집중 관리에 돌입한다. 데이터 사용량이 평년보다 늘어날 것으로 예상되는 만큼 서비스 관리에 만전을 기하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["2029년 말 5G 가입회선 수 56억건 도달"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240718105503</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240717090013</guid>
             <pubDate>Wed, 17 Jul 2024 00:48:38 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스 통신 플랫폼 '너겟'이 MZ세대 고객들의 올바른 디지털 습관을 권장하는 브랜드 캠페인 '몰입의 순간에 접속해'를 전개한다. 캠페인 취지에 맞춰 스마트폰 데이터를 차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["비행기에서 인터넷 사용하세요"...SKT, 'T 기내 와이파이' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240717085424</link>
-            <guid>https://zdnet.co.kr/view/?no=20240717085424</guid>
-            <pubDate>Wed, 17 Jul 2024 00:48:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 국내 이동통신사 최초로 비행 중인 항공기 내에서 와이파이를 사용할 수 있는 서비스 'T 기내 와이파이'를 출시한다고 17일 밝혔다. 'T 기내 와이파이'는 항공사를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
