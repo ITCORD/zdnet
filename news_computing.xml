@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 10:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계 윈도 화면에 '블루스크린' 발생…이렇게 복구하세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240719185313</link>
+            <guid>https://zdnet.co.kr/view/?no=20240719185313</guid>
+            <pubDate>Fri, 19 Jul 2024 10:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[크라우드스트라이크 보안플랫폼 '팔콘'이 마이크로소프트 윈도 운영체제(OS) 내부서 충돌을 일으켜 전 세계적으로 블루스크린 사태를 일으킨 가운데, 이를 복구할 수 있는 해결법 세...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 교과서, 내년 3월 전면 도입…네이버클라우드 '앞장']]></title>
             <link>https://zdnet.co.kr/view/?no=20240719175428</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240718175017</guid>
             <pubDate>Fri, 19 Jul 2024 02:06:21 GMT</pubDate>
             <content:encoded><![CDATA[대구광역시가 기업들에 가명정보 활용을 지원하고, 데이터 이용 활성화를 본격 시작한다. 개인정보보호위원회와 대구광역시는 해당 지역 기업들의 안전한 데이터 활용을 지원하기 위해 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슈나이더 일렉트릭, 2024 파리 올림픽 탄소 배출량 감소 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240718182408</link>
-            <guid>https://zdnet.co.kr/view/?no=20240718182408</guid>
-            <pubDate>Thu, 18 Jul 2024 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[슈나이더 일렉트릭이 자회사 에코액트와 함께 2024 파리 올림픽 및 패럴림픽에 공식 후원사로 참여한다. 슈나이더 일렉트릭 코리아(대표 김경록)는 탄소 배출량을 이전 대비 50%...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
