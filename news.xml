@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 12:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 13:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유미's 픽] "전 세계가 멈췄다"…MS發 '먹통' 사태, '빅3' 클라우드 높은 의존도에 '경각심']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240719215359</link>
+            <guid>https://zdnet.co.kr/view/?no=20240719215359</guid>
+            <pubDate>Fri, 19 Jul 2024 13:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에서 벌어진 온라인 플랫폼 장애 장애 원인이 마이크로소프트(MS)의 클라우드 서비스 '애저'의 오류인 것으로 밝혀지면서 질주하던 클라우드 시장에 경고등이 켜졌다. 특정 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/19/664e0153b9659c345b4913d92cc0ae90-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 이용자보호 법안 논의 시동..."잠재적 위험성, 부작용 최소화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240719200213</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240719195341</guid>
             <pubDate>Fri, 19 Jul 2024 11:10:30 GMT</pubDate>
             <content:encoded><![CDATA[정부가 마이크로소프트(MS) 클라우드 서비스에 장애로 국내서도 피해 사례가 확산되면서 현황 파악에 나섰다. 19일 과학기술정보통신부는 한국인터넷진흥원과 한국MS에 서비스 장애에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/07/23/4d955be5a83af3b59902abc0ff52d299-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전 세계 연결한 클라우드…장애 한번에 글로벌 혼선 야기]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240719150525</guid>
             <pubDate>Fri, 19 Jul 2024 08:13:48 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[폭염·폭우 지친 고객 겨냥 주류 팝업스토어 등장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240719160411</link>
-            <guid>https://zdnet.co.kr/view/?no=20240719160411</guid>
-            <pubDate>Fri, 19 Jul 2024 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[연일 폭우와 폭염이 이어지고 있는 가운데, 외부 활동 대신 백화점이나 쇼핑몰을 찾는 소비자를 겨냥한 주류 팝업스토어가 등장하고 있다. 유통 업계에서는 유동인구가 확보된 쇼핑몰 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 12:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 13:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[유미's 픽] "전 세계가 멈췄다"…MS發 '먹통' 사태, '빅3' 클라우드 높은 의존도에 '경각심']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240719215359</link>
+            <guid>https://zdnet.co.kr/view/?no=20240719215359</guid>
+            <pubDate>Fri, 19 Jul 2024 13:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에서 벌어진 온라인 플랫폼 장애 장애 원인이 마이크로소프트(MS)의 클라우드 서비스 '애저'의 오류인 것으로 밝혀지면서 질주하던 클라우드 시장에 경고등이 켜졌다. 특정 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 한국MS에 클라우드 장애 피해규모·원인 파악 요구]]></title>
             <link>https://zdnet.co.kr/view/?no=20240719195341</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240719075830</guid>
             <pubDate>Fri, 19 Jul 2024 02:06:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 인공지능(AI) 시장에서 더 큰 점유율을 확보하기 위해 기존 모델보다 가성비가 뛰어난 소형 제품을 내놨다. 오픈AI는 18일(현지시간) 멀티모달 모델 GPT-4o 경...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, 美 브로드컴과 AI칩 개발…삼성·SK도 기회 잡나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240719080343</link>
-            <guid>https://zdnet.co.kr/view/?no=20240719080343</guid>
-            <pubDate>Fri, 19 Jul 2024 02:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 챗봇인 '챗GPT' 개발사 오픈AI를 이끄는 샘 알트먼 최고경영자(CEO)가 자체 AI칩 개발 파트너로 미국 반도체 기업 브로드컴을 택했다. 19일 디인포메이션...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
