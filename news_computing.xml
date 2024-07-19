@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 14:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 15:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, MS 윈도 블루스크린 비상대응팀 운영]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240719233239</link>
+            <guid>https://zdnet.co.kr/view/?no=20240719233239</guid>
+            <pubDate>Fri, 19 Jul 2024 15:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 19일 마이크로소프트(MS)의 국내 클라우드 서비스의 장애 발생과 관련, 한국인터넷진흥원과 윈도 시스템 비정상 종료(블루스크린)에 대한 비상대응팀을 구성했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유미's 픽] "전 세계가 멈췄다"…MS發 '먹통' 사태, '빅3' 클라우드 높은 의존도에 '경각심']]></title>
             <link>https://zdnet.co.kr/view/?no=20240719215359</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240719090933</guid>
             <pubDate>Fri, 19 Jul 2024 02:06:21 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 하드웨어 시장을 주도하는 엔비디아와 오픈AI의 경쟁자로 주목받는 미스트랄AI가 새로운 언어모델을 발표했다. 신규 언어 모델은 엔비디아의 개인용 그래픽카드인 RT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, GPT-4o 소형 버전 공개…"60% 이상 저렴"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240719075830</link>
-            <guid>https://zdnet.co.kr/view/?no=20240719075830</guid>
-            <pubDate>Fri, 19 Jul 2024 02:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 인공지능(AI) 시장에서 더 큰 점유율을 확보하기 위해 기존 모델보다 가성비가 뛰어난 소형 제품을 내놨다. 오픈AI는 18일(현지시간) 멀티모달 모델 GPT-4o 경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
