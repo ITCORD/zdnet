@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 22:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 02:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI 시대, 개인정보 보호와 혁신의 균형을 찾아서]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240719090637</link>
+            <guid>https://zdnet.co.kr/view/?no=20240719090637</guid>
+            <pubDate>Fri, 19 Jul 2024 02:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[정부 부처중 한 곳인 개인정보보호위원회가 지난 17일 'AI 개발·서비스를 위한 공개된 개인정보 처리 안내서'를 발표했다. 이는 AI기술 발전과 개인정보 보호 사이의 균형점을 제시한 중요한 이정표로 평가된다.AI기술 발전을 위해서는 방대한 양의 데이터가 필요하다. 특히 '챗GPT(ChatGPT)'나 국내 '하이퍼클로바X'와 같은 대규모 언어모델(LL...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/05/23/f3d4d798aa521c9fc9c0ad323058a928.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["멈출 수 없다면 가두세요, 당신의 디지털 욕망"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240711173846</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jun 2024 10:12:42 GMT</pubDate>
             <content:encoded><![CDATA[군사정보(Military Intelligence)는 군사 목적으로 적이나 작전지역에서 수집해 분석한 정보다. 정보 수집방법에 따라 인간정보(HUMINT: Human Intelligence), 신호정보(SIGINT: Signal Intelligence), 영상정보(IMINT: Image Intelligence), 공개출처정보(OSINT: Open Source Intelligence) 등으로 구...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/03/03/2a9f6b01aeee1b6833a67120dc555f15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이랜서 칼럼] AI 준지도학습, 반도체 공정 비전 AI 분야서 각광]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240601173143</link>
-            <guid>https://zdnet.co.kr/view/?no=20240601173143</guid>
-            <pubDate>Sat, 01 Jun 2024 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[[이랜서칼럼]은 ‘IT를 기반으로 자유롭게 일하는 21세기형 전문가’를 지칭하는 ‘이랜서’(e-Lancer)들이 21세기형 일과 생활에 대한 인사이트와 노하우를 공유하는 장입니다.“미국과 영국, 독일에서 알렉사의 사용자 음성 인식을 25% 이상 개선했다. 준지도학습(semi-supervised learning) 기술을 이용해 알렉사의 머신러닝 관련 요소를 강화하는 방법을 사용했다. 준지도학습...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/01/d2995fba49efa47e3ae2ac8ac13d6487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
