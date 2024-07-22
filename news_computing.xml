@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 10:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS 장애 피해기업 10곳 복구완료...장애 악용 사이버공격 주의보]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722184712</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722184712</guid>
+            <pubDate>Mon, 22 Jul 2024 10:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 크라우드스트라이크 보안패치로 인한 윈도 시스템 장애 발생과 관련해 파악한 국내 피해기업 10개사 모두 복구가 완료된 것으로 확인했다고 22일 밝혔다. 아울러...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개보위-KISA, '개인정보 불법유통 대응 대학생 모니터링단 발대식' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240722172638</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240722112253</guid>
             <pubDate>Mon, 22 Jul 2024 03:13:55 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관 후보자가 최근 마이크로소프트(MS) 클라우드 서비스 혼란과 관련해 한국 만의 ICT 안정성 확보 작업이 필요하다고 밝혔다. 유상임 후보자는 22일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['포뮬러원'도 당했다…죽음의 블루스크린에 '진땀']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722074327</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722074327</guid>
-            <pubDate>Mon, 22 Jul 2024 03:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[모터스포츠 대회 포뮬러원(F1)조차 '죽음의 블루스크린'을 피하지 못했다. 크라우드스트라이크를 팀 스폰서로 두고 있는 메르세데스-벤츠 F1팀이 직격타를 맞아서다. 22일 모터스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
