@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 13:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 14:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 최고 AI병원 '메이요 클리닉'···2위 마운틴 헬스]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722224508</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722224508</guid>
+            <pubDate>Mon, 22 Jul 2024 14:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[미국 미네소타주 로체스터에 본사가 있는 종합 병원 메이오 클리닉(Mayo Clinic)이 미국내 최고 AI 혁신병원에 뽑혔다. 2위는 유타주 솔트레이크시티에 본사가 있는 인터마...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/22/3eb9a48b04fbfc1a271fad5febec1e41-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한림원 "우주청, 기초연구 투자도 확대해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240722205057</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240722203755</guid>
             <pubDate>Mon, 22 Jul 2024 12:20:04 GMT</pubDate>
             <content:encoded><![CDATA[창업인(대표 장하일)이 고속도로 휴게소의 디지털 전환을 위한 오프라인 주문·결제 서비스 '테이블로'의 본격적인 확대에 나선다고 22일 밝혔다. 테이블로는 오프라인 매장 방문객이...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/22/d591407782a7ec403907767c0bfea52a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사]우주항공청]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240722165607</guid>
             <pubDate>Mon, 22 Jul 2024 08:15:30 GMT</pubDate>
             <content:encoded><![CDATA[태광그룹 계열 티커머스채널 쇼핑엔티가 버즈니 커머스 인공지능(AI) 기술을 적용한 'AI쇼핑톡' 서비스를 도입했다고 22일 밝혔다. AI쇼핑톡 서비스는 생성형 AI 기술을 활용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["ESG 공시 관련 소송 급증한다...내부통제시스템 구축해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722093554</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722093554</guid>
-            <pubDate>Mon, 22 Jul 2024 08:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국내 ESG 공시 의무화를 비롯해 관련 규제가 증가하는 가운데 국내외 ESG 법제화 동향을 알아보고 기업들의 대응방안을 논의하는 포럼이 열렸다. 대한상공회의소는 대한변호사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
