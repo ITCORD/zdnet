@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 04:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 05:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 HBM 개발에 소재도 '혁신'…SiC·레이저 주목]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722105706</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722105706</guid>
+            <pubDate>Mon, 22 Jul 2024 05:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[HBM(고대역폭메모리)의 D램 적층 수가 점차 증가하는 추세에 따라 이를 위한 포커스링·디본딩 기술도 향후 많은 변화와 발전이 일어날 것으로 예상된다. 주요 메모리 제조업체와 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시지트로닉스, 차세대 전력용 '산화갈륨 반도체' 개발 성공]]></title>
             <link>https://zdnet.co.kr/view/?no=20240722102438</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240717141819</guid>
             <pubDate>Wed, 17 Jul 2024 06:15:37 GMT</pubDate>
             <content:encoded><![CDATA[시스템반도체 설계 디자인하우스(DSP) 코아시아가 미국 온 디바이스(On-Device) AI 프로세서 전문 기업 펨토센스(Femtosense)와 엣지(Edge) AI 반도체 설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DSM쎄미켐, 美 텍사스주에 반도체용 고순도 황산 공장 준공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240717111903</link>
-            <guid>https://zdnet.co.kr/view/?no=20240717111903</guid>
-            <pubDate>Wed, 17 Jul 2024 05:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[동진쎄미켐과 삼성물산, 미국 마틴의 합작사인 DSM쎄미켐 LLC(이하 DSM)은 15일(현지시간) 미국 텍사스 주 플레인뷰 시에 위치한 황산 공장의 준공식을 개최했다고 17일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
