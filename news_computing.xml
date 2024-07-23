@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 02:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 03:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 중소기업 정보보호 인증부담 줄인다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240723091025</link>
+            <guid>https://zdnet.co.kr/view/?no=20240723091025</guid>
+            <pubDate>Tue, 23 Jul 2024 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 중소기업들은 '정보보호 및 개인정보 관리체계(ISMS·ISMS-P)' 취득에 필요한 인증 부담을 줄일 수 있을 것으로 보인다. 과학기술정보통신부와 개인정보보호위원회, 한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베트남 고위공무원 9명, 韓 디지털 행정 혁신 비법 전수 받는다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240723113532</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240722163736</guid>
             <pubDate>Mon, 22 Jul 2024 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[뱅크웨어글로벌이 일본에 진출해 2030년까지 전자결제 80%를 달성하겠다고 발표했다. 뱅크웨어글로벌은 현지 약 100만 명 고객을 보유한 일본 D 카드사와 IT 컨설팅 및 서비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["API 활용 쉽게"…티맥스소프트, 애니API 포탈 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722163020</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722163020</guid>
-            <pubDate>Mon, 22 Jul 2024 08:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[티맥스소프트가 손쉬운 응용프로그램인터페이스(API) 활용 환경을 제공해 통합 연계 솔루션 사업 경쟁력을 강화한다. 티맥스소프트는 API 통합 관리 솔루션 '애니API 포탈' 내...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
