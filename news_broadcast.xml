@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 00:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 02:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT엠모바일은 어떻게 알뜰폰 개통 상담시간을 80% 줄였을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240722111354</link>
+            <guid>https://zdnet.co.kr/view/?no=20240722111354</guid>
+            <pubDate>Tue, 23 Jul 2024 02:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[알뜰폰은 통신 3사와 비교해 고객센터 만족도가 낮다는 평을 받곤 한다. 수익성을 고려하면 비용을 더 들여 대규모 상담인력을 갖추기 어렵기 때문이다. 이런 가운데 고객센터 응대율...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT "PASS 앱으로 보이스피싱 미끼 문자 차단"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240723094235</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240719160405</guid>
             <pubDate>Sat, 20 Jul 2024 00:47:14 GMT</pubDate>
             <content:encoded><![CDATA[# 비가 억수로 쏟아지자 빨간색 공중전화 부스로 몸을 급히 숨긴다. 주머니를 살피니 동전이 하나도 없어 '콜렉트콜'로 전화를 걸었다. 뚜르르- 통화 연결음도 잠시, 상대방이 설...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中통신3사, 전세계 셀룰러 IoT 회선 수 비중 75% 차지]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240720072858</link>
-            <guid>https://zdnet.co.kr/view/?no=20240720072858</guid>
-            <pubDate>Fri, 19 Jul 2024 23:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 전세계 이동통신망 기반 IoT 회선 수는 36억, 관련 매출은 150억 달러(약 20조9천억원)를 기록한 것으로 나타났다. 셀룰러 IoT 회선 수의 75%가 중국의 통신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
