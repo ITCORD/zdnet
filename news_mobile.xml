@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 07:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 08:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이수스 "케이블 구조 바꾼 메인보드·그래픽카드, 하반기 출시 확대"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240724162935</link>
+            <guid>https://zdnet.co.kr/view/?no=20240724162935</guid>
+            <pubDate>Wed, 24 Jul 2024 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[데스크톱PC 메인보드의 전원 케이블과 각종 배선을 전면이 아닌 후면으로 보내기 위한 새로운 규격인 BTF가 올 하반기 시장 확대를 노린다. 에이수스가 지난 해 BTF(백투더퓨처...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코웨이 물빛소리 합창단, 첫 정기연주회 성료]]></title>
             <link>https://zdnet.co.kr/view/?no=20240724160332</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240723144728</guid>
             <pubDate>Tue, 23 Jul 2024 06:15:52 GMT</pubDate>
             <content:encoded><![CDATA[롯데하이마트가 오는 8월 31일까지 한국환경공단, E순환거버넌스와 함께 '소형가전, 보조 배터리도 우리가 수거하마' 캠페인을 진행한다고 23일 밝혔다. 이번 캠페인은 롯데하이마...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 코어 13·14세대 프로세서 불안정 문제 원인 찾았다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240723105333</link>
-            <guid>https://zdnet.co.kr/view/?no=20240723105333</guid>
-            <pubDate>Tue, 23 Jul 2024 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 데스크톱PC용 13/14세대 코어 프로세서에서 발생하던 게임 튕김이나 비정상 종료 문제에 대한 근본 원인을 찾았다고 밝혔다. 프로세서 내 작동을 제어하는 소프트웨어인 마...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
