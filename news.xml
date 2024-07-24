@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 16:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 17:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진숙 인사청문, 25일 오전 10시 속개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240725015949</link>
+            <guid>https://zdnet.co.kr/view/?no=20240725015949</guid>
+            <pubDate>Wed, 24 Jul 2024 17:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙 방송통신위원장 후보자에 대한 인사청문회가 25일 10시에 속개된다. 과학기술정보방송통신위원회는 24일 시작한 이진숙 후보자에 대한 청문을 진행하며 자정을 넘겨 차수 변경...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/25/1472cedf799cfa8f39e20f3a4ff52c74-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진숙 "사이버 레커 심각…유튜브 협조 방안 찾겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240724231631</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240724233135</guid>
             <pubDate>Wed, 24 Jul 2024 15:11:53 GMT</pubDate>
             <content:encoded><![CDATA[세포 속 미토콘드리아 DNA의 돌연변이 증가가 암 발생 및 노화와 밀접한 관련이 있다는 연구결과가 나왔다. KAIST는 의과학대학원 주영석 교수 연구팀이 산학 공동으로 수행한 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/24/27efd24255186a90dda435f0dff704f5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[PCN, 美 NASA와 공동 연구···차세대 우주탐사 로봇 사업 확장]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240724171438</guid>
             <pubDate>Wed, 24 Jul 2024 10:13:15 GMT</pubDate>
             <content:encoded><![CDATA[비투엔을 최근 인수한 디모아가 자회사 디씨온과 함께 몸집을 키운다. 디모아는 비투엔·디씨온과 함께 AI·클라우드·빅데이터 등 신성장동력 확보를 위한 협업 체계를 만들기로 24일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가민, 러닝 커뮤니티 GRC 4기 모집]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240724181502</link>
-            <guid>https://zdnet.co.kr/view/?no=20240724181502</guid>
-            <pubDate>Wed, 24 Jul 2024 10:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[스마트 기기 업체 가민은 가민 러닝 사이언스를 기반으로 만들어진 러닝 커뮤니티 가민 런 클럽(GRC) 4기를 진행한다고 24일 밝혔다. GRC는 가민에서 주최하는 러너 전용 커...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
