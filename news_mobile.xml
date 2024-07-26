@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 02:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 03:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 개인정보 보호기능 '비공개 릴레이' 장애]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240726083529</link>
+            <guid>https://zdnet.co.kr/view/?no=20240726083529</guid>
+            <pubDate>Fri, 26 Jul 2024 03:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 아이폰·아이패드·맥OS에 탑재한 개인정보 보호 기능 '아이클라우드 비공개 릴레이' 서비스가 오늘(26일) 새벽 3시경부터 장애를 겪고 있다. 아이클라우드 비공개 릴레이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바디프랜드, KSQI 고객접점 부문 6년 연속 1위]]></title>
             <link>https://zdnet.co.kr/view/?no=20240726112918</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240725111000</guid>
             <pubDate>Thu, 25 Jul 2024 06:16:23 GMT</pubDate>
             <content:encoded><![CDATA[애플이 오는 2026년부터 아이폰18 프로용 이미지 센서(CIS)에 삼성전자의 1/2.6인치 4천800만 화소초광각 CMOS 이미지 센서를 도입할 것이라는 전망이 나왔다. IT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['똑똑한 세탁건조기"...美 매체 삼성전자 '비스포크 AI 콤보' 호평]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240725114329</link>
-            <guid>https://zdnet.co.kr/view/?no=20240725114329</guid>
-            <pubDate>Thu, 25 Jul 2024 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 올해 출시한 올인원 세탁건조기 '비스포크 AI 콤보'에 대한 미국 유력 매체들의 호평이 이어지고 있다. 리뷰 전문매체인 리뷰드(Reviewed)는 비스포크 AI 콤보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
