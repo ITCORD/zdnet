@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 07:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 08:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 데이터로 훈련한 모델, 결국 쓸모 없어질 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240726154935</link>
+            <guid>https://zdnet.co.kr/view/?no=20240726154935</guid>
+            <pubDate>Sat, 27 Jul 2024 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)이 생성한 데이터로 모델 훈련하는 것이 효율적이지 않다는 연구 결과가 나왔다. AI 모델이 오류와 환각 현상을 반복하다가 결국 품질 낮은 모델로 전락한다는 설명이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 팀즈 오피스365 커넥터 폐기 내년 12월로 연기]]></title>
             <link>https://zdnet.co.kr/view/?no=20240726215619</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240726072755</guid>
             <pubDate>Fri, 26 Jul 2024 00:47:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 자체 검색 엔진을 전격 발표하면서 구글 텃밭인 검색 시장에 뛰어들었다. 뉴욕타임스 등 외신은 25일(현지시간) 오픈AI가 인터넷 실시간 접속 가능한 인공지능(AI)기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융보안원 "안전한 금융 AI 선도한다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240725174220</link>
-            <guid>https://zdnet.co.kr/view/?no=20240725174220</guid>
-            <pubDate>Thu, 25 Jul 2024 10:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[안전한 금융 인공지능(AI) 활용을 선도하기 위해 금융보안원이 '금융보안 AI 워킹그룹'을 출범한다. 금융보안원은 여의도 사무소에서 19개 금융기관과 함께 AI 보안 정보 공유...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
