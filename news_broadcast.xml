@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 09:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 10:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전화로 기상예보 확인...일본에서 사라진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240727184812</link>
+            <guid>https://zdnet.co.kr/view/?no=20240727184812</guid>
+            <pubDate>Sat, 27 Jul 2024 10:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[일본에서 기상예보 전화 서비스가 역사 속으로 사라진다. 씨넷재팬에 따르면 NTT동일본과 NTT서일본은 기상예보 서비스 177 전화를 내년 3월31일까지만 운영하기로 했다고 공지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국 5G 가입자 9억2700만명 도달]]></title>
             <link>https://zdnet.co.kr/view/?no=20240727173434</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240725174012</guid>
             <pubDate>Thu, 25 Jul 2024 10:12:21 GMT</pubDate>
             <content:encoded><![CDATA[유료방송 시장이 성장 한계에 달하면서 콘텐츠 대가를 둘러싼 사업자 갈등이 심화되고 는 가운데 새로운 미디어 환경을 반영한 합리적 대가 산정 관련 제도 개선이 필요하다는 학계의 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 중간배당 주당 250원...8월23일 지급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240725174821</link>
-            <guid>https://zdnet.co.kr/view/?no=20240725174821</guid>
-            <pubDate>Thu, 25 Jul 2024 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 2024년 중간배당금으로 주당 250원을 지급한다고 25일 밝혔다. 지난 2021년부터 LG유플러스는 주주환원을 강화하기 위해 매년 중간배당금을 지급해왔다. 총 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
