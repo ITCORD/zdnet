@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 02:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 03:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소아청소년 백일해 환자 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240726181329</link>
+            <guid>https://zdnet.co.kr/view/?no=20240726181329</guid>
+            <pubDate>Sat, 27 Jul 2024 03:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[소아·청소년을 중심으로 백일해가 유행하고 있다. 백일해의 최근 4주간 환자수 변화는 ▲6월 4주 1천604명 ▲7월 1주 2천84명 ▲2주 2천840명 ▲3주 3천170명 등으...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/04/25/4e093b635286852b61fb2ad32478a3f4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[유통 픽] GS25, '반값 커피' 행사 진행 外]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240726180115</link>
+            <guid>https://zdnet.co.kr/view/?no=20240726180115</guid>
+            <pubDate>Sat, 27 Jul 2024 03:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[GS25가 자사 커피 브랜드 카페25의 아이스 아메리카노에 대한 반값 행사를 진행한다. 이번 행사는 ▲미디엄 ▲라지 ▲엑스라지 3종에 모두 적용된다. 미디엄과 라지 사이즈는 특...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/26/9cd2243ad7845652f0ae7829d96a0da5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, 팀즈 오피스365 커넥터 폐기 내년 12월로 연기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240726215619</link>
+            <guid>https://zdnet.co.kr/view/?no=20240726215619</guid>
+            <pubDate>Sat, 27 Jul 2024 03:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 당초 8월15일로 페기하기로 했던 팀즈 오피스365 커넥터의 폐기 계획을 당초 8월15일에서 내년연말로 연기했다. 이달초 공지 후 벌어진 격렬한 사용자의 비난을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19, 글로벌 유행 소폭 증감…아직 '안정' 수준]]></title>
             <link>https://zdnet.co.kr/view/?no=20240726170322</link>
             <guid>https://zdnet.co.kr/view/?no=20240726170322</guid>
             <pubDate>Sat, 27 Jul 2024 01:58:22 GMT</pubDate>
             <content:encoded><![CDATA[해외 코로나19 유행이 일부 증가는 있지만 아직 양호한 상태로 유지되고 있는 것으로 나타났다. 세계보건기구(WHO)는 95개 국가 보고를 바탕으로 5월 27일부터 6월 23일 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/06/f041e34b7d4401387ec83f0eab30b523-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[큐텐 구영배, 큐익스프레스 대표 사임…상장 걸림돌 없애나]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240727083925</guid>
             <pubDate>Sat, 27 Jul 2024 00:47:27 GMT</pubDate>
             <content:encoded><![CDATA[티몬·위메프 미정산 사태의 핵심 책임자로 지목되고 있는 구영배 큐텐 대표가 큐익스프레스 최고경영자(CEO)직에서 사임했다. 큐익스프레스는 싱가포르 기반 큐텐의 물류 자회사로 나...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/04/06/daf5b9905d0c4255d586cf8b23903afa-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[갤럭시폰이 아이폰 다이내믹 아일랜드 따라한다고?]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240726132955</guid>
             <pubDate>Fri, 26 Jul 2024 12:19:02 GMT</pubDate>
             <content:encoded><![CDATA["인공지능(AI) 도입은 모든 산업 분야에서 중요하지만 이로 인해 기존 보안 체계로 막기 힘든 위협이 발생할 가능성이 큽니다. AI 도입을 촉진하는 동시에 보안강화를 위해 사이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로얄코펜하겐·웨지우드·마이센…쿠팡, 유럽 프리미엄 브랜드 입점 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240726190822</link>
-            <guid>https://zdnet.co.kr/view/?no=20240726190822</guid>
-            <pubDate>Fri, 26 Jul 2024 11:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡은 프리미엄 키친관에 덴마크 로얄코펜하겐·영국 웨지우드·독일의 마이센이 입점을 마쳤으며, 헝가리의 헤렌드가 연내 입점을 앞두고 있다고 26일 밝혔다. 이들은 공통적으로 20...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 2030 청년 대상 ESG 아카데미 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240726190647</link>
-            <guid>https://zdnet.co.kr/view/?no=20240726190647</guid>
-            <pubDate>Fri, 26 Jul 2024 10:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[카카오가 2030 청년들을 대상으로 기업의 ESG 경영에 관한 노력과 성과에 대해 소개했다. 카카오(대표 정신아)는 지난 25일 경실련 (사)경제정의연구소와 함께 'ESG 아카...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구급차까지 출동한 티몬 사태..."사옥 팔아라"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240726171018</link>
-            <guid>https://zdnet.co.kr/view/?no=20240726171018</guid>
-            <pubDate>Fri, 26 Jul 2024 10:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[티몬이 환불을 요구하는 현장 대기 피해자 중 1천명에 대해서만 환불 처리가 가능하다고 밝히자, 기다리던 이들이 거세게 항의했다. 기다리던 도중 미끄러져 구급차에 이송된 피해자도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

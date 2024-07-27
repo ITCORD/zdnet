@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 02:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 03:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 팀즈 오피스365 커넥터 폐기 내년 12월로 연기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240726215619</link>
+            <guid>https://zdnet.co.kr/view/?no=20240726215619</guid>
+            <pubDate>Sat, 27 Jul 2024 03:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 당초 8월15일로 페기하기로 했던 팀즈 오피스365 커넥터의 폐기 계획을 당초 8월15일에서 내년연말로 연기했다. 이달초 공지 후 벌어진 격렬한 사용자의 비난을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] KISA, AI 데이터셋 '공유'…사이버보안 '강화']]></title>
             <link>https://zdnet.co.kr/view/?no=20240726132955</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240725174220</guid>
             <pubDate>Thu, 25 Jul 2024 10:12:28 GMT</pubDate>
             <content:encoded><![CDATA[안전한 금융 인공지능(AI) 활용을 선도하기 위해 금융보안원이 '금융보안 AI 워킹그룹'을 출범한다. 금융보안원은 여의도 사무소에서 19개 금융기관과 함께 AI 보안 정보 공유...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무하유, 국회도서관서 일한다…뉴스 분석 서비스 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240725172853</link>
-            <guid>https://zdnet.co.kr/view/?no=20240725172853</guid>
-            <pubDate>Thu, 25 Jul 2024 10:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[무하유가 국회도서관에서 활약하는 인공지능(AI) 의정분석 서비스 '아르고스'에 뉴스 분석 서비스를 지원한다. 무하유는 2년 연속 '국회도서관 융복합서비스 데이터 구축 사업'의 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
