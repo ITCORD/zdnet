@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 22:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 23:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오리엔텀, 영국 에든버러대와 ITS용 양자 플랫폼 개발 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240728225837</link>
+            <guid>https://zdnet.co.kr/view/?no=20240728225837</guid>
+            <pubDate>Sun, 28 Jul 2024 23:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[양자 전문 스타트업 오리엔텀(대표 방승현)은 영국 에든버러대학교 (University of Edinburgh )와 협력해 지능형 교통관리시스템(ITS)을 위한 양자 소프트웨어 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올림픽 개최국 프랑스, 사이버위협 제거 작업 시작]]></title>
             <link>https://zdnet.co.kr/view/?no=20240728114608</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240726113851</guid>
             <pubDate>Fri, 26 Jul 2024 03:13:21 GMT</pubDate>
             <content:encoded><![CDATA[지능형 컴퓨팅 기업 알테어는 설계 및 시뮬레이션 플랫폼 '알테어 하이퍼웍스 2024'를 출시했다고 26일 밝혔다. 하이퍼웍스는 제품 설계, 시뮬레이션, 최적화를 위한 통합 소프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[델테크놀로지스, 레이크하우스에 성능 '워프 스피드' 기능 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240726113534</link>
-            <guid>https://zdnet.co.kr/view/?no=20240726113534</guid>
-            <pubDate>Fri, 26 Jul 2024 03:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[한국델테크놀로지스(대표 김경진)는 AI에 최적화된 개방형의 풀스택 데이터 플랫폼 '델 데이터 레이크하우스'에 쿼리 성능 가속화를 위한 '워프 스피드(Warp Speed)' 기능...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
