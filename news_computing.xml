@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 00:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 02:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리 올림픽 곳곳서 AI 활용...챗봇으로 선수들에게 안내]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240727083341</link>
+            <guid>https://zdnet.co.kr/view/?no=20240727083341</guid>
+            <pubDate>Sun, 28 Jul 2024 02:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계의 축제인 파리 올림픽이 개막한 가운데 인공지능(AI)의 발전은 올림픽에도 큰 영향을 미칠 것으로 보인다. 국제 올림픽 위원회(IOC)는 파리에서 100년 만에 열린 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI 데이터로 훈련한 모델, 결국 쓸모 없어질 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240726154935</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240726082934</guid>
             <pubDate>Fri, 26 Jul 2024 00:47:59 GMT</pubDate>
             <content:encoded><![CDATA[프로그래밍 언어 러스트의 신규 버전 러스트 1.80이 출시됐다. 이번 업데이트에서는 성능 최적화와 안전성 향상을 위한 '지연(Lazy)' 유형이 추가됐다. 26일 인포월드 등 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글 텃밭 차지할까"…오픈AI, 검색엔진 '서치GPT' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240726072755</link>
-            <guid>https://zdnet.co.kr/view/?no=20240726072755</guid>
-            <pubDate>Fri, 26 Jul 2024 00:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 자체 검색 엔진을 전격 발표하면서 구글 텃밭인 검색 시장에 뛰어들었다. 뉴욕타임스 등 외신은 25일(현지시간) 오픈AI가 인터넷 실시간 접속 가능한 인공지능(AI)기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
