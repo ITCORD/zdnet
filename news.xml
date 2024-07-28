@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 12:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 13:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티몬 홈페이지 한때 접속 장애…"트래픽 과다로 마비"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240728211313</link>
+            <guid>https://zdnet.co.kr/view/?no=20240728211313</guid>
+            <pubDate>Sun, 28 Jul 2024 13:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[티몬 홈페이지 접속에 문제가 생겼다. 과다 트래픽이 발생해 서비스 장애가 발생했다. 28일 오후 8시 30분께부터 티몬 PC버전 홈페이지 접속이 되지 않았다. 모바일 앱 접속은...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/28/4f56a5e8f1c63051184404496307111f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["잊히지 않으려 나왔다"…주말 잊은 티몬·위메프 피해자들]]></title>
             <link>https://zdnet.co.kr/view/?no=20240728180435</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240728180637</guid>
             <pubDate>Sun, 28 Jul 2024 10:10:31 GMT</pubDate>
             <content:encoded><![CDATA[티몬·위메프(티메프) 미정산 사태로 피해를 입은 소비자들이 28일 오후 서울 강남구 역삼동 큐텐코리아 사옥 앞에 모여 우산 시위를 진행했다. 이들은 환불이 제대로 진행되지 않고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/28/2c337b2e5ae0b873329afa040f533716-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["답답해서 나왔다"...티메프 피해자들, 큐텐 사옥 집결]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240726135709</guid>
             <pubDate>Sun, 28 Jul 2024 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[100% 친환경수소인 '그린수소'를 생산할 수 있는 차세대 연료전지 합성법이 개발됐다. 한국과학기술연구원(KIST)은 수소에너지소재연구단 지호일 책임연구원 연구팀과 금오공과대학...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["내가 스미싱 용의자?"…정부, 휴가철 개인정보 노출·불법유통 차단]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240727184452</link>
-            <guid>https://zdnet.co.kr/view/?no=20240727184452</guid>
-            <pubDate>Sun, 28 Jul 2024 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 불법스팸·스미싱에 악용될 수 있는 개인정보 유출·불법유통을 주의하라고 당부했다. 개인정보보호위원회는 한국인터넷진흥원과 본격 여름 휴가철을 맞은 오는 29일부터 내달 31...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
