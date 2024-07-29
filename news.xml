@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 22:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 23:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원자력환경공단-서울대, 방폐물 아카데미 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240730075949</link>
+            <guid>https://zdnet.co.kr/view/?no=20240730075949</guid>
+            <pubDate>Mon, 29 Jul 2024 23:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[한국원자력환경공단(이사장 조성돈)은 방사성폐기물 관리에 대한 폭넓은 국민소통과 이해도 제고를 위해 지난해에 이어 올해도 방사성폐기물 아카데미를 개최했다. 방사성폐기물 아카데미는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/30/c8e198b90f3860ad0b721d6d571be3a2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디원더 '빌딩케어', 한국투자파트너스서 프리A 투자 유치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240729212932</link>
+            <guid>https://zdnet.co.kr/view/?no=20240729212932</guid>
+            <pubDate>Mon, 29 Jul 2024 23:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[상업용 건물관리 소프트웨어 '빌딩케어' 운영사 디원더가 작년 9월 시드 투자 유치 이후 8개월 만에 한국투자파트너스로부터 프리A 라운드 투자를 받았다고 29일 밝혔다. 디원더는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/29/2b3f502f30719abf9cf3fccef95e5fdf-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中 화웨이, 삼성 보다 수십만 원 싼 플립폰 '노바 플립' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240730020055</link>
+            <guid>https://zdnet.co.kr/view/?no=20240730020055</guid>
+            <pubDate>Mon, 29 Jul 2024 23:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 삼성전자의 '갤럭시Z 플립6' 판매가 정식으로 시작된 지 일주일 만에 화웨이가 더 저렴한 제품을 내놨다. 29일 오전 중국 화웨이는 자사 중저가 브랜드 노바 시리즈의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['암흑전자' 첫 확인..."혁명적 고온초전도 구현 기대감"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240729233433</link>
             <guid>https://zdnet.co.kr/view/?no=20240729233433</guid>
             <pubDate>Mon, 29 Jul 2024 15:12:03 GMT</pubDate>
             <content:encoded><![CDATA[고체 물질 속에서 빛으로 관측할 수 없던 '암흑전자' 존재가 세계 처음 확인됐다. 그동안 설명 불가능했던 양자현상에 대한 단서를 제공할 수 있어 과학기술계는 40년간 풀리지 않...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/29/c9cf20784a26023d521a822a69a0ae80-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["수수료 규제, 플랫폼 성장·발전 저해할 수도"]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240729225608</guid>
             <pubDate>Mon, 29 Jul 2024 14:10:47 GMT</pubDate>
             <content:encoded><![CDATA[최근 플랫폼 수수료 규제가 필요하다는 주장이 나오고 있는 가운데, 이러한 규제가 플랫폼의 성장과 발전을 저해해 오히려 플랫폼 참가자의 사업환경을 악화시킬 수 있다는 의견이 제시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/29/a3a25c6e06075ccae9a2bf0c81e2e0c0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주청 존리 본부장 "우주 검증 이력 확보 필요"]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240729162950</guid>
             <pubDate>Mon, 29 Jul 2024 10:14:13 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 모든 시스템이 클라우드와 오픈소스를 중심으로 연결되는 초연결시대로 접어들고 있다. 하지만 그 이면에는 어느 한곳에서 발생한 장애도 모두 공유하는 위협도 도사리고 있다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원자력학회, 사용후핵연료 '한국형 처분 솔루션' 제안]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240729181321</link>
-            <guid>https://zdnet.co.kr/view/?no=20240729181321</guid>
-            <pubDate>Mon, 29 Jul 2024 10:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[한국원자력학회(회장 정범진)는 29일 한국형 고준위방사성폐기물(사용후핵연료) 처분 솔루션을 제안했다. 원자력학회가 제안한 한국형 처분 솔루션은 사용후핵연료를 구리와 주철로 만든...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강남세브란스병원 고객센터, KTis AICC 솔루션 전면 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240729180238</link>
-            <guid>https://zdnet.co.kr/view/?no=20240729180238</guid>
-            <pubDate>Mon, 29 Jul 2024 09:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[KTis는 강남세브란스병원과 고객센터 AI 디지털 전환을 위한 업무협약을 체결했다고 29일 밝혔다. KTis는 지난 2009년부터 강남세브란스병원의 진료 예약센터를 운영하며 고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국회, 이진숙 방통위원장 후보 청문보고서 채택 보류]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240729174631</link>
-            <guid>https://zdnet.co.kr/view/?no=20240729174631</guid>
-            <pubDate>Mon, 29 Jul 2024 09:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회가 이진숙 방통위원장 후보자의 청문보고서 채택을 보류했다. 3시간이 넘게 청문보고서 채택 여부를 두고 격한 찬반 논의가 오갔으나 윤석열 대통령의 청...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
