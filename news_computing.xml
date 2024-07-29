@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 09:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 10:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실적 부진 겪는 안랩, 국내 보안 시장에 영향 줄까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240729155559</link>
+            <guid>https://zdnet.co.kr/view/?no=20240729155559</guid>
+            <pubDate>Mon, 29 Jul 2024 10:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[안랩의 올 상반기 매출 부진과 영업익 하락세가 국내 보안 시장에 영향 줄 수 있다는 우려가 나왔다. 안랩이 '국내 1위 보안 기업' 타이틀을 보유한 만큼 이런 실적 부진이 동종...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[장애도 연결되는 초연결시대, 국내CSP 어떻게 대응하나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240729162950</link>
+            <guid>https://zdnet.co.kr/view/?no=20240729162950</guid>
+            <pubDate>Mon, 29 Jul 2024 10:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 모든 시스템이 클라우드와 오픈소스를 중심으로 연결되는 초연결시대로 접어들고 있다. 하지만 그 이면에는 어느 한곳에서 발생한 장애도 모두 공유하는 위협도 도사리고 있다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로그프레소, 新 보안관제 센터 구축…사이버 보안능력 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240729162143</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240729100905</guid>
             <pubDate>Mon, 29 Jul 2024 02:03:37 GMT</pubDate>
             <content:encoded><![CDATA[노드.js가 추가 변환(transpilation) 없이 타입스크립트 코드를 직접 작성하고 실행할 수 있는 실험적인 지원 기능을 도입한다. 29일 데브클래스 등 외신에 따르면 노...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 올 상반기 매출 제자리 걸음…수익성 '뚝']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240729095407</link>
-            <guid>https://zdnet.co.kr/view/?no=20240729095407</guid>
-            <pubDate>Mon, 29 Jul 2024 02:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[안랩이 올 상반기 동안 매출이 지난해에 비해 제자리 걸음을 걸은 데다 영업이익마저 뚝 떨어졌다. 시장 성장 둔화와 연구개발 비용 증가의 영향이 컸기 때문이다. 안랩은 올해 상반...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다우데이타, 뉴타닉스와 가상화 플랫폼 국내 총판 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240729101852</link>
-            <guid>https://zdnet.co.kr/view/?no=20240729101852</guid>
-            <pubDate>Mon, 29 Jul 2024 02:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[다우데이타가 VM웨어 대안으로 뉴타닉스를 선정했다. 뉴타닉스는 다우데이타와 총판 계약을 체결했다고 29일 밝혔다. 뉴타닉스는 클라우드 전반에서 애플리케이션과 데이터를 실행할 수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
