@@ -4,15 +4,31 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 00:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴, 보급형 스마트폰용 스냅드래곤 4s 2세대 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240731090242</link>
+            <guid>https://zdnet.co.kr/view/?no=20240731090242</guid>
+            <pubDate>Wed, 31 Jul 2024 00:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 31일 보급형 5G 스마트폰을 겨냥한 SoC(시스템반도체)인 스냅드래곤 4s 2세대 모바일 플랫폼을 공개했다. 스냅드래곤 4s 2세대는 대만 TSMC 4나노급 공정에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AMD 리사 수 "2분기 AI GPU 'MI300' 매출 1조원 돌파"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240731074846</link>
+            <guid>https://zdnet.co.kr/view/?no=20240731074846</guid>
+            <pubDate>Wed, 31 Jul 2024 00:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 올해 전체 AI GPU 매출을 지난 4월 예상치인 40억 달러(약 5조 5천400억원)에서 45억 달러(약 6조 2천325억원)로 상향 조정했다. 30일(미국 현지시간...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 데이터센터 AI 칩 판매 확대...2Q 순이익 전년比 8.8배 ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20240731073413</link>
             <guid>https://zdnet.co.kr/view/?no=20240731073413</guid>
             <pubDate>Tue, 30 Jul 2024 23:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 30일(미국 현지시간) 올해 2분기 실적을 발표했다. 데이터센터·클라이언트 부문 매출이 모두 확대되며 전체 매출 상승으로 이어졌고 순이익도 크게 개선됐다. AMD 2분...]]></content:encoded>
+            <content:encoded><![CDATA[AMD가 30일(현지시간) 올해 2분기 실적을 발표했다. 데이터센터·클라이언트 부문 매출이 모두 확대되며 전체 매출 상승으로 이어졌고 순이익도 크게 개선됐다. AMD 2분기 매...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240726140527</guid>
             <pubDate>Fri, 26 Jul 2024 05:12:14 GMT</pubDate>
             <content:encoded><![CDATA[인텔은 26일 파운드리 제조 및 공급망 부문 최고 글로벌운영책임자(COO)로 나가 찬드라세카란(Naga Chandrasekaran) 박사를 선임했다고 밝혔다. 나가 찬드라세카란...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남, 韓반도체 설계 인력 공급망으로 급부상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240724170502</link>
-            <guid>https://zdnet.co.kr/view/?no=20240724170502</guid>
-            <pubDate>Fri, 26 Jul 2024 05:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 시스템반도체 업계가 반도체 인력 확보에 어려움을 겪고 있습니다. 그동안 메모리 중심 성장으로 인해 시스템반도체 설계 전문 인력이 부족한데다, 핵심 인력의 대기업 쏠림 현상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 신형폰 '메이트70'에 5나노 아닌 7나노 칩 탑재 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240726084822</link>
-            <guid>https://zdnet.co.kr/view/?no=20240726084822</guid>
-            <pubDate>Fri, 26 Jul 2024 02:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[중국 기업 화웨이가 올해 4분기에 출시하는 차세대 스마트폰 '메이트70' 시리즈에 7나노 공정 기반의 기린 애플리케이션 프로세서(AP)를 탑재한다는 전망이 나왔다. 앞서 화웨이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
