@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 03:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 04:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[램리서치, 1000단 3D 낸드 지원...극저온 식각 기술 'Lam Cryo 3.0' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240801121056</link>
+            <guid>https://zdnet.co.kr/view/?no=20240801121056</guid>
+            <pubDate>Thu, 01 Aug 2024 04:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[램리서치가 3세대 극저온 유전체 식각 기술인 'Lam Cryo 3.0'을 출시하며 3D 낸드 플래시 메모리(이하 3D 낸드) 개발을 지원한다. Lam Cryo 3.0은 극저온의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롤러코스터 탄 엔비디아 주가, 7% 급락 후 13% 폭등…이유는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240801084403</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240731073413</guid>
             <pubDate>Tue, 30 Jul 2024 23:11:06 GMT</pubDate>
             <content:encoded><![CDATA[AMD가 30일(현지시간) 올해 2분기 실적을 발표했다. 데이터센터·클라이언트 부문 매출이 모두 확대되며 전체 매출 상승으로 이어졌고 순이익도 크게 개선됐다. AMD 2분기 매...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 에지 AI용 신규 평가 키트 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240730152616</link>
-            <guid>https://zdnet.co.kr/view/?no=20240730152616</guid>
-            <pubDate>Tue, 30 Jul 2024 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언테크놀로지스는 임베디드, 에지(Edge) AI 및 머신 러닝(ML) 시스템 디자인을 위한 포괄적인 평가 키트를 출시한다고 30일 밝혔다. 새로운 PSoC 6 AI 평가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
