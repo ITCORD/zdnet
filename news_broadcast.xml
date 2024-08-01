@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 09:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상처만 남은 '제4이통' 무산...법정 공방만 남아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240801175453</link>
+            <guid>https://zdnet.co.kr/view/?no=20240801175453</guid>
+            <pubDate>Thu, 01 Aug 2024 10:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 스테이지엑스의 5세대 이동통신 28기가헤르츠(5G 28㎓) 할당 대상 법인 후보 자격을 박탈하면서 제4이동통신사 출범이 8번째 무산됐다. 지난 1월 주파수 경매 참여 사...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이진숙 임명 이틀째에 탄핵 추진...방통위 올스톱]]></title>
             <link>https://zdnet.co.kr/view/?no=20240801160318</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240731091016</guid>
             <pubDate>Wed, 31 Jul 2024 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)와 개인정보보호위원회(이하 개인정보위)는 31일 자율주행 관련 기업들과 산업계의 애로사항·건의사항을 청취하기 위한 현장 방문 및 간담회를 개최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, '스테이지엑스' 주파수 할당대상법인 선정 취소 확정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240731110754</link>
-            <guid>https://zdnet.co.kr/view/?no=20240731110754</guid>
-            <pubDate>Wed, 31 Jul 2024 03:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 스테이지엑스에게 사전 통지한 주파수 할당대상법인 선정 취소 처분에 대해 행정절차법상 청문 절차가 완료돼 처분을 최종 확정했다고 31일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
