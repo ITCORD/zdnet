@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 21:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 22:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['티메프' 때문에 MSP도 불안…IPO 앞두고 '날벼락']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240802172614</link>
+            <guid>https://zdnet.co.kr/view/?no=20240802172614</guid>
+            <pubDate>Fri, 02 Aug 2024 22:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[티몬·위메프 정산 지연 사태가 일파만파 퍼지면서 클라우드 기업들도 조금씩 피해를 입고 있는 분위기다. 큰 금액은 아니지만 이른바 '티메프'의 자금 사정 악화로 IT 서비스 구독...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["한국은 기본법도 없는데"…EU, 세계 최초로 AI 법안 발효]]></title>
             <link>https://zdnet.co.kr/view/?no=20240802153900</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240801172035</guid>
             <pubDate>Thu, 01 Aug 2024 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[씨플랫폼과 사이버아크가 아이덴티티 보안 위협을 막기 위해 손을 잡았다. 씨플랫폼은 사이버아크와 총판 계약을 체결했다고 1일 밝혔다. 아이덴티티 보안 위협은 인공지능(AI) 등의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자다라, 엣지 클라우드 컴퓨팅 서비스 'z컴퓨트' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240801171427</link>
-            <guid>https://zdnet.co.kr/view/?no=20240801171427</guid>
-            <pubDate>Thu, 01 Aug 2024 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[자다라(Zadara)가 완전 관리형 엣지클라우드 서비스 z컴퓨트 서비스를 런칭한다고 1일 밝혔다. z컴퓨트는 완전관리형 클라우드 서비스로서, 컴퓨팅, 네트워킹, 스토리지를 통합...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
