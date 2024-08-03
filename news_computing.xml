@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 10:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 11:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅밸류가 금융거래소서 데이터 공급사 1위 차지한 비결은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240803155008</link>
+            <guid>https://zdnet.co.kr/view/?no=20240803155008</guid>
+            <pubDate>Sat, 03 Aug 2024 11:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[빅밸류 데이터 상품이 유통·금융·부동산 등 다양한 산업군에서 활용되고 있고 대학생 사이에서도 큰 호응을 얻고 있다는 조사 결과가 나왔다. 빅밸류는 금융보안원 산하 데이터 플랫폼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IBCT 개발 '인피리움', 중기부 우수연구개발 혁신제품 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20240803164258</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['티메프' 때문에 MSP도 불안…IPO 앞두고 '날벼락']]></title>
+            <title><![CDATA['티메프' 때문에 MSP도 불안…"큰 피해는 없을 듯"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240802172614</link>
             <guid>https://zdnet.co.kr/view/?no=20240802172614</guid>
             <pubDate>Fri, 02 Aug 2024 22:11:38 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240802101405</guid>
             <pubDate>Fri, 02 Aug 2024 02:01:26 GMT</pubDate>
             <content:encoded><![CDATA[전북대학교 통합정보시스템 '오아시스'가 해킹돼 약 32만 명의 개인 정보가 유출됐다. 2일 전북대에 따르면 오아시스 해킹 시도는 지난 7월 28일 오전 3시, 오후 10시, 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 저커버그 "차기 LLM 라마4 기존 대비 10배 이상 투자"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240802095400</link>
-            <guid>https://zdnet.co.kr/view/?no=20240802095400</guid>
-            <pubDate>Fri, 02 Aug 2024 02:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 차기 오픈소스 대규모 언어모델(LLM) 개발을 위해 10배 이상의 컴퓨팅 파워를 투자할 전망이다. 2일 테크크런치 등 외신에 따르면 마크 저커버그 최고경영자(CEO)는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

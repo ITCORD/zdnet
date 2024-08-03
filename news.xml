@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 10:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 11:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손에 잡힐 듯 생생한 AR/VR 양자점 디스플레이 "눈앞"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240803200007</link>
+            <guid>https://zdnet.co.kr/view/?no=20240803200007</guid>
+            <pubDate>Sat, 03 Aug 2024 11:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[자발광 풀컬러 양자점 디스플레이를 구현할 수 있는 핵심 기술이 개발됐다. 이 기술을 활용하면 생동감 넘치는 증강·가상현실(AR/VR)용 디스플레이를 만들 수 있다. 한국연구재단...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/03/5cdd86bef54d37a95f62db5b6b8bd4d2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅밸류가 금융거래소서 데이터 공급사 1위 차지한 비결은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240803155008</link>
+            <guid>https://zdnet.co.kr/view/?no=20240803155008</guid>
+            <pubDate>Sat, 03 Aug 2024 11:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[빅밸류 데이터 상품이 유통·금융·부동산 등 다양한 산업군에서 활용되고 있고 대학생 사이에서도 큰 호응을 얻고 있다는 조사 결과가 나왔다. 빅밸류는 금융보안원 산하 데이터 플랫폼...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/03/bd7e1f02b03c6711e0b591af31cfd5b0-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IBCT 개발 '인피리움', 중기부 우수연구개발 혁신제품 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20240803164258</link>
             <guid>https://zdnet.co.kr/view/?no=20240803164258</guid>
             <pubDate>Sat, 03 Aug 2024 08:13:38 GMT</pubDate>
             <content:encoded><![CDATA[분산신원인증(DID) 기반 데이터 플랫폼 서비스 전문 기술기업 아이비씨티(IBCT, 대표 이정륜)가 개발한 '인피리움(INFIRIUM)'이 '2024년도 중소벤처기업부 혁신제품...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/03/b4356d6b35193bef0ae970348466d896-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["한-베 SW협력 가속"···양국 '디지털 포럼' 서울서 열려]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240803162336</guid>
             <pubDate>Sat, 03 Aug 2024 08:13:38 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 회장 조준희)는 2일 서울 마포구 누리꿈스퀘어에서 베트남 소프트웨어‧IT서비스협회(VINASA)와 '한국-베트남 디지털 포럼(Vietnam-Ko...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/03/d17172df3f4c822e33e55e0afae7d887-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[법원, 티몬·위메프 자율구조조정 승인…회생 절차 보류]]></title>
@@ -128,7 +144,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['티메프' 때문에 MSP도 불안…IPO 앞두고 '날벼락']]></title>
+            <title><![CDATA['티메프' 때문에 MSP도 불안…"큰 피해는 없을 듯"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240802172614</link>
             <guid>https://zdnet.co.kr/view/?no=20240802172614</guid>
             <pubDate>Fri, 02 Aug 2024 22:11:24 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240803052804</guid>
             <pubDate>Fri, 02 Aug 2024 22:11:24 GMT</pubDate>
             <content:encoded><![CDATA[메타의 스레드(Threads)가 출시 13개월만에 활성 사용자 수 2억명을 돌파했다. 2일(현지시간) 테크크런치에 따르면 마크 저커버그 메타 최고경영자(CEO)가 2분기 실적 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["잡스가 입던 점퍼·애플-1"…희귀 수집품 무더기 경매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240802205214</link>
-            <guid>https://zdnet.co.kr/view/?no=20240802205214</guid>
-            <pubDate>Fri, 02 Aug 2024 22:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[스티브 잡스가 입던 점퍼, 애플-1 컴퓨터, 애플-1 컴퓨터 홍보에 사용된 폴라로이드 사진 등 애플의 희귀 수집품들이 경매 시장에 대거 나왔다고 IT매체 맥루머스가 최근 보도했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자 관심 많은 제약기업은 '종근당'…호감은 '동아제약'이 톱]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240802161655</link>
-            <guid>https://zdnet.co.kr/view/?no=20240802161655</guid>
-            <pubDate>Fri, 02 Aug 2024 21:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[소비자로부터 가장 많은 관심을 받은 제약사는 '종근당', 호감이 가장 높은 제약사는 '동아제약'으로 나타났다. 여론조사기관인 데이터앤리서치가 뉴스·커뮤니티·블로그·카페·유튜브·...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
