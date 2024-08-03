@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 22:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 23:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오너 주문에…편의점 강타한 'AI 열풍']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240801130450</link>
+            <guid>https://zdnet.co.kr/view/?no=20240801130450</guid>
+            <pubDate>Sat, 03 Aug 2024 23:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[국내 편의점들이 인공지능(AI) 기술을 도입하며 점포 운영 효율화에 속도를 내고 있다. GS25는 최근 생성형 AI 음원 제작 툴을 이용해 만든 음원 콘텐츠가 포함된 원두커피 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/01/cb7e103e0e9baf028a95bb82d585a90d-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손에 잡힐 듯 생생한 AR/VR 양자점 디스플레이 "눈앞"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240803200007</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240803155008</guid>
             <pubDate>Sat, 03 Aug 2024 11:09:22 GMT</pubDate>
             <content:encoded><![CDATA[빅밸류 데이터 상품이 유통·금융·부동산 등 다양한 산업군에서 활용되고 있고 대학생 사이에서도 큰 호응을 얻고 있다는 조사 결과가 나왔다. 빅밸류는 금융보안원 산하 데이터 플랫폼...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/03/bd7e1f02b03c6711e0b591af31cfd5b0-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IBCT 개발 '인피리움', 중기부 우수연구개발 혁신제품 선정]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240803065502</guid>
             <pubDate>Fri, 02 Aug 2024 22:11:24 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 인공지능(AI) 칩 시장에서 시장독점적 지위 남용 혐의로 미국 법무부의 조사를 받게 됐다. 미국 법무부가 엔비디아의 독점금지법 위반 혐의에 대해 조사하고 있다고 디인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["X 섯거라"...스레드, 출시 13개월만에 사용자 2억명 돌파]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240803052804</link>
-            <guid>https://zdnet.co.kr/view/?no=20240803052804</guid>
-            <pubDate>Fri, 02 Aug 2024 22:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[메타의 스레드(Threads)가 출시 13개월만에 활성 사용자 수 2억명을 돌파했다. 2일(현지시간) 테크크런치에 따르면 마크 저커버그 메타 최고경영자(CEO)가 2분기 실적 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
