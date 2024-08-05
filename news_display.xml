@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 15:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 16:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 파운드리 고객사인 美 AI 반도체 '그로크'에 투자]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806004120</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806004120</guid>
+            <pubDate>Mon, 05 Aug 2024 16:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 미국 AI(인공지능) 반도체 스타트업 그로크(Groq)에 투자했다. 이는 지난달 미국의 AI 반도체 업체 '드림빅'과 네덜란드 AI 가속기 스타트업 '악셀레라 AI'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['의대 쏠림' 반도체 설계 인재·교수가 없다...통합 컨트롤 타워 필요]]></title>
             <link>https://zdnet.co.kr/view/?no=20240802165218</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240801131423</guid>
             <pubDate>Thu, 01 Aug 2024 05:11:58 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 중국에 AI 메모리 '고대역폭메모리(HBM)'와 이를 생산할 수 있는 장비의 반입 제한을 검토 중이다. 블룸버그는 31일(현지시간) "미국이 이르면 다음달에 발표하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[램리서치, 1000단 3D 낸드 지원...극저온 식각 기술 'Lam Cryo 3.0' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240801121056</link>
-            <guid>https://zdnet.co.kr/view/?no=20240801121056</guid>
-            <pubDate>Thu, 01 Aug 2024 04:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[램리서치가 3세대 극저온 유전체 식각 기술인 'Lam Cryo 3.0'을 출시하며 3D 낸드 플래시 메모리(이하 3D 낸드) 개발을 지원한다. Lam Cryo 3.0은 극저온의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
