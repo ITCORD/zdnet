@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 04:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파두, 글로벌 서버 제조사에 26억원 규모 SSD 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240805133542</link>
+            <guid>https://zdnet.co.kr/view/?no=20240805133542</guid>
+            <pubDate>Mon, 05 Aug 2024 05:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[데이터센터 반도체 전문기업 기업 파두(FADU)가 글로벌 서버 제조사에 26억원 규모 솔리드 스테이트 드라이브(SSD)를 공급한다고 5일 공시했다. 공급 방식은 해당 글로벌 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이규제 SK하이닉스 부사장 "차세대 패키징으로 HBM 1등 이어간다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240805091708</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240801082502</guid>
             <pubDate>Thu, 01 Aug 2024 00:54:58 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 고용량 1TB(테라바이트) 마이크로SD 카드 2종 '프로 플러스(PRO Plus)'와 '에보 플러스(EVO Plus)'를 출시했다. 이 제품은 업계 최고 용량인 1T...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴 "Arm 대신 자체 개발 오라이온 CPU, 차기 스냅드래곤8에 적용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240801082236</link>
-            <guid>https://zdnet.co.kr/view/?no=20240801082236</guid>
-            <pubDate>Thu, 01 Aug 2024 00:54:58 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 31일(미국 현지시간) "스마트폰용 차세대 SoC(시스템반도체)인 스냅드래곤8 차기 제품의 CPU를 기존 Arm IP(지적재산권) 기반 제품에서 자체 개발한 오라이온(O...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
