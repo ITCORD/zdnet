@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 03:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 04:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디노도, 아마존 베드록 LLM 통합]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240806121836</link>
+            <guid>https://zdnet.co.kr/view/?no=20240806121836</guid>
+            <pubDate>Tue, 06 Aug 2024 04:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[디노도테크놀로지(이하 디노도)는 데이터 통합, 관리 솔루션인 디노도 플랫폼에 아마존웹서비스(AWS)의 '아마존 베드록' 대규모 언어 모델(LLM)과 원활한 통합을 제공한다고 6...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[종합] NHN클라우드 "돈 벌 일만 남았다"…올 연말 공공·민간 사업 순항]]></title>
             <link>https://zdnet.co.kr/view/?no=20240806105035</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240805091446</guid>
             <pubDate>Mon, 05 Aug 2024 04:14:10 GMT</pubDate>
             <content:encoded><![CDATA[인지심리학자 게리 마커스 뉴욕대 교수가 샘 알트먼 오픈AI 최고경영자(CEO)를 신뢰할 수 없다고 밝혔다. 알트먼 CEO 발언과 행동이 일치하지 않은 사례가 많았다는 이유에서다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온, 2분기 영업익 204억원…전년比 19.1%↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240805111053</link>
-            <guid>https://zdnet.co.kr/view/?no=20240805111053</guid>
-            <pubDate>Mon, 05 Aug 2024 04:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[더존비즈온이 매출과 영업이익을 대폭 올리며 함박웃음을 지었다. 클라우드 전환에 따른 매출 상승과 외주 용역비를 낮춘 비용 개선 효과가 실적에 반영된 결과다. 더존비즈온은 2분기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
