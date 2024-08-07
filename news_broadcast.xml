@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 02:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 03:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+, 2분기 영업이익 2천540억원…전년비 11.8%↓]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240807113436</link>
+            <guid>https://zdnet.co.kr/view/?no=20240807113436</guid>
+            <pubDate>Wed, 07 Aug 2024 03:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 2분기 연결기준 매출 3조4천937억원, 영업이익 2천540억원을 기록했다고 7일 밝혔다. 매출은 전년 동기 대비 1.9% 증가했으나, 영업이익은 11.8% 감소...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT스카이라이프, 자산 상각으로 적자전환...TPS 가입자는 순증]]></title>
             <link>https://zdnet.co.kr/view/?no=20240807095352</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240806091034</guid>
             <pubDate>Tue, 06 Aug 2024 02:01:23 GMT</pubDate>
             <content:encoded><![CDATA[KT는 스팸 차단 서비스를 조회하고 관리할 수 있는 'KT 안심정보'를 '마이케이티' 앱에서 제공한다고 6일 밝혔다. 마이케이티 앱은 월 700만명 이상의 고객이 사용하는 KT...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, '유플러스닷컴·당신의 U+'에 정보보호 국제 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806084406</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806084406</guid>
-            <pubDate>Tue, 06 Aug 2024 00:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 고객에게 안전한 서비스를 제공하기 위해 홈페이지 '유플러스닷컴'과 모바일 앱 '당신의 U+' 대상 정보보호 국제 인증을 획득했다고 6일 밝혔다. 이번 인증은 글로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
