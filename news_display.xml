@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 05:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자 "HBM3E 8단, 엔비디아 퀄테스트 진행 중"...4분기 공급 예상]]></title>
+            <title><![CDATA[인텔 "1.8나노급 공정 순항중...시제품 2종 운영체제 부팅 성공"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240807101711</link>
+            <guid>https://zdnet.co.kr/view/?no=20240807101711</guid>
+            <pubDate>Wed, 07 Aug 2024 05:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[인텔 파운드리가 6일(미국 현지시간) 케빈 오버클리 파운드리 서비스 수석부사장과 일문일답 형식으로 내년부터 본격 투입될 차세대 공정 '인텔 18A' 진척사항을 공개했다. 인텔 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HBM3E 8단, 엔비디아 통과?...삼성電 "아직 테스트 중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240807115301</link>
             <guid>https://zdnet.co.kr/view/?no=20240807115301</guid>
             <pubDate>Wed, 07 Aug 2024 03:13:42 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240805133542</guid>
             <pubDate>Mon, 05 Aug 2024 05:13:16 GMT</pubDate>
             <content:encoded><![CDATA[데이터센터 반도체 전문기업 기업 파두(FADU)가 글로벌 서버 제조사에 26억원 규모 솔리드 스테이트 드라이브(SSD)를 공급한다고 5일 공시했다. 공급 방식은 해당 글로벌 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이규제 SK하이닉스 부사장 "차세대 패키징으로 HBM 1등 이어간다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240805091708</link>
-            <guid>https://zdnet.co.kr/view/?no=20240805091708</guid>
-            <pubDate>Mon, 05 Aug 2024 02:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 차세대 패키징 기술로 HBM 1등을 이어간다는 목표를 밝혔다. 이규제 PKG제품개발 담당 부사장은 SK하이닉스의 뉴스룸 인터뷰를 통해 "자사의 HBM(고대역폭메모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
