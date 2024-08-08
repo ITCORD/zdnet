@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 06:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 07:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["해커가 사이버 공격법 수시로 바꿔…클라우드 해킹 지속"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240808150629</link>
+            <guid>https://zdnet.co.kr/view/?no=20240808150629</guid>
+            <pubDate>Thu, 08 Aug 2024 07:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 공격자가 서버리스 컴퓨팅 환경에서 방어자 대응을 눈치채고 공격 전술을 수시로 바꿔 클라우드 해킹 범죄를 지속한다는 보고서 결과가 나왔다. 구글 맨디언트는 서버리스 인프라...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["해외 시장문 활짝"…삼성SDS, 생성형 AI 제품으로 국제 인증]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240808104127</link>
+            <guid>https://zdnet.co.kr/view/?no=20240808104127</guid>
+            <pubDate>Thu, 08 Aug 2024 07:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[삼성SDS의 생성형 인공지능(AI) 제품인 패브릭스와 브리티 코파일럿, 브리티 오토메이션 등이 해외 인증을 받았다. 삼성SDS는 AI 경영시스템 국제표준인 'ISO/IEC 42...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[히타치 밴타라 '생성형 AI 위한 기업 인프라 연구보고서' 발간]]></title>
             <link>https://zdnet.co.kr/view/?no=20240808151158</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240807130402</guid>
             <pubDate>Wed, 07 Aug 2024 07:11:11 GMT</pubDate>
             <content:encoded><![CDATA[SK C&amp;C가 미국 빅테크로부터 생성형 인공지능(AI)을 활용한 클라우드 기술력을 인정받았다. SK C&amp;C는 '아마존웹서비스 클라우드서비스기업(AWS MSP) 6.0 파트너'와...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 산학연 "국내 AI 발전 위해 투자 더 늘려야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240807104421</link>
-            <guid>https://zdnet.co.kr/view/?no=20240807104421</guid>
-            <pubDate>Wed, 07 Aug 2024 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국이 인공지능(AI) 강국으로 도약하기 위해 기술 투자와 지원이 더 활성화 돼야 한다는 주장이 나왔다. 7일 국회에서 개최된 '한국 미래 신기술 발전을 위한 AI·모빌리티...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] "한국 AI 3대 강국 되려면 낡은 산업 정책 고쳐야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240807110336</link>
-            <guid>https://zdnet.co.kr/view/?no=20240807110336</guid>
-            <pubDate>Wed, 07 Aug 2024 07:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[한국이 인공지능(AI) G3 강국으로 도약하려면 산업별로 AI를 고려한 정책 수정이 필요하다는 의견이 나왔다. 현재 다수 정책이 IT 신기술 고려 없이 나왔기 때문에, AI가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
