@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 00:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["엔비디아, 내년 HBM3E 물량 중 85% 이상 차지할 듯"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240809073021</link>
+            <guid>https://zdnet.co.kr/view/?no=20240809073021</guid>
+            <pubDate>Fri, 09 Aug 2024 00:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[8일 시장조사업체 트렌드포스에 따르면 엔비디아의 내년 HBM3E 소비량은 전체 물량의 85%를 넘어설 전망이다. 엔비디아가 시장을 주도하고 있는 AI 서버용 칩은 고성능 GPU...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주성엔지니어링 '반도체 신설회사'에 이우경 前 ASML 대표 합류]]></title>
             <link>https://zdnet.co.kr/view/?no=20240808234805</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240806184607</guid>
             <pubDate>Tue, 06 Aug 2024 10:12:49 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 SK하이닉스의 미국 인디애나주 반도체 패키징 공장에 4억5천만 달러(약 6천200억 원)의 직접 보조금과 5억 달러의 대출을 지원하기로 했다. 반도체 보조금 확정으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 CXMT, 1~2년 앞당겨 HBM2 대량 생산...자립화에 속도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240806141555</link>
-            <guid>https://zdnet.co.kr/view/?no=20240806141555</guid>
-            <pubDate>Tue, 06 Aug 2024 06:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[중국 대표 메모리 업체 창신메모리테크놀로지(CXMT)가 2세대 고대역폭메모리(HBM) 'HBM2' 대량 양산을 시작했다. CXMT HBM2의 수율은 아직 불확실하지만, 예상 일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
