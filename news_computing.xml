@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 00:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 02:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틸론, 도(道)와 손잡고 제주에 넷제로 데이터센터 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240810103630</link>
+            <guid>https://zdnet.co.kr/view/?no=20240810103630</guid>
+            <pubDate>Sat, 10 Aug 2024 02:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 가상화 및 메타버스 오피스 전문기업 틸론(대표 최백준)이 제주도와 손잡고 넷 제로(Net-Zero) 데이터 센터 구축에 나선다. 이와관련, 틸론은 9일 제주도청에서 제...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["기업 AI 도입 너무 어렵다"…글로벌 IT 리더 600명이 꼽은 '걸림돌' 1위는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240809151132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240808150629</guid>
             <pubDate>Thu, 08 Aug 2024 07:11:02 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격자가 서버리스 컴퓨팅 환경에서 방어자 대응을 눈치채고 공격 전술을 수시로 바꿔 클라우드 해킹 범죄를 지속한다는 보고서 결과가 나왔다. 구글 맨디언트는 서버리스 인프라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["해외 시장문 활짝"…삼성SDS, 생성형 AI 제품으로 국제 인증]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808104127</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808104127</guid>
-            <pubDate>Thu, 08 Aug 2024 07:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[삼성SDS의 생성형 인공지능(AI) 제품인 패브릭스와 브리티 코파일럿, 브리티 오토메이션 등이 해외 인증을 받았다. 삼성SDS는 AI 경영시스템 국제표준인 'ISO/IEC 42...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
