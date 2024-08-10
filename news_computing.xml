@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 08:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI가 국방력···군, 사업발주와 관리만 하면 안돼"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240810175813</link>
+            <guid>https://zdnet.co.kr/view/?no=20240810175813</guid>
+            <pubDate>Sat, 10 Aug 2024 09:12:12 GMT</pubDate>
+            <content:encoded><![CDATA["군(軍)이 공공이나 민간 전산시스템보다 더 심각합니다. 데이터도 없고 시스템 개발 표준도 없습니다. 사일로 형태로 우후죽순으로 개발, 업체들 의존이 너무 높습니다. 이제는 A...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틸론, 제주도에 넷제로 데이터센터 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20240810103630</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240808163220</guid>
             <pubDate>Thu, 08 Aug 2024 08:14:28 GMT</pubDate>
             <content:encoded><![CDATA[에스넷시스템이 인공지능(AI) 기능과 서비스를 하나로 통합하는 올인원 서비스 제공을 위해 파트너십을 구축한다. 에스넷시스템은 델 테크놀로지스, 코난테크놀로지와 'AI 올인원 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["해커가 사이버 공격법 수시로 바꿔…클라우드 해킹 지속"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808150629</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808150629</guid>
-            <pubDate>Thu, 08 Aug 2024 07:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공격자가 서버리스 컴퓨팅 환경에서 방어자 대응을 눈치채고 공격 전술을 수시로 바꿔 클라우드 해킹 범죄를 지속한다는 보고서 결과가 나왔다. 구글 맨디언트는 서버리스 인프라...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
