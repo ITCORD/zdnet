@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 14:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 15:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 7월 매출 전년比 45% 증가…AI 칩 수요 덕분]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240811000723</link>
+            <guid>https://zdnet.co.kr/view/?no=20240811000723</guid>
+            <pubDate>Sat, 10 Aug 2024 15:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 업체 TSMC의 7월 매출액이 인공지능(AI) 칩 수요에 힘입어 전년 보다 45% 증가했다. 9일 블룸버그 통신은 TSMC 7월 매출이 2천569억 대만달러(약 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔, 연례 기술행사 '이노베이션' 내년으로 연기]]></title>
             <link>https://zdnet.co.kr/view/?no=20240809180137</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240807083821</guid>
             <pubDate>Wed, 07 Aug 2024 02:03:56 GMT</pubDate>
             <content:encoded><![CDATA[미국 하버드 대학이 삼성전자를 상대로 반도체 칩 제조 기술 특허 침해 소송을 제기했다고 블룸버그를 비롯한 외신들이 6일(현지시간) 보도했다. 보도에 따르면 하버드 대학은 전날 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제우스, 美 펄스포지와 '포토닉 디본딩' 장비 개발 착수…차세대 HBM 겨냥]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240807093027</link>
-            <guid>https://zdnet.co.kr/view/?no=20240807093027</guid>
-            <pubDate>Wed, 07 Aug 2024 02:03:56 GMT</pubDate>
-            <content:encoded><![CDATA[반도체·디스플레이 제조장비 및 로봇 전문기업 제우스는 미국 펄스포지(PulseForge)사와 협력해 포토닉 디본딩(Photonic debonding) 자동화 장비 개발을 위한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
