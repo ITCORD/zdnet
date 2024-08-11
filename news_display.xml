@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 23:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 00:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카이스트-삼성, AI 시대 'PIM 반도체' 상용화 9부능선 넘었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240809103408</link>
+            <guid>https://zdnet.co.kr/view/?no=20240809103408</guid>
+            <pubDate>Sun, 11 Aug 2024 00:55:15 GMT</pubDate>
+            <content:encoded><![CDATA["올해 세계적인 학술대회에 차세대 PIM 반도체 개발 관련 논문을 게재했습니다. 삼성전자와 협력했죠. 해당 칩은 일반 D램과 동일한 셀 구조를 가진 것이 특징으로, PIM 반도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 7월 매출 전년比 45% 증가…AI 칩 수요 덕분]]></title>
             <link>https://zdnet.co.kr/view/?no=20240811000723</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240807115301</guid>
             <pubDate>Wed, 07 Aug 2024 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자 5세대 고대역폭메모리(HBM)인 HBM3E 8단 제품이 엔비디아 퀄테스트(품질 검증)를 통과했다는 로이터통신 보도가 나왔다. 하지만 해당 제품은 아직 퀄테스트가 진행 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 하버드, 삼성전자 제소…"반도체 특허권 2개 침해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240807083821</link>
-            <guid>https://zdnet.co.kr/view/?no=20240807083821</guid>
-            <pubDate>Wed, 07 Aug 2024 02:03:56 GMT</pubDate>
-            <content:encoded><![CDATA[미국 하버드 대학이 삼성전자를 상대로 반도체 칩 제조 기술 특허 침해 소송을 제기했다고 블룸버그를 비롯한 외신들이 6일(현지시간) 보도했다. 보도에 따르면 하버드 대학은 전날 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
