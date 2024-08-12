@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 08:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 09:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스앤에스텍, '新물질' 하드마스크 개발…High-NA EUV 시대 준비]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240812172957</link>
+            <guid>https://zdnet.co.kr/view/?no=20240812172957</guid>
+            <pubDate>Mon, 12 Aug 2024 09:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[국내 반도체 부품업체 에스앤에스텍이 High-NA EUV 시대에 대응하기 위해 차세대 하드마스크 개발을 완료했다. 해당 제품은 향후 고객사와의 검증을 통해 실제 적용 여부가 결...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD 프로세서 중대 취약점 '싱크클로즈' 발견]]></title>
             <link>https://zdnet.co.kr/view/?no=20240812161202</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240808100812</guid>
             <pubDate>Thu, 08 Aug 2024 02:03:16 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 광반도체 전문 기업 서울반도체가 글로벌 백라이트(BackLight) 시장에서 사상 처음으로 1위를 달성하는 쾌거를 이뤘다. 시장조사기관 옴디아에 따르면 서울반도체는 20...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유니테스트, CXL 2.0 검사장비 개발 완료]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808082656</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808082656</guid>
-            <pubDate>Thu, 08 Aug 2024 00:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[유니테스트는 차세대 메모리 솔루션인 CXL 2.0 검사장비 개발을 완료하고 고객 인증을 위한 장비 출하를 완료했다고 8일 밝혔다. CXL은 고성능 서버에서 CPU(중앙처리장치)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
