@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 07:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 08:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD 프로세서 중대 취약점 '싱크클로즈' 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240812161202</link>
+            <guid>https://zdnet.co.kr/view/?no=20240812161202</guid>
+            <pubDate>Mon, 12 Aug 2024 08:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 2006년부터 현재까지 출시한 거의 모든 x86 프로세서에 숨어 있던 보안 취약점이 뒤늦게 드러났다. 미국 보안업체 IO액티브(IOActive)가 지난 9일(현지시간)...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄리타스반도체, 국내 팹리스와 19억원 규모 공급계약 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20240812142804</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240808082656</guid>
             <pubDate>Thu, 08 Aug 2024 00:50:44 GMT</pubDate>
             <content:encoded><![CDATA[유니테스트는 차세대 메모리 솔루션인 CXL 2.0 검사장비 개발을 완료하고 고객 인증을 위한 장비 출하를 완료했다고 8일 밝혔다. CXL은 고성능 서버에서 CPU(중앙처리장치)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 가상 시뮬레이션 '디지털 트윈' 기술 확대 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808084659</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808084659</guid>
-            <pubDate>Thu, 08 Aug 2024 00:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[LG이노텍은 글로벌 1위 엔지니어링 시뮬레이션 기업인 앤시스(Ansys)와 손잡고 '디지털 트윈(Digital Twin)' 기술을 전 공정으로 확대 적용해 나가겠다고 8일 밝혔...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
