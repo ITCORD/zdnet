@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 03:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 04:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST, 미국 국방부가 주목한 'C-러스트' 기술 선도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240813125517</link>
+            <guid>https://zdnet.co.kr/view/?no=20240813125517</guid>
+            <pubDate>Tue, 13 Aug 2024 04:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[컴퓨터 시스템을 작동시키기 위해서는 프로그래밍 소프트웨어 언어가 필요하다. 실행속도도 빠르고 유지보수도 쉬운 언어가 바로 C언어다. 그러나 C언오는 메모리 할당 및 관리 등에 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/13/617bd0d072ff1059f1ac3fd0dbf45d2a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스텍, 신개념 무릎골관절염 치료제 상용화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240813110643</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240813051435</guid>
             <pubDate>Tue, 13 Aug 2024 00:53:22 GMT</pubDate>
             <content:encoded><![CDATA[한국인 암사망률 가운데 폐암이 1위인 이유는 발견이 늦어서다. 폐에 이상을 느낄 때는 이미 폐암 3~4기일 가능성이 높다. 폐의 조기진단이 그만큼 중요한 이유다. 한국전자통신연...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/13/348b860c5d266edbfe8b8998ccfe68ef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[과학기술계 기관장 선발 속도…공모 마감하자마자 '뒷말']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240808122956</guid>
             <pubDate>Thu, 08 Aug 2024 04:17:13 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관 후보자는 이공계 지원 방안에 대해 가장 적절한 지원이 이뤄지도록 노력하겠다고 밝혔다. 유 후보자는 8일 국회서 열린 인사청문회에서 국민의힘 박충권...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보잉 우주선 타고 ISS 갔던 우주인들, 스페이스X 타고 지구 올 수도 [우주로 간다]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240808084359</link>
-            <guid>https://zdnet.co.kr/view/?no=20240808084359</guid>
-            <pubDate>Thu, 08 Aug 2024 02:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[지난 6월 보잉 스타라이너 우주선을 타고 국제우주정거장(ISS)에 갔다 우주선 문제로 지구로 오지 못하고 있는 우주인들이 스페이스X 우주선을 타고 지구로 귀환하는 안이 검토되고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
