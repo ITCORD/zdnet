@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 02:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 03:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤수영 LGD CTO "마이크로 LED 기술적 허들 있어…OLED 주도세 지속"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240813115501</link>
+            <guid>https://zdnet.co.kr/view/?no=20240813115501</guid>
+            <pubDate>Tue, 13 Aug 2024 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA["마이크로 LED 역시 많은 발전을 이뤘지만, 적색 발광의 효율성이나 화면 전송 기술 등 여전히 허들이 있습니다. 때문에 향후 몇년 간은 OLED가 지속적으로 최고의 대안으로서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이창희 삼성D 부사장 "OLED 채용률 37%로 증가…AI로 모멘텀 맞아"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240813103407</link>
+            <guid>https://zdnet.co.kr/view/?no=20240813103407</guid>
+            <pubDate>Tue, 13 Aug 2024 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA["전체 디스플레이 내 OLED 패널의 채용 비중은 이전 8%에서 37% 수준까지 성장했습니다. 향후에도 OLED는 뛰어난 화질로 AI 시대의 주요한 디스플레이 기술이 될 것입니...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이동욱 부회장 "OLED 대전환과 마이크로 LED 시장의 초석 마련하자"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240813092906</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240809141925</guid>
             <pubDate>Fri, 09 Aug 2024 06:16:23 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 자체 개발한 아크(Arc) GPU 수요처를 PC와 서버에 이어 자동차까지 확대한다. 8일 중국 선전에서 진행된 'AI 칵핏 이노베이션 익스피리언스' 행사에서 첫 제품인 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세메스-한국생산기술연구원, 반도체 장비에 AI 적용 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240809113949</link>
-            <guid>https://zdnet.co.kr/view/?no=20240809113949</guid>
-            <pubDate>Fri, 09 Aug 2024 06:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 장비업체 세메스(대표 정태경)와 한국생산기술연구원(원장 이상목)이 반도체 제조기술에 AI 응용 기술을 적용해 생산성을 높인다. 세메스와 한국생산기술연구원은 지난 7일 천...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["엔비디아, 내년 HBM3E 물량 중 85% 이상 차지할 듯"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240809073021</link>
-            <guid>https://zdnet.co.kr/view/?no=20240809073021</guid>
-            <pubDate>Fri, 09 Aug 2024 00:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[8일 시장조사업체 트렌드포스에 따르면 엔비디아의 내년 HBM3E 소비량은 전체 물량의 85%를 넘어설 전망이다. 엔비디아가 시장을 주도하고 있는 AI 서버용 칩은 고성능 GPU...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
