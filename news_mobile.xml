@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 07:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 08:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 13·14세대 프로세서 과전압 해결 패치 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240813161914</link>
+            <guid>https://zdnet.co.kr/view/?no=20240813161914</guid>
+            <pubDate>Tue, 13 Aug 2024 08:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 13·14세대 코어 프로세서 과전압 문제 해결을 위한 마이크로코드 패치(식별번호 0x129)를 주요 메인보드 제조사와 PC 제조사 공급에 나섰다. 인텔은 지난 5월 메인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[교원웰스, G라이브서 정수기 4종 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20240813125650</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240812090110</guid>
             <pubDate>Mon, 12 Aug 2024 00:52:30 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 국립현대미술관(MMCA)과 손잡고 현대미술의 예술적 가치를 알린다. LG전자는 최근 국립현대미술관과 'MMCA X LG OLED 시리즈' 전시에 대한 후원 협약을 체...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '중고 보상 프로그램'으로 갤Z6 10만명 구매]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240812085322</link>
-            <guid>https://zdnet.co.kr/view/?no=20240812085322</guid>
-            <pubDate>Mon, 12 Aug 2024 00:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 'Galaxy 바꿔보상' 프로그램을 통해 '갤럭시Z폴드6∙Z 플립6'을 구매한 고객이 10만명을 돌파했다고 12일 밝혔다. 삼성전자는 사전 판매가 시작된 7월 12일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
