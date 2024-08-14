@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 06:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 07:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임용 서울대 교수 "글로벌 AI 거버넌스, 한국이 이끌어야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240813164643</link>
+            <guid>https://zdnet.co.kr/view/?no=20240813164643</guid>
+            <pubDate>Wed, 14 Aug 2024 07:10:54 GMT</pubDate>
+            <content:encoded><![CDATA["우리 AI 기술은 세계에서 얼마 안되는 거대언어모델(LLM)을 자체 생산하는데서 볼 수 있듯 경험과 기반이 갖춰진 상태입니다. 거버넌스 분야에서의 글로벌 논의 역시 대한민국이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[복잡한 클라우드 환경, 델-뉴타니스 덕에 운영 쉬워진다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240814105241</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240813174623</guid>
             <pubDate>Tue, 13 Aug 2024 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IPAK-이화여대, '드론 기술' 전수로 청년 취업 돕는다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240813165338</link>
-            <guid>https://zdnet.co.kr/view/?no=20240813165338</guid>
-            <pubDate>Tue, 13 Aug 2024 08:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[한국IT전문가협회(IPAK)가 이화여자대학교와 함께 드론 기술 실습 교육으로 취업·창업 준비생 지원에 나섰다. IPAK은 이화여대 창업지원단과 함께 신기술 관련 IT융합 아카데...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
