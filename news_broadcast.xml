@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 00:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 02:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유심 하나로 한국·중국에서 동시 이용...SK텔링크, CM링크 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240814095848</link>
+            <guid>https://zdnet.co.kr/view/?no=20240814095848</guid>
+            <pubDate>Wed, 14 Aug 2024 02:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔링크가 SK텔레콤, 차이나모바일의 글로벌 사업 회사인 CMI와 하나의 국내 유심으로 한국번호와 중국번호를 동시에 이용할 수 있는 'CMLink' 신규 서비스를 출시한다고 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스리랑카, 28년 만에 통신법 고쳐 스타링크 서비스 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240814094843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240812134150</guid>
             <pubDate>Mon, 12 Aug 2024 08:16:03 GMT</pubDate>
             <content:encoded><![CDATA[모바일 신분증 패스(PASS)를 악용하는 사례가 발생했다. 중국인들이 패스를 활용해 한국인 신분 인증을 받아 티켓팅을 시도하는 사례가 빈발하고 있어 우려가 커지고 있다. 12일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나스미디어, 2분기 영업이익 66억원...전년비 41%↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240812163602</link>
-            <guid>https://zdnet.co.kr/view/?no=20240812163602</guid>
-            <pubDate>Mon, 12 Aug 2024 08:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[나스미디어는 연결기준 지난 2분기 매출 359억원, 영업이익 66억원을 기록했다고 12일 밝혔다. 매출과 영업익은 전년 동기 대비 각각 1.4%, 41% 증가한 수치다. 별도기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
