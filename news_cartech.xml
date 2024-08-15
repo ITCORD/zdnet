@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 09:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 10:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, '배터리' 정보 공개 없이 "이상 증상 대응 지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240815171013</link>
+            <guid>https://zdnet.co.kr/view/?no=20240815171013</guid>
+            <pubDate>Thu, 15 Aug 2024 10:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[최근 발생한 벤츠 전기차 화재로 전기차 배터리에 대한 안전성이 화두가 된 가운데, 우리나라 정부 권고에도 테슬라가 자체 차량에 탑재된 배터리 정보를 공개하지 않고 있다. 다만 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["과충전 화재원인 아냐"…현대차·기아, 배터리 안전기술 BMS 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240815134709</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240812202536</guid>
             <pubDate>Mon, 12 Aug 2024 12:22:39 GMT</pubDate>
             <content:encoded><![CDATA[BMW코리아가 수입차 중 처음으로 전기차 배터리 제조사를 사이트에 공개했다. BMW코리아는 12일 자사 홈페이지를 통해 판매 중인 전기차 10종의 배터리 제조사 이름을 게재했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 전기차 배터리 제조사 공개…레이EV·니로EV만 중국 제품]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240812164150</link>
-            <guid>https://zdnet.co.kr/view/?no=20240812164150</guid>
-            <pubDate>Mon, 12 Aug 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[기아가 현대자동차에 이어 두 번째로 전기차 배터리 제조사를 공개했다. 기아는 12일 자사 홈페이지를 통해 생산 중인 전기차 12종의 배터리 제조사 이름을 게재했다. 공개 대상인...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
