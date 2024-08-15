@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 22:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 23:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 리얼미 "320W 충전, 어떻게 만들었냐면..."]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240816015826</link>
+            <guid>https://zdnet.co.kr/view/?no=20240816015826</guid>
+            <pubDate>Thu, 15 Aug 2024 23:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[중국 스마트폰 브랜드 리얼미가 320W 효율 스마트폰 고속 충전 기능을 위해 적용한 주요 기술을 공개했다. 15일 중국 언론 콰이커지에 따르면 리얼미는 14일 320W 충전 기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/16/dca9d58bb417aa8f10f0c3b6de85023b-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[긁고, 접고, 800℃에도 끄떡없는 '폴더블 기판'..."시장판도 바뀔까"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240815134448</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240816013947</guid>
             <pubDate>Thu, 15 Aug 2024 17:10:30 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 12일부터 14일까지 열린 세계 유일 청소년 표준축제인 '제19회 국제표준올림피아드' 본선대회를 성공적으로 마쳤다고 15일 밝혔다. 올해 본선대회...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/16/792ca4af886e0ea3e0e67dbd074c5254-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[멸종위기종 부안종개, 변산반도 백천 서식 장면 영상 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240815120247</guid>
             <pubDate>Thu, 15 Aug 2024 05:11:46 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 자사 'AI 가전' 판매가 올해 1월부터 7월까지 누적으로 150만 대를 돌파했다고 15일 밝혔다. 삼성전자는 올해 출시된 가전, TV에 고성능 AI 칩이나 카메라,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["과충전 화재원인 아냐"…현대차·기아, 배터리 안전기술 BMS 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240815134709</link>
-            <guid>https://zdnet.co.kr/view/?no=20240815134709</guid>
-            <pubDate>Thu, 15 Aug 2024 05:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차가 최근 청라 벤츠 전기차 화재 사건 등 소비자들이 전기차에 대해 필요 이상의 불안감을 느끼고 있는 상황을 극복하기 위한 차원으로 배터리 핵심 기술을 공개했다. 현대차...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
