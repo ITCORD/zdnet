@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 13:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 14:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스 "애플·엔비디아 등 M7 맞춤형 HBM 요청중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240819225646</link>
+            <guid>https://zdnet.co.kr/view/?no=20240819225646</guid>
+            <pubDate>Mon, 19 Aug 2024 14:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[류성수 SK하이닉스 부사장은 "M7(매그니피센트7)에서 모두 찾아와 HBM(고대역폭 메모리) 커스텀(맞춤형 제작)을 해달라는 요청을 하고 있다"고 말했다. M7은 탠더드앤드푸어...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/05/8e7b77ce34116589a8ca62abef7b6980-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오아시스마켓, 추석 선물 기획전…최대 72% 할인]]></title>
             <link>https://zdnet.co.kr/view/?no=20240819215448</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240819215122</guid>
             <pubDate>Mon, 19 Aug 2024 13:15:42 GMT</pubDate>
             <content:encoded><![CDATA[SK스토아(대표 박정민)는 최근 자금 운용에 어려움을 겪고 있는 고객사(협력사)를 돕기 위해 '고객사 케어 방안'을 만들어 실시한다고 19일 밝혔다. SK스토아가 마련한 '고객...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/18/0078a82e95da9fcbd130448a39fe5ed5-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에이모, MS 애저 마켓에 '스마트 큐레이션' 서비스 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240819173229</guid>
             <pubDate>Mon, 19 Aug 2024 09:12:36 GMT</pubDate>
             <content:encoded><![CDATA['인공지능(AI) 거품론'이 확산되고 있는 가운데 전 세계 많은 기업들이 AI를 잠재적 위험 요소로 지목하며 우려를 표했다. 경쟁사에 뒤처질 수 있다는 우려로 인해 기업 간 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이오링크, 스위치 제품 신규 총판…"하반기 매출 성장 기여"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240819173225</link>
-            <guid>https://zdnet.co.kr/view/?no=20240819173225</guid>
-            <pubDate>Mon, 19 Aug 2024 09:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[파이오링크가 네트워크 전 계층을 커버하는 스위치 제품 신규 총판으로 하반기 매출 성장을 본격화한다. 파이오링크는 애플리케이션 전송 컨트롤러(ADC)인 자사 L4 스위치와 백본스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
