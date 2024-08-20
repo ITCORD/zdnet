@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 09:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 10:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["韓, 무조건 EU·미국 AI법 따르면 안 돼…AI 법률 정의 필요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240820175100</link>
+            <guid>https://zdnet.co.kr/view/?no=20240820175100</guid>
+            <pubDate>Tue, 20 Aug 2024 10:12:58 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 기본법을 효율적으로 구축하려면 유럽연합(EU)과 미국처럼 AI에 대한 법률적 개념부터 정확히 설정해야 합니다. AI 정의부터 법 적용 범위, 규제 강도 등 틀...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴로클, 첫 웨비나서 딥러닝 비전검사 노하우 공유]]></title>
             <link>https://zdnet.co.kr/view/?no=20240820174420</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240819172424</guid>
             <pubDate>Mon, 19 Aug 2024 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[생성 인공지능(AI)의 그림이 정교해지고 이미지 편집 기능이 추가돼 실제 사진과 구분이 점점 어려워지고 있다. 이를 남용하는 사례가 늘면서 윤리적 해결책과 법제화의 필요성이 커...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["국내 첫 AI팀 꾸려"…태평양이 내다본 한국 AI법 방향은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240819144640</link>
-            <guid>https://zdnet.co.kr/view/?no=20240819144640</guid>
-            <pubDate>Mon, 19 Aug 2024 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합(EU)이 생성형 인공지능(AI)법 추진을 본격화하면서 전 세계가 분주하다. 미국을 비롯한 캐나다, 영국, 일본 등 각국 정부는 AI 거버넌스 구축을 위해 연구소를 설립...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
