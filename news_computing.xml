@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 14:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시어스랩, 신개념 소셜 워킹 앱 '스텝어스' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240820232740</link>
+            <guid>https://zdnet.co.kr/view/?no=20240820232740</guid>
+            <pubDate>Tue, 20 Aug 2024 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[증강현실 전문 기업 시어스랩(대표 정진욱)이 신개념 소셜 워킹 앱 '스텝어스(StepEarth)' 서비스를 21일 공식 출시한다고 밝혔다. 공식 출시에 앞서 4개월간의 베타 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["韓, 무조건 EU·미국 AI법 따르면 안 돼…AI 법률 정의 필요"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240820175100</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240820082419</guid>
             <pubDate>Tue, 20 Aug 2024 00:49:56 GMT</pubDate>
             <content:encoded><![CDATA[AMD가 최근 드러난 보안 취약점 '싱크클로즈' 패치 대상 제품을 일부 확대했다. 2019년 출시한 데스크톱PC용 라이젠 3000 시리즈 프로세서도 패치 대상에 포함시켰다. 싱...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이미지 AI 발전 가속…전문가들 "포르노·가짜 뉴스 남용 막아야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240819172424</link>
-            <guid>https://zdnet.co.kr/view/?no=20240819172424</guid>
-            <pubDate>Mon, 19 Aug 2024 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[생성 인공지능(AI)의 그림이 정교해지고 이미지 편집 기능이 추가돼 실제 사진과 구분이 점점 어려워지고 있다. 이를 남용하는 사례가 늘면서 윤리적 해결책과 법제화의 필요성이 커...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
