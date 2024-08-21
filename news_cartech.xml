@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 00:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 02:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기아, 전기차 배터리 이상 생기면 문자로 알려준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240821110127</link>
+            <guid>https://zdnet.co.kr/view/?no=20240821110127</guid>
+            <pubDate>Wed, 21 Aug 2024 02:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[기아가 배터리관리시스템(BMS)이 감지한 배터리 이상 징후를 고객에게 문자메시지로 신속히 알리는 시스템을 구축했다고 21일 밝혔다. 기아에 따르면 최신 BMS의 배터리 시스템 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[렉서스, 한달간 전기차 무상점검…57가지 항목 점검]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240821105820</link>
+            <guid>https://zdnet.co.kr/view/?no=20240821105820</guid>
+            <pubDate>Wed, 21 Aug 2024 02:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[렉서스코리아는 오는 9월 30일까지 전국 렉서스 공식 서비스 센터에서 총 57가지 항목의 정기 점검을 받을 수 있는 '렉서스 전기차 무상 점검 서비스 캠페인'을 실시한다고 21...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 모델Y 등 후드 SW 오류로 자발적 리콜]]></title>
             <link>https://zdnet.co.kr/view/?no=20240821081729</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240816111719</guid>
             <pubDate>Fri, 16 Aug 2024 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[BMW그룹이 미국 사우스캐롤라이나 주에 위치한 BMW 스파르탄버그 공장에서 인간형 로봇의 시험 운영을 성공적으로 완료했다고 16일 밝혔다. 이번 인간형 로봇 시험 운영은 BMW...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[독일 찾은 곽재선 KGM 회장, "유럽, 액티언 국내외 두번째 출시장소"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240816105910</link>
-            <guid>https://zdnet.co.kr/view/?no=20240816105910</guid>
-            <pubDate>Fri, 16 Aug 2024 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[KG모빌리티(KGM)가 곽재선 회장이 튀르키예(Türkiye)에 이어 독일 딜러들과 콘퍼런스를 진행했다고 16일 밝혔다. 지난 14일(현지시간) 독일 프랑크푸르트 북부 지역에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 "전기차에 LG·CATL·파나소닉 배터리 사용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240816100513</link>
-            <guid>https://zdnet.co.kr/view/?no=20240816100513</guid>
-            <pubDate>Fri, 16 Aug 2024 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 국내에 판매하는 전기차 배터리 정보를 국토부를 통해 공개했다. 지난 15일 국토교통부 자동차리콜센터가 게재한 자료에 따르면 테슬라 모델3와 모델Y에는 일본 파나소닉, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
