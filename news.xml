@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 10:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 11:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST-GS건설, "미래 도시 디지털 지능 연구"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240822194824</link>
+            <guid>https://zdnet.co.kr/view/?no=20240822194824</guid>
+            <pubDate>Thu, 22 Aug 2024 11:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST는 GS건설(대표 허윤홍)과 '스마트시티 기술 선도 역량 상호 발전을 위한 협력관계 구축' 양해각서를 교환했다고 22일 밝혔다. 양 기관은 연내 KAIST에 미래 스마...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/22/8d05a5ce91c08c1a24e779ba7f2e42c9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] "튼튼한 국방력은 엣지 AI서 나올 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240822174946</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240822175730</guid>
             <pubDate>Thu, 22 Aug 2024 10:12:46 GMT</pubDate>
             <content:encoded><![CDATA[포시에스가 전자정부 표준프레임워크 4.2 호환성 확인으로 소프트웨어(SW) 신뢰도를 입증했다. 포시에스는 자사의 전자계약, 전자문서 솔루션이 최신버전의 전자정부 표준프레임워크4...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/22/6eaa01973c20c347babad7a373444c46-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LS이링크, 연내 코스닥 상장 시동]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240822162555</guid>
             <pubDate>Thu, 22 Aug 2024 08:14:20 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡은 경북 의성군과 농·특산물의 판로 확대 및 온라인 유통 활성화를 위한 업무협약(MOU)을 체결했다고 22일 밝혔다. 이날 경북 의성군청에서 열린 협약식에는 이성한 쿠팡 로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트워치가 알려주는 건강 지표, 얼마나 정확한가 봤더니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240822163954</link>
-            <guid>https://zdnet.co.kr/view/?no=20240822163954</guid>
-            <pubDate>Thu, 22 Aug 2024 08:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[걸음 수와 심박 수를 측정해주는 스마트워치부터 수면 패턴과 칼로리 소모량을 기록해주는 피트니스 밴드까지 시중에 다양한 웨어러블 기기가 나와 있다. 최근 웨어러블 기기들이 측정하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
