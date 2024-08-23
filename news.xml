@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 07:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈도 간판 '제어판' 사라지나…MS, 설정 앱 사용 권고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240823154457</link>
+            <guid>https://zdnet.co.kr/view/?no=20240823154457</guid>
+            <pubDate>Fri, 23 Aug 2024 07:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[1985년 윈도 1.0 이후 컴퓨터에서 중요한 자리를 차지해 왔던 제어판이 곧 사라질 것으로 보인다고 톰스가이드 등 외신들이 22일(현지시간) 보도했다. 마이크로소프트(MS)는...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/08/23/99ad7ca1907c29eb2b3ff84a7cd72b52-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글클라우드, 보안 시스템 업데이트·신제품 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240823110809</link>
+            <guid>https://zdnet.co.kr/view/?no=20240823110809</guid>
+            <pubDate>Fri, 23 Aug 2024 07:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[구글클라우드가 광범위한 사이버 위협에 대응하기 위해 보안 시스템 업데이트와 새 보안 기능을 발표했다. 구글클라우드는 21일 '구글클라우드 시큐리티 써밋'을 온라인에서 개최했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/06/934bd754f0df88a479dac3a6efde9ac4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['200단 식각' 벽 뚫었다…램리서치 "400단 낸드에 도입 적극 검토"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240823142400</link>
+            <guid>https://zdnet.co.kr/view/?no=20240823142400</guid>
+            <pubDate>Fri, 23 Aug 2024 07:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 장비 업체인 램리서치가 최근 출시한 반도체 식각 기술 'Cryo 3.0'의 시장 확대를 자신했다. 해당 기술은 낸드 셀을 200단 이상 한 번에 식각할 수 있어, 고적층...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로보락, 스타필드 수원에 팝업스토어 오픈]]></title>
             <link>https://zdnet.co.kr/view/?no=20240823135835</link>
             <guid>https://zdnet.co.kr/view/?no=20240823135835</guid>
             <pubDate>Fri, 23 Aug 2024 06:15:26 GMT</pubDate>
             <content:encoded><![CDATA[로봇청소기 기업 로보락이 23일 스타필드 수원에 팝업스토어를 오픈했다. 로보락 팝업스토어는 스타필드 수원 6층에서 오는 10월 24일까지 약 두 달 간 운영된다. 팝업스토어에는...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/23/c09a885fa8109ec8f8e422c9c4b38869-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성, 구글과 협력...'픽셀9·폴드'에 부품 다수 공급]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240823134107</guid>
             <pubDate>Fri, 23 Aug 2024 06:15:26 GMT</pubDate>
             <content:encoded><![CDATA[구글이 하반기 출시한 플래그십 스마트폰 '픽셀9' 시리즈와 '픽셀9 프로폴드'는 전작과 마찬가지로 삼성전자의 부품이 다수 탑재됐다. 구글은 첫 스마트폰 출시 시점부터 삼성전자의...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/23/649da0e66a5e1e47eabc6cd960a50060-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[프리딕티브 코리아, 의료AI로 초고령사회 극복]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240823121908</guid>
             <pubDate>Fri, 23 Aug 2024 04:14:01 GMT</pubDate>
             <content:encoded><![CDATA[반도체 및 전자부품 유통기업 마우저일렉트로닉스는 AMD의 최신 AI(인공지능) 및 엣지용 반도체를 공급한다고 밝혔다. 마우저는 AMD 알베오 V80 컴퓨팅 가속기 카드 판매를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오션드라이브 스튜디오 "갓세이브버밍엄, 14세기 버밍엄 완벽 구현"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823120932</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823120932</guid>
-            <pubDate>Fri, 23 Aug 2024 03:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈는 22일(현지시간) 독일 쾰른에서 열린 게임쇼 게임스컴 2024에서 자회사 오션드라이브 스튜디오가 개발한 '갓세이브버밍엄'을 소개하는 미디어 인터뷰를 진행했다. 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해긴 '홈런 클래시2: 레전드 더비', 새 캐릭터 조이스타 등장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823102641</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823102641</guid>
-            <pubDate>Fri, 23 Aug 2024 03:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[해긴(대표 이영일)은 모바일 야구 게임 '홈런 클래시2: 레전드 더비'에 첫 신규 캐릭터로 관중석 최고 스타인 치어리더 '조이스타'가 등장했다고 23일 밝혔다. '조이스타'는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷이즈게임즈, 신작 '프래그펑크' 글로벌 테스트 사전 예약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823102448</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823102448</guid>
-            <pubDate>Fri, 23 Aug 2024 03:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[넷이즈게임즈는 신작 5대5 대전 히어로 슈팅 게임 '프래그펑크(FragPunk)'의 글로벌 비공개 테스트(CBT)를 앞두고 스팀과 X박스 인사이더를 통해 사전 예약에 돌입했다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
