@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 00:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK㈜ C&C, 한국은행 경기IT센터 구축 사업 착수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240826092046</link>
+            <guid>https://zdnet.co.kr/view/?no=20240826092046</guid>
+            <pubDate>Mon, 26 Aug 2024 00:51:35 GMT</pubDate>
+            <content:encoded><![CDATA[SK㈜ C&amp;C(대표 윤풍영)가 한국은행의 차세대 IT센터 구축 및 이전 작업을 실시한다. SK㈜ C&amp;C는 한국은행 경기IT센터 구축 및 이전 사업에 착수했다고 26일 밝혔다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["韓 역시 다르네"…세계 첫 디지털플랫폼정부, 10개 개발도상국에 전파]]></title>
             <link>https://zdnet.co.kr/view/?no=20240825165637</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240823103915</guid>
             <pubDate>Fri, 23 Aug 2024 03:12:52 GMT</pubDate>
             <content:encoded><![CDATA[중국 해커그룹이 시스코 네트워크 장비 취약점을 악용해 데이터 탈취와 시스템 장악을 시도한 사실이 드러났다. 현재 시스코는 시스템에 보안 패치를 적용해 결함을 보완했다. 23일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 호주에 9천억 규모 투자…사이버 공격 방어 나서]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823075403</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823075403</guid>
-            <pubDate>Fri, 23 Aug 2024 03:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 호주의 사이버 공격을 방어하기 위해 병원·국방 기관·에너지 공급기관 등의 소프트웨어(SW) 인프라를 개선한다. 2년 전부터 이어져 온 개인정보 유출 사태에 대한 사이버 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
