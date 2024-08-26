@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 05:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["20대, 하루 평균 70분 OTT 시청"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240826142219</link>
+            <guid>https://zdnet.co.kr/view/?no=20240826142219</guid>
+            <pubDate>Mon, 26 Aug 2024 06:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[메조미디어가 공개한 세대별 남녀 미디어 이용 행태와 광고 접촉 반응 등을 조사한 '2024 타깃 리포트'에 따르면 20대의 일평균 OTT 시청시간이 70분인 것으로 나타났다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스튜디오드래곤, 일본서 K드라마 페스티별 연다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240826123902</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240824201016</guid>
             <pubDate>Sat, 24 Aug 2024 12:18:56 GMT</pubDate>
             <content:encoded><![CDATA[인도 정부가 테라헤르츠(THz) 대역의 주파수를 활용하기 위해 연구개발과 실증에 필요한 허가와 함께 실험을 권고하고 나섰다. 23일(현지시간) RCR와이어리스에 따르면 인도 통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 하나금융그룹과 AI 서비스 발굴 해커톤 열어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823104958</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823104958</guid>
-            <pubDate>Fri, 23 Aug 2024 02:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 하나금융그룹과 공동주최한 대학생 대상 AI기술 기반 'TECH4GOOD 해커톤'을 성공적으로 마쳤다고 23일 밝혔다. 올해로 두번째를 맞는 해커톤은 지난해 양사가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
