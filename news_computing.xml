@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 00:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 02:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세일즈포스, 24시간 영업·직원 교육하는 AI 비서 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240826100925</link>
+            <guid>https://zdnet.co.kr/view/?no=20240826100925</guid>
+            <pubDate>Mon, 26 Aug 2024 02:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[세일즈포스가 24시간 잠재 고객을 발굴하고 내부 직원을 교육하는 인공지능(AI) 에이전트 2종을 공개한다. 영업사원 업무 생산성이 오르고 인력 양성에 속도가 붙을 것으로 기대된...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["보안 능력 굿"…클라우데라, 'PCI DSS 4.0' 최고 등급 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240826103459</link>
+            <guid>https://zdnet.co.kr/view/?no=20240826103459</guid>
+            <pubDate>Mon, 26 Aug 2024 02:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[클라우데라가 퍼블릭 클라우드와 프라이빗 클라우드 부문에 대해 모두 'PCI DSS v4.0'에 대한 인증을 받으면서 보안 능력을 입증했다. 클라우데라는 글로벌 데이터 보안표준 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 투자 몰리는 중동…中 견제 나선 美 압박에 MS 전략 선회]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240826101259</link>
+            <guid>https://zdnet.co.kr/view/?no=20240826101259</guid>
+            <pubDate>Mon, 26 Aug 2024 02:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 분야에서 공격적으로 투자하던 마이크로소프트(MS)가 결국 국가 안보와 관련된 보안 문제로 난관에 부딪히자 전략을 수정하고 나섰다. 26일 CNBC에 따르면 MS...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK㈜ C&C, 한국은행 경기IT센터 구축 사업 착수]]></title>
             <link>https://zdnet.co.kr/view/?no=20240826092046</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240823110809</guid>
             <pubDate>Fri, 23 Aug 2024 07:12:07 GMT</pubDate>
             <content:encoded><![CDATA[구글클라우드가 광범위한 사이버 위협에 대응하기 위해 보안 시스템 업데이트와 새 보안 기능을 발표했다. 구글클라우드는 21일 '구글클라우드 시큐리티 써밋'을 온라인에서 개최했다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프리딕티브 코리아, 의료AI로 초고령사회 극복]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823142256</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823142256</guid>
-            <pubDate>Fri, 23 Aug 2024 06:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[프리딕티브 코리아가 의료 인공지능(AI)과 디지털트윈 기술로 초고령사회 대비에 본격 나선다. 브리딕티브 코리아는 서울성모병원과 대한노인근골격의학회, 히포크랏, 바이오솔빅스 손잡...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["진짜 사람 같네"…팔 굽혀 펴기하는 아틀라스 로봇 [영상]]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823102646</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823102646</guid>
-            <pubDate>Fri, 23 Aug 2024 04:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[현대차 그룹 로봇 계열사 보스턴 다이내믹스가 휴머노이드 로봇 '아틀라스'의 새로운 영상을 공개했다고 IT매체 테크크런치가 22일(현지시간) 보도했다. 공개된 영상에서 보스턴 다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코, 中 해커에 당할 뻔…"스위치 취약점 악용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240823103915</link>
-            <guid>https://zdnet.co.kr/view/?no=20240823103915</guid>
-            <pubDate>Fri, 23 Aug 2024 03:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[중국 해커그룹이 시스코 네트워크 장비 취약점을 악용해 데이터 탈취와 시스템 장악을 시도한 사실이 드러났다. 현재 시스코는 시스템에 보안 패치를 적용해 결함을 보완했다. 23일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
