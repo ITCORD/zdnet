@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 02:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 03:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한국IDC "올 2분기 국내 PC 출하량 111만 대, 전년比 4.3% 감소"]]></title>
+            <title><![CDATA[에코백스, 로봇청소기 '디봇' 신제품 3종 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240827110633</link>
+            <guid>https://zdnet.co.kr/view/?no=20240827110633</guid>
+            <pubDate>Tue, 27 Aug 2024 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[로봇가전 전문 브랜드 에코백스는 스마트 기술을 일상생활에 접목하여 집안 청소를 편리하게 할 수 있는 로봇청소기 신제품 3종을 출시했다고 27일 밝혔다. 새로 출시된 제품 3종은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국IDC "2분기 국내 PC 출하량 111만 대, 전년比 4.3% 감소"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240827104458</link>
             <guid>https://zdnet.co.kr/view/?no=20240827104458</guid>
             <pubDate>Tue, 27 Aug 2024 02:04:59 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240826100827</guid>
             <pubDate>Mon, 26 Aug 2024 02:04:27 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 폭스바겐의 내연기관 차량용으로 공급하고 있는 V2X(Vehicle to Everything, 차량·사물간 통신) 모듈이 세계 최초로 보안 안정성을 평가하는 국제공통평...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테라바디, 웨어러블 디바이스 '리커버리 펄스' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240826101134</link>
-            <guid>https://zdnet.co.kr/view/?no=20240826101134</guid>
-            <pubDate>Mon, 26 Aug 2024 02:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[웰니스 테크 기업 테라바디는 웨어러블 디바이스 '리커버리 펄스'를 출시했다고 26일 밝혔다. 리커버리 펄스는 진동과 압박 기능과 원적외관 효과를 통해 근육의 통증 완화와 회복에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
