@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 02:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 03:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방심위 "딥페이크 성범죄영상물 신속 대응…플랫폼 사업자들과 협의체도 구성"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828113338</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828113338</guid>
+            <pubDate>Wed, 28 Aug 2024 03:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신심의위원회가 딥페이크 기술로 제작된 성범죄영상물을 신속하게 차단하기 위해 전자심의를 강화한다. 또한 글로벌 온라인 플랫폼 사업자들과 협의체를 구성해 차단 조치와 자율 규...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[통신 3사, '네트워크 오픈 API 기술' 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20240828091850</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240826100541</guid>
             <pubDate>Mon, 26 Aug 2024 02:04:12 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 '국제 개의 날'을 맞아 산불, 태풍, 지진 등 재난상황에서 유기 또는 방치되는 반려동물들을 돌보기 위한 특화 구호소를 운영한다고 26일 밝혔다. 반려동물과 함께...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT "비밀번호 없이 PASS로 로그인"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240826102432</link>
-            <guid>https://zdnet.co.kr/view/?no=20240826102432</guid>
-            <pubDate>Mon, 26 Aug 2024 02:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 비밀번호 없이 손쉽게 로그인과 인증이 가능한 패스키 인증시스템을 SaaS 기반으로 도입을 원하는 기업에 제공한다고 26일 밝혔다. 패스키는 비밀번호 대신 공개키 암...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
