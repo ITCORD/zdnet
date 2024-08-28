@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 00:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 02:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사, '네트워크 오픈 API 기술' 맞손]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828091850</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828091850</guid>
+            <pubDate>Wed, 28 Aug 2024 02:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤 KT LG유플러스 등 이동통신 3사는 국내 통신 분야 '네트워크 오픈 API' 표준을 공동 제정하고 상용화하기 위한 양해각서(MOU)를 체결했다고 28일 밝혔다. 네...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부 내년 예산 19조원 편성...전년비 5.9% 증가]]></title>
             <link>https://zdnet.co.kr/view/?no=20240827184428</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240826102432</guid>
             <pubDate>Mon, 26 Aug 2024 02:04:12 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤이 비밀번호 없이 손쉽게 로그인과 인증이 가능한 패스키 인증시스템을 SaaS 기반으로 도입을 원하는 기업에 제공한다고 26일 밝혔다. 패스키는 비밀번호 대신 공개키 암...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 수중 통신 '30km' 돌파...화웨이 기술 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240826085448</link>
-            <guid>https://zdnet.co.kr/view/?no=20240826085448</guid>
-            <pubDate>Mon, 26 Aug 2024 02:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 세계 최장 수중 통신 거리를 돌파하는 테스트를 성공시켰다. 25일 홍콩 언론 사우스차이나모닝포스트에 따르면, 중국 과학자들이 화웨이가 개발한 데이터 인코딩 방식을 이용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

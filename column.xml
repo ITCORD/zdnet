@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 00:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 02:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 엣지 컴퓨팅이 미래에 필수적인 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240827182731</link>
+            <guid>https://zdnet.co.kr/view/?no=20240827182731</guid>
+            <pubDate>Wed, 28 Aug 2024 02:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날 데이터는 기업의 생산 또는 운영 프로세스에서 효율성을 높이는 데 필수적인 요소다. 하지만 모든 데이터가 장기적으로 중요한 것은 아니다. 불필요한 데이터 전송은 대역폭 요구 사항을 증가시켜 비용과 비효율을 초래할 수 있다. 따라서 데이터를 중앙에서 처리하거나 저장해야 할 것과 그러지 않은 것으로 구분하는 것이 필요하다.예를 들어, 인더스트리 4.0과 스마트 팩토리의 발전으로 자동화 생산...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/12/05/8366646dc5b41201e1d3f2065b0bd6b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[고삼석 칼럼] 글로벌 ‘테크 자이언트’ 화웨이의 생존전략]]></title>
             <link>https://zdnet.co.kr/view/?no=20240826155705</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jun 2024 02:02:16 GMT</pubDate>
             <content:encoded><![CDATA[지난 칼럼에서 웹3 기술이 도입되면서 일어날 긍정적인 영향, 문제점을 예상해 보았습니다. 탈중앙화 특성상 많은 부분이 불안정한 모습으로 비쳐지고 있기에 문제해결을 위한 노력이 절실히 필요합니다.&nbsp;오늘은 연장 선에서 어떻게 웹3가 전개될지 미래에 대해 이야기 해보려고 합니다.&nbsp;아직 본격적으로 도입된 상황이 아닌 상태에서 제가 논할 수 있는지 모르겠지만 극초기의 웹3 진행 상황...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/06/24/824b8cdb0b539c576e496d66ff87f396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이정규 칼럼] 난 한 놈만 패]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240617103919</link>
-            <guid>https://zdnet.co.kr/view/?no=20240617103919</guid>
-            <pubDate>Mon, 17 Jun 2024 05:16:03 GMT</pubDate>
-            <content:encoded><![CDATA["나는 한 놈만 패."&nbsp;영화 주유소습격사건의 유오성 배우가 남긴 명대사이다. 이영화를 메타포로 활용하여 스타트업의 목표관리 방안을 풀어보려 한다.일반적으로 스타트업은 사업역량이 부족하다. 이는 자원 인프라가 열악하기 때문이다. 특히 성공 경험이 없는 스타트업 창업자 그룹의 경우 인적자원도 부족하다. 창업 구성원과 CEO 모두가 ‘넘치는 열정에 딸리는 실력’이다. 그럼에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/06/17/387ff42df555d6aa4d6ffb992c5cec33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
