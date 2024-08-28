@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 06:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 07:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI칩 각광에 패키징 소재도 첨단화…日 레조낙 개발 선도]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240828144309</link>
+            <guid>https://zdnet.co.kr/view/?no=20240828144309</guid>
+            <pubDate>Wed, 28 Aug 2024 07:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아·AMD 등의 주도로 고성능·고집적 반도체가 지속 출시되면서, 반도체 소재 업계도 첨단 제품 개발에 열을 올리고 있다. 올해에는 일본 레조낙이 기존 대비 뛰어난 특성을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퓨리오사AI, 차세대 AI칩 '레니게이드' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240828101224</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240827082355</guid>
             <pubDate>Tue, 27 Aug 2024 00:51:56 GMT</pubDate>
             <content:encoded><![CDATA["차세대 HBM에 하이브리드 본딩을 적용하면 여러 이점이 있으나, 이 기술은 아직 완성되지 않아 시간이 더 필요하다. 현재로선 CMP와 파티클이라는 두 가지 문제가 가장 큰 허...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 퀄컴 차량용 플랫폼에 'LPDDR4X' 공급...첫 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240827081437</link>
-            <guid>https://zdnet.co.kr/view/?no=20240827081437</guid>
-            <pubDate>Tue, 27 Aug 2024 00:51:56 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 퀄컴의 프리미엄 차량용 플랫폼인 '스냅드래곤 디지털 섀시' 솔루션에 차량용 메모리 LPDDR4X를 공급을 시작했다. 이번 공급은 삼상전자가 퀄컴과 차량용 반도체 분야...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
