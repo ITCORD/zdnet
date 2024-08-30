@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 06:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 07:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신간] 반도체 전문가 김용석 석좌교수가 말하는 'AI 반도체 전쟁']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240830144156</link>
+            <guid>https://zdnet.co.kr/view/?no=20240830144156</guid>
+            <pubDate>Fri, 30 Aug 2024 07:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[AI 시대가 열렸다. 2016년 알파고, 2022년 챗GPT가 AI 시대를 열 수 있었던 것은 모두 반도체의 힘이었다. 팬데믹을 거치면서 세계는 반도체 공급망의 중요성을 알게 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[앤씨앤 "신성장동력 '안전운전 시스템' 성장세 뚜렷"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240830101430</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240828144309</guid>
             <pubDate>Wed, 28 Aug 2024 07:11:18 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아·AMD 등의 주도로 고성능·고집적 반도체가 지속 출시되면서, 반도체 소재 업계도 첨단 제품 개발에 열을 올리고 있다. 올해에는 일본 레조낙이 기존 대비 뛰어난 특성을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨리오사AI, 차세대 AI칩 '레니게이드' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240828101224</link>
-            <guid>https://zdnet.co.kr/view/?no=20240828101224</guid>
-            <pubDate>Wed, 28 Aug 2024 06:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[AI 반도체 스타트업 퓨리오사AI는 미국 현지시간 기준 26일 'Hot Chips 2024' 컨퍼런스에서 2세대 AI 반도체 RNGD(레니게이드)를 공개했다고 28일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
