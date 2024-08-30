@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 02:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 03:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["샤오미, 자체 개발 스마트폰 칩 다시 만든다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240830105150</link>
+            <guid>https://zdnet.co.kr/view/?no=20240830105150</guid>
+            <pubDate>Fri, 30 Aug 2024 03:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[삼성, 애플, 구글, 화웨이 등 4개 스마트폰 브랜드만이 자체 스마트폰용 시스템온칩(SoC)을 생산하고 있는 가운데 중국 샤오미가 자체 스마트폰 칩을 내놓을 것이라는 전망이 나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["애플, 아이폰16 생산량 10% 늘렸다…AI로 승부"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240830085851</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240829085636</guid>
             <pubDate>Thu, 29 Aug 2024 00:52:41 GMT</pubDate>
             <content:encoded><![CDATA[2030세대 중심으로 AI 가전 구매율이 높은 것으로 나타났다. 삼성전자는 올해 1월부터 7월까지 2개 이상의 AI 가전으로 구성된 AI 패키지 제품 구매 고객을 분석한 결과,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소니코리아, ZV 시리즈 카메라 정품등록 행사 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240829084922</link>
-            <guid>https://zdnet.co.kr/view/?no=20240829084922</guid>
-            <pubDate>Thu, 29 Aug 2024 00:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[소니코리아가 오는 12월 1일까지 브이로그 특화 카메라인 ZV 시리즈 정품등록 행사를 진행한다. 대상 제품은 ZV 시리즈 카메라 5종(ZV-E1, ZV-E10M2, ZV-E10...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
