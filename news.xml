@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 05:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 06:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5G 주파수 300MHz+α 공급...내년 하반기 결정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240901144214</link>
+            <guid>https://zdnet.co.kr/view/?no=20240901144214</guid>
+            <pubDate>Sun, 01 Sep 2024 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 현재 활용하고 있는 5G 통신 주파수보다 더 많은 양을 추가로 공급한다. 5G 주파수 인접대역 외에 LTE로 활용하고 있는 주파수를 일부 회수해 재배치하는 방안이 중점적...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/20/3f653686ffd58915f8e844aa1315767c-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ZD브리핑] 파산 기로 선 티몬·위메프…회생 여부 나와]]></title>
             <link>https://zdnet.co.kr/view/?no=20240901131019</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240831152722</guid>
             <pubDate>Sun, 01 Sep 2024 05:12:18 GMT</pubDate>
             <content:encoded><![CDATA[노르웨이 선급협회 DNV는 해운업계 친환경 정책으로 인해 상당한 비용이 수반될 것이라고 밝혔다. 해상운송 비용은 기존 대비 약 2배 늘어날 것이라고 전망했다. DNV는 지난 3...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/08/31/bbfcca66eeaf215332035f7f572d0ae8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 'IFA 2024'서 비스포크 정수기 '브루어 키트' 신제품 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240901101423</guid>
             <pubDate>Sun, 01 Sep 2024 02:23:52 GMT</pubDate>
             <content:encoded><![CDATA[엔씨소프트가 하반기 국내외 게임 시장 진출로 반등에 나선다. 최근 이 회사는 '호연'을 출시해 주목을 받은 가운데, '쓰론 앤 리버티(TL)'의 글로벌 진출과 '블레이드앤소울2...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에코프로, 내달 임직원에 RSU 첫 지급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240901100648</link>
-            <guid>https://zdnet.co.kr/view/?no=20240901100648</guid>
-            <pubDate>Sun, 01 Sep 2024 02:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[에코프로그룹이 회사 성장의 과실을 소속 임직원들과 나누기 위해 양도제한 조건부 주식(RSU)을 다음 달 처음으로 임직원들에게 지급한다고 1일 밝혔다. RSU는 주가와 행사가격의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
