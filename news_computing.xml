@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 23:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 01:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] "챗GPT를 속여라"…해킹 대회서 주목 받은 韓 AI 보안 인재 누구?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240831193044</link>
+            <guid>https://zdnet.co.kr/view/?no=20240831193044</guid>
+            <pubDate>Sun, 01 Sep 2024 01:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[한국서 열린 해킹방어대회에서 인공지능(AI) 문제가 처음 나왔다. 챗GPT 등 AI 서비스나 모델을 속여 보안을 뚫는 문제 형식이다. 명령어로 AI 모델 오류를 찾아내거나 상대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[행안부 "도미노식 대규모 장애 사전에 막는다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240830165451</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240830101054</guid>
             <pubDate>Fri, 30 Aug 2024 02:07:53 GMT</pubDate>
             <content:encoded><![CDATA[메타에서 서비스하는 대규모 언어모델(LLM) '라마(Llama)'의 인기가 급격하게 상승 중이다. 관련 업계에서는 메타의 오픈소스 전략이 점차 성공적으로 자리 잡고 있다는 분석...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[망분리 규제 완화, 금융권 디지털 혁신 가속…주목 받는 기업은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240830102640</link>
-            <guid>https://zdnet.co.kr/view/?no=20240830102640</guid>
-            <pubDate>Fri, 30 Aug 2024 02:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회가 망분리 규제 완화를 발표하며 금융업계의 디지털 혁신이 가속화될 전망인 가운데 기술 혁신을 주도할 주요 테크 기업들도 함께 주목받고 있다. 30일 S2W가 발간한 자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
