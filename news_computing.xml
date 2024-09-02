@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 23:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 00:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스트소프트, 네이버클라우드와 AI 인재 양성 나선다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240902095112</link>
+            <guid>https://zdnet.co.kr/view/?no=20240902095112</guid>
+            <pubDate>Mon, 02 Sep 2024 00:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[이스트소프트가 네이버클라우드와 손잡고 인공지능(AI) 인재 양성을 위한 움직임에 나선다. 이스트소프트는 네이버클라우드와 교육부가 지정한 글로컬대학을 대상으로 표준화된 AI 교육...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] "챗GPT를 속여라"…해킹 대회서 주목 받은 韓 AI 보안 인재 누구?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240831193044</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240830104358</guid>
             <pubDate>Fri, 30 Aug 2024 02:07:53 GMT</pubDate>
             <content:encoded><![CDATA[안랩이 클라우드 서비스를 안전하게 유지하고 싶어하는 고객들을 겨냥해 보안 기능을 한층 강화한 새로운 솔루션을 선보였다. 안랩은 컨테이너 보안 전용 솔루션 '안랩 컨테이너 시큐리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오픈소스 성공적"...메타, LLM 라마 전년 대비 10배 성장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240830101054</link>
-            <guid>https://zdnet.co.kr/view/?no=20240830101054</guid>
-            <pubDate>Fri, 30 Aug 2024 02:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[메타에서 서비스하는 대규모 언어모델(LLM) '라마(Llama)'의 인기가 급격하게 상승 중이다. 관련 업계에서는 메타의 오픈소스 전략이 점차 성공적으로 자리 잡고 있다는 분석...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
