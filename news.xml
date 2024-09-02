@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 20:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 21:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마약중독 치료, 가능하다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240902173121</link>
+            <guid>https://zdnet.co.kr/view/?no=20240902173121</guid>
+            <pubDate>Mon, 02 Sep 2024 21:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[메디컬 테크놀로지(Medical Tech)란 질병 예방·진단·치료를 위한 의료기기 관련 산업을 의미하는 말이다. '김양균의 메드테크'는 기존 정의를 넘어 디지털 헬스케어 등 신...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/02/45d59056abea63070de972e5a9adb4e0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고동진, 포괄적 딥페이크 방지 및 처벌법 국회 제출…"소지만 해도 처벌"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240903003723</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240903003123</guid>
             <pubDate>Mon, 02 Sep 2024 16:14:48 GMT</pubDate>
             <content:encoded><![CDATA[방송통신심의위원회는 최근 텔레그램 등을 통해 유포되고 있는 딥페이크 성범죄영상물 피해의 신속한 구제를 위해 2일 오전 9시부터 ARS 신고/상담 'FAST TRACK'을 도입・...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/03/8e23c27575a4d3ba9360b54b4ef361f0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["다른 성분 각질 연출"…방심위, 'GS마이샵'에 의견진술]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240902172149</guid>
             <pubDate>Mon, 02 Sep 2024 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차와 기아가 지난달 내수 판매에서 전년보다 많이 팔았지만 전기차 판매량은 줄어든 것으로 나타났다. 특히 지난달 1일 발생한 아파트 지하주차장 화재 사고 이후 전기차 수요...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[광복절에 기미가요 내보낸 'KBS 중계석' 의견진술]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240902171309</link>
-            <guid>https://zdnet.co.kr/view/?no=20240902171309</guid>
-            <pubDate>Mon, 02 Sep 2024 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[광복절 당일에 일본 배경 오페라 '나비부인'을 방송하며 기미가요를 내보낸 KBS가 법정제재를 받을 전망이다. 2일 방송통신심의위원회는 전체회의를 열고 KBS 중계석에 의견진술을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
