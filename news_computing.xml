@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 08:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 09:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 오픈AI에 1천340억원 투자 검토]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240902171311</link>
+            <guid>https://zdnet.co.kr/view/?no=20240902171311</guid>
+            <pubDate>Mon, 02 Sep 2024 09:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아, 마이크로소프트, 애플 등 글로벌 빅테크 기업들이 오픈AI의 자금 조달 라운드에 참여를 논의 중이다. 이번 논의는 인공지능(AI) 경쟁에서 우위를 점하기 위한 전략적 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[ZD SW 투데이] 오케스트로 '초거대 AI 기반 플랫폼 이용지원 사업' 공급기업 선정 外]]></title>
             <link>https://zdnet.co.kr/view/?no=20240902162528</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240902095112</guid>
             <pubDate>Mon, 02 Sep 2024 00:53:55 GMT</pubDate>
             <content:encoded><![CDATA[이스트소프트가 네이버클라우드와 손잡고 인공지능(AI) 인재 양성을 위한 움직임에 나선다. 이스트소프트는 네이버클라우드와 교육부가 지정한 글로컬대학을 대상으로 표준화된 AI 교육...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] "챗GPT를 속여라"…해킹 대회서 주목 받은 韓 AI 보안 인재 누구?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240831193044</link>
-            <guid>https://zdnet.co.kr/view/?no=20240831193044</guid>
-            <pubDate>Sun, 01 Sep 2024 01:00:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국서 열린 해킹방어대회에서 인공지능(AI) 문제가 처음 나왔다. 챗GPT 등 AI 서비스나 모델을 속여 보안을 뚫는 문제 형식이다. 명령어로 AI 모델 오류를 찾아내거나 상대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
