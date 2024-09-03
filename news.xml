@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 17:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 18:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 코어 울트라 200V 프로세서 정식 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240904025746</link>
+            <guid>https://zdnet.co.kr/view/?no=20240904025746</guid>
+            <pubDate>Tue, 03 Sep 2024 18:15:05 GMT</pubDate>
+            <content:encoded><![CDATA["인텔은 올 초 (CES 2024에서) 최고의 CPU와 GPU, AI 성능을 갖춘 '루나레이크'를 약속했고 오늘 그 약속을 실현했다. 소비자에게 타협 없는 AI PC 경험을 제...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/04/a31ec307abd4c772d73670339d2d9d00-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가블러코리아, 24일 부산서 오션테크컨퍼런스 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240903190621</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240903214857</guid>
             <pubDate>Tue, 03 Sep 2024 13:18:01 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 소프트웨어 전문기업 오케스트로(대표 김민준, 김영광)는 오픈인프라 재단이 주최하는 '오픈인프라 아시아 서밋 (OpenInfra Summit Asia) 2024'에 참가...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/03/cc4488a9be6220709c7a202beccd2741-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11번가, 학생 전용 무료 멤버십 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240903180215</guid>
             <pubDate>Tue, 03 Sep 2024 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[세계 8위 경영대학원 IE 비즈니스 스쿨의 루시아 에지아 부학장이 서울에서 '글로벌 환경 속 여성 리더십 혁신'을 주제로 마스터클래스를 진행한다. 이번 행사는 “우리는 함께 성...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국데이터센터연합회, 비수도권 데이터센터 구축 전폭 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240903174539</link>
-            <guid>https://zdnet.co.kr/view/?no=20240903174539</guid>
-            <pubDate>Tue, 03 Sep 2024 09:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[한국데이터센터연합회가 비수도권 데이터센터 구축을 위해 '데이터센터 컨설팅 지원센터' 운영을 시작했다. 이로써 비수도권 지자체와 기업의 데이터 역량을 적극적으로 강화할 계획이다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
