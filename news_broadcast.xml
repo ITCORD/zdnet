@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 00:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 02:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LGU+ "IPTV에 AI 적용...초개인화 시청 경험 제공"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240903100805</link>
+            <guid>https://zdnet.co.kr/view/?no=20240903100805</guid>
+            <pubDate>Tue, 03 Sep 2024 02:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 IPTV 서비스 'U+tv'에 익시(ixi) 기반의 AI 에이전트를 적용하고, 초개인화된 시청경험을 제공한다고 3일 밝혔다. LG유플러스는 IPTV 특화 AI 에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT-SKB, 국내 최초 800Gbps급 유선 백본망 도입]]></title>
             <link>https://zdnet.co.kr/view/?no=20240903093657</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240902092044</guid>
             <pubDate>Mon, 02 Sep 2024 00:53:47 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드는 257개 실시간 채널뿐만 아니라 영화, 방송, 애니메이션, 키즈, 다큐멘터리 등 약 20만여 편의 VOD를 무제한 시청할 수 있는 'B tv All+' 요금제를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT "추석선물 '티딜'에서 구매하세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240902092740</link>
-            <guid>https://zdnet.co.kr/view/?no=20240902092740</guid>
-            <pubDate>Mon, 02 Sep 2024 00:53:47 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 추석을 맞아 자사 인공지능(AI) 큐레이션 커머스 '티딜(T-deal)'에서 2일부터 22일까지 '추석 특집 선물대전'을 진행한다고 2일 밝혔다. 먼저 주방용품, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
