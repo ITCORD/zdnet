@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 02:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 03:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에서 아이폰 '나의찾기' 이용 가능해진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240905113144</link>
+            <guid>https://zdnet.co.kr/view/?no=20240905113144</guid>
+            <pubDate>Thu, 05 Sep 2024 03:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[내년부터 애플 아이폰에서 '나의 찾기(Find My)' 기능을 활용할 수 있게 됐다. 5일 애플코리아에 따르면 애플은 2025년 봄에 '나의 찾기' 기능을 국내에 도입할 예정이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글 투자한 ASTS, 12일 저궤도 통신위성 발사]]></title>
             <link>https://zdnet.co.kr/view/?no=20240905105322</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240904090513</guid>
             <pubDate>Wed, 04 Sep 2024 02:07:54 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 국립금오공과대학(이하 금오공대)와 함께 오픈랜(Open RAN) 관련 개방화, 가상화, 지능화 기술 공동연구를 위한 업무협약을 체결했다고 4일 밝혔다. 이번 협약...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방심위 "텔레그램에 요청한 디지털성범죄물 25건 삭제"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240903170849</link>
-            <guid>https://zdnet.co.kr/view/?no=20240903170849</guid>
-            <pubDate>Tue, 03 Sep 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신심의위원회는 최근 텔레그램 측에 삭제 요청한 25건의 디지털성범죄영상물이 삭제됐다는 통보를 받았다고 3일 밝혔다. 방심위에 따르면 텔레그램은 이날 이메일을 보내 "최근 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
