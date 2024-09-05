@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 04:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 05:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 내년 R&D 87억원 투자…전년비 22.2%↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240905091010</link>
+            <guid>https://zdnet.co.kr/view/?no=20240905091010</guid>
+            <pubDate>Thu, 05 Sep 2024 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 개인정보 보호 기술 연구개발(R&amp;D)과 마이데이터 생태계 조성에 내년 예산 207억원을 투자한다. 안전한 정보 이용과 정보주체 권익에 힘쓸 방침이다. 개인정보보호위원회는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI '쿠데타' 주역 수츠케버, SSI 설립…10억 달러 투자 유치]]></title>
             <link>https://zdnet.co.kr/view/?no=20240905081723</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240904151113</guid>
             <pubDate>Wed, 04 Sep 2024 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA["레코디드퓨처는 전 세계에서 가장 많은 일반 웹, 다크웹, 기술 데이터를 보유하고 있습니다. 이를 인공지능(AI)으로 분류해 30개 넘는 언어로 분석할 수 있습니다. 사용자는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["제로트러스트, 선택 아닌 필수"…KISA, 컨설팅 지원 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240904143009</link>
-            <guid>https://zdnet.co.kr/view/?no=20240904143009</guid>
-            <pubDate>Wed, 04 Sep 2024 06:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA)이 과학기술정보통신부와 함께 공공·민간 분야에서 새로운 보안 패러다임인 제로트러스트를 단계적으로 확산시키기 위해 본격 나선다. KISA는 제로트러스트와...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
