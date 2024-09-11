@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 05:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 06:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이브, '2024 월드스마트시티 엑스포'서 기상 디지털트윈 선보여]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240911144007</link>
+            <guid>https://zdnet.co.kr/view/?no=20240911144007</guid>
+            <pubDate>Wed, 11 Sep 2024 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[바이브컴퍼니(대표 김성언, 이하 바이브)는 지난 3일부터 5일까지 3일간 고양 킨텍스에서 열린 '2024 월드 스마트시티 엑스포(WSCE 2024)'에서 스마트시티 기상·기후 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["쿠콘, '사업자 휴폐업 조회 API'로 관리 효율 ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20240911115539</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240910144528</guid>
             <pubDate>Tue, 10 Sep 2024 06:16:59 GMT</pubDate>
             <content:encoded><![CDATA[S2W가 랜섬웨어 대응 및 AI 기술력을 인정받아 '랜섬웨어 레질리언스 컨퍼런스'에 연사로 초청됐다. S2W는 용산 전쟁기념관에서 개최된 '랜섬웨어 레질리언스 컨퍼런스'에 양희...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타넷디엘, AI 기반 문서중앙화 솔루션 '솔메AI' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240910144022</link>
-            <guid>https://zdnet.co.kr/view/?no=20240910144022</guid>
-            <pubDate>Tue, 10 Sep 2024 06:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[메타넷디엘이 기업내 파편화된 정보를 효과적으로 관리·활용할 수 있는 솔루션을 선보인다. 메타넷디엘은 인공지능(AI) 기반 문서중앙화(ECM) 솔루션 '솔메(SOLME) AI'를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
