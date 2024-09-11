@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 04:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 05:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우체국 집배원 전화, 안심하고 받으세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240911132027</link>
+            <guid>https://zdnet.co.kr/view/?no=20240911132027</guid>
+            <pubDate>Wed, 11 Sep 2024 05:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부는 우체국을 사칭한 보이스피싱 피해를 예방하기 위해 집배원이 고객에게 전화를 걸면 발신자 정보를 휴대폰에 표시해 주는 발신자 표시 서비스를 지난 9일부터 시행 중이라...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세종네트웍스, 'AI 콜봇' 정식 출시..."AICC 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240911093828</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240910084803</guid>
             <pubDate>Tue, 10 Sep 2024 00:53:34 GMT</pubDate>
             <content:encoded><![CDATA[OTT 티빙이 11일 오후 2시에 시작되는 프로야구 신인 드래프트를 중계한다. 2025 KBO 신인 드래프트는 1라운드부터 11라운드까지 지명이 이어진다. 지난해 구단 순위 역...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰16 20일 국내 출시...추석연휴 예약판매 전쟁]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240910083927</link>
-            <guid>https://zdnet.co.kr/view/?no=20240910083927</guid>
-            <pubDate>Tue, 10 Sep 2024 00:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 선보인 아이폰16 시리즈가 오는 20일부터 국내에서 판매된다. 한국이 처음으로 아이폰 1차 출시 국가에 포함되면서, 신제품 행사 열흘 만에 국내서도 구입할 수 있게 됐다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
