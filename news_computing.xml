@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 03:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 04:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["쿠콘, '사업자 휴폐업 조회 API'로 관리 효율 ↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240911115539</link>
+            <guid>https://zdnet.co.kr/view/?no=20240911115539</guid>
+            <pubDate>Wed, 11 Sep 2024 04:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[사업자 휴폐업을 알아보기 위해 국세청 홈택스에서 거래처 사업자 등록 번호를 알아봐야 했던 번거로움을 없애주는 API가 나왔다. 쿠콘은 기업간거래(B2B) 기업의 고객사 관리 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[궁금한 개인정보 지식, 전문가가 알려드립니다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240911102934</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240910144022</guid>
             <pubDate>Tue, 10 Sep 2024 06:16:59 GMT</pubDate>
             <content:encoded><![CDATA[메타넷디엘이 기업내 파편화된 정보를 효과적으로 관리·활용할 수 있는 솔루션을 선보인다. 메타넷디엘은 인공지능(AI) 기반 문서중앙화(ECM) 솔루션 '솔메(SOLME) AI'를...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["신입의 패기 보여줘"… SK C&C 'AI' 이용해 신입 공채 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240910115135</link>
-            <guid>https://zdnet.co.kr/view/?no=20240910115135</guid>
-            <pubDate>Tue, 10 Sep 2024 06:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[SK C&amp;C가 지원자의 장점을 빠르게 파악하고 문제 분석 및 해결 역량을 검토하기 위해 신입 공개채용에 인공지능(AI)을 활용한다. SK C&amp;C는 하반기 신입 인재 채용 서류 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
