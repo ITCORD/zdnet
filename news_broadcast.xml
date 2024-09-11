@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 10:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방심위, 텔레그램 만난다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240911181854</link>
+            <guid>https://zdnet.co.kr/view/?no=20240911181854</guid>
+            <pubDate>Wed, 11 Sep 2024 10:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[방송통신심의위원회는 텔레그램과 조만간 양자 실무협의를 가질 예정이라고 11일 밝혔다. 방심위는 3일 텔레그램과 구축한 핫라인 채널을 통해 5일부터 텔레그램 측에 본격 요청하기 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[딥페이크 허위영상물은 죄가 가볍나]]></title>
             <link>https://zdnet.co.kr/view/?no=20240911172511</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240910093806</guid>
             <pubDate>Tue, 10 Sep 2024 02:09:29 GMT</pubDate>
             <content:encoded><![CDATA[이동통신 3사(SK텔레콤, KT, LG유플러스)는 추석 연휴 기간 안정적인 통신 서비스를 제공하고자 네트워크 집중 관리에 돌입했다. SK텔레콤은 추석 귀경길이 본격화되는 13일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ AI 사업 캠페인 모델에 차은우 발탁]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240910090440</link>
-            <guid>https://zdnet.co.kr/view/?no=20240910090440</guid>
-            <pubDate>Tue, 10 Sep 2024 02:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 전사 AI 전환(AX) 전략을 알리는 캠페인 모델에 배우 차은우를 발탁했다고 10일 밝혔다. LG유플러스는 전속 모델 차은우와 함께 익시오와 U+tv 능 AI 서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
