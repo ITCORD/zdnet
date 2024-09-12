@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 04:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 05:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공·금융 업무망서 생성형AI, SaaS 쓴다...다중보안체계 시장을 잡아라]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240912110949</link>
+            <guid>https://zdnet.co.kr/view/?no=20240912110949</guid>
+            <pubDate>Thu, 12 Sep 2024 05:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 기업이 공공·금융 보안정책 개선에 따라 다중보안체계(MLS)를 도입하는 업무망 환경을 안전하게 만드는 기술을 앞다퉈 제시했다. 국가정보원과 국가보안기술연구소는 11...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["정보 유출신고↑"…정부,  공공기관 정보접근 문턱 높인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240912083448</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240911144007</guid>
             <pubDate>Wed, 11 Sep 2024 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA[바이브컴퍼니(대표 김성언, 이하 바이브)는 지난 3일부터 5일까지 3일간 고양 킨텍스에서 열린 '2024 월드 스마트시티 엑스포(WSCE 2024)'에서 스마트시티 기상·기후 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["쿠콘, '사업자 휴폐업 조회 API'로 관리 효율 ↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240911115539</link>
-            <guid>https://zdnet.co.kr/view/?no=20240911115539</guid>
-            <pubDate>Wed, 11 Sep 2024 04:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[사업자 휴폐업을 알아보기 위해 국세청 홈택스에서 거래처 사업자 등록 번호를 알아봐야 했던 번거로움을 없애주는 API가 나왔다. 쿠콘은 기업간거래(B2B) 기업의 고객사 관리 업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
