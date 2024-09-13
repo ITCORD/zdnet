@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 00:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 02:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 기업 데이터 분석의 새로운 패러다임, 생성형 BI]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240913102145</link>
+            <guid>https://zdnet.co.kr/view/?no=20240913102145</guid>
+            <pubDate>Fri, 13 Sep 2024 02:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 AI열풍이다. 기업에서는 업무 전반에 인공지능(AI) 특히, 대규모 언어모델(LLM)을 적용하거나 새로운 비즈니스 기회를 창출하는 시도가 활발하게 이루어지고 있다.LLM은 언어 모델이기 때문에 주로 비정형 텍스트 문서를 기반으로 AI 활용을 모색하고 있다. LLM의 단점을 보완하기 위해 검색 증강 생성(RAG) 아키텍처를 적용하는 경우도 많다.다만, 기업의 중요한 정보는 비정형(un...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/13/cee223e15075f720af5dbde4cd3f6055.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 의료AI R&D 로드맵과 개인정보보호]]></title>
             <link>https://zdnet.co.kr/view/?no=20240909232722</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Jul 2024 06:17:52 GMT</pubDate>
             <content:encoded><![CDATA[최근 베트남의 수도 하노이를 다녀왔다. 코로나 팬데믹으로 인해 한동안 베트남을 방문하지 못했다. 그런데 최근 베트남에서 잇달아 들려오는 흥미진진한 한국 관련 뉴스는 나의 호기심을 자극하기에 충분했다. '백문이 불여일견(百聞不如一見)'이라고 직접 확인을 해보고 싶어서 하노이로 날아갔다.베트남 전쟁이라는 아픈 역사를 뒤로하고 지난 1992년 정식 외교관계를 맺은 한국과 베트남은 경...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이랜서 칼럼] 인생 설계도 백로그(Backlog)처럼]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240701074440</link>
-            <guid>https://zdnet.co.kr/view/?no=20240701074440</guid>
-            <pubDate>Mon, 01 Jul 2024 09:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[[이랜서칼럼]은 ‘IT를 기반으로 자유롭게 일하는 21세기형 전문가를 지칭하는 ‘이랜서’(e-Lancer)들이 21세기형 일과 생활에 대한 인사이트와 노하우를 공유하는 장입니다.미래 불확실성으로 막연한 불안을 느끼는 사람들이 많다. 특히 미혼 여성은 결혼과 가정을 꾸리고 싶어도 결혼으로 인한 새로운 인생 무게감과 불확실성 때문에 결정을 미루기 쉽다. 이러한 무게감에 먼저 압도되어 현명한 삶의...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/21/baa1a731b8ccb2a5a1c0818bf94fd2c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
