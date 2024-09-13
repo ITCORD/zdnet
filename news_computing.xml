@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 23:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 00:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, AI 추론의 새 시대 연다…'o1' 전격 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240913083316</link>
+            <guid>https://zdnet.co.kr/view/?no=20240913083316</guid>
+            <pubDate>Fri, 13 Sep 2024 00:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 인공지능(AI) 추론 능력을 대폭 강화한 새로운 모델 'o1'을 출시했다. 오픈AI 블로그는 새로운 AI 모델 'o1'이 이전 모델들보다 복잡한 질문에 정확하게 대답...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] AI 기본법 제정, 정부·시민사회 '맞손']]></title>
             <link>https://zdnet.co.kr/view/?no=20240912174435</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240911101142</guid>
             <pubDate>Thu, 12 Sep 2024 02:09:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털플랫폼정부(DPG)의 IT시스템 '디지털플랫폼정부 통합플랫폼(일명 DPG허브)'을 구축할 사업자를 공모한 결과, 삼성SDS와 KT 두 기업이 응모했다. 사업 규모가 약 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미스트랄AI, 텍스트·이미지 한번에 처리하는 멀티모달 AI 선보여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912094608</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912094608</guid>
-            <pubDate>Thu, 12 Sep 2024 00:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 스타트업 미스트랄AI가 이미지와 텍스트를 동시에 처리할 수 있는 멀티모달 인공지능(AI)을 선보였다. 12일 외신에 따르면 미스트랄은 미국 샌프란시스코에서 개최한 AI ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
