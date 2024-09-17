@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Sep 2024 21:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 22:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴 마지막날…유통가 추석 이벤트 즐기면 어떨까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240913142316</link>
+            <guid>https://zdnet.co.kr/view/?no=20240913142316</guid>
+            <pubDate>Tue, 17 Sep 2024 22:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[유통업계가 긴 추석 연휴를 맞아 가족 단위 고객을 겨냥한 각종 이벤트를 쏟아내고 있다. 신세계프라퍼티에 따르면 스타필드는 각 지점에서 온 가족을 대상으로 한 다양한 행사를 진행...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/13/ab8050dff3e2f46f30ec3c595b208a61-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유상임 장관, 북한 불법 핵·미사일 프로그램 강력 규탄]]></title>
             <link>https://zdnet.co.kr/view/?no=20240917215915</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240917102409</guid>
             <pubDate>Tue, 17 Sep 2024 07:10:38 GMT</pubDate>
             <content:encoded><![CDATA[어세룡 인스웨이브시스템즈 대표가 회사 주식을 기술 임원에게 무상 증여한다. 인스웨이브 최대 주주인 어 대표는 자신이 보유한 주식 6.1%인 90만 주를 김욱래 최고기술책임자(C...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/17/62364bf03cc3c9fc49805257f473bfa6-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[北 해커, 암호화폐·금융인 링크드인에 악성코드 배포]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240917070345</guid>
             <pubDate>Mon, 16 Sep 2024 22:10:25 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 반도체지원법(CHIPS Act)에 따라 인텔에 30억 달러(약 3조 9천960억원) 규모 보조금을 추가 지원한다고 밝혔다. 이번에 추가 확정된 30억 달러 규모 보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔-AWS, 다년간 AI 반도체 공동 개발 계약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240917060206</link>
-            <guid>https://zdnet.co.kr/view/?no=20240917060206</guid>
-            <pubDate>Mon, 16 Sep 2024 22:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[인텔과 아마존웹서비스(AWS)가 16일(미국 현지시간) 앞으로 수 년간 인텔 반도체 설계·생산 역량을 활용한 맞춤형 AI 반도체 생산에 합의했다고 밝혔다. 인텔은 이번 합의에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
