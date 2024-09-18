@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 04:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 05:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI 'o1'로 AGI 시대 성큼…"정부·기업, 개발 투명성 고려 필수"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240918100653</link>
+            <guid>https://zdnet.co.kr/view/?no=20240918100653</guid>
+            <pubDate>Wed, 18 Sep 2024 05:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 데이터 기반으로 답하는 것을 넘어 실제 추론까지 하는 생성형 인공지능(AI) 모델을 공개하면서 일반인공지능(AGI) 시대를 향해 한 걸음 더 나아갔다는 평가를 받는다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기고] AI 시대의 현명한 개인정보 활용 방법]]></title>
             <link>https://zdnet.co.kr/view/?no=20240913140150</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240913131411</guid>
             <pubDate>Fri, 13 Sep 2024 08:15:12 GMT</pubDate>
             <content:encoded><![CDATA[래브라도랩스(대표 김진석 이희조)가 미국 사이버보안·인프라보호청(CISA)이 주최하는 글로벌 소프트웨어 공급망 보안 행사 'SBOM-a-Rama'에서 'SW 공급망 자동관리플랫...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셈, 국내 대형 카드사에 '엑셈원' 대규모 공급 계약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240913155844</link>
-            <guid>https://zdnet.co.kr/view/?no=20240913155844</guid>
-            <pubDate>Fri, 13 Sep 2024 07:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[IT 통합 성능관리 전문기업 엑셈(대표 조종암, 고평석)은 국내 대형 카드사에 IT 시스템 통합 모니터링 솔루션 '엑셈원(exemONE)'의 대규모 공급 계약을 체결했다고 13...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
