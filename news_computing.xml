@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 00:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 02:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI 시대의 현명한 개인정보 활용 방법]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240913140150</link>
+            <guid>https://zdnet.co.kr/view/?no=20240913140150</guid>
+            <pubDate>Wed, 18 Sep 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[산업혁명 시대에는 석탄과 석유가 경제 성장을 주도하는 핵심 자원이었지만 오늘날에는 데이터가 그 자리를 차지하고 있다고 해도 과언이 아니다. 데이터는 이제 새로운 시대의 석유로 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MIT 박사·삼성 최연소 임원이 AI 기업 '투플랫폼' 세운 이유는]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240917201254</link>
+            <guid>https://zdnet.co.kr/view/?no=20240917201254</guid>
+            <pubDate>Wed, 18 Sep 2024 02:09:57 GMT</pubDate>
+            <content:encoded><![CDATA["인간과 인공지능(AI) 간의 상호작용을 혁신하고자 하는 마음이 저를 이끌었습니다. 둘 사이의 관계를 새롭게 정의해 인류 모두를 위한 AI를 실현하는 것이 우리의 최종 목표입니...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[新무기 장착한 세일즈포스, MS 제치고 기업용 AI 시장 '왕좌' 차지할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240918081058</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240913155844</guid>
             <pubDate>Fri, 13 Sep 2024 07:13:11 GMT</pubDate>
             <content:encoded><![CDATA[IT 통합 성능관리 전문기업 엑셈(대표 조종암, 고평석)은 국내 대형 카드사에 IT 시스템 통합 모니터링 솔루션 '엑셈원(exemONE)'의 대규모 공급 계약을 체결했다고 13...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["추론하는 법 배웠다"…오픈AI 'o1' 출시에 국내 업계 반응은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240913141619</link>
-            <guid>https://zdnet.co.kr/view/?no=20240913141619</guid>
-            <pubDate>Fri, 13 Sep 2024 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 데이터 기반으로 답하는 것을 넘어 실제 추론까지 하는 생성형 인공지능(AI) 모델을 공개한 가운데, 생각의 사슬(CoT) 기법을 통한 추론 기술 고도화가 AI 업계에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성민네트웍스, 의료 CRM으로 美 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240913125127</link>
-            <guid>https://zdnet.co.kr/view/?no=20240913125127</guid>
-            <pubDate>Fri, 13 Sep 2024 05:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[성민네트웍스가 의료 고객관리시스템(CRM) 솔루션을 미국에서 인정 받았다. 성민네트웍스는 미국 건강보험 정보 보호법(HIPAA) 인증을 획득했다고 13일 발표했다. 인증을 통해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

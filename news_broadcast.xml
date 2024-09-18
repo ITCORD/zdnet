@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 00:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 02:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이메시지-안드로이드 문자 장벽 무너졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240918103648</link>
+            <guid>https://zdnet.co.kr/view/?no=20240918103648</guid>
+            <pubDate>Wed, 18 Sep 2024 02:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 iOS18를 출시하면서, 아이폰과 안드로이드 스마트폰 이용자 간의 문자 장벽이 마침내 허물어졌다. 폐쇄정책의 아이콘으로 불리는 애플은 아이메시지에 RCS 연동을 거부해왔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[책임감 있는 AI...글로벌 통신사 표준 로드맵 나왔다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240918074926</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240912111748</guid>
             <pubDate>Thu, 12 Sep 2024 03:13:43 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신기술협회(TTA)는 FIDO얼라이언스와 말레이시아에서 열린 2024 FIDO APAC 서밋에서 생체인식 인증서 상호인정을 위한 양해각서를 체결했다고 12일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK브로드밴드, 추석 연휴 맞아 B tv+ '추석 플레이' 편성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912110326</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912110326</guid>
-            <pubDate>Thu, 12 Sep 2024 03:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 추석을 맞아 B tv에 영화, 키즈, 노래방, B tv+ 등 다양한 장르별 이벤트를 담은 '추석 플레이'를 편성했다고 12일 밝혔다. B tv 추석 플레이는 영...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
