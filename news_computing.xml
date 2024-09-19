@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 23:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 00:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공 마이데이터로 서류 인쇄 없이 보험 청구 가능해진다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919093558</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919093558</guid>
+            <pubDate>Thu, 19 Sep 2024 00:54:17 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 공공 마이데이터를 활용해 자동차 사고 보상 청구 과정에서 갖춰야 할 서류들을 제출할 수 있게 된다. '공공 마이데이터 본인 정보 제공 요구'와 모바일 본인인증에 동의하면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["美 인프라 털릴 뻔"…FBI, 中 해킹 공격 막고 기기 수천대 복구]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919082215</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919082215</guid>
+            <pubDate>Thu, 19 Sep 2024 00:54:17 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 중국 해킹 그룹 '플랙스 타이푼' 사이버 공격을 막고 감염된 기기 수천 대를 복구한 것으로 전해졌다. 19일 CNN 등 외신에 따르면 미국 연방수사국(FBI) 크리스토퍼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[링크드인, AI 훈련에 데이터 무단 수집 '논란']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919090702</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919090702</guid>
+            <pubDate>Thu, 19 Sep 2024 00:54:17 GMT</pubDate>
+            <content:encoded><![CDATA[링크드인이 인공지능(AI) 모델 훈련을 위해 사용자 데이터를 수집하고 활용하면서도 이에 대한 명확한 사전 동의 절차를 거치지 않았다는 의혹이 제기됐다. 19일 테크크런치에 따르...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 인프라 구축 경쟁 가열…블랙록 손잡은 MS, 40조 투입해 '이것' 만든다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919092127</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919092127</guid>
+            <pubDate>Thu, 19 Sep 2024 00:54:17 GMT</pubDate>
+            <content:encoded><![CDATA['챗GPT' 등장 후 인공지능(AI) 기술 고도화를 위한 인프라 구축 경쟁이 활발해진 가운데 마이크로소프트(MS)가 세계 최대 자산운용사 블랙록과 손잡고 대규모 자금 마련에 나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[승인 2주 앞둔 AI 안전법에 美 캘리포니아 주지사 "AI 문제 해결 못해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240918151015</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240916052247</guid>
             <pubDate>Mon, 16 Sep 2024 00:56:39 GMT</pubDate>
             <content:encoded><![CDATA[애플 비전 프로에서 사용자의 시선을 추적해 개인정보 등 민간한 데이터를 탈취할 수 있는 보안 취약점이 공개됐다. 16일 해커뉴스 등 외신에 따르면 보안기업 서티K와 플로리다 대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타 "英 페북·인스타 게시물 AI 학습 활용"...정부, 승인 거부]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240915102626</link>
-            <guid>https://zdnet.co.kr/view/?no=20240915102626</guid>
-            <pubDate>Sun, 15 Sep 2024 04:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 영국 내 페이스북과 인스타그램 게시물을 생성형 인공지능(AI) 모델 훈련에 사용할 계획을 밝혔다. 이에 규제 당국은 사용자가 이를 거부할 수 있는 옵션이 필요하다며 승인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도커, 11월 구독 비용 최대 80% 인상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240915011826</link>
-            <guid>https://zdnet.co.kr/view/?no=20240915011826</guid>
-            <pubDate>Sun, 15 Sep 2024 00:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[컨테이너 플랫폼 도커의 서비스 비용이 오는 11월 최대 80% 인상된다. 14일 데브클래스 등 외신에 따르면 도커의 기리 스리니바스 최고제품책임자(CPO)는 도커 공식 홈페이지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금보원 "카톡으로 모바일 신분증 발급하세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240913175042</link>
-            <guid>https://zdnet.co.kr/view/?no=20240913175042</guid>
-            <pubDate>Sat, 14 Sep 2024 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 카카오톡이나 네이버 등 민간 플랫폼으로 모바일 신분증 발급이 가능해진다. 금융보안원은 행정안전부, 한국정보통신기술협회(TTA)와 손잡고 모바일 신분증 민간개방을 위한 평...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[래리 엘리슨, 갑부순위 2위…베조스도 제쳤다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240914073327</link>
-            <guid>https://zdnet.co.kr/view/?no=20240914073327</guid>
-            <pubDate>Fri, 13 Sep 2024 23:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[오라클 주가가 초강세를 보이면서 래리 엘리슨 회장이 한 때 갑부 순위 2위에 이름을 올렸다. 13일(현지시간) 장 개장 직후 오라클 주가가 상승하면서 래리 엘리슨의 자산 가치가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
