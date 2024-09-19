@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 05:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓-美, "가정용 GPU로 기존 104배 넘는 초고효율 AI학습 가속기술 개발"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919144241</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919144241</guid>
+            <pubDate>Thu, 19 Sep 2024 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[PC방이나 가정용 GPU를 이용해 고속 네트워크 없이도 AI학습 성능을 최대 104배까지 끌어 올릴 수 있는 획기적인 기술이 개발됐다. KAIST는 전기및전자공학부 한동수 교수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹, KT 최대주주 올랐다...정부 공익성 심사 통과]]></title>
             <link>https://zdnet.co.kr/view/?no=20240919113326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240912180716</guid>
             <pubDate>Thu, 12 Sep 2024 10:13:10 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 시대를 맞이해 통신과 AI 간의 새로운 경쟁력을 모색해야한다는 전문가들의 제언이 나왔다. 이에 산업계와 전문가들은 'AI 미래가치 포럼'을 발족했다. 통신산업의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 인터넷 장애 보상 발표..."소상공인 1개월치 이용료 감면"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912170031</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912170031</guid>
-            <pubDate>Thu, 12 Sep 2024 08:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드가 지난 5일 발생한 인터넷 및 IPTV 서비스 장애를 겪은 가입자들을 위한 보상안을 12일 발표했다. 앞서 지난 5일 오후 4시57분부터 저녁 9시58분까지 특정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
