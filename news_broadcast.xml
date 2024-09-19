@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 02:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 03:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹, KT 최대주주 올랐다...정부 공익성 심사 통과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919113326</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919113326</guid>
+            <pubDate>Thu, 19 Sep 2024 03:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 현대차그룹의 KT 최대주주 지위를 인정하기로 했다. 과학기술정보통신부는 전기통신사업법에 따른 공익성심사를 실시한 결과 공익성심사위원회가 KT의 최대주주 변경이 공공의 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[법무법인 세종, 성균관대 인공지능신뢰성센터와 맞손]]></title>
             <link>https://zdnet.co.kr/view/?no=20240919105807</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240912170031</guid>
             <pubDate>Thu, 12 Sep 2024 08:14:58 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드가 지난 5일 발생한 인터넷 및 IPTV 서비스 장애를 겪은 가입자들을 위한 보상안을 12일 발표했다. 앞서 지난 5일 오후 4시57분부터 저녁 9시58분까지 특정...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 인터넷 장애에 "소상공인 1개월치 이용료 감면"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240912154950</link>
-            <guid>https://zdnet.co.kr/view/?no=20240912154950</guid>
-            <pubDate>Thu, 12 Sep 2024 08:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 지난 5일 발생한 인터넷 및 IPTV 서비스 장애를 겪은 가입자들을 위한 보상안을 발표했다. 앞서 지난 5일 오후 4시57분부터 저녁 9시58분까지 특정 제조사 무선공유...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
