@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 09:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥페이크 범죄 '급증'…글로벌 테크 기업 대응 나섰다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919152535</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919152535</guid>
+            <pubDate>Thu, 19 Sep 2024 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[최근 딥페이크 성범죄와 허위 뉴스 영상 제작이 급격히 증가하면서 이를 탐지·대응하는 기술이 주목받고 있다. 국내외에서 딥페이크 범죄가 사회적 문제로 떠오르자 관련 기업들의 움직...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[행안부, 디지털 재난 대응 체계 강화 위한 회의 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20240919150122</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240919090702</guid>
             <pubDate>Thu, 19 Sep 2024 00:54:17 GMT</pubDate>
             <content:encoded><![CDATA[링크드인이 인공지능(AI) 모델 훈련을 위해 사용자 데이터를 수집하고 활용하면서도 이에 대한 명확한 사전 동의 절차를 거치지 않았다는 의혹이 제기됐다. 19일 테크크런치에 따르...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 인프라 구축 경쟁 가열…블랙록 손잡은 MS, 40조 투입해 '이것' 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240919092127</link>
-            <guid>https://zdnet.co.kr/view/?no=20240919092127</guid>
-            <pubDate>Thu, 19 Sep 2024 00:54:17 GMT</pubDate>
-            <content:encoded><![CDATA['챗GPT' 등장 후 인공지능(AI) 기술 고도화를 위한 인프라 구축 경쟁이 활발해진 가운데 마이크로소프트(MS)가 세계 최대 자산운용사 블랙록과 손잡고 대규모 자금 마련에 나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
