@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 07:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 08:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 액체 냉각, AI를 위한 최적의 냉각 방식]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240920161140</link>
+            <guid>https://zdnet.co.kr/view/?no=20240920161140</guid>
+            <pubDate>Fri, 20 Sep 2024 08:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)은 현재 가장 많은 컴퓨팅 자원을 소모하는 워크로드 중 하나로, 사용량 증가에 따라 AI 시스템의 전력 소비와 에너지 비용이 급격히 증가하고 있다.국제에너지기구(IEA)에 따르면 전 세계 데이터센터는 2022년에 전체 전력의 2%를 사용했으며 2026년까지 이 비율이 두 배 이상 증가할 것으로 예측된다.차세대 가속기에서 효율성이 개선됐지만, AI 도입이 늘어나면서 전력 소비는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/20/fc9010b21f375370b96bc7e32665bc51.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유니콘팜-스타트업위, 혁신의 정원서 꿈의 기업 키운다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240920113807</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 09 Jul 2024 00:48:45 GMT</pubDate>
             <content:encoded><![CDATA[2020 도쿄 올림픽(2021년), 약 30억 명의 시청자가 글로벌 방송 시스템을 통해 시청. 2022 베이징 동계 올림픽, 전 세계 20억 명 이상이 시청.올여름 개최될 2024 파리 올림픽 때는 더 많은 시청률이 기대되는데, 이는 1964년부터 위성이 사용된 이후 처음으로 라이브 클라우드 방송이 위성을 대신해 실시간 방송 신호 전송을 책임질 것이기 때문이다.이처럼 정보기술은 전 세계 시청...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/07/09/9a456ee365a9589ddbb49014404b50b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[곽노건 교수의 웹3 ⑩] 웹3 칼럼을 끝내며]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240703104029</link>
-            <guid>https://zdnet.co.kr/view/?no=20240703104029</guid>
-            <pubDate>Wed, 03 Jul 2024 01:58:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난 칼럼에서 웹3의 미래에 대해 의견을 드렸습니다. 웹3 도입과 활용이 급물살을 탈 것으로 전망 되지만 그 과정에서 중단되고, 사라지고, 가치의 유동성이 매우 클 것이 예상되어 충분한 이해와 연습, 꾸준한 정보 확인이 필요하다고 말씀드렸습니다.오늘은 10회 연재로 시작한 웹3 컬럼을 끝내는 시간입니다. 코인과 NFT라는 가상자산 시장으로 인해 불신과 불안이 가득하고 아직도 모호하고 잘 이해...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/03/51dcb09228db491b241048ced4f8397d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
