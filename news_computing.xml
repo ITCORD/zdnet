@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 05:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 06:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우데라, 클라우드 보안 강화 위한 '프라이빗 링크 네트워크' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240919165422</link>
+            <guid>https://zdnet.co.kr/view/?no=20240919165422</guid>
+            <pubDate>Fri, 20 Sep 2024 06:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[클라우데라가 기업들의 데이터 보안을 강화하는 동시에 비용을 절감하고 효율적인 워크로드 관리를 돕기 위한 새로운 솔루션으로 시장 공략에 나선다. 클라우데라는 클라우드 환경에서 데...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[유미's 픽] 배터리 화재로 '카톡 먹통' 또 될라…데이터센터, '열폭주' 방지 안간힘]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240920144222</link>
+            <guid>https://zdnet.co.kr/view/?no=20240920144222</guid>
+            <pubDate>Fri, 20 Sep 2024 06:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[SK C&amp;C 데이터센터 화재로 인한 '카카오톡 먹통' 사태가 발생한 지 어느덧 2년여가 된 가운데 원인이 된 리튬이온배터리를 활용하고 있는 업체들의 대응 방안에 관심이 쏟아지고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 억만장자 CEO "AI가 일자리 대체 안한다는 '헛소리' 그만"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240920121734</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240919095825</guid>
             <pubDate>Thu, 19 Sep 2024 02:11:51 GMT</pubDate>
             <content:encoded><![CDATA[네이버클라우드가 금융권의 보안 우려를 해소하면서도 생성 AI를 안전하게 도입할 방안을 제시했다. 네이버클라우드는 자체적으로 개발한 거대언어모델(LLM)의 경량화 버전인 '하이퍼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 11월 글로벌 AI 안전 연구소 회담 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240919074119</link>
-            <guid>https://zdnet.co.kr/view/?no=20240919074119</guid>
-            <pubDate>Thu, 19 Sep 2024 02:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[바이든 미국 대통령이 국제 인공지능(AI) 안전 연구소 네트워크의 첫 번째 회의를 개최한다. 다음 해 2월 프랑스 파리에서 열리는 'AI 액션 서밋'에 앞서 기술 협력에 나서는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안전성 논란 C++, 메모리 버그 해결 방안 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240919100445</link>
-            <guid>https://zdnet.co.kr/view/?no=20240919100445</guid>
-            <pubDate>Thu, 19 Sep 2024 02:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[메모리 버그로 인한 안정성 문제로 대체가 요구되는 C++측에서 반격에 나섰다. 9일 더레지스터 등 외신에 따르면 개발 커뮤니티 C++얼라이언스는 C++의 메모리 안전성을 보장하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
