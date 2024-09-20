@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 04:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 05:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 억만장자 CEO "AI가 일자리 대체 안한다는 '헛소리' 그만"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240920121734</link>
+            <guid>https://zdnet.co.kr/view/?no=20240920121734</guid>
+            <pubDate>Fri, 20 Sep 2024 05:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 한 억만장자 테크 기업가가 인공지능(AI)이 일자리를 없애지 않을 것이라는 기업의 말은 '헛소리(BS)'라는 의견을 밝혔다. 20일 CNBC에 따르면 짐 카바나 월드 와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존, AI 비서 '아멜리아'로 판매자 지원 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20240920103008</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240919100445</guid>
             <pubDate>Thu, 19 Sep 2024 02:11:51 GMT</pubDate>
             <content:encoded><![CDATA[메모리 버그로 인한 안정성 문제로 대체가 요구되는 C++측에서 반격에 나섰다. 9일 더레지스터 등 외신에 따르면 개발 커뮤니티 C++얼라이언스는 C++의 메모리 안전성을 보장하...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['7兆 적자' 예고된 오픈AI, 교육 시장서 수익 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240919103511</link>
-            <guid>https://zdnet.co.kr/view/?no=20240919103511</guid>
-            <pubDate>Thu, 19 Sep 2024 02:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 인공지능(AI)에 대한 부정적 인식을 불식시키고 올바른 사용을 유도하기 위해 교육 사업 강화에 나선다. 올해 50억 달러(약 7조원)의 적자가 예고된 상황에서 교육 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
