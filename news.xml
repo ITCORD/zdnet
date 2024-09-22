@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 11:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 12:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG화학, 日 도요타·파나소닉 합작사에 양극재 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240922205955</link>
+            <guid>https://zdnet.co.kr/view/?no=20240922205955</guid>
+            <pubDate>Sun, 22 Sep 2024 12:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[LG화학은 토요타 자동차와 파나소닉 일본 합작법인 프라임 플래닛 에너지&amp;솔루션(이하 PPES)에 양극재를 공급한다고 22알 밝혔다 PPES는 일본 배터리 제조사 중 하나로 토요...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/22/ebb35fc8da14ba5cb42106ea5fe20206-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["삼성과 AI 격차 더 벌어지나"…애플, EU AI법 '자발적 준수 협약' 불참할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20240922180939</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240922094049</guid>
             <pubDate>Sun, 22 Sep 2024 08:14:11 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 인공지능(AI) 데이터 센터 전기 수요를 충족하기 위해 핵발전에 나섰다. 22일 BBC에 따르면 마이크로소프트는 미국의 쓰리마일 아일랜드(Three Miles ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/22/74c636fd6343c9241715c549f2682523-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구글 CEO "AI 교육에 1억2천만 달러 기부할 것"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240922121104</guid>
             <pubDate>Sun, 22 Sep 2024 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[HD현대마린솔루션은 최근 중동 소재 선사로부터 3천700만 달러(약 494억원) 규모의 '축 발전 시스템' 공급 계약을 체결했다고 22일 밝혔다. 시스템은 액화천연가스(LNG)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스트레스DSR 2단계 시행…"대출한도 약 10% 줄어"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240922111456</link>
-            <guid>https://zdnet.co.kr/view/?no=20240922111456</guid>
-            <pubDate>Sun, 22 Sep 2024 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[이달 1일부터 스트레스 총부채원리금상환비율(DSR) 2단계 시행 이후 대출 한도가 DSR 1단계 적용 때보다 약 10% 가량 감소하는 것으로 조사됐다. 스트레스DSR 1단계는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
