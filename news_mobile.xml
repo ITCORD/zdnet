@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 04:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 05:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노트북 내장 그래픽 성능 향상에 외장 GPU '개점휴업']]></title>
+            <link>https://zdnet.co.kr/view/?no=20240920154357</link>
+            <guid>https://zdnet.co.kr/view/?no=20240920154357</guid>
+            <pubDate>Sun, 22 Sep 2024 05:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[노트북용 프로세서 경쟁은 코어 수와 IPC(클록당 실행 명령어 수), 전력 효율 등 CPU 뿐만 아니라 GPU 분야에서도 치열하게 진행 중이다. AI PC에서 클라우드 도움 없...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아프리카로 몰리는 中, 스마트폰 이어 태블릿 시장도 노린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20240920174253</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240920081727</guid>
             <pubDate>Fri, 20 Sep 2024 00:54:25 GMT</pubDate>
             <content:encoded><![CDATA[애플이 내년 이후 출시할 아이폰17, 아이폰18 시리즈에 탑재할 프로세서에 대한 정보가 나왔다. 폰아레나 등 주요 외신들은 19일(현지시간) 애플 전문 분석가 궈밍치의 전망을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰16 시리즈, 배터리 용량 공개됐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240920074623</link>
-            <guid>https://zdnet.co.kr/view/?no=20240920074623</guid>
-            <pubDate>Fri, 20 Sep 2024 00:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 최근 선보인 아이폰16 시리즈의 정확한 배터리 용량 정보가 공개됐다. IT매체 맥루머스는 19일(현지시간) 브라질 국가통신국 아나텔(Anatel)에 공개된 정보를 인용해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
