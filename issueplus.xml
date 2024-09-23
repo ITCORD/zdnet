@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 07:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC 닮아가는 인텔…삼성은 턴키 전략 고수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240922015740</link>
+            <guid>https://zdnet.co.kr/view/?no=20240922015740</guid>
+            <pubDate>Mon, 23 Sep 2024 08:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 인텔 파운드리 분사 파장(상)]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/08/04/a8e8ec0228158572ccbb661f632301b8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 인텔·日 라피더스, 파운드리 사업 사실상 실패?]]></title>
             <link>https://zdnet.co.kr/view/?no=20240913132446</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 01 Jul 2024 03:13:47 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 국내 DSP 업체 해외 시장 진출 전성 시대(하)]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/05/07/9fa052d586194c65981e2e5194eb5016-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 파운드리, DSP와 손잡고 '해외 고객사 확보' 시너지 노린다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240503150211</link>
-            <guid>https://zdnet.co.kr/view/?no=20240503150211</guid>
-            <pubDate>Mon, 01 Jul 2024 03:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 국내 DSP 업체 해외 시장 진출 전성 시대(상)]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/05/15/insight_FnltZgPITMro-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
