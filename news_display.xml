@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 06:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 07:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니세미컨덕터솔루션, 0.44인치 OLED 디스플레이 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240924152559</link>
+            <guid>https://zdnet.co.kr/view/?no=20240924152559</guid>
+            <pubDate>Tue, 24 Sep 2024 07:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[소니세미컨덕터솔루션이 24일 AR(증강현실) 글래스용 0.44인치 OLED 마이크로 디스플레이 'ECX350F'를 출시했다. ECX350F는 기존 제품인 ECX348E 대비 화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ams OSRAM, 'TMF8806' dToF 센서 모듈 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20240924125211</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240923104701</guid>
             <pubDate>Mon, 23 Sep 2024 02:15:10 GMT</pubDate>
             <content:encoded><![CDATA[혼성신호 시스템반도체 SoC(시스템온칩) 전문기업 아이언디바이스가 코스닥 상장 첫날인 23일 장 초반 공모가의 2배를 기록하는 데 성공했다. 코스닥시장에서 아이언디바이스는 오전...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, 서버·임베디드 지원하는 FIPS 140-3 인증 TPM 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240923103604</link>
-            <guid>https://zdnet.co.kr/view/?no=20240923103604</guid>
-            <pubDate>Mon, 23 Sep 2024 02:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST) 암호화 모듈 STSAFE-TPM(Trusted Platform Module)이 세계 최초로 FIPS 140-3 인증을 획득했다. 새로 인증된...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
