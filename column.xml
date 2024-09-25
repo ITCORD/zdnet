@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 06:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 보안 감시 영상 유출 우려 확산, 어떻게 대비할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240925115634</link>
+            <guid>https://zdnet.co.kr/view/?no=20240925115634</guid>
+            <pubDate>Wed, 25 Sep 2024 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국방부가 전방 부대에 설치한 감시·경계용 IP 카메라가 중국산으로 밝혀지자 이를 전면 철거한 바 있다. 이를 시작으로 한국 내 공공기관에서 외국산 보안 영상 감시 시스템의 영상 유출 우려 등 보안 우려가 커지고 있는 상황이다.시놀로지는 전 세계 수십만 고객 대상으로 영상 보안 감시 시스템을 배포/구축한 경험을 바탕으로 기관과 기업이 각기 다른 보안 위험과 그에 따른 피해 정도를 고려하여...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/07/18/7e31e62455ec11a97b2cffdb63053404.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상대방에게 나를 알리는 스마트한 방법]]></title>
             <link>https://zdnet.co.kr/view/?no=20240923164042</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Jul 2024 02:07:45 GMT</pubDate>
             <content:encoded><![CDATA[정부 부처중 한 곳인 개인정보보호위원회가 지난 17일 'AI 개발·서비스를 위한 공개된 개인정보 처리 안내서'를 발표했다. 이는 AI기술 발전과 개인정보 보호 사이의 균형점을 제시한 중요한 이정표로 평가된다.AI기술 발전을 위해서는 방대한 양의 데이터가 필요하다. 특히 '챗GPT(ChatGPT)'나 국내 '하이퍼클로바X'와 같은 대규모 언어모델(LL...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/05/23/f3d4d798aa521c9fc9c0ad323058a928.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["멈출 수 없다면 가두세요, 당신의 디지털 욕망"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240711173846</link>
-            <guid>https://zdnet.co.kr/view/?no=20240711173846</guid>
-            <pubDate>Thu, 11 Jul 2024 09:14:03 GMT</pubDate>
-            <content:encoded><![CDATA['스마트워치'가 손목을 감싼다. 양쪽 귀는 '블루투스 이어폰'으로 채워진다. 습한 폭염에 '넥밴드 선풍기'는 필수다. 주문해 둔 '스마트선글라스'는 골전도 이어폰이 내장됐다. '태양이 싫었던' 자의 귓구멍은 머잖아 자유로와지리라. 엄지와 중지, 약지로 우아하게 쥔 '스마트폰'은 현대인 갑옷의 완성이다.디지털...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/11/5dc39e4e97f21611c16a038361b559c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
