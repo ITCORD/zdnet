@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 07:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 08:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 "제온6, AI·HPC 데이터센터에 최적 제품"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240926154514</link>
+            <guid>https://zdnet.co.kr/view/?no=20240926154514</guid>
+            <pubDate>Thu, 26 Sep 2024 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA["현재 AI 관련 처리 시장이 주로 GPU에 주목하고 있지만 AI는 여전히 초기 단계이며 CPU 역시 GPU 못지 않게 다양한 작업을 처리한다. 엔터프라이즈 데이터베이스, 대형...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, TSMC OIP에서 1cnm DDR5 최초 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20240926153633</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240925090342</guid>
             <pubDate>Wed, 25 Sep 2024 00:56:55 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 24일(미국 현지시간) 고성능 P(퍼포먼스) 코어만 모은 제온6 6900P 프로세서와 가우디3(Gaudi 3) AI 가속기를 출시했다. 인텔은 지난 해 제온 프로세서 라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울반도체 '노 와이어 LED 특허' 유럽 전역에서 승소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240925083955</link>
-            <guid>https://zdnet.co.kr/view/?no=20240925083955</guid>
-            <pubDate>Wed, 25 Sep 2024 00:56:55 GMT</pubDate>
-            <content:encoded><![CDATA[서울반도체의 노 와이어(No Wire) LED 기술이 유럽 전역에서 특허 보호를 인정받았다. 이 기술을 도용한 세계 6위 LED업체 에버라이트(億光電子)가 제기한 특허 무효소송...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
