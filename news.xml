@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 17:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 18:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한전, 978MW 규모 계통안정화용 ESS 준공…아시아 최대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240927022208</link>
+            <guid>https://zdnet.co.kr/view/?no=20240927022208</guid>
+            <pubDate>Thu, 26 Sep 2024 18:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[한국전력(대표 김동철)은 26일 밀양시 154kV 부북변전소에서 아시아 최대 규모 계통안정화용 에너지저장장치(ESS)를 준공했다. 한전이 8300억원을 투입해 전력변환장치(PC...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/27/ab96c9a1a64347c575e1943f58bb1df4-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["국방AI, 프롬프트 인젝션 공격 등 대비 잘해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20240926223933</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20240926204316</guid>
             <pubDate>Thu, 26 Sep 2024 12:22:29 GMT</pubDate>
             <content:encoded><![CDATA["회사의 개발방법론과 개발프로세스를 점진적으로 내재화시킬 수 있어 좋았습니다." 김상하 유플러스아이티 대표는 26일 지디넷코리아와 인터뷰에서 SP(소프트웨어 프로세스) 인증을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/26/d95638773ef675b7a32d62d2c2821a32-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[법원, 지닥 이의신청 기각..."박관호 대표에게 위믹스 780만개 반환해야"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240926172516</guid>
             <pubDate>Thu, 26 Sep 2024 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)과 머신러닝(ML)이 사이버 보안 분야에서 점점 더 중요하게 여겨짐에도 불구하고 기업들이 AI 거버넌스 전환에 충분히 준비하지 못한 것으로 파악됐다. 26일 체크...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈, '쿠키런 로컬 어드벤처' 전주 캠페인 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240926173821</link>
-            <guid>https://zdnet.co.kr/view/?no=20240926173821</guid>
-            <pubDate>Thu, 26 Sep 2024 09:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[데브시스터즈(대표 조길현)는 대표 IP 쿠키런이 '쿠키런 로컬 어드벤처' 캠페인의 다음 행선지로 전주를 택했다고 26일 밝혔다. 회사 측에 따르면 다음 달 3일부터 26일까지 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
