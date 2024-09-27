@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 06:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 13·14세대 프로세서 대상 세 번째 패치 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240927143320</link>
+            <guid>https://zdnet.co.kr/view/?no=20240927143320</guid>
+            <pubDate>Fri, 27 Sep 2024 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 26일(미국 현지시간) 13/14세대 코어 프로세서 과전압 문제에 대한 세 번째 마이크로코드(microcode) 패치를 배포하겠다고 밝혔다. 현재까지 밝혀진 문제 이외에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 갤럭시S24 FE, 직접 써 봤더니]]></title>
             <link>https://zdnet.co.kr/view/?no=20240927140827</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240926114600</guid>
             <pubDate>Thu, 26 Sep 2024 05:12:42 GMT</pubDate>
             <content:encoded><![CDATA[올해 하반기 3나노미터(nm) 공정을 적용한 모바일 애플리케이션 프로세서(AP) 경쟁이 본격화된다. 지난해 애플에 이어 다음달 10월 미디어텍과 퀄컴이 나란히 3나노 공정을 적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, AR 안경 '오라이언' 등 신제품 대거 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240926082455</link>
-            <guid>https://zdnet.co.kr/view/?no=20240926082455</guid>
-            <pubDate>Thu, 26 Sep 2024 02:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 25일(현지시간) 미국 멘로파크 본사에서 연례 개발자 컨퍼런스 '커넥트 2024'를 열고 증강현실(AR) 안경 '오라이언' 등 새로운 제품과 서비스를 공개했다고 엔가젯 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
