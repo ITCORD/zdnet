@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 07:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 08:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[번호판 입력하면 '차량 원격제어' 가능…美서 기아車 해킹사건]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240927110922</link>
+            <guid>https://zdnet.co.kr/view/?no=20240927110922</guid>
+            <pubDate>Fri, 27 Sep 2024 08:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[한 사이버 보안 연구원들이 미국에서 기아가 운영하는 웹사이트에서 결함을 찾아냈다. 차량 번호판과 해당 주를 입력하면 수백만대의 차량을 원격 제어할 수 있게 된다. 26일(현지시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[하이엔드 브랜드 미스지콜렉션 2025 S/S 패션쇼에 등장한 'BMW i7']]></title>
             <link>https://zdnet.co.kr/view/?no=20240927121013</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240925095406</guid>
             <pubDate>Wed, 25 Sep 2024 00:57:02 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부는 현대자동차·기아·만트럭버스코리아·스카니아코리아그룹이 제작하거나 수입·판매한 13개 차종 91만7천547대에서 제작결함이 발견돼 자발적으로 시정조치(리콜)한다고 25...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 자동차 기업들은 왜 베트남으로 몰려 갈까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240925021150</link>
-            <guid>https://zdnet.co.kr/view/?no=20240925021150</guid>
-            <pubDate>Wed, 25 Sep 2024 00:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[중국 자동차 기업들이 베트남 현지 조립 공장을 잇따라 설립한다. 베트남을 비롯한 동남아 시장에서 입지를 강화하기 위한 기반 마련 차원이다. 24일 중국 언론을 종합하면 베트남 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
