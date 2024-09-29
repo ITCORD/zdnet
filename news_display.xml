@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 01:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 자체 생산 PC용 8코어 프로세서 성능, 어느 정도일까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240929010842</link>
+            <guid>https://zdnet.co.kr/view/?no=20240929010842</guid>
+            <pubDate>Sun, 29 Sep 2024 01:01:01 GMT</pubDate>
+            <content:encoded><![CDATA[중국 팹리스, 상하이자오신반도체(上海兆芯集成电路, 이하 '자오신')가 중국 시장에 공급하는 x86 호환 프로세서인 '자오신 KX-7000/8' 성능을 분석한 결과가 외신을 통해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인도, 반도체 제조 진출...타타그룹, PSMC·ADI와 손잡아]]></title>
             <link>https://zdnet.co.kr/view/?no=20240927165933</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240926120617</guid>
             <pubDate>Thu, 26 Sep 2024 04:15:38 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기는 26일부터 양일간 중국 천진에서 '2024 SAT(삼성 전장 부품 테크데이, Samsung Automotive-Component Tech-Day)'를 개최했다. 내년...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 최고 수준 성능·효율 갖춘 '990 EVO Plus' SSD 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240926093050</link>
-            <guid>https://zdnet.co.kr/view/?no=20240926093050</guid>
-            <pubDate>Thu, 26 Sep 2024 02:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 PCIe 4.0 기반의 고성능 소비자용 SSD 제품인 '990 EVO Plus'를 출시했다고 26일 밝혔다. '990 EVO Plus'는 8세대 V낸드와 5나노 컨트...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
