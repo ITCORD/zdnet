@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 04:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 05:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 AI칩 팹리스, 최첨단 패키징 '칩렛' 도입 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240930100159</link>
+            <guid>https://zdnet.co.kr/view/?no=20240930100159</guid>
+            <pubDate>Mon, 30 Sep 2024 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[기존 글로벌 빅테크의 전유물처럼 여겨지던 첨단 패키징 기술인 '칩렛' 분야에 국내 팹리스들도 본격적으로 발을 디딘다. AI 반도체 스타트업 리벨리온을 시작으로, 넥스트칩과 퓨리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[망고부스트, 글로벌 GPU 기업과 'DPU 기반 가속 솔루션' 공동 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20240930102749</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240926153633</guid>
             <pubDate>Thu, 26 Sep 2024 07:12:55 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 25일(미국시간) 미국 캘리포니아주 산타클라라에서 개최된 TSMC OIP 에코시스템 포럼 2024(이하 OIP 포럼)에서 HBM3E와 엔비디아 H200 칩셋 보드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한켐 "OLED서 '장수명' 소재 수요 증가…핵심 기술로 시장 공략"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240926144733</link>
-            <guid>https://zdnet.co.kr/view/?no=20240926144733</guid>
-            <pubDate>Thu, 26 Sep 2024 06:17:33 GMT</pubDate>
-            <content:encoded><![CDATA["OLED 시장에서 장수명 패널에 대한 수요가 크게 증가할 것으로 예상된다. 한켐은 이를 위한 중수소 치환 기술을 약 10년간 축적해 온 회사로, 고부가가치 OLED 소재를 지...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
