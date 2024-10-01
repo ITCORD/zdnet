@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 05:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 06:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 떠나는 카스퍼스키, 사용자에 '이것' 주고 간다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241001103002</link>
+            <guid>https://zdnet.co.kr/view/?no=20241001103002</guid>
+            <pubDate>Tue, 01 Oct 2024 06:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[미국 시장을 떠나는 러시아 보안 기업 카스퍼스키가 자사 소프트웨어(SW) 이용자들에게 '울트라AV' 제품을 제공하기 시작했다. 씨넷은 1일(현지시간) 카스퍼스키는 이런 목적으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김혜일 카카오 DAO "다양한 IT 장애 유형 이해해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241001104944</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240929014218</guid>
             <pubDate>Mon, 30 Sep 2024 03:23:03 GMT</pubDate>
             <content:encoded><![CDATA[개보위가 개인정보 보호와 안전한 인공지능(AI) 시대를 위한 미래 방향을 제시했다. 개보위는 서울 코엑스에서 '제4회 개인정보 보호의 날 기념식'을 성공적으로 개최했다고 30일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개보위, 안전한 개인정보 전송 제도 '본격화']]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930091618</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930091618</guid>
-            <pubDate>Mon, 30 Sep 2024 03:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회가 안전한 개인정보 전송제도를 본격화하기 위해 나섰다. 개보위는 '개인정보 전송 방법 및 개인정보관리 전문기관 지정 등에 관한 고시' 제정안을 행정예고한다고 3...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
