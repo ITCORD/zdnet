@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 04:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 05:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디지털트윈 칼럼] AI데이터, 신뢰할 수 있는가?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241001140225</link>
+            <guid>https://zdnet.co.kr/view/?no=20241001140225</guid>
+            <pubDate>Tue, 01 Oct 2024 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[■ 디지털트윈과 가상실험을 통한 AI 데이터 편향성 문제 해결인공지능(AI)은 오늘날 사회 전반에 걸쳐 혁신적인 도구로 자리 잡았다. 의료, 금융, 교통, 제조업 등 다양한 산업에서 AI는 방대한 양의 데이터를 처리하고, 이를 바탕으로 예측 및 의사결정을 지원한다. 그럼 AI의 의사결정 기초가 되는 데이터는 언제나 '신뢰할 수 있을까? 데이터는 AI의 원재료다. 그 질에 따라 AI 결...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/01/25b9b3e424240e50d6d305934054f3c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 새 술은 새 부대에]]></title>
             <link>https://zdnet.co.kr/view/?no=20240930115155</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Jul 2024 08:16:45 GMT</pubDate>
             <content:encoded><![CDATA['세계개발자회의 2024(WWDC24)'가 성황리에 끝났다. 이번 WWDC24에서는 애플 인텔리전스와 챗GPT의 시리 통합, 소비자 제품 업데이트, 강화된 개인정보 보호 기능 등 인공지능(AI) 개발에 대한 흥미로운 소식과 함께&nbsp;애드어트리뷰션키트(AdAttributionKit)가 발표됐다.애플의 애드어트리뷰션키트는 애플의 개인정보보호 API인 SKAdNetwork(SK...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/07/22/6b9dea5beb8186afd571ecc33fcf2ebd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[심승배의 국방&디지털⑦] 미래전은 무인자율시스템 대리전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240721113437</link>
-            <guid>https://zdnet.co.kr/view/?no=20240721113437</guid>
-            <pubDate>Sun, 21 Jul 2024 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[무인시스템(Unmanned system)은 사람이 없는 상태에서 작동하는 시스템을 말하다. 시스템은 하드웨어와 같은 장비와 시설, 그리고 소프트웨어를 포함한다. 예를 들어, 무인 편의점에서 무인 주문기(키오스크)와 CCTV는 하드웨어, 편의점에 방문한 손님이 무인주문기를 통해 물건을 결제할 때 작동하는 것은 소프트웨어다. 무인항공기(UAV: Unmanned Aerial Vehicle)와 드론...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/03/03/2a9f6b01aeee1b6833a67120dc555f15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
