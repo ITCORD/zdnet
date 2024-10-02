@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 06:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] K-DID, 오픈소스 연계해 국제표준으로 도약해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002144950</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002144950</guid>
+            <pubDate>Wed, 02 Oct 2024 06:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 기반 분산신원증명(DID)은 전통적인 신원 증명 방식과는 다르다. 중앙화된 기관의 통제를 벗어나 개인이 자신의 신원 정보를 완전히 통제할 수 있도록 하는 혁신적인 신흥 기술이다.&nbsp;이 기술은 개인이 자신의 개인정보를 직접 소유하고 선택적으로 제공할 수 있는 환경을 조성해 개인정보 유출로 인한 피해를 방지하고 불필요한 신원 정보의 유통을 최소화할 수 있다.블록체인 기반 DID ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/02/9f747b92a2e968321d5cea5e6b1808e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디지털트윈 칼럼] AI데이터, 신뢰할 수 있는가?]]></title>
             <link>https://zdnet.co.kr/view/?no=20241001140225</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Jul 2024 00:50:28 GMT</pubDate>
             <content:encoded><![CDATA[최근 생성형 AI로 기업들의 AI 비즈니스가 활발해지고 있다. 거대언어모델(LLM) 개발 열풍에 GPU 시장 경쟁도 치열하다. AI를 넘어 일반인공지능(AGI)까지 등장하면서 AI 비즈니스에도 큰 변화가 예고된다.AGI는 인간과 유사한 지능과 스스로 학습할 수 있는 능력을 갖춘 AI다. 생성형 AI가 확률과 통계로 답을 찾는 수학적 사고라면 AGI는 AI가 논리와 추론 능력을 가지고 문제를 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/07/23/dea7bdb8c74670a759c35b14e96f64c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] WWDC24가 모바일 마케터에 던진 과제]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240722161504</link>
-            <guid>https://zdnet.co.kr/view/?no=20240722161504</guid>
-            <pubDate>Mon, 22 Jul 2024 08:16:45 GMT</pubDate>
-            <content:encoded><![CDATA['세계개발자회의 2024(WWDC24)'가 성황리에 끝났다. 이번 WWDC24에서는 애플 인텔리전스와 챗GPT의 시리 통합, 소비자 제품 업데이트, 강화된 개인정보 보호 기능 등 인공지능(AI) 개발에 대한 흥미로운 소식과 함께&nbsp;애드어트리뷰션키트(AdAttributionKit)가 발표됐다.애플의 애드어트리뷰션키트는 애플의 개인정보보호 API인 SKAdNetwork(SK...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/22/6b9dea5beb8186afd571ecc33fcf2ebd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

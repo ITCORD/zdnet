@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 06:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] K-DID, 오픈소스 연계해 국제표준으로 도약해야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002144950</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002144950</guid>
+            <pubDate>Wed, 02 Oct 2024 06:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 기반 분산신원증명(DID)은 전통적인 신원 증명 방식과는 다르다. 중앙화된 기관의 통제를 벗어나 개인이 자신의 신원 정보를 완전히 통제할 수 있도록 하는 혁신적인 신흥...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NIA, 제 7대 장경미 부원장 취임]]></title>
             <link>https://zdnet.co.kr/view/?no=20241002133804</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241001104118</guid>
             <pubDate>Tue, 01 Oct 2024 03:26:23 GMT</pubDate>
             <content:encoded><![CDATA[일상 속 인공지능(AI) 모습을 기록한 시리즈물이 처음 나왔다. 커뮤니케이션북스는 AI 일상화를 기록한 AI총서 50종을 발행했다고 1일 밝혔다. 올해 100권 발간을 목표로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["친구? 필요없다"…일상 파고 든 AI, 전문가들이 제시한 '공존' 해법은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930172219</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930172219</guid>
-            <pubDate>Tue, 01 Oct 2024 01:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[#. 올해 대학교를 입학한 A군은 공부를 할 때도, 놀거나 인간 관계를 맺을 때도 항상 스마트폰만 찾는다. '챗GTP'로 여행 계획을 뚝딱 세울 수 있는 데다, 시험을 앞두고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
