@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 23:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 00:57:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨스턴디지털, 플래시 메모리 부문 웹사이트 분리]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002090004</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002090004</guid>
+            <pubDate>Wed, 02 Oct 2024 00:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[웨스턴디지털이 1일(미국 현지시간) 회사 분할을 앞두고 낸드 플래시메모리 기반 제품 정보와 판매 관련 웹사이트를 샌디스크닷컴으로 분리했다. 웨스턴디지털은 2016년 5월 낸드 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["엔비디아, 블랙웰 일부 제품 개발 중단 추정"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002074840</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002074840</guid>
+            <pubDate>Wed, 02 Oct 2024 00:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 이르면 올 4분기부터 주요 고객사에 공급할 서버용 AI GPU '블랙웰' 제품 중 서버용 랙 두 개에 최대 72개 GPU를 수납하는 'GB200 NVL36×2' 출시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기세 꺾인 메모리…D램·낸드 가격 '두 자릿 수' 하락]]></title>
             <link>https://zdnet.co.kr/view/?no=20240930180526</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240927093419</guid>
             <pubDate>Fri, 27 Sep 2024 02:15:39 GMT</pubDate>
             <content:encoded><![CDATA[국내 팹리스 스타트업 파네시아가 '2024 OCP 글로벌 서밋' 세계 최초로 CXL(컴퓨트 익스프레스 링크) 3.1 스위치를 탑재한 AI 클러스터를 공개해 글로벌 고객사 확장에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 오라클 클라우드에 MI300X 가속기 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240927095607</link>
-            <guid>https://zdnet.co.kr/view/?no=20240927095607</guid>
-            <pubDate>Fri, 27 Sep 2024 02:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[AMD는 27일 오라클 클라우드 인프라스트럭처(OCI)에 인스팅트 MI300X AI 가속기와 오픈소스 프레임워크 ROCm을 공급했다고 밝혔다. OCI는 더 큰 배치 사이즈(Ba...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노티시아, 고려대 병원과 '의료 AI 솔루션' 개발 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240927094340</link>
-            <guid>https://zdnet.co.kr/view/?no=20240927094340</guid>
-            <pubDate>Fri, 27 Sep 2024 00:56:22 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 전문기업 디노티시아가 고려대학교 안암병원, 첨단의료영상연구소와 의료 AI 분야의 혁신적 발전을 위한 업무협약(MOU)를 체결했다고 27일 발표했다. 이번 협약은 각 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

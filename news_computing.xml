@@ -4,9 +4,49 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 23:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 00:57:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI와 대화하며 앱 제작"…오픈AI, '실시간 API' 베타 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002094548</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002094548</guid>
+            <pubDate>Wed, 02 Oct 2024 00:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 인공지능(AI)과 대화하며 애플리케이션 제작을 할 수 있는 API를 공개했다. 지난해와 달리 GPT 스토어와 새 모델 출시 발표는 이뤄지지 않았다. 2일 오픈AI는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["보이스피싱 피해 그만"…피해 신고 절차 '원스톱'으로 간편해질까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002092019</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002092019</guid>
+            <pubDate>Wed, 02 Oct 2024 00:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[보이스피싱·스미싱이 인공지능(AI)을 이용한 목소리 변조 등 고도화 된 가운데 민·관·정이 합심해 국민 피해를 최소화 하기 위한 대응책 논의에 나섰다. 현재 신고 방식이 신속성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 맨디언트, 가짜 사망신고 한 해커 잡아냈다...어떻게?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002083456</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002083456</guid>
+            <pubDate>Wed, 02 Oct 2024 00:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[구글 맨디언트와 미국 연방수사국(FBI)이 합작해 가짜 사망신고로 공소권 소멸을 노리던 해커를 잡아내는 데 성공했다. 해커는 자신을 의료 인증자로 지정한 뒤 해킹한 의사 권한을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠버네티스 1.31버전, 완전 중립 플랫폼으로 전환]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002084336</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002084336</guid>
+            <pubDate>Wed, 02 Oct 2024 00:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[쿠버네티스가 최신 업데이트인 1.31버전에서 특정 클라우드에 종속되지 않는 중립적인 플랫폼으로 전환했다. 2일 데브클래스 등 외신에 따르면 클라우드네이티브컴퓨팅재단(CNCF)은...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 투자에 진심인 MS, 데이터센터 임차 비용만 140兆 넘었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241002091225</link>
+            <guid>https://zdnet.co.kr/view/?no=20241002091225</guid>
+            <pubDate>Wed, 02 Oct 2024 00:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 인공지능(AI) 기술에 대한 투자를 확대하면서 대규모 데이터센터를 구축하는 비용도 최근 폭발적으로 증가한 것으로 나타났다. 2일 미국 경제전문 매체 CN...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[행정안전부, 잘못된 주소 185만 건 바로 잡았다]]></title>
             <link>https://zdnet.co.kr/view/?no=20241001154839</link>
@@ -125,46 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240930151610</guid>
             <pubDate>Mon, 30 Sep 2024 07:13:24 GMT</pubDate>
             <content:encoded><![CDATA["누군가 대한민국의 미래를 묻거든, 오는 10월 코엑스로 안내하라." 지금 전 세계는 인공지능(AI), 반도체, 양자, 디지털헬스케어, 로봇 등 첨단 신기술 선점 경쟁에 한창이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["암도 관리 가능해질까"…오라클, 이매진 손잡고 암 연구 '혁신' 가속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930110829</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930110829</guid>
-            <pubDate>Mon, 30 Sep 2024 07:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[오라클이 인간에게 최악의 질병 중 하나인 암 정복을 위해 인공지능(AI)을 활용한 솔루션 개발에 나선다. 오라클은 AI 기반 정밀 종양학 분야 기업인 '이매진'과 함께 디지털 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 사업 전략 갈린 韓 빅테크…"美 협업 vs 독자 개발 우선"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930150751</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930150751</guid>
-            <pubDate>Mon, 30 Sep 2024 06:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[밀키트는 손질된 식재료와 양념을 알맞게 담은 간편식입니다. 누구나 밀키트만 있으면 별도 과정 없이 편리하게 맛있는 식사를 할 수 있습니다. [김미정의 SW키트]도 마찬가지입니다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["코스타리카 정부도 관심"…라온시큐어, '韓 모바일 신분증 기술' 어떻길래]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930105003</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930105003</guid>
-            <pubDate>Mon, 30 Sep 2024 06:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[라온시큐어가 해외 정부 관계자 대상으로 한국형 모바일 신분증(K-DID) 구현 사례를 소개해 기술 우수성을 알렸다. 라온시큐어는 지난 25~26일 서울 여의도 라온시큐어 본사에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK C&C, AI 분야 국제 표준 인증 획득…글로벌 시장 진출 고지 선점]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930105044</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930105044</guid>
-            <pubDate>Mon, 30 Sep 2024 06:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[SK C&amp;C가 '인공지능(AI) 경영 시스템' 획득으로 국제 공신력과 신뢰성을 확보했다. SK C&amp;C는 한국경영인증원(KMR)으로부터 AI 경영 시스템(ISO·IEC42001)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["설계 빠르고 쉽게"…다쏘시스템, '솔리드웍스 2025' 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930111652</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930111652</guid>
-            <pubDate>Mon, 30 Sep 2024 05:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 '솔리드웍스' 사용자는 새 제품으로 효율적이고 빠른 설계 작업을 진행할 수 있게 됐다. 다쏘시스템은 '솔리드웍스 2025'를 출시를 앞뒀다고 30일 밝혔다. 전 세계 사...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
