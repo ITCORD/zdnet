@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 23:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 00:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 4세대 실리콘 카바이드 전력 기술 발표...차세대 전기차 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241004093518</link>
+            <guid>https://zdnet.co.kr/view/?no=20241004093518</guid>
+            <pubDate>Fri, 04 Oct 2024 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)가 4세대 STPOWER SiC(실리콘 카바이드) MOSFET 기술을 공개했다. ST는 2027년까지 한층 발전된 SiC 혁신 기술을 발표할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지금은 '온디바이스 AI' 시대...인터넷 접속 없어도 OK]]></title>
+            <link>https://zdnet.co.kr/view/?no=20240930150742</link>
+            <guid>https://zdnet.co.kr/view/?no=20240930150742</guid>
+            <pubDate>Fri, 04 Oct 2024 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI 챗GPT, 어도비 파이어플라이 등 현재 주목받는 각종 생성형 인공지능(AI) 서비스는 대부분 클라우드에서 구동된다. 웹브라우저나 전용 프로그램을 통해 질문이나 이미지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, PC용 고성능·고용량 SSD 'PM9E1' 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241004081902</link>
+            <guid>https://zdnet.co.kr/view/?no=20241004081902</guid>
+            <pubDate>Fri, 04 Oct 2024 00:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 온디바이스 AI PC에 최적화된 SSD PM9E1 양산을 시작했다. 삼성전자는 8채널 PCIe 5.0 기반 PM9E1에 8세대 V낸드와 자체 설계한 5나노 기반 컨트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쎄닉, 전력반도체용 6인치 SiC 웨이퍼 개발 성과 'ICSCRM'서 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20241002154311</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20240929010842</guid>
             <pubDate>Sun, 29 Sep 2024 01:01:01 GMT</pubDate>
             <content:encoded><![CDATA[중국 팹리스, 상하이자오신반도체(上海兆芯集成电路, 이하 '자오신')가 중국 시장에 공급하는 x86 호환 프로세서인 '자오신 KX-7000/8' 성능을 분석한 결과가 외신을 통해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도, 반도체 제조 진출...타타그룹, PSMC·ADI와 손잡아]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240927165933</link>
-            <guid>https://zdnet.co.kr/view/?no=20240927165933</guid>
-            <pubDate>Sat, 28 Sep 2024 00:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[인도가 자국 대표 기업인 타타그룹을 통해 반도체 공급망 구축에 속도를 낸다. 그 동안 인도는 글로벌 반도체 기업 유치를 통해 반도체 R&amp;D 센터 설립에 중점을 뒀다. 하지만 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["인텔·미국 정부, 반도체 보조금 협상 최종 단계"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240928005756</link>
-            <guid>https://zdnet.co.kr/view/?no=20240928005756</guid>
-            <pubDate>Fri, 27 Sep 2024 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[인텔과 미국 정부가 지난 3월 합의한 85억 달러(약 11조 1천265억원) 규모 보조금 지급 절차 최종 단계에 접어들었다. 영국 파이낸셜타임스가 27일(현지시각) 해당 사안 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가천대·대한전자공학회 "온디바이스 AI용 반도체 집중 육성해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240927185509</link>
-            <guid>https://zdnet.co.kr/view/?no=20240927185509</guid>
-            <pubDate>Fri, 27 Sep 2024 10:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[지난 26일 가천대 반도체 대학이 주관하고, 대한전자공학회 반도체소사이어티가 주최한 'AIoT 테크놀로지 &amp; 비즈니스 포럼'이 100여명의 반도체 업계, 교수 등 관계자들이 참...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
