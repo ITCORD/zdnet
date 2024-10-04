@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 05:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 06:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 정량평가로 다음 뉴스 새 입점 언론사 선택]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241004141031</link>
+            <guid>https://zdnet.co.kr/view/?no=20241004141031</guid>
+            <pubDate>Fri, 04 Oct 2024 06:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[카카오가 다음 뉴스의 신규 언론사를 정량평가를 통해 선발한다고 4일 밝혔다. 이는 기존 뉴스제휴평가위원회를 대체하는 방식이다. 신규 입점 절차는 11월부터 시행될 예정이며, 최...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[저커버그, 제프 베조스 제치고 세계 2위 부자됐다]]></title>
             <link>https://zdnet.co.kr/view/?no=20241004135104</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241001110808</guid>
             <pubDate>Tue, 01 Oct 2024 05:13:03 GMT</pubDate>
             <content:encoded><![CDATA[구글이 태국에 약 1조4천억 원을 투자해 데이터 센터를 신설하고 클라우드 인프라를 구축한다. 이번 투자에 대해 외신은 구글이 아시아에서 확장을 가속화하려는 신호라고 분석했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['넷플릭스' 넣고 '시리즈온' 빼고…네이버플러스 이렇게 바뀐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241001122644</link>
-            <guid>https://zdnet.co.kr/view/?no=20241001122644</guid>
-            <pubDate>Tue, 01 Oct 2024 05:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 자사 유료 멤버십 서비스인 네이버플러스를 개편한다. 가장 눈에 띄는 것은 디지털 콘텐츠 이용권에 넷플릭스 광고형 스탠다드 이용권이 추가된다는 것이다. 다만 콘텐츠를 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
