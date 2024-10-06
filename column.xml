@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 09:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 10:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[심승배의 국방&디지털⑧] AI는 사이버전의 창과 방패]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241006185901</link>
+            <guid>https://zdnet.co.kr/view/?no=20241006185901</guid>
+            <pubDate>Sun, 06 Oct 2024 10:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[현대전에서 사이버 공간은 지상, 해상, 공중에 이어 새로운 전장으로 부상했다. 특히, 사이버 공격은 물리적 공격보다 은밀하며 광범위한 시공간에서 발생할 수 있어 국방을 포함한 국가에 심각한 영향을 줄 수 있는 위협이 됐다. 국방 분야는 사이버 위협 보호, 사이버 공격 대응을 포함한 사이버보안을 강화하기 위해 노력하고 있으며, 특히 사이버 공격에 대한 방어 역량을 강화하기 위해 인공지능 기술을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/03/03/2a9f6b01aeee1b6833a67120dc555f15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] K-DID, 오픈소스 연계해 국제표준으로 도약해야]]></title>
             <link>https://zdnet.co.kr/view/?no=20241002144950</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Aug 2024 22:11:18 GMT</pubDate>
             <content:encoded><![CDATA[영화의 한 장면. 주인공이 길을 잃었다. 먹지도 못하고 종일 헤매다 보니, 기력도 바닥이고 온몸이 쑤신다. &nbsp;밤이 오면서 기온이 떨어진다. 몸은 이슬에 젖어 바들거리고, 이러다가 정신줄을 놓쳐 버리면 필히 얼어 죽을 판이다. 그 때 정말 우연히 멀리 떨어진 곳에서 비치는 불빛이 보인다. 주인공은 “아! 살았다!”라고 외치며, 수풀을 헤치며 그쪽으로 잰 걸음을 옮긴다. 그렇게 도착한 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/08/02/56586e8ddfb8864db18ab2f1be0955a2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AGI 시대, 최적의 인프라 도입 전략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240723094055</link>
-            <guid>https://zdnet.co.kr/view/?no=20240723094055</guid>
-            <pubDate>Tue, 23 Jul 2024 00:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 생성형 AI로 기업들의 AI 비즈니스가 활발해지고 있다. 거대언어모델(LLM) 개발 열풍에 GPU 시장 경쟁도 치열하다. AI를 넘어 일반인공지능(AGI)까지 등장하면서 AI 비즈니스에도 큰 변화가 예고된다.AGI는 인간과 유사한 지능과 스스로 학습할 수 있는 능력을 갖춘 AI다. 생성형 AI가 확률과 통계로 답을 찾는 수학적 사고라면 AGI는 AI가 논리와 추론 능력을 가지고 문제를 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/23/dea7bdb8c74670a759c35b14e96f64c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
