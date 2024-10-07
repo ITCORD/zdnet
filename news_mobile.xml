@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 07:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 08:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IEEE "HDD 용량, 4년 뒤 60TB까지 늘어날 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241007140755</link>
+            <guid>https://zdnet.co.kr/view/?no=20241007140755</guid>
+            <pubDate>Mon, 07 Oct 2024 08:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[현재 단일 최대 용량 30TB(테라바이트)까지 올라선 하드디스크 드라이브(HDD) 용량이 4년 뒤 두 배인 60TB까지 높아질 것이라는 전망이 나왔다. 국제전기전자기술자협회(I...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 구형 갤럭시폰 '무한 리부팅' 오류 긴급 수정 진행 중]]></title>
             <link>https://zdnet.co.kr/view/?no=20241007145905</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241004091222</guid>
             <pubDate>Fri, 04 Oct 2024 02:15:38 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰 기본 카메라 평균 해상도가 계속 향상되고 있다. 4일(현지시간) 시장조사업체 카운터포인트리서치에 따르면 올해 2분기 스마트폰 카메라 평균 해상도는 5천400만 화소에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대원씨티에스, 마이크론 크루셜 P310 NVMe SSD 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241004092259</link>
-            <guid>https://zdnet.co.kr/view/?no=20241004092259</guid>
-            <pubDate>Fri, 04 Oct 2024 00:56:10 GMT</pubDate>
-            <content:encoded><![CDATA[대원씨티에스가 4일 M.2 2280 규격 마이크론 크루셜 P310 NVMe SSD를 국내 시장에 출시했다. P310 NVMe SSD는 PCI 익스프레스 4.0을 지원하는 파이슨...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
