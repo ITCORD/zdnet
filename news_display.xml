@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 00:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 02:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ST, 스마트 엣지 위한 하이브리드 메모리 'Page EEPROM' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241008105535</link>
+            <guid>https://zdnet.co.kr/view/?no=20241008105535</guid>
+            <pubDate>Tue, 08 Oct 2024 02:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)가 EEPROM의 전력 효율성 및 내구성과 플래시 메모리의 용량 및 속도를 결합한 하이브리드 메모리 'Page EEPROM'을 출시했다. 새로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈엣지, 자동차 기능 안전 글로벌 표준 ISO26262 인증 취득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241008101458</link>
+            <guid>https://zdnet.co.kr/view/?no=20241008101458</guid>
+            <pubDate>Tue, 08 Oct 2024 02:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 설계자산(IP) 기업 오픈엣지테크놀로지(이하 오픈엣지)가 메모리 컨트롤러와 DDR PHY IP 제품에 대해 자동차 기능 안전 글로벌 표준인 ISO 26262 ASIL-B...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이재용 회장 "파운드리 분사 관심 없다"…사업 성장 갈망]]></title>
             <link>https://zdnet.co.kr/view/?no=20241008083238</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241002112859</guid>
             <pubDate>Wed, 02 Oct 2024 06:18:07 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자와 엔비디아가 최근 진행된 HBM3E(5세대 고대역폭메모리) 관련 실사(Audit)를 차질없이 마무리한 것으로 파악됐다. 제품의 양산 공급이 당초 예상보다 늦어지는 가운...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ams OSRAM, LiDAR 위한 'SMT 펄스 레이저' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241002105629</link>
-            <guid>https://zdnet.co.kr/view/?no=20241002105629</guid>
-            <pubDate>Wed, 02 Oct 2024 02:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[지능형 센서 업체 ams OSRAM이 장거리 LiDAR 시스템을 위한 8채널 915nm SMT 펄스 레이저 'SPL S8L91A_3 A01'을 연내에 출시한다고 밝혔다. SPL...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샘씨엔에스, 고성능 다층세라믹기판 개발 나서]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241002103117</link>
-            <guid>https://zdnet.co.kr/view/?no=20241002103117</guid>
-            <pubDate>Wed, 02 Oct 2024 02:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[국내 반도체 부품기업 샘씨엔에스가 사업 영역 확장에 나선다. 기존 주력 제품에 적용해온 기술을 토대로 자율주행 등 여러 산업에 필요한 고성능 세라믹 기판을 개발할 계획이다. 샘...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
