@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 05:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 06:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서플러스글로벌 "레거시 반도체 생태계 활성화 지원"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241008140506</link>
+            <guid>https://zdnet.co.kr/view/?no=20241008140506</guid>
+            <pubDate>Tue, 08 Oct 2024 06:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 장비 유통 업체 서플러스글로벌이 레거시 반도체 장비 및 부품의 생태계 확대를 위해 산업계 및 학계와 기술 교류를 강화한다. 서플러스글로벌은 지난 7일 한국공학한림원 재료...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, MS 제치고 6주 만에 시총 2위 등극]]></title>
             <link>https://zdnet.co.kr/view/?no=20241008130038</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241004093518</guid>
             <pubDate>Fri, 04 Oct 2024 00:56:22 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스(이하 ST)가 4세대 STPOWER SiC(실리콘 카바이드) MOSFET 기술을 공개했다. ST는 2027년까지 한층 발전된 SiC 혁신 기술을 발표할 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 '온디바이스 AI' 시대...인터넷 접속 없어도 OK]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240930150742</link>
-            <guid>https://zdnet.co.kr/view/?no=20240930150742</guid>
-            <pubDate>Fri, 04 Oct 2024 00:56:22 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI 챗GPT, 어도비 파이어플라이 등 현재 주목받는 각종 생성형 인공지능(AI) 서비스는 대부분 클라우드에서 구동된다. 웹브라우저나 전용 프로그램을 통해 질문이나 이미지 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
