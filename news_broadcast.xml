@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 09:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TTA "가짜판례·딥페이크...'AI신뢰성 인증' 중요해졌다”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241010175124</link>
+            <guid>https://zdnet.co.kr/view/?no=20241010175124</guid>
+            <pubDate>Thu, 10 Oct 2024 09:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[“인공지능이 사회, 산업 전 분야에 걸쳐 빠르게 도입되면서 혁신과 변화를 이루고 있지만 알고리즘 문제, 데이터 편향 등에 따른 사고 발생이나 공정성 문제, 인종차별 문제가 발생...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 스마트교차로 국토교통부 평가서 '최상급' 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20241010151931</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241008090539</guid>
             <pubDate>Tue, 08 Oct 2024 02:17:26 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전은 서울에너지드림센터, 국제아동권리NGO 세이브더칠드런과 함께 서울 지역 아동들이 주체적으로 환경보호에 동참할 수 있도록 '아동이 만드는 기후동행학교'를 시작한다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI 활용한 '보이스피싱 종합 탐지 기술' 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241008092411</link>
-            <guid>https://zdnet.co.kr/view/?no=20241008092411</guid>
-            <pubDate>Tue, 08 Oct 2024 02:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 고객 보호를 위해 AI를 활용한 보이스피싱 종합 탐지 기술 '보이스피싱 탐지 AI 에이전트'와 'AI 보이스피싱 의심번호 알림 서비스'를 개발했다고 8일 밝혔다. 보이스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
