@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 21:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 22:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포티투마루 권혁중 이사 "RAG 기능 핵심은 데이터 품질"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241010235753</link>
+            <guid>https://zdnet.co.kr/view/?no=20241010235753</guid>
+            <pubDate>Thu, 10 Oct 2024 22:12:14 GMT</pubDate>
+            <content:encoded><![CDATA["기업이 검색증강생성(RAG)을 모델에 제대로 도입하려면 데이터 전처리 과정부터 학습 데이터 설계, 검증까지 거쳐야 합니다. 생성형 인공지능(AI) 모델 데이터 품질을 잘 관리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["진정한 AI시대는 AI에이전트와 공존하는 세상"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241010215045</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241009044544</guid>
             <pubDate>Thu, 10 Oct 2024 05:12:36 GMT</pubDate>
             <content:encoded><![CDATA["영국과 한국은 인공지능(AI) 기술을 선도하고 있습니다. 글로벌 전략적 동반자로서 함께 미래 기술 발전을 이끌어나갈 것입니다." 콜린 크룩스 주한 영국대사는 10일 서울 코엑...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["작업자 안전모 미착용 감지 가능"...코오롱베니트, '비전 AI' 기술 고도화 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241010110140</link>
-            <guid>https://zdnet.co.kr/view/?no=20241010110140</guid>
-            <pubDate>Thu, 10 Oct 2024 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[건설 현장의 안전 모니터링 솔루션을 개선하기 위해 코오롱베니트가 인공지능(AI)을 적극 활용한다. 코오롱베니트는 리벨리온과 안전 모니터링 시스템 '비전 AI' 기술 고도화 실증...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

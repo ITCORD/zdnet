@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 21:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 22:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 비보 "기지국 없이도 1.5km 거리서 통화"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241011023357</link>
+            <guid>https://zdnet.co.kr/view/?no=20241011023357</guid>
+            <pubDate>Thu, 10 Oct 2024 22:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[중국 스마트폰 기업이 통신사의 기지국 네트워크 없이 일정 거리 내 기기 간 통신을 지원하는 기능을 신제품에 탑재한다. 10일 중국 스마트폰 브랜드 비보가 '2024 개발자대회'...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/11/2cb3e99845784b52ea3205c223aa8b09-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포티투마루 권혁중 이사 "RAG 기능 핵심은 데이터 품질"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241010235753</link>
+            <guid>https://zdnet.co.kr/view/?no=20241010235753</guid>
+            <pubDate>Thu, 10 Oct 2024 22:12:00 GMT</pubDate>
+            <content:encoded><![CDATA["기업이 검색증강생성(RAG)을 모델에 제대로 도입하려면 데이터 전처리 과정부터 학습 데이터 설계, 검증까지 거쳐야 합니다. 생성형 인공지능(AI) 모델 데이터 품질을 잘 관리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/10/ae21b7804a4c4dcdc5b31c0671b4e3a0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 예방접종 시작…75세 이상 11일부터, 연령별 순차 접종]]></title>
             <link>https://zdnet.co.kr/view/?no=20241010175549</link>
             <guid>https://zdnet.co.kr/view/?no=20241010175549</guid>
             <pubDate>Thu, 10 Oct 2024 21:12:52 GMT</pubDate>
             <content:encoded><![CDATA[오늘(10월11일)부터 코로나19 예방접종이 시작된다. 24-25 절기 코로나19 예방접종은 고위험군(65세 이상 어르신, 생후 6개월 이상 면역저하자 및 감염취약시설 입원‧입...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/10/785a5999ee597afdef673229c4b28025-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[법원, '티메프 사태' 구영배 등 경영진 구속영장 기각]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241010232356</guid>
             <pubDate>Thu, 10 Oct 2024 15:13:03 GMT</pubDate>
             <content:encoded><![CDATA[티몬과 위메프의 대규모 미정산 사태의 핵심 인물인 구영배 큐텐그룹 대표와 류광진 티몬 대표, 류화현 위메프 대표가 구속은 면했다. 검찰은 이들에게 사기·횡령·배임 혐의 적용해 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/30/9b441f8cfa8e375ba84b40397f56a47a-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[법원, 쿠팡이 낸 공정위 시정명령 집행정지 인용…"과징금은 내야"]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241010165757</guid>
             <pubDate>Thu, 10 Oct 2024 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA["인공지능(AI) 기술을 전자문서에 접목해 기업의 업무 효율성을 극대화하고자 합니다. 이는 디지털 전환의 핵심이자 우리가 나아갈 방향입니다." 박미경 포시에스 대표는 10일 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하이크, 스토브 통해 액션 RPG 로드오브파티 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241010172619</link>
-            <guid>https://zdnet.co.kr/view/?no=20241010172619</guid>
-            <pubDate>Thu, 10 Oct 2024 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[하이크(대표 미카미 마사타카)는 액션 RPG 로드오브파티와 신규 DLC를 스토브 플랫폼에 출시한다고 10일 밝혔다. 로드오브파티는 지난 2022년 스팀으로 처음 출시된 액션 슈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시화호 주변, '일자리·주거·에너지·문화·해양관광' 어우러진 미래 융합도시 조성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241010171343</link>
-            <guid>https://zdnet.co.kr/view/?no=20241010171343</guid>
-            <pubDate>Thu, 10 Oct 2024 08:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[시화호 주변이 일자리·주거·에너지·문화·해양관광이 어우러진 미래 융합도시로 거듭난다. 국토교통부와 환경부는 10일 시화호 30주년 기념식에서 앞으로 30년간 직‧주‧안‧락(職住...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
