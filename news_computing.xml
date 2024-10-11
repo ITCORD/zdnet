@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 09:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 10:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방승현 오리엔텀 대표 "양자 컴퓨터의 다음 목표는 양자 SW"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241011172829</link>
+            <guid>https://zdnet.co.kr/view/?no=20241011172829</guid>
+            <pubDate>Fri, 11 Oct 2024 10:12:50 GMT</pubDate>
+            <content:encoded><![CDATA["양자 컴퓨터 시장에는 연간 1조원 이상의 투자가 이루어지고 있습니다. 현재는 양자 하드웨어(HW) 중심으로 연구가 진행되고 있지만 다음 단계는 양자 소프트웨어(SW)로 넘어갈...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박세리 LGU+ PO "수십개 클라우드 계정 PQC로 한번에 관리"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241011165007</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241011105202</guid>
             <pubDate>Fri, 11 Oct 2024 02:14:32 GMT</pubDate>
             <content:encoded><![CDATA[라온시큐어가 옴니커넥트와 함께 시선 추적 기반 AI 심리검사로 분석한 MBTI 등 다양한 심리 분석 결과를 블록체인 디지털 ID로 발급하는 사업을 추진한다. 라온시큐어는 시선추...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몽고DB "앱 개발 '몽고DB 8.0'로 신속·안전하게"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241011104435</link>
-            <guid>https://zdnet.co.kr/view/?no=20241011104435</guid>
-            <pubDate>Fri, 11 Oct 2024 02:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[몽고DB가 멀티클라우드 개발자 데이터 플랫폼을 업그레이드해 갈수록 복잡해지는 애플리케이션 개발 과정을 간소화하고 안전성을 높였다. 몽고DB가 운영 데이터베이스(DB) 솔루션 최...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
