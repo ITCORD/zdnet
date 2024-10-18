@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파이오링크, 전국서 제로트러스트·보안 전략 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241018141608</link>
+            <guid>https://zdnet.co.kr/view/?no=20241018141608</guid>
+            <pubDate>Fri, 18 Oct 2024 06:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[파이오링크가 제로트러스트와 클라우드 보안 전략을 제시하는 전국 투어를 성공적으로 마쳤다. 파이오링크는 지난 2일부터 17일까지 호남 사이버보안 콘퍼런스와 국제 시큐리티 콘퍼런스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[4차 클라우드 계획, AI시대 클라우드 도입 전면화로 DX 가속]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018085947</link>
@@ -48,11 +56,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["무선 백도어 해킹 방어 수단 마련"…이복현 한 마디에 주목 받은 '이 기업' 어디?]]></title>
+            <title><![CDATA[이복현 금감원장 "무선 백도어 해킹 방어 수단 마련하겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018095648</link>
             <guid>https://zdnet.co.kr/view/?no=20241018095648</guid>
             <pubDate>Fri, 18 Oct 2024 02:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[최근 금융회사가 망분리한 상태에서도 해킹할 수 있는 '무선 백도어 해킹'이 증가하고 있는 가운데 이복현 금융감독원장이 이에 대한 방안을 마련키로 하며 지슨이 주목 받고 있다. ...]]></content:encoded>
+            <content:encoded><![CDATA[최근 금융회사가 망분리한 상태에서도 해킹할 수 있는 '무선 백도어 해킹'이 증가하고 있어, 금융당국에서도 이에 대한 방안을 마련키로 했다. 17일 국회 정무위원회 국정감사에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241017225956</guid>
             <pubDate>Thu, 17 Oct 2024 14:12:19 GMT</pubDate>
             <content:encoded><![CDATA[정보통신산업진흥원(원장 허성욱, 이하 NIPA)이 중동시장을 겨냥한 IT지원센터를 17일 개소했다. 소재지는 아랍에미리트(UAE) 두바이다. NIPA의 6번째 IT지원센터다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["언제 어디서나 AI 구축"…오라클, 디지털 혁신 전략 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241017203710</link>
-            <guid>https://zdnet.co.kr/view/?no=20241017203710</guid>
-            <pubDate>Thu, 17 Oct 2024 12:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드와 인공지능(AI) 도입을 고려하는 기업을 위해 오라클이 클라우드 인프라와 AI 개발 지원 플랫폼을 어디에서나 사용할 수 있도록 지원한다. 온프레미스, 엣지 환경을 비롯...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["딥페이크 식별 위해 AI 생성물 표시 의무 해야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241018143706</link>
+            <guid>https://zdnet.co.kr/view/?no=20241018143706</guid>
+            <pubDate>Fri, 18 Oct 2024 06:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크와 실제 사실을 구분하지 못해서 발생하는 위험으로부터 이용자를 보호하고 사회적 혼란을 줄이기 위해서 인공지능(AI)으로 생성되거나 조작된 정보는 별도로 표시하도록 의무화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["보이스피싱 꼼짝마"...KT, AI 보이스피싱 탐지 실증특례 승인]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018103708</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241016185810</guid>
             <pubDate>Wed, 16 Oct 2024 10:13:23 GMT</pubDate>
             <content:encoded><![CDATA[스페이스X의 스타링크 서비스가 국내서 가능해질 전망이다. 국립전파연구원은 간이무선국 우주국 지구국 등 업무용 무선설비 기준에 대한 일부개정안 행정예고를 게시했다. 개정안은 고도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["글로벌 OTT 종속 심화...정부, 티빙·웨이브 합병 지원해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241016174955</link>
-            <guid>https://zdnet.co.kr/view/?no=20241016174955</guid>
-            <pubDate>Wed, 16 Oct 2024 10:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 등 글로벌 OTT에 종속되지 않기 위해서는 정부가 티빙, 웨이브 등 국내 OTT 플랫폼 경쟁력 강화를 위한 혁신 방안을 논의해야 한다는 주장이 제기됐다. 노창희 디지털...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
