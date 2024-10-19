@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 06:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 07:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["중복, 비효율, 후견주의...미디어 담당 정부기관 재구조화 시급"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241019004702</link>
+            <guid>https://zdnet.co.kr/view/?no=20241019004702</guid>
+            <pubDate>Sat, 19 Oct 2024 07:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[미디어 생태계의 변화에 따라 미디어 영역을 담당하는 정부 정책 체계의 개편이 시급하다는 주장이 나왔다. 기능이 분산된 미디어 정부부처의 현재 구조가 일관성 있는 정책 추진을 어...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방통위, 법원 2인체제 MBC 처분 취소에 항소]]></title>
             <link>https://zdnet.co.kr/view/?no=20241018162154</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241017091909</guid>
             <pubDate>Thu, 17 Oct 2024 00:55:51 GMT</pubDate>
             <content:encoded><![CDATA[KT는 제주시 NIA 글로벌센터에 5G 오픈랜 시스템을 구축했다고 17일 밝혔다. 과학기술정보통신부와 한국지능정보사회진흥원(NIA)의 오픈랜 실증단지 조성사업 결과물이다. 오픈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 차세대 전용회선 서비스 전국망 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241017090516</link>
-            <guid>https://zdnet.co.kr/view/?no=20241017090516</guid>
-            <pubDate>Thu, 17 Oct 2024 00:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 기업 고객의 서비스 고도화 요구에 맞춘 차세대 전용회선 서비스를 제공하기 위해 IP-MPLS 방식으로 전국망을 구축한다고 17일 밝혔다. IP-MPLS는 다양한...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
