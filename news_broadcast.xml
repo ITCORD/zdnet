@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 03:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 04:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ETRI AI경진대회 대상, 서울대 통못자핫도그 팀 받아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241021125218</link>
+            <guid>https://zdnet.co.kr/view/?no=20241021125218</guid>
+            <pubDate>Mon, 21 Oct 2024 04:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 제3회 ETRI 휴먼이해 인공지능 논문경진대회 개최 결과 서울대 나영훈 외 3인의 '통못자핫도그 팀'이 대상을 받았다고 20일 밝혔다. 대상을 받...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[함저협, 국내 OTT 사업자와 음악저작물 이용 합의서 체결]]></title>
             <link>https://zdnet.co.kr/view/?no=20241021102935</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241018143706</guid>
             <pubDate>Fri, 18 Oct 2024 06:17:32 GMT</pubDate>
             <content:encoded><![CDATA[딥페이크와 실제 사실을 구분하지 못해서 발생하는 위험으로부터 이용자를 보호하고 사회적 혼란을 줄이기 위해서 인공지능(AI)으로 생성되거나 조작된 정보는 별도로 표시하도록 의무화...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["보이스피싱 꼼짝마"...KT, AI 보이스피싱 탐지 실증특례 승인]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241018103708</link>
-            <guid>https://zdnet.co.kr/view/?no=20241018103708</guid>
-            <pubDate>Fri, 18 Oct 2024 05:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 AI 기술을 활용해 실시간 통화에서 보이스피싱을 자동 탐지하는 'KT 실시간 통화 보이스피싱 탐지 서비스'에 대해 과기정통부 정보통신기술 규제샌드박스 실증특례 승인을 받...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
