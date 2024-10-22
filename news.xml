@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 21:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 22:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴 "파트너사 위한 풀스택 최적화·멀티모달 AI에 집중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241022211205</link>
+            <guid>https://zdnet.co.kr/view/?no=20241022211205</guid>
+            <pubDate>Tue, 22 Oct 2024 22:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[[하와이(미국)=권봉석 기자] "퀄컴은 자체 AI 모델을 제작하지 않지만 AI 인프라와 소프트웨어 라이브러리를 제공하여 다양한 AI 제품 개발을 지원하고 있다. 기기 제조사, ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/22/85c1f53fb6ba6f0f2a0cbebf709cae60-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴 "스냅드래곤8 엘리트, 자체 설계 CPU 있어 가능했다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241022192927</link>
+            <guid>https://zdnet.co.kr/view/?no=20241022192927</guid>
+            <pubDate>Tue, 22 Oct 2024 22:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[[하와이(미국)=권봉석 기자] "스마트폰 이용자는 여전히 고급 게임 성능을 요구한다. 스냅드래곤8 엘리트는 이를 위해 데스크톱PC 수준의 성능을 스마트폰에서 구현하는 것이 목표...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/22/1df053065f22feccbb9a13ac32ae7b61-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴-구글 "자동차 분야 디지털 전환 위해 협력"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241023062103</link>
+            <guid>https://zdnet.co.kr/view/?no=20241023062103</guid>
+            <pubDate>Tue, 22 Oct 2024 22:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[[하와이(미국)=권봉석 기자] 퀄컴과 구글은 22일(한국시간 23일) 미국 하와이에서 진행중인 연례 기술행사 '스냅드래곤 서밋 2024'에서 자동차 분야 디지털 전환을 위해 향...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국내 로봇기술 한자리…'2024 로보월드' 23일 개막]]></title>
             <link>https://zdnet.co.kr/view/?no=20241023031117</link>
             <guid>https://zdnet.co.kr/view/?no=20241023031117</guid>
             <pubDate>Tue, 22 Oct 2024 21:11:48 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 23일부터 나흘간 고양 킨텍스에서 국내 최대 로봇산업 전시회 '로보월드 2024'를 개최한다고 밝혔다. 올해 행사는 291개 기업·기관이 880개 부스로 참여해...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/23/f27e26cf3c793bb06da0c1ff7c6ba27e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['근시'는 진행성 만성질환…조기 발견과 관리가 안질환 줄여]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241023005006</guid>
             <pubDate>Tue, 22 Oct 2024 21:11:48 GMT</pubDate>
             <content:encoded><![CDATA[쿠퍼비전, 아이들의 평생 시력과 안구건강 지키는 것이 목표 “근시는 진행성 만성질환이다. 특히 소아근시는 한번 발생하면 성장기가 끝날 때까지 진행돼 조기 발견과 관리가 중요하다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/23/750b51688c2c6a531384219d1d298166-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[퀄컴, 오라이온 CPU 기반 자동차용 고성능 SoC 2종 공개]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241022184345</guid>
             <pubDate>Tue, 22 Oct 2024 10:13:05 GMT</pubDate>
             <content:encoded><![CDATA[광학기기 전문 기업 니콘이미징코리아(대표 정해환)는 다양한 야외 촬영 노하우를 배울 수 있는 11월 니콘스쿨 커리큘럼을 공개했다고 22일 밝혔다. 내달 5일 오후 3시부터 온라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박용인 삼성전자 사장, "엑시노스 2500 개발 열심히 할 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241022184239</link>
-            <guid>https://zdnet.co.kr/view/?no=20241022184239</guid>
-            <pubDate>Tue, 22 Oct 2024 10:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자 시스템LSI사업부장 사장이 '엑시노스 2500', HBM(고대역폭메모리)용 로직다이 등 차세대 제품 개발에 대한 의지를 다졌다. 박 사장은 22일 오후 서울 그랜드 인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빅웨이브로보틱스, 한양대 ERICA 융합보안대학원사업단과 맞손]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241022183336</link>
-            <guid>https://zdnet.co.kr/view/?no=20241022183336</guid>
-            <pubDate>Tue, 22 Oct 2024 10:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[토탈 로봇 솔루션 기업 빅웨이브로보틱스는 한양대학교 ERICA 융합보안대학원사업단과 로봇관련 융합보안분야 업무협약을 체결했다고 22일 밝혔다. 양 기관은 로봇관련 인공지능 및 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세라젬 파우제 M6, 日 '굿 디자인 어워드 2024' 본상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241022182039</link>
-            <guid>https://zdnet.co.kr/view/?no=20241022182039</guid>
-            <pubDate>Tue, 22 Oct 2024 10:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 가전기업 세라젬은 일본 '굿 디자인 어워드 2024'에서 본상을 수상했다고 22일 밝혔다. 굿 디자인 어워드는 세계 4대 디자인 어워드로 꼽힌다. 지난 1957년부터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
