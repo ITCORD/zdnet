@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 06:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 07:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[QR코드로 피싱, 신종 사이버 사기 '큐싱' 들어보셨나요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241023154344</link>
+            <guid>https://zdnet.co.kr/view/?no=20241023154344</guid>
+            <pubDate>Wed, 23 Oct 2024 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[최근 초중고교 학생 대상으로 QR 코드를 활용한 피싱 사례가 늘어나면서 정부가 국민들에 사이버 사기 피해에 대한 주의를 당부했다. QR 코드는 복잡한 인터넷 주소 입력을 대신하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유상임 장관, 다음달 통신 3사 CEO 만난다]]></title>
             <link>https://zdnet.co.kr/view/?no=20241023114805</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241021152215</guid>
             <pubDate>Mon, 21 Oct 2024 07:13:44 GMT</pubDate>
             <content:encoded><![CDATA[인텔리안테크는 21일 캐나다 위성통신 사업자 텔레셋(Telesat)과 289억7천만원 규모의 지상 게이트웨이 안테나 개발 및 초도 공급계약을 체결했다고 밝혔다. 이번 계약은 텔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이정헌 의원, 망 무임승차 방지법 대표발의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241021133527</link>
-            <guid>https://zdnet.co.kr/view/?no=20241021133527</guid>
-            <pubDate>Mon, 21 Oct 2024 05:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 소속 이정헌 의원(더불어민주당)이 망 무임승차 방지법을 대표발의 했다고 21일 밝혔다. 구글과 같은 일부 대형 글로벌 CP는 국내 인터넷망에서 막...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
