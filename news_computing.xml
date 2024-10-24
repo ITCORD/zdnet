@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 12:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 13:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["MLOps 도입, 국내기업 대부분 가장 낮은 1단계"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241024220744</link>
+            <guid>https://zdnet.co.kr/view/?no=20241024220744</guid>
+            <pubDate>Thu, 24 Oct 2024 13:21:19 GMT</pubDate>
+            <content:encoded><![CDATA["MLOps 도입 성숙도를 5단계로 나누는데 국내 기업은 대부분 가장 낮은 1단계에 있습니다."(베슬AI 안재만 대표) "LLM 기술 발전 속도는 엄청납니다. 학습으로 얻을 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤성호 마키나락스 대표 "모든 회사는 AI 준비가 돼 있어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241024201721</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241024111501</guid>
             <pubDate>Thu, 24 Oct 2024 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[[하와이(미국)=권봉석 기자] AI 관련 국내외 주요 기업들은 24일 오전(한국시간 23일) 미국 하와이에서 진행중인 연례 기술행사 '스냅드래곤 서밋 2024'에서 자사 AI ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] "데이터 경시하면 AX 실패한다"…엔코아, AI 도입 전략 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241024110452</link>
-            <guid>https://zdnet.co.kr/view/?no=20241024110452</guid>
-            <pubDate>Thu, 24 Oct 2024 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA["기업들은 내부 데이터를 인공지능과(AI)와 결합해야 합니다. 데이터를 식별·이해하고 지속적으로 관리하지 않는다면 AI 전환(AX)에 실패하게 됩니다." 엔코아 명재호 대표는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
