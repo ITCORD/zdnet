@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 11:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 12:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤성호 마키나락스 대표 "모든 회사는 AI 준비가 돼 있어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241024201721</link>
+            <guid>https://zdnet.co.kr/view/?no=20241024201721</guid>
+            <pubDate>Thu, 24 Oct 2024 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA["특화AI(Specialized AI)는 기업의 리얼 월드(Real World)를 혁신하는 기술입니다. 디지털월드 규모는 11.5조달러(약 1경 6천조원)로 세계 총 GDP의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["MLOps 넘어 초연결성 제공"···마키나락스, 첫 AI 컨퍼런스]]></title>
             <link>https://zdnet.co.kr/view/?no=20241024184326</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241024110452</guid>
             <pubDate>Thu, 24 Oct 2024 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA["기업들은 내부 데이터를 인공지능과(AI)와 결합해야 합니다. 데이터를 식별·이해하고 지속적으로 관리하지 않는다면 AI 전환(AX)에 실패하게 됩니다." 엔코아 명재호 대표는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["메타버스서 지게차 조종"…라온메타, 메타데미에 실습 콘텐츠 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241024101813</link>
-            <guid>https://zdnet.co.kr/view/?no=20241024101813</guid>
-            <pubDate>Thu, 24 Oct 2024 02:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[라온메타가 메타데미에 건설기계 조종훈련 실습 콘텐츠를 출시해 메타버스 기반 콘텐츠 라인업을 확대한다. 라온메타는 가상현실(VR) 운용 교육 솔루션 기업 빅픽쳐스와 '메타버스 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
