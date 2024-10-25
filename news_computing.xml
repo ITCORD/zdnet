@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 09:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 10:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["또 먹통이네?"…4시간 만에 복구된 MS 팀즈, 믿고 써도 될까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241025185137</link>
+            <guid>https://zdnet.co.kr/view/?no=20241025185137</guid>
+            <pubDate>Fri, 25 Oct 2024 10:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 잦은 클라우드 서비스 먹통 사태로 도마 위에 올랐다. 장애가 있을 때마다 책임을 회피하는 듯한 모습도 보이고 있어 논란이다. 25일 업계에 따르면 MS ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["이번에 또?"…티맥스A&C 두 달 연속 임금체불, 임직원 발 동동]]></title>
             <link>https://zdnet.co.kr/view/?no=20241025180643</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241024230942</guid>
             <pubDate>Thu, 24 Oct 2024 14:12:12 GMT</pubDate>
             <content:encoded><![CDATA[생성AI 스타트업 포티투마루(42Maru, 대표 김동환)는 일산 킨텍스에서 열리고 있는 '대한민국 첨단기술 대전 RAD Korea Week'에서 국내 4개 AI대학원과 손잡고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["MLOps 도입, 국내기업 대부분 가장 낮은 1단계"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241024220744</link>
-            <guid>https://zdnet.co.kr/view/?no=20241024220744</guid>
-            <pubDate>Thu, 24 Oct 2024 13:21:19 GMT</pubDate>
-            <content:encoded><![CDATA["MLOps 도입 성숙도를 5단계로 나누는데 국내 기업은 대부분 가장 낮은 1단계에 있습니다."(베슬AI 안재만 대표) "LLM 기술 발전 속도는 엄청납니다. 학습으로 얻을 수...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
