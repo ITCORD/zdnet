@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 06:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고속버스 전산망 장애...좌석 예매 이용 차질]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241027142501</link>
+            <guid>https://zdnet.co.kr/view/?no=20241027142501</guid>
+            <pubDate>Sun, 27 Oct 2024 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[고속버스 전산망에 장애가 발생하면서 시민들이 좌석 예매에 불편을 겪고 있다. 27일 오후 1시를 넘어서면서 고속버스와 시외버스 전산망이 차질을 빚고 있다. 이같은 장애는 1시간...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 사람 대신 인터넷서 제품 구매·예약하는 AI 개발 중]]></title>
             <link>https://zdnet.co.kr/view/?no=20241027093809</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241025140058</guid>
             <pubDate>Fri, 25 Oct 2024 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA["모바일 신분증 등에 활용되는 분산 신원인증(DID)이 부상할 것입니다. 한국은 DID 기술력을 충분히 갖췄습니다. 이를 수출해 글로벌 신원인증 생태계를 주도해야 합니다. 한국...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[교보생명·특허청이 선택한 AI 기업…'로민'의 성장 비결은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241025132122</link>
-            <guid>https://zdnet.co.kr/view/?no=20241025132122</guid>
-            <pubDate>Fri, 25 Oct 2024 06:17:53 GMT</pubDate>
-            <content:encoded><![CDATA["단일 기술로는 업무 자동화가 이뤄지지 않습니다. 이에 우리는 문서를 읽고 이해하며 자동으로 처리하는 통합 솔루션을 개발했습니다. 고객사의 업무를 자동화함으로써 효율을 극대화하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
