@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 09:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 10:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태규 직무대행 "공정위와 협의중, 시장 안정화 조치 충분히 설명"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241029173510</link>
+            <guid>https://zdnet.co.kr/view/?no=20241029173510</guid>
+            <pubDate>Tue, 29 Oct 2024 10:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[김태규 방송통신위원회 위원장 직무대행이 공정거래위원회의 통신 3사 제재 추진과 관련해 “정부 부처 간 협의가 진행 중이며 단말기 유통법의 취지와 그간 방통위의 시장 안정화 조치...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HCN, 'KT그룹 미디어투어' 진행..."지역 미디어 인재 양성"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241029165315</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241028090405</guid>
             <pubDate>Mon, 28 Oct 2024 00:58:51 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 삼성전자와 협력을 통해 AI 기반 5G 기지국 품질 최적화 기술을 상용망에 적용, 무선망을 고도화한다고 28일 밝혔다. SK텔레콤과 삼성전자는 AI, 딥러닝을 활용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 5G 망에서 음성통화...VoNR 전국 상용화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241028085705</link>
-            <guid>https://zdnet.co.kr/view/?no=20241028085705</guid>
-            <pubDate>Mon, 28 Oct 2024 00:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 5G 통화 기술인 VoNR을 전국적으로 서비스 한다고 28일 밝혔다. VoNR은 5G로 음성을 전달하는 기술로, 5G SA 기반으로 가능하다. 이전에는 5G 단말을 사용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
