@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 07:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 08:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무하유 "AI가 복제한 뉴스 기사 가려낸다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241029145830</link>
+            <guid>https://zdnet.co.kr/view/?no=20241029145830</guid>
+            <pubDate>Tue, 29 Oct 2024 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[무하유가 생성 인공지능(AI)이 작성한 뉴스 기사들 사이의 유사도를 분석하는 기술을 개발한다. 무하유는 한국콘텐츠진흥원이 주관하는 'AI가 작성한 뉴스 기사에 특화된 유사도 비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["서울을 글로벌 AI 허브로"…AWS, '생성형 AI 로프트 투어' 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241029145200</link>
+            <guid>https://zdnet.co.kr/view/?no=20241029145200</guid>
+            <pubDate>Tue, 29 Oct 2024 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[아마존웹서비스(AWS)가 인공지능(AI)과 스타트업에 관심 있는 서울 시민들을 위해 만남의 장을 열어 글로벌 기술 협력을 가속한다. AWS는 오는 30일부터 다음달 6일까지 서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG CNS, 쉽고 편한 슈퍼앱 개발도구 '프론티어 라이브' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241029163351</link>
+            <guid>https://zdnet.co.kr/view/?no=20241029163351</guid>
+            <pubDate>Tue, 29 Oct 2024 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[LG CNS가 슈퍼앱(Super App)과 웹사이트 사용자 경험 개선을 위한 서비스를 선보인다. LG CNS는 사용자환경(UI)·사용자경험(UX) 개발도구 '프론티어 라이브(L...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터, 클라우드 기반 의료·바이오 미래 전략 제시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241029132552</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241029083053</guid>
             <pubDate>Tue, 29 Oct 2024 00:57:36 GMT</pubDate>
             <content:encoded><![CDATA[중국과 연계된 해커들이 미국 대선 캠프 인사들의 통화 내용을 감청하면서 미국 안보 당국에 비상이 걸렸다. 29일 로이터 통신에 따르면 중국 정부와 관련된 해커들이 트럼프 캠프 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글·MS 의존도 줄인다"...메타, AI 검색 엔진 개발 착수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241029070359</link>
-            <guid>https://zdnet.co.kr/view/?no=20241029070359</guid>
-            <pubDate>Tue, 29 Oct 2024 00:57:36 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 인공지능(AI) 기반 검색 엔진을 개발 중인 것으로 전해졌다. 디인포메이션은 28일 메타가 AI 검색 엔진을 만들어 자사 메신저와 소셜미디어(SNS) 플랫폼에 대화형 검...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["SW 원격개발 활성화를"···정산연, 보안 체크리스트 발표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241028222746</link>
-            <guid>https://zdnet.co.kr/view/?no=20241028222746</guid>
-            <pubDate>Mon, 28 Oct 2024 14:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어(SW) 원격 개발이 겉돌고 있는 가운데 이를 활성화하기 위한 보안요건 체크리스트가 나왔다. 한국정보산업연합회(회장 정진섭, 정산연)는 28일 '공공 SW용역 원격 수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이매트릭스, 日 '2024 재팬 DX 위크'서 생성 AI 솔루션 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241028173131</link>
-            <guid>https://zdnet.co.kr/view/?no=20241028173131</guid>
-            <pubDate>Mon, 28 Oct 2024 09:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[비아이매트릭스가 일본 최대 IT 전시회에서 자사의 생성 AI 솔루션을 공개하며 일본 디지털 전환(DX) 시장에 도전장을 내밀었다. 비아이매트릭스는 지난 23일부터 25일까지 일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
