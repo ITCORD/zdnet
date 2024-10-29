@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 03:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 04:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] "국내 클라우드 컨택센터 선도할 것"…ECS텔레콤, 'CX원' 론칭]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241029124231</link>
+            <guid>https://zdnet.co.kr/view/?no=20241029124231</guid>
+            <pubDate>Tue, 29 Oct 2024 04:15:31 GMT</pubDate>
+            <content:encoded><![CDATA["클라우드와 서비스형 소프트웨어(SaaS) 시대가 열리면서 이제 국내에서도 클라우드 컨택센터(CCaaS)가 본격적으로 시작되고 있습니다. 전 세계 6천여 고객사를 보유하고 가트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포시에스, SaaS 전자계약 솔루션 과기정통부 장관상 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20241029120619</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241028144227</guid>
             <pubDate>Mon, 28 Oct 2024 08:17:49 GMT</pubDate>
             <content:encoded><![CDATA[네이버클라우드가 '웨일 UBT'와 새로운 운영체제인 '웨일 OS 플렉스(FLEX)'를 앞세워 국내 교육 시장 공략에 나선다. 네이버클라우드는 지난 26일 열린 제3회 '네이버 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, '국가공유데이터 플랫폼' 구축 착수…데이터 통합 수집·활용 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241028163900</link>
-            <guid>https://zdnet.co.kr/view/?no=20241028163900</guid>
-            <pubDate>Mon, 28 Oct 2024 08:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 각 부처의 데이터를 수집·통합해 종합적으로 관리하기 위한 범정부 통합 플랫폼을 구축한다. 행정안전부는 '국가공유데이터 플랫폼(이하 데이터 플랫폼)'을 구축하기 위해 사업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
