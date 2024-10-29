@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 13:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 14:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["데이터 중심 AI신뢰성 검증"···AI미래포럼 토크콘서트 개최]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241029230018</link>
+            <guid>https://zdnet.co.kr/view/?no=20241029230018</guid>
+            <pubDate>Tue, 29 Oct 2024 14:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[생성AI 스타트업 포티투마루(42Maru, 대표 김동환)는 30일 오후 4시 '데이터 중심 AI 신뢰성 검증 및 MLOps'를 주제로 과실연 AI미래포럼 토크콘서트를 진행한다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/29/93a16f8a37ba824e1726920f594e4f22-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터스트림즈, AI활용 수사 혁신 디지털 포렌식 기술 발표]]></title>
             <link>https://zdnet.co.kr/view/?no=20241029220701</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241029214452</guid>
             <pubDate>Tue, 29 Oct 2024 13:21:42 GMT</pubDate>
             <content:encoded><![CDATA[우리나라가 발사한 인공위성을 포획해 대기권으로 재진입시키는 '우주물체 능동제어 선행기술' 개발이 추진된다. 또 이를 사업화할 민간 비즈니스 모델 개발에도 나선다. 우주항공청(청...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/29/219992c90e604f9ae8e7645d873f96ef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NIPA, '2024 일본 IT위크' 참여···91만달러 계약 성사]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241029173845</guid>
             <pubDate>Tue, 29 Oct 2024 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[금호타이어가 2024년 3분기 연결기준 매출 1조 1천150억원, 영업이익 1천402억원의 잠정실적을 기록했다고 29일 밝혔다. 금호타이어 3분기 매출액은 1조 1천150억원으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE, 100% 팬리스 직접 수냉 시스템 아키텍처 공개…"AI 효율성 극대화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241029173630</link>
-            <guid>https://zdnet.co.kr/view/?no=20241029173630</guid>
-            <pubDate>Tue, 29 Oct 2024 09:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[HPE가 대규모 인공지능(AI) 활용시 데이터센터의 에너지 및 비용 효율성을 극대화할 수 있는 수냉 시스템 아키텍처를 발표했다. HPE는 'AI 데이(AI Day)' 행사에서 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
