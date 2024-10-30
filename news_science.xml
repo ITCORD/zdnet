@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 07:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이미지 속 데이터 완벽 보안 등 KAIST 진흙 속 '진주'같은 기술 관심"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241030164107</link>
+            <guid>https://zdnet.co.kr/view/?no=20241030164107</guid>
+            <pubDate>Wed, 30 Oct 2024 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA["이미지 속에 이미지를 숨기는 보안 기술에 대해 들어봤을 것이다. 우리는 해커가 들여다봐도 데이터가 어디 있는지, 설령 어디 있는지 알아도 무엇인지 알수 없다." KAIST가 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/10/30/70a7db627489b4eafd565e74ffe998b0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中, 선저우 19호 발사…우주정거장에 3명 보낸다 [우주로 간다]]]></title>
             <link>https://zdnet.co.kr/view/?no=20241030095344</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241029214452</guid>
             <pubDate>Tue, 29 Oct 2024 13:23:43 GMT</pubDate>
             <content:encoded><![CDATA[우리나라가 발사한 인공위성을 포획해 대기권으로 재진입시키는 '우주물체 능동제어 선행기술' 개발이 추진된다. 또 이를 사업화할 민간 비즈니스 모델 개발에도 나선다. 우주항공청(청...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/29/219992c90e604f9ae8e7645d873f96ef-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 30일 반도체 패키징 기술 교류회]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241023172617</guid>
             <pubDate>Wed, 23 Oct 2024 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA["페어팩스 카운티에는 양자컴퓨팅으로 다시 주목받고 있는 IBM이나 나스닥에 상장한 양자컴퓨팅 업체 아이온큐를 비롯한 조지 메이슨 대학이나 버지니아 공대, 존스홉킨스 대학 등이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성층권 태양광 드론 상용화 "드라이브 걸렸다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241023112144</link>
-            <guid>https://zdnet.co.kr/view/?no=20241023112144</guid>
-            <pubDate>Wed, 23 Oct 2024 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[성층권 태양광 드론 상용화 추진이 본격화됐다. 우주항공청(청장 윤영빈, 이하 우주청)과 성층권드론기술개발사업단(단장 오수훈, 이하 사업단)은 23일 세종에서 국내 성층권 태양광...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
