@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 07:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 08:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로옴, 고해상도 음원 위한 'MUS-IC' 오디오 DAC 칩 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241031163311</link>
+            <guid>https://zdnet.co.kr/view/?no=20241031163311</guid>
+            <pubDate>Thu, 31 Oct 2024 08:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[로옴는 고해상도 오디오 음원의 재생에 적합한 MUS-IC 시리즈의 플래그십 모델용 32bit D/A 컨버터 IC(이하 DAC 칩) 'BD34302EKV'와 평가 보드 'BD34...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 다시 뛴다...HBM3E 개선하고 TSMC와 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20241031150141</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241029205919</guid>
             <pubDate>Tue, 29 Oct 2024 12:23:51 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 30일 제주에서 '반도체 첨단 패키징 기술교류회'를 개최했다. 이 행사에는 올해 착수한 반도체 첨단패키징 핵심원천기술 개발, 연구인프라 구축, 인력양성사업 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이에스티이, 증권신고서 제출...코스닥 상장 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241029161543</link>
-            <guid>https://zdnet.co.kr/view/?no=20241029161543</guid>
-            <pubDate>Tue, 29 Oct 2024 08:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 장비 전문기업 아이에스티이는 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 본격적인 공모 절차에 돌입한다고 29일 밝혔다. 아이에스티이가 공모하는 주식수는 총 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
