@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 01:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 02:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아 주가 5% 급락…AI 투자 둔화 우려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241101090343</link>
+            <guid>https://zdnet.co.kr/view/?no=20241101090343</guid>
+            <pubDate>Fri, 01 Nov 2024 02:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아 주가가 31일(현지시간) 인공지능(AI) 관련 투자 감소와 AI 칩 납품 지연에 대한 투자자들의 우려로 인해 약 5% 가까이 급락했다고 야후 파이낸스 등 외신들이 보도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코아시아, 'Arm 테크 심포지아' 참가해 AI 플랫폼 소개]]></title>
             <link>https://zdnet.co.kr/view/?no=20241101094335</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241030151654</guid>
             <pubDate>Wed, 30 Oct 2024 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[센서·LED 전문기업인 ams오스람이 업계서 유일하게 광원과 센서를 동시에 턴키 솔루션으로 공급하는 장점을 바탕으로 국내에서 차량용 LED, 모바일 시장을 강화하고 신시장인 로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쎄닉, 전력반도체용 SiC 가공전문기업 헤일로와 MOU 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241030145130</link>
-            <guid>https://zdnet.co.kr/view/?no=20241030145130</guid>
-            <pubDate>Wed, 30 Oct 2024 06:34:44 GMT</pubDate>
-            <content:encoded><![CDATA[전력반도체용 실리콘카바이드(SiC) 소재 전문기업 쎄닉은 미국의 SiC 가공전문업체인 헤일로 인더스트리(Halo Industries)와 SiC 웨이퍼 공급과 가공 협력에 대한 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
