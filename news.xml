@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 08:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] '갓 튀긴 라면의 도시'…구미라면축제 가보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241101172824</link>
+            <guid>https://zdnet.co.kr/view/?no=20241101172824</guid>
+            <pubDate>Sat, 02 Nov 2024 08:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[“지난주에 김천 김밥축제에 다녀왔는데 사람이 많아서 아무것도 먹지 못해서 힘들었어요. 라면 축제는 안내와 안전시설이 잘 돼 있어서 비가 와도 아이와 같이 돌아다닐 수 있어서 좋...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/01/57688486a644a47af4c0e80eb7f50d4a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인텔리빅스 최은수 대표, '2025 CES' 혁신상 심사위원 임명]]></title>
             <link>https://zdnet.co.kr/view/?no=20241102145815</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241102095648</guid>
             <pubDate>Sat, 02 Nov 2024 05:12:07 GMT</pubDate>
             <content:encoded><![CDATA[한국콘텐츠진흥원은 글로벌 게임산업 및 주요국 육성 전략을 분석한 '글로벌 게임산업 생태계 분석과 국가별 육성 전략 보고서'를 발간했다. 보고서에는 각국의 적극적인 정책 지원이 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/02/ddd319494aa8d0e0558b1375b76f02eb-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박준규 에이디테크놀로지 대표 "AI·HPC 칩렛 플랫폼 혁신 이끌겠다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241101174132</guid>
             <pubDate>Fri, 01 Nov 2024 10:13:47 GMT</pubDate>
             <content:encoded><![CDATA[양극재 전문 기업 엘앤에프가 전기차 시장 수요 둔화에 따른 실적 부진을 면치 못했다. 길어진 업황 둔화 위기를 원통형 배터리용 제품과 고전압 미드니켈 제품 수주를 통해 타개하겠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["그랑 콜레오스가 끌고 기아가 받쳤다"…10월 완성차, 7개월만 '70만대']]></title>
-            <link>https://zdnet.co.kr/view/?no=20241101181327</link>
-            <guid>https://zdnet.co.kr/view/?no=20241101181327</guid>
-            <pubDate>Fri, 01 Nov 2024 10:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[올해 경기침체, 신차구매 수요 부진과 맞서 싸우던 국내 완성차가 4분기 긍정적인 시작을 열었다. 신차 출시를 이어가고 생산 설비 조정을 끝마치면서 본격적인 인도가 시작된 것이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
