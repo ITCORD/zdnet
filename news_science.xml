@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 06:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정연욱 성균관대 교수 "양자컴, '꿈의 기술' 아닌 '어려운 기술'일뿐…표준화는 아직 일러"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241105150947</link>
+            <guid>https://zdnet.co.kr/view/?no=20241105150947</guid>
+            <pubDate>Tue, 05 Nov 2024 07:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[양자컴퓨터 분야에서 표준은 아직 이릅니다. 2개 표준이 경쟁하려면 방식에 따른 결과물이 같아야 하는데, 현재는 자전거와 배가 제각각 나오는 식입니다. 기술수준이나 타깃도 업체나...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/05/5915ecfd010ff80db199ce3c1a819e40-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가 슈퍼컴 6호기 GPU 8천개로 가닥…AI 분야에 연산자원 30% 할당키로]]></title>
             <link>https://zdnet.co.kr/view/?no=20241105093908</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241105084056</guid>
             <pubDate>Tue, 05 Nov 2024 03:19:09 GMT</pubDate>
             <content:encoded><![CDATA[현재 IBM이나 구글의 양자컴퓨팅에서 최대 관건은 큐비트 오류 완화와 수정 기술 확보다. 그러나 큰 진전은 아직까지 없다. 국내 연구진이 이 같은 오류 완화나 수정 자체가 필요...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/05/009c68808bbf523b0c241f93ce6b1c14-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 대선 앞둔 ISS…NASA 우주인은 어떻게 투표하나 [우주로 간다]]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241030225605</guid>
             <pubDate>Wed, 30 Oct 2024 14:15:08 GMT</pubDate>
             <content:encoded><![CDATA[국내 연구진이 인공지능을 활용해 양자역학적 고성능 컴퓨터 시뮬레이션 계산 시간을 획기적으로 단축하는데 성공했다. KAIST(총장 이광형)는 전기및전자공학부 김용훈 교수 연구팀이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["이미지 속 데이터 완벽 보안 등 KAIST 진흙 속 '진주'같은 기술 관심"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241030164107</link>
-            <guid>https://zdnet.co.kr/view/?no=20241030164107</guid>
-            <pubDate>Wed, 30 Oct 2024 08:19:13 GMT</pubDate>
-            <content:encoded><![CDATA["이미지 속에 이미지를 숨기는 보안 기술에 대해 들어봤을 것이다. 우리는 해커가 들여다봐도 데이터가 어디 있는지, 설령 어디 있는지 알아도 무엇인지 알수 없다." KAIST가 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
