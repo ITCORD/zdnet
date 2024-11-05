@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 14:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 15:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오윤제 IITP PM "내년 2월 예산 적정성 검토 완료...투자 원년될 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241105230115</link>
+            <guid>https://zdnet.co.kr/view/?no=20241105230115</guid>
+            <pubDate>Tue, 05 Nov 2024 15:16:00 GMT</pubDate>
+            <content:encoded><![CDATA["지난 8월 예비타당성조사 면제를 받은 양자 관련 사업(플래그십)이 내년 2월 예산 적정성 평가를 마무리합니다. 내년이 양자 분야 투자 원년이 될 것으로 기대하는 이유입니다."...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/05/beebe2cc447848800fe036c831ff3941-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정연욱 성균관대 교수 "양자컴, '꿈의 기술' 아닌 '어려운 기술'일뿐…표준화는 아직 일러"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241105150947</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241105093908</guid>
             <pubDate>Tue, 05 Nov 2024 03:19:09 GMT</pubDate>
             <content:encoded><![CDATA[정부가 예산을 대폭 늘려 이달 입찰을 재개할 국가 슈퍼컴퓨터 6호기 GPU 갯수가 8천 개 이상으로 정해졌다. 대신 CPU 갯수는 5호기 대비 절반가량인 4천 개로 확정됐다.또...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/05/f9d3f58ad3c5477bb133f73712222271-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KIST, 양자컴서 IBM 극복하나...오류수정 필요없는 16차원 '큐디트' 기술 첫 확보]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241030172453</guid>
             <pubDate>Wed, 30 Oct 2024 14:15:08 GMT</pubDate>
             <content:encoded><![CDATA[트랜지스터만 100억 개가 탑재된 8테라플롭스 급 슈퍼컴퓨터 가속기가 국내에서 개발됐다.이로 인해 우리나라가 세계 5번째로 슈퍼컴퓨터 제조국가로 등극할지에 관심이 쏠였다. 슈퍼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KAIST "인공신경망 모델로 양자역학적 고성능 과학계산 세계 첫 성공"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241030225605</link>
-            <guid>https://zdnet.co.kr/view/?no=20241030225605</guid>
-            <pubDate>Wed, 30 Oct 2024 14:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 인공지능을 활용해 양자역학적 고성능 컴퓨터 시뮬레이션 계산 시간을 획기적으로 단축하는데 성공했다. KAIST(총장 이광형)는 전기및전자공학부 김용훈 교수 연구팀이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
