@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 09:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 10:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗, 비트코인 신고가 예측 이벤트 실시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241106182733</link>
+            <guid>https://zdnet.co.kr/view/?no=20241106182733</guid>
+            <pubDate>Wed, 06 Nov 2024 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[가상자산 거래소 코빗(대표 오세진)이 비트코인 신고가 예측 이벤트를 진행한다고 6일 밝혔다. 코빗은 지난 2024년 3월 기록한 전고점 이후 비트코인 1억원 재돌파를 기념해 1...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/06/d42d2c97652441c9838b37776ded1b94-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["한 번 오류가 인명피해로"…자동차·의료, 어떻게 장애 방지할까?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241106175742</link>
+            <guid>https://zdnet.co.kr/view/?no=20241106175742</guid>
+            <pubDate>Wed, 06 Nov 2024 10:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[군사, 의료 등 한 번의 장애가 인명피해까지 이어질 수 있는 산업 분야에서 사고를 방지하기 위한 방법이 제14회 소프트웨어 개발보안 컨퍼런스에서 소개됐다. 슈어소프트테크 심정민...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/06/60c59eae7db83eaeaf726ecca1a1b29a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["구글도 보안 취약점 못 피해"…안전한 SW 개발 환경 만들려면?]]></title>
             <link>https://zdnet.co.kr/view/?no=20241106175507</link>
             <guid>https://zdnet.co.kr/view/?no=20241106175507</guid>
             <pubDate>Wed, 06 Nov 2024 09:13:47 GMT</pubDate>
             <content:encoded><![CDATA["소프트웨어(SW)와 보안 취약점은 뗄 수 없는 관계입니다. 공격자는 이를 늘 악용할 것입니다. 개발자는 SW 설계 단계부터 시큐어 코딩을 필수적으로 진행해야 합니다." 엔키화...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/06/35ef21fcb4d91d37aa9e496f143e564d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토스 "개발 초기부터 보안 자동화 안전성 높이는 비결 알려드려요"]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241106141005</guid>
             <pubDate>Wed, 06 Nov 2024 09:13:47 GMT</pubDate>
             <content:encoded><![CDATA["개발 단계부터 보안을 자동화하면 더 안전하고 효율적인 서비스를 제공할 수 있습니다." 표상영 토스 보안연구원은 6일 서울 강남 섬유센터에서 열린 '제14회 소프트웨어 개발보안...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/06/32d493661be2a4d1a690ef812f5ca494-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서태건 위원장 "게임위, 더 나아진 게임 생태계 조성에 앞장"]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241106162029</guid>
             <pubDate>Wed, 06 Nov 2024 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[미국 반도체업계가 반도체·과학법(CHIPS and Science Act)이 제정된지 한참 지났지만 보조금을 못 받고 있다고 불만을 나타냈다. 미국 블룸버그통신은 5일(현지시간)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국민건강보험공단 알림 문자, '공단상징' 및 '안심마크' 표기]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241106164418</link>
-            <guid>https://zdnet.co.kr/view/?no=20241106164418</guid>
-            <pubDate>Wed, 06 Nov 2024 08:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[국민건강보험공단을 사칭한 문자가 국가건강검진이 몰리는 연말 기승을 부리고 있는 가운데, 국민 피해를 줄일 수 있는 방안이 마련됐다. 국민건강보험공단(이하 건보공단)은 알씨에스(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['전신마취 후 환자의 안전한 회복' 환자안전 주의경보 발령]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241106164217</link>
-            <guid>https://zdnet.co.kr/view/?no=20241106164217</guid>
-            <pubDate>Wed, 06 Nov 2024 08:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[의료기관평가인증원(이하 인증원)은 '전신마취 후 환자의 안전한 회복'을 주제로 환자안전 주의경보를 발령했다. 이번 발령한 주의경보는 전신마취 후 회복 시 환자 모니터링 미흡으로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
