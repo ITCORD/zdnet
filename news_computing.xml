@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 03:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 04:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] "AI 시대의 금융 보안 패러다임"…삼성SDS, 보안 대응 전략 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241107093623</link>
+            <guid>https://zdnet.co.kr/view/?no=20241107093623</guid>
+            <pubDate>Thu, 07 Nov 2024 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA["생성형 인공지능(AI) 시대가 도래하면서 금융 시스템은 근본적인 변화를 맞이하고 있습니다. 해커들이 AI를 해킹에 활용하는 상황에서 '제로트러스트' 보안 모델은 선택이 아닌 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] 구글클라우드 "신뢰할 수 없는 AI? 우리는 다르다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241107113239</link>
+            <guid>https://zdnet.co.kr/view/?no=20241107113239</guid>
+            <pubDate>Thu, 07 Nov 2024 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA["AI 시대에 금융 산업이 나아갈 길은 신뢰와 책임을 기반으로 한 혁신입니다. 우리는 모두를 위한 안전하고 프라이버시를 존중하는 AI를 만들어가고 있습니다." 지기성 구글클라우...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터독도 '찜' 한 메가존클라우드, 글로벌 경쟁력 인정 받았다]]></title>
             <link>https://zdnet.co.kr/view/?no=20241107105542</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241106164141</guid>
             <pubDate>Wed, 06 Nov 2024 08:16:52 GMT</pubDate>
             <content:encoded><![CDATA[아주대학교, 경원대학교와 성신여자대학교 4명의 학생으로 구성된 지구야미안해팀이 '소프트웨어(SW) 개발보안 경진대회'에서 대상을 수상했다. 지구야미안해팀은 5일 서울 강남구 섬...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[염흥열 교수 "안전한 SW 공급망 필수…망 내부 훤히 보여야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241106155112</link>
-            <guid>https://zdnet.co.kr/view/?no=20241106155112</guid>
-            <pubDate>Wed, 06 Nov 2024 08:16:52 GMT</pubDate>
-            <content:encoded><![CDATA["최근 개별 소프트웨어(SW)뿐 아니라 SW 공급망 보안 중요성이 커졌습니다. 국내 정부도 공급망에 소프트웨어 자재 명세서(SBOM)를 의무화해야 합니다. SBOM이 SW 개발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["B2G 경쟁력 입증했다"…로민, AI 문서 자동화 '텍스트스코프' 조달청 우수 지정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241106145855</link>
-            <guid>https://zdnet.co.kr/view/?no=20241106145855</guid>
-            <pubDate>Wed, 06 Nov 2024 07:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[로민의 문서 자동화 플랫폼이 공공기관 우수제품으로 지정돼 B2G 시장에서의 경쟁력을 입증했다. 로민은 자사의 '텍스트스코프® 스튜디오'가 조달청의 우수제품 지정제도에서 성능·품...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
