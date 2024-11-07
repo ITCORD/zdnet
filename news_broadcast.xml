@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 03:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황현식 LGU+ "고객이 원하는 것은 내게 필요한 AI"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241107104611</link>
+            <guid>https://zdnet.co.kr/view/?no=20241107104611</guid>
+            <pubDate>Thu, 07 Nov 2024 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA["현재 강력한 AI 엔진이 개발돼 있지만, 고객이 원하는 것은 내게 필요한 AI 서비스입니다. 하지만 원천 기술이 발전하고 있는 것 대비 그 속도를 응용 기술이 못 따라가고 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, AI 통화 에이전트 도전장...'익시오' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241107102653</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241105084928</guid>
             <pubDate>Tue, 05 Nov 2024 02:12:44 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 오는 6일부터 8일까지 서울 용산사옥에서 친환경 경영 활동과 사회공헌 등 ESG(환경·사회·지배구조) 경영 성과를 소개하는 '2024 U+ESG 페어'를 개최한다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 온디바이스 AI 셋톱박스 출시..."맞춤형 AI 시청 환경 제공"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241105101328</link>
-            <guid>https://zdnet.co.kr/view/?no=20241105101328</guid>
-            <pubDate>Tue, 05 Nov 2024 02:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 IPTV 처음으로 8K 화질을 지원하는 온디바이스 AI 셋톱박스 '지니TV 셋톱박스 4'를 선보인다고 5일 밝혔다. KT는 IPTV 셋톱박스에 8K(3천300만 화소) ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
