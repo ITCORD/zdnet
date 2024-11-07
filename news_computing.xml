@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 04:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 05:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤앤에스피-지니언스, 포스트 망분리 시대 금융 보안 대응책 내놔]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241107135016</link>
+            <guid>https://zdnet.co.kr/view/?no=20241107135016</guid>
+            <pubDate>Thu, 07 Nov 2024 05:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[앤앤에스피(대표 김일용)와 지니언스(대표 이동범)는 포스트 망분리 시대, 금융권의 자율보안체계 마련을 위해 안전한 클라우드 접속과 제로트러스트 솔루션을 제안했다. 두 회사는 금...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] "AI 시대의 금융 보안 패러다임"…삼성SDS, 보안 대응 전략 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20241107093623</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241106140952</guid>
             <pubDate>Wed, 06 Nov 2024 08:16:52 GMT</pubDate>
             <content:encoded><![CDATA["지금까지 사이버 보안은 방어자가 불리한 게임이었습니다. 이제 생성형 AI를 활용하면 이 판도를 역전시킬 수 있습니다." 심영섭 맨디언트 한국 및 일본 총괄은 6일 서울 강남 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아주대-경원대-성신여대 뭉쳤다…SW 개발 보안 경진대회서 '대상']]></title>
-            <link>https://zdnet.co.kr/view/?no=20241106164141</link>
-            <guid>https://zdnet.co.kr/view/?no=20241106164141</guid>
-            <pubDate>Wed, 06 Nov 2024 08:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[아주대학교, 경원대학교와 성신여자대학교 4명의 학생으로 구성된 지구야미안해팀이 '소프트웨어(SW) 개발보안 경진대회'에서 대상을 수상했다. 지구야미안해팀은 5일 서울 강남구 섬...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
