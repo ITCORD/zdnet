@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 00:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 02:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 다음주부터 중국에 7나노 이하 칩 출하 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241108133927</link>
+            <guid>https://zdnet.co.kr/view/?no=20241108133927</guid>
+            <pubDate>Sat, 09 Nov 2024 02:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 오는 11일부터 중국에 7나노미터 이하 공정 칩 출하를 중단한다. 지난달 TSMC가 7나노 공정으로 제작한 칩이 고객사를 통해 우회적으로 중국 화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG디스플레이, 초대형 車 디스플레이로 SDV 시대 앞당긴다]]></title>
             <link>https://zdnet.co.kr/view/?no=20241108180445</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241107080257</guid>
             <pubDate>Thu, 07 Nov 2024 02:13:43 GMT</pubDate>
             <content:encoded><![CDATA[용량을 기준으로 한 내년 전 세계 D램 공급량 증가율이 25%에 달할 전망이다. 중국 후발주자들의 생산량 확대, AI 산업 발전에 따른 HBM(고대역폭메모리) 수요 증가가 주요...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 저손실 특성·단락 내량 뛰어난 1200V IGBT 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241107094149</link>
-            <guid>https://zdnet.co.kr/view/?no=20241107094149</guid>
-            <pubDate>Thu, 07 Nov 2024 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[로옴(ROHM)은 자동차기기 신뢰성 규격 'AEC-Q101'에 준거하고, 업계 최고 수준의 저손실 특성과 높은 단락 내량을 실현한 제4세대 IGBT를 개발했다고 7일 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
