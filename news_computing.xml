@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 23:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 01:00:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["그림판에도 생성형 AI가"...MS, 윈도11 신규 기능 사전 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241110043246</link>
+            <guid>https://zdnet.co.kr/view/?no=20241110043246</guid>
+            <pubDate>Sun, 10 Nov 2024 00:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 윈도11 그림판에 생성형 인공지능(AI)를 활용한 신규 기능을 추가한다. AI를 활용해 이미지를 선택해 지우거나 생성하는 기능으로 아직 미리보기 버전인 만큼 정...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[앤트로픽, AI 경쟁 위해 '52조원' 모금…아마존이 내건 투자 조건은?]]></title>
             <link>https://zdnet.co.kr/view/?no=20241109094556</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241108101213</guid>
             <pubDate>Fri, 08 Nov 2024 02:13:12 GMT</pubDate>
             <content:encoded><![CDATA[티맥스클라우드가 아마존웹서비스(AWS) 고객사들을 대상으로 자사 솔루션의 우수성을 알리며 고객 확보에 나섰다. 티맥스클라우드는 지난 7일 서울 강남구 코엑스에서 진행된 'AWS...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, 글로벌 워터마크 연합 'C2PA' 합류...AI 윤리 선도]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241108090128</link>
-            <guid>https://zdnet.co.kr/view/?no=20241108090128</guid>
-            <pubDate>Fri, 08 Nov 2024 02:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[이스트소프트가 인공지능(AI) 휴먼 서비스의 신뢰성과 투명성을 보장하기 위한 글로벌 동맹에 합류했다. 이스트소프트는 글로벌 워터마크 기술 표준 연합인 'C2PA'에 자사가 등록...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

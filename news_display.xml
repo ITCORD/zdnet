@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 23:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 01:00:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 연말도 '첨단 파운드리' 독주…월매출 최대치 경신]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241108151141</link>
+            <guid>https://zdnet.co.kr/view/?no=20241108151141</guid>
+            <pubDate>Sun, 10 Nov 2024 00:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 지난달 사상 최대 월매출을 기록했다. AI 등 첨단 산업에서의 고성능 반도체 수요가 지속된 덕분으로, 연말에도 삼성전자·인텔 등과의 격차를 확고히...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 다음주부터 중국에 7나노 이하 칩 출하 중단]]></title>
             <link>https://zdnet.co.kr/view/?no=20241108133927</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241107103528</guid>
             <pubDate>Thu, 07 Nov 2024 02:13:43 GMT</pubDate>
             <content:encoded><![CDATA[마우저일렉트로닉스는 ST마이크로일렉트로닉스의 B-CAMS-IMX 카메라 모듈을 공급한다고 7일 밝혔다. B-CAMS-IMX 모듈은 STM32 디스커버리 키트(Discovery ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 D램 비트 생산량 25% 증가…"메모리 업계 전략 잘 짜야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241107080257</link>
-            <guid>https://zdnet.co.kr/view/?no=20241107080257</guid>
-            <pubDate>Thu, 07 Nov 2024 02:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[용량을 기준으로 한 내년 전 세계 D램 공급량 증가율이 25%에 달할 전망이다. 중국 후발주자들의 생산량 확대, AI 산업 발전에 따른 HBM(고대역폭메모리) 수요 증가가 주요...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
