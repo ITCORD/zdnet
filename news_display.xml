@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 23:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 00:59:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코아시아, 美 텐스토렌트 칩렛 설계 턴키 수주]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241111084234</link>
+            <guid>https://zdnet.co.kr/view/?no=20241111084234</guid>
+            <pubDate>Mon, 11 Nov 2024 00:56:58 GMT</pubDate>
+            <content:encoded><![CDATA[코아시아가 미국 텐스토렌트(Tenstorrent)으로부터 인공지능(AI)을 위한 메모리 칩렛(Chiplet) 및 I/O(입∙출력) 칩렛 2종에 대한 설계 및 생산 프로젝트를 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[與, 보조금 지원 '반도체특별법' 11일 당론 발의]]></title>
             <link>https://zdnet.co.kr/view/?no=20241110184352</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241107143834</guid>
             <pubDate>Thu, 07 Nov 2024 08:16:14 GMT</pubDate>
             <content:encoded><![CDATA[도널드 트럼프 미국 대통령 당선인이 수십억 달러를 반도체 생산 업체에 지원하는 법안을 강하게 반대하지만 반도체 제조사 주가는 올랐다고 미국 월스트리트저널이 6일(현지시간) 보도...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[P4 투자 가닥 잡은 삼성전자…라인명 P4F서 'P4H'로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241107105528</link>
-            <guid>https://zdnet.co.kr/view/?no=20241107105528</guid>
-            <pubDate>Thu, 07 Nov 2024 06:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 제4 평택캠퍼스(P4)의 첫 생산라인에 대한 투자 방향을 확정했다. 최근 생산라인 이름을 변경하고, 최선단 낸드와 D램을 동시에 양산하기 위한 준비에 나선 것으로 파...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
