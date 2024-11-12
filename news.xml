@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 13:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 14:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 2세대 버설 프리미엄 SoC 공개...2026년 상용화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241112150531</link>
+            <guid>https://zdnet.co.kr/view/?no=20241112150531</guid>
+            <pubDate>Tue, 12 Nov 2024 14:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 12일(미국 현지시간) 데이터 센터와 통신, 항공우주, 방산 등 분야를 겨냥한 FPGA(프로그래머블반도체) 신제품인 2세대 버설 프리미엄을 공개했다. 2세대 버설 프리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/12/2c3ace3786b2d9b0d078eb9d5fdec617-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨, 창사 30주년 맞아 전 임직원에 100주씩 지급]]></title>
             <link>https://zdnet.co.kr/view/?no=20241112213410</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241112201040</guid>
             <pubDate>Tue, 12 Nov 2024 12:23:11 GMT</pubDate>
             <content:encoded><![CDATA[악성 민원 전화로부터 공공기관 근무자를 보호하고 민원인의 편의를 높이기 위해 양방향 문자(MO서비스)가 효과적인 대안으로 주목받고 있다. 모노커뮤니케이션즈는 여러 지자체에서 공...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/12/d6351a6795ae847278378a8b80c1b8a8-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비트코인 9만 달러 '턱밑'…초강세 계속]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241112172759</guid>
             <pubDate>Tue, 12 Nov 2024 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[케이블 보호 전문기업 씨피시스템은 H사 슬로바키아 공장 생산라인에 케이블 보호제품을 공급한다고 12일 밝혔다. 이번 공급에는 케이블체인, 플렉시블튜브, 로보웨이, 커넥터 등 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨게임즈, 3분기 영업익 468억원…전년비 390.3%↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241112172441</link>
-            <guid>https://zdnet.co.kr/view/?no=20241112172441</guid>
-            <pubDate>Tue, 12 Nov 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨게임즈가 신작 '퍼스트 디센던트'와 스테디셀러 '블루 아카이브'의 성과로 3분기 역대 최대 분기 실적을 기록했다. 넥슨게임즈는 12일 3분기 매출 1천115억원, 영업이익 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
