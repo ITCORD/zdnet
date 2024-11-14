@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 23:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 00:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파네시아, 2년 연속 CES 혁신상 수상...CXL 3.1 IP로 인프라 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241114085819</link>
+            <guid>https://zdnet.co.kr/view/?no=20241114085819</guid>
+            <pubDate>Thu, 14 Nov 2024 00:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 반도체 CXL 팹리스 스타트업 파네시아가 CXL(Compute Express Link) 3.1 IP(설계자산)를 탑재한 GPU 메모리 확장 솔루션으로 'CES 2025 혁...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[솔리다임, 세계 최대 용량 122TB 'AI 낸드 솔루션 eSSD' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241113160944</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241111183410</guid>
             <pubDate>Tue, 12 Nov 2024 02:11:29 GMT</pubDate>
             <content:encoded><![CDATA[일본 소재 업체 JSR(Japan Synthetic Rubber)이 12일 충청북도 청주에서 반도체 극자외선(EUV) 공정 포토 레지스트 공장 기공식을 개최했다. JSR은 19...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 절연 특성 강화한 신규 SiC 쇼트키 배리어 다이오드 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241112103740</link>
-            <guid>https://zdnet.co.kr/view/?no=20241112103740</guid>
-            <pubDate>Tue, 12 Nov 2024 02:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[로옴은 단자 간의 연면 거리를 연장해 절연 내성을 향상시킨 표면 실장 타입 'SiC 쇼트키 배리어 다이오드(이하 SBD)'를 개발했다고 12일 밝혔다. 온보드 차저(OBC) 등...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
