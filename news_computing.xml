@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 03:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 04:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 베슬에이아이 "AI 활용을 쉽고 빠르게…AGI 시대 준비 돕겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241116031858</link>
+            <guid>https://zdnet.co.kr/view/?no=20241116031858</guid>
+            <pubDate>Sat, 16 Nov 2024 04:15:10 GMT</pubDate>
+            <content:encoded><![CDATA["우리는 머신러닝 운영(MLOps)을 통해 기업들이 인공지능(AI)을 가장 쉽고 빠르고 저렴하게 활용할 수 있도록 지원하고 있습니다. 이는 곧 다가오는 '에이전트 AI' 시대에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["공공기관 분산 데이터 통합 관리"···데이터스트림즈, '2024 정부 박람회' 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20241116115936</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241115114700</guid>
             <pubDate>Fri, 15 Nov 2024 03:25:10 GMT</pubDate>
             <content:encoded><![CDATA[거대언어모델(LLM) 기반 애플리케이션을 지원하기 위한 컨테이너 가상화 플랫폼 업체들의 행보가 활발한 가운데 수세(SUSE)가 생성형 인공지능(AI) 트렌드에 맞춰 새로운 무기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글·메타·카카오 줄줄이 소송"…개인정보위, 내년 초 전담팀 마련]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241115110536</link>
-            <guid>https://zdnet.co.kr/view/?no=20241115110536</guid>
-            <pubDate>Fri, 15 Nov 2024 03:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회가 글로벌 기업과의 소송에 대비해 송무팀 신설을 추진한다. 15일 개인정보위 이정렬 사무처장은 서울정부청사에서 브리핑을 열고 이 같은 계획을 발표했다. 현재 개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
