@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 18:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 19:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["코파일럿 스튜디오, 누구나 AI 에이전트 만든다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241120033712</link>
+            <guid>https://zdnet.co.kr/view/?no=20241120033712</guid>
+            <pubDate>Tue, 19 Nov 2024 19:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 복잡한 코딩 없이 자연어만으로 인공지능(AI) 에이전트를 만들 수 있는 개발환경을 선보인다. 마이크로소프트 오마르 아프타브 대화형AI 부사장은 20일 개최한 연...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/20/0ea6753e71742e8944256766f8d815a6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사티아 나델라, '에이전틱 시대' 선언…"AI로 삶·비즈니스 혁신"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241120025218</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241119224459</guid>
             <pubDate>Tue, 19 Nov 2024 14:12:10 GMT</pubDate>
             <content:encoded><![CDATA["국내 클라우드 산업이 당면한 가장 큰 도전과제요? 크게 두 가지입니다. 첫째, 지속 가능한 성장을 위한 인프라와 기술 역량 확보입니다. 클라우드 산업이 빠르게 성장하고 있지만...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/19/de11b5ec95f704f8c2eb62aadae4c470-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[번개장터, 장바구니 기능 도입…배송비 한 번만 낸다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241119170214</guid>
             <pubDate>Tue, 19 Nov 2024 08:16:47 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 하이엔드 오디오 브랜드 포칼이 첫 하이엔드 액티브 스피커 '디바 유토피아'를 출시했다고 19일 밝혔다. 디바 유토피아는 포칼의 시그니처인 인버티드 돔 베릴륨 트위터(27...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["보안 회사가 캐릭터 시장에?"…알약, '이스트로바'로 판타지 실현]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241119104812</link>
-            <guid>https://zdnet.co.kr/view/?no=20241119104812</guid>
-            <pubDate>Tue, 19 Nov 2024 08:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[이스트시큐리티가 캐릭터 IP 브랜드 '이스트로바'를 통해 캐릭터 사업에 본격적으로 뛰어든다. 이스트시큐리티는 자사의 대표 캐릭터 '알약이'와 친구들을 중심으로 한 브랜드 '이스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
