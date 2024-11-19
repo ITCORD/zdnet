@@ -4,11 +4,35 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 02:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 03:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["대규모 AI 지원"…퓨어스토리지, 스토리지 접근성 확대]]></title>
+            <title><![CDATA[모니터링으로 감당 어려운 기업 인프라…"옵저버빌리티로 바꿀 때"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241119115134</link>
+            <guid>https://zdnet.co.kr/view/?no=20241119115134</guid>
+            <pubDate>Tue, 19 Nov 2024 03:25:00 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI), 클라우드 기반 디지털혁신(DX)이 본격화되며 복잡해진 시스템은 더 이상 모니터링 만으로는 한계가 있다. 이제는 하드웨어(HW)와 소프트웨어(SW) 데이터까지...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["데이터 안전 강화"…파수, FED 신규 버전 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241119112041</link>
+            <guid>https://zdnet.co.kr/view/?no=20241119112041</guid>
+            <pubDate>Tue, 19 Nov 2024 03:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[파수가 문서 환경과 애플리케이션 등에서 제한 없이 데이터를 안전하게 관리하는 기능을 솔루션에 추가했다. 파수는 플래그십 데이터 보안 솔루션 '파수 엔터프라이즈 디알엠(FED)'...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아카마이, 新 '앱 플랫폼'으로 쿠버네티스 도입 난제 해결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241119113430</link>
+            <guid>https://zdnet.co.kr/view/?no=20241119113430</guid>
+            <pubDate>Tue, 19 Nov 2024 03:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[아카마이 테크놀로지스가 고도로 분산된 애플리케이션을 배포, 관리, 확장할 수 있도록 지원하는 새로운 솔루션으로 시장 확대에 나선다. 아카마이는 올해 초 인수한 클라우드 네이티브...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["대규모 AI 지원"…퓨어스토리지, 플랫폼 접근성 확대]]></title>
             <link>https://zdnet.co.kr/view/?no=20241119110853</link>
             <guid>https://zdnet.co.kr/view/?no=20241119110853</guid>
             <pubDate>Tue, 19 Nov 2024 02:22:48 GMT</pubDate>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241119091419</guid>
             <pubDate>Tue, 19 Nov 2024 00:59:24 GMT</pubDate>
             <content:encoded><![CDATA[러시아 국적의 사이버 범죄자가 한국에서 체포 후 미국으로 송환됐다. 그는 랜섬웨어를 개발해 1천건 이상의 공격에 참여하며 1천600만 달러(약 223억원) 규모의 몸값을 탈취한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미스트랄, AI 챗봇 업그레이드…새 모델 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241119083557</link>
-            <guid>https://zdnet.co.kr/view/?no=20241119083557</guid>
-            <pubDate>Tue, 19 Nov 2024 00:59:24 GMT</pubDate>
-            <content:encoded><![CDATA[미스트랄이 자사 생성형 인공지능(AI) 제품 포트폴리오를 전면 업그레이드했다. 19일 테크크런치 등 외신에 따르면 미스트랄은 챗봇 '르 챗' 새 기능과 멀티모달 모델 '픽셀 라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글·오픈AI에 도전장"…퍼플렉시티, 쇼핑 특화 AI 검색 '출시']]></title>
-            <link>https://zdnet.co.kr/view/?no=20241119084041</link>
-            <guid>https://zdnet.co.kr/view/?no=20241119084041</guid>
-            <pubDate>Tue, 19 Nov 2024 00:59:24 GMT</pubDate>
-            <content:encoded><![CDATA[퍼플렉시티가 쇼핑 관련 서비스를 확대하며 시장 경쟁력을 강화한다. 구글이 주도하는 검색 엔진 분야와 오픈AI가 이끄는 생성형 인공지능(AI) 분야에서 입지를 넓히기 위함이다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다올티에스, 팔로알토 네트웍스 국내 총판 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241119075631</link>
-            <guid>https://zdnet.co.kr/view/?no=20241119075631</guid>
-            <pubDate>Mon, 18 Nov 2024 23:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[다올티에스(대표 홍정화, 이하 다올TS)는 글로벌 사이버보안 선도기업 팔로알토 네트웍스의 국내 총판으로 선정됐다고 19일 밝혔다. 다올TS는 공공기관 및 중견/중소기업(SMB)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
