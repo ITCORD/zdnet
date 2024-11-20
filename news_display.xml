@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 01:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["급증하는 LLM 데이터 처리량, '벡터 DB'로 해결"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241119113626</link>
+            <guid>https://zdnet.co.kr/view/?no=20241119113626</guid>
+            <pubDate>Wed, 20 Nov 2024 00:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[디노티시아는 LLM의 전력 및 비용 효율성을 획기적으로 높일 수 있는 '벡터 데이터베이스(DB)'를 개발하고 있습니다. 기존 소프트웨어만을 다루는 기업들과 달리, 전용 반도체를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[퀄컴 "보급형 노트북용 스냅드래곤 칩 추가 투입 예정"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241120090827</link>
+            <guid>https://zdnet.co.kr/view/?no=20241120090827</guid>
+            <pubDate>Wed, 20 Nov 2024 00:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[퀄컴이 19일(현지시간) 뉴욕에서 투자자 대상 '인베스터 데이' 행사를 진행하고 앞으로 출시할 PC용 SoC(시스템반도체)인 스냅드래곤 X 엘리트/플러스 차세대 제품 관련 정보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OCI, DB하이텍에 반도체 인산 납품]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241120064457</link>
+            <guid>https://zdnet.co.kr/view/?no=20241120064457</guid>
+            <pubDate>Wed, 20 Nov 2024 00:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[OCI는 이달부터 국내 반도체 파운드리 전문 업체인 DB하이텍의 부천공장에 반도체 인산을 초도 납품한다고 20일 밝혔다. OCI는 지난 8월 국내 제조사 중 최초로 SK하이닉스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전기, 차량용 카메라 소프트웨어 '글로벌 인증' 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241120080823</link>
+            <guid>https://zdnet.co.kr/view/?no=20241120080823</guid>
+            <pubDate>Wed, 20 Nov 2024 00:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기는 회사가 개발한 전장용 카메라모듈 소프트웨어가 '오토모티브 스파이스(A-SPICE)' 레벨 3 인증을 획득했다고 20일 밝혔다. A-SPICE는 자동차용 부품 생산 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['나스닥 퇴출 위기' 슈퍼마이크로, 새 감사인 지정]]></title>
             <link>https://zdnet.co.kr/view/?no=20241119161932</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241118103226</guid>
             <pubDate>Mon, 18 Nov 2024 02:26:58 GMT</pubDate>
             <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어, 지멘스 EDA 사업부는 전자 시스템 설계 포트폴리오의 최신 업데이트를 18일 발표했다. 지멘스의 차세대 전자 시스템 설계 솔루션은 엑스프레...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 3대 국제표준화기구-삼성·SK하이닉스, 표준협력 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241118094756</link>
-            <guid>https://zdnet.co.kr/view/?no=20241118094756</guid>
-            <pubDate>Mon, 18 Nov 2024 02:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 반도체 표준을 개발하는 국제전기기술위원회(IEC), 국제반도체표준협의회(JEDEC), 국제반도체장비재료협회(SEMI) 전문가들이 한 자리에 모여 반도체 표준 협력 방안을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세메스, 45개 협력사 모여 '상생협력·동반성장' 다짐]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241118102046</link>
-            <guid>https://zdnet.co.kr/view/?no=20241118102046</guid>
-            <pubDate>Mon, 18 Nov 2024 02:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 장비업체인 세메스는 최근 상생협력 강화를 위한 협력사 경영자 간담회를 가졌다고 18일 밝혔다. 세메스 정태경 대표를 비롯해 주요 45개 협력사 대표가 참석한 가운데 천안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부, 소부장 양산성능평가 지원사업 공고...365억 투입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241118100630</link>
-            <guid>https://zdnet.co.kr/view/?no=20241118100630</guid>
-            <pubDate>Mon, 18 Nov 2024 02:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 이달 18일 국내 소재·부품·장비(소부장) 기업의 사업화를 지원하는 '2025년도 소재·부품·장비 양산성능평가 지원사업'을 공고하고, 오는 12월 18일까지 참...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴코리아, '퀄컴 인 유어 라이프' 행사 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241118094331</link>
-            <guid>https://zdnet.co.kr/view/?no=20241118094331</guid>
-            <pubDate>Mon, 18 Nov 2024 01:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴코리아는 지난 15일 서울 광진구 파이팩토리에서 국내 스냅드래곤 인사이더즈 300명을 초청해 '퀄컴 인 유어 라이프' 행사를 진행했다고 밝혔다. 퀄컴은 2021년부터 인스타...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
