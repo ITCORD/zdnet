@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 02:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 03:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TI, MCU에 '업계 최초' NPU 통합…"산업·자동차 시장 공략"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241121113744</link>
+            <guid>https://zdnet.co.kr/view/?no=20241121113744</guid>
+            <pubDate>Thu, 21 Nov 2024 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[텍사스인스트루먼트(TI)가 실시간 제어 산업용 MCU(마이크로컨트롤러유닛) 사업을 강화한다. NPU 기반의 엣지 AI 성능을 MCU에 통합해, 제어 성능과 정확도를 높인 신규 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로옴, 텔레칩스 차량용 AP에 SoC용 PMIC 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20241121093424</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241120064457</guid>
             <pubDate>Wed, 20 Nov 2024 00:58:59 GMT</pubDate>
             <content:encoded><![CDATA[OCI는 이달부터 국내 반도체 파운드리 전문 업체인 DB하이텍의 부천공장에 반도체 인산을 초도 납품한다고 20일 밝혔다. OCI는 지난 8월 국내 제조사 중 최초로 SK하이닉스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 차량용 카메라 소프트웨어 '글로벌 인증' 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241120080823</link>
-            <guid>https://zdnet.co.kr/view/?no=20241120080823</guid>
-            <pubDate>Wed, 20 Nov 2024 00:58:59 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전기는 회사가 개발한 전장용 카메라모듈 소프트웨어가 '오토모티브 스파이스(A-SPICE)' 레벨 3 인증을 획득했다고 20일 밝혔다. A-SPICE는 자동차용 부품 생산 업...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
