@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 의료 기술을 위한 AI 기반 컴퓨터 온 모듈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241120155126</link>
+            <guid>https://zdnet.co.kr/view/?no=20241120155126</guid>
+            <pubDate>Fri, 22 Nov 2024 08:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[의료 기술에 AI가 접목되면서 의료 전문가의 진단 정확성이 크게 향상되고 있다. AI 알고리즘이 실시간으로 방대한 데이터를 빠르게 처리하려면 높은 컴퓨팅 성능이 필수적이다. 이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티씨케이, 와이엠씨·와이컴 상대 특허침해금지소송 승소]]></title>
             <link>https://zdnet.co.kr/view/?no=20241122152713</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241121141501</guid>
             <pubDate>Thu, 21 Nov 2024 06:19:00 GMT</pubDate>
             <content:encoded><![CDATA[AI 반도체 스타트업 모빌린트는 이달 17일부터 22일(현지시간)까지 미국 애틀랜타에서 열린 세계 최대 슈퍼컴퓨팅 컨퍼런스 'SC24(슈퍼 컴퓨팅 2024)'에 참가해 엣지 데...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ACM리서치, 반도체 제조용 '울트라C 타호 세정 장비' 성능 향상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241121130643</link>
-            <guid>https://zdnet.co.kr/view/?no=20241121130643</guid>
-            <pubDate>Thu, 21 Nov 2024 06:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 장비 업체 ACM리서치는 주력 제품인 울트라C 타호(Tahoe) 세정 장비의 성능을 크게 향상시켰다고 21일 발표했다. 울트라 C 타호는 중저온 과산화황 혼합물(sulf...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

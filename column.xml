@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 의료 기술을 위한 AI 기반 컴퓨터 온 모듈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241120155126</link>
+            <guid>https://zdnet.co.kr/view/?no=20241120155126</guid>
+            <pubDate>Fri, 22 Nov 2024 08:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[의료 기술에 AI가 접목되면서 의료 전문가의 진단 정확성이 크게 향상되고 있다. AI 알고리즘이 실시간으로 방대한 데이터를 빠르게 처리하려면 높은 컴퓨팅 성능이 필수적이다.이에 따라 인텔 코어 울트라 프로세서를 탑재한 'conga-TC700'과 같은 컴퓨터 온 모듈(COM)이 주목받고 있다. 이 모듈은 CPU, GPU, NPU를 하나의 칩에 통합해 고성능 연산을 지원한다.의료 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/21/87bbbf5f89038ea89176be86fd716a3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 상시 위기 시대, 리스크 선제 대응 시스템 갖춰야]]></title>
             <link>https://zdnet.co.kr/view/?no=20241122110800</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Oct 2024 02:18:13 GMT</pubDate>
             <content:encoded><![CDATA[일기예보 기자가 내일은 “폭설이 예상되니 차를 두고 출근하라”는 메시지를 던진다. 그럼에도 불구하고 친구는 고집스럽게 차를 몰고 나온다. 사륜구동 SUV이니 그럴 수도 있겠다고 생각했는데, 그의 말이 걸작이다. “새 차는 4계절을 다 겪어야 진정으로 내차가 되는 거야!” 일리가 있다. 비 오는 날, 눈 오는 날이라고 차를 주차장에 두고 다닌다면, 어려운 상황에서 나의 운전 능력도 늘지 않을 ...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2019/10/15/paikshow_xlCsN7UahAE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디지털트윈 칼럼] AI 전문가의 노벨물리학상 수상 의미]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241013185411</link>
-            <guid>https://zdnet.co.kr/view/?no=20241013185411</guid>
-            <pubDate>Sun, 13 Oct 2024 10:12:41 GMT</pubDate>
-            <content:encoded><![CDATA["저는 물리학자가 아닙니다. 저는 물리학에 대해 매우 큰 존경심을 가지고 있지만, 대학 1학년 때 복잡한 수학을 못해서 물리학을 그만뒀습니다."이번에 노벨 물리학상을 수상한 제프리 힌튼 교수의 말이다. 이 말은 많은 이들에게 깊은 인상을 남겼다. 물리학을 포기한 그가 어떻게 노벨 물리학상을 받을 수 있었을까?제프리 힌튼의 노벨 물리학상 수상은 현대 과학에서 협력과 융합이 얼마나...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/10/01/5411edb428b54b4a1b49075ee245002a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
