@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 05:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루엠, 日 삿포로·오사카 대형 유통체인에 ESL 공급 체결]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122132630</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122132630</guid>
+            <pubDate>Fri, 22 Nov 2024 05:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[솔루엠이 최근 일본 삿포로·오사카 대형 유통 업체들과 잇달아 전자가격표시기(ESL) 공급계약을 체결하며 일본 시장에서 입지를 빠르게 넓혀가고 있다고 22일 밝혔다. 솔루엠의 신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울반도체, 독일 브롤에 '썬라이크' 조명 기술 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122130236</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122130236</guid>
+            <pubDate>Fri, 22 Nov 2024 05:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[독일 특수 조명 업체 브롤(Broll systemtechnik)이 서울반도체의 썬라이크(SunLike)' 조명 기술을 채택해 자동차 제조 공장에서 사용하고 있다. 해당 조명은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中, 12인치 'SiC 웨이퍼' 최초 공개…기술력·시장 급성장]]></title>
             <link>https://zdnet.co.kr/view/?no=20241122095049</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241121113744</guid>
             <pubDate>Thu, 21 Nov 2024 03:24:46 GMT</pubDate>
             <content:encoded><![CDATA[텍사스인스트루먼트(TI)가 실시간 제어 산업용 MCU(마이크로컨트롤러유닛) 사업을 강화한다. NPU 기반의 엣지 AI 성능을 MCU에 통합해, 제어 성능과 정확도를 높인 신규 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로옴, 텔레칩스 차량용 AP에 SoC용 PMIC 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241121093424</link>
-            <guid>https://zdnet.co.kr/view/?no=20241121093424</guid>
-            <pubDate>Thu, 21 Nov 2024 00:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[로옴은 회사의 SoC(시스템온칩)용 PMIC(전력관리반도체)가 차량용 종합 반도체 팹리스 기업 텔레칩스의 차세대 콕핏용 SoC '돌핀3', '돌핀5' 등의 전원 레퍼런스 디자인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[젠슨 황 CEO "모두가 '블랙웰' 원한다"...발열·생산차질 일축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241121080127</link>
-            <guid>https://zdnet.co.kr/view/?no=20241121080127</guid>
-            <pubDate>Thu, 21 Nov 2024 00:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 20일(현지시간) 3분기(8-10월, 회계연도 기준 2025년 3분기) 실적발표에서 "올 연말 출시할 AI 가속용 GPU '블랙웰'(Blackwell) 매출이 자체 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
