@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 22:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 23:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["인간이 놓친 오류 잡는다"...구글, AI로 코드 취약점 26개 이상 발견]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241123040035</link>
+            <guid>https://zdnet.co.kr/view/?no=20241123040035</guid>
+            <pubDate>Fri, 22 Nov 2024 23:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 인공지능(AI)을 활용해 사람이 놓친 소프트웨어(SW) 오류를 발견한 성과를 공개했다. 23일 더레지스터 등 외신에 따르면 구글은 OSS-퍼즈(Fuzz) 프로젝트를 통해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["실시간 컨콜까지 가능해졌다"…퍼플렉시티 움직임에 구글 '사면초가']]></title>
             <link>https://zdnet.co.kr/view/?no=20241123000956</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241122105734</guid>
             <pubDate>Fri, 22 Nov 2024 02:23:37 GMT</pubDate>
             <content:encoded><![CDATA[포티넷이 자사 제품군에 생성형 인공지능(AI)을 적용해 보안 자동화 기능을 강화한다. 포티넷은 '포티NDR 클라우드'와 '레이스워크 포티CNAPP'에 생성형 AI 어시스턴트 '...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰으로 도장 찍어 문서에 '쏙'…한컴이노스트림, 업계 최초 특허 취득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122104908</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122104908</guid>
-            <pubDate>Fri, 22 Nov 2024 02:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터의 자회사인 전자문서 및 리포팅 설루션 전문 기업 한컴이노스트림이 국내 전자문서 업계 최초로 '도장 인식 시스템 및 방법'에 대한 특허를 취득했다. 22일 한컴이노스...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
