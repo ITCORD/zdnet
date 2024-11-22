@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 04:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 상시 위기 시대, 리스크 선제 대응 시스템 갖춰야]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122110800</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122110800</guid>
+            <pubDate>Fri, 22 Nov 2024 04:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[현재 기업 경영 불확실성이 그 어느 때보다 높다. 많은 전문가들은 현대 사회가 '퍼머크라이시스(permacrisis)' 시대, 즉 위기가 일시적인 것이 아니라 지속적으로 발생하...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스노우플레이크, MS 파워 플랫폼용 커넥터 내년 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241122112411</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241121171718</guid>
             <pubDate>Thu, 21 Nov 2024 09:14:01 GMT</pubDate>
             <content:encoded><![CDATA[존슨콘트롤즈인터내셔널(이하 존슨콘트롤즈)이 오픈블루(OpenBlue) 디지털 에코시스템의 인공지능(AI) 기능을 확장했다. 존슨콘트롤즈는 오픈블루 엔터프라이즈 매니저(OBEM)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지코어, 에즈디텍과 사우디아라비아 합작법인 설립]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241121170402</link>
-            <guid>https://zdnet.co.kr/view/?no=20241121170402</guid>
-            <pubDate>Thu, 21 Nov 2024 08:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[지코어가 글로벌 생성형 인공지능(AI) 시장 공략을 위해 사우디아라비아 먼저 진출한다. 지코어는 사우디아라비아에서 에즈디텍(Ezditek)과 고성능 AI인프라 구축을 위한 합작...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
