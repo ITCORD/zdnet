@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 05:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 06:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 우주 개발 5% 모자라…'당나귀 우화' 꼴 나선 안돼"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241123142347</link>
+            <guid>https://zdnet.co.kr/view/?no=20241123142347</guid>
+            <pubDate>Sat, 23 Nov 2024 06:16:21 GMT</pubDate>
+            <content:encoded><![CDATA["우리나라 우주 개발에는 뭔가 5%가 빠져 있습니다. 스토리텔링이 없기 때문입니다. 당나귀 팔러 가는 아버지와 아들 꼴이 되어선 안 되지요." 이상률 한국항공우주연구원장이 우리...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/23/d841b5fc69be749764f7f10d60da9cc9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화웨이, 프리미엄폰 '메이트70' 26일 출시…"250만명 예약"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241122163557</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241122152446</guid>
             <pubDate>Sat, 23 Nov 2024 04:15:38 GMT</pubDate>
             <content:encoded><![CDATA[캐나다 워털루 대학 연구진들이 단 15분 만에 약 80% 충전이 가능한 리튬이온 전기차 배터리를 개발했다고 자동차 매체 일렉트렉이 최근 보도했다. 또, 연구진들은 배터리를 기존...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/22/2884903a12865cda35265da40da3cbd1-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2024 던파 페스티벌 개최...개발자 강연-참여형 이벤트로 시선집중]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241123000956</guid>
             <pubDate>Fri, 22 Nov 2024 16:15:11 GMT</pubDate>
             <content:encoded><![CDATA['구글 대항마'로 떠오른 퍼플렉시티가 'AI칩 강자'인 엔비디아의 실적 발표를 기점으로 실시간 금융 정보 제공 서비스 시장에 뛰어들었다. 최근 인공지능(AI) 기술을 앞세워 쇼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 로봇밀도 또 세계 1위…中, 3위로 빠르게 추격]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122224652</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122224652</guid>
-            <pubDate>Fri, 22 Nov 2024 14:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[한국이 작년에도 세계 로봇밀도가 가장 높은 국가에 이름을 올렸다. 중국은 4년 만에 두 배 성장을 이루며 일본과 독일을 제치고 3위로 부상했다. 22일 국제로봇연맹(IFR) '...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
