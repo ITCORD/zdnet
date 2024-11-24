@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 03:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 03:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토요다 아키오 회장 "수소차, '계속 만든다'는 인식 만들 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241124120650</link>
+            <guid>https://zdnet.co.kr/view/?no=20241124120650</guid>
+            <pubDate>Sun, 24 Nov 2024 03:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[[토요타(일본)=김재성 기자] 토요다 아키오 토요타 회장은 24일 월드랠리챔피언십(WRC) 13라운드 랠리 재팬 현장에서 한국 미디어에 "수소가 잘 폭발한다는 이미지가 강한 부...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/24/922f0ee5ef0aca7969d0f7d2c04de773-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어르신 10명 중 3명 당뇨병…초고령사회 코앞 관리 한시가 급하다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241122124043</link>
+            <guid>https://zdnet.co.kr/view/?no=20241122124043</guid>
+            <pubDate>Sun, 24 Nov 2024 03:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[초고령화 사회를 목전에 둔 우리나라에서 노인당뇨병 환자가 급증하고 있어 이들에 대한 관리 방안 마련이 시급한 실정이다. 지난 2021년 글로벌 질병 부담(GBD) 보고서에 따르...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/09/15/3bfd71053b5055bfef038099292a1b2f-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NB-IoT 벌써 저무나...NTT도코모 이어 AT&T 이탈]]></title>
             <link>https://zdnet.co.kr/view/?no=20241124101514</link>
             <guid>https://zdnet.co.kr/view/?no=20241124101514</guid>
             <pubDate>Sun, 24 Nov 2024 02:57:50 GMT</pubDate>
             <content:encoded><![CDATA[AT&amp;T가 NB-IoT 서비스를 중단키로 결정했다. 신규 가입회선을 차단하고 내년부터는 서비스를 종료한다는 방침이다. 앞서 일본의 NTT도코모가 2020년 NB-IoT 서비스에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/20/3f653686ffd58915f8e844aa1315767c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["겨울 시즌 재미 책임진다"...넷마블-엔씨-카카오게임즈 신작 게임 '눈길']]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241122170915</guid>
             <pubDate>Sun, 24 Nov 2024 01:03:36 GMT</pubDate>
             <content:encoded><![CDATA[넷마블과 엔씨소프트, 카카오게임즈 등 주요 게임사가 겨울 시즌을 맞아 신작을 출시한다. 넷마블은 '킹 아서 레전드 라이즈'를 꺼낸다면, 엔씨소프트는 '저니 오브 모나크', '카...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/18/d479496467e9b92a536c4367a2d7318d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 고용노동부장관상 수상...사회적 기업 13년간 190여곳 지원]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241122145946</guid>
             <pubDate>Sun, 24 Nov 2024 01:03:36 GMT</pubDate>
             <content:encoded><![CDATA[영어 교육 서비스를 제공하는 에듀테크 기업들이 B2C를 넘어 B2B 시장에서도 경쟁 중이다. B2C만으로는 성장하는 데 한계가 있어, 안정적인 매출 성장을 꾀할 수 있는 B2B...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 예수님 등장"…스위스 고해소서 디지털 신앙 실험 개시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241123111943</link>
-            <guid>https://zdnet.co.kr/view/?no=20241123111943</guid>
-            <pubDate>Sat, 23 Nov 2024 23:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[스위스의 한 교회가 인공지능(AI) 기술을 활용한 예수님 아바타를 설치하며 종교와 기술 융합 가능성을 시험했다. 24일 가디언에 따르면 스위스 루체른에 위치한 베드로 교회는 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[초콜릿·커피 가격 오른다…동서식품·해태제과 등 일부 품목 대상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122154814</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122154814</guid>
-            <pubDate>Sat, 23 Nov 2024 22:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[코코아와 커피 원두 등의 가격이 오르며 시중에서 판매되는 커피와 초콜릿 등의 제품의 가격이 인상되고 있다. 해태제과는 다음 달 1일부터 초콜릿 원료 비중이 높은 ▲포키 ▲홈런볼...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
