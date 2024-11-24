@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 07:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 08:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS "北, 신종 사기로 암호화폐 1천만 달러치 벌어"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241124092642</link>
+            <guid>https://zdnet.co.kr/view/?no=20241124092642</guid>
+            <pubDate>Sun, 24 Nov 2024 08:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[북한 해커가 지난 6개월간 1천만 달러(약 140억5천500만원)넘는 암호화폐를 탈취한 정황이 드러났다. 마이크로소프트는 24일 북한 해킹 그룹 '사파이어 슬리트'가 가짜 링크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["韓 전통문화 지원"…한컴그룹, 소리무에 2억원 기부]]></title>
             <link>https://zdnet.co.kr/view/?no=20241124110710</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241122140700</guid>
             <pubDate>Fri, 22 Nov 2024 05:13:32 GMT</pubDate>
             <content:encoded><![CDATA[사이냅소프트(대표 전경헌)가 클라우드 전환을 본격화하는 공공 서비스에 맞춰 서비스형 소프트웨어(SaaS)를 선보인다. 사이냅소프트는 사이냅 문서뷰어 서비스를 디지털서비스 이용지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드햇, MS 애저용 RHEL AI 출시...AI 혁신 가속화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241122135348</link>
-            <guid>https://zdnet.co.kr/view/?no=20241122135348</guid>
-            <pubDate>Fri, 22 Nov 2024 05:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇이 클라우드에서 인공지능(AI) 및 생성형 AI 배포를 간소화하고 확장하기 위해 마이크로소프트(MS)와의 협력을 확대한다. 레드햇은 레드햇 엔터프라이즈 리눅스 AI(RHE...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
