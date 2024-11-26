@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 07:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유무선공유기 보안 업데이트, 언제까지 제공해야 하나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241126151037</link>
+            <guid>https://zdnet.co.kr/view/?no=20241126151037</guid>
+            <pubDate>Tue, 26 Nov 2024 08:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[유무선공유기는 Arm 기반 CPU와 네트워크 전송층, 메모리를 조합하고 리눅스 운영체제로 작동하는 모니터 없는 작은 컴퓨터다. 내장된 SoC의 보안 결함, 리눅스 운영체제 커널...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 갤럭시S25 울트라, 제품 영상 유출…실제 모습은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241126152234</link>
+            <guid>https://zdnet.co.kr/view/?no=20241126152234</guid>
+            <pubDate>Tue, 26 Nov 2024 08:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 내년 초 출시할 예정인 갤럭시S25 울트라로 추정되는 제품 영상이 공개됐다고 IT매체 안드로이드오쏘리티가 25일(현지시간) 보도했다. 해당 영상은 처음 온라인 커뮤니...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로보락, 50만원대 세탁건조기 국내 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241126144958</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241125095555</guid>
             <pubDate>Mon, 25 Nov 2024 05:14:13 GMT</pubDate>
             <content:encoded><![CDATA[작년에 스마트 스피커 '홈팟2'를 출시한 애플이 새로운 스마트홈 제품을 준비 중이라는 소식이 계속 나오고 있다. IT매체 나인투파이브맥은 24일(현지시간) 지금까지 나온 소식들...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["아이폰17 에어, 잘 안 팔릴 것…폴더블 아이폰 기대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241125082821</link>
-            <guid>https://zdnet.co.kr/view/?no=20241125082821</guid>
-            <pubDate>Mon, 25 Nov 2024 02:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 내년 가을 새로워진 초박형 아이폰 '아이폰17 에어'를 출시할 예정이다. 블룸버그 통신 마크 거먼은 24일(현지시간) 파워온 뉴스레터를 통해 애플이 차기 아이폰 라인업에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스코리아, 유무선공유기 보안등급 표시제 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241125104519</link>
-            <guid>https://zdnet.co.kr/view/?no=20241125104519</guid>
-            <pubDate>Mon, 25 Nov 2024 02:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[에이수스코리아는 25일 국내 유통하는 유무선공유기 등 네트워크 제품에 보안 등급을 숫자로 표시하는 사이버보안 라벨링 제도(CLS)를 적용한다고 밝혔다. CLS는 2020년부터 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
