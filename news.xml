@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 21:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 22:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[망고부스트, 'SC24'서 DPU 전 제품군 공개…고성능 컴퓨팅 공략 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241127224014</link>
+            <guid>https://zdnet.co.kr/view/?no=20241127224014</guid>
+            <pubDate>Wed, 27 Nov 2024 22:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[망고부스트(대표 김장우)가 AI 데이터센터 효율화를 위한 DPU(Data Processing Unit) 기술로 글로벌 시장 공략에 박차를 가하고 있다. 망고부스트는 지난 18일...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/11/27/4994d418103888dd726c8bcabc1419fb-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울디지털재단, 스마트 그리드 주제 '스마트시티 세미나' 29일 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20241127234854</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241127231144</guid>
             <pubDate>Wed, 27 Nov 2024 15:13:12 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부가 주최하고 소프트웨어정책연구소(SPRi, 소장 김형철)가 주관하는 '2025 SW 산업전망 컨퍼런스'가 다음달 3일 서울 코엑스 402호에서 열린다. 행사는 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/27/03cc0f262333b9f32f11a6e001888326-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[롯데, 랜드마크 롯데월드타워 담보로 내놓는다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241127160432</guid>
             <pubDate>Wed, 27 Nov 2024 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[중앙은행을 중심으로 한 디지털 화폐(CBDC)에 대한 논의가 적극 진행되는 가운데, 도널드 트럼프 미국 대통령 당선인이 중앙은행의 CBDC에 부정적인 입장을 내비치면서 새 물결...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에스넷그룹 "국내 유일 글로벌 AI테크 생태계 구축한다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241127173649</link>
-            <guid>https://zdnet.co.kr/view/?no=20241127173649</guid>
-            <pubDate>Wed, 27 Nov 2024 09:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[에스넷그룹이 엔비디아, 델테크놀로지스, 시스코 등 주요 글로벌 기업과 함께 국내 기업의 인공지능(AI) 전환 가속을 위한 생태계를 구축한다. 에스넷그룹은 27일 서울 강남구 그...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
