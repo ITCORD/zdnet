@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 12:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 13:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 현대차, 후방 카메라 문제로 차량 22만6118대 리콜]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241127213232</link>
+            <guid>https://zdnet.co.kr/view/?no=20241127213232</guid>
+            <pubDate>Wed, 27 Nov 2024 13:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차가 미국에서 22만6천118대 차량을 리콜한다. 27일(현지시간) 로이터통신에 따르면 미국 도로교통안전국(NHTSA)은 현대차의 일부 차량의 후방 카메라 이미지가 제대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2021/12/06/6ede8ac19812dce1964a50fed085ea31-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[부음] 김철수 스카이데일리 편집위원 겸 강원취재본부장 모친상]]></title>
             <link>https://zdnet.co.kr/view/?no=20241127205930</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241127203252</guid>
             <pubDate>Wed, 27 Nov 2024 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[펄어비스가 2022년부터 중국 시장에 선보였던 '검은사막 모바일'의 서비스를 조기 종료한다. 펄어비스는 텐센트와 체결한 '검은사막 모바일' 중국 퍼블리싱 계약을 내년 1월27일...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/27/dd028c840673f8a13d8be260f5884b47-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI안전연구소 어떤 일 하나···구성원과 처우는]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241127160719</guid>
             <pubDate>Wed, 27 Nov 2024 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[중국이 기술 인재를 빼가는 통에 경쟁사들이 어려움을 겪는다고 미국 일간지 월스트리트저널(WSJ)이 27일(현지시각) 보도했다. 소식통에 따르면 중국 통신장비 업체 화웨이테크놀로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 반도체 클러스터 송전선로·14조 정책금융 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241127164409</link>
-            <guid>https://zdnet.co.kr/view/?no=20241127164409</guid>
-            <pubDate>Wed, 27 Nov 2024 09:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 앞장서서 반도체 산업 위기 극복을 위한 지원에 나선다. 정부는 용인‧평택 반도체 클러스터의 송전선로 지중화에 1조8천억원 비용을 분담해 기업의 부담을 줄일 방침이다. 또...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
