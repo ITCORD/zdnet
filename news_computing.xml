@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 09:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 10:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] LG전자 "물류·제조현장 뛰쳐나온 로봇, 이젠 가정집으로 간다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241127185238</link>
+            <guid>https://zdnet.co.kr/view/?no=20241127185238</guid>
+            <pubDate>Wed, 27 Nov 2024 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA["로봇 시장이 물류·제조를 넘어 공공서비스까지 확대되고 있습니다. 그러나 가정용 로봇 개발에 기술적·비용적 한계가 있습니다. 소비자들이 높은 가격을 주고 가정용 로봇을 구입할 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["기업 81% 지속가능성 중요성 인식, 실제 수행은 21% 불과"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241127180216</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241127090738</guid>
             <pubDate>Wed, 27 Nov 2024 02:26:59 GMT</pubDate>
             <content:encoded><![CDATA[구글, 오픈AI에 이어 앤트로픽도 자사 인공지능(AI) 챗봇에 맞춤형 응답 설정 기능을 추가해 기능을 업그레이드했다. 27일 테크크런치 등 외신에 따르면 앤트로픽은 사용자들이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이수스, 엔비디아 젯슨 기반 IoT 시스템 국내 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241127100437</link>
-            <guid>https://zdnet.co.kr/view/?no=20241127100437</guid>
-            <pubDate>Wed, 27 Nov 2024 02:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[에이수스코리아가 27일 엔비디아 젯슨 기반 산업용 임베디드 컴퓨팅 시스템을 국내 시장에 공급한다고 밝혔다. PE2100N/2101N은 젯슨 AGX 오린(Orin) 기반으로 최대...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
