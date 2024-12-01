@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 05:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 06:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 세액공제 '3년' 늘린다지만…"美·日 등은 최대 10년"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241129170339</link>
+            <guid>https://zdnet.co.kr/view/?no=20241129170339</guid>
+            <pubDate>Sun, 01 Dec 2024 06:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 반도체 등 국가전략기술에 대한 세액공제 적용기한을 올해 말에서 2027년 말로 3년 연장한다. 다만 미국·일본 등 주요 국가에서는 각각 5년·10년에 달하는 지원책을 펼...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[낸드 불황 심각...삼성전자·키옥시아 감산 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20241130145854</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241128155215</guid>
             <pubDate>Thu, 28 Nov 2024 08:18:11 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부와 반도체 업계 주요 인사들이 국내 반도체 경쟁력의 초격차 유지를 위한 방안을 논의했다. 각 전문가들은 첨단 반도체 기술의 발빠른 확보를 위해 '최대 노동시간 52시간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 차량용 MCU '오릭스TC3x'에 FreeRTOS 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241128161025</link>
-            <guid>https://zdnet.co.kr/view/?no=20241128161025</guid>
-            <pubDate>Thu, 28 Nov 2024 08:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언 테크놀로지스는 오릭스(AURIX) TC3x 마이크로컨트롤러(MCU)에 FreeRTOS 지원을 추가했다고 밝혔다. 실시간 운영 체제(RTOS)는 마이크로컨트롤러에서 실행...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
