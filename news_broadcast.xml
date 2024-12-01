@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 01:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 03:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 통신사 직원이 중학교 교실 찾아 AI를 가르칠까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241129143514</link>
+            <guid>https://zdnet.co.kr/view/?no=20241129143514</guid>
+            <pubDate>Sun, 01 Dec 2024 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA["여러분 중 AI를 사용해 본 사람 있나요? 현재 우리는 AI를 어디까지 활용할 수 있을까요. 수업전에 앞서 영상 한번 봐볼게요" 매서운 추위가 비켜간듯 훈훈한 공기로 가득한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 5G 가입자 17억명...中차이나모바일만 8.5억명]]></title>
             <link>https://zdnet.co.kr/view/?no=20241201100539</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241128090314</guid>
             <pubDate>Thu, 28 Nov 2024 06:19:03 GMT</pubDate>
             <content:encoded><![CDATA[지지부진했던 토종 OTT 티빙과 웨이브의 합병 논의에 청신호가 켜졌다. CJ ENM이 콘텐츠웨이브(이하 웨이브)가 발행하는 전환사채(CB)를 취득한다고 밝히며 합병에 대한 의지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["방송콘텐츠 기획제작에 AI 적용, 10편 중 1편”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241128133501</link>
-            <guid>https://zdnet.co.kr/view/?no=20241128133501</guid>
-            <pubDate>Thu, 28 Nov 2024 05:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 전체 방송콘텐츠 가운데 AI 기술을 활용한 비중은 기획 단계서 11.1%, 제작 단계에서 9.4%, 서비스 단계에서 6.9%로 조사됐다. 과학기술정보통신부와 한국방송통신...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

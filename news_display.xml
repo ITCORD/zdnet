@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 01:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 03:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낸드 불황 심각...삼성전자·키옥시아 감산 전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241130145854</link>
+            <guid>https://zdnet.co.kr/view/?no=20241130145854</guid>
+            <pubDate>Sun, 01 Dec 2024 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[범용 낸드플래시 시장 불황으로 메모리 업계가 또 다시 생산량 감축에 나설 전망이다. 커머셜타임즈에 따르면 일본 메모리 업체 키옥시아가 다음달 낸드 감산에 나설 전망이다. 삼성전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 美 정부 보조금 받는 대신 매각·분사 어려워져]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241130212211</link>
+            <guid>https://zdnet.co.kr/view/?no=20241130212211</guid>
+            <pubDate>Sun, 01 Dec 2024 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 최근 미국 상무부와 합의한 108억 달러(약 15조 843억원) 규모 반도체지원법(CHIPS Act) 보조금에 인텔 인수·매각이나 파운드리 분사·상장을 제한하는 조건이 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블룸버그 "SK 최태원은 한국의 젠슨 황"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241129140745</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241128161025</guid>
             <pubDate>Thu, 28 Nov 2024 08:18:11 GMT</pubDate>
             <content:encoded><![CDATA[인피니언 테크놀로지스는 오릭스(AURIX) TC3x 마이크로컨트롤러(MCU)에 FreeRTOS 지원을 추가했다고 밝혔다. 실시간 운영 체제(RTOS)는 마이크로컨트롤러에서 실행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1조원 규모 '첨단반도체 미니팹' 예타 통과...소부장 키운다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241128153515</link>
-            <guid>https://zdnet.co.kr/view/?no=20241128153515</guid>
-            <pubDate>Thu, 28 Nov 2024 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 국내 반도체 소재·부품·장비(소부장) 기업의 기술경쟁력 제고를 위해 1조원 규모의 '첨단 반도체 양산연계형 미니팹' 사업을 내년부터 추진한다. 산업통상자원부는 28일 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스텍 박사 출신 기술통, 삼성디스플레이 사장 됐다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241128091736</link>
-            <guid>https://zdnet.co.kr/view/?no=20241128091736</guid>
-            <pubDate>Thu, 28 Nov 2024 02:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 '디스플레이 기술통' 이청 부사장을 신임 사장으로 임명하면서 중소형 OLED 기술 초격차를 강화하고 나설 것으로 기대된다. 이청 신임 사장은 중소형 사업부장(부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
