@@ -4,16 +4,32 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 09:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 10:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행안부 "고향사랑기부, 은행·앱에서도 가능해진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241201175221</link>
+            <guid>https://zdnet.co.kr/view/?no=20241201175221</guid>
+            <pubDate>Sun, 01 Dec 2024 10:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부(행안부)가 고향사랑기부 활성화와 모금 규모 확대를 위해 편리한 디지털 기부 환경을 제공한다. 행안부는 이번 달부터 시중 대형은행과 민간 플랫폼을 통해 '고향사랑기부'...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/06/12/jtwer_GOAgMjxqd3rDVE-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["창립 취지 어겼다"…머스크, 오픈AI 가처분 소송 제기]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241201174120</link>
+            <guid>https://zdnet.co.kr/view/?no=20241201174120</guid>
+            <pubDate>Sun, 01 Dec 2024 10:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크가 오픈AI의 운영 방식과 시장 경쟁 구조를 문제 삼으며 법적 조치를 취했다. 1일 테크크런치에 따르면 머스크의 변호인단은 캘리포니아 북부 연방지방법원에 오픈AI 관...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/07/25/b664027c30c135f58b19af8b1626f1a5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐나다 언론사들, 오픈AI '저격'…저작권 침해로 집단 소송]]></title>
             <link>https://zdnet.co.kr/view/?no=20241130185147</link>
             <guid>https://zdnet.co.kr/view/?no=20241130185147</guid>
             <pubDate>Sun, 01 Dec 2024 07:11:41 GMT</pubDate>
             <content:encoded><![CDATA[캐나다 주요 언론사들이 오픈AI를 상대로 저작권 침해 소송을 제기했다. 이는 뉴욕타임스 등 미국 주요 언론의 법적 대응에 이어 캐나다에서도 생성형 인공지능(AI)의 데이터 활용...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/30/2e33179b90c4c45a47f522c62cd8ba67-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KB국민은행, 코어뱅킹 고도화 작업 착수]]></title>
@@ -21,7 +37,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241201151504</guid>
             <pubDate>Sun, 01 Dec 2024 06:17:22 GMT</pubDate>
             <content:encoded><![CDATA[KB국민은행이 코어뱅킹을 고도화한다. 코어뱅킹은 은행 시스템 운영의 중심축으로 고객의 금융거래를 지원하며 대량 데이터를 안정적으로 처리하는 중요한 시스템이다. KB국민은행은 1...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/08/58a0884af033b4cd463ac597c615605c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[ZD브리핑] 이어지는 대기업 연말인사…트럼프 정부 대응 논의도]]></title>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241128183620</guid>
             <pubDate>Sun, 01 Dec 2024 03:11:25 GMT</pubDate>
             <content:encoded><![CDATA[국내 석유화학 업계 체질개선이 시급하다는 지적이 잇따른다. 중국발 공급 과잉이 지속됨에 따라 공장 통폐합 등 대대적인 비용 절감 없인 국내 기업들이 도산할 수 있다는 우려마저 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 美 정부 보조금 받는 대신 매각·분사 어려워져]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241130212211</link>
-            <guid>https://zdnet.co.kr/view/?no=20241130212211</guid>
-            <pubDate>Sun, 01 Dec 2024 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 최근 미국 상무부와 합의한 108억 달러(약 15조 843억원) 규모 반도체지원법(CHIPS Act) 보조금에 인텔 인수·매각이나 파운드리 분사·상장을 제한하는 조건이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쉐보레, 이달 트레일블레이저 구매시 최대 130만원 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241201120131</link>
-            <guid>https://zdnet.co.kr/view/?no=20241201120131</guid>
-            <pubDate>Sun, 01 Dec 2024 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[쉐보레가 이달 '쉐보레 그랜드 피날레(CHEVROLET GRAND FINALE)' 프로모션을 실시한다고 1일 밝혔다. 한국GM은 '쉐보레 업그레이드 프로그램'을 통해 스파크 차...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
