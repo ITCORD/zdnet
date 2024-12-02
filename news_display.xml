@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 03:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 04:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전기, 구글 AI가속기 TPU에 'FC-BGA' 공급 추진]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241202104546</link>
+            <guid>https://zdnet.co.kr/view/?no=20241202104546</guid>
+            <pubDate>Mon, 02 Dec 2024 04:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기가 서버용 FC-BGA(플립칩-볼그리드어레이) 사업 확대에 속도를 낸다. 구글의 최신형 AI 반도체에 FC-BGA를 공급하기 위해 최근 퀄(품질) 테스트에 돌입한 것으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김춘환 SK하이닉스 부사장 "HBM 성공 기틀, 요소기술 선행 개발로 마련"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241202091032</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241129090234</guid>
             <pubDate>Fri, 29 Nov 2024 01:00:23 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 29일 부사장, 상무, 펠로우(Fellow), 마스터(Master) 등 2025년 정기 임원 인사를 실시했다. 삼성전자는 이번 인사에서 부사장 35명, 상무 92명,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 반도체 끊긴 러시아 '16nm 프로세서' 자체 생산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241129011426</link>
-            <guid>https://zdnet.co.kr/view/?no=20241129011426</guid>
-            <pubDate>Fri, 29 Nov 2024 01:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아가 자체 개발한 16nm 프로세서를 서버 및 스토리지에 적용한다. 28일 중국 언론 IT즈자에 따르면 바실리슈팍 러시아 산업부 차관은 16nm 공정 48코어 바이칼-S(B...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
