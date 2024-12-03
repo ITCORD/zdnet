@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 03:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 04:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, AWS리인벤트 부스 꾸려…"韓 기업 해외 진출 도울 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241203112413</link>
+            <guid>https://zdnet.co.kr/view/?no=20241203112413</guid>
+            <pubDate>Tue, 03 Dec 2024 04:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] 정부가 유망한 국내 기업의 글로벌 시장 진출 발판을 마련했다. 국내 생성형 인공지능(AI)과 보안 기업을 지원하고 해외 네트워크 구축을 본격...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/03/f27aa61bf591a6c3ecd4383df6977113-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AWS 개발툴 사용"…GE 헬스케어, 세계 첫 '3D MRI 모델' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241203122816</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241203123427</guid>
             <pubDate>Tue, 03 Dec 2024 03:37:20 GMT</pubDate>
             <content:encoded><![CDATA[인스웨이브시스템즈(대표 어세룡)가 인공지능(AI)을 적용한 3세대 앱 플랫폼 '매트릭스 2.0'을 공개했다. 인스웨이브시스템즈는 '인스포지엄 개발자 밋업-3차' 행사를 개최했다...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/12/03/6d5f73ea342add57ab72439581e2a2e2-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장] AI 악용한 사이버 공격 급증… SK쉴더스, 선제적 방어 전략 제시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241203090018</guid>
             <pubDate>Tue, 03 Dec 2024 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 업계 최고 수준의 차량 사이버보안 관리체계(Cyber Security Management system, 이하 CSMS) 인증인 레벨3를 획득하며 글로벌 전장시장 공략...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레드햇, AWS 하이브리드 클라우드 인프라..."자동화로 간단하게"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241203105234</link>
-            <guid>https://zdnet.co.kr/view/?no=20241203105234</guid>
-            <pubDate>Tue, 03 Dec 2024 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[레드햇이 복잡하고 오류가 발생하기 쉬운 하이브리드 클라우드 인프라를 쉽게 관리할 수 있는 서비스를 선보인다. 레드햇은 '레드햇 앤서블 오토메이션 플랫폼 온 AWS'를 정식 출시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
