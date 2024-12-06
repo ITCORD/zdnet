@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 23:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 01:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우체국 집배원 사칭 보이스피싱 주의하세요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241206090937</link>
+            <guid>https://zdnet.co.kr/view/?no=20241206090937</guid>
+            <pubDate>Fri, 06 Dec 2024 01:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[우정사업본부는 우체국 집배원 사칭 보이스피싱 예방을 위한 대국민 행동요령을 안내하며 국민들에게 주의를 당부했다. 우정사업본부에 따르면 최근 인천만수단지우체국 집배원을 사칭해 주...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유상임 장관 "비상계엄 전 국무회의 불참...국정 소임 다할 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241205180255</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241204140901</guid>
             <pubDate>Wed, 04 Dec 2024 05:13:42 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 방송통신위원회가 4일 비상 간부회의를 열어 직원들에 차질 없는 업무 수행을 주문했다. 유상임 과기정통부 장관은 오전 8시 45분 차관과 우주항공청을 포함한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, 노코드 신경망 자동생성 프레임워크 공개...세미나 사전신청만 500명 넘어]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241204122120</link>
-            <guid>https://zdnet.co.kr/view/?no=20241204122120</guid>
-            <pubDate>Wed, 04 Dec 2024 03:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자통신연구원(ETRI)이 노코드 기반으로 신경망을 자동생성하고 배포 과정까지 자동화하는 기계학습 개발도구(MLOps)의 핵심기술을 오픈소스로 깃허브에 지난 주 처음 공개했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
