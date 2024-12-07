@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 06:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 07:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이래서야 SW강국이"···SP인증 적용 공공사업 7.8% 불과]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241207153706</link>
+            <guid>https://zdnet.co.kr/view/?no=20241207153706</guid>
+            <pubDate>Sat, 07 Dec 2024 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[소프트웨어 품질을 좌우하는데 큰 역할을 하는 제도 중 하나가 소프트웨어 프로세스(SP) 인증제도다. 과기정통부가 지난 2009년 1월 제도를 도입해 시행하고 있다. 정보통신산업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI 기술, 킬러 드론 구동에도 쓰일까]]></title>
             <link>https://zdnet.co.kr/view/?no=20241206134724</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241205172552</guid>
             <pubDate>Thu, 05 Dec 2024 09:14:52 GMT</pubDate>
             <content:encoded><![CDATA["점차 복잡하고 빠르게 변하는 시장환경은 더 이상 기존 소프트웨어(SW) 방식으로 대응하기엔 한계가 있다. 이제는 데브옵스 등 차세대 개발방식을 도입해야 생존할 수 있는 시대다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ADA코리아 "데이터를 실행으로…비즈니스 혁신 앞당긴다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241205163850</link>
-            <guid>https://zdnet.co.kr/view/?no=20241205163850</guid>
-            <pubDate>Thu, 05 Dec 2024 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA["데이터는 이제 비즈니스의 핵심 자산입니다. 그럼에도 데이터의 진정한 가치는 이를 실행 가능한 인사이트로 전환할 때 비로소 발휘됩니다." 고영혁 ADA코리아 대표는 5일 서울 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
