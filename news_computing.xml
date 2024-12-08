@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 06:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["운영 비용 8분의 1"...메타, 신형 AI '라마 3.3 70B' 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241208123618</link>
+            <guid>https://zdnet.co.kr/view/?no=20241208123618</guid>
+            <pubDate>Sun, 08 Dec 2024 06:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 신형 대규모언어모델(LLM) '라마 3.3 70B'를 출시했다. 기존 언어모델 수준의 성능에 운영비용을 8분의 1 수준으로 사용할 수 있는 것이 특징이다. 8일 메타는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SW정책연구소 "내년 AI에이전트·어드밴스트 컴퓨팅 주목"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241208140303</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241206092503</guid>
             <pubDate>Fri, 06 Dec 2024 02:35:13 GMT</pubDate>
             <content:encoded><![CDATA["인공지능(AI) 코파일럿 '쥴(Joule)'은 기업의 지출 관리 방식을 혁신적으로 변화시킬 것입니다. 우리는 AI를 통해 기업들이 비용을 절감하고 효율성을 높일 수 있도록 지...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩 EDR, 멀티 OS 환경 지원…맥 에이전트 출시로 보안 '확장']]></title>
-            <link>https://zdnet.co.kr/view/?no=20241206095931</link>
-            <guid>https://zdnet.co.kr/view/?no=20241206095931</guid>
-            <pubDate>Fri, 06 Dec 2024 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[안랩이 자사의 엔드포인트 위협 탐지 및 대응 솔루션을 대폭 업그레이드하며 사용자 편의성과 활용도를 강화했다. 이를 통해 멀티 OS 환경에서의 보안 대응 역량을 한층 높였다. 안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
