@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 03:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 04:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] AI 발전과 아동·청소년 보호]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241206145157</link>
+            <guid>https://zdnet.co.kr/view/?no=20241206145157</guid>
+            <pubDate>Sun, 08 Dec 2024 04:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 대기업 60%, 오는 2027년 데이터 사일로 붕괴"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241208121607</link>
+            <guid>https://zdnet.co.kr/view/?no=20241208121607</guid>
+            <pubDate>Sun, 08 Dec 2024 04:15:24 GMT</pubDate>
+            <content:encoded><![CDATA["오는 2027년까지 데이터를 제품 형태로 활용하는 아키텍처를 통해 한국 대기업 중 60%는 데이터 사일로가 붕괴할 것입니다." 김경민 한국IDC 이사는 소프트웨어정책연구소(S...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[르포] AWS와 '에이전트 시대' 맞이한 빅테크…"서비스 빠르고 저렴"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241206193650</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241206102222</guid>
             <pubDate>Fri, 06 Dec 2024 02:35:13 GMT</pubDate>
             <content:encoded><![CDATA[롯데이노베이트가 자율주행 리빙랩 구축 사업에 참여하며 미래형 교통 인프라 구축에 박차를 가했다. 롯데이노베이트는 SK텔레콤과 함께 컨소시엄사로 참여해 자율주행 모빌리티 센터와 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["누구나 비전언어모델 사용"…구글, 신형AI '팔리젬마2' 오픈소스로 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241206094012</link>
-            <guid>https://zdnet.co.kr/view/?no=20241206094012</guid>
-            <pubDate>Fri, 06 Dec 2024 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 사람처럼 보고, 이해하고, 상호작용할 수 있는 신형 비전언어모델(VLM)을 오픈소스로 공개했다. 이를 통해 의료, 제조 등 다양한 산업 분야에서 보다 효율적으로 AI를 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존 보겔스 CTO "솔루션 사업 성공에 '심플함' 한 스푼 필수"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241206074353</link>
-            <guid>https://zdnet.co.kr/view/?no=20241206074353</guid>
-            <pubDate>Thu, 05 Dec 2024 23:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=김미정 기자] "솔루션 비즈니스가 잘 되면 시스템이 복잡해지기 마련입니다. 솔루션은 끊임없이 진화하되 단순성(simplexity)을 유지해야 합니다. 그래...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
