@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 05:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 06:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2040년 파운드리 공정 '0.3나노' 도달…삼성·TSMC 소자 구조 3D 진화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241211142311</link>
+            <guid>https://zdnet.co.kr/view/?no=20241211142311</guid>
+            <pubDate>Wed, 11 Dec 2024 06:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[초미세 파운드리 공정이 오는 2040년 0.3나노미터(nm) 수준까지 도달할 전망이다. 이에 따라 삼성전자, TSMC 등도 반도체 내부 구조를 기존 2D에서 3D로 바꾸는 등 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[주문하니 문앞 배송…러시아 軍, 美 반도체 쉽게 샀다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241211112247</link>
+            <guid>https://zdnet.co.kr/view/?no=20241211112247</guid>
+            <pubDate>Wed, 11 Dec 2024 06:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 군이 미국 반도체를 손쉽게 구매한 것으로 나타났다. 미국 블룸버그통신은 10일(현지시간) 우크라이나와의 전쟁터에서 발견된 러시아 무기는 인텔과 아나로그디바이스 같은 미국...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[래티스, 전력효율 3배↑ 크기 5배↓ FPGA 플랫폼 '넥서스 2' 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241211132132</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241210091858</guid>
             <pubDate>Tue, 10 Dec 2024 01:03:02 GMT</pubDate>
             <content:encoded><![CDATA[로옴(ROHM)이 대만 주요 파운드리 TSMC와 오토모티브용 'GaN(질화갈륨)' 파워 디바이스의 개발과 양산에 관한 전략적 파트너십을 체결했다고 10일 밝혔다. 본 파트너십을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노티시아, LLM 모델로 'AI 어시스턴트' 베타 테스트 실시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241210090009</link>
-            <guid>https://zdnet.co.kr/view/?no=20241210090009</guid>
-            <pubDate>Tue, 10 Dec 2024 01:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 전문기업 디노티시아는 자체 개발한 고성능 대형언어모델(LLM) 파운데이션 모델 '디엔에이(DNA): Dnotitia AI'를 '허깅페이스(HuggingFace)...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, GaN 전력 디스크리트 신제품 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241210091243</link>
-            <guid>https://zdnet.co.kr/view/?no=20241210091243</guid>
-            <pubDate>Tue, 10 Dec 2024 01:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언테크놀로지스가 새로운 고전압 디스크리트 제품군인 'CoolGaN' 트랜지스터 650V G5를 출시했다고 10일 밝혔다. 이 새로운 제품군은 USB-C 어댑터 및 충전기,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
