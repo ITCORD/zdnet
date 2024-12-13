@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 13:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 14:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST, 변환 라벨없이 스스로 학습가능한 AI 모델 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241213225716</link>
+            <guid>https://zdnet.co.kr/view/?no=20241213225716</guid>
+            <pubDate>Fri, 13 Dec 2024 14:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST 연구진이 변환라벨((transformational labels)없이 스스로 학습할 수 있는 새로운 시각 인공지능 모델(STL)을 개발했다고 13일 밝혔다. 컴퓨터 비...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/13/6254361efc12bd65a959206e2d0a12c3-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2K, '시드 마이어의 문명7' TGA 2024서 오프닝 시네마틱 영상 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20241213212040</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20241213185020</guid>
             <pubDate>Fri, 13 Dec 2024 10:13:48 GMT</pubDate>
             <content:encoded><![CDATA[방송통신심의위원장을 탄핵소추 대상에 포함하는 법 개정안이 국회 과학기술정보방송통신위원회를 통과했다. 13일 과방위는 전체회의를 열고 방송통신위원회 설치 및 운영에 관한 법률 일...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2019/01/01/hjan_984PlwkmX5U0opx-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이진수 전 카카오엔터 대표 "김범수, 위법행위 지시한 적 없어"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241213164344</guid>
             <pubDate>Fri, 13 Dec 2024 08:17:57 GMT</pubDate>
             <content:encoded><![CDATA[롯데쇼핑의 이커머스 플랫폼 롯데온이 지난 6월에 이어 2차 희망퇴직 신청을 받는다. 13일 업계에 따르면 롯데온은 이날 오후 희망퇴직 프로그램을 시행한다고 사내 공지했다. 대상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZD SW 투데이] 더존비즈온, 연말정산 세미나로 AI 혁신 시연 外]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241213145314</link>
-            <guid>https://zdnet.co.kr/view/?no=20241213145314</guid>
-            <pubDate>Fri, 13 Dec 2024 08:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
