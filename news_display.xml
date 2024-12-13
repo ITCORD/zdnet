@@ -4,15 +4,31 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 01:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 03:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 임시 CEO "파운드리 사업 분사 여부 미정"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241213092525</link>
+            <guid>https://zdnet.co.kr/view/?no=20241213092525</guid>
+            <pubDate>Fri, 13 Dec 2024 03:00:25 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 내년 가동할 미세공정 '인텔 18A'(Intel 18A) 수율과 고객사 확보 등 진척 여하에 따라 파운드리 분사를 고려할 수 있다고 밝혔다. 로이터와 블룸버그통신이 12...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ST, NPU 가속기 탑재한 '엣지·AI MCU' 업계 최초 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241213092323</link>
             <guid>https://zdnet.co.kr/view/?no=20241213092323</guid>
             <pubDate>Fri, 13 Dec 2024 01:02:47 GMT</pubDate>
             <content:encoded><![CDATA[ST마이크로일렉트로닉스가 업계 최초로 가속 머신러닝 기능을 통합한 마이크로컨트롤러(MCU) 'STM32N6' 시리즈를 출시했다. 이번 신제품은 컴퓨터 비전, 오디오 프로세싱 등...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 위기인데...'반도체법' 골든타임 또 놓쳤다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241212164002</link>
+            <guid>https://zdnet.co.kr/view/?no=20241212164002</guid>
+            <pubDate>Fri, 13 Dec 2024 03:00:25 GMT</pubDate>
+            <content:encoded><![CDATA["국가 패권 전쟁의 최전선에서 우리는 무기 없이 홀로 싸우고 있습니다." 최근 만난 반도체 업계 관계자의 한숨 섞인 목소리가 여전히 귓가에 맴돈다. 반도체 업계가 숙원하던 'K...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241211101809</guid>
             <pubDate>Wed, 11 Dec 2024 02:58:42 GMT</pubDate>
             <content:encoded><![CDATA[AMD가 11일 고성능 RF(무선주파수) 처리 ADC와 AI 엔진을 내장한 '버설 RF 시리즈'를 공개했다. 버설 RF 시리즈는 32GSPS 샘플링 속도의 18GHz RF AD...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신성이엔지, 용인 스마트팩토리서 페루 정부대표단 맞아]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241211100057</link>
-            <guid>https://zdnet.co.kr/view/?no=20241211100057</guid>
-            <pubDate>Wed, 11 Dec 2024 02:58:42 GMT</pubDate>
-            <content:encoded><![CDATA[신성이엔지는 페루 정부대표단과 UNDP(유엔개발계획) 관계자들이 한국의 디지털 전환과 스마트 제조 혁신 현장을 경험하기 위해 용인사업장을 방문했다고 11일 밝혔다. 이날 페루 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모빌린트, 저전력 AI칩 '레귤러스'로 CES 혁신상 수상]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241211094823</link>
-            <guid>https://zdnet.co.kr/view/?no=20241211094823</guid>
-            <pubDate>Wed, 11 Dec 2024 02:58:42 GMT</pubDate>
-            <content:encoded><![CDATA[AI 반도체 기업 모빌린트는 세계 최대 정보기술(IT) 전시회 CES 2025에서 '온디바이스 AI용 고효율 AI 반도체 레귤러스(REGULUS)'로 AI 부문 'CES 혁신상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
