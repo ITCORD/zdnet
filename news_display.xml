@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Dec 2024 21:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 22:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·SK, 연말 메모리 부진 불안감...마이크론 실적에 '눈길']]></title>
+            <link>https://zdnet.co.kr/view/?no=20241214140125</link>
+            <guid>https://zdnet.co.kr/view/?no=20241214140125</guid>
+            <pubDate>Sat, 14 Dec 2024 22:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[미국 주요 메모리 기업 마이크론의 실적 발표가 임박했다. 최근 메모리 시장이 레거시 제품을 중심으로 공급 과잉 우려가 심화된 가운데, 마이크론이 어떠한 전망을 내놓을 지 업계의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인텔 임시 CEO "파운드리 사업 분사 여부 미정"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241213092525</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241211105629</guid>
             <pubDate>Wed, 11 Dec 2024 02:58:42 GMT</pubDate>
             <content:encoded><![CDATA[반도체 장비 업체 램리서치는 반도체 업계 최초로 웨이퍼 제조 장비의 유지 보수 작업 최적화를 위해 설계된 협동로봇 '덱스트로(Dextro)'를 출시했다고 11일 밝혔다. 덱스트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD, 고성능 단일 칩 RF 솔루션 '버설 RF 시리즈' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241211101809</link>
-            <guid>https://zdnet.co.kr/view/?no=20241211101809</guid>
-            <pubDate>Wed, 11 Dec 2024 02:58:42 GMT</pubDate>
-            <content:encoded><![CDATA[AMD가 11일 고성능 RF(무선주파수) 처리 ADC와 AI 엔진을 내장한 '버설 RF 시리즈'를 공개했다. 버설 RF 시리즈는 32GSPS 샘플링 속도의 18GHz RF AD...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
