@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 07:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 08:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT, '이프랜드' 내년 3월 서비스 종료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241216170859</link>
+            <guid>https://zdnet.co.kr/view/?no=20241216170859</guid>
+            <pubDate>Mon, 16 Dec 2024 08:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤의 메타버스 플랫폼 '이프랜드'가 2024년 3월 31일에 운영을 중단한다고 발표했다. 2021년 출시 이후 약 4년 만의 결정이다. 이프랜드는 12일부터 신규 회원가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고향사랑기부로 신용도 올릴 수 있다]]></title>
             <link>https://zdnet.co.kr/view/?no=20241216133334</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241213113306</guid>
             <pubDate>Fri, 13 Dec 2024 02:59:56 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관이 계엄 선포 직후 사이버 공격 등 비상상황에 대비해 철저한 통신망 관리 강화를 지시했다고 밝혔다. 또한 유 장관은 계엄 상황에서도 통신 서비스 제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT엠모바일, 이용자 보호 방안 선제대응]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241213111519</link>
-            <guid>https://zdnet.co.kr/view/?no=20241213111519</guid>
-            <pubDate>Fri, 13 Dec 2024 02:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[KT엠모바일이 이용자 보호와 신뢰 강화를 위해 부정사용 대응 TF 조직 신설, AI기술 기반 본인인증 강화, 보이스피싱 예방 전용 요금제 출시 등 혁신적인 제도와 서비스를 도입...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
