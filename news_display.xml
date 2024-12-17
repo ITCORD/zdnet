@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 04:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["올해 반도체 시장 규모 900조원…메모리가 동력"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241217110358</link>
+            <guid>https://zdnet.co.kr/view/?no=20241217110358</guid>
+            <pubDate>Tue, 17 Dec 2024 05:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[올해 전 세계 반도체 시장이 아시아 시장을 중심으로 견조한 성장세를 보일 것이라는 분석이 나왔다. 삼정KPMG는 '반도체 산업 6대 이슈 및 대응 방안' 보고서를 통해 올해 전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄리타스반도체, 최신 DSC 1.2a 솔루션 최초 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20241217124114</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241213092525</guid>
             <pubDate>Fri, 13 Dec 2024 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 내년 가동할 미세공정 '인텔 18A'(Intel 18A) 수율과 고객사 확보 등 진척 여하에 따라 파운드리 분사를 고려할 수 있다고 밝혔다. 로이터와 블룸버그통신이 12...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ST, NPU 가속기 탑재한 '엣지·AI MCU' 업계 최초 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241213092323</link>
-            <guid>https://zdnet.co.kr/view/?no=20241213092323</guid>
-            <pubDate>Fri, 13 Dec 2024 01:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[ST마이크로일렉트로닉스가 업계 최초로 가속 머신러닝 기능을 통합한 마이크로컨트롤러(MCU) 'STM32N6' 시리즈를 출시했다. 이번 신제품은 컴퓨터 비전, 오디오 프로세싱 등...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
