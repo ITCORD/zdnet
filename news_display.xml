@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 07:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 08:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴, Arm과 라이선스 법적 분쟁서 '판정승']]></title>
+            <link>https://zdnet.co.kr/view/?no=20241221151109</link>
+            <guid>https://zdnet.co.kr/view/?no=20241221151109</guid>
+            <pubDate>Sat, 21 Dec 2024 08:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[고성능 반도체를 개발하던 스타트업 '누비아'(Nuvia) 인수 이후 촉발된 퀄컴과 Arm의 법적 분쟁 1차전에서 배심원단이 퀄컴의 손을 들어줬다. 로이터통신과 블룸버그 등이 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브로드컴 "2020년대 말까지 AI 투자 열풍 이어진다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241220153345</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241219145812</guid>
             <pubDate>Thu, 19 Dec 2024 08:17:10 GMT</pubDate>
             <content:encoded><![CDATA[최근 중국 주요 메모리 업체 창신메모리(CXMT)가 최첨단 D램 영역인 DDR5를 독자 개발한 정황이 포착됐다. 그간 중국이 DDR4 이하의 레거시 D램만을 양산해 왔다는 점을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴 "오라이온 CPU서 Arm IP 기여도는 1% 이하"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241219151342</link>
-            <guid>https://zdnet.co.kr/view/?no=20241219151342</guid>
-            <pubDate>Thu, 19 Dec 2024 07:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[라이선스 유효 여부를 둘러싼 퀄컴과 Arm의 법적 다툼을 다룰 재판이 머지 않아 시작될 예정이다. Arm이 지난 10월 통보한 라이선스 계약 해지 통보 시한이 이달 하순으로 다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
