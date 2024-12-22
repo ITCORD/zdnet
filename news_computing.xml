@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 02:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보안투자 1위 삼성전자 올해 2974억···금융 1위 우리은행 428억]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241222112055</link>
+            <guid>https://zdnet.co.kr/view/?no=20241222112055</guid>
+            <pubDate>Sun, 22 Dec 2024 03:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[정보보호 투자 규모가 국내서 가장 많은 기업은 삼성전자로 올해 2974억원에 달했다. 작년보다 500억 이상 늘었다. 이 추세라면 내년에 3000억을 돌파할 전망이다. 삼성전자...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[해커 손에 들어간 시스코 데이터, 다크웹 마켓서 거래]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241222104318</link>
+            <guid>https://zdnet.co.kr/view/?no=20241222104318</guid>
+            <pubDate>Sun, 22 Dec 2024 03:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[시스코의 개발용 플랫폼에서 고객 데이터가 유출된 가운데 해커 그룹이 이를 다크웹 마켓에 공개한 것으로 밝혀졌다. 22일 포브스 등 외신에 따르면 해커 '인텔브로커'는 시스코의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[내년 '산업용 AI' 확산 가속…데이터 보호·RAG 수요 급증할 듯]]></title>
             <link>https://zdnet.co.kr/view/?no=20241220153730</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241220101507</guid>
             <pubDate>Fri, 20 Dec 2024 02:14:51 GMT</pubDate>
             <content:encoded><![CDATA[구글 스트리트 뷰가 스페인에서 살인 사건 해결에 단서가 되는 장면을 포착해 화제다. 20일 영국 BBC, 뉴욕타임스 등 외신에 따르면 스페인 당국은 지난해 실종된 한 남성의 사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 추론 전용 AI 공개…오픈AI 'o1' 시리즈와 경쟁]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241220090832</link>
-            <guid>https://zdnet.co.kr/view/?no=20241220090832</guid>
-            <pubDate>Fri, 20 Dec 2024 00:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 오픈AI 추론 모델과 경쟁할 새로운 인공지능(AI) 모델을 공개했다. 구글은 20일 공식 블로그를 통해 추론 전용 AI 모델 '제미나이 2.0 플래시 사고 실험(Gemi...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZD SW 투데이] 한컴, 다문화 청소년·교사 대상 맞춤 교육 지원 外]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241220092915</link>
-            <guid>https://zdnet.co.kr/view/?no=20241220092915</guid>
-            <pubDate>Fri, 20 Dec 2024 00:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
