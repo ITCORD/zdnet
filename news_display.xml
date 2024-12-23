@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 07:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 08:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["美, 中 소프고 제재…화웨이 대신 TSMC 거래"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241223142718</link>
+            <guid>https://zdnet.co.kr/view/?no=20241223142718</guid>
+            <pubDate>Mon, 23 Dec 2024 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[중국 화웨이테크놀로지를 대신해 대만 TSMC 반도체를 주문했다는 의혹을 받는 중국 기업을 미국 정부가 거래 제한 명단(블랙리스트)에 올릴 것으로 알려졌다. 미국 정부가 화웨이를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[반도체·이차전지 등 29개 기업 사업재편 승인]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241223162208</link>
+            <guid>https://zdnet.co.kr/view/?no=20241223162208</guid>
+            <pubDate>Mon, 23 Dec 2024 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 23일 '제45차 사업재편계획 심의위원회'를 서면으로 개최해 율촌화학·한국첨단소재 등 29개 기업이 신청한 이차전지·반도체 분야 사업재편계획을 승인했다고 밝혔다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arm, 퀄컴과 라이선스 소송서 판정패... 영향력 축소 불가피]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241223160946</link>
+            <guid>https://zdnet.co.kr/view/?no=20241223160946</guid>
+            <pubDate>Mon, 23 Dec 2024 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[반도체 IP 설계 기업 Arm이 2022년 퀄컴을 제소한 라이선스 분쟁에서 2년만에 판정패했다. Arm이 공급하는 고성능 CPU 코어인 '코어텍스-X'(Cortex-X) 대신 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 상무장관 "中 반도체 수출 통제는 '과속방지턱'에 불과해"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241223092435</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241220125746</guid>
             <pubDate>Fri, 20 Dec 2024 04:15:48 GMT</pubDate>
             <content:encoded><![CDATA[건국대학교는 이위형 재료공학과 교수(교신저자)팀이 노스웨스턴대학교 이정훈 박사(재료공학과, 제1저자), 충남대학교 구자승 교수(유기재료공학과, 교신저자)와 공동으로 중수소를 활...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 포함 3개국 개발자 돕는 '퀄컴 AI 혁신 프로그램' 시동]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241220124518</link>
-            <guid>https://zdnet.co.kr/view/?no=20241220124518</guid>
-            <pubDate>Fri, 20 Dec 2024 04:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 20일 한국, 일본, 싱가포르 지역의 개발자와 스타트업의 온디바이스 AI 솔루션 개발 지원을 위한 '퀄컴 AI 혁신 프로그램 2025-APAC'을 발표했다. 이 프로그램...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리벨리온·이노뎁, 국산 AI칩 기반 '지능형 관제 시스템' 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241220100159</link>
-            <guid>https://zdnet.co.kr/view/?no=20241220100159</guid>
-            <pubDate>Fri, 20 Dec 2024 02:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[AI반도체 기업 리벨리온은 지자체 영상 관제 1위 기업 이노뎁(대표 이성진)과 손잡고 국산 NPU(신경망처리장치) 기반 지능형 관제 시스템 구축에 나선다고 20일 밝혔다. 양사...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마우저, ADI의 산업용 MAX32675C 마이크로컨트롤러 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241220104043</link>
-            <guid>https://zdnet.co.kr/view/?no=20241220104043</guid>
-            <pubDate>Fri, 20 Dec 2024 02:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 유통업체 마우저일렉트로닉스가 아나로그디바이스(ADI)의 새로운 초저전력 마이크로컨트롤러(MCU) 'MAX32675C'를 공급한다고 밝혔다. 이 제품은 Arm Cortex...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
