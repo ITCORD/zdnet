@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 09:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 10:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 경쟁사 AI로 모델 평가…'제미나이-클로드' 비교 논란]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241225180531</link>
+            <guid>https://zdnet.co.kr/view/?no=20241225180531</guid>
+            <pubDate>Wed, 25 Dec 2024 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 경쟁사인 앤트로픽의 인공지능(AI) 모델을 활용해 자체 개발한 AI 성능을 평가했다는 주장이 제기됐다. 25일 테크크런치는 구글 내부 문건를 인용해 회사 AI 평가 작업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 로봇 시장 재진출하나…오픈AI, 휴머노이드 제작 검토]]></title>
             <link>https://zdnet.co.kr/view/?no=20241225133447</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241224093327</guid>
             <pubDate>Tue, 24 Dec 2024 00:56:29 GMT</pubDate>
             <content:encoded><![CDATA[지엔이 국내 스마트 가전 보안 기술 역량을 인정받았다. 지엔은 조영민 대표가 '2024년 스마트 혁신가전 유공자 포상 수여식'에서 산업통상자원부 장관상을 수상했다고 24일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해군본부, 카카오톡·문자로 실시간 전파…"신속 대응체계 강화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241224093352</link>
-            <guid>https://zdnet.co.kr/view/?no=20241224093352</guid>
-            <pubDate>Tue, 24 Dec 2024 00:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[해군본부가 주요 상황별 알림을 카카오 알림톡과 문자로 받을 수 있는 환경을 구축했다. 티젠소프트(대표 고훈호)는 해군본부의 해군본부 통합 메시지 전송 솔루션 구축 사업에 참여했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
