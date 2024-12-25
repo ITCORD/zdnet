@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 03:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 04:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI 핵심 알렉 레드포드, 회사 떠났다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241225130630</link>
+            <guid>https://zdnet.co.kr/view/?no=20241225130630</guid>
+            <pubDate>Wed, 25 Dec 2024 04:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI의 핵심 연구자인 알렉 레드포드가 회사를 떠났다. 25일 디인포메이션 등 외신에 따르면 레드포드는 최근 연구 활동에 있어 더 큰 자율성을 추구하기 위해 오픈AI 사임을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["내년 암호화폐 탈취·디도스 공격↑…국가 사이버전 확대"]]></title>
             <link>https://zdnet.co.kr/view/?no=20241224213253</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241224091512</guid>
             <pubDate>Tue, 24 Dec 2024 00:56:29 GMT</pubDate>
             <content:encoded><![CDATA[기업 10곳 중 8곳이 재무 분야 인공지능(AI) 투자에 대해 기대 이상의 투자수익률(ROI)을 기록한 것으로 나타났다. 24일 KPMG가 발표한 '재무 분야 AI 활용에 대한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["오픈AI 의존 줄인다"…MS, '365 코파일럿'에 자체·타사 AI 모델 추가]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241224084916</link>
-            <guid>https://zdnet.co.kr/view/?no=20241224084916</guid>
-            <pubDate>Tue, 24 Dec 2024 00:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)가 오픈AI 기술 의존도를 낮추고 자체적 인공지능(AI) 모델을 확대 적용해 효율성 강화에 나선다. 24일 외신에 따르면 MS는 자사의 AI 기반 생산성 도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
