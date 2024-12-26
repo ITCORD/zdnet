@@ -4,11 +4,27 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 05:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 06:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성KPMG, 청소년 대상 사이버 보안 교육 실시]]></title>
+            <title><![CDATA["데이터 가상화 적용"…디노도, LG유플러스에 '디노도 플랫폼' 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241226143141</link>
+            <guid>https://zdnet.co.kr/view/?no=20241226143141</guid>
+            <pubDate>Thu, 26 Dec 2024 06:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[디노도코리아가 LG유플러스에 데이터 가상화 플랫폼을 공급해 통신 네트워크 인프라 고도화를 돕는다. 디노도는LG 유플러스 NW부문의 데이터 관리 체계 구축 프로젝트에 데이터 통합...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스, 고객관리 프로그램에 생성형 AI 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20241226143100</link>
+            <guid>https://zdnet.co.kr/view/?no=20241226143100</guid>
+            <pubDate>Thu, 26 Dec 2024 06:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스가 생성형 인공지능(AI)으로 상담 서비스 품질 개선에 나섰다. SK쉴더스는 크라우드웍스와 손잡고 생성형 AI 기반 고객케어 프로그램 'AI 어시스턴트'를 업무에 도입...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼정KPMG, 청소년 대상 사이버 보안 교육 실시]]></title>
             <link>https://zdnet.co.kr/view/?no=20241226135622</link>
             <guid>https://zdnet.co.kr/view/?no=20241226135622</guid>
             <pubDate>Thu, 26 Dec 2024 05:12:56 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241225133447</guid>
             <pubDate>Wed, 25 Dec 2024 06:17:30 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 로봇 시장 복귀를 검토하고 있다는 주장이 제기됐다. 25일 디인포메이션 등 외신은 오픈AI는 최근 자체 휴머노이드 로봇 제작을 논의 중이라고 보도했다. 보도에 따르면...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['오픈AI 핵심 연구자' 알렉 레드포드, 회사 떠났다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241225130630</link>
-            <guid>https://zdnet.co.kr/view/?no=20241225130630</guid>
-            <pubDate>Wed, 25 Dec 2024 04:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI의 핵심 연구자인 알렉 레드포드가 회사를 떠났다. 25일 디인포메이션 등 외신에 따르면 레드포드는 최근 연구 활동에 있어 더 큰 자율성을 추구하기 위해 오픈AI 사임을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["내년 암호화폐 탈취·디도스 공격↑…국가 사이버전 확대"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241224213253</link>
-            <guid>https://zdnet.co.kr/view/?no=20241224213253</guid>
-            <pubDate>Wed, 25 Dec 2024 00:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[내년 사이버 보안 분야에 디도스 공격 규모 확대를 비롯한 암호화폐 탈취 공격, 국가 간 사이버전 확대 등이 화두일 것이란 전망이 나왔다. 25일 이스트시큐리티의 2025년 보안...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
