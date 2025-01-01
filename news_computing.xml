@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 08:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI와 AI가 협업하는 시대"…신년 핵심 트렌드 'AI 오케스트레이션']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250101154516</link>
+            <guid>https://zdnet.co.kr/view/?no=20250101154516</guid>
+            <pubDate>Wed, 01 Jan 2025 09:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 인공지능(AI) 산업 핵심 트렌드로 국내외 주요 기업들이 'AI 오케스트레이션'을 주목하고 있다. AI 오케스트레이션은 여러 AI 모델과 시스템을 통합해 복잡한 작업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[복잡했던 개인정보 가이드라인..."찾기 쉽게 통합·정비"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250101110600</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241230093120</guid>
             <pubDate>Mon, 30 Dec 2024 00:58:28 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 소프트웨어 기업 아토스가 랜섬웨어 공격을 받았다는 주장이 제기됐다. 30일 블룸버그통신에 따르면 아토스는 지난 28일 스페이스 베어라는 랜섬웨어 그룹에 의해 데이터베이스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 백악관 "의료정보 유출 잇따라…사이버보안 강화 필요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241230090355</link>
-            <guid>https://zdnet.co.kr/view/?no=20241230090355</guid>
-            <pubDate>Mon, 30 Dec 2024 00:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[미국 백악관에서 개인 의료정보 유출 방지를 위해 사이버보안 정책을 강화해야 한다는 목소리가 나왔다. 30일 엔가젯 등 외신은 미국 정부는 최근 사이버 공격으로 발생한 민감 의료...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
