@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 07:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 08:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[통신 3사 CEO, 새해 "AI 성과내자" 한 목소리]]></title>
+            <title><![CDATA[5G보다 비싼 LTE 요금제, 오늘부터 가입 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250102163430</link>
+            <guid>https://zdnet.co.kr/view/?no=20250102163430</guid>
+            <pubDate>Thu, 02 Jan 2025 08:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2일부터 KT 일부 LTE 요금제 가입이 중단된다. LTE 요금에 5G보다 비싸다는 국회 지적을 수용한 조치다. LTE 요금 역전현상을 해소하는 동시에 5G-LTE 통합요금제 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[통신 3사 CEO, "새해 AI 성과내자" 한 목소리]]></title>
             <link>https://zdnet.co.kr/view/?no=20250102145416</link>
             <guid>https://zdnet.co.kr/view/?no=20250102145416</guid>
             <pubDate>Thu, 02 Jan 2025 06:17:39 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241231092049</guid>
             <pubDate>Tue, 31 Dec 2024 02:13:13 GMT</pubDate>
             <content:encoded><![CDATA[새해부터 모바일 기기 충전기 호환성을 높이기 위해 USB-C 타입 커넥터 장착이 의무화된다. 정부가 30일 배포한 '2025년부터 이렇게 달라집니다' 자료집에 따르면, 과학기술...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ그룹, 이웃사랑 성금 20억원 기탁...'희망2025나눔캠페인' 동참]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241231094217</link>
-            <guid>https://zdnet.co.kr/view/?no=20241231094217</guid>
-            <pubDate>Tue, 31 Dec 2024 00:56:07 GMT</pubDate>
-            <content:encoded><![CDATA[CJ는 이웃사랑 실천을 위해 사회복지공동모금회에 성금 20억원을 기탁하며 '희망2025 나눔캠페인'에 동참했다고 31일 밝혔다. 성금은 소외 아동 청소년들의 꿈과 미래를 지원하...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
