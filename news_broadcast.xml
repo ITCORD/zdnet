@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 02:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 제주항공 여객기 사고 현장 통신지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250102111735</link>
+            <guid>https://zdnet.co.kr/view/?no=20250102111735</guid>
+            <pubDate>Thu, 02 Jan 2025 03:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 제주항공 여객기 사고의 원활한 수습을 위해 사고 당일부터 무안 현장의 유가족, 추모객 등을 대상으로 통신서비스를 지원하고 있다고 밝혔다. 과기정통부는 이동통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이즈비전, 세종텔레콤 알뜰폰 '스노우맨' 인수한다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250102105900</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[신년사] 유영상 SKT 대표 "AI 사업 실질적 매출 성장 창출하겠다"]]></title>
+            <title><![CDATA[유영상 SKT 대표 "AI 사업 실질적 매출 성장 창출하겠다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250102100918</link>
             <guid>https://zdnet.co.kr/view/?no=20250102100918</guid>
             <pubDate>Thu, 02 Jan 2025 02:12:59 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241230153302</guid>
             <pubDate>Mon, 30 Dec 2024 07:13:41 GMT</pubDate>
             <content:encoded><![CDATA[10명 중 7명이 생성형 AI를 이용한 경험이 있다는 조사 결과가 나왔다. 인크로스가 30일 발표한 '2024 아이엠 리포트'에 따르면 올해 AI 서비스에 대한 인식과 이용률 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 OTT 이용률 80% 근접...유료 이용자 비중은 60%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20241230141716</link>
-            <guid>https://zdnet.co.kr/view/?no=20241230141716</guid>
-            <pubDate>Mon, 30 Dec 2024 06:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내 OTT 이용률이 80% 수준에 도달했다. 유료 서비스 과금을 통한 OTT 이용률도 60%에 근접했다. 방송통신위원회와 한국정보통신진흥협회가 30일 발표한 2024 방송매체...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
