@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 22:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 23:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC "첨단 패키징 CoWoS 용량 월 7.5만장…작년 2배"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250103170913</link>
+            <guid>https://zdnet.co.kr/view/?no=20250103170913</guid>
+            <pubDate>Fri, 03 Jan 2025 23:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 올해 첨단 패키징 CoWoS(Chip on Wafer on Substrate) 생산능력을 전년 보다 2배 늘릴 계획이다. 대만 경제일보는 업계 소...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 작년 연간 영업이익 34조 하향 전망...HBM 공급 지연 탓]]></title>
             <link>https://zdnet.co.kr/view/?no=20250103153727</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20241231092316</guid>
             <pubDate>Tue, 31 Dec 2024 06:17:26 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 중국 비보의 플래그십 스마트폰 'X200 프로'에 CMOS 이미지센서(CIS) 2종을 공급했다. 비보는 지난 13일 X200, X200 프로, X200 프로 미니 등...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안덕근 산업부 장관, SK하이닉스 HBM 생산팹 방문해 지원 '약속']]></title>
-            <link>https://zdnet.co.kr/view/?no=20241230112755</link>
-            <guid>https://zdnet.co.kr/view/?no=20241230112755</guid>
-            <pubDate>Mon, 30 Dec 2024 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 우리 기업의 반도체 수출과 투자 지원에 총력을 기울이겠다고 약속했다. 안덕근 산업통상자원부(이하 산업부) 장관은 30일 SK하이닉스 청주캠퍼스를 방문해 수출ㆍ투자환경을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
