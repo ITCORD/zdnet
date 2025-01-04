@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 02:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 03:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈도10 기술지원 종료 임박…9억명 보안 위협 노출 우려]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250104030503</link>
+            <guid>https://zdnet.co.kr/view/?no=20250104030503</guid>
+            <pubDate>Sat, 04 Jan 2025 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 윈도 10이 오는 10월 14일 기술 지원 종료를 앞두면서 수억 명에 달하는 전 세계 사용자들이 보안 위협에 노출될 수 있다는 우려가 나오고 있다. 기술 지원이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[AI는 지금] 새해에는 AGI 시대 열리나…오픈AI 'O3' 기대·회의 속 상용화 '갈림길']]></title>
             <link>https://zdnet.co.kr/view/?no=20250103154218</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250102160605</guid>
             <pubDate>Thu, 02 Jan 2025 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[메타넷그룹이 새해를 아시아 확산을 본격화하는 원년으로 삼고 디지털전환(DX) 선도에 나선다. 메타넷그룹은 2일 실시한 시무식을 통해 올해 사업 방향과 이를 위한 전략을 발표했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년사] 박효대 에스넷그룹 회장 "본질적 가치 성장 주력"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250102155520</link>
-            <guid>https://zdnet.co.kr/view/?no=20250102155520</guid>
-            <pubDate>Thu, 02 Jan 2025 11:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[박효대 에스넷그룹 회장은 2025년 새해를 맞아 외형적 성장에서 벗어나 본질적 가치와 경쟁력을 기반으로 한 체질 개선에 주력할 것을 선언했다. 박 회장은 2일 개최한 신년회를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
