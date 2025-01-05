@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 05:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 06:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI에 진심인 MS, 1년간 데이터센터에 118兆 붓는다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250105113729</link>
+            <guid>https://zdnet.co.kr/view/?no=20250105113729</guid>
+            <pubDate>Sun, 05 Jan 2025 06:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[최근 인공지능(AI) 핵심 인프라인 데이터센터에 대한 미국 빅테크들의 투자가 쏟아지는 가운데 마이크로소프트(MS)가 올해도 대규모 자금을 투입해 주도권 잡기에 속도를 낸다. 5...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2017/12/14/imc_yh5he3ZkXBa4h6NQ-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹이 키운 스타트업 10개사, CES2025서 혁신기술 뽐낸다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250105140143</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250105012958</guid>
             <pubDate>Sun, 05 Jan 2025 05:11:41 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스, 디즈니플러스, 티빙 등 주요 OTT들이 2025년 새해를 맞아 다채로운 오리지널 콘텐츠를 선보인다. 각각 차별화된 작품들을 통해 이용자 확보에 나선 가운데 1월에 어...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/05/662741838b027548d3d3da68f8453e05-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[ZD브리핑] 윤석열 내란 혐의 진상규명 첫 회의…美 CES에 삼성·LG·엔비디아 '총출동']]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250105042514</guid>
             <pubDate>Sun, 05 Jan 2025 02:24:06 GMT</pubDate>
             <content:encoded><![CDATA[로보티즈가 첫 협동로봇 출시를 앞두고 미국 업체와 납품을 준비하고 있다. 미국 매사추세츠 공과대학(MIT)과 연구 중인 물리적 인공지능(피지컬 AI)를 탑재해 시장 영향력을 확...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 군용 5G 이동 기지국 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250105102159</link>
-            <guid>https://zdnet.co.kr/view/?no=20250105102159</guid>
-            <pubDate>Sun, 05 Jan 2025 02:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[중국이 군사용 5G 이동 기지국을 도입했다는 소식이다. 사우스차이나모닝포스트에 따르면 차이나모바일과 중국인민해방군이 세계 최초로 군사용 5G 이동 기지국을 도입했다고 밝혔다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
