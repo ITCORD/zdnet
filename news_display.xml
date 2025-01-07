@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 04:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 05:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC 승승장구에도 톱 DSP GUC는 왜 추락했을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250107104421</link>
+            <guid>https://zdnet.co.kr/view/?no=20250107104421</guid>
+            <pubDate>Tue, 07 Jan 2025 05:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[TSMC의 디자인하우스(VCA) 중 업계 1위였던 GUC가 지난해 연 매출이 하락한 것으로 나타났다. TSMC가 최첨단 공정 수요 증가로 고성장을 기록한 것과는 상반된 행보다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 日 구마모토 2공장 건설…2027년 가동]]></title>
             <link>https://zdnet.co.kr/view/?no=20250107095058</link>
@@ -16,11 +24,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["땡큐 HBM"...SK하이닉스, 年영업익 삼성 반도체 추월 전망]]></title>
+            <title><![CDATA["땡큐 HBM"...SK하이닉스, 연간 영업익 삼성 반도체 추월 전망]]></title>
             <link>https://zdnet.co.kr/view/?no=20250107105503</link>
             <guid>https://zdnet.co.kr/view/?no=20250107105503</guid>
             <pubDate>Tue, 07 Jan 2025 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 지난해 HBM(고대역폭메모리) 공급에 힘입어 삼성전자의 반도체(DS부문) 실적을 처음으로 앞지를 전망이다. 현재 작년 한해 SK하이닉스 영업이익은 23조원으로 역...]]></content:encoded>
+            <content:encoded><![CDATA[SK하이닉스가 지난해 고대역폭메모리(HBM) 공급에 힘입어 삼성전자의 반도체(DS부문) 실적을 처음으로 앞지를 전망이다. 현재 작년 한해 SK하이닉스 영업이익은 23조원으로 역...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://zdnet.co.kr/view/?no=20250107104446</link>
             <guid>https://zdnet.co.kr/view/?no=20250107104446</guid>
             <pubDate>Tue, 07 Jan 2025 02:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[SKC는 오는 7~10일(현지시간) 미국 라스베이거스에서 열리는 세계 최대 산업박람회 'CES 2025'에서 반도체 산업의 '게임 체인저'로 평가받는 글라스 기판을 선보인다고 ...]]></content:encoded>
+            <content:encoded><![CDATA[SKC는 이달 7~10일(현지시간) 미국 라스베이거스에서 열리는 세계 최대 산업박람회 'CES 2025'에서 반도체 산업의 '게임 체인저'로 평가받는 글라스 기판을 선보인다고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250104012830</guid>
             <pubDate>Sun, 05 Jan 2025 01:01:43 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 유기발광다이오드(OLED) 산업 새로운 먹거리 IT 기기·차량용 OLED 신제품을 대거 선보인다. 삼성디스플레이는 7~10일(현지시간) 미국 라스베이거스에서 열...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC "첨단 패키징 CoWoS 용량 월 7.5만장…작년 2배"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250103170913</link>
-            <guid>https://zdnet.co.kr/view/?no=20250103170913</guid>
-            <pubDate>Fri, 03 Jan 2025 23:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 올해 첨단 패키징 CoWoS(Chip on Wafer on Substrate) 생산능력을 전년 보다 2배 늘릴 계획이다. 대만 경제일보는 업계 소...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
