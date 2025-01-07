@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 02:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 03:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 日 구마모토 2공장 건설…2027년 가동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250107095058</link>
+            <guid>https://zdnet.co.kr/view/?no=20250107095058</guid>
+            <pubDate>Tue, 07 Jan 2025 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 업체 대만 TSMC가 일본 규슈 구마모토현에 제2공장을 짓는다고 일본 니혼게이자이신문(닛케이)이 6일(현지시간) 보도했다. TSMC는 지난...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["땡큐 HBM"...SK하이닉스, 年영업익 삼성 반도체 추월 전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250107105503</link>
+            <guid>https://zdnet.co.kr/view/?no=20250107105503</guid>
+            <pubDate>Tue, 07 Jan 2025 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 지난해 HBM(고대역폭메모리) 공급에 힘입어 삼성전자의 반도체(DS부문) 실적을 처음으로 앞지를 전망이다. 현재 작년 한해 SK하이닉스 영업이익은 23조원으로 역...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKC, CES서 AI 반도체용 '글라스 기판' 실물 전시]]></title>
             <link>https://zdnet.co.kr/view/?no=20250107104446</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250103170913</guid>
             <pubDate>Fri, 03 Jan 2025 23:12:39 GMT</pubDate>
             <content:encoded><![CDATA[대만 파운드리 업체 TSMC가 올해 첨단 패키징 CoWoS(Chip on Wafer on Substrate) 생산능력을 전년 보다 2배 늘릴 계획이다. 대만 경제일보는 업계 소...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 작년 연간 영업이익 34조 하향 전망...HBM 공급 지연 탓]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250103153727</link>
-            <guid>https://zdnet.co.kr/view/?no=20250103153727</guid>
-            <pubDate>Fri, 03 Jan 2025 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자의 지난해 연간 영업이익 또한 34조원으로 당초 시장의 기대치 보다 하회할 전망이다. 이는 주요 고객사인 엔비디아에 HBM(고대역폭메모리) 공급이 지연됨과 동시에 파운드...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스 자회사 솔리다임, 소비자용 SSD 시장 철수…AI용 낸드 집중]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250103082554</link>
-            <guid>https://zdnet.co.kr/view/?no=20250103082554</guid>
-            <pubDate>Fri, 03 Jan 2025 02:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스 자회사 솔리다임이 지난해 말 소비자용 SSD 제품을 단종했다. 인공지능(AI) 산업 성장세에 맞춰 데이터센터용 고용량 SSD 사업에 집중하기 위한 전략으로 풀이된다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
