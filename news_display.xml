@@ -4,15 +4,23 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 04:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 05:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한미반도체, 마이크론 신규 팹 기공식 참석..."HBM 협력 강화"]]></title>
+            <title><![CDATA[AI 반도체 모빌린트, 'CES 2025'서 엣지 환경 LLM 데모 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250108132121</link>
+            <guid>https://zdnet.co.kr/view/?no=20250108132121</guid>
+            <pubDate>Wed, 08 Jan 2025 05:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[AI 반도체 기업 모빌린트가 이달 7일부터 10일까지 미국 라스베이거스에서 개최되는 세계 최대 IT 전시회 'CES 2025'에서 국내 최초로 엣지 환경에서 대형언어모델(LLM...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한미반도체, 마이크론 HBM 팹 기공식 참석..."협력 강화"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250108122227</link>
             <guid>https://zdnet.co.kr/view/?no=20250108122227</guid>
             <pubDate>Wed, 08 Jan 2025 04:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[곽동신 한미반도체 회장이 미국 반도체 기업인 마이크론 테크놀로지 싱가포르 신규 공장 기공식에 참석하며 협력을 다졌다. 한미반도체 곽동신 회장은 8일 오전 싱가포르 우드랜즈 (W...]]></content:encoded>
+            <content:encoded><![CDATA[곽동신 한미반도체 회장이 미국 반도체 기업인 마이크론 테크놀로지 싱가포르 신규 HBM(고대역폭메모리) 패키징 공장 기공식에 참석하며 협력을 다졌다. 한미반도체 곽동신 회장과 주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250106100543</guid>
             <pubDate>Mon, 06 Jan 2025 02:21:32 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 빅테크 기업들이 새해 인공지능(AI) 인프라 확충에 적극 나서고 있다. 마이크로소프트, 아마존 등이 최근 조 단위의 AI 데이터센터용 설비투자 계획을 잇따라 발표했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인피니언, 차세대 4D·HD 이미징 '레이더 MMIC' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250106104509</link>
-            <guid>https://zdnet.co.kr/view/?no=20250106104509</guid>
-            <pubDate>Mon, 06 Jan 2025 02:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[인피니언테크놀로지스가 새로운 최첨단 28나노미터(nm) 레이더 MMIC인 RASIC CTRX8191F의 최종 샘플을 출시했다고 6이 밝혔다. SAE에서 정의한 L2+ ~ L4 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
