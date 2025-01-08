@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 21:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 22:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄컴 "84만원 퀄컴 노트북, 640만원 인텔 제품보다 낫다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250109063421</link>
+            <guid>https://zdnet.co.kr/view/?no=20250109063421</guid>
+            <pubDate>Wed, 08 Jan 2025 22:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] "인텔과 AMD가 중저가 노트북 시장을 겨냥해 내놓은 여러 프로세서 신제품은 윈도11 기능인 코파일럿+도 제대로 지원하지 못한다. 신경망처리...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 실적 부진…블룸버그 "창사 이래 최악의 시간"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250108152459</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250107095058</guid>
             <pubDate>Tue, 07 Jan 2025 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 업체 대만 TSMC가 일본 규슈 구마모토현에 제2공장을 짓는다고 일본 니혼게이자이신문(닛케이)이 6일(현지시간) 보도했다. TSMC는 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["땡큐 HBM"...SK하이닉스, 연간 영업익 삼성 반도체 추월 전망]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250107105503</link>
-            <guid>https://zdnet.co.kr/view/?no=20250107105503</guid>
-            <pubDate>Tue, 07 Jan 2025 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 지난해 고대역폭메모리(HBM) 공급에 힘입어 삼성전자의 반도체(DS부문) 실적을 처음으로 앞지를 전망이다. 현재 작년 한해 SK하이닉스 영업이익은 23조원으로 역...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
