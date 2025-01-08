@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 06:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 07:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 비서가 운전하고 스마트홈이 화재 감시…"멋진 신세계"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250108152443</link>
+            <guid>https://zdnet.co.kr/view/?no=20250108152443</guid>
+            <pubDate>Wed, 08 Jan 2025 07:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[아마존 뉴스(Amazon News)에 따르면, 아마존이 2025년 소비자가전전시회(CES 2025)에서 차량용 AI와 스마트홈 기술을 중심으로 혁신적인 신제품과 서비스를 대거 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI가 쓴 글과 사람 글, 98.5% 정확도로 구분...어떻게?]]></title>
             <link>https://zdnet.co.kr/view/?no=20250108145336</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250107162956</guid>
             <pubDate>Tue, 07 Jan 2025 08:16:21 GMT</pubDate>
             <content:encoded><![CDATA[아라곤 리서치(Aragon Research)가 최근 발간한 'Making the Case for Copilots in the Contact Center' 보고서에 따르면, 콘택...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 개인용 AI 슈퍼컴퓨터 '프로젝트 디지츠' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250107161136</link>
-            <guid>https://zdnet.co.kr/view/?no=20250107161136</guid>
-            <pubDate>Tue, 07 Jan 2025 08:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] GPU 제조사 엔비디아가 6일 저녁(이하 현지시간) 미국 라스베이거스 만달레이 베이 컨벤션 센터에서 진행한 CES 기조연설을 통해 블랙웰 아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
