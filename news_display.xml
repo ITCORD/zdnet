@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 12:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] "로봇개가 패널 발로 '뻥'"…삼성D, 워치용 마이크로LED 첫 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250109202210</link>
+            <guid>https://zdnet.co.kr/view/?no=20250109202210</guid>
+            <pubDate>Thu, 09 Jan 2025 12:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=류은주 기자] 소형 유기발광다이오드(OLED) 시장 강자인 삼성디스플레이가 미국에서 기술력을 뽐냈다. 삼성디스플레이가 8일(현지시간) 미국 라스베이거스 앙...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성·SK, CES서 불붙은 HBM 경쟁…젠슨 황  한마디에 주가 출렁]]></title>
             <link>https://zdnet.co.kr/view/?no=20250109162740</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250108083414</guid>
             <pubDate>Wed, 08 Jan 2025 02:14:53 GMT</pubDate>
             <content:encoded><![CDATA["팹리스 관점에서 보면 과거 국내 AI 반도체 산업에서 가장 약점이었던 부분이 마이크로아키텍처, 즉 설계 영역이다. 퓨리오사AI를 비롯한 기업들도 이에 근본적인 설계 능력을 오...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 "팬서레이크는 살아 있다...올 하반기 양산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250108013210</link>
-            <guid>https://zdnet.co.kr/view/?no=20250108013210</guid>
-            <pubDate>Wed, 08 Jan 2025 00:57:32 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 팬서레이크(Panther Lake)는 1.8나노급 인텔 18A(Intel 18A) 공정에서 생산돼 올해부터 투입될 노트북용 차세대 프로세서다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
