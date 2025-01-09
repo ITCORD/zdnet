@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 14:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 15:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["세계 양자전쟁 곧 응용분야로 이동···한국, 빠르게 움직여야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250109232547</link>
+            <guid>https://zdnet.co.kr/view/?no=20250109232547</guid>
+            <pubDate>Thu, 09 Jan 2025 15:13:05 GMT</pubDate>
+            <content:encoded><![CDATA["양자 분야 현재 전쟁터는 공급망으로 기업간 치열한 선점 경쟁이 벌어지고 있습니다. 미래 전쟁터는 응용 분야다. 이르면 5년, 늦어도 10년안에 우리나라도 공급망과 응용분야 선...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[젠슨 황 한마디에...아이온큐 3X 레버리지 상폐 절차]]></title>
             <link>https://zdnet.co.kr/view/?no=20250109180316</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250109103159</guid>
             <pubDate>Thu, 09 Jan 2025 02:46:06 GMT</pubDate>
             <content:encoded><![CDATA[IT 서비스 기업 LG CNS가 클라우드 관리기업(MSP) 메가존클라우드와 손잡고 클라우드 시장을 겨냥해 야심차게 선보인 클라우드그램이 결국 5년 만에 사라졌다. 클라우드 시장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지멘스 "극사실적 제조·엔지니어링 디지털 트윈 시각화 구현"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250109101039</link>
-            <guid>https://zdnet.co.kr/view/?no=20250109101039</guid>
-            <pubDate>Thu, 09 Jan 2025 02:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[지멘스 디지털 인더스트리 소프트웨어(지멘스 DISW)가 극사실적인 물리 기반 디지털 트윈 시각화를 위해 엔비디아 옴니버스 플랫폼과 가속 컴퓨팅을 팀센터(Teamcenter)에 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
