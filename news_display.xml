@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 04:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 05:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['저전력' AI칩에 힘 주는 엔비디아…삼성·SK 'LPDDR' 성장 기대감]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250109112816</link>
+            <guid>https://zdnet.co.kr/view/?no=20250109112816</guid>
+            <pubDate>Thu, 09 Jan 2025 05:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 AI 반도체 시장 영역을 자율주행·로봇·개인용 PC 등으로 적극 확장하기로 하면서 고성능 데이터 연산과 동시에 '저전력' 특성이 중요한 삼성전자, SK하이닉스의 고부...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성디스플레이, 세계 최초 노트북용 롤러블 OLED 양산]]></title>
             <link>https://zdnet.co.kr/view/?no=20250109081304</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250107175326</guid>
             <pubDate>Tue, 07 Jan 2025 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[젠슨 황 엔비디아 최고경영자(CEO)가 6일(현지시간) 'CES 2025' 기조연설에서 차세대 아키텍처 블랙웰 기반의 '지포스 RTX 50 GPU(그래픽처리장치)'를 공개하며,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엘케이켐, 증권신고서 제출…코스닥 상장 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250107164338</link>
-            <guid>https://zdnet.co.kr/view/?no=20250107164338</guid>
-            <pubDate>Tue, 07 Jan 2025 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최고 반도체 프리커서 소재 양산화 전문 기업 엘케이켐은 금융감독원에 증권신고서를 제출하고 코스닥 상장을 위한 본격 공모 절차에 돌입한다고 7일 밝혔다. 엘케이켐은 이번 상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
