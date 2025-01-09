@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 03:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 04:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성디스플레이, 세계 최초 노트북용 롤러블 OLED 양산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250109081304</link>
+            <guid>https://zdnet.co.kr/view/?no=20250109081304</guid>
+            <pubDate>Thu, 09 Jan 2025 04:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[[라스베이거스(미국)=류은주 기자] 삼성디스플레이가 오는 4월 세계 최초 노트북용 롤러블 유기발광다이오드(OLED)를 양산한다. 삼성디스플레이는 9일(현지시간) 미국 라스베이거...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄리타스반도체, 美 베리실리콘에 PCIe 6.0·CXL 3.0용 IP 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20250109100903</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250107164338</guid>
             <pubDate>Tue, 07 Jan 2025 08:16:42 GMT</pubDate>
             <content:encoded><![CDATA[국내 최고 반도체 프리커서 소재 양산화 전문 기업 엘케이켐은 금융감독원에 증권신고서를 제출하고 코스닥 상장을 위한 본격 공모 절차에 돌입한다고 7일 밝혔다. 엘케이켐은 이번 상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 개인용 AI 슈퍼컴퓨터 '프로젝트 디지츠' 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250107161136</link>
-            <guid>https://zdnet.co.kr/view/?no=20250107161136</guid>
-            <pubDate>Tue, 07 Jan 2025 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] GPU 제조사 엔비디아가 6일 저녁(이하 현지시간) 미국 라스베이거스 만달레이 베이 컨벤션 센터에서 진행한 CES 기조연설을 통해 블랙웰 아...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
