@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 07:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 08:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·SK, CES서 불붙은 HBM 경쟁…젠슨 황  한마디에 주가 출렁]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250109162740</link>
+            <guid>https://zdnet.co.kr/view/?no=20250109162740</guid>
+            <pubDate>Thu, 09 Jan 2025 08:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[AI 강자 엔비디아를 두고 메모리 업계가 HBM(고대역폭 메모리) 공급을 위한 자존심 대결을 벌이고 있다. 미국 라스베이거스에서 이달 7일부터 10일까지 열린 세계 최대 IT ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 3개 그룹별로 AI칩 수출 통제…韓 예외]]></title>
             <link>https://zdnet.co.kr/view/?no=20250109132359</link>
@@ -16,11 +24,11 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['저전력' AI칩에 힘 주는 엔비디아…삼성·SK 'LPDDR' 성장 기대감]]></title>
+            <title><![CDATA['저전력' AI칩에 힘 주는 엔비디아…삼성·SK, LPDDR 성장 기대감]]></title>
             <link>https://zdnet.co.kr/view/?no=20250109112816</link>
             <guid>https://zdnet.co.kr/view/?no=20250109112816</guid>
             <pubDate>Thu, 09 Jan 2025 06:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 AI 반도체 시장 영역을 자율주행·로봇·개인용 PC 등으로 적극 확장하기로 하면서 고성능 데이터 연산과 동시에 '저전력' 특성이 중요한 삼성전자, SK하이닉스의 고부...]]></content:encoded>
+            <content:encoded><![CDATA[엔비디아가 인공지능(AI) 반도체 시장 영역을 자율주행·로봇·개인용 PC 등으로 적극 확장하기로 하면서 고성능 데이터 연산과 동시에 '저전력' 특성이 중요한 삼성전자, SK하이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250108013210</guid>
             <pubDate>Wed, 08 Jan 2025 00:57:32 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] 팬서레이크(Panther Lake)는 1.8나노급 인텔 18A(Intel 18A) 공정에서 생산돼 올해부터 투입될 노트북용 차세대 프로세서다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴, 현대모비스와 차세대 ADAS·디지털 콕핏 구현 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250107180112</link>
-            <guid>https://zdnet.co.kr/view/?no=20250107180112</guid>
-            <pubDate>Tue, 07 Jan 2025 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴은 7일 차세대 첨단운전자보조시스템(ADAS), 디지털 콕핏 시스템 구현을 위해 국내 전장부품 전문기업 현대모비스와 협력한다고 밝혔다. 퀄컴은 자율주행용 플랫폼인 스냅드래곤...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
