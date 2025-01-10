@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 04:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 05:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹, 엔비디아와 '모빌리티·디지털 트윈' 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250110103633</link>
+            <guid>https://zdnet.co.kr/view/?no=20250110103633</guid>
+            <pubDate>Fri, 10 Jan 2025 05:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[현대자동차그룹이 글로벌 AI 컴퓨팅 기업 엔비디아(NVIDIA)와 손잡고 미래 모빌리티 혁신에 박차를 가한다. 양사는 지난 9일(현지시각) 미국 라스베이거스에서 열린 CES에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파네시아, CES서 CXL 3.1 IP 기반 GPU 메모리 확장 키트 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250110115334</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250108132057</guid>
             <pubDate>Wed, 08 Jan 2025 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[[라스베이거스(미국)=권봉석 기자] "인텔은 최고 성능 반도체와 전기차 파워트레인, 구역별 제어까지 소프트웨어정의차량(SDV) 시대에 맞는 제품을 제공할 수 있는 유일한 공급업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 반도체 모빌린트, 'CES 2025'서 엣지 환경 LLM 데모 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250108132121</link>
-            <guid>https://zdnet.co.kr/view/?no=20250108132121</guid>
-            <pubDate>Wed, 08 Jan 2025 05:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[AI 반도체 기업 모빌린트가 이달 7일부터 10일까지 미국 라스베이거스에서 개최되는 세계 최대 IT 전시회 'CES 2025'에서 국내 최초로 엣지 환경에서 대형언어모델(LLM...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
