@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 02:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파네시아, CES서 CXL 3.1 IP 기반 GPU 메모리 확장 키트 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250110115334</link>
+            <guid>https://zdnet.co.kr/view/?no=20250110115334</guid>
+            <pubDate>Fri, 10 Jan 2025 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[CXL 팹리스 스타트업 기업 파네시아가 지난 7일부터 10일까지 미국 라스베이거스에서 열리고 있는 세계 최대 규모의 전자 박람회 CES 2025에 참가해 CXL 3.1 IP 기...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 제약회사에 투자…"우리 AI칩으로 신약 개발"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250110093045</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250108132121</guid>
             <pubDate>Wed, 08 Jan 2025 05:13:28 GMT</pubDate>
             <content:encoded><![CDATA[AI 반도체 기업 모빌린트가 이달 7일부터 10일까지 미국 라스베이거스에서 개최되는 세계 최대 IT 전시회 'CES 2025'에서 국내 최초로 엣지 환경에서 대형언어모델(LLM...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한미반도체, 마이크론 HBM 팹 기공식 참석..."협력 강화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250108122227</link>
-            <guid>https://zdnet.co.kr/view/?no=20250108122227</guid>
-            <pubDate>Wed, 08 Jan 2025 04:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[곽동신 한미반도체 회장이 미국 반도체 기업인 마이크론 테크놀로지 싱가포르 신규 HBM(고대역폭메모리) 패키징 공장 기공식에 참석하며 협력을 다졌다. 한미반도체 곽동신 회장과 주...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
