@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 헬스케어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 23:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 01:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의료분야에 대규모언어모델 적용시 보안침해 공격 성공률 81%]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250112085714</link>
+            <guid>https://zdnet.co.kr/view/?no=20250112085714</guid>
+            <pubDate>Sun, 12 Jan 2025 01:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[서울아산병원 연구팀, 개인정보유출 위험성 분석 대규모언어모델이 답변 생성 과정에서 학습된 원본 데이터 노출 가능성도 22% 최근 챗GPT와 같은 생성형 인공지능과 그 핵심 기술...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["비만, 미용 문제 아니라 병…사회 지출 막대해”]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250111085905</link>
+            <guid>https://zdnet.co.kr/view/?no=20250111085905</guid>
+            <pubDate>Sun, 12 Jan 2025 01:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[비만이 사회·경제 취약계층에서 유병률이 높아 이들을 보호하기 위한 정책적 관심이 시급하다. 대한비만학회에 따르면, '비만병'은 당뇨병·고혈압·심혈관 질환 등 만성질환뿐 아니라 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[K-제약바이오, 새해 '긍정' 전망…우리기업 해외시장 진출 증가 기대]]></title>
             <link>https://zdnet.co.kr/view/?no=20250111084538</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250109101707</guid>
             <pubDate>Thu, 09 Jan 2025 02:46:40 GMT</pubDate>
             <content:encoded><![CDATA[고열·기침환자 등 인플루엔자 환자 발생이 8년 만에 최고치를 기록한 가운데, 최가 한파가 몰려오며 정부도 분주하다. 의사 집단행동 중앙재난안전대책본부(중대본)에 따르면 지난 1...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제43대 의협 회장에 김택우 후보 당선]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250108193508</link>
-            <guid>https://zdnet.co.kr/view/?no=20250108193508</guid>
-            <pubDate>Wed, 08 Jan 2025 11:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[대한의사협회 신임 회장으로 김택우 전국광역시도의사협의회장이 당선됐다. 의협 중앙선관위는 8일 오후 결선 투표에서 김택우 후보가 주수호 후보를 제치고 제43대 회장으로 당선됐다고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건보공단, 개인별 의료영상검사(CT) 이력관리 조회 서비스 개시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250108181246</link>
-            <guid>https://zdnet.co.kr/view/?no=20250108181246</guid>
-            <pubDate>Wed, 08 Jan 2025 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[국민건강보험공단(이하 건보공단)은 모바일 앱 'The 건강보험' 또는 대표 홈페이지에서 의료영상검사(CT) 이력을 확인할 수 있는 서비스를 개시했다. 건보공단의 '의료영상촬영 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
