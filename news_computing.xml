@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 05:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 06:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["대학생들, AI 잘 활용하면 자신감 높아진다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250113141426</link>
+            <guid>https://zdnet.co.kr/view/?no=20250113141426</guid>
+            <pubDate>Mon, 13 Jan 2025 06:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[미국 퍼듀대학교와 독일 뮌헨공과대학교 공동 연구진이 발표한 최근 연구에 따르면, 인공지능(AI) 교육에서 학습자의 태도와 관심도가 기술 이해도보다 더 중요한 것으로 나타났다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, AI 팀 통합했다…'딥마인드'로 이관]]></title>
             <link>https://zdnet.co.kr/view/?no=20250113140759</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250113081124</guid>
             <pubDate>Mon, 13 Jan 2025 01:00:09 GMT</pubDate>
             <content:encoded><![CDATA[테크크런치(TechCrunch)는 9일(현지시간) 메타(Meta)의 마크 저커버그(Mark Zuckerberg) CEO가 인공지능 모델 라마(Llama) 개발을 위해 불법 복제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["글로벌 기업 직원, AI 활용 능력 부족…역량 강화 투자해야"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250112185043</link>
-            <guid>https://zdnet.co.kr/view/?no=20250112185043</guid>
-            <pubDate>Sun, 12 Jan 2025 11:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[다수 글로벌 기업이 생성형 인공지능(AI) 기술 투자 확대를 계획한 가운데 직원의 AI 활용 역량 강화 투자도 필요할 것이란 전망이 나왔다. 12일 미국 가트너 보고서 '직원의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
