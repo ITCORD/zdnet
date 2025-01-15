@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이, 지난해 적자 폭 줄여…IT OLED 부진 '고심']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250115164136</link>
+            <guid>https://zdnet.co.kr/view/?no=20250115164136</guid>
+            <pubDate>Wed, 15 Jan 2025 08:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[LG디스플레이가 지난해 매출과 영업이익을 전년 대비 개선시키는 데 성공했다. 다만 지난해 4분기 기준으로는 IT OLED 수요 부진 등으로 업계의 예상을 밑도는 영업이익을 거둔...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 中 첨단 반도체 유입 더 옥죈다…삼성·TSMC 등 영향권]]></title>
             <link>https://zdnet.co.kr/view/?no=20250115153821</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250113141832</guid>
             <pubDate>Mon, 13 Jan 2025 06:18:45 GMT</pubDate>
             <content:encoded><![CDATA[고동진 국회의원은 14일 오전 9시 국회의원회관 제7간담회실에서 '엔비디아 GPU와 함께 이야기되고 있는 TPU와 NPU 기술 등에 대한 현황분석 간담회'를 개최한다고 13일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 美서 4나노 칩 생산 시작…"대만 같은 수율·품질"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250113102719</link>
-            <guid>https://zdnet.co.kr/view/?no=20250113102719</guid>
-            <pubDate>Mon, 13 Jan 2025 06:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 업체 대만 TSMC가 미국 애리조나 공장에서 4나노미터(㎚·1㎚=10억분의 1m) 공정으로 칩을 양산하기 시작했다고 지나 라이몬도 미국 상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
