@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 00:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 02:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풀MVNO 도입 지원...이통 3사 모두 도매제공의무사업자로 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250115100734</link>
+            <guid>https://zdnet.co.kr/view/?no=20250115100734</guid>
+            <pubDate>Wed, 15 Jan 2025 02:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 이통 3사 모두 도매제공의무사업자로 확대하는 등의 풀MVNO 지원정책을 꺼내 들었다. 이동통신망 외에 자체 설비를 갖춰 요금 설계가 자유로운 알뜰폰 등장을 돕겠다는 뜻이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정부협상 마지막 알뜰폰 데이터 도매대가 최대 52% 인하]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250115092024</link>
+            <guid>https://zdnet.co.kr/view/?no=20250115092024</guid>
+            <pubDate>Wed, 15 Jan 2025 02:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤의 알뜰폰 데이터 도매대가가 데이터 1메가바이트(MB) 당 1.29원에서 0.62원까지 최대 52% 인하된다. 정부는 이를 통해 알뜰폰 회사들이 차별화된 자체 요금제를...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스타링크 위성통신, 3월 이후 국내 서비스 개시될 듯]]></title>
             <link>https://zdnet.co.kr/view/?no=20250114165653</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250113091644</guid>
             <pubDate>Mon, 13 Jan 2025 01:00:02 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 지난 12월30일 가산 AI 데이터센터(AIDC)를 오픈하고, 시범 운영을 마친 뒤 AI 클라우드 서비스인 'SKT GPUaaS'를 출시했다고 13일 밝혔다. SK...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 프라이버시센터 오픈..."내 개인정보 한 번에 조회"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250113083741</link>
-            <guid>https://zdnet.co.kr/view/?no=20250113083741</guid>
-            <pubDate>Mon, 13 Jan 2025 01:00:02 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 이용자 개인정보를 보호하고, 정보 주체로서의 알 권리를 보장하기 위해 '프라이버시 센터'를 오픈했다고 13일 밝혔다. 프라이버시 센터에서는 간단한 웹페이지 접속만...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 대형산불에 스타링크 위성통신 서비스 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250112140059</link>
-            <guid>https://zdnet.co.kr/view/?no=20250112140059</guid>
-            <pubDate>Sun, 12 Jan 2025 05:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[T모바일과 스타링크가 대규모 산불이 발생한 미국 캘리포니아 지역에서 위성통신으로 스마트폰에 직접 접속하는 D2D 서비스를 10일(현지시각) 시작했다고 모바일웓드라이브가 전했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
