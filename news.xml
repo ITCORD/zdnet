@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 13:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 14:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아 '네모 가드레일' 공개…에이전트 폭주 방지로 AI 신뢰도 ↑]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250116150525</link>
+            <guid>https://zdnet.co.kr/view/?no=20250116150525</guid>
+            <pubDate>Thu, 16 Jan 2025 14:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 생성형 AI 시대를 맞아 '네모 가드레일(NeMo Guardrails)' 솔루션을 통해 거대 언어 모델(LLM) 활용에 필요한 안전성과 신뢰도를 대폭 높이고 있다. ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/16/287c6152cb910bbc86819c13415fab12-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨 FC 온라인-FC 모바일, 신규 클래스 '25 TOTY' 출시 예고]]></title>
             <link>https://zdnet.co.kr/view/?no=20250116200440</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250116192433</guid>
             <pubDate>Thu, 16 Jan 2025 11:10:11 GMT</pubDate>
             <content:encoded><![CDATA[롯데홈쇼핑(대표 김재겸)은 모바일 게임 '벨리곰 매치랜드'를 국내에 정식 출시하고, 캐릭터IP 사업 다각화를 통한 수익 창출에 본격적으로 나선다고 16일 밝혔다. 롯데홈쇼핑은 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/16/a52bc263a19c6c0088ff3a583d0c2390-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11번가 숏폼 '플레이' 오픈플랫폼으로…"누구나 영상 올리세요"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250116105116</guid>
             <pubDate>Thu, 16 Jan 2025 08:15:32 GMT</pubDate>
             <content:encoded><![CDATA["사람이 기술에 적응하는 것이 아니라, 기술이 사람에 익숙해져야 합니다. 매장에서 주문 시 사람에게 키오스크 사용법을 익히기를 요구하기보다, 키오스크에 내재된 기술이 사람에게 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['혁신의료기기' 제도…2020년 시행 이후 총 88개 제품 지정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116171327</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116171327</guid>
-            <pubDate>Thu, 16 Jan 2025 08:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 혁신의료기기 제도가 시행된 이후 지난해까지 88개의 제품이 지정된 것으로 나타났다. 혁신의료기기는 의료기기산업 육성 및 혁신의료기기 지원법에 따라 정보통신기술, 생명...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
