@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 08:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미디어 전략 기로에 선 KT...콘텐츠 개방 고심]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117155120</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117155120</guid>
+            <pubDate>Fri, 17 Jan 2025 08:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 자체 제작 콘텐츠의 외부 OTT 공급 시기를 앞당기며 기존의 폐쇄적 전략에 대한 고심이 깊어지는 모습이다. 그동안 KT는 오리지널 콘텐츠를 자사 채널에서 우선 공개하며 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 "애플TV+ 브랜드관 공개 후 프리미엄 이용자 급증"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250117094949</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250114154634</guid>
             <pubDate>Tue, 14 Jan 2025 07:11:43 GMT</pubDate>
             <content:encoded><![CDATA[방송통신위원회가 인공지능(AI) 산업 발전과 동시에 이용자 보호를 위한 조치에 나선다. AI 이용자보호 종합계획을 수립하고, '생성형AI 이용자보호 가이드라인'과 AI 이용자보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LTE·5G 통합요금제, 소비자 선택권 넓힐까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250114115041</link>
-            <guid>https://zdnet.co.kr/view/?no=20250114115041</guid>
-            <pubDate>Tue, 14 Jan 2025 07:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[통신 3사가 LTE와 5G 통합요금제를 상반기 내 출시할 예정인 가운데, 통신비 인하를 유도하고 소비자 선택권 확대로 이어질지 관심이 쏠리고 있다. 과학기술정보통신부는 2025...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
