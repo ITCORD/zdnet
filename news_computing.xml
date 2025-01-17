@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 00:56:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 훈련 데이터 논란"…메타, 유튜브 사례로 '공정 이용' 주장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117083848</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117083848</guid>
+            <pubDate>Fri, 17 Jan 2025 00:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 지난 2023년부터 이어진 AI 훈련 데이터 소송에서 유튜브의 불법 콘텐츠 관리 사례를 방어 논리로 활용한 사실이 드러났다. 17일 테크크런치에 따르면 메타의 AI 모델...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["부정확 콘텐츠 생산"…애플, AI 뉴스 알림·요약 일시 중단]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117082748</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117082748</guid>
+            <pubDate>Fri, 17 Jan 2025 00:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 뉴스·엔터테인먼트 앱에 적용된 인공지능(AI) 알림 요약 기능을 일시 중단한다. 부정확한 뉴스 알림을 생성했다는 비판을 받은 후 나온 조치다. 17일 테크크런치 등 외신...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[양자컴퓨팅 공방 가열…SAP "3~4년 내 엄청난 영향"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117090208</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117090208</guid>
+            <pubDate>Fri, 17 Jan 2025 00:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[크리스티안 클라인 SAP 최고경영자(CEO)가 양자컴퓨팅 실용화 시기를 둘러싼 회의적인 견해를 일축했다. 그는 또 양자컴퓨터가 단기적으로도 공급망 관리와 같은 복잡한 문제를 해...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["거울과 반지가 병원 대체?"…AI가 만드는 '헬스케어 온 디맨드']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117084130</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117084130</guid>
+            <pubDate>Fri, 17 Jan 2025 00:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 기술 박람회인 CES 2025에서 공개 된 헬스테크는 단순히 치료를 위한 의료 기술을 넘어 일상생활에서 AI가 건강을 관리하는 미래를 제시하며 주목 받았습니다. 특히...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아 '네모 가드레일' 공개…에이전트 폭주 방지로 AI 신뢰도 ↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20250116150525</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250116114932</guid>
             <pubDate>Thu, 16 Jan 2025 03:14:28 GMT</pubDate>
             <content:encoded><![CDATA[레드햇이 가상화 워크로드 관리와 배포에 최적화된 전용 솔루션을 선보인다. 레드햇은 레드햇 오픈시프트 버추얼라이제이션 엔진(Red Hat OpenShift Virtualizati...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS 손잡은 메가존클라우드, AI 등 핵심 분야 협력 강화…IPO 움직임에 '청신호']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116110609</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116110609</guid>
-            <pubDate>Thu, 16 Jan 2025 02:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내 클라우드 관리 서비스(MSP) 전문기업 메가존클라우드가 올해 기업공개(IPO) 절차를 앞두고 아마존웹서비스(Amazon Web Services·AWS)와 함께 사업 경쟁력...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["1년간 특허 총 17건"…카카오엔터프라이즈, 클라우드·AI 기술력 '입증']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116104604</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116104604</guid>
-            <pubDate>Thu, 16 Jan 2025 02:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터프라이즈가 지난 한 해 동안 클라우드 및 인공지능(AI) 분야의 기술 경쟁력을 확보하기 위해 특허 출원 및 등록에 적극 나서 주목 받고 있다. 카카오엔터프라이즈는 지난...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융권, 생성형 AI로 ESG 리스크 관리한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116104421</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116104421</guid>
-            <pubDate>Thu, 16 Jan 2025 02:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[AI 투자로 지속가능성 가속화 캡제미니(Capgemini)가 발간한 'Financial Services Top Trends 2025' 보고서에 따르면, 금융기관들은 ESG 보고...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[로플랫, 지난해 첫 EBITDA 흑자 달성…AI 기술로 성장 가속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116102408</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116102408</guid>
-            <pubDate>Thu, 16 Jan 2025 02:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 상각 전 영업이익(EBITDA) 기준 손익분기점을 넘어선 로플랫이 새해 인공지능(AI)을 기반으로 새로운 매출 성장에 나선다. 로플랫은 창립 이래 첫 흑자 전환에 성공했...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
