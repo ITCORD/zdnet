@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 06:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 07:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KISA "가상자산 한번 털리면 끝…피싱 메일 속지 마세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117155103</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117155103</guid>
+            <pubDate>Fri, 17 Jan 2025 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[최근 가상자산 탈취를 노린 피싱 공격이 지속 발생해 대응책 마련이 시급한 것으로 전해졌다. 한국인터넷진흥원(KISA)은 이런 피싱 피해 사례 속출로 인해 인터넷 사용자가 각별한...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["LLM 추론비용 75% 절감"…스노우플레이크, '스위프트KV'로 AI 최적화 혁신]]></title>
             <link>https://zdnet.co.kr/view/?no=20250117144708</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250116174819</guid>
             <pubDate>Thu, 16 Jan 2025 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[한국마이크로소프트가 국내 기업의 생성형 AI 도입 혁신 사례를 선보이며 AI 트랜스포메이션 가속화에 나섰다. 각 기업은 업무 효율성 증대, 비용 절감, 보안 강화 등의 실질적 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA, 아이티센 과천 신사옥서 올해 첫 '콜라보데이' 행사]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116172834</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116172834</guid>
-            <pubDate>Thu, 16 Jan 2025 09:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA, 회장 조준희)가 16일 오전 과천시 소재 아이티센그룹 신사옥(아이티센타워)에서 '2025년 1차 콜라보데이' 행사를 개최했다. '콜라보데이'는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
