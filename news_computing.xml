@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 03:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 04:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업 절반 "생성형 AI로 탄소배출 늘었다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250117131449</link>
+            <guid>https://zdnet.co.kr/view/?no=20250117131449</guid>
+            <pubDate>Fri, 17 Jan 2025 04:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[생성형 AI의 숨겨진 환경 비용, 데이터 처리부터 e-폐기물까지 충격적 수준 캡제미니(Capgemini)가 발간한 '지속가능한 생성형 AI 개발' 보고서에 따르면, 생성형 AI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ETRI-ANL, "우주 환경 견딜 반도체 개발 협력"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250117111050</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250116112717</guid>
             <pubDate>Thu, 16 Jan 2025 06:17:01 GMT</pubDate>
             <content:encoded><![CDATA[지엔이 미국에 등록한 특허 기술을 자사 솔루션에 접목해 제품 기능을 확대한다. 지엔이 사물인터넷(IoT) 기기 운영데이터 분석 기술 특허를 미국에 등록했다고 16일 밝혔다. 해...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, AP와 제휴…'제미나이' 뉴스검색 더 정확해진다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116143914</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116143914</guid>
-            <pubDate>Thu, 16 Jan 2025 06:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[구글(Google)이 자사의 AI 챗봇 '제미나이'(Gemini) 앱의 정보 제공 품질을 높이기 위해 AP통신(The Associated Press)과 협력을 강화했다. 15일...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
