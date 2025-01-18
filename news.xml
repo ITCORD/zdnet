@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 22:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 23:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함영주, 베인캐피탈과 국내 투자 확대위한 소통 진행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250118092100</link>
+            <guid>https://zdnet.co.kr/view/?no=20250118092100</guid>
+            <pubDate>Sat, 18 Jan 2025 23:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[하나금융그룹은 지난 17일 서울시 중구 을지로 소재 하나금융그룹 명동 사옥에서 글로벌 사모펀드 운용사인 '베인캐피탈(Bain Capital)'과 최고경영자 미팅을 가졌다고 19...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/18/b43601d5f215cbf4c32fb4364d143ed9-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계百-서울대 데이터사이언스대학원, AI·빅데이터 서비스 개발 나서]]></title>
             <link>https://zdnet.co.kr/view/?no=20250117171722</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250119033935</guid>
             <pubDate>Sat, 18 Jan 2025 19:08:35 GMT</pubDate>
             <content:encoded><![CDATA[12.3 비상계엄 선포로 내란 우두머리 혐의를 받고 있는 윤석열 대통령이 19일 구속됐다. 현직 대통령 신분의 구속은 헌정사 처음이다. 서울서부지방법원 차은경 부장판사는 이날 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/19/31cc85852b87c90c4cb97e9525a8ddd3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[부음] 이정륜 아이씨비티(IBCT) 대표 모친상]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250118085806</guid>
             <pubDate>Sat, 18 Jan 2025 00:53:11 GMT</pubDate>
             <content:encoded><![CDATA[캡제미나이(Capgemini)가 발간한 '생성형 AI를 통한 기업 서비스 관리의 변혁' 보고서에 따르면, 2026년까지 전 세계 기업의 80% 이상이 생성형 AI 기반 애플리케...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[써보고서] "LG '엑사원 3.5', 챗GPT·퍼플렉시티 안써도 되겠네"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250118020240</link>
-            <guid>https://zdnet.co.kr/view/?no=20250118020240</guid>
-            <pubDate>Sat, 18 Jan 2025 00:53:11 GMT</pubDate>
-            <content:encoded><![CDATA["엑사원 3.5는 기업 환경에 최적화된 업무 솔루션입니다. 실제 임직원들이 체감할 수 있는 효율 개선을 목표로 개발했습니다." LG AI연구원 관계자는 지난 14일부터 사흘간 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
