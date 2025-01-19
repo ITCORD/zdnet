@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 23:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 01:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5년 vs 30년 양자컴퓨팅 실용화 시점, 엇갈리는 기술전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250118043844</link>
+            <guid>https://zdnet.co.kr/view/?no=20250118043844</guid>
+            <pubDate>Sun, 19 Jan 2025 00:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[젠슨 황 엔비디아 최고경영자(CEO)가 양자컴퓨팅 상용화에 대해 "20년 이상 남았다"고 발언한 이후, IT 업계 리더들 사이에서 상용화 시점을 두고 의견이 엇갈리고 있다. 일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유미's 픽] "AI 쫓기 바쁜데"…韓 CIO, 불어난 비용에 '한숨']]></title>
             <link>https://zdnet.co.kr/view/?no=20250117151305</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250117131449</guid>
             <pubDate>Fri, 17 Jan 2025 04:15:23 GMT</pubDate>
             <content:encoded><![CDATA[생성형 AI의 숨겨진 환경 비용, 데이터 처리부터 e-폐기물까지 충격적 수준 캡제미니(Capgemini)가 발간한 '지속가능한 생성형 AI 개발' 보고서에 따르면, 생성형 AI...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI-ANL, "우주 환경 견딜 반도체 개발 협력"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250117111050</link>
-            <guid>https://zdnet.co.kr/view/?no=20250117111050</guid>
-            <pubDate>Fri, 17 Jan 2025 03:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 최근 미국 에너지부(DOE) 산하 아르곤 국립연구소(ANL)에서 신형 가속기용 반도체 기술 개발을 위한 상호 협력 체계를 구축하기로 합의했다고 1...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
