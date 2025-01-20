@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 02:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC "트럼프 2기에도 반도체 보조금 지원 확신"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250120102027</link>
+            <guid>https://zdnet.co.kr/view/?no=20250120102027</guid>
+            <pubDate>Mon, 20 Jan 2025 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 기업 TSMC가 미국 행정부가 바뀌어도 반도체 보조금을 받을 것으로 내다봤다. TSMC 최고재무책임자(CFO)인 웬델 황 수석부사장은 19...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 'HBM 사업 확대' 컨콜 목표 지켰을까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250120095411</link>
+            <guid>https://zdnet.co.kr/view/?no=20250120095411</guid>
+            <pubDate>Mon, 20 Jan 2025 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 오는 31일 2024년 4분기 실적발표를 앞둔 가운데, 지난해 제시했던 HBM(고대역폭메모리) 사업 관련 전망치를 얼마나 현실화했을지 귀추가 주목된다. 현재 업계에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로칩, 차량·임베디드 컴퓨팅용 신규 16레인 스위치 제품군 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20250120091921</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250116105759</guid>
             <pubDate>Thu, 16 Jan 2025 06:17:22 GMT</pubDate>
             <content:encoded><![CDATA[AI 반도체 시장이 급성장하면서 GUC, 알칩 등 대만 TSMC의 주요 디자인하우스(VCA) 업체와 인텔 파운드리 등이 한국 AI 반도체 스타트업 공략에 적극 나서고 있다. 특...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[망고부스트, AI 추론 최적화 소프트웨어 '망고 LLM부스트' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116140247</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116140247</guid>
-            <pubDate>Thu, 16 Jan 2025 06:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[망고부스트는 AI 추론 성능을 향상시키는 시스템 최적화 소프트웨어 '망고 LLM부스트(Mango LLMBoost)'를 공식 출시했다고 16일 밝혔다. 망고 LLM부스트는 시스템...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, '4세대 OLED' 상용화…프리미엄 TV·게이밍 시장 공략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250115163355</link>
-            <guid>https://zdnet.co.kr/view/?no=20250115163355</guid>
-            <pubDate>Thu, 16 Jan 2025 05:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이가 대형 패널 사업의 경쟁력 강화를 위한 '4세대 OLED' 기술을 발표했다. 회사는 해당 OLED 패널을 올해 초프리미엄 TV에 우선 적용하고, 게이밍 OLED ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
