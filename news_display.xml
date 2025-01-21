@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 00:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 02:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디아이 등 HBM4 대응 분주...내달 新장비 고객사 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250121094559</link>
+            <guid>https://zdnet.co.kr/view/?no=20250121094559</guid>
+            <pubDate>Tue, 21 Jan 2025 02:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[올 하반기 HBM4(6세대 고대역폭메모리) 상용화를 앞두고, 디아이·유니테스트 등 국내 테스트 장비업체들의 대응이 분주해졌다. 이들은 올 1분기 SK하이닉스에 HBM4용 신규 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유비리서치, 내달 OLED 등 디스플레이 시장 동향 세미나 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20250120155401</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250116145258</guid>
             <pubDate>Thu, 16 Jan 2025 08:16:01 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 정부가 ASML의 반도체 장비 수출 통제를 강화하자 중국이 반발했다. 중국 상무부는 15일(현지시간) 반도체 제조 장비와 소프트웨어 수출 통제를 강화한 네덜란드에 우려...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[매출 4분의 1이 '3나노'…TSMC, AI 수요에 첨단 공정 高성장]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250116150346</link>
-            <guid>https://zdnet.co.kr/view/?no=20250116150346</guid>
-            <pubDate>Thu, 16 Jan 2025 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 지난해 4분기에도 높은 성장세를 이어갔다. AI를 비롯한 첨단 산업용 반도체 수요가 증가한 덕분으로, 가장 고부가 영역인 3나노미터(nm) 공정 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
