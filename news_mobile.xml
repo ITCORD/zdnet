@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 06:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 07:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PCIe 5.0 SSD, 저전력 컨트롤러 탑재로 시장 확대 전망]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250122144916</link>
+            <guid>https://zdnet.co.kr/view/?no=20250122144916</guid>
+            <pubDate>Wed, 22 Jan 2025 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[최대 전송 속도가 16GB/s에 이르는 PCI 익스프레스 5.0 기반 NVMe SSD가 올해 한층 시장 점유율을 확대할 것으로 보인다. 지난 해 3분기부터 인텔 코어 울트라 2...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[화웨이·샤오미, 작년 4Q 中서 애플 제쳐]]></title>
             <link>https://zdnet.co.kr/view/?no=20250122135037</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250121082143</guid>
             <pubDate>Tue, 21 Jan 2025 00:55:14 GMT</pubDate>
             <content:encoded><![CDATA[폴더블폰 시장 침체에도 불구하고 삼성전자가 올해 화면을 두 번 접는 트리폴드 폰을 포함해 4개의 갤럭시Z 시리즈 폴더블폰을 출시할 것이라는 전망이 나왔다. IT매체 폰아레나는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서린씨앤아이, 서멀라이트 CPU 냉각장치 2종 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250121093534</link>
-            <guid>https://zdnet.co.kr/view/?no=20250121093534</guid>
-            <pubDate>Tue, 21 Jan 2025 00:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[서린씨앤아이가 21일 데스크톱PC용 프로세서 냉각장치 '로얄나이트 120' 2종을 출시했다. 로얄나이트 120은 대만 냉각솔루션 업체 서멀라이트 제품이며 120mm 냉각팬 2개...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
