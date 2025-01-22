@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 13:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 14:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜센터에 AI 도입했더니…통화량 30% 줄었다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250122230555</link>
+            <guid>https://zdnet.co.kr/view/?no=20250122230555</guid>
+            <pubDate>Wed, 22 Jan 2025 14:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[CX가 이제는 기업 성패 좌우...주가수익률 43%p 차이 금융 서비스 기업 나이스(NICE)가 발간한 '2025 CX 전략 기획 보고서'에 따르면, 고객경험(CX)이 이제는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM "양자컴퓨터 상용화 핵심은 오류 수정…2029년 완성 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250122214949</link>
+            <guid>https://zdnet.co.kr/view/?no=20250122214949</guid>
+            <pubDate>Wed, 22 Jan 2025 14:12:28 GMT</pubDate>
+            <content:encoded><![CDATA["양자컴퓨터가 상용화하려면 데이터 계산을 오류 없이 빠르게 처리해야 합니다. 이에 기업이 양자컴퓨터 오류 현상 방지를 위해 연구하고 있습니다. IBM은 2029년 오류 수정(e...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트럼프, 700兆 AI 프로젝트 '스타게이트' 발표…"韓 투자는 10분의 1"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250122180952</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250122133221</guid>
             <pubDate>Wed, 22 Jan 2025 05:12:27 GMT</pubDate>
             <content:encoded><![CDATA[씨게이트는 22일 열보조자기기록(HAMR) 기술을 적용한 30TB 이상 고용량 하드디스크 드라이브(HDD) 출하 현황을 공개했다. HAMR 기술은 헤드에 부착된 레이저를 나노초...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS 고객 노린 랜섬웨어 '코드핑거'…"데이터 보호 도구 악용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250122101510</link>
-            <guid>https://zdnet.co.kr/view/?no=20250122101510</guid>
-            <pubDate>Wed, 22 Jan 2025 03:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[아마존웹서비스(AWS) 고객을 겨냥한 랜섬웨어가 발생한 가운데 국내 피해 사례는 없는 것으로 전해졌다. 22일 업계에 따르면 최근 AWS S3 버킷 사용자 대상으로 랜섬웨어 '...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 타임지가 선정한 이교구 교수, 韓 SW 기업 대표 100명에게 건넨 말은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250122103941</link>
-            <guid>https://zdnet.co.kr/view/?no=20250122103941</guid>
-            <pubDate>Wed, 22 Jan 2025 03:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[이교구 서울대학교 교수가 한국소프트웨어산업협회(KOSA)의 지원으로 인공지능(AI) 음성 기술의 미래를 제시하며 콘텐츠 제작 과정의 혁신 가능성을 증명했다. KOSA는 22일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
