@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 07:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 08:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["TSMC, 지진으로 웨이퍼 2만장 손상…버려야 할 듯"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250123152711</link>
+            <guid>https://zdnet.co.kr/view/?no=20250123152711</guid>
+            <pubDate>Thu, 23 Jan 2025 08:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 반도체 위탁생산(파운드리) 기업 대만 TSMC가 현지에서 발생한 지진 탓에 반도체 제조용 실리콘 원판(웨이퍼)이 많게는 2만장 가량 손상됐다고 미국 정보기술(IT) ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Imec, 최신 반도체 기술 'ITF 코리아' 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20250123144327</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250122084409</guid>
             <pubDate>Wed, 22 Jan 2025 00:57:05 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이는 지난해 완공된 경기 용인시 기흥구의 신사옥 '삼성디스플레이리서치(이하 SDR)'가 미국 비영리 단체 그린빌딩위원회(USGBC)에서 운영하는 친환경 건축물 인증제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정철동 LG디스플레이 사장, 자사주 1.2만주 매입…실적 개선 자신감]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250121181236</link>
-            <guid>https://zdnet.co.kr/view/?no=20250121181236</guid>
-            <pubDate>Tue, 21 Jan 2025 10:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이는 정철동 사장이 자사주 1만2천460주를 매입했다고 21일 공시를 통해 밝혔다. 앞서 정 사장은 지난해 유상증자 우리사주 3만7천540주를 매입한 바 있다. 이번...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
