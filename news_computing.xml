@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 00:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 02:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI의 첫 'AI 에이전트' 오퍼레이터, 어떻게 작동할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250125100554</link>
+            <guid>https://zdnet.co.kr/view/?no=20250125100554</guid>
+            <pubDate>Sat, 25 Jan 2025 02:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[최근 오픈AI(OpenAI)는 챗GPT(ChatGPT)와 GPT-4를 잇는 새로운 AI 에이전트, 오퍼레이터(Operator)를 공개했습니다. [ 관련 기사 바로 보기] 오퍼레...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["샘 알트먼 참석할까?"…오픈AI, '빌더랩'으로 韓 AI 동맹 모색]]></title>
             <link>https://zdnet.co.kr/view/?no=20250124192015</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250124095753</guid>
             <pubDate>Fri, 24 Jan 2025 02:11:36 GMT</pubDate>
             <content:encoded><![CDATA[포시에스가 독자 개발한 챗봇 기반 전자문서 작성 기술로 미국 특허를 확보해 K-전자문서 기술의 글로벌 경쟁력을 입증했다. 포시에스는 이번에 회사가 미국 특허를 받은 기술이 사용...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 '스타게이트' 시동…美 텍사스에 '센트럴파크' 규모 데이터센터 건설 첫 삽]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124101204</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124101204</guid>
-            <pubDate>Fri, 24 Jan 2025 02:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[도널드 트럼프 대통령이 취임과 동시에 미국의 인공지능(AI) 시장 주도권 확대를 위한 움직임에 본격 나선 가운데 텍사스 주에 첫 AI 데이터센터 건설을 추진하며 경제 부흥을 노...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
