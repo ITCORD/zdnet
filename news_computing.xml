@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 02:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 03:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스틸리언, 글로벌 해킹대회 '폰투온'서 3년 연속 수상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250126113945</link>
+            <guid>https://zdnet.co.kr/view/?no=20250126113945</guid>
+            <pubDate>Sun, 26 Jan 2025 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[스틸리언(대표 박찬암)이 일본 도쿄에서 열린 '폰투온(Pwn2Own) 오토모티브 2025'에서 자동차 시스템 해킹에 성공했다고 26일 밝혔다. 폰투온은 일상에서 자주 사용되는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유니온커뮤니티, 얼굴인식 금융결제원 성능평가 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250126113322</link>
+            <guid>https://zdnet.co.kr/view/?no=20250126113322</guid>
+            <pubDate>Sun, 26 Jan 2025 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[유니온커뮤니티(대표 신요식)는 얼굴인식 솔루션 '유바이오 페이스키(UBio Face Key)'가 금융결제원의 바이오정보 분산관리업무 성능평가를 통과했다고 26일 밝혔다. 금융결...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["복잡한 앱 개발도 채팅으로"…오픈AI, '캔버스' O1 모델 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20250126033451</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250124143617</guid>
             <pubDate>Fri, 24 Jan 2025 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA["양자컴퓨팅은 막대한 가능성을 가지고 있지만 안정성, 비용 등 극복해야 할 많은 문제가 남았다. 이 가능성을 실현하기 위해 클라우드를 통해 양자컴퓨팅 인프라 저변을 확대할 것이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["사이버 위협 심화…국내 침해사고 전년 대비 48% 급증했다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124113101</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124113101</guid>
-            <pubDate>Fri, 24 Jan 2025 06:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 국내 사이버 침해사고가 전년 대비 약 48% 증가한 것으로 나타났다. 특히 서버 해킹과 정보 유출 사고가 두드러졌으며 중소기업과 취약 업종의 피해가 심각한 수준인 것으로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["클라우드 인재 모십니다"…이노그리드, 상반기 대규모 채용 돌입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124120122</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124120122</guid>
-            <pubDate>Fri, 24 Jan 2025 06:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[이노그리드가 새해 상반기 대규모 공개채용을 통해 인재 확보에 나선다. 이번 채용은 AI 기반 클라우드 기술 경쟁력을 강화하고 회사의 중장기 비전을 실현하기 위한 포석이다. 이노...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
