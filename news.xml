@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 17:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 18:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리플, 뉴욕·텍사스 송금업 라이선스 획득]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250128021216</link>
+            <guid>https://zdnet.co.kr/view/?no=20250128021216</guid>
+            <pubDate>Mon, 27 Jan 2025 18:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[가상자산 기업 리플이 미국 뉴욕주와 텍사스주에서 송금업 라이선스(Money Transmitter License, MTL))를 획득했다고 미국 가상자산 매체 더블록이 27일(현지...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/12/03/15c5aff1693d9f68822f4860f24694d5-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두산스코다파워, 내달 체코 증시 상장…최대 1600억원 조달]]></title>
             <link>https://zdnet.co.kr/view/?no=20250127221952</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250127173046</guid>
             <pubDate>Mon, 27 Jan 2025 09:13:42 GMT</pubDate>
             <content:encoded><![CDATA[중국 유니트리가 축구 경기에 최적화된 휴머노이드 로봇을 선보였다. 유니트리가 세계적인 로봇 축구대회 로보컵에 올해 처음 출전할지 관심이 모인다. 27일 중국 언론 디이차이징에 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/27/45c22d2ace84c688a5d219754ddf02f2.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중국차에 테슬라·BMW까지 "EU 전기차 고관세 부당"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250127114915</guid>
             <pubDate>Mon, 27 Jan 2025 03:15:02 GMT</pubDate>
             <content:encoded><![CDATA[최근 지분 매각설이 제기되는 SNS '틱톡' 관련해 오라클과 마이크로소프트, 테슬라 등이 인수자로 거론되는 가운데, 도널드 트럼프 미국 대통령은 해당 문제를 한 달 내 결론짓겠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 블록체인으로 美 정부 지출 관리한다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250127103740</link>
-            <guid>https://zdnet.co.kr/view/?no=20250127103740</guid>
-            <pubDate>Mon, 27 Jan 2025 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 미국 정부 지출 관리에 블록체인 기술을 활용하는 방안을 검토 중인 것으로 알려졌다. 머스크 CEO는 이번 미국 대통령 선거에서 도널드 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
