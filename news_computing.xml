@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 23:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 00:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카톡이라 믿었는데…'레드' 적힌 URL서 중고거래 했다가 '발등']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250113170832</link>
+            <guid>https://zdnet.co.kr/view/?no=20250113170832</guid>
+            <pubDate>Mon, 27 Jan 2025 00:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[최근 중고거래 사기 조직이 새로운 방식으로 피해자를 속이는 사례가 급증하고 있는 것으로 나타났다. 기존에는 방치된 카페에 허위 게시글을 올려 피해자를 유인하던 단순한 수법이 주...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스틸리언, 글로벌 해킹대회 '폰투온'서 3년 연속 수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20250126113945</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250124151447</guid>
             <pubDate>Fri, 24 Jan 2025 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[GS네오텍이 세계적인 수준의 인공지능(AI) 기술력을 바탕으로 새해 다양한 산업군의 디지털 전환과 비즈니스 성과 창출을 지원할 예정이다. 특히 AI 진입 장벽을 낮추기 위해 누...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS "갈 길 먼 양자컴퓨팅, 클라우드로 장벽 넘는다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124143617</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124143617</guid>
-            <pubDate>Fri, 24 Jan 2025 06:17:23 GMT</pubDate>
-            <content:encoded><![CDATA["양자컴퓨팅은 막대한 가능성을 가지고 있지만 안정성, 비용 등 극복해야 할 많은 문제가 남았다. 이 가능성을 실현하기 위해 클라우드를 통해 양자컴퓨팅 인프라 저변을 확대할 것이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
