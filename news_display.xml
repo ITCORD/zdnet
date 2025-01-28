@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 07:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 08:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아 "딥시크 AI 혁신, GPU 수요 더 증가시킬 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250128142748</link>
+            <guid>https://zdnet.co.kr/view/?no=20250128142748</guid>
+            <pubDate>Tue, 28 Jan 2025 08:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 27일(미국 현지시간) 중국 AI 스타트업 딥시크(DeepSeek)가 공개한 새 AI 모델 'R1'에 대해 긍정적인 평가를 내왔다. 딥시크 R1은 20일 공개된 추론...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트럼프 "해외 생산 반도체·의약품에 관세 매길 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250128112328</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250122161413</guid>
             <pubDate>Wed, 22 Jan 2025 08:16:43 GMT</pubDate>
             <content:encoded><![CDATA[LG이노텍이 지난해 연간 최대 매출을 기록했으나, 영업이익이 감소하는 등 수익성 면에서는 부진을 면치 못했다. 전방 산업의 수요 감소와 광학 사업 내 경쟁력 심화가 주요 원인으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, 올해 '턴어라운드' 위해 OLED 비중 확대 지속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250122155040</link>
-            <guid>https://zdnet.co.kr/view/?no=20250122155040</guid>
-            <pubDate>Wed, 22 Jan 2025 07:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[LG디스플레이가 올해 연간 흑자 달성을 위해 ▲OLED 사업 확대 ▲원가 절감 강화 등 다방면의 노력을 이어간다. 특히 올 상반기 스마트폰 OLED 출하량을 적극 늘리고, 차량...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
