@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 03:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI로 한국적 소통 재정의"…뤼튼, 글로벌 공략 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250128121720</link>
+            <guid>https://zdnet.co.kr/view/?no=20250128121720</guid>
+            <pubDate>Tue, 28 Jan 2025 04:14:57 GMT</pubDate>
+            <content:encoded><![CDATA["기술이 아무리 발달해도 결국은 일상 속에서 쉽게 활용되고 즐길 수 있어야 비로소 대중화가 이뤄집니다. 그래서 우리는 우선 인공지능(AI) 모델을 누구든지 마음껏 써볼 수 있도...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI로 문서 속 개인정보 보호"…로민, 손해보험協에 식별화 솔루션 구축]]></title>
             <link>https://zdnet.co.kr/view/?no=20250128112751</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250125100554</guid>
             <pubDate>Sat, 25 Jan 2025 02:06:08 GMT</pubDate>
             <content:encoded><![CDATA[최근 오픈AI(OpenAI)는 챗GPT(ChatGPT)와 GPT-4를 잇는 새로운 AI 에이전트, 오퍼레이터(Operator)를 공개했습니다. [ 관련 기사 바로 보기] 오퍼레...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["샘 알트먼 참석할까?"…오픈AI, '빌더랩'으로 韓 AI 동맹 모색]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124192015</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124192015</guid>
-            <pubDate>Fri, 24 Jan 2025 11:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 한국에서 '빌더랩' 행사를 개최해 국내 인공지능(AI) 기업 및 개발자와의 협력을 모색한다. 24일 업계에 따르면 오픈AI는 다음달 4일 서울에서 '빌더랩' 행사를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
