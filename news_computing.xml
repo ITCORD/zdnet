@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 00:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 02:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 딥시크 AI, 엔비디아 급락 '충격파'…트럼프 "긍정적 신호"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250128102734</link>
+            <guid>https://zdnet.co.kr/view/?no=20250128102734</guid>
+            <pubDate>Tue, 28 Jan 2025 02:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[중국 스타트업 딥시크가 개발한 저비용 거대언어모델(LLM)이 전 세계 인공지능(AI) 산업에 충격을 주고 있다. 이 모델이 효율성과 경제성을 기반으로 업계 1위 오픈AI '챗G...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["비즈니스용 원드라이브, OCR 데이터 저장방식에 취약"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250128095943</link>
+            <guid>https://zdnet.co.kr/view/?no=20250128095943</guid>
+            <pubDate>Tue, 28 Jan 2025 02:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 제공하는 기업용 클라우드 스토리지 서비스 '비즈니스용 원드라이브'가 광학문자인식(OCR) 데이터를 저장하는 방식에 잠재적인 취약점이 있다는 지적이 나왔다. 보안...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[피싱메일 첨부파일에 '가짜 페이지' 극성…계정탈취 우려]]></title>
             <link>https://zdnet.co.kr/view/?no=20250124114304</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250124162746</guid>
             <pubDate>Fri, 24 Jan 2025 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터프라이즈가 통합 클라우드 플랫폼 '카카오클라우드' 홈페이지를 새롭게 개편해 사용자 중심 콘텐츠를 강화하고 접근성을 대폭 개선했다. 카카오엔터프라이즈는 이번 개편이 클라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[18년 만에 바뀐 국가망보안체계…기대감 속 과기부 'CSAP'와 혼란 여전]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124164856</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124164856</guid>
-            <pubDate>Fri, 24 Jan 2025 08:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 추진하는 국가망보안체계(N²SF) 가이드라인 초안이 공개되면서 IT 업계의 기대감이 커지고 있다. 기존 클라우드보안인증(CSAP) 제도와의 중첩 우려와 함께 정보시스템 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새 수장 맞은 대기업 SI, 미래전략 축은 'AI+디지털 전환']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250120162037</link>
-            <guid>https://zdnet.co.kr/view/?no=20250120162037</guid>
-            <pubDate>Fri, 24 Jan 2025 07:11:42 GMT</pubDate>
-            <content:encoded><![CDATA['인사는 만사'라는 말이 있습니다. 적재적소에 전문성 있는 인재를 등용하는 것이 만사의 출발점이라는 의미입니다. 이 말은 기업들의 새해 전략에도 그대로 적용됩니다. 기업 수장들...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
