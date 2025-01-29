@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 09:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 10:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회사·임직원이 꼭 알아야할 새 HR제도 10개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250129182407</link>
+            <guid>https://zdnet.co.kr/view/?no=20250129182407</guid>
+            <pubDate>Wed, 29 Jan 2025 10:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[새해 최저임금이 시간당 1만30원으로 인상되면서 최저임금 1만원 시대가 됐다. 또 청년일자리도약장려금이 확대 개편돼 청년들의 장기 근속을 유도하고, 일자리 미스매치 문제를 해소...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/29/14bca30859b13361c67fbfd18759d737-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[귀경길 날씨, 여전히 추워...눈·살얼음 '주의']]></title>
             <link>https://zdnet.co.kr/view/?no=20250129155446</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250129155552</guid>
             <pubDate>Wed, 29 Jan 2025 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[설 당일인 29일 오후 귀경길 고속도로 정체가 절정에 달할 것으로 예상된다. 한국도로공사에 따르면 이날 전국 고속도로 교통량은 639만대로 예상된다. 수도권을 빠져나가는 차량은...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/29/dc878e32d5f214e2caac5f9b9908573f-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[챗GPT 유·무료 버전 비교했더니…월 2만원 차이가 만드는 성적 차이]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250123112612</guid>
             <pubDate>Wed, 29 Jan 2025 00:55:11 GMT</pubDate>
             <content:encoded><![CDATA[우리금융그룹이 고객 신뢰 극복을 위해 직원과 기업의 윤리 문화 수준을 진단 중이다. 우리금융은 지난 20일부터 약 2주에 걸쳐 전 그룹사 임직원을 대상으로 설문조사를 진행하고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 보안 취약점 노리는 공격, 연초부터 거세다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250126122409</link>
-            <guid>https://zdnet.co.kr/view/?no=20250126122409</guid>
-            <pubDate>Wed, 29 Jan 2025 00:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 플랫폼이 강력한 CPU와 GPU, NPU를 결합한 시스템반도체(SoC)와 운영체제, 소프트웨어를 결합한 소프트웨어정의자동차(SDV)로 진화하며 이를 노리는 공격도 늘어나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
