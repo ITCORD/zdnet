@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 00:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자동차 보안 취약점 노리는 공격, 연초부터 거세다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250126122409</link>
+            <guid>https://zdnet.co.kr/view/?no=20250126122409</guid>
+            <pubDate>Wed, 29 Jan 2025 00:55:53 GMT</pubDate>
+            <content:encoded><![CDATA[자동차 플랫폼이 강력한 CPU와 GPU, NPU를 결합한 시스템반도체(SoC)와 운영체제, 소프트웨어를 결합한 소프트웨어정의자동차(SDV)로 진화하며 이를 노리는 공격도 늘어나...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중국차에 테슬라·BMW까지 "EU 전기차 고관세 부당"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250127155057</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250122144020</guid>
             <pubDate>Wed, 22 Jan 2025 07:12:26 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차가 국내 통근버스 시장에 수소전기버스 도입 확대를 추진한다. 현대차는 22일 현대차 환경기술연구소(경기 용인시 소재)에서 환경부, 원더모빌리티, 효성하이드로젠, 삼성물...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최고 트림에 한국 전용 사양까지…'PCX' 세계 5대 시장 챙긴 혼다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250122143557</link>
-            <guid>https://zdnet.co.kr/view/?no=20250122143557</guid>
-            <pubDate>Wed, 22 Jan 2025 06:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[혼다코리아가 글로벌 럭셔리 세그먼트 스쿠터 '2025년형 PCX'를 국내 공식 출시하면서 한국시장을 위한 옵션을 기본 탑재했다. 지난해 국내 혼다 이륜차 4대 중 1대를 판매할...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
