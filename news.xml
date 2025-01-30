@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jan 2025 10:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 11:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코레일, 설 귀경길 막바지 현장 점검]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250130200832</link>
+            <guid>https://zdnet.co.kr/view/?no=20250130200832</guid>
+            <pubDate>Thu, 30 Jan 2025 11:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[한국철도공사(코레일)가 설 연휴 마지막 날인 30일 용산역에서 설 특별수송 현장을 점검하고 귀경길도 빈틈없는 철도 안전을 지키겠다고 밝혔다. 한문희 코레일 사장은 30일 오전 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/01/30/62165807ba428731b7cf1b31259f0f6a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 AI 거물들, 한달 뒤 MWC로 모인다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250130172433</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250130122621</guid>
             <pubDate>Thu, 30 Jan 2025 07:11:30 GMT</pubDate>
             <content:encoded><![CDATA['인사는 만사'라는 말이 있습니다. 적재적소에 전문성 있는 인재를 등용하는 것이 만사의 출발점이라는 의미입니다. 이 말은 기업들의 새해 전략에도 그대로 적용됩니다. 기업 수장들...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/18/f71e89bcb34284d589ab0a04dafaaffa-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MS·AWS·메타, 딥시크 'R1' 쓴다…챗GPT 의존도↓]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250130094542</guid>
             <pubDate>Thu, 30 Jan 2025 02:10:14 GMT</pubDate>
             <content:encoded><![CDATA[알리바바가 오픈AI와 메타, 딥시크의 모델을 능가하는 새 인공지능(AI) 모델을 개발했다고 주장했다. 29일 알리바바는 세 번째 AI 모델 '큐원(Qwen) 2.5-맥스' 출시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['명절 급찐살', 칼로리 줄이는 각국 명절 식단은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250129182914</link>
-            <guid>https://zdnet.co.kr/view/?no=20250129182914</guid>
-            <pubDate>Thu, 30 Jan 2025 02:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[명절은 전 세계 공통으로 풍성한 음식과 함께하는 즐거운 시간이다. 하지만 이와 동시에 체중 증가라는 부담을 떠안기 쉬운 시기이기도 하다. 이는 한국뿐 아니라 세계인의 공통적인 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
