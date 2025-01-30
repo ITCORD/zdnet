@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jan 2025 11:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 12:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음AI "딥시크 기반 온프레미스 LLM 출시할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250130205420</link>
+            <guid>https://zdnet.co.kr/view/?no=20250130205420</guid>
+            <pubDate>Thu, 30 Jan 2025 12:22:26 GMT</pubDate>
+            <content:encoded><![CDATA["마음AI는 이번에 공개된 '딥시크(Deep Seek)'를 기반으로 한 최상위 모델 크기 온프레미스 LLM을 출시하려 준비하고 있습니다. 이른 시일에 고객사에 영업을 시작할 예...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS·AWS·메타, 딥시크 'R1' 쓴다…챗GPT 의존도↓]]></title>
             <link>https://zdnet.co.kr/view/?no=20250130123721</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250128133544</guid>
             <pubDate>Tue, 28 Jan 2025 07:12:29 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)이 2년 분량의 교육을 단 6주 만에 압축한 혁신 사례가 전 세계의 이목을 끌고 있다. 28일 싸이콜로지 투데이 등 외신에 따르면 나이지리아 에도 주에서 실행된 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 놀래킨 中 딥시크 'R1'...샘 알트먼 "가성비 인상적 신선해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250128135857</link>
-            <guid>https://zdnet.co.kr/view/?no=20250128135857</guid>
-            <pubDate>Tue, 28 Jan 2025 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[샘 알트먼 오픈AI 대표가 전세계 AI 시장을 강타한 중국 스타트업 딥시크의 거대언어모델(LLM) 'R1' 모델을 긍정적으로 평가하며 더 나은 모델을 선보일 것이라고 자신감을 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
