@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 05:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 06:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SPRI "불확실성 커진 트럼프 2.0시대, 인사이트 발굴 주력"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250131122752</link>
+            <guid>https://zdnet.co.kr/view/?no=20250131122752</guid>
+            <pubDate>Fri, 31 Jan 2025 06:16:49 GMT</pubDate>
+            <content:encoded><![CDATA["트럼프 2.0 시대 불확실성이 더욱 커질 전망이다. 국내 소프트웨어(SW) 기업들이 새로운 시대의 도전 속에서도 또다른 기회를 찾을 수 있도록 데이터와 정책적 지원을 아끼지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[교황청, 'AI와 인류의 공존' 선언…이유는?]]></title>
             <link>https://zdnet.co.kr/view/?no=20250131105352</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250126122409</guid>
             <pubDate>Wed, 29 Jan 2025 00:55:25 GMT</pubDate>
             <content:encoded><![CDATA[자동차 플랫폼이 강력한 CPU와 GPU, NPU를 결합한 시스템반도체(SoC)와 운영체제, 소프트웨어를 결합한 소프트웨어정의자동차(SDV)로 진화하며 이를 노리는 공격도 늘어나...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["4세 아이도 30분만에 AI 동화책 창작"…AI가 놀라운 진짜 이유]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250129082738</link>
-            <guid>https://zdnet.co.kr/view/?no=20250129082738</guid>
-            <pubDate>Wed, 29 Jan 2025 00:55:25 GMT</pubDate>
-            <content:encoded><![CDATA["30분 녹음으로 동화책 완성"...AI가 바꾼 4살 아이의 창작 경험 필란드의 알토 대학교의 타피오 피트카란타(Tapio Pitkaranta) 교수가 발표한 논문에 따르면, ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
