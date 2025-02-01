@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 08:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 09:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI 'o3-미니' 뭐가 좋길래…초보자도 이해하기 쉽게 설명합니다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250201173730</link>
+            <guid>https://zdnet.co.kr/view/?no=20250201173730</guid>
+            <pubDate>Sat, 01 Feb 2025 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[OpenAI가 최근 새로운 AI 모델 'O3-미니'를 공개했습니다. 저비용 고성능으로 AI 시장을 강타한 딥시크의 등장으로 주목받고 있는 이 모델은, 기존 O1 대비 더 빠른 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알파세대 70% "AI 신뢰"…부모 75%는 "부정적 영향 우려"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250201172847</link>
+            <guid>https://zdnet.co.kr/view/?no=20250201172847</guid>
+            <pubDate>Sat, 01 Feb 2025 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[알파세대(Generation Alpha)가 인공지능(AI)을 자연스럽게 받아들이고 있다는 조사 결과가 발표됐다. WE Communications의 조사에 따르면 알파세대의 70...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI가 혈당 관리도 할 수 있을까… 챗GPT로 실험했더니]]></title>
             <link>https://zdnet.co.kr/view/?no=20250201095115</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250129160623</guid>
             <pubDate>Wed, 29 Jan 2025 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[범용 AI의 무료·유료 성능차: 시험성적 최대 2배 차이 미국의 서던 메소디스트 대학교(Southern Methodist University) 통계·데이터과학부의 연구에 따르면...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["교수님 보다 AI한테 먼저 물어봐요"...대학에 부는 생성형 AI 바람]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250129154457</link>
-            <guid>https://zdnet.co.kr/view/?no=20250129154457</guid>
-            <pubDate>Wed, 29 Jan 2025 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[영국 에든버러대학교와 UCL(University College London) 연구팀이 해당 연구는 두 대학의 학부생 26명과 교육자 11명을 대상으로 심층 인터뷰를 진행했다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 AI 스타트업 딥시크, 오픈AI 뺨치네…어떻게 성공했나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250129153806</link>
-            <guid>https://zdnet.co.kr/view/?no=20250129153806</guid>
-            <pubDate>Wed, 29 Jan 2025 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 인공지능 스타트업 딥시크(DeepSeek)가 기존 실리콘밸리 기업들보다 훨씬 적은 비용으로 고성능 AI 모델을 개발하는데 성공하며 미국 주식 시장에까지 영향을 미치고 있...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
