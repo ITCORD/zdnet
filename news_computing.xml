@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 23:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 01:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 혈당 관리도 할 수 있을까… 챗GPT로 실험했더니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250201095115</link>
+            <guid>https://zdnet.co.kr/view/?no=20250201095115</guid>
+            <pubDate>Sat, 01 Feb 2025 00:58:41 GMT</pubDate>
+            <content:encoded><![CDATA[연구 참여 환자 78.5%, 의사보다 챗GPT-4 답변 선호 호주 CSIRO's Data61과 모나쉬 대학교의 공동 연구에 따르면, 챗GPT-4는 의학 라이선스 시험(USMLE...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SPRI "불확실성 커진 트럼프 2.0시대, 인사이트 발굴 주력"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250131122752</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250129153806</guid>
             <pubDate>Wed, 29 Jan 2025 07:12:02 GMT</pubDate>
             <content:encoded><![CDATA[중국의 인공지능 스타트업 딥시크(DeepSeek)가 기존 실리콘밸리 기업들보다 훨씬 적은 비용으로 고성능 AI 모델을 개발하는데 성공하며 미국 주식 시장에까지 영향을 미치고 있...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 보안 취약점 노리는 공격, 연초부터 거세다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250126122409</link>
-            <guid>https://zdnet.co.kr/view/?no=20250126122409</guid>
-            <pubDate>Wed, 29 Jan 2025 00:55:25 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 플랫폼이 강력한 CPU와 GPU, NPU를 결합한 시스템반도체(SoC)와 운영체제, 소프트웨어를 결합한 소프트웨어정의자동차(SDV)로 진화하며 이를 노리는 공격도 늘어나...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
