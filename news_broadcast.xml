@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 06:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 07:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자율주행차 꿈꾸게 한 SW, 이제는 선박으로 향한다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203155426</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203155426</guid>
+            <pubDate>Mon, 03 Feb 2025 07:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[소프트웨어중심차(SDV) 등장을 불러온 기술 발전 흐름이 선박으로 이어진다는 전망이 나와 이목을 끈다. 내달 스페인 바르셀로나에서 열리는 MWC25에 마련된 '스마트 모빌리티 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LLM 학습용 데이터 유해표현 검출 AI모델 개발됐다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250203111745</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250129082305</guid>
             <pubDate>Wed, 29 Jan 2025 00:55:18 GMT</pubDate>
             <content:encoded><![CDATA[도널드 트럼프 대통령 취임 후 미국의 통신 정책 방향이 빠르게 변화하는 모습이다. 미국 연방통신위원회(FCC)가 기존의 정책을 뒤엎는 결정을 연이어 내놓고 있다. 28일(현지시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["설 연휴 해외여행, 로밍으로 데이터 걱정 끝"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124103536</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124103536</guid>
-            <pubDate>Mon, 27 Jan 2025 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[긴 설 연휴를 맞아 해외여행 수요가 증가할 것으로 전망되는 가운데 통신 3사들이 해외 여행자들을 위한 다양한 로밍 요금제와 프로모션을 준비했다. 엔데믹 이후 해외여행이 활성화되...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
