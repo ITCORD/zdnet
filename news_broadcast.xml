@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 02:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 03:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LLM 학습용 데이터 유해표현 검출 AI모델 개발됐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203111745</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203111745</guid>
+            <pubDate>Mon, 03 Feb 2025 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보통신기술협회(TTA)는 LLM 학습용 데이터에 대해 유해 표현을 검출할 수 있는 AI 모델을 구축했다고 3일 밝혔다. 한국지능정보사회진흥원 초거대AI 학습용 데이터 품질...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['쯔양' 알뜰폰 요금제 나온다..."어르신 통신비 기부 지원"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250203100511</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250124103536</guid>
             <pubDate>Mon, 27 Jan 2025 08:17:10 GMT</pubDate>
             <content:encoded><![CDATA[긴 설 연휴를 맞아 해외여행 수요가 증가할 것으로 전망되는 가운데 통신 3사들이 해외 여행자들을 위한 다양한 로밍 요금제와 프로모션을 준비했다. 엔데믹 이후 해외여행이 활성화되...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["황금 설 연휴 시작"...정주행 할 OTT 콘텐츠는]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250124161022</link>
-            <guid>https://zdnet.co.kr/view/?no=20250124161022</guid>
-            <pubDate>Sat, 25 Jan 2025 00:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[최대 9일까지 쉴 수 있는 황금 설 연휴를 맞아 OTT 플랫폼들이 기대작으로 무장했다. 숨막히는 의학 드라마부터 정의로운 탐사보도극, 청춘들의 뜨거운 성장기, 글로벌 명품 스릴...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
