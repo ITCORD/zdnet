@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 05:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 06:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["딥시크 개발비 82억은 과장…총 비용은 50배 이상"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203150355</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203150355</guid>
+            <pubDate>Mon, 03 Feb 2025 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[세미애널리시스(SemiAnalysis)가 지난달 31일 보도한 내용에 따르면, 딥시크의 V3 모델 학습 비용이 600만 달러(약 78억원)로 알려졌으나, 이는 단순 사전학습 비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토종 클라우드 어쩌나…CSAP 인증 취득한 구글, MS 이어 韓 공공 시장 본격 진출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203142715</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203142715</guid>
+            <pubDate>Mon, 03 Feb 2025 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[구글 클라우드가 마이크로소프트(MS)에 이어 한국인터넷진흥원(KISA)의 클라우드 서비스 보안인증제(CSAP)에서 '하' 등급을 획득해 국내 공공기관을 대상으로 클라우드 서비스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI가 학생 글쓰기 첨삭했더니...6명 중 5명 실력 향상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250203141346</link>
+            <guid>https://zdnet.co.kr/view/?no=20250203141346</guid>
+            <pubDate>Mon, 03 Feb 2025 06:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[GPT로 3500만 토큰 학습했더니 사람보다 나은 피드백 제공 일리노이 어바나-샴페인 대학교 연구진이 발표한 사례 연구에 따르면, CGScholar AI Helper를 활용한 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베가스, 개인정보 보호 강화한 '재현자료' 생성기법  개발]]></title>
             <link>https://zdnet.co.kr/view/?no=20250203135902</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250202042529</guid>
             <pubDate>Sun, 02 Feb 2025 00:58:40 GMT</pubDate>
             <content:encoded><![CDATA[KT클라우드가 클라우드 네이티브 기술력을 강화하기 위해 미국의 대표적인 클라우드 전문 기업과 협력한다. KT클라우드는 컨테이너 및 마이크로서비스 아키텍처 등 클라우드 네이티브 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["클라우드 데이터베이스 혁신 인정"…오라클, 2024 가트너 리더 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250202043202</link>
-            <guid>https://zdnet.co.kr/view/?no=20250202043202</guid>
-            <pubDate>Sun, 02 Feb 2025 00:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[오라클이 '2024 가트너 매직 쿼드런트 클라우드 데이터베이스 관리 시스템(DBMS) 부문' 리더로 선정됐다. 2일 가트너에 따르면 오라클은 지난 31일 클라우드 기반 데이터베...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["더 빠르고 저렴하게"…오픈AI, 'o3-미니' 전격 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250202034725</link>
-            <guid>https://zdnet.co.kr/view/?no=20250202034725</guid>
-            <pubDate>Sun, 02 Feb 2025 00:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[딥시크발 인공지능(AI) 쇼크가 확산되는 가운데 오픈AI가 새로운 추론 모델 'o3-미니'를 공개해 AI 경쟁에 불을 지폈다. 2일 테크크런치에 따르면 오픈AI는 지난 31일 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI 'o3-미니' 뭐가 좋길래…초보자도 이해하기 쉽게 설명합니다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250201173730</link>
-            <guid>https://zdnet.co.kr/view/?no=20250201173730</guid>
-            <pubDate>Sat, 01 Feb 2025 09:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[OpenAI가 최근 새로운 AI 모델 'O3-미니'를 공개했습니다. 저비용 고성능으로 AI 시장을 강타한 딥시크의 등장으로 주목받고 있는 이 모델은, 기존 O1 대비 더 빠른 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
