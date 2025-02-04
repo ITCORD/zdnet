@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 13:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 14:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체크멀, 연구소장 교체···안랩 출신 임찬순 영입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250204230127</link>
+            <guid>https://zdnet.co.kr/view/?no=20250204230127</guid>
+            <pubDate>Tue, 04 Feb 2025 14:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문기업 체크멀(CheckMAL,대표 김정훈)은 주요 제품 개발 및 운영 총괄을 담당할 연구소장으로 임찬순 상무를 영입했다고 4일 밝혔다. 임 연구소장은 정보보안 분야에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 없으면 학습 못해?…대학생 10명 중 8명 "AI로 공부"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250204190457</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250204141750</guid>
             <pubDate>Tue, 04 Feb 2025 06:17:56 GMT</pubDate>
             <content:encoded><![CDATA[카이스트 연구진이 발표한 논문에 따르면, 연합학습(Federated Learning) 기반의 군사용 대규모 언어모델(LLM)이 새로운 보안 위험에 직면해 있다. (☞ 논문 바로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS 인정 받은 메가존클라우드, '젠AI360'으로 기업용 AI 시장 공략 가속]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250204140101</link>
-            <guid>https://zdnet.co.kr/view/?no=20250204140101</guid>
-            <pubDate>Tue, 04 Feb 2025 05:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드가 아마존웹서비스(AWS)를 기반으로 서비스를 이용하고 있는 기업 고객들이 생성형 AI를 보다 쉽고 효율적으로 도입할 수 있게 지원하고 있다는 점을 인정 받았다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
