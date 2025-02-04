@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 07:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아 '지포스 RTX 5090' 대란...전 세계 품귀 현상]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250204152613</link>
+            <guid>https://zdnet.co.kr/view/?no=20250204152613</guid>
+            <pubDate>Tue, 04 Feb 2025 08:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주말 출시된 엔비디아 플래그십 그래픽카드 '지포스 RTX 5090'이 전 세계적인 품귀현상을 겪고 있다. 국내에서는 환율 변동으로 인한 가격책정 문제로 판매가 지연되고 있...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["슈퍼볼 광고에 등장한 토르 안경?"...메타, '레이밴 AI' 대중화 시동]]></title>
             <link>https://zdnet.co.kr/view/?no=20250204154422</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250203090416</guid>
             <pubDate>Mon, 03 Feb 2025 02:12:53 GMT</pubDate>
             <content:encoded><![CDATA[애플이 최근 돌풍을 일으키고 있는 딥시크의 생성형 인공지능(AI) 모델을 중국 아이폰에 탑재할 가능성이 있다는 전망이 제기됐다. IT매체 폰아레나는 2일(현지시간) 중국 웨이보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[캐논코리아, 3월 말까지 정품등록 행사 진행]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250203095450</link>
-            <guid>https://zdnet.co.kr/view/?no=20250203095450</guid>
-            <pubDate>Mon, 03 Feb 2025 00:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[캐논코리아가 카메라 구매자 대상 정품등록 행사를 오는 3월 말까지 진행한다. EOS R1/R3/R5 Ⅱ/R5/R6 Ⅱ/R8/RP 등 풀프레임 미러리스 카메라 7종, EOS R7...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
