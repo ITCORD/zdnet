@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 00:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 02:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD 4분기 실적 예상치 상회... 데이터센터가 '효자']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205090702</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205090702</guid>
+            <pubDate>Wed, 05 Feb 2025 02:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[서버용 프로세서 '에픽'(EPYC), GPU 가속기 'MI300' 등 AI 반도체를 공급하는 AMD가 4일(현지시간) 지난 해 4분기 실적을 발표했다. 에픽 프로세서가 전체 매...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 에픽 프로세서 보안 취약점 업데이트]]></title>
             <link>https://zdnet.co.kr/view/?no=20250205092619</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250131114052</guid>
             <pubDate>Fri, 31 Jan 2025 04:15:33 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자는 31일 2024년 4분기 실적발표를 통해 올해 2나노미터(nm) 파운드리 공정 제품의 양산을 추진하겠다고 밝혔다. 2나노 공정은 반도체 올해 본격적인 상용화를 앞둔 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 4분기 영업익 9천억으로 뚝...스마트폰 수요 부진 영향]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250131114358</link>
-            <guid>https://zdnet.co.kr/view/?no=20250131114358</guid>
-            <pubDate>Fri, 31 Jan 2025 04:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[삼성디스플레이가 스마트폰 시장 수요 부진에 영향을 받아 지난해 4분기 영업이익이 전년보다 절반 가량 줄어들었다. 삼성디스플레이 31일 실적발표에 따르면 4분기 영업이익은 9천억...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
