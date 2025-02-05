@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 13:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 14:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["中에 정보 털릴까 겁난다"…정부도, 기업도 딥시크 접속 잇따라 '차단']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205222405</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205222405</guid>
+            <pubDate>Wed, 05 Feb 2025 14:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[중국 인공지능(AI) 스타트업 딥시크의 보안 문제가 제기되면서 국방, 외교, 통상 분야 정부 부처들이 딥시크 접속을 차단했다. 이와 함께 카카오도 사내에서 딥시크 활용을 전면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마음AI, 용인세브란스병원에 AI 키오스크 '마음터치' 설치]]></title>
             <link>https://zdnet.co.kr/view/?no=20250205221118</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250205123131</guid>
             <pubDate>Wed, 05 Feb 2025 04:15:56 GMT</pubDate>
             <content:encoded><![CDATA[이스트시큐리티(대표 정진일)는 지난 12월 개최한 기업의 LLM 필수 보안 전략 웨비나에서 국내 기업 보안 담당자 및 실무자 200여 명을 대상으로 설문조사를 진행하고 그 결과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥엘, API 제품 업그레이드…"번역 품질 1.7배↑"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250205111412</link>
-            <guid>https://zdnet.co.kr/view/?no=20250205111412</guid>
-            <pubDate>Wed, 05 Feb 2025 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[딥엘이 자사 API 솔루션을 업그레이드해 번역 품질 개선에 나섰다. 딥엘은 API 제품에 딥엘 '차세대 언어 모델(Next-gen)'과 '딥엘 API 포 라이트(DeepL AP...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
