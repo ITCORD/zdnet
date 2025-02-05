@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 04:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 05:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 사이버 범죄 주역은 AI... 의료정보 노리는 신종 공격 등장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205140333</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205140333</guid>
+            <pubDate>Wed, 05 Feb 2025 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 정보분석 기업 익스피리언(Experian)이 발표한 '2025년 사기 동향 전망 보고서(Future of Fraud Forecast 2025)'에 따르면, 생성형 AI ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LLM 보안 전문 솔루션 필요할까?···87%가 "예스"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250205123131</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250204172921</guid>
             <pubDate>Tue, 04 Feb 2025 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아 등 미국 빅테크들이 글로벌 시장에 충격을 준 중국 인공지능(AI) 스타트업 딥시크의 최신 추론 모델인 'R1'을 경쟁적으로 채택해 관심이 쏠린다. 중국 제품에 대한 안...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영림원 '플렉스튜디오', 한미글로벌 건설 현장 하자관리 솔루션 채택]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250204163322</link>
-            <guid>https://zdnet.co.kr/view/?no=20250204163322</guid>
-            <pubDate>Tue, 04 Feb 2025 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[영림원소프트랩(대표 권영범)이 한미글로벌과 로우코드 앱 개발 플랫폼 '플렉스튜디오' 공급 계약을 체결했다. 영림원소프트랩은 한미글로벌이 플렉스튜디오를 활용하여 건설 현장의 품질...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
