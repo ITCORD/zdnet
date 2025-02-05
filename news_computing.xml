@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 08:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 09:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 산업은 핵심 동력…올해 정부 지원 더 늘리겠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205170145</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205170145</guid>
+            <pubDate>Wed, 05 Feb 2025 09:14:02 GMT</pubDate>
+            <content:encoded><![CDATA["인공지능(AI) 기술이 모든 산업과 융합하고 있습니다. 소프트웨어(SW) 산업은 글로벌 디지털대전환 핵심 성장 동력이 될 것입니다. 정부는 국내 SW 기업이 기술 개발과 활용...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI로 복원한 비틀즈 노래 'Now and Then' 그래미상  수상]]></title>
             <link>https://zdnet.co.kr/view/?no=20250205170834</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250205111311</guid>
             <pubDate>Wed, 05 Feb 2025 03:16:37 GMT</pubDate>
             <content:encoded><![CDATA["상장이라는 새로운 모멘텀을 발판 삼아 고객가치를 혁신할 수 있는 새로운 기술과 서비스를 발굴, 확보하겠습니다. 또 고객이 필요로 하는 인공지능(AI) 기술을 가장 빠르고 적절...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["고급 AI 추론 목표"…스노우플레이크, 코텍스AI에 딥시크-R1 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250205110219</link>
-            <guid>https://zdnet.co.kr/view/?no=20250205110219</guid>
-            <pubDate>Wed, 05 Feb 2025 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[스노우플레이크가 인공지능(AI) 개발 플랫폼 '코텍스AI'에 '딥시크-R1'을 추가했다. 스노우플레이크는 자사 고객들에게 고급 AI 추론 기능을 제공하기 위해 오픈소스 AI 모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
