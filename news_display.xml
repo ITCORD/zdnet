@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 23:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 00:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 에픽 프로세서 보안 취약점 업데이트]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205092619</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205092619</guid>
+            <pubDate>Wed, 05 Feb 2025 00:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[AMD와 구글이 지난 3일(미국 현지시간) 서버용 프로세서 '에픽'(EPYC)의 보안 가상화 기술 'SEV' 관련 취약점(CVE-2024-56161)을 공개하고 마이크로코드 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전기, 자율주행 핵심장치 '라이다용 MLCC' 세계 최초 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205083230</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205083230</guid>
+            <pubDate>Wed, 05 Feb 2025 00:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전기가 자동차 자율주행을 위한 초소형 고전압 MLCC를 개발했다고 5일 밝혔다. 삼성전기가 자율주행의 핵심 장치인 라이다(LiDAR) 시스템에 탑재되는 MLCC를 개발했다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['전자빔 검사장비' 쎄크, 코스닥 상장예비심사 통과]]></title>
             <link>https://zdnet.co.kr/view/?no=20250204164738</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250131114358</guid>
             <pubDate>Fri, 31 Jan 2025 04:15:33 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 스마트폰 시장 수요 부진에 영향을 받아 지난해 4분기 영업이익이 전년보다 절반 가량 줄어들었다. 삼성디스플레이 31일 실적발표에 따르면 4분기 영업이익은 9천억...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 올해 HBM 공급량 전년 대비 '2배 성장' 목표]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250131104946</link>
-            <guid>https://zdnet.co.kr/view/?no=20250131104946</guid>
-            <pubDate>Fri, 31 Jan 2025 03:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자는 31일 2024년 4분기 실적발표를 통해 올해 HBM(고대역폭메모리) 공급량을 용량 기준으로 전년 대비 2배 수준으로 확대하겠다고 밝혔다. 삼성전자의 지난해 4분기 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 "올해 HBM·2나노 강화하겠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250131094035</link>
-            <guid>https://zdnet.co.kr/view/?no=20250131094035</guid>
-            <pubDate>Fri, 31 Jan 2025 02:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 31일 2024년 4분기 실적발표를 통해 올 1분기 반도체 사업의 약세가 지속될 것으로 내다봤다. 특히 시스템반도체 분야가 부진할 전망으로, 엑시노스 2500의 상용...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
