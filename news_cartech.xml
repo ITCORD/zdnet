@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 05:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 06:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["도로에 5시리즈 많이 보이더니"…BMW, 1월에만 5960대 팔았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250205140247</link>
+            <guid>https://zdnet.co.kr/view/?no=20250205140247</guid>
+            <pubDate>Wed, 05 Feb 2025 06:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[한국수입자동차협회(KAIDA)는 1월 수입 승용차 신규등록대수가 1만5천229대로 집계됐다고 5일 발표했다. 이는 지난해 같은 기간 대비 16.4% 증가한 수치이다. 구체적으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 전기차 업체 멀렌, 니콜라 배터리 사업 인수]]></title>
             <link>https://zdnet.co.kr/view/?no=20250205085825</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250131135329</guid>
             <pubDate>Fri, 31 Jan 2025 05:12:53 GMT</pubDate>
             <content:encoded><![CDATA[폴스타(Polestar)가 스웨덴의 퍼포먼스 헤리티지를 기반으로 개발한 폴스타 아틱 서클(Arctic Circle)을 기존 폴스타 2에 이어 폴스타 3와 폴스타 4까지 확대했다...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[벤츠 E클래스, 유럽 신차 안전평가서 '가장 안전한 차량' 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250131132100</link>
-            <guid>https://zdnet.co.kr/view/?no=20250131132100</guid>
-            <pubDate>Fri, 31 Jan 2025 05:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[메르세데스-벤츠 'E클래스' 11세대 모델이 유럽 신차 안전도 평가 프로그램 '유로 NCAP((EURO New Car Assessment Programme)'에서 '2024년 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
