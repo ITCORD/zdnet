@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 04:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 05:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리콘랩스, 초저전력 블루투스 연결 지원하는 'Lite' SoC 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250206140827</link>
+            <guid>https://zdnet.co.kr/view/?no=20250206140827</guid>
+            <pubDate>Thu, 06 Feb 2025 05:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[실리콘랩스가 블루투스 LE 연결을 위한 신제품 BG22L과 BG24L SoC를 출시했다. 이번에 출시된 'Lite' 시리즈는 비용 효율성을 높이면서도 강력한 성능을 제공하는 것...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄컴 "Arm, IP 라이선스 지속 공급 통보"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250206103555</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250204090320</guid>
             <pubDate>Tue, 04 Feb 2025 00:57:04 GMT</pubDate>
             <content:encoded><![CDATA[삼성디스플레이가 미국 반도체 기업인 퀄컴과 협력해 차량용 OLED 시장확대에 적극 나선다. 삼성디스플레이는 퀄컴의 '스냅드래곤 콕핏'을 구현한 콕핏 체험 데모 키트 'CEDP(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 올해 AI·데이터센터 전략 전면 수정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250203155216</link>
-            <guid>https://zdnet.co.kr/view/?no=20250203155216</guid>
-            <pubDate>Mon, 03 Feb 2025 08:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 올해 AI와 데이터센터 시장을 겨냥한 신제품 출시 일정을 대폭 수정했다. 2022년 초 첫 등장 이후 개발 노선 변경을 거쳐 올해 출시 예정이었던 GPU 기반 AI 가속...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
