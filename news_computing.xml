@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 20:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 21:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음AI, GINT와 농기계 자율주행 공급 계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250206234736</link>
+            <guid>https://zdnet.co.kr/view/?no=20250206234736</guid>
+            <pubDate>Thu, 06 Feb 2025 21:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[마음AI의 자율주행 기술 '워브(WoRV, World model for Robotics and Vehicle control)'가 과수용 농기계에 적용된다. 6일 마음AI는 GI...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[굿모닝아이텍-이지이노베이션스코리아, VDI 모니터링 솔루션 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20250206230936</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250206101218</guid>
             <pubDate>Thu, 06 Feb 2025 02:12:58 GMT</pubDate>
             <content:encoded><![CDATA[세일즈포스가 인공지능(AI) 시대에 발맞춰 데이터 인재 양성을 위한 교육 프로그램을 확대한다. 세일즈포스는 지능형 데이터 분석 플랫폼 태블로의 AI 시대 데이터 인재 양성을 위...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["화상회의 중 IT 지원까지"… 팀뷰어, 구글 미트에 원격 기능 적용]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250206102748</link>
-            <guid>https://zdnet.co.kr/view/?no=20250206102748</guid>
-            <pubDate>Thu, 06 Feb 2025 02:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[팀뷰어가 구글 미트 내에 원격 접속·기술 지원이 가능한 기능을 추가했다. 팀뷰어는 구글 미트에 '팀뷰어 리모트 컨트롤'을 적용했다고 6일 밝혔다. 구글 미트 사용자는 이 기능으...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 20:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 21:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음AI, GINT와 농기계 자율주행 공급 계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250206234736</link>
+            <guid>https://zdnet.co.kr/view/?no=20250206234736</guid>
+            <pubDate>Thu, 06 Feb 2025 21:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[마음AI의 자율주행 기술 '워브(WoRV, World model for Robotics and Vehicle control)'가 과수용 농기계에 적용된다. 6일 마음AI는 GI...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/06/d2c5c41394270d4633d411f5f625c79b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굿모닝아이텍-이지이노베이션스코리아, VDI 모니터링 솔루션 사업 협력]]></title>
             <link>https://zdnet.co.kr/view/?no=20250206230936</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250206225714</guid>
             <pubDate>Thu, 06 Feb 2025 14:12:24 GMT</pubDate>
             <content:encoded><![CDATA[실시간 응급차량 추적, AI와 디지털 트윈이 해결책 제시 응급 의료 서비스에서 정확한 차량 위치 추적은 생명을 구하는 핵심 요소다. 그러나 기존의 응급차량 추적 시스템은 물리적...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/06/ai52ba081dd36bdaefb701b4f64bb6cbb3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI, 인간처럼 전략적 사고할까…'미인 대회 게임' 실험했더니]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250206175028</guid>
             <pubDate>Thu, 06 Feb 2025 10:13:24 GMT</pubDate>
             <content:encoded><![CDATA[클라우드플레어가 디지털 이미지 진위 확인과 콘텐츠 출처 보호에 나섰다. 클라우드플레어는 콘텐츠 창작자 및 제공자가 이미지의 디지털 기록을 손쉽게 보존할 수 있도록 지원하는 원클...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 우려에 '딥시크' 잇단 차단…한국형 AI 모델 도약 기회되나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250206173659</link>
-            <guid>https://zdnet.co.kr/view/?no=20250206173659</guid>
-            <pubDate>Thu, 06 Feb 2025 10:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[중국산 인공지능(AI) 모델로서 보안 우려가 제기되면서 국내 정부 부처와 기업들이 잇달아 딥시크 접속을 차단하는 가운데 이 모델이 저비용·경량화 가능성을 입증해 국내 AI 업계...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
