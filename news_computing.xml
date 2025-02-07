@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 08:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 09:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남기자의 비욘드IT] 딥시크가 촉발한 '오픈워싱' 논란, 오픈소스의 미래는]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250207171815</link>
+            <guid>https://zdnet.co.kr/view/?no=20250207171815</guid>
+            <pubDate>Fri, 07 Feb 2025 09:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[중국 스타트업 딥시크(DeepSeek)가 'R1' 등 자체 개발한 인공지능(AI) 모델을 오픈소스로 공개하면서 논란이 일고 있다. AI모델의 코드와 가중치를 공개했지만, 학습 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] "美 스타게이트·中 딥시크 추격한다"…韓, 국가 AI 컴퓨팅 센터 2027년 개소]]></title>
             <link>https://zdnet.co.kr/view/?no=20250207163502</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250206225714</guid>
             <pubDate>Thu, 06 Feb 2025 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[실시간 응급차량 추적, AI와 디지털 트윈이 해결책 제시 응급 의료 서비스에서 정확한 차량 위치 추적은 생명을 구하는 핵심 요소다. 그러나 기존의 응급차량 추적 시스템은 물리적...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI, 인간처럼 전략적 사고할까…'미인 대회 게임' 실험했더니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250206225335</link>
-            <guid>https://zdnet.co.kr/view/?no=20250206225335</guid>
-            <pubDate>Thu, 06 Feb 2025 14:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 국립연구대학 경제고등학교(HSE University)와 모스크바 신경제학교(New Economic School)의 연구진이 진행한 연구에 따르면, 대형언어모델(LLM)이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
