@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 11:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 12:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보위, 딥시크 조사 한달 이상 걸릴듯···"기술 조사 등 실시중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250207204559</link>
+            <guid>https://zdnet.co.kr/view/?no=20250207204559</guid>
+            <pubDate>Fri, 07 Feb 2025 12:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[세계를 강타한 중국 AI스타트업 딥시크(Deepseek)의 AI모델이 보안 문제로 논란이 되고 있는 가운데 7일 개인정보보호위원회(개인정보위, 위원장 고학수)는 "해당 서비스와...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[남기자의 비욘드IT] 딥시크가 촉발한 '오픈워싱' 논란, 오픈소스의 미래는]]></title>
             <link>https://zdnet.co.kr/view/?no=20250207171815</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250206230936</guid>
             <pubDate>Thu, 06 Feb 2025 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[굿모닝아이텍(대표 이주찬)은 이지이노베이션스코리아(eG Innovations Korea)와 VDI 모니터링 공동사업 확대를 위해 전략적 업무협약(MOU)을 체결했다고 6일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 응급차량 이동 예측…골든타임 93% 더 정확해졌다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250206225714</link>
-            <guid>https://zdnet.co.kr/view/?no=20250206225714</guid>
-            <pubDate>Thu, 06 Feb 2025 14:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[실시간 응급차량 추적, AI와 디지털 트윈이 해결책 제시 응급 의료 서비스에서 정확한 차량 위치 추적은 생명을 구하는 핵심 요소다. 그러나 기존의 응급차량 추적 시스템은 물리적...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
