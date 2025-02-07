@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 05:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 06:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타보고서] 왜 이제야 왔니?...작지만 강한 볼보 EX30]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250207003517</link>
+            <guid>https://zdnet.co.kr/view/?no=20250207003517</guid>
+            <pubDate>Fri, 07 Feb 2025 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA["작지만, 더 강하다." 지난 2023년 볼보자동차는 최초의 전용 전기차 EX30을 공개하면서 이같이 설명했다. EX30은 소형 스포츠유틸리티차(SUV)의 크기지만, 내부에 담...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["국내 첫 혼류 생산 전환"…르노코리아, 내연차·전기차 함께 생산]]></title>
             <link>https://zdnet.co.kr/view/?no=20250207135248</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250204092224</guid>
             <pubDate>Tue, 04 Feb 2025 00:57:10 GMT</pubDate>
             <content:encoded><![CDATA[금호타이어가 기후 변화에 적극 대응하기 위해 트리플래닛과 함께 서울 홍제초등학교(서울특별시 서대문구 소재)에 교실숲을 조성했다고 4일 밝혔다. 금호타이어는 지난해 11월부터 서...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 생산 쉐보레 트랙스…2년 연속 자동차 수출 1위]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250204091446</link>
-            <guid>https://zdnet.co.kr/view/?no=20250204091446</guid>
-            <pubDate>Tue, 04 Feb 2025 00:57:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국GM은 쉐보레 트랙스 크로스오버와 트레일블레이저가 지난해 국내 승용차 수출 1위와 4위에 각각 올랐다고 4일 밝혔다. 트랙스는 출시 이후 2년 연속 수출 1위를 기록했다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
