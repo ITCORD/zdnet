@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Feb 2025 13:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 14:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보안 초짜기자 해킹 체험기] 누구나 해킹?···"아무나 못해"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250207160033</link>
+            <guid>https://zdnet.co.kr/view/?no=20250207160033</guid>
+            <pubDate>Sat, 08 Feb 2025 14:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[“유튜브 보고 따라하면 일반인도 범죄용 인공지능(AI)으로 얼마든지 해킹할 수 있다. 미국 정보보호 기업 팔로알토네트웍스의 박상규 한국지사장은 얼마전 한 언론 매체와의 인터뷰에...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI, 스포츠도 혁신…팬 경험부터 경기장 관리까지 확 바꾼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250208185328</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250207103535</guid>
             <pubDate>Fri, 07 Feb 2025 02:14:07 GMT</pubDate>
             <content:encoded><![CDATA[미스트랄이 자사 인공지능(AI) 어시스턴트 '르챗'을 개편해 서비스 경쟁력 강화에 나섰다. 7일 테크크런치 등 외신에 따르면 미스트랄은 르챗의 웹 인터페이스를 업그레이드하고 i...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[달러 강세에 발목 잡힌 아마존, 클라우드 성장세도 '주춤'…시간외 주가 5.2% 하락]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207081904</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207081904</guid>
-            <pubDate>Fri, 07 Feb 2025 02:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[아마존이 지난해 호실적을 달성했음에도 불구하고 올해 1분기 실적에 대해 시장 기대치에 못 미치는 전망을 내놓으면서 주가가 하락세로 마감했다. 달러 강세로 인한 역풍 때문을 맞을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
