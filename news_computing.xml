@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Feb 2025 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 10:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생성형 AI, 스포츠도 혁신…팬 경험부터 경기장 관리까지 확 바꾼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250208185328</link>
+            <guid>https://zdnet.co.kr/view/?no=20250208185328</guid>
+            <pubDate>Sat, 08 Feb 2025 10:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[인스턴트 리플레이에서 선수 건강 모니터링까지, 기술 혁신이 이끄는 스포츠 산업 딜로이트 스포츠 비즈니스 그룹이 발간한 '스포츠 산업에서의 생성형AI 미래 전망' 보고서에 따르면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI가 CEO 일상도 확 바꾼다…2030년엔 어떻게?]]></title>
             <link>https://zdnet.co.kr/view/?no=20250208125059</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250207081904</guid>
             <pubDate>Fri, 07 Feb 2025 02:14:07 GMT</pubDate>
             <content:encoded><![CDATA[아마존이 지난해 호실적을 달성했음에도 불구하고 올해 1분기 실적에 대해 시장 기대치에 못 미치는 전망을 내놓으면서 주가가 하락세로 마감했다. 달러 강세로 인한 역풍 때문을 맞을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["러스트는 암적인 요소"… 리눅스 커널 개발자간 논란 심화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207101134</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207101134</guid>
-            <pubDate>Fri, 07 Feb 2025 02:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스 커널 개발자 사이에서 C와 러스트를 함께 사용하는 것에 대한 논쟁이 계속되고 있다. 리눅스 커널의 러스트 도입은 보안과 안정성을 높이려는 취지에서 시작됐다. 그러나 다중...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
