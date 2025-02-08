@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Feb 2025 03:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 04:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 CEO 일상도 확 바꾼다…2030년엔 어떻게?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250208125059</link>
+            <guid>https://zdnet.co.kr/view/?no=20250208125059</guid>
+            <pubDate>Sat, 08 Feb 2025 04:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[생체리듬에 맞춘 AI 비서의 모닝콜...5:45에서 5:37로 최적화된 기상 시간 딜로이트 글로벌 CEO 프로그램과 딜로이트 AI 연구소(Deloitte AI Institute...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 챗봇 평가 플랫폼 치명적 결함…투표 순위조작 허점]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250208124807</link>
+            <guid>https://zdnet.co.kr/view/?no=20250208124807</guid>
+            <pubDate>Sat, 08 Feb 2025 04:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[170만 건의 투표 데이터로 입증된 챗봇 아레나의 취약점 홍콩과학기술대학교와 Sea AI Lab 연구진이 공개한 연구에 따르면, AI 챗봇 평가 플랫폼인 챗봇 아레나(Chatb...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Q&AI] 챗GPT, 네 경쟁자는 누구야?…"딥시크는 멀었어"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250208102243</link>
@@ -40,7 +56,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[현장] "美 스타게이트·中 딥시크 추격한다"…韓, 국가 AI 컴퓨팅 센터 2027년 개소]]></title>
+            <title><![CDATA["美 스타게이트·中 딥시크 추격"…韓, 국가 AI 컴퓨팅 센터 2027년 개소]]></title>
             <link>https://zdnet.co.kr/view/?no=20250207163502</link>
             <guid>https://zdnet.co.kr/view/?no=20250207163502</guid>
             <pubDate>Fri, 07 Feb 2025 08:16:31 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250207101134</guid>
             <pubDate>Fri, 07 Feb 2025 02:14:07 GMT</pubDate>
             <content:encoded><![CDATA[리눅스 커널 개발자 사이에서 C와 러스트를 함께 사용하는 것에 대한 논쟁이 계속되고 있다. 리눅스 커널의 러스트 도입은 보안과 안정성을 높이려는 취지에서 시작됐다. 그러나 다중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["과기부 장관도 찾았다"…광주 AI 데이터센터 앞세운 NHN, AI 강국 도약 '마중물' 천명]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207094407</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207094407</guid>
-            <pubDate>Fri, 07 Feb 2025 00:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[NHN클라우드가 유상임 과학기술정보통신부 장관의 광주 AI 데이터센터 방문을 기점으로 지속적인 기술 혁신과 인프라 확장을 통해 AI 강국 도약을 위한 '마중물' 역할을 수행할 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알체라, 유상증자 93.18% 청약 성공]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207085508</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207085508</guid>
-            <pubDate>Fri, 07 Feb 2025 00:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[비전AI 전문기업 알체라(대표 황영규)의 자금 운용에 또 다시 청신호가 들어왔다. 2회차 전환사채 전액 상환에 이어 기존 주주(신주인수권증서 보유자)를 대상으로 진행한 유상증자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
