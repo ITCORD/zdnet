@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 10:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 패권 경쟁 속 韓 스타트업 주목"…뤼튼, 日 NHK가 조명한 이유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250209174438</link>
+            <guid>https://zdnet.co.kr/view/?no=20250209174438</guid>
+            <pubDate>Sun, 09 Feb 2025 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 인공지능(AI) 패권 경쟁 속에서 국내 생성형 AI 스타트업 뤼튼테크놀로지스가 해외 주요 매체들의 주목을 받고 있다. 특히 일본의 국영 방송사 NHK와 생방송 인터뷰를 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/09/168ed6b9ff10fb9015a3e8e64d32def6-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["CISO, CEO에 직접 보고 비중 82%로 높아져"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250209170346</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250209160418</guid>
             <pubDate>Sun, 09 Feb 2025 07:11:45 GMT</pubDate>
             <content:encoded><![CDATA[인도가 37GHz 대역의 밀리미터파 주파수를 5G에 활용한다는 방침을 공식화했다. 현지 통신규제 기관인 TRAI는 37~37.5GHz, 37.5~40GHz 대역의 경매를 위한 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/10/2045fd90e35b517d6ce5d90ad88db0d4-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성전자 반도체 매출, TSMC에 더 밀렸다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250209125743</guid>
             <pubDate>Sun, 09 Feb 2025 04:14:53 GMT</pubDate>
             <content:encoded><![CDATA[IT 보안·인증 플랫폼 기업 라온시큐어(대표 이순형, 이정아, 042510)는 지난해 연결기준 잠정 매출액이 전년(518억 4100만원) 대비 20% 성장한 624억9200만원...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '비스포크 AI 무풍콤보 갤러리' 에어컨 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250209123718</link>
-            <guid>https://zdnet.co.kr/view/?no=20250209123718</guid>
-            <pubDate>Sun, 09 Feb 2025 04:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 섬세한 습도 케어로 최적의 쾌적함을 선사하는 2025년형 에어컨 신제품 '비스포크 AI 무풍콤보 갤러리'를 출시했다고 9일 밝혔다. 신제품은 삼성전자의 '무풍' 기능...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
