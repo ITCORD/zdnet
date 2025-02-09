@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 07:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 08:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["CISO, CEO에 직접 보고 비중 82%로 높아져"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250209170346</link>
+            <guid>https://zdnet.co.kr/view/?no=20250209170346</guid>
+            <pubDate>Sun, 09 Feb 2025 08:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[시스코 자회사로 사이버 보안 및 옵저버빌리티 전문기업인 미국 스플렁크(Splunk)가 영국 경제 연구기관 옥스퍼드 이코노믹스(Oxford Economics)와 함께 글로벌 연구...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/09/102a1e11a8099752406dd8dc89aff1dc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인도, 37GHz 대역 5G 주파수로 공급 가닥]]></title>
             <link>https://zdnet.co.kr/view/?no=20250209160418</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250209151634</guid>
             <pubDate>Sun, 09 Feb 2025 07:11:45 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자 반도체 사업부가 세계 1위 파운드리(반도체 위탁생산) 업체 대만 TSMC에 2개 분기 연속 매출에서 뒤처졌다. 9일 업계에 따르면 삼성전자 디바이스솔루션(DS) 부문은...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/09/05/e7819c35498f0e31da1a80192ddf8f6f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["저소득 장애인, 암보험 무료로 지원합니다"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250209123718</guid>
             <pubDate>Sun, 09 Feb 2025 04:14:53 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자가 섬세한 습도 케어로 최적의 쾌적함을 선사하는 2025년형 에어컨 신제품 '비스포크 AI 무풍콤보 갤러리'를 출시했다고 9일 밝혔다. 신제품은 삼성전자의 '무풍' 기능...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크 "틱톡 인수 관심 無…사용도 안 해"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250209111832</link>
-            <guid>https://zdnet.co.kr/view/?no=20250209111832</guid>
-            <pubDate>Sun, 09 Feb 2025 03:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 틱톡 인수에 관심이 없다는 입장을 분명히 했다. 8일(현지시간) 테크크런치는 지난달 28일 열린 벨트 경제 서밋(WELT Economi...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
