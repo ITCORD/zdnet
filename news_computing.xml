@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 04:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 05:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨큐비스타, DB아이앤씨와 총판 계약]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250209135846</link>
+            <guid>https://zdnet.co.kr/view/?no=20250209135846</guid>
+            <pubDate>Sun, 09 Feb 2025 05:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 위협헌팅 보안기업 씨큐비스타(대표 전덕조)는 지난 6일 서울시 판교 소재 씨큐비스타 본사에서 DB그룹의 IT 서비스 전문기업 DB아이앤씨(DB Inc, 대표 강운식)와 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타빌드, 연우테크놀로지와 스마트시티 사업 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250209133014</link>
+            <guid>https://zdnet.co.kr/view/?no=20250209133014</guid>
+            <pubDate>Sun, 09 Feb 2025 05:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[미들웨어 전문기업 메타빌드(METABUILD, 대표 조풍연)는 서초동 본사에서 연우테크놀러지(대표 김지현)와 'GIS 3D Map 플랫폼' 스마트시티 사업 협력을 위한 업무협약...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라온시큐어, 매출 600억대 돌파···1년만에 흑자 전환]]></title>
             <link>https://zdnet.co.kr/view/?no=20250209125743</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250207171815</guid>
             <pubDate>Fri, 07 Feb 2025 09:13:15 GMT</pubDate>
             <content:encoded><![CDATA[중국 스타트업 딥시크(DeepSeek)가 'R1' 등 자체 개발한 인공지능(AI) 모델을 오픈소스로 공개하면서 논란이 일고 있다. AI모델의 코드와 가중치를 공개했지만, 학습 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["美 스타게이트·中 딥시크 추격"…韓, 국가 AI 컴퓨팅 센터 2027년 개소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207163502</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207163502</guid>
-            <pubDate>Fri, 07 Feb 2025 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 국가 AI 경쟁력을 강화하기 위해 고성능 인공지능(AI) 컴퓨팅 인프라 구축 사업을 본격 추진한다. 이를 위해 민관 합작 특수목적법인(SPC)을 설립하고 AI 연구·개발...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노드VPN, 접근성·보안 강화한 '노드위스퍼' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207152421</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207152421</guid>
-            <pubDate>Fri, 07 Feb 2025 08:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[노드VPN이 브라우징 접근성과 보안을 강화하는 솔루션을 공개했다. 노드VPN은 새로운 VPN 프로토콜 '노드위스퍼(NordWhisper)'를 출시했다고 7일 밝혔다. 사용자는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
