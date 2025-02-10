@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 05:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["로봇아, 커피 한잔 만들어줘"…이게 가능하다고?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250210143646</link>
+            <guid>https://zdnet.co.kr/view/?no=20250210143646</guid>
+            <pubDate>Mon, 10 Feb 2025 06:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[허깅페이스(Hugging Face)가 로봇을 자연어로 제어할 수 있는 비전-언어-액션 플로우 모델 'Pi0(파이제로)'를 오픈소스로 공개했다. 이는 로봇 제어 전문 기업 르로봇...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[딥시크 R1, AI 모델 중 '탈옥' 위험 가장 높다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250210143500</link>
+            <guid>https://zdnet.co.kr/view/?no=20250210143500</guid>
+            <pubDate>Mon, 10 Feb 2025 06:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[월스트리트저널(Wall Street Journal)이 9일(현지 시간) 보도한 내용에 따르면, 실리콘밸리와 월가를 뒤흔든 중국의 AI 기업 딥시크의 최신 모델이 생체무기 공격 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI 도입, HR 부서가 특히 소극적…왜 그럴까]]></title>
             <link>https://zdnet.co.kr/view/?no=20250210134054</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250209105015</guid>
             <pubDate>Sun, 09 Feb 2025 02:18:47 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)과 첨단 기술의 미래를 둘러싼 글로벌 경쟁이 치열해지는 가운데 프랑스와 사우디아라비아에서 연이어 대규모 기술 행사가 열린다. 프랑스는 파리 AI 정상회의(AI A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["단기 수익은 기대하지 마"…오픈AI 쿠데타 주역 수츠케버, SSI '28조' 평가 논의]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250208215333</link>
-            <guid>https://zdnet.co.kr/view/?no=20250208215333</guid>
-            <pubDate>Sun, 09 Feb 2025 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[일리야 수츠케버 오픈AI 공동 창립자가 설립한 인공지능 스타트업 '세이프 슈퍼인텔리전스(SSI)'가 대규모 투자 유치를 추진하고 있다. SSI는 '안전한 초지능' 개발을 목표로...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI소비자포럼 발족…법·제도 개선으로 소비자 보호 '앞장']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250208210703</link>
-            <guid>https://zdnet.co.kr/view/?no=20250208210703</guid>
-            <pubDate>Sun, 09 Feb 2025 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[소비자 권익을 보호하고 인공지능(AI)의 공정성과 신뢰성을 높이기 위한 민간 협력체가 출범했다. 한국소비자연맹과 한국인공지능법학회는 지난 7일 서울 한국프레스센터에서 'AI소비...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
