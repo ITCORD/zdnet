@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 08:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 09:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[텔레칩스, 美 윈드리버와 차량용 SoC 보안 강화…"이미 양산 적용"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250211165211</link>
+            <guid>https://zdnet.co.kr/view/?no=20250211165211</guid>
+            <pubDate>Tue, 11 Feb 2025 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내 팹리스 업체인 텔레칩스가 차량용 시스템반도체 사업 확장을 위해 미국 소프트웨어 기업 윈드리버와 협업한다. 이미 텔레칩스가 양산 중인 칩에 윈드리버 솔루션을 적용한 상황으로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아바코, '세미콘 코리아'서 유리기판·HBM용 차세대 반도체 장비 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250211162929</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250206140827</guid>
             <pubDate>Thu, 06 Feb 2025 05:14:38 GMT</pubDate>
             <content:encoded><![CDATA[실리콘랩스가 블루투스 LE 연결을 위한 신제품 BG22L과 BG24L SoC를 출시했다. 이번에 출시된 'Lite' 시리즈는 비용 효율성을 높이면서도 강력한 성능을 제공하는 것...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄컴 "Arm, IP 라이선스 지속 공급 통보"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250206103555</link>
-            <guid>https://zdnet.co.kr/view/?no=20250206103555</guid>
-            <pubDate>Thu, 06 Feb 2025 02:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[퀄컴과 Arm이 2022년부터 이어온 라이선스 계약 분쟁에서 해를 넘겨 마지막까지 남아 있던 불확실성이 해소됐다. Arm이 지난해 10월 하순 퀄컴에 통보했던 지적재산권(IP)...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
