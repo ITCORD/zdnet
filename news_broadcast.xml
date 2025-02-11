@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 04:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 05:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["KT 직원들, 직접 A에이전트 만들어 지자체 사업 수주"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250211121738</link>
+            <guid>https://zdnet.co.kr/view/?no=20250211121738</guid>
+            <pubDate>Tue, 11 Feb 2025 05:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[KT 임직원들이 개발자 도움 없이 300개가 넘는 AI 에이전트(AI 비서)를 직접 만들어냈다. 전사적인 AI 도입으로 직원들이 업무 혁신에 나선 것이다. 11일 KT에 따르면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["스미싱 URL 변조까지 막는다"…LGU+, AI 악성 앱 분석 솔루션 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250211094259</link>
+            <guid>https://zdnet.co.kr/view/?no=20250211094259</guid>
+            <pubDate>Tue, 11 Feb 2025 05:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 악성 앱 주소(URL)를 변조해 공공기관이나 통신사의 접속 차단 조치를 우회하는 스미싱 범행을 막기 위해 자체 고객피해방지 분석시스템 내에 'AI 악성 앱 분석 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SLL, 캐나다 비영리단체 RESO와 콘텐츠 크리에이터 협업]]></title>
             <link>https://zdnet.co.kr/view/?no=20250211104241</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250207154546</guid>
             <pubDate>Fri, 07 Feb 2025 08:16:24 GMT</pubDate>
             <content:encoded><![CDATA[유료방송 시장의 위기가 현실화됐다. LG헬로비전의 영업이익이 전년 대비 71.5% 급감한 데 이어 KT스카이라이프 마저 적자 전환 성적표를 내놨다. 케이블TV와 위성방송 사업자...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버려지는 스마트폰으로 인터넷 공유기 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207105422</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207105422</guid>
-            <pubDate>Fri, 07 Feb 2025 02:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[구형 스마트폰의 부품을 활용해 가정 내 인터넷 공유기로 많이 쓰이는 DSL 라우터를 만드는 이들이 등장했다. 전자부품 폐기물과 함께 이산화탄소 배출량을 줄이겠다는 뜻이다. 6일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["1년 내내 월 4천원대"...티빙, '광고형 스탠다드' 연간 이용권 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207102123</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207102123</guid>
-            <pubDate>Fri, 07 Feb 2025 02:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[티빙이 광고요금제(AVOD) '광고형 스탠다드'의 연간 이용권을 첫 출시한다. 티빙은 '광고형 스탠다드' 연간 이용권 판매를 시작한다고 7일 밝혔다. 연간 이용권 프로모션 가격...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
