@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 03:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 04:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주망원경 '스피어엑스' 28일 발사…3차원 은하지도에 10억 개 별 컬러로 담아]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250212121023</link>
+            <guid>https://zdnet.co.kr/view/?no=20250212121023</guid>
+            <pubDate>Wed, 12 Feb 2025 04:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[우리은하 10억 개의 별을 102개의 색으로 관측하고, 3차원 우주지도를 제작하기 위한 우주망원경이 발사된다. 우주항공청은 한국천문연구원과 미항공우주국((NASA) 등이 공동 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/12/9cf43ddcf090efb0a06aa0effeb380e2-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["용의자 질환 부각 편견·혐오는 문제해결 도움 안 돼”]]></title>
             <link>https://zdnet.co.kr/view/?no=20250212120514</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250212112823</guid>
             <pubDate>Wed, 12 Feb 2025 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[우정사업본부는 우리 기술로 개발한 한국형 잠수함 기념우표 51만 장을 오는 20일부터 판매한다고 12일 밝혔다. 기념우표에는 도산안창호급 잠수함(KSS-Ⅲ) 형상이 담겨 있다....]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/12/61ba946844ebfef13631a75acb333083-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전 세계 CEO 5명 중 4명 "AI, 잠재적 이점 있어…의사 결정이 AI 적용 방해"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250212104422</guid>
             <pubDate>Wed, 12 Feb 2025 02:12:43 GMT</pubDate>
             <content:encoded><![CDATA[카네기멜론대학교와 마이크로소프트 연구진이 발표한 "생성형 AI가 비판적 사고에 미치는 영향: 지식 노동자 대상 설문조사를 통한 인지적 노력 감소와 신뢰도 효과 분석" 연구에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["KT·메가존 제쳤다"…삼성SDS 손잡은 한컴, 116억 'AI 국회' 구축 사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250212103146</link>
-            <guid>https://zdnet.co.kr/view/?no=20250212103146</guid>
-            <pubDate>Wed, 12 Feb 2025 02:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터가 삼성SDS와 손잡고 우리나라 국회 시스템에 인공지능(AI)을 접목하는 사업을 추진한다. 한컴은 삼성SDS와 컨소시엄을 구성해 '국회 빅데이터 플랫폼(AI 국회) ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
