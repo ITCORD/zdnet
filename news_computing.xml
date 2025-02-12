@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 07:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 08:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오라클 "오픈소스 저렴?…숨겨진 비용 부담 커"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250212165231</link>
+            <guid>https://zdnet.co.kr/view/?no=20250212165231</guid>
+            <pubDate>Wed, 12 Feb 2025 08:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 시대가 도래하면서 기업들은 경쟁력을 확보하기 위해 대규모 데이터를 수집하고 활용하는 데 집중하고 있다. 그러나 데이터의 양이 폭발적으로 증가하면서 저장, 관리,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[新 무기 꺼낸 수세, 지원 종료된 '센트OS' 쓴 KT클라우드 걱정 덜었다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250212161044</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250212104422</guid>
             <pubDate>Wed, 12 Feb 2025 02:13:00 GMT</pubDate>
             <content:encoded><![CDATA[카네기멜론대학교와 마이크로소프트 연구진이 발표한 "생성형 AI가 비판적 사고에 미치는 영향: 지식 노동자 대상 설문조사를 통한 인지적 노력 감소와 신뢰도 효과 분석" 연구에 따...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["KT·메가존 제쳤다"…삼성SDS 손잡은 한컴, 116억 'AI 국회' 구축 사업 수주]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250212103146</link>
-            <guid>https://zdnet.co.kr/view/?no=20250212103146</guid>
-            <pubDate>Wed, 12 Feb 2025 02:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터가 삼성SDS와 손잡고 우리나라 국회 시스템에 인공지능(AI)을 접목하는 사업을 추진한다. 한컴은 삼성SDS와 컨소시엄을 구성해 '국회 빅데이터 플랫폼(AI 국회) ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
