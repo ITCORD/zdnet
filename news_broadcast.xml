@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 08:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT "올해 '돈버는 AI' 박차...연내 에이닷 유료 출시"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250212180209</link>
+            <guid>https://zdnet.co.kr/view/?no=20250212180209</guid>
+            <pubDate>Wed, 12 Feb 2025 09:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 AI 사업 성장세에 더해 연내 에이닷 서비스의 유로 모델 출시 등을 바탕으로 AI 사업 수익화에 박차를 가한다. 12일 SK텔레콤에 따르면 2024년 연결 매출은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 "웨이브 합병 효과 긍정적...2027년 1500만 가입자 목표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250212152117</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250211121738</guid>
             <pubDate>Tue, 11 Feb 2025 05:12:10 GMT</pubDate>
             <content:encoded><![CDATA[KT 임직원들이 개발자 도움 없이 300개가 넘는 AI 에이전트(AI 비서)를 직접 만들어냈다. 전사적인 AI 도입으로 직원들이 업무 혁신에 나선 것이다. 11일 KT에 따르면...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["스미싱 URL 변조까지 막는다"…LGU+, AI 악성 앱 분석 솔루션 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250211094259</link>
-            <guid>https://zdnet.co.kr/view/?no=20250211094259</guid>
-            <pubDate>Tue, 11 Feb 2025 05:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 악성 앱 주소(URL)를 변조해 공공기관이나 통신사의 접속 차단 조치를 우회하는 스미싱 범행을 막기 위해 자체 고객피해방지 분석시스템 내에 'AI 악성 앱 분석 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
