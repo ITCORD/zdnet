@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 22:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 23:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영업익 줄어든 통신 3사, AI 수익화로 반등]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250214000537</link>
+            <guid>https://zdnet.co.kr/view/?no=20250214000537</guid>
+            <pubDate>Thu, 13 Feb 2025 23:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤, KT, LG유플러스가 올해를 'AI 사업 수익화'의 원년으로 삼고 관련 사업에 박차를 가해 반등을 노린다. 통신 3사의 지난해 합산 매출은 58조9천970억원, 영...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/04/06/d36ae41e4deb1db7a18702e5c7d4251b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT알파쇼핑, 메디큐브 하이포커스샷 16일 판매]]></title>
             <link>https://zdnet.co.kr/view/?no=20250213232415</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250213231145</guid>
             <pubDate>Thu, 13 Feb 2025 21:11:26 GMT</pubDate>
             <content:encoded><![CDATA[이마트는 16일까지 3일간 '고래잇(Great) 서프라이즈 세일' 행사를 진행한다고 14일 밝혔다. 이마트만의 특별한 상품/가격을 모은 '고래잇템' 20여종 외에도, 50% 할...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/13/01bf1627feb6afed21874ef529608c35-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[안랩 사우디 합작사 라킨, 'LEAP 2025' 참여 최신 솔루션 소개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250213180526</guid>
             <pubDate>Thu, 13 Feb 2025 09:13:14 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기술 기반 서비스 회사 버즈니(대표 남상협·김성국)가 풀무원에 커머스 AI 구독 서비스 '에이플러스 AI'를 제공한다고 13일 밝혔다. 버즈니는 지난해 올인원 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 없이 경쟁력 없다"…정진택 前 고려대 총장, 미래 인재의 조건 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250213174940</link>
-            <guid>https://zdnet.co.kr/view/?no=20250213174940</guid>
-            <pubDate>Thu, 13 Feb 2025 09:13:14 GMT</pubDate>
-            <content:encoded><![CDATA["인공지능(AI) 시대가 이미 도래해 인간 인재의 역할이 변하고 있습니다. 이 가운데 기존 교육 방식으로는 경쟁력을 확보하는 것이 전적으로 제한됩니다. 인간과 AI의 협업이 필...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
