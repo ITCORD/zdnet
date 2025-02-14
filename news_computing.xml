@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 22:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 23:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT가 쓴 글, 사람 글과 어떤 점이 다를까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250215080200</link>
+            <guid>https://zdnet.co.kr/view/?no=20250215080200</guid>
+            <pubDate>Fri, 14 Feb 2025 23:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[AI 생성 문장, 인간과 얼마나 비슷할까? 호주 재무부에서 진행한 코파일럿 실험 보고서에 따르면, 코파일럿(Copilot) 같은 대형 언어 모델이 생성하는 문장은 표면적으로는 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI로 2분 30초 만에 법인세 신고 완료…더존비즈온, 법인 결산 세미나 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20250214181626</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250214114228</guid>
             <pubDate>Fri, 14 Feb 2025 03:16:23 GMT</pubDate>
             <content:encoded><![CDATA[네이버클라우드가 76억원 규모의 우정사업본부(우본) 공공 서비스형 데스크톱(DaaS) 사업 수주 경쟁에서 승기를 잡으며 공공 클라우드 시장 내 선두 입지를 재확인했다. NHN클...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 인프라 선도 나선 에스넷시스템, GPU 클라우드 서비스 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250214113214</link>
-            <guid>https://zdnet.co.kr/view/?no=20250214113214</guid>
-            <pubDate>Fri, 14 Feb 2025 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[에스넷시스템이 싱가포르의 스카이랩(SkyLab)과 손잡고 국내 인공지능(AI) 및 그래픽카드(GPU) 클라우드 시장 공략에 나선다. 에스넷시스템(대표 박효대, 한상욱)이 싱가포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
