@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 01:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 02:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스패로우, 현지 라스인포텍과 제휴 중동 시장 공략 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250216110237</link>
+            <guid>https://zdnet.co.kr/view/?no=20250216110237</guid>
+            <pubDate>Sun, 16 Feb 2025 02:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[애플리케이션 보안 전문기업 스패로우(Sparrow, 대표 장일수)는 중동 보안 서비스 기업 라스인포텍(RAS Infotech)과 중동지역에 자사 보안 솔루션을 공급하기 위한 업...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI-CISA, 버퍼 오버플로 취약점 경고…"용서할 수 없는 결함"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250216023906</link>
+            <guid>https://zdnet.co.kr/view/?no=20250216023906</guid>
+            <pubDate>Sun, 16 Feb 2025 02:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부 기관이 버퍼오버플로(buffer overflow) 취약점을 '용서할 수 없는 결함(unforgivable flaw)'이라고 규정하며 전 세계 개발자들에게 '보안 중심...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유미's 픽] "같은 티맥스가 아닌데"…박대연과 결별한 티맥스소프트, 사명 변경할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20250214155606</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250214155954</guid>
             <pubDate>Fri, 14 Feb 2025 07:12:23 GMT</pubDate>
             <content:encoded><![CDATA[중국이 오픈소스를 앞세워 글로벌 인공지능(AI) 시장의 주도권을 확보하려 하고 있다. 딥시크·알리바바 등 주요 테크 기업들이 개방형 혁신을 강조하며 AI 비용을 낮추고 접근성을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[학계에서도 AI 성별 격차... 남성 연구자 AI 사용시간·효율성 더 높아]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250214160320</link>
-            <guid>https://zdnet.co.kr/view/?no=20250214160320</guid>
-            <pubDate>Fri, 14 Feb 2025 07:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[미국 국립과학원회보(PNAS Nexus) 2025년 2월호에 게재된 연구에 따르면, 생성형 인공지능(AI)이 학계의 성별 생산성 격차를 더욱 벌리는 것으로 나타났다. 연구진은 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 인공지능 시대, 무분별한 중복 규제 지양해야]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250214144001</link>
-            <guid>https://zdnet.co.kr/view/?no=20250214144001</guid>
-            <pubDate>Fri, 14 Feb 2025 07:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
