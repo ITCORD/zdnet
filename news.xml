@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 14:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 15:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['초거대 AI 모델' 3파전…한국, 미국·중국 이어 3위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250217231405</link>
+            <guid>https://zdnet.co.kr/view/?no=20250217231405</guid>
+            <pubDate>Mon, 17 Feb 2025 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 초거대 AI 모델 현황 분석(2024년 조사) 5년간 271개 출시된 초거대 AI, 연평균 성장률 179.5% 기록 소프트웨어정책연구소가 발간한 '글로벌 초거대 AI 모...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/17/ai4feac85ccab66a0f8478b92f39e926da-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퓨쳐시스템, WCA파트너스와 투자유치 협약]]></title>
             <link>https://zdnet.co.kr/view/?no=20250217230222</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250217225734</guid>
             <pubDate>Mon, 17 Feb 2025 14:12:43 GMT</pubDate>
             <content:encoded><![CDATA[성인 교육 기업 데이원컴퍼니(대표 이강민)가 코스닥 상장을 위한 일시적인 영업비용 증가로 적자전환된 2024년 성적표를 받았다. 데이원컴퍼니는 지난해 매출 1천276억5천700...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/11/30/35a110c33bbe3e855903888959f5ac12-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[투이컨설팅, 민간 제로트러스트 도입·전환 컨설팅 성공 완료]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250217174739</guid>
             <pubDate>Mon, 17 Feb 2025 09:14:37 GMT</pubDate>
             <content:encoded><![CDATA[마음AI는 퀄컴 테크날러지스(Qualcomm Technologies Inc.)의 IoT 액설러레이터 프로그램(Accelerator Program) 공식 멤버로 등록됐다고 17일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["韓 AI 산업생태계 '4중고'...투자·인재·데이터 부족에 리더십 공백"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250217170323</link>
-            <guid>https://zdnet.co.kr/view/?no=20250217170323</guid>
-            <pubDate>Mon, 17 Feb 2025 09:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내 AI 산업이 양적으로 성장하는 것처럼 보이지만 투자 부족, 인재 유출, 데이터 확보 어려움, 리더십 공백이라는 '4중고'에 직면해 있다는 진단이 나왔다. 특히 글로벌 AI...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
