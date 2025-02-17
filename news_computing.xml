@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 12:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 13:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑스로그, 한국은행 CBDC 사업에 실시간 데이터 복제 솔루션 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250217221735</link>
+            <guid>https://zdnet.co.kr/view/?no=20250217221735</guid>
+            <pubDate>Mon, 17 Feb 2025 13:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[실시간 데이터 복제 및 이관 전문기업 엑스로그(대표 장석주)는 한국은행이 주도하는 'CBDC 기반 디지털 바우처 관리 플랫폼' 사업에 자사 실시간 데이터 복제 솔루션 '엑스로그...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Q&AI] 재직 중 출산 시 1억?…크래프톤의 출산 장려 정책, 뭐가 다르나 봤더니]]></title>
             <link>https://zdnet.co.kr/view/?no=20250217191317</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250216204719</guid>
             <pubDate>Mon, 17 Feb 2025 02:19:23 GMT</pubDate>
             <content:encoded><![CDATA["양자컴퓨팅 산업은 '양자이득' 실증과 함께 2~3년 내 시장이 하키스틱 모양으로 급격히 성장할 것으로 예상됩니다." 국내 1호 양자컴퓨팅 벤처기업 큐노바(Qunova Comp...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈마루-투라인코드, MSA 전환 돕는 AI 플랫폼 'MSAP.ai' 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250217111234</link>
-            <guid>https://zdnet.co.kr/view/?no=20250217111234</guid>
-            <pubDate>Mon, 17 Feb 2025 02:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)을 활용해 마이크로서비스(MSA)기반 애플리케이션 설계, 개발, 배포, 운영을 통합 지원하는 플랫폼이 출시됐다. 오픈마루와 투라인코드는 풀스택 개발 솔루션 'MS...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
