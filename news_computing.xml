@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 23:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 00:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼플렉시티, 딥 리서치 출시…구글·오픈AI와 경쟁]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250218074253</link>
+            <guid>https://zdnet.co.kr/view/?no=20250218074253</guid>
+            <pubDate>Tue, 18 Feb 2025 00:56:24 GMT</pubDate>
+            <content:encoded><![CDATA[구글·오픈AI에 이어 퍼플렉시티도 생성형 인공지능(AI) 챗봇에 '딥 리서치(Deep Research)'를 도입했다. 테크크런치 등 외신은 18일 퍼플렉시티가 수백 개 출처에서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI, 동물 통증도 잘 잡아낸다…"수의사 보다 11.5% 더 정확"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250218091615</link>
+            <guid>https://zdnet.co.kr/view/?no=20250218091615</guid>
+            <pubDate>Tue, 18 Feb 2025 00:56:24 GMT</pubDate>
+            <content:encoded><![CDATA[AI, 수의사보다 11.5% 더 정확한 판단력 보여 이스라엘 하이파 대학교와 브라질 상파울루 주립대학교 공동 연구팀이 발표한 연구에 따르면, 인공지능(AI)이 수의사보다 더 정...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['위장 정보' 숨겨 목소리 도용 차단…'보컬크립트' 기술 나왔다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250218083636</link>
+            <guid>https://zdnet.co.kr/view/?no=20250218083636</guid>
+            <pubDate>Tue, 18 Feb 2025 00:56:24 GMT</pubDate>
+            <content:encoded><![CDATA[기존 딥페이크 음성 탐지의 한계: 사후 대응에서 사전 예방으로 중국 란저우대학교 연구진이 발표한 논문에 따르면, AI 음성 복제 기술의 발전이 텍스트 음성 변환(TTS)과 음성...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['초거대 AI 모델' 3파전…한국, 미국·중국 이어 3위]]></title>
             <link>https://zdnet.co.kr/view/?no=20250217231405</link>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250217143914</guid>
             <pubDate>Mon, 17 Feb 2025 06:18:18 GMT</pubDate>
             <content:encoded><![CDATA[생성형 AI(Generative AI) 서비스가 구독경제의 새로운 성장 동력으로 부상했다. KB국민카드가 실시한 구독 서비스 이용 현황 분석 결과에 따르면, 2024년 전체 구...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창업 3년 만에 흑자 전환 '성공'…AI 클라우드 서비스 시장서 잘 나가는 '이 기업' 어디?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250217143858</link>
-            <guid>https://zdnet.co.kr/view/?no=20250217143858</guid>
-            <pubDate>Mon, 17 Feb 2025 06:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[박윤지 클라이온 대표가 창업 3년만에 흑자 전환에 성공하며 인공지능(AI) 클라우드 서비스 시장에서 경쟁력을 입증했다. 클라이온은 지난해 매출 215억원을 기록하며 목표 대비 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI도 코드로 배운다...딥시크AI, 범용 추론력 강화 기술 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250217142928</link>
-            <guid>https://zdnet.co.kr/view/?no=20250217142928</guid>
-            <pubDate>Mon, 17 Feb 2025 06:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[수학·코드 넘어선 AI 추론력 강화의 새 길 제시 딥시크AI(DeepSeek-AI)의 연구에 따르면, 대규모 언어모델(LLM)의 추론 능력을 향상시키기 위한 새로운 접근법 'C...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아 H100 GPU로 만든 명품가방…6500만원에 거래된다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250217142646</link>
-            <guid>https://zdnet.co.kr/view/?no=20250217142646</guid>
-            <pubDate>Mon, 17 Feb 2025 06:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[GPU를 활용한 패션 아이템이 화제다. 패션 브랜드GPU퍼스(GPU Purses)가 인공지능 학습용 그래픽카드인 엔비디아 H100(Nvidia H100)을 활용해 제작한 가방을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
