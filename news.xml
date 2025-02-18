@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 12:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 13:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 자율성 높아질수록 인간 역할 줄어든다…섬뜩한 경고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250218215422</link>
+            <guid>https://zdnet.co.kr/view/?no=20250218215422</guid>
+            <pubDate>Tue, 18 Feb 2025 13:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[자율성 확대되는 AI 에이전트...2024년 말 급격히 증가 허깅페이스(Hugging Face)의 연구진들이 발표한 논문에 따르면, 대규모 언어모델(LLM)의 벤치마크 정확도가...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/18/ai277a2d107f25666f13d3cdace5eef653-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["By AI는 틈새 전략, For AI는 핵심기술 선점해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250218210712</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250218202602</guid>
             <pubDate>Tue, 18 Feb 2025 12:23:04 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 뷰티 기업 고운세상코스메틱(대표 이주호)이 17일(월) 초록우산에 자립준비청년 지원 및 아이리더 사업을 위한 기부금 5천만 원을 전달했다고 밝혔다. 고운세상코스메틱 본사...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/18/785ebc2869f414b87d3f9a6b4b113b29-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한싹, 국방 보안통제시스템 '시큐어게이트 CDS' GS인증 1등급 취득]]></title>
@@ -32,7 +40,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[AI 제안하면 무조건 따르나요…EU가 경고하는 '자동화 편향성']]></title>
+            <title><![CDATA[AI 제안을 무조건 따르나요…EU가 경고하는 '자동화 편향성']]></title>
             <link>https://zdnet.co.kr/view/?no=20250218201739</link>
             <guid>https://zdnet.co.kr/view/?no=20250218201739</guid>
             <pubDate>Tue, 18 Feb 2025 12:23:04 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250218180936</guid>
             <pubDate>Tue, 18 Feb 2025 09:13:24 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호 전문기업 소만사(대표 김대환)가 판교 제2테크노밸리에 신사옥을 마련, 이전했다. 창립 28년만이다. 판교 새 사옥은 지하 4층~지상 9층으로 이뤄졌다. 임직원 편의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상조 가입하면 스파 서비스…교원라이프, 멤버십 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250218180225</link>
-            <guid>https://zdnet.co.kr/view/?no=20250218180225</guid>
-            <pubDate>Tue, 18 Feb 2025 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[교원라이프가 고품격 스파 브랜드 '더 트리니티 스파' 운영사 엘앤케이웰니스와 에이징케어 서비스 강화를 위한 업무협약(MOU)을 체결했다고 18일 밝혔다. 교원라이프는 최근 건강...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
