@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 06:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 07:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체크포인트 "초연결 시대, 보안 해법은 하이브리드 메시 플랫폼"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219133758</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219133758</guid>
+            <pubDate>Wed, 19 Feb 2025 07:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[[방콕(태국)=조이환 기자] "IT 세상의 모든 것이 초연결된 '하이퍼커넥티드' 시대가 도래했습니다. 이제 보안은 온프레미스·클라우드·원격 환경을 아우르는 '하이브리드 메시 아...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PCN, 비언어적 요소 기반 XR 콘텐츠 상호작용 기술 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219152124</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219152124</guid>
+            <pubDate>Wed, 19 Feb 2025 07:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 플랫폼 전문기업 피씨엔(PCN, 대표 송광헌)이 비언어적 요소를 기반으로 한 XR 상호작용 기술을 개발했다. 이번 개발은 2022년도 '비언어적 요소 기반 XR 콘텐츠 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["정부 덜 멍청하게 만들자"…머스크 측근이 만든 AI 공무원]]></title>
             <link>https://zdnet.co.kr/view/?no=20250219144959</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250219083609</guid>
             <pubDate>Wed, 19 Feb 2025 00:56:41 GMT</pubDate>
             <content:encoded><![CDATA[일반인도 검증 가능한 벤치마크의 필요성 AI 모델의 능력을 평가하는 벤치마크가 점점 더 전문화되면서 새로운 문제가 대두되고 있다. 웰슬리 칼리지와 텍사스 오스틴 대학 연구진들에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 자율성 높아질수록 인간 역할 줄어든다…섬뜩한 경고]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250218215422</link>
-            <guid>https://zdnet.co.kr/view/?no=20250218215422</guid>
-            <pubDate>Tue, 18 Feb 2025 13:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[자율성 확대되는 AI 에이전트...2024년 말 급격히 증가 허깅페이스(Hugging Face)의 연구진들이 발표한 논문에 따르면, 대규모 언어모델(LLM)의 벤치마크 정확도가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한싹, 국방 보안통제시스템 '시큐어게이트 CDS' GS인증 1등급 취득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250218202445</link>
-            <guid>https://zdnet.co.kr/view/?no=20250218202445</guid>
-            <pubDate>Tue, 18 Feb 2025 12:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[한싹(코스닥 430690, 대표 이주도)은 자사 국방 보안통제시스템 '시큐어게이트 CDS(SecureGate Cross Domain Solution)'로 GS인증 1등급을 취득...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
