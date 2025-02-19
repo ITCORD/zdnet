@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 09:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 10:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["두유제조기 소음 위험 수준…일부는 화상 우려도"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250219172910</link>
+            <guid>https://zdnet.co.kr/view/?no=20250219172910</guid>
+            <pubDate>Wed, 19 Feb 2025 10:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[시중에 판매되는 두유제조기가 최대 소음이 평균 80데시벨(dB)을 넘고, 일부 제품은 용기 표면 온도가 90℃까지 나타나는 등 사용에 주의가 필요한 것으로 나타났다. 소비자시민...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[벨킨, GS25서 충전기·이어폰 판매]]></title>
             <link>https://zdnet.co.kr/view/?no=20250219180908</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250218161314</guid>
             <pubDate>Tue, 18 Feb 2025 08:16:27 GMT</pubDate>
             <content:encoded><![CDATA[개인/기업용 하드디스크 드라이브(HDD)·SSD 등 스토리지 업체인 미국 웨스턴디지털이 2016년 인수한 플래시메모리 기반 저장장치 업체 샌디스크(Sandisk)를 재분사한다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] "아이폰17 에어, 이렇게 나온다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250218160312</link>
-            <guid>https://zdnet.co.kr/view/?no=20250218160312</guid>
-            <pubDate>Tue, 18 Feb 2025 08:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올 가을 출시할 예정인 초박형 '아이폰17 에어'의 렌더링 영상이 공개됐다고 IT매체 폰아레나가 17일(현지시간) 보도했다. 유명 IT 팁스터 존 프로서는 소식통을 통해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
