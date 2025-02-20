@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 02:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 03:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, AI인프라 3단계 확충 플랜 가동]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220111822</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220111822</guid>
+            <pubDate>Thu, 20 Feb 2025 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부가 인공지능(AI) 컴퓨팅 인프라를 확충하면서 즉시, 단기, 중장기 등 3단계에 걸친 마스터플랜을 가동키로 했다. 20일 열린 국가인공지능위원회 3차 회의에서 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 톱수준 LLM 개발 추진...데이터 개방 확대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220104704</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220104704</guid>
+            <pubDate>Thu, 20 Feb 2025 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 세계 최고 수준의 대형언어모델(LLM) 개발을 추진한다. 이를 위해 데이터와 GPU 컴퓨팅 인프라 등 가용 가능한 자원을 집중한다는 방침이다. 국가인공지능위원회는 20일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울테크노파크, 디딤돌 첫걸음 창업전문기관 R&D 추천과제 109개 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20250220101314</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250218085029</guid>
             <pubDate>Tue, 18 Feb 2025 00:56:17 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 오펜시브 보안 전문업체 엔키화이트햇과 8개월 동안 '블랙박스 모의해킹'을 진행하면서 자사가 운영 중인 모든 서비스의 보안 취약점을 점검하고 있다고 18일 밝혔다....]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["이야기를 문화로 만드는 가능성의 집"...CJ ENM 30주년 특별전시 열려]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250218084444</link>
-            <guid>https://zdnet.co.kr/view/?no=20250218084444</guid>
-            <pubDate>Tue, 18 Feb 2025 00:56:17 GMT</pubDate>
-            <content:encoded><![CDATA[CJ ENM이 문화사업 출범 30주년 기념 프라이빗 특별전 'House of the Visionary: Story to Culture'를 개최한다. '가능성을 믿는 한 사람이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[145시간 동안 지속되는 쿠션 효과?…방심위, 홈앤쇼핑에 법정제재 의결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250217164848</link>
-            <guid>https://zdnet.co.kr/view/?no=20250217164848</guid>
-            <pubDate>Mon, 17 Feb 2025 13:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[화장품을 판매하면서 해당 제품의 효과 지속시간과 관련해 시청자를 오인케 한 홈앤쇼핑이 방송통신심의위원회로부터 법정제재 '주의'를 의결 받았다. 17일 방심위는 전체회의를 열고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
