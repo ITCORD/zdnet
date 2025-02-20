@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 11:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 12:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김완집 서울시 정보보안과장 "사이버보안 조례 9월 공포 목표"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250220205429</link>
+            <guid>https://zdnet.co.kr/view/?no=20250220205429</guid>
+            <pubDate>Thu, 20 Feb 2025 12:23:04 GMT</pubDate>
+            <content:encoded><![CDATA["사이버보안 조례를 오는 9월까지 만드는게 목표입니다. 쉽지는 않습니다. 다른 조례와 충돌과 중앙부처간 문제 등 해결할 게 매우 많습니다." 김완집 서울시 정보보안과장(전국 정...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/20/45ff37b6945c3c8bb48fc211f8395816-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국게임산업협회, 조영기 전 넷마블 대표 신임 회장 선출…변화 기대감↑]]></title>
             <link>https://zdnet.co.kr/view/?no=20250220094502</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250220173709</guid>
             <pubDate>Thu, 20 Feb 2025 10:13:58 GMT</pubDate>
             <content:encoded><![CDATA[중국 가전업체 로보락이 경쟁이 치열해지고 있는 국내 로봇청소기 시장에 신형 프리미엄 제품을 선보이며 선두 지위를 공고히 하겠다는 의지를 다졌다. 지속적으로 불거지는 보안 우려에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/20/9b237c190a3532e7a40f1c8730d6bc70-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KDDF, 국가신약개발사업 주관연구개발기관 한 자리에]]></title>
@@ -64,7 +72,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["경제 불확실 속 금융 리스크 관리, SAS ALM으로 효율 극대화"]]></title>
+            <title><![CDATA["경제 불확실 속 금융 리스크 관리법, SAS ALM서 찾아야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250220162645</link>
             <guid>https://zdnet.co.kr/view/?no=20250220162645</guid>
             <pubDate>Thu, 20 Feb 2025 09:13:21 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220174437</guid>
             <pubDate>Thu, 20 Feb 2025 09:13:21 GMT</pubDate>
             <content:encoded><![CDATA[이노그리드(대표 김명진)와 비즈플레이가 서비스형 소프트웨어(SaaS) 기반 디지털전환 사업을 선두를 위해 손을 잡는다. 이노그리드는 비즈플레이와 'SaaS 디지털 전환을 위한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DN오토모티브, 부산 배터리 신공장에 4400억원 투자]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220174427</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220174427</guid>
-            <pubDate>Thu, 20 Feb 2025 09:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 자동차 부품기업 DN오토모티브가 부산시에 4천400억원을 투자해 대규모 배터리 공장을 신설한다. DN오토모티브는 20일 부산시와 배터리 공장 신설투자 양해각서(MOU)를...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
