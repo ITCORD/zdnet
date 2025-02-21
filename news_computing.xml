@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 05:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 06:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 모델의 '긴 문장 처리' 한계 극복…딥시크, 새 어텐션 기술 화제]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250221143219</link>
+            <guid>https://zdnet.co.kr/view/?no=20250221143219</guid>
+            <pubDate>Fri, 21 Feb 2025 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[현대 AI의 새로운 도전: 70-80%를 차지하는 어텐션 계산 문제 딥시크(DeepSeek)가 발표한 연구 논문에 따르면, 차세대 AI 언어모델에서 긴 문맥 처리 능력이 매우 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[게임 개발자의 상상력을 현실로... MS 연구진, 게임 제작용 AI 모델 개발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250221143000</link>
+            <guid>https://zdnet.co.kr/view/?no=20250221143000</guid>
+            <pubDate>Fri, 21 Feb 2025 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 연구진이 네이처(Nature)에 발표한 연구에 따르면, 게임 개발 과정에서 창의적 아이디어 구현을 지원하는 새로운 생성형 AI 모델 'WHAM(World and ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조달청, 공공사업 타깃 보이스피싱 확인…조달업체 주의 당부]]></title>
             <link>https://zdnet.co.kr/view/?no=20250221113000</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220173659</guid>
             <pubDate>Thu, 20 Feb 2025 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[비아이매트릭스가 인공지능(AI) 에이전트 개념을 강화한 차기 생성형 AI 솔루션을 선보인다. 비아이매트릭스는 비즈니스인텔리전스(BI)전용 생성형 AI 솔루션 'G-매트릭스(G-...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베리타스 품은 코헤시티, 코오롱베니트와 韓 AI 데이터 보안시장 개척 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220172938</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220172938</guid>
-            <pubDate>Thu, 20 Feb 2025 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[코오롱베니트가 글로벌 데이터 보안 분야 선도 기업과의 파트너십을 통해 국내 '인공지능(AI) 기반 데이터 보안 시장' 개척에 나선다. 코오롱베니트는 최근 베리타스(Veritas...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토시스템, XR 기반 AI 헬스케어 '티온' 인수…글로벌 시장 도약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220172654</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220172654</guid>
-            <pubDate>Thu, 20 Feb 2025 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[토마토시스템이 디지털 헬스케어 사업 다각화 및 글로벌 경쟁력 강화를 위해 공격적인 행보에 나선다. 토마토시스템은 확장현실(XR) 기반 AI 디지털 헬스케어 솔루션 '티온(T-O...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
