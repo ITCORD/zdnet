@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 06:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 07:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["수어도 AI로 배운다"... 엔비디아, 수어 교육 AI 플랫폼 '사인스' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250221152734</link>
+            <guid>https://zdnet.co.kr/view/?no=20250221152734</guid>
+            <pubDate>Fri, 21 Feb 2025 07:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아(NVIDIA)가 미국농아인자녀협회(American Society for Deaf Children)와 크리에이티브 에이전시 헬로먼데이(Hello Monday)와 협력해 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 모델의 '긴 문장 처리' 한계 극복…딥시크, 새 어텐션 기술 화제]]></title>
             <link>https://zdnet.co.kr/view/?no=20250221143219</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220174437</guid>
             <pubDate>Thu, 20 Feb 2025 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[이노그리드(대표 김명진)와 비즈플레이가 서비스형 소프트웨어(SaaS) 기반 디지털전환 사업을 선두를 위해 손을 잡는다. 이노그리드는 비즈플레이와 'SaaS 디지털 전환을 위한 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이매트릭스, 'G-매트릭스 3.0' 출시…AI에이전트 기능 강화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220173659</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220173659</guid>
-            <pubDate>Thu, 20 Feb 2025 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[비아이매트릭스가 인공지능(AI) 에이전트 개념을 강화한 차기 생성형 AI 솔루션을 선보인다. 비아이매트릭스는 비즈니스인텔리전스(BI)전용 생성형 AI 솔루션 'G-매트릭스(G-...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
