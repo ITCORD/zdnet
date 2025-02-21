@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 21:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 22:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인티그리트, 온디바이스 AI 기반 LLM·VLA 플랫폼 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250222005454</link>
+            <guid>https://zdnet.co.kr/view/?no=20250222005454</guid>
+            <pubDate>Fri, 21 Feb 2025 22:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[인티그리트는 자체 개발한 온 디바이스 기반의 초경량화된 거대언어모델(LLM) '시나AI 3b V1'과, 이를 기반으로 실시간 상황인식과 자율주행을 제공하는 시각-언어-행동(VL...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/22/2df11c1af105e86d5947f75a1e80532a-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["합병 취소하고 성장 가능성 없어"…무디스, 닛산 신용등급 '강등']]></title>
             <link>https://zdnet.co.kr/view/?no=20250221225333</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250221221808</guid>
             <pubDate>Fri, 21 Feb 2025 13:19:27 GMT</pubDate>
             <content:encoded><![CDATA[로봇모션 제어 전문 기업 알에스오토메이션은 자체 개발한 세계 최소형 드라이브 'D8 4축 드라이브'를 중국 산업용 로봇 기업의 수직다관절로봇에 적용하는 시험을 진행하고 있다고 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/21/584fbd5ca5ab952d89f5e8eab8081e27-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쿠쿠홈시스, 겨울철 얼음정수기 판매량 21%↑]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221152936</guid>
             <pubDate>Fri, 21 Feb 2025 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[최근 혼다와의 합병 계획을 철회한 닛산이 테슬라로부터 투자 유치를 추진할 계획을 세운 것으로 전해졌다. 영국 경제지 파이낸셜타임스(FT)는 20일(현지시간) 테슬라 이사인 미즈...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제 3기 개인정보 기술포럼 출범···의장 정수환 숭실대 교수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221144152</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221144152</guid>
-            <pubDate>Fri, 21 Feb 2025 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 고학수, 개인정보위)와 한국인터넷진흥원(원장 이상중)은 '제3기 개인정보 기술포럼(의장 정수환 숭실대 교수, 이하 '기술포럼')'을 구성하고 21일 총...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
