@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 02:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 03:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["일손 부족한 호텔, 서비스 로봇 공급 박차"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250217185622</link>
+            <guid>https://zdnet.co.kr/view/?no=20250217185622</guid>
+            <pubDate>Sat, 22 Feb 2025 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA["국내 호텔들이 2~3년 전까지는 로봇을 쓴다는 것을 잘 이해하지 못했어요. 작년부터는 상황이 많이 바뀌었죠. 직원을 구하기 어려운 관광도시를 중심으로 로봇 도입 문의가 늘어나...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/17/b7a5fb185f6ccc7d67cf4907a6147835-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보석 비 내리는 외계행성 대기 구조 첫 관측 [우주로 간다]]]></title>
             <link>https://zdnet.co.kr/view/?no=20250222065454</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250222110121</guid>
             <pubDate>Sat, 22 Feb 2025 02:10:09 GMT</pubDate>
             <content:encoded><![CDATA[미국 증권거래위원회(SEC)가 가상자산 거래소 코인베이스와 진행 중이던 소송을 취하하기로 상호 합의했다고 미국 가상자산 매체 코인텔레그래프가 21일(현지시간) 보도했다. SEC...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/02/16/bf5d343f1467a50b10add70a9f696a9d-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, iOS 18.4 첫 번째 베타버전 출시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221221808</guid>
             <pubDate>Fri, 21 Feb 2025 13:19:27 GMT</pubDate>
             <content:encoded><![CDATA[로봇모션 제어 전문 기업 알에스오토메이션은 자체 개발한 세계 최소형 드라이브 'D8 4축 드라이브'를 중국 산업용 로봇 기업의 수직다관절로봇에 적용하는 시험을 진행하고 있다고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠쿠홈시스, 겨울철 얼음정수기 판매량 21%↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221220834</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221220834</guid>
-            <pubDate>Fri, 21 Feb 2025 13:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[종합생활가전 기업 쿠쿠홈시스는 겨울철 얼음 정수기 판매량이 늘었다고 21일 밝혔다. 쿠쿠홈시스가 2023년 12월~2024년 1월과 2024년 12월~2025년 1월의 얼음 정...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
