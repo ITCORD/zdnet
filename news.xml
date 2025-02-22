@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 08:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카스퍼스키, 리버스 엔지니어링 플러그인 대회서 세계 1위]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250222161529</link>
+            <guid>https://zdnet.co.kr/view/?no=20250222161529</guid>
+            <pubDate>Sat, 22 Feb 2025 08:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[러시아계 글로벌 보안기업 카스퍼스키(Kaspersky, 지사장 이효은)는 '2024 IDA 플러그인 콘테스트'에서 자사 IDA Pro 플러그인 'hrtng'가 1등을 차지했다고...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/22/b75f8e595f918254f1be16bf5cf3ce72-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비로보틱스, 상업용 청소로봇 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20250222155740</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250222155059</guid>
             <pubDate>Sat, 22 Feb 2025 07:10:51 GMT</pubDate>
             <content:encoded><![CDATA[한국로봇산업진흥원은 오는 28일 한국과학기술회관에서 'K-휴머노이드 로봇의 현재와 미래 컨퍼런스'를 개최한다고 22일 밝혔다. 행사는 우리나라 휴머노이드 및 관련 기술 현황을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/22/971c67f1b0617c74275afe050253e2c3-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[라온시큐어-하나은행, 광운대 디지털ID 구축업무협약]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221165335</guid>
             <pubDate>Sat, 22 Feb 2025 00:55:29 GMT</pubDate>
             <content:encoded><![CDATA[AI와 디지털 기술의 급속한 발전으로 전 세계 각국이 새로운 규제의 길을 모색하고 있다. 개인의 권리를 지키려는 유럽연합의 엄격한 규제부터 혁신을 중시하는 미국의 유연한 접근,...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰17 프로, 배터리 크게 늘어날까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221174658</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221174658</guid>
-            <pubDate>Sat, 22 Feb 2025 00:55:29 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 올 가을 출시할 예정인 '아이폰17 프로'에 대한 소식이 계속 나오고 있다. IT매체 BGR은 IT 팁스터 마진 부의 블로그 글을 인용해 현재 아이폰17 프로의 개발 진...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
