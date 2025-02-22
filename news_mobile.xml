@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 00:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 02:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, iOS 18.4 첫 번째 베타버전 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250222074947</link>
+            <guid>https://zdnet.co.kr/view/?no=20250222074947</guid>
+            <pubDate>Sat, 22 Feb 2025 02:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 21일(현지시간) 개발자 대상으로 iOS 18.4, 아이패드OS 18.4, 맥OS 세콰이어 15.4의 첫 번째 새 베타 버전을 출시했다고 애플인사이더 등 외신들이 보도했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['갤럭시탭S10 FE' 곧 나오나…주요 사양 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250222072346</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220231838</guid>
             <pubDate>Thu, 20 Feb 2025 15:13:53 GMT</pubDate>
             <content:encoded><![CDATA[일본 오디오 브랜드 오디오테크니카는 유선 노이즈 캔슬링 이어폰 ATH-CKS330NC를 출시했다고 20일 밝혔다. 제품은 압도적인 중저음 라인인 솔리드 베이스 시리즈의 새로운 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["생수 이용자 최대 고민, 페트병 분리배출"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220230446</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220230446</guid>
-            <pubDate>Thu, 20 Feb 2025 14:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[생수를 이용하는 소비자들이 페트병 쓰레기를 분리 배출하는 번거로움을 가장 큰 고민거리로 여기는 것으로 나타났다. 독일 친환경 정수기 브랜드 브리타는 지난 5일부터 9일까지 국내...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
