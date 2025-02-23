@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 23:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 01:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아 "RTX 5090 일부 제품 성능 저하 인정…교환 가능"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250223000038</link>
+            <guid>https://zdnet.co.kr/view/?no=20250223000038</guid>
+            <pubDate>Sun, 23 Feb 2025 01:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 1월 말 출시한 데스크톱PC용 GPU '지포스 RTX 5090' 탑재 그래픽카드에서 렌더링 성능에 직접적인 영향을 미치는 '렌더 출력 유닛'(ROP)이 일부 비활성화...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, iOS 18.4 첫 번째 베타버전 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20250222074947</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221075905</guid>
             <pubDate>Fri, 21 Feb 2025 00:57:18 GMT</pubDate>
             <content:encoded><![CDATA[애플이 19일(현지시간) 보급형 아이폰 '아이폰16e'를 공개했다. 아이폰16e는 이전 아이폰SE3와 달리 홈 버튼이 사라지고 큰 화면, A18 칩이 탑재돼 아이폰16급 성능을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오디오테크니카, NC 유선 이어폰 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220231838</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220231838</guid>
-            <pubDate>Thu, 20 Feb 2025 15:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[일본 오디오 브랜드 오디오테크니카는 유선 노이즈 캔슬링 이어폰 ATH-CKS330NC를 출시했다고 20일 밝혔다. 제품은 압도적인 중저음 라인인 솔리드 베이스 시리즈의 새로운 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 23:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 01:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["골드바 실종 사태"...은행도 포기한 금 투자, 대안은]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250223012852</link>
+            <guid>https://zdnet.co.kr/view/?no=20250223012852</guid>
+            <pubDate>Sun, 23 Feb 2025 01:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[금값이 사상 최고치를 기록하며 금 수요가 급증하는 가운데 시중은행과 조폐공사가 골드바 공급을 한시적으로 중단하는 사태가 발생했다. 이에 투자자들은 전통적인 실물 금 투자 대신 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Y2K 닮은 양자컴퓨터 보안 우려, 과장인가 현실일까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250222093254</link>
+            <guid>https://zdnet.co.kr/view/?no=20250222093254</guid>
+            <pubDate>Sun, 23 Feb 2025 01:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[양자컴퓨터의 폭발적인 발전에 따른 디지털 보안 위협이 '밀레니엄 버그(Y2K)'에 비유되고 있다. 디지털 시스템의 광범위한 혼란을 초래할 가능성과 함께 충분한 대응으로 별다른 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["MS와 거리 두나"…오픈AI, 소프트뱅크로 데이터센터 이전 계획]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250223005917</link>
+            <guid>https://zdnet.co.kr/view/?no=20250223005917</guid>
+            <pubDate>Sun, 23 Feb 2025 01:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[오픈AI가 인공지능(AI) 인프라 전략을 대대적으로 개편하며 마이크로소프트(MS) 의존도를 줄이는 계획을 추진 중이라는 보도가 나왔다. 23일 디 인포메이션 등 외신에 따르면 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[젠슨 황 "딥시크, AI 시장 성장 가속화할 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250223011243</link>
+            <guid>https://zdnet.co.kr/view/?no=20250223011243</guid>
+            <pubDate>Sun, 23 Feb 2025 01:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[젠슨 황이 엔비디아 최고경영자(CEO)가 인공지능(AI) 반도체 시장의 미래에 대한 시장의 우려를 일축했다. 그는 딥시크의 AI 모델이 오히려 연산 수요를 늘리고 AI 도입을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI가 불러온 4가지 위험...기업들의 고민 깊어진다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250222221955</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221143219</guid>
             <pubDate>Fri, 21 Feb 2025 06:17:20 GMT</pubDate>
             <content:encoded><![CDATA[현대 AI의 새로운 도전: 70-80%를 차지하는 어텐션 계산 문제 딥시크(DeepSeek)가 발표한 연구 논문에 따르면, 차세대 AI 언어모델에서 긴 문맥 처리 능력이 매우 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 개발자의 상상력을 현실로... MS 연구진, 게임 제작용 AI 모델 개발]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221143000</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221143000</guid>
-            <pubDate>Fri, 21 Feb 2025 06:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 연구진이 네이처(Nature)에 발표한 연구에 따르면, 게임 개발 과정에서 창의적 아이디어 구현을 지원하는 새로운 생성형 AI 모델 'WHAM(World and ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조달청, 공공사업 타깃 보이스피싱 확인…조달업체 주의 당부]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221113000</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221113000</guid>
-            <pubDate>Fri, 21 Feb 2025 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[최근 공공조달 계약 정보를 악용한 보이스피싱 사례가 발생해 조달업체들의 각별한 주의가 요구된다. 21일 조달청에 따르면 특정 수요기관을 사칭해 금융 관련 요구를 하거나 은행 담...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["사람대신 AI로"…스노우플레이크, 데이터 분석·관리 에이전트 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221105031</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221105031</guid>
-            <pubDate>Fri, 21 Feb 2025 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[스노우플레이크가 데이터 전문가 대신 데이터를 분석·관리하는 인공지능(AI) 에이전트를 내놨다. 스노우플레이크는 정형·비정형 데이터에 접근해 자동 업무하는 AI 에이전트 '코텍스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부,  청년 맞춤형 AI 교육에 수백억 투자…업계 "실업자만 늘 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221100939</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221100939</guid>
-            <pubDate>Fri, 21 Feb 2025 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 인공지능(AI) 인력 양성과 고용 창출을 위해 청년 맞춤형 교육과 글로벌 챌린지 개최를 예고한 가운데 업계에선 현실성이 부족하다는 우려가 나왔다. 단기간 교육이 취업으로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
