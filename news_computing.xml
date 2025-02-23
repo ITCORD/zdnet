@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 01:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 02:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["규제보다 혁신"…美 AI 안전연구소 존폐 위기, 英 보안 중심 개편]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250223101928</link>
+            <guid>https://zdnet.co.kr/view/?no=20250223101928</guid>
+            <pubDate>Sun, 23 Feb 2025 02:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[미국과 영국이 인공지능(AI) 안전 정책에서 혁신 중심 기조로 전환하고 있다. 미국 AI 안전 연구소는 대규모 해고 사태를 맞으며 존폐 위기에 놓였고 영국은 기존 AI 안전 연...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["골드바 실종 사태"...은행도 포기한 금 투자, 대안은]]></title>
             <link>https://zdnet.co.kr/view/?no=20250223012852</link>
@@ -36,7 +44,7 @@
             <link>https://zdnet.co.kr/view/?no=20250223011243</link>
             <guid>https://zdnet.co.kr/view/?no=20250223011243</guid>
             <pubDate>Sun, 23 Feb 2025 01:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[젠슨 황이 엔비디아 최고경영자(CEO)가 인공지능(AI) 반도체 시장의 미래에 대한 시장의 우려를 일축했다. 그는 딥시크의 AI 모델이 오히려 연산 수요를 늘리고 AI 도입을 ...]]></content:encoded>
+            <content:encoded><![CDATA[젠슨 황 엔비디아 최고경영자(CEO)가 인공지능(AI) 반도체 시장의 미래에 대한 시장의 우려를 일축했다. 그는 딥시크의 AI 모델이 오히려 연산 수요를 늘리고 AI 도입을 가...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221152734</guid>
             <pubDate>Fri, 21 Feb 2025 07:12:35 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아(NVIDIA)가 미국농아인자녀협회(American Society for Deaf Children)와 크리에이티브 에이전시 헬로먼데이(Hello Monday)와 협력해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 모델의 '긴 문장 처리' 한계 극복…딥시크, 새 어텐션 기술 화제]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250221143219</link>
-            <guid>https://zdnet.co.kr/view/?no=20250221143219</guid>
-            <pubDate>Fri, 21 Feb 2025 06:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[현대 AI의 새로운 도전: 70-80%를 차지하는 어텐션 계산 문제 딥시크(DeepSeek)가 발표한 연구 논문에 따르면, 차세대 AI 언어모델에서 긴 문맥 처리 능력이 매우 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
