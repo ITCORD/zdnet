@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 02:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 03:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 "광고도 콘텐츠다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250223120428</link>
+            <guid>https://zdnet.co.kr/view/?no=20250223120428</guid>
+            <pubDate>Sun, 23 Feb 2025 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[“한국에서 광고 수용도가 가장 높은 미디어 플랫폼으로 자리를 잡았다.” 지난 2022년 11월에 스트리밍 서비스의 광고 요금제를 선보인 넷플릭스가 이처럼 자랑했다. 2년 남짓 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MWC 개막 D-8...글로벌 AI 논의 중심에 통신 3사 출격]]></title>
             <link>https://zdnet.co.kr/view/?no=20250223103026</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220090911</guid>
             <pubDate>Thu, 20 Feb 2025 00:57:15 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전은 지역 정치인과 주민이 소통하는 콘텐츠 '주주포차'에 정치인 참여를 늘릴 계획이라고 20일 밝혔다. 주주포차는 '주민이 주인이 되는 포장마차'라는 뜻으로, 지방자치...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, MWC서 '레드팀 챌린지' 참여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220084401</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220084401</guid>
-            <pubDate>Thu, 20 Feb 2025 00:57:15 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스가 MWC25 기간 중 진행되는 '레드팀 챌린지'(Red Team Challenge)에 참여한다고 20일 밝혔다. 레드팀 챌린지는 전세계 통신사가 개발한 AI 모델의...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
