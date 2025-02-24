@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 09:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 10:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포티넷, '포티애널라이저'에 AI 기능 추가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250224182506</link>
+            <guid>https://zdnet.co.kr/view/?no=20250224182506</guid>
+            <pubDate>Mon, 24 Feb 2025 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[포티넷 한국지사는 24일 '포티애널라이저(FortiAnalyzer)'에 인공지능(AI) 기능을 추가했다. 포티애널라이저는 단일 플랫폼을 기반으로 온-프레미스(내부 구축형)와 클...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[유미's 픽] '블랙웰' 서버 쏟아지는데 韓 '잠잠'…AI 3대 강국 꿈 멀어지나]]></title>
             <link>https://zdnet.co.kr/view/?no=20250224175234</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250224100522</guid>
             <pubDate>Mon, 24 Feb 2025 02:20:45 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기반 비디오 생성 시장의 경쟁이 본격화되는 가운데 구글이 자사 영상 AI인 '비오 2'의 가격을 공개했다. 4K 초고품질 영상을 지원하나, 오픈AI의 '소라'보...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 청소·요리 가능한 멀티모달 AI 공개…가사 로봇 시대 '성큼']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250224103753</link>
-            <guid>https://zdnet.co.kr/view/?no=20250224103753</guid>
-            <pubDate>Mon, 24 Feb 2025 02:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 청소와 요리 등 현실의 가사 노동까지 수행할 수 있는 로봇을 위한 신형 인공지능(AI) 모델을 공개했다. 24일 마이크로소프트는 신형 멀티모달 AI인 '마그마A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
