@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 10:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 11:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 시대, 양자칩의 등장은 무엇을 의미하나]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250224193747</link>
+            <guid>https://zdnet.co.kr/view/?no=20250224193747</guid>
+            <pubDate>Mon, 24 Feb 2025 11:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI)은 이미 우리 사회 곳곳에서 막대한 데이터를 활용해 놀라운 성과를 보여주고 있습니다. 거대 언어 모델(LLM), 영상·음성 생성 AI 같은 초거대 AI 모델들은 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포티넷, '포티애널라이저'에 AI 기능 추가]]></title>
             <link>https://zdnet.co.kr/view/?no=20250224182506</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250224110754</guid>
             <pubDate>Mon, 24 Feb 2025 03:20:56 GMT</pubDate>
             <content:encoded><![CDATA[KT클라우드가 엔비디아의 최신 그래픽처리장치(GPU)를 인공지능(AI) 인프라에 적용하며 GPU 서비스를 한층 강화한다. AI 학습과 추론 워크로드 최적화를 앞세워 공공기관·스...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 영상 생성, 1시간에 250만원"…구글, '비오 2' 초고품질 전략 성공할까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250224100522</link>
-            <guid>https://zdnet.co.kr/view/?no=20250224100522</guid>
-            <pubDate>Mon, 24 Feb 2025 02:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기반 비디오 생성 시장의 경쟁이 본격화되는 가운데 구글이 자사 영상 AI인 '비오 2'의 가격을 공개했다. 4K 초고품질 영상을 지원하나, 오픈AI의 '소라'보...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
