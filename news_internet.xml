@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 01:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 02:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, DM 예약 전송부터 음악 공유까지]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250224094833</link>
+            <guid>https://zdnet.co.kr/view/?no=20250224094833</guid>
+            <pubDate>Mon, 24 Feb 2025 02:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 다이렉트 메시지(DM) 기능에 대규모 업데이트를 단행했다. 이번 업데이트를 통해 사용자들은 DM을 예약 전송하고, 중요한 메시지를 채팅 상단에 고정할 수 있는 등 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["수산물 오해 풀고파 시작한 유튜브...진심 통해”]]></title>
             <link>https://zdnet.co.kr/view/?no=20250223085454</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250219154251</guid>
             <pubDate>Wed, 19 Feb 2025 08:17:53 GMT</pubDate>
             <content:encoded><![CDATA[국회 과학기술정보방송통신위원회가 국내 인공지능(AI) 산업을 이끄는 회사들을 차례로 찾아 AI 산업 진흥과 관련된 다양한 의견을 듣겠다는 계획을 밝혔다. 19일 과방위 야당 간...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신간] 사용자를 속여라! 다크패턴]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250219140003</link>
-            <guid>https://zdnet.co.kr/view/?no=20250219140003</guid>
-            <pubDate>Wed, 19 Feb 2025 05:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2월부터 전자상거래 소비자를 기만하는 '다크패턴' 규제가 강화됐다. 다크패턴(Dark Pattern)이란 사용자를 의도적으로 속이거나 조작하여 원치 않는 행동을 유도하는 기만적...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
