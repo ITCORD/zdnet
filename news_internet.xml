@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 01:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 02:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 지메일, SMS 인증 방식 'QR 코드'로 바꾼다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250225102401</link>
+            <guid>https://zdnet.co.kr/view/?no=20250225102401</guid>
+            <pubDate>Tue, 25 Feb 2025 02:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 지메일의 이중 인증(2FA) 방식으로 사용되던 SMS 메시지 기반의 6자리 인증 코드를 QR 코드로 대체할 예정이다. 로스 리첸드퍼 지메일 대변인은 24일(현지시간) 포...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플래티어, '아틀라시안 룸' 비동기 협업 노하우 푼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250225083328</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250220132053</guid>
             <pubDate>Thu, 20 Feb 2025 05:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2025년 KBO 구단들의 모습을 숲(SOOP, 구 아프리카TV)에서 먼저 만나볼 수 있게 됐다. SOOP은 KBO 구단들의 대만·일본 스프링캠프 연습경기를 생중계한다고 20일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 저비용 고성능 하이퍼클로바X '신모델' 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220100239</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220100239</guid>
-            <pubDate>Thu, 20 Feb 2025 02:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 하이퍼클로바X 플래그십 모델의 업데이트를 완료하고, 20일 사내에 공개했다. 사내 공개된 새로운 하이퍼클로바X 파운데이션 모델(foundation model)을 활용해...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
