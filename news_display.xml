@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 03:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 04:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, 제온 6700/6500 시리즈 프로세서 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250225124644</link>
+            <guid>https://zdnet.co.kr/view/?no=20250225124644</guid>
+            <pubDate>Tue, 25 Feb 2025 04:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[인텔이 25일 고성능 P코어로 최신 데이터센터에 최적화된 제온 6700/6500 시리즈 프로세서를 출시했다. 제온 6700/6500 시리즈 프로세서는 다양한 엔터프라이즈용 워크...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모빌린트, AI칩 에리스 탑재 'MLA100' 출시…"글로벌 시장 공략"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250225092422</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250221082111</guid>
             <pubDate>Fri, 21 Feb 2025 00:57:30 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 정의 차량(SDV) 등 모빌리티 소프트웨어 개발 전문기업인 에이펙스에이아이(Apex.AI)는 LG전자가 자사에 전략적 투자를 단행했다고 21일 밝혔다. 이번 투자는 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머크, GAA·HBM 등 첨단 반도체용 소재 솔루션 선봬]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250220214244</link>
-            <guid>https://zdnet.co.kr/view/?no=20250220214244</guid>
-            <pubDate>Fri, 21 Feb 2025 00:57:30 GMT</pubDate>
-            <content:encoded><![CDATA[머크(Merck)는 세미콘 코리아 2025에서 '머티리얼즈 인텔리전스 플랫폼'을 통해 AI 기반 소재 솔루션과 디지털화 역량을 선보였다고 20일 밝혔다. 올해는 특히 첨단 로직...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
