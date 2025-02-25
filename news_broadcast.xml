@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 06:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT "광고 속 AI송 챌린지 참여하세요"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250225142855</link>
+            <guid>https://zdnet.co.kr/view/?no=20250225142855</guid>
+            <pubDate>Tue, 25 Feb 2025 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 AI송을 활용해 고객 참여형 챌린지 마케팅을 진행하며, 숏폼 콘텐츠를 통한 새로운 소통 방식을 선보인다. 1분 미만 짧은 영상을 뜻하는 '숏폼(Short-form)'의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글 지메일, SMS 인증 방식 'QR 코드'로 바꾼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250225102401</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250224094825</guid>
             <pubDate>Mon, 24 Feb 2025 00:59:16 GMT</pubDate>
             <content:encoded><![CDATA[CJ그룹이 지난 19일부터 3일간 베트남 닌투언성 땀응마을을 찾아 의료봉사를 하고 학생들에게 교복을 후원했다. CJ는 '지역사회와 협력, 상생한다'는 그룹 경영철학에 기반해 한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 "광고도 콘텐츠다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250223120428</link>
-            <guid>https://zdnet.co.kr/view/?no=20250223120428</guid>
-            <pubDate>Sun, 23 Feb 2025 03:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[“한국에서 광고 수용도가 가장 높은 미디어 플랫폼으로 자리를 잡았다.” 지난 2022년 11월에 스트리밍 서비스의 광고 요금제를 선보인 넷플릭스가 이처럼 자랑했다. 2년 남짓 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
