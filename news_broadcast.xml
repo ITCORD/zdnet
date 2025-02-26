@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 02:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 03:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국이 만든 디지털 권리장전, 영국으로 확산]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226111818</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226111818</guid>
+            <pubDate>Wed, 26 Feb 2025 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부와 한국지능정보사회진흥원(NIA)는 영국의 옥스퍼드대학, 데모스(Demos)와 공동으로 진행한 연구과제인 '2025년 디지털 권리 강화:영국, 유럽연합 및 글로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 5G 유심망에 하이브리드 양자안호통신 적용]]></title>
             <link>https://zdnet.co.kr/view/?no=20250226111244</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250225090953</guid>
             <pubDate>Tue, 25 Feb 2025 01:08:27 GMT</pubDate>
             <content:encoded><![CDATA[KT가 국가보훈부와 AI 기반 보훈행정 혁신 및 보훈 기부문화 확산을 위한 업무협약(MOU)을 체결한다고 25일 밝혔다. KT는 국가보훈부의 AI 행정 혁신을 지원하기 위해 최...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, MWC서 산업 현장서 활용되는 AI 기술 쏟아낸다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250225091228</link>
-            <guid>https://zdnet.co.kr/view/?no=20250225091228</guid>
-            <pubDate>Tue, 25 Feb 2025 01:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 내달 3일 스페인 바르셀로나에서 개막하는 MWC25에 산업현장 안전과 고객 정보를 지키는 AI 기술을 선보인다. 첨단 통신 기술과 AI를 접목, 건설 현장의 안전과...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
