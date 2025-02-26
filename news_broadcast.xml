@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신사가 만든 AI 모델, 벤치마크로 품질 평가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226180516</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226180516</guid>
+            <pubDate>Wed, 26 Feb 2025 09:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[세계이동통신사업자연합회(GSMA)가 MWC25 개막을 앞두고 '오픈 텔코 LLM 벤치마크'를 출범한다고 밝혔다. 통신사들이 개발하고 있는 AI 언어 모델을 자체적으로 평가할 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국이 만든 디지털 권리장전, 영국으로 확산]]></title>
             <link>https://zdnet.co.kr/view/?no=20250226111818</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250225092015</guid>
             <pubDate>Tue, 25 Feb 2025 01:08:27 GMT</pubDate>
             <content:encoded><![CDATA[KT가 에릭슨과 저대역 FDD 주파수용 멀티무선 다중입출력 기지국 연구 협력을 진행한다고 25일 밝혔다. 저대역 FDD 주파수에서 활용되는 멀티무선 다중입출력 기지국 기술은 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 국가보훈부와 AX 협력..."보훈 기부 문화 확산"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250225090953</link>
-            <guid>https://zdnet.co.kr/view/?no=20250225090953</guid>
-            <pubDate>Tue, 25 Feb 2025 01:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 국가보훈부와 AI 기반 보훈행정 혁신 및 보훈 기부문화 확산을 위한 업무협약(MOU)을 체결한다고 25일 밝혔다. KT는 국가보훈부의 AI 행정 혁신을 지원하기 위해 최...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

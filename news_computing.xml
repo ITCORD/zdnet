@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ZD SW 투데이] 엔코아, 데이터웨어 영업 파트너사 모집 外]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226172124</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226172124</guid>
+            <pubDate>Wed, 26 Feb 2025 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, AI 네트워크 칩으로 시스코 실리콘 원 선정]]></title>
             <link>https://zdnet.co.kr/view/?no=20250226164125</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250226093129</guid>
             <pubDate>Wed, 26 Feb 2025 00:58:00 GMT</pubDate>
             <content:encoded><![CDATA[솔트룩스이노베이션이 글로벌 언어 인공지능(AI) 기업 딥엘과 손잡고 고객들이 다양한 언어를 사용할 수 있도록 지원에 나선다. 솔트룩스이노베이션은 1만5천 개에 걸친 기업 고객 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈AI, '딥리서치' 개방…챗GPT 프로 전용→'20달러' 사용자로 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226084829</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226084829</guid>
-            <pubDate>Wed, 26 Feb 2025 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈AI가 '딥 리서치' 기능을 월 20달러(한화 약 2만8천원)로 '챗GPT'를 쓰는 사용자들에게도 개방했다. 최근 구글과 퍼플렉시티가 유사한 AI 연구 도구를 보다 값싸게 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
