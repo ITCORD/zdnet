@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 07:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 08:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, AI 네트워크 칩으로 시스코 실리콘 원 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250226164125</link>
+            <guid>https://zdnet.co.kr/view/?no=20250226164125</guid>
+            <pubDate>Wed, 26 Feb 2025 08:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[시스코(Cisco)와 엔비디아(NVIDIA)가 기업의 인공지능(AI) 도입을 가속화하기 위해 파트너십을 확대한다. 26일 시스코와 엔비디아는 AI 지원 데이터 센터 네트워크 구...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['티베로7'로 공공 DB 혁신… 티맥스티베로, 나라장터 엑스포 2025 참가]]></title>
             <link>https://zdnet.co.kr/view/?no=20250226154958</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250226084829</guid>
             <pubDate>Wed, 26 Feb 2025 00:58:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 '딥 리서치' 기능을 월 20달러(한화 약 2만8천원)로 '챗GPT'를 쓰는 사용자들에게도 개방했다. 최근 구글과 퍼플렉시티가 유사한 AI 연구 도구를 보다 값싸게 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공공·기업 MSA 복잡성 해결…오픈마루, 'MSAP.ai' 첫 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226091559</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226091559</guid>
-            <pubDate>Wed, 26 Feb 2025 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈마루가 인공지능(AI) 기반 마이크로서비스 아키텍처(MSA) 플랫폼 'MSAP.ai'를 '코리아 나라장터 엑스포 2025'에서 처음으로 공개한다. 오픈마루는 일산 킨텍스에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
