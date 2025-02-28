@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 20:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 21:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AMD, 라데온 RX 9070·9070 XT 그래픽카드 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228224500</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228224500</guid>
+            <pubDate>Fri, 28 Feb 2025 21:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[AMD가 28일(미국시간) RDNA 4 아키텍처 기반 새 GPU인 라데온 RX 9070·9070 XT를 공개했다. 라데온 RX 9070·9070 XT는 3세대 레이트레이싱 가속...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위닉스, '케어서비스 멤버십' 서비스 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20250228211300</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250227173740</guid>
             <pubDate>Thu, 27 Feb 2025 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[[요코하마(일본)=권봉석 기자] 국내외 주요 PC 제조사들은 지난 해 하반기 이후 CPU, GPU와 NPU(신경망처리장치)를 내장한 프로세서 기반 AI PC를 출시하고 있다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠쿠, 판매명장 시상식 개최]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250227162018</link>
-            <guid>https://zdnet.co.kr/view/?no=20250227162018</guid>
-            <pubDate>Thu, 27 Feb 2025 08:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[종합생활가전 기업 쿠쿠는 지난 21일 우수한 판매 매니저를 선정하는 '판매 명장 시상식'을 개최했다고 27일 밝혔다. 작년에 이어 2회를 맞은 이번 행사는 우수 판매 매니저 선...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
