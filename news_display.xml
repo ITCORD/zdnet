@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 22:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 23:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가격 반등 성공한 DDR5…딥시크·HBM 등이 향후 변수]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228233949</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228233949</guid>
+            <pubDate>Fri, 28 Feb 2025 23:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[고성능 PC용 D램 가격이 지난달 반등에 성공한 것으로 집계됐다. 중국의 저비용·고효율 AI 모델인 딥시크의 등장으로 PC 수요가 덩달아 증가하면서, 이에 대응하는 메모리 판매...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새 엣지 AI 시대 연다...Arm, 초고효율 CPU·플랫폼 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250227120122</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250225085248</guid>
             <pubDate>Tue, 25 Feb 2025 01:08:56 GMT</pubDate>
             <content:encoded><![CDATA[AI 반도체 기업 딥엑스는 다음달 3일부터 스페인에서 열리는 '모바일월드콩그레스'(MWC)에서 LG유플러스와 함께 1세대 칩을 활용한 온디바이스 AI 솔루션을 선보인다고 25일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노티시아, 파인더스와 '보험 AI' 공동 개발 협력 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250225085216</link>
-            <guid>https://zdnet.co.kr/view/?no=20250225085216</guid>
-            <pubDate>Tue, 25 Feb 2025 01:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 전문기업 디노티시아는 보험 설계사 비교 플랫폼 '보인다'를 운영하는 파인더스와 보험 AI 솔루션 공동 개발을 위한 전략적 업무협약(MOU)을 체결했다고 25일 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
