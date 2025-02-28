@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 00:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 02:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통신 3사, 아이폰16e 출시...128GB 출고가 99만원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228104848</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228104848</guid>
+            <pubDate>Fri, 28 Feb 2025 02:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤 KT LG유플러스 등 이동통신 3사가 28일 아이폰16e를 국내에 정식 출시했다. 최저 저장용량 기준 출고가는 99만원이다. 통신 3사가 출시한 아이폰16e는 용량별...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이용횟수 제한 둔 챗GPT...방통위 사실조사 착수]]></title>
             <link>https://zdnet.co.kr/view/?no=20250227164404</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250226110752</guid>
             <pubDate>Wed, 26 Feb 2025 02:18:09 GMT</pubDate>
             <content:encoded><![CDATA[해군사관학교에 스텔스 와이파이가 구축된다. 스텔스 와이파이는 인증되지 않은 사용자에게는 네트워크 자체가 보이지 않는 고도의 보안 네트워크다. 한국전자통신연구원(ETRI)은 26...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT SAT, 스타링크 결합한 멀티궤도 위성통신 솔루션 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250226110435</link>
-            <guid>https://zdnet.co.kr/view/?no=20250226110435</guid>
-            <pubDate>Wed, 26 Feb 2025 02:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[KT SAT이 정지궤도 무궁화위성과 스타링크 결합 통신을 구현하는 차세대 해양 위성 통합솔루션 '엑스웨이브원(XWAVE-ONE)'을 공식 출시했다고 26일 밝혔다. KT SAT...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
