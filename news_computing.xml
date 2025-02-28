@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 02:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 03:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, AI 반도체 수출 제한에 '반기'…美 규제 '완화' 촉구]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228111652</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228111652</guid>
+            <pubDate>Fri, 28 Feb 2025 03:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 트럼프 행정부에 인공지능(AI) 반도체 수출 제한을 완화해 달라고 요청했다. 미국의 동맹국까지 반도체 공급 부족을 겪을 경우 중국이 AI 시장에서 주도권...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[역대 최대 성과 거둔 콤텍시스템, AI 인프라 사업으로 지속성장]]></title>
             <link>https://zdnet.co.kr/view/?no=20250228104929</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250227171227</guid>
             <pubDate>Thu, 27 Feb 2025 08:17:02 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 '마요라나1' 프로젝트를 공개하며 기존 양자컴퓨팅과 다른 새로운 접근법을 제시했다. 토폴로지 큐비트 기반의 양자컴퓨팅 기술을 개발하는 이 프로젝트는 기존 양자컴...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알리바바, 오픈소스 '완2.1' 출시…글로벌 AI 영상 시장 '공략']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250227150509</link>
-            <guid>https://zdnet.co.kr/view/?no=20250227150509</guid>
-            <pubDate>Thu, 27 Feb 2025 08:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[알리바바 클라우드가 인공지능(AI) 영상 생성 모델을 오픈소스로 공개해 기술 개방성을 강화한다. 브랜드 이미지를 제고하는 동시에 자사 클라우드 플랫폼의 글로벌 활용을 확대하려는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
