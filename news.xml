@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 04:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이렇게 하면 털린다"···GS리테일·듀오 해킹 사건 보니]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228160929</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228160929</guid>
+            <pubDate>Sat, 01 Mar 2025 05:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 편의점·홈쇼핑 등을 거느린 대형 유통회사 GS리테일의 홈쇼핑 업체 GS샵에서 고객 개인정보 약 158만건이 유출되는 사고가 발생했다. 이보다 며칠 앞서 회원 수 3만명이 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/28/717723239c2604e248707dea60b04785-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이폰16e 탑재 '애플 C1 모뎀', 성능 알아보니]]></title>
             <link>https://zdnet.co.kr/view/?no=20250301063853</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250228201553</guid>
             <pubDate>Sat, 01 Mar 2025 02:53:53 GMT</pubDate>
             <content:encoded><![CDATA["LG전자가 꿈꾸는 로봇의 미래는 집안에서 가사노동을 전혀 하지 않아도 사람이 편하게 살 수 있는 상태를 만드는 것입니다. 다만 휴머노이드가 인간 노동을 대체하기에는 아직 기술...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/28/16d4a5d33b462c27cec678e68a19e2b0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["소상공인 결국 '피눈물'"…3월 오픈 즉시 '먹통' 된 온누리상품권 통합 앱]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250228224452</guid>
             <pubDate>Fri, 28 Feb 2025 14:12:16 GMT</pubDate>
             <content:encoded><![CDATA[질문: 유우키 사건에 대해 자세히 정리해줘. 그록3 답변: "유우키 사건"에 대해 자세히 정리하기 위해, 현재 날짜(2025년 2월 27일)를 기준으로 사용 가능한 정보와 관련...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나인테크, 작년 매출 1972억원 '역대 최대']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228224235</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228224235</guid>
-            <pubDate>Fri, 28 Feb 2025 14:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[이차전지·반도체 장비 전문기업 나인테크는 작년 연결기준 매출액이 전년 대비 60.3% 증가한 1천972억원을 달성했다고 28일 밝혔다. 설립 이후 역대 최대 실적이다. 영업이익...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
