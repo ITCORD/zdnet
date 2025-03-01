@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 08:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 09:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아이폰17 시리즈, 디자인 이렇게 나온다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228171831</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228171831</guid>
+            <pubDate>Sat, 01 Mar 2025 09:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[올 가을 애플이 출시할 아이폰17 시리즈의 디자인이 점점 좁혀지고 있다. IT매체 나인투파이브맥은 IT팁스터 소니 딕슨이 공개한 아이폰17 시리즈의 CAD 파일 기반 이미지를 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이폰16e 탑재 '애플 C1 모뎀', 성능 알아보니]]></title>
             <link>https://zdnet.co.kr/view/?no=20250301063853</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250228080101</guid>
             <pubDate>Fri, 28 Feb 2025 00:58:30 GMT</pubDate>
             <content:encoded><![CDATA[애플이 내년 2월 보급형 아이폰 '아이폰16e'의 다음 버전인 '아이폰17e'를 출시할 가능성이 높다는 소식이 나왔다. IT매체 맥루머스는 27일(현지시간) 시장조사기관 CIR...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰17 프로, 12GB 램 갖출까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228075450</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228075450</guid>
-            <pubDate>Fri, 28 Feb 2025 00:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[올 가을 출시될 아이폰17 프로 모델에 12GB 램이 장착될 것이라는 전망이 나왔다. 나인투파이브맥 등 외신들은 최근 GF증권 제프 푸 분석가의 보고서를 인용해 아이폰17 프로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
