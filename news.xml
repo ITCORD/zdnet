@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 09:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MWC25 개막 D-1...네트워크 기술 경쟁 판도 바뀐다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250302172718</link>
+            <guid>https://zdnet.co.kr/view/?no=20250302172718</guid>
+            <pubDate>Sun, 02 Mar 2025 09:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[[바르셀로나(스페인)=박수형 기자] LTE와 스마트폰, 5G 상용화를 이끈 MWC 논의 향방이 6G에 다다르기 시작했다. 상용화 예정 시기가 5년 가까이 남았지만, 차세대 네트...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/02/3c63423192a665ecdbe1b1ef643d2ab6-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["韓·美 합심해 만든 전기차"…캐딜락 '리릭'에 담긴 기술]]></title>
             <link>https://zdnet.co.kr/view/?no=20250302010713</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250301165657</guid>
             <pubDate>Sun, 02 Mar 2025 05:12:25 GMT</pubDate>
             <content:encoded><![CDATA["휴머노이드(인간형) 로봇의 손에 주목해보면 아직까지는 사람보다는 좀 크지만, 점차 더 작고 정밀해지고 있어요. 앞으로 1년 이내에 한국에서 사람 손 크기의 로봇 핸드가 나올 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/01/ad86b6f1b6850265f787a64a270987e0-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[르노코리아, '올해의 SUV' 3관왕 오른 그랑 콜레오스 혜택 쏜다]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250301082957</guid>
             <pubDate>Sun, 02 Mar 2025 01:01:50 GMT</pubDate>
             <content:encoded><![CDATA[급격한 기온변화로 인해 뇌졸중 위험이 커지고 있어 주의를 기울여야 하겠다. 건강보험심사평가원에 따르면, 지난 2022년 뇌졸중으로 진료를 받은 환자는 60만 명을 돌파했다. 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠 폭발 시대...생성형 AI로 주도권 잡는 법]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250302093200</link>
-            <guid>https://zdnet.co.kr/view/?no=20250302093200</guid>
-            <pubDate>Sun, 02 Mar 2025 01:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[2026년까지 마케팅 업무 42% 대체할 생성형 AI, 생산성 40% 향상 예상 생성형 인공지능(GenAI)이 창의적 콘텐츠 제작의 미래를 새롭게 그리고 있다. IDC의 연구에...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
