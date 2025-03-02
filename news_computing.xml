@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 01:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 02:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공장 속 기계도 생각해야"…버추얼 트윈으로 안전 강화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250302060919</link>
+            <guid>https://zdnet.co.kr/view/?no=20250302060919</guid>
+            <pubDate>Sun, 02 Mar 2025 02:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[[휴스턴(미국)=김미정 기자] 가상 환경에서 인지 능력을 갖춘 로봇 설계부터 테스트까지 진행돼야 한다는 주장이 나왔다. 로봇 인지 기능을 시뮬레이션해야 작동 오류를 방지할 수 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI로 제품 견적·제작 도와"…다쏘시스템 '솔리드웍스 CPQ' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250302041627</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250228125824</guid>
             <pubDate>Fri, 28 Feb 2025 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[옵스나우, AI CMP '프라임' 출시 임박…하이브리드 클라우드 공략 '가속화']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228115004</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228115004</guid>
-            <pubDate>Fri, 28 Feb 2025 05:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[옵스나우가 설치형 클라우드 관리 시장에 본격 진출한다. 온프레미스·퍼블릭 클라우드 통합 관리 시장을 적극 공략함으로써 시장 경쟁력을 강화하고 차세대 클라우드 운영 최적화를 선도...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
