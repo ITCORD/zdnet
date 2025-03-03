@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 23:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 01:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애플, 시리 업그레이드 출시 지연…AI 인프라 확보 난항"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250303082516</link>
+            <guid>https://zdnet.co.kr/view/?no=20250303082516</guid>
+            <pubDate>Mon, 03 Mar 2025 00:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 인공지능(AI) 인프라 확보 어려움으로 인해 대화형 비서 '시리' 업그레이드 버전 출시가 지연되고 있는 것으로 전해졌다. 더 버지 등 외신은 3일 시리가 기존보다 자연스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 첫 멀티모달 SLM 공개…저비용·고효율 AI 구현]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250303041034</link>
+            <guid>https://zdnet.co.kr/view/?no=20250303041034</guid>
+            <pubDate>Mon, 03 Mar 2025 00:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 소규모 언어 모델(SLM) 제품군 파이(Phi)의 신규 모델 2종을 발표했다. 이번 모델들은 적은 컴퓨팅 자원으로도 멀티모달 처리와 경량화된 고성능 AI 모델의...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["공장 속 기계도 생각해야"…버추얼 트윈으로 안전 강화]]></title>
             <link>https://zdnet.co.kr/view/?no=20250302060919</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250228150607</guid>
             <pubDate>Fri, 28 Feb 2025 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[휴렛팩커드 엔터프라이즈(HPE)가 하이브리드 클라우드 운영 모델 전환을 지원하는 가상화 솔루션을 통해 기업의 비용 부담과 벤더 락인 문제를 완화한다. 합리적인 가격 모델과 파트...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자동차 보안 필수 시대…아우토크립트, SDV 맞춤 보안 인프라 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228150944</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228150944</guid>
-            <pubDate>Fri, 28 Feb 2025 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[아우토크립트(대표 김덕수)가 글로벌 자동차 보안 법규 대응을 위한 통합 보안 패키지를 선보인다. 아우토크립트는 소프트웨어 정의 차량(SDV) 제작사를 위한 소프트웨어 보안 인프...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] AI 법제화에 따른 기업의 대응 전략]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228125824</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228125824</guid>
-            <pubDate>Fri, 28 Feb 2025 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
