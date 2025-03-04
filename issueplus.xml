@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 09:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 HBM용 본딩 고민하는 삼성전자, '플럭스리스' 평가 돌입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304104600</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304104600</guid>
+            <pubDate>Tue, 04 Mar 2025 09:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 고적층 HBM 플럭스리스 시대가 온다①]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/10/20/c0f031dbdb0c3457dfdff5f7953fab5b-300x300.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘IPO 기대주’만 몇 년째…컬리, 올해는 상장할까]]></title>
             <link>https://zdnet.co.kr/view/?no=20250227164443</link>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 05 Feb 2025 16:17:03 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 새 먹거리 'SiC·GaN 전력반도체' 개발 경쟁 후끈]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/06/26/d3aff00428a80104bf5ed470a185dce4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4이통사가 꼭 필요했었나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240618103829</link>
-            <guid>https://zdnet.co.kr/view/?no=20240618103829</guid>
-            <pubDate>Wed, 05 Feb 2025 16:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 무산된 제4이통, 통신 경쟁정책 재검토 필요]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2021/01/31/9f25f693e3d04a16b625573370812990-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
