@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 02:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 03:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥시크, '545%' 이익 주장…AI 경제성 주장에 '허수 계산' 논란]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304095444</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304095444</guid>
+            <pubDate>Tue, 04 Mar 2025 03:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[중국 인공지능(AI) 스타트업 딥시크가 자사 모델이 비용 대비 5배 이상의 수익을 낼 수 있다고 주장했다. 회사가 거둔 매출이 아닌 이론적 가정에 기반한 수치로, AI 산업의 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["의료진 업무 부담↓"…마이크로소프트, '드래곤 코파일럿' 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250304105454</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250228163507</guid>
             <pubDate>Fri, 28 Feb 2025 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[인터넷은 우리 일상에 깊숙하게 자리 잡은 필수 도구다. 하지만 그 이면에는 해킹, 보이스 피싱, 계정 도용 등 점점 더 지능화되는 사이버 범죄가 도사리고 있어 개인 정보 보호가...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] "해외 SaaS 고속 성장, 한국은 24%"…정부, 지원금 풀고 클라우드 동맹 추진]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228153102</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228153102</guid>
-            <pubDate>Fri, 28 Feb 2025 08:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 국내 서비스형 소프트웨어(SaaS) 기업의 경쟁력 강화를 위해 클라우드 인프라 제공업체(CSP) 및 관리 서비스 제공업체(MSP)와의 협력을 확대한다. SaaS 기업이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
