@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 01:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 02:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["의료진 업무 부담↓"…마이크로소프트, '드래곤 코파일럿' 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304105454</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304105454</guid>
+            <pubDate>Tue, 04 Mar 2025 02:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 인공지능(AI)으로 의료진 업무 과중을 줄이고 의료 서비스 효율성을 높인다. 마이크로소프트는 의료용 AI 음성비서와 문서화 기술을 결합한 '드래곤 코파일럿'을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS·SKT 출신 영입한 현대오토에버, SW 개발 역량 강화 가속]]></title>
             <link>https://zdnet.co.kr/view/?no=20250304094649</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250228153102</guid>
             <pubDate>Fri, 28 Feb 2025 08:16:26 GMT</pubDate>
             <content:encoded><![CDATA[정부가 국내 서비스형 소프트웨어(SaaS) 기업의 경쟁력 강화를 위해 클라우드 인프라 제공업체(CSP) 및 관리 서비스 제공업체(MSP)와의 협력을 확대한다. SaaS 기업이 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국제인공지능윤리협회-행복ICT 맞손…AI로 디지털 격차 해소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250228124435</link>
-            <guid>https://zdnet.co.kr/view/?no=20250228124435</guid>
-            <pubDate>Fri, 28 Feb 2025 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[국제인공지능윤리협회(IAAE)가 SK 계열 공익법인과 협력해 취약계층의 인공지능(AI) 및 디지털 역량을 키우고 고용 기회를 확대한다. IAAE는 행복ICT와 '인공지능과 인공...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
