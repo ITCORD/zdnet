@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 05:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 06:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠시스, 장학재단 공평 제2기 장학생 선발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250304130903</link>
+            <guid>https://zdnet.co.kr/view/?no=20250304130903</guid>
+            <pubDate>Tue, 04 Mar 2025 06:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[카메라모듈 솔루션 전문기업 캠시스가 장학재단 공평의 제2기 장학생을 선발했다고 4일 밝혔다. 캠시스 본사에서 열린 이번 수여식에는 장학재단 공평 백용호 이사장을 비롯해 전영섭 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퀄컴, X85 5G 모뎀-RF 시스템 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250304093048</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TSMC, 美에 145조원 추가 투자 발표]]></title>
+            <title><![CDATA[TSMC, 美에 145조원 추가 투자...트럼프 "놀라운 일"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250304073051</link>
             <guid>https://zdnet.co.kr/view/?no=20250304073051</guid>
             <pubDate>Tue, 04 Mar 2025 00:59:41 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250224142425</guid>
             <pubDate>Tue, 25 Feb 2025 07:13:33 GMT</pubDate>
             <content:encoded><![CDATA[한·중·일은 지금 첨단 반도체 기술 전쟁이 한창이다. 인공지능(AI) 가속기에 쓰이는 HBM(고대역폭메모리)를 비롯해 집적도가 장점인 차세대 낸드플래시(NAND Flash) 분...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 제온 6700/6500 시리즈 프로세서 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250225124644</link>
-            <guid>https://zdnet.co.kr/view/?no=20250225124644</guid>
-            <pubDate>Tue, 25 Feb 2025 04:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[인텔이 25일 고성능 P코어로 최신 데이터센터에 최적화된 제온 6700/6500 시리즈 프로세서를 출시했다. 제온 6700/6500 시리즈 프로세서는 다양한 엔터프라이즈용 워크...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
