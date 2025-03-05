@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 17:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 18:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 통신업계에 중동 지역 영향력 커졌다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250306005902</link>
+            <guid>https://zdnet.co.kr/view/?no=20250306005902</guid>
+            <pubDate>Wed, 05 Mar 2025 18:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[[바르셀로나(스페인)=박수형 기자] 글로벌 통신 업계에서도 오일머니 바람이 불기 시작한 듯이 보인다. 통신장비 선두 주자인 화웨이를 비롯해 ZTE, 레노버, 샤오미, 아너 등이...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[원격관제 로봇이 AI를 품었다...휴머노이드 발전 가속도]]></title>
             <link>https://zdnet.co.kr/view/?no=20250305183533</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250304114152</guid>
             <pubDate>Tue, 04 Mar 2025 03:22:54 GMT</pubDate>
             <content:encoded><![CDATA[국내 주요 가상자산 거래소가 위믹스를 거래유의 종목으로 지정했다. 디지털자산 거래소 공동협의체(DAXA)는 4일 위믹스 공식 브릿지 볼트에서 발생한 해킹 사건과 이에 따른 공시...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 구글과 AI 전방위 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250304111109</link>
-            <guid>https://zdnet.co.kr/view/?no=20250304111109</guid>
-            <pubDate>Tue, 04 Mar 2025 02:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[[바르셀로나(스페인)=박수형 기자] LG유플러스가 구글과 AI 분야 글로벌 시장 공략에 나선다. LG유플러스의 AI 에어진트 서비스인 '익시오(ixi-O)'의 기능을 확대하고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
