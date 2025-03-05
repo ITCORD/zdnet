@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 07:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 08:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, '좌표찍기' 당한 기사 언론사에 알려준다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250305154218</link>
+            <guid>https://zdnet.co.kr/view/?no=20250305154218</guid>
+            <pubDate>Wed, 05 Mar 2025 08:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[네이버가 기사에 어뷰징 트래픽이 감지되면 언론사에 통보해 댓글 운영 방침을 결정할 수 있도록 하는 시스템을 출시할 계획이다. 5일 국회 과학기술정보방송통신위원회 전체회의에서 증...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오 준신위 "올해 준법시스템 고도화·준법경영 체계 마련 목표"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250305113034</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250227145616</guid>
             <pubDate>Thu, 27 Feb 2025 06:18:10 GMT</pubDate>
             <content:encoded><![CDATA[카카오(대표 정신아)는 핵심 사업별 역량 결집을 위한 조직 개편을 진행했다고 27일 밝혔다. 카카오톡 기반의 각종 사업 영역을 통합한 CPO(Chief Product Offic...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터 웹툰 비밀 사이, 드라마로 나온다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250227093828</link>
-            <guid>https://zdnet.co.kr/view/?no=20250227093828</guid>
-            <pubDate>Thu, 27 Feb 2025 00:58:35 GMT</pubDate>
-            <content:encoded><![CDATA[카카오엔터테인먼트(대표 권기수, 장윤중)는 1.7억뷰 인기 웹툰 '비밀 사이'가 드라마, 웹소설, OST 등으로 성공적인 IP 확장 중이라고 27일 밝혔다. 특히 드라마 '비밀...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
