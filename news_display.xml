@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 06:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 07:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SK하이닉스, CIS 사업부문서 철수…"AI 메모리에 역량 집중"]]></title>
+            <title><![CDATA[마이크론, 前 TSMC 회장 영입…HBM 역량 강화 포석]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250306141900</link>
+            <guid>https://zdnet.co.kr/view/?no=20250306141900</guid>
+            <pubDate>Thu, 06 Mar 2025 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[미국 마이크론이 파운드리 업계 1위 TSMC의 회장직을 역임한 마크 리우를 신임 이사로 영입했다. 차세대 HBM(고대역폭메모리)에서 로직 다이(HBM의 컨트롤러 기능을 담당하는...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, CIS 사업서 철수…"AI 메모리에 역량 집중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250306150135</link>
             <guid>https://zdnet.co.kr/view/?no=20250306150135</guid>
             <pubDate>Thu, 06 Mar 2025 06:19:01 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250304073051</guid>
             <pubDate>Tue, 04 Mar 2025 00:59:41 GMT</pubDate>
             <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 미국에 1천억 달러(약 145조원)를 추가 투자할 계획이라고 CNBC 등 외신이 3일(현지시간) 보도했다. 추가 투자분은 세부적으로 반도체 공장 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKC, MWC25 첫 참가…반도체 '글라스기판' 실물 전시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250303103514</link>
-            <guid>https://zdnet.co.kr/view/?no=20250303103514</guid>
-            <pubDate>Mon, 03 Mar 2025 02:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[SKC는 3~6일(현지 시간)까지 열리는 세계 최대 모바일 전시회인 'MWC25'에서 글라스기판을 선보인다고 3일 밝혔다. SKC는 SK텔레콤이 운영하는 전시관 내 AI DC ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
