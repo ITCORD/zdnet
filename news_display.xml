@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 08:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔, MWC25서 제온6 SoC 기반 vRAN 솔루션 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250306173044</link>
+            <guid>https://zdnet.co.kr/view/?no=20250306173044</guid>
+            <pubDate>Thu, 06 Mar 2025 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[인텔은 지난 3일(현지시각) 개막해 6일까지 스페인 바르셀로나에서 개최되는 'MWC25'에서 AI 기반 네트워크 기술과 제온6 시스템온칩(SoC)을 활용한 차세대 통신 솔루션을...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 마이크론, 前 TSMC 회장 영입…HBM 역량 강화 포석]]></title>
             <link>https://zdnet.co.kr/view/?no=20250306141900</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250304093048</guid>
             <pubDate>Tue, 04 Mar 2025 00:59:41 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴이 4일 다양한 기기의 5G 통신을 지원하는 X85 5G 모뎀-RF 플랫폼을 공개했다. X85 5G 모뎀-RF 솔루션은 퀄컴 8세대 모뎀-투-안테나 솔루션과 4세대 AI 기...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 美에 145조원 추가 투자...트럼프 "놀라운 일"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250304073051</link>
-            <guid>https://zdnet.co.kr/view/?no=20250304073051</guid>
-            <pubDate>Tue, 04 Mar 2025 00:59:41 GMT</pubDate>
-            <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 미국에 1천억 달러(약 145조원)를 추가 투자할 계획이라고 CNBC 등 외신이 3일(현지시간) 보도했다. 추가 투자분은 세부적으로 반도체 공장 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
