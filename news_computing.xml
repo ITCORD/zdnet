@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 05:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SW엔지니어링진흥협회 4대 새 회장에 이창근]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250309134139</link>
+            <guid>https://zdnet.co.kr/view/?no=20250309134139</guid>
+            <pubDate>Sun, 09 Mar 2025 05:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[소프트웨어엔지니어링진흥협회(KOSEPA, Korea Software Engineering Promotion Association)는 5일 서울 구로에서 개최한 총회에서 이창근 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, AI 연구팀 방향 수정…'형평성'·'다양성' 키워드 지워]]></title>
             <link>https://zdnet.co.kr/view/?no=20250309085218</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250307162941</guid>
             <pubDate>Fri, 07 Mar 2025 08:17:10 GMT</pubDate>
             <content:encoded><![CDATA[테크크런치(TechCrunch)가 6일 보도한 내용에 따르면, 오픈AI(OpenAI)의 인공지능 기반 챗봇 플랫폼인 챗GPT가 맥OS(macOS) 사용자들을 위한 직접 코드 편...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몽고DB, 예상 웃돈 실적에도 주가 급락…"보수적 전망 원인"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250307162302</link>
-            <guid>https://zdnet.co.kr/view/?no=20250307162302</guid>
-            <pubDate>Fri, 07 Mar 2025 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[몽고DB가 시장 예상치를 뛰어넘는 실적을 기록했지만 보수적인 성장 전망치로 인해 주가가 급락했다. 7일 업계에 따르면 몽고DB의 2025 회계연도 4분기 총매출은 5억4천800...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
