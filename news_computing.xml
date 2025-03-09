@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 06:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 07:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI스페라, 국내 첫 ASM·CTI 전문 컨퍼런스 'CIPC 2025' 성료]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250309152208</link>
+            <guid>https://zdnet.co.kr/view/?no=20250309152208</guid>
+            <pubDate>Sun, 09 Mar 2025 07:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[국내 첫 공격표면관리(ASM)·위협 인텔리전스(CTI) 전문 컨퍼런스인 'CIPC 2025'가 6일 삼성동 그랜드 인터컨티넨탈 파르나스에서 성공적으로 막을 내렸다. AI 사이버...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[부산정보산업진흥원 조직 재편···정책기획단 신설]]></title>
             <link>https://zdnet.co.kr/view/?no=20250309142708</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250307170919</guid>
             <pubDate>Fri, 07 Mar 2025 09:13:42 GMT</pubDate>
             <content:encoded><![CDATA[IBM이 2029년까지 오류 수정 기술을 완성하고 10만 큐비트, 1억 게이트 규모의 양자 컴퓨터를 기반으로 양자우위를 입증해 상용화를 추진한다. IBM의 제이 감베타 퀀텀 부...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BYD 타면 개인정보 유출?…중국 전기차 소문 사실일까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250307153328</link>
-            <guid>https://zdnet.co.kr/view/?no=20250307153328</guid>
-            <pubDate>Fri, 07 Mar 2025 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[중국 자동차를 타면 개인정보가 유출될 수 있다는 소문이 퍼졌다. 특히 중국 최대 전기차 회사 비야디(BYD)가 중국 생성형 인공지능(AI) '딥시크'를 기반으로 자율주행 기능을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
