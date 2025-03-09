@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 07:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 08:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부 "국가AI컴퓨팅센터 참여 기업, GPU 공급 확약서 내야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250309162132</link>
+            <guid>https://zdnet.co.kr/view/?no=20250309162132</guid>
+            <pubDate>Sun, 09 Mar 2025 08:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[2조5천억원 규모 '국가인공지능(AI)컴퓨팅센터' 구축 사업에 참여하려는 기업들은 고성능 칩을 안정적으로 확보할 수 있다는 것을 증명하기 위해 'AI 반도체 공급 확약서'를 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI스페라, 국내 첫 ASM·CTI 전문 컨퍼런스 'CIPC 2025' 성료]]></title>
             <link>https://zdnet.co.kr/view/?no=20250309152208</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250307172045</guid>
             <pubDate>Fri, 07 Mar 2025 09:13:42 GMT</pubDate>
             <content:encoded><![CDATA[정부의 국가 인공지능(AI) 컴퓨팅센터 구축 사업이 본격화되면서 2조원 규모의 AI 인프라 프로젝트에 100여 개 기업·기관이 몰렸다. 대규모 AI 인프라 확충이 예고되면서 통...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] IBM "2029년 내 오류수정 기술 완료"…양자 상용화 본격화 신호]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250307170919</link>
-            <guid>https://zdnet.co.kr/view/?no=20250307170919</guid>
-            <pubDate>Fri, 07 Mar 2025 09:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[IBM이 2029년까지 오류 수정 기술을 완성하고 10만 큐비트, 1억 게이트 규모의 양자 컴퓨터를 기반으로 양자우위를 입증해 상용화를 추진한다. IBM의 제이 감베타 퀀텀 부...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
