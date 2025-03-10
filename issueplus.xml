@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 07:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 08:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·TSMC가 주목한 CPO 패키징…'플럭스리스 본딩' 적용 기대]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250310161106</link>
+            <guid>https://zdnet.co.kr/view/?no=20250310161106</guid>
+            <pubDate>Mon, 10 Mar 2025 08:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[[이슈진단+] 실리콘 포토닉스, 플럭스리스 시대가 온다③]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/10/c1ea820de72a69e57e8e2f899d99c45c-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, CoWoS에 '플럭스리스 본딩' 적용 추진…AI칩 대형화에 대응]]></title>
             <link>https://zdnet.co.kr/view/?no=20250306104359</link>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 05 Feb 2025 16:17:03 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] 카카오 쇄신·AI 사업 '시계제로']]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2023/10/23/1e38db911c62bd6b92bd418353a52422-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["위믹스로 게임 결제"...위믹스페이, 세 가지 쟁점은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240716184426</link>
-            <guid>https://zdnet.co.kr/view/?no=20240716184426</guid>
-            <pubDate>Wed, 05 Feb 2025 16:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] '위믹스 페이' 등장, 시장 관심 집중]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/07/16/4a05dfcd0acd9886e31c87d75e74f37f-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
