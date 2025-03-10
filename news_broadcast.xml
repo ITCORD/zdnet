@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 06:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 07:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1만원대 5G 알뜰폰 요금제, 데이터 20GB까지 늘렸다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250310150344</link>
+            <guid>https://zdnet.co.kr/view/?no=20250310150344</guid>
+            <pubDate>Mon, 10 Mar 2025 07:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[월 1만원대에 5G 데이터 20GB를 제공하는 알뜰폰 요금제가 속속 등장하고 있다. 정부의 알뜰폰 활성화 정책에 따라 마련된 새로운 도매대가 체계에서 1만원대 10GB 데이터 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI 서비스, 시작부터 글로벌"...국회 정책토론회 열린다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250310124944</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250306170348</guid>
             <pubDate>Thu, 06 Mar 2025 08:16:35 GMT</pubDate>
             <content:encoded><![CDATA[한국전자통신연구원(ETRI)이 6G 저궤도 위성통신 기술 개발에 속도를 내기 위해 유럽우주국(ESA)과 손을 잡았다. ETRI는 5일(현지시간) 스페인 바르셀로나 모바일월드콩그...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 엘리스그룹과 AIDC 모듈러 협력 협약 체결]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250306155452</link>
-            <guid>https://zdnet.co.kr/view/?no=20250306155452</guid>
-            <pubDate>Thu, 06 Mar 2025 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[[바르셀로나(스페인)=박수형 기자] SK텔레콤과 엘리스그룹이 MWC25가 열리는 스페인 바르셀로나에서 AI 데이터센터 모듈러 분야 협력을 위한 업무협약을 체결했다. 지난 201...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
