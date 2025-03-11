@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 23:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 01:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS-카이스트, '에이머' 한국형 양자내성암호 최종 선정]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250311094425</link>
+            <guid>https://zdnet.co.kr/view/?no=20250311094425</guid>
+            <pubDate>Tue, 11 Mar 2025 01:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[삼성SDS는 카이스트(KAIST)와 산학협력으로 개발한 '에이머(AIMer)' 알고리즘이 국가공모전인 'KpqC공모전'의 전자서명용 양자내성암호 알고리즘 분야에서 최종 알고리즘...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이동환 고양시장 마음AI 방문···고양시 스마트 서비스에 접목 관심]]></title>
             <link>https://zdnet.co.kr/view/?no=20250310230139</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250310153556</guid>
             <pubDate>Mon, 10 Mar 2025 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[IT 업계에서 30년 이상 경력을 보유한 베테랑으로 평가 받는 장인수 전 베스핀글로벌 한국 총괄 대표가 이노룰스로 자리를 옮긴다. 그간의 노하우를 바탕으로 인공지능(AI) 시대...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ZD SW 투데이] 와들, AI 에이전트 '젠투' 커머스 AX 전략 웨비나 개최 外]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250310141322</link>
-            <guid>https://zdnet.co.kr/view/?no=20250310141322</guid>
-            <pubDate>Mon, 10 Mar 2025 07:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
