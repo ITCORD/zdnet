@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 13:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 14:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파이코 "DIP 기반 BT들이 기업 성장 좌우"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250311222958</link>
+            <guid>https://zdnet.co.kr/view/?no=20250311222958</guid>
+            <pubDate>Tue, 11 Mar 2025 14:14:02 GMT</pubDate>
+            <content:encoded><![CDATA["파이코(FICO) 플랫폼은 비즈니스 테크놀로지스트(Business Technologist, BT)들이 대 고객서비스를 개발할 수 있는 의사결정플랫폼(DIP, Decision ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/11/0600fa139bee00f47aa76b50c1c2ef52-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 헬스케어, 혁신인가 불공정한 기술인가]]></title>
             <link>https://zdnet.co.kr/view/?no=20250311222127</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250311160811</guid>
             <pubDate>Tue, 11 Mar 2025 08:16:43 GMT</pubDate>
             <content:encoded><![CDATA["우리는 벤처 기업들이 인공지능 전환(AX)을 통해 실질적인 효용을 창출하도록 지원합니다. 오늘 이 자리에서 인공지능(AI)이 산업별로 어떻게 활용되고 있는지와 변화·혁신을 추...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 필수의약품 아시아 의존 탈피 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250311165205</link>
-            <guid>https://zdnet.co.kr/view/?no=20250311165205</guid>
-            <pubDate>Tue, 11 Mar 2025 08:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[유럽연합에서 항생제 등 필수의약품의 아시아 의존을 탈피하려는 움직임이 본격화되고 있다. 총 11개국은 자국 보건부 장관 명의로 9일(현지 시각) 유로뉴스(EURO News) 기...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
