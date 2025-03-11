@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 07:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뛰는 TSMC, 뒷걸음치는 삼성...파운드리 격차 더 벌어져]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250311161225</link>
+            <guid>https://zdnet.co.kr/view/?no=20250311161225</guid>
+            <pubDate>Tue, 11 Mar 2025 08:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 4분기 전 세계 파운드리 시장이 견조한 AI 반도체 수요에 힘입어 규모를 확대했다. 특히 업계 1위인 TSMC의 성장이 두드러지면서 삼성전자 파운드리 사업과의 격차를 확...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소테리아, 설계 자동화 툴 'DEF 지니' 개발…"AI칩 시장서 우위 확보"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250311143258</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250306104359</guid>
             <pubDate>Thu, 06 Mar 2025 06:19:01 GMT</pubDate>
             <content:encoded><![CDATA[대만 주요 파운드리 TSMC가 첨단 패키징 기술인 '플럭스리스(Fluxless)' 본딩을 적용하는 방안을 추진 중이다. 지난해부터 관련 장비를 도입해 평가를 진행해 온 것으로 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ISC, 한국거래소 주관 '코스닥시장 공시우수법인' 선정]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250306092149</link>
-            <guid>https://zdnet.co.kr/view/?no=20250306092149</guid>
-            <pubDate>Thu, 06 Mar 2025 02:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 테스트 솔루션 기업 아이에스시는 한국거래소가 선정한 '2024년도 코스닥시장 공시우수법인'으로 지정됐다고 6일 밝혔다. 공시우수법인제도는 자본시장의 경영 투명성 제고 및...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
