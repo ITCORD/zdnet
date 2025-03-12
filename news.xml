@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 21:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 22:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KOSA "韓 AI 인프라, 세계 6위…현실은 반도체·데이터·소프트웨어 모두 밀려"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250312175143</link>
+            <guid>https://zdnet.co.kr/view/?no=20250312175143</guid>
+            <pubDate>Wed, 12 Mar 2025 22:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[국내 인공지능(AI) 인프라 경쟁력이 높게 평가받았음에도 실제로는 주요 기술에서 글로벌 경쟁에 뒤처지고 있다는 연구결과가 나왔다. AI 반도체, 데이터센터, 네트워크, 알고리즘...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/12/796d8bc9ca683e55b09b04b0e4d0b9d1-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보스반도체, 유럽 자동차 OEM과 'ADAS 칩렛' 반도체 개발 계약]]></title>
             <link>https://zdnet.co.kr/view/?no=20250312181901</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250312181859</guid>
             <pubDate>Wed, 12 Mar 2025 21:11:48 GMT</pubDate>
             <content:encoded><![CDATA[보스반도체가 최근 유럽의 자동차 회사와 차세대 자율주행 시스템을 위한 ADAS(첨단 운전자 지원 시스템) 칩렛 반도체 개발 계약을 체결했다고 12일 밝혔다. 이번 협력을 통해 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/12/45af5e077462d9fd9cd07ecb4c23623c-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엑셈, 성능 대폭 향상 '엑셈원' 으로 클라우드 시장 공략 가속]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250312181942</guid>
             <pubDate>Wed, 12 Mar 2025 10:14:35 GMT</pubDate>
             <content:encoded><![CDATA[상업용 냉동·냉장 전문기업 CRK는 냉동·냉장 통합관제 솔루션 'CRK 스퀘어'를 출시한다고 12일 밝혔다. 스퀘어는 아마존 웹서비스(AWS) 클라우드 시스템 기반 사물인터넷(...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한기대, '메타 스튜디오' 오픈···훈련기관 등 지원]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250312181758</link>
-            <guid>https://zdnet.co.kr/view/?no=20250312181758</guid>
-            <pubDate>Wed, 12 Mar 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국기술교육대학교(KOREATECH) 온라인평생교육원이 캐릭터·공예·건축·게임·방송·광고 등 3D 스캔 및 최첨단 영상 관련 교육을 운영하는 직업훈련기관의 교육 역량을 강화할 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
