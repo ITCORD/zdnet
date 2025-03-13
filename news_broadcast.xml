@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 07:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 08:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["OTT 시대, 통합시청률 측정 전담기구 시급"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250313160702</link>
+            <guid>https://zdnet.co.kr/view/?no=20250313160702</guid>
+            <pubDate>Thu, 13 Mar 2025 08:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[미디어 환경이 급변하면서 기존의 TV 시청률 측정 방식으로는 다양한 플랫폼에서 이루어지는 콘텐츠 소비를 제대로 측정할 수 없다는 지적이 나왔다. 전문가들은 영국, 미국, 일본 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[CJ ENM, 국내 최초 AI로 간접광고 제작]]></title>
             <link>https://zdnet.co.kr/view/?no=20250313155349</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250312111206</guid>
             <pubDate>Wed, 12 Mar 2025 04:15:27 GMT</pubDate>
             <content:encoded><![CDATA[티빙이 '2025 KBO 리그' 이어 KBO 리그의 미래인 퓨처스리그까지 중계 서비스를 확대한다고 12일 밝혔다. 티빙은 한국 프로야구 발전에 기여하고 야구 팬들에게 다양한 볼...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 강국 위해 컴퓨팅 인프라 확충...GPU 조기 확보 절실"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250312074144</link>
-            <guid>https://zdnet.co.kr/view/?no=20250312074144</guid>
-            <pubDate>Wed, 12 Mar 2025 02:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[한국이 AI 강국 G3로 도약하기 위해서는 컴퓨팅 인프라, 특히 GPU 확보가 '생존의 문제'라는 진단이 나왔다. 이에 정부와 산업계는 한목소리로 GPU 인프라 확충의 시급성을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
