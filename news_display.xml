@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 03:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 04:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TI, 최소형 MCU 개발…소형 웨어러블·IT 기기 시장 공략]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250313111438</link>
+            <guid>https://zdnet.co.kr/view/?no=20250313111438</guid>
+            <pubDate>Thu, 13 Mar 2025 04:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[텍사스인스트루먼트(TI)가 기기의 소형화 추세에 대응하기 위한 신규 MCU(마이크로컨트롤러유닛)를 선보였다. 기존 MCU 대비 크기가 최대 38% 작은 것이 특징으로, 이를 통...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파두, 중국·대만 기술전시회서 '플렉스 SSD' 첫 선…亞 시장 공략]]></title>
             <link>https://zdnet.co.kr/view/?no=20250313090649</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250310094656</guid>
             <pubDate>Mon, 10 Mar 2025 02:01:27 GMT</pubDate>
             <content:encoded><![CDATA["올해는 회사가 더욱 도약할 수 있도록 순현금을 달성하고, 지속가능한 성장을 위해 노력하겠다. 이를 위해 비용 절감과 더불어 새로운 운영 개선 제도를 실현하겠다." 엄재광 SK...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로칩, 접근성·호환성 높인 신규 인서킷 디버거 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250310090102</link>
-            <guid>https://zdnet.co.kr/view/?no=20250310090102</guid>
-            <pubDate>Mon, 10 Mar 2025 02:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로칩테크놀로지는 더 많은 엔지니어들이 강력한 프로그래밍 및 디버깅 기능을 활용할 수 있도록 'MPLAB PICkit Basic 인서킷 디버거'를 출시했다고 10일 밝혔다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
