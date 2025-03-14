@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 08:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 09:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국화웨이, 고객사 대상 IP클럽 열어 신기술 공유]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250314174008</link>
+            <guid>https://zdnet.co.kr/view/?no=20250314174008</guid>
+            <pubDate>Fri, 14 Mar 2025 09:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[한국화웨이가 지난 12일 서울 여의도 콘래드 호텔에서 '화웨이IP클럽' 기술 서밋 행사를 열어 고객사, 파트너사와 함께 최신 네트워크 기술과 미래 방향성을 공유했다. 발리안 왕...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모바일 주민증 발급 첫날, 김창경 위원장 QR코드 촬영으로 신청]]></title>
             <link>https://zdnet.co.kr/view/?no=20250314163313</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250312145546</guid>
             <pubDate>Wed, 12 Mar 2025 06:18:44 GMT</pubDate>
             <content:encoded><![CDATA[KT는 12일부터 KT 채용 홈페이지에 모집 공고를 내고 'AX 딜리버리 전문센터(가칭)'에 합류할 AX 중추 인력 채용을 실시한다고 밝혔다. 모집 분야는 ▲프로젝트 매니저(P...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["지역 인구 흐름·특성, 데이터로 살펴보세요"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250312144700</link>
-            <guid>https://zdnet.co.kr/view/?no=20250312144700</guid>
-            <pubDate>Wed, 12 Mar 2025 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 통신 빅데이터와 AI 분석 기술을 활용해 지역별 인구 흐름과 특성을 정밀하게 분석하고 추정하는 'K-데이터 인사이트 플랫폼'을 리뉴얼 오픈했다고 12일 밝혔다. K-데이...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
