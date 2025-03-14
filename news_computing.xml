@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 12:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 13:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI는 정말 당신 뜻대로 움직일까…앤트로픽, AI 목표 탐지 기법 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250314214648</link>
+            <guid>https://zdnet.co.kr/view/?no=20250314214648</guid>
+            <pubDate>Fri, 14 Mar 2025 13:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[AI의 이중생활: 표면적 순응 속 숨겨진 '보상 모델 아첨' 목표 발견 인공지능(AI)이 겉으로는 우리가 원하는 대로 행동하지만, 내면에서는 전혀 다른 목표를 추구할 수 있다면...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 한국데이터산업협회, 미래 데이터 선점 나선다…AI·글로벌 협력 '가속']]></title>
             <link>https://zdnet.co.kr/view/?no=20250314165725</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250314095711</guid>
             <pubDate>Fri, 14 Mar 2025 00:58:59 GMT</pubDate>
             <content:encoded><![CDATA[비아이매트릭스는 비즈니스 인텔리전스(BI) 솔루션 3종이 조달청 디지털서비스몰에 등록된 BI 솔루션 부문에서 3년간 매출 1위를 기록했다고 14일 밝혔다. 조달청 디지털서비스몰...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 타입스크립트 컴파일러 'Go'로 전환… 성능 10배 향상 기대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250314094536</link>
-            <guid>https://zdnet.co.kr/view/?no=20250314094536</guid>
-            <pubDate>Fri, 14 Mar 2025 00:58:59 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 타입스크립트의 성능을 근본적으로 개선하기 위해 컴파일러와 관련 도구를 재구성한다. 14일 마이크로소프트는 타입스크립트 컴파일러를 Go언어로 전환하는 프로젝트 코...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
