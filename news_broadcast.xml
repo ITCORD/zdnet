@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 08:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 09:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작년 유영상 SKT 연봉 30.8억·황현식 19.9억원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250317172945</link>
+            <guid>https://zdnet.co.kr/view/?no=20250317172945</guid>
+            <pubDate>Mon, 17 Mar 2025 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 유영상 SK텔레콤 대표는 30억8천300만원, 황현식 전 LG유플러스 대표는 19억9천200만원을 수령한 것으로 나타났다. 이는 각각 전년대비 49.29%, 13.18%...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["TV 방송 직후 OTT로...유료방송 '독점 가치' 붕괴"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250317163221</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250313160702</guid>
             <pubDate>Thu, 13 Mar 2025 08:18:27 GMT</pubDate>
             <content:encoded><![CDATA[미디어 환경이 급변하면서 기존의 TV 시청률 측정 방식으로는 다양한 플랫폼에서 이루어지는 콘텐츠 소비를 제대로 측정할 수 없다는 지적이 나왔다. 전문가들은 영국, 미국, 일본 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["TV광고 똑똑해졌다"...CJ ENM, 국내 최초 AI로 간접광고 제작]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250313155349</link>
-            <guid>https://zdnet.co.kr/view/?no=20250313155349</guid>
-            <pubDate>Thu, 13 Mar 2025 07:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[CJ ENM이 국내 최초로 AI 기반 가상 간접광고(VPP)를 도입했다. 촬영 종료 후 편집 단계에서 영상에 적합한 노출 위치를 탐색하고 선정해 AI를 통한 가상 PPL로 새로...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
