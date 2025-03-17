@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 04:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 05:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["GE·지멘스도 클라우드 기반 데이터· AI기업으로 변신중"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250228142337</link>
+            <guid>https://zdnet.co.kr/view/?no=20250228142337</guid>
+            <pubDate>Mon, 17 Mar 2025 05:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 전환(DX)이 기계산업의 혁신을 가속화하고 있다. 미국의 GE나 독일 지멘스 등이 대표적이다. 이들은 스마트 공장이나 AI 기반 품질 검사, 디지털 트윈을 활용한 설계 최적화 등으로 기업 경쟁력을 강화하며 글로벌 시장을 선도하고 있다. 지디넷코리아는&nbsp;총 3회에 걸쳐 스마트팩토리와 AI 등&nbsp;두뇌를 장착 중인&nbsp;기계 산업의 변신을 한국기계연구원&nbsp;DX전략 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/11/70952419688999a80ea8a6924077e19c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방은주의 보안 산책] S-BOM에 대하여]]></title>
             <link>https://zdnet.co.kr/view/?no=20250316232908</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 08 Feb 2025 08:16:40 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;중국 AI 스타트업 딥시크가 세계 AI시장에 준 충격의 여진이 계속되고 있다. 이번 2회에서는 거대언어모델(LLM)의 탄생을 다루고자 한다.2012년 체코 과학자 토마스 미콜로프(Thomas Mikolov) 박사의 논문은 ‘벡터 공간에서의 단어 표현’을 다뤘다. 임베딩이라 부르는 이 아이디어는 간단하면서도 훌륭했다. 각 단어를 516차원의 실수(實數) 벡터로 표현하자는 제안이었다....]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2025/02/08/cb2703c736ee52a53df2ea07752ba015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 딥시크(DeepSeek) 사태로 드러난 AI 시대의 보안 딜레마]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250207111028</link>
-            <guid>https://zdnet.co.kr/view/?no=20250207111028</guid>
-            <pubDate>Fri, 07 Feb 2025 02:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;중국 AI스타트업 딥시크(DeepSeek)가 세계 AI 시장에 던진 파장이 확산하고 있다. 지난 1월 20일 공개된 DeepSeek-R1 모델은 오픈AI 최신 모델과 맞먹는 성능을 보이며 글로벌 AI 커뮤니티를 충격에 빠뜨렸다. 특히 미국 기업들이 수백만에서 수천만 달러를 투자하는 것과 달리, 딥시크는 훨씬 적은 비용으로 고성능 AI 모델을 개발해냈다. 이는 엔비디아 주가를 18%...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/05/23/f3d4d798aa521c9fc9c0ad323058a928.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
