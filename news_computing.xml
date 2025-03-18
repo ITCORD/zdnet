@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 02:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 03:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS "스타트업 해외 진출 지원 확대…목표 국가는 미국·일본"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318112739</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318112739</guid>
+            <pubDate>Tue, 18 Mar 2025 03:27:25 GMT</pubDate>
+            <content:encoded><![CDATA["올해 국내 인공지능(AI) 스타트업 지원을 확대하겠습니다. 자사의 방대한 글로벌 네트워크를 통해 협력을 비롯한 글로벌 이벤트 참여, 기술 투자 기회를 늘릴 것입니다." 아마존...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국AI리터러시협회, 21일 멤버스라운지 행사 개최]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318111843</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250317152109</guid>
             <pubDate>Mon, 17 Mar 2025 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[클라우다이크가 투자 유치에 성공하며 민간·공공 클라우드 스토리지 사업 확산과 인공지능(AI) 기반 신규 미디어 솔루션 개발에 나선다. 클라우다이크는 네이버클라우드, NVC, 중...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나무기술, AI 서버팜 구축 사업 수주…성능·안정성 극대화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250317165556</link>
-            <guid>https://zdnet.co.kr/view/?no=20250317165556</guid>
-            <pubDate>Mon, 17 Mar 2025 08:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[나무기술이 글로벌 전자 부품 기업 S전기의 인공지능(AI) 서버팜 구축 프로젝트를 수주했다고 17일 밝혔다. 이번 사업은 기계학습 운영(MLOps)에 적합한 GPU 서버팜을 구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
