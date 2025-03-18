@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 이슈진단+</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 07:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 08:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈진단+] 오픈소스 AI 잇달아 등장···보안은?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318150521</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318150521</guid>
+            <pubDate>Tue, 18 Mar 2025 08:18:24 GMT</pubDate>
+            <content:encoded><![CDATA["AI, 정보 모을수록 두 얼굴…LLM방화벽·필터 등으로 점검을"]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/09/c9fe87d5048a5118916eb30dfc4cf798-300x300.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성·TSMC가 주목한 CPO 패키징…'플럭스리스 본딩' 적용 기대]]></title>
             <link>https://zdnet.co.kr/view/?no=20250310161106</link>
@@ -198,14 +206,6 @@
             <pubDate>Wed, 05 Feb 2025 16:17:03 GMT</pubDate>
             <content:encoded><![CDATA[[이슈진단+] '티메프' 정산 지연이 초래한 도미노 피해]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2024/07/26/1fb8bd45f889d09535ca32f43d98225f-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 겨냥하는 검찰 칼날…김범수 위원장 구속 기로]]></title>
-            <link>https://zdnet.co.kr/view/?no=20240717123845</link>
-            <guid>https://zdnet.co.kr/view/?no=20240717123845</guid>
-            <pubDate>Wed, 05 Feb 2025 16:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[[이슈진단+] 카카오 쇄신·AI 사업 '시계제로']]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2023/10/23/1e38db911c62bd6b92bd418353a52422-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

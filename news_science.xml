@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 과학</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 07:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 08:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["10년 정도 공들이면 우리나라서도 노벨과학상 나올 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318143101</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318143101</guid>
+            <pubDate>Tue, 18 Mar 2025 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA["오는 2027년까지 내 임기동안에는 어렵겠지만, 10년 정도 공 들이면 우리나라에서도 노벨 과학상이 나올 것으로 봅니다." 한국과학기술한림원 정진호 원장이 18일 서울에서 기...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/18/21534fe4cc5c4326740cd411750c698a-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ETRI 호남권본부, AI 관제 플랫폼 등으로 3년간 기술이전 23건, 기업매출 효과 568억원]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318085715</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250317153613</guid>
             <pubDate>Mon, 17 Mar 2025 07:15:58 GMT</pubDate>
             <content:encoded><![CDATA[양자 보안과 양자 컴퓨팅 전문 기업 노르마(대표 정현철)는 국내 대표 게임 기업 ㈜네오위즈(공동대표 김승철, 배태근)와 양자 컴퓨팅 활용 게임 개발에 관한 양해각서(MOU)를 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/17/45933ed5bace4af5da5aaccb7286e869-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생명연 권석윤 원장 "개방형 혁신·연구수월성 등 강조"]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250313112625</guid>
             <pubDate>Thu, 13 Mar 2025 03:26:20 GMT</pubDate>
             <content:encoded><![CDATA[양자 보안과 양자 컴퓨팅 전문 기업 노르마(대표 정현철)가 국내·외 양자내성암호(PQC) 알고리즘 8종을 탑재한 라이브러리를 출시했다. 노르마는 국가정보원이 선정한 전자서명용 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·KAIST, 초거대 AI모델 학습 최적화 시뮬레이션 개발…"GPU 사용률 10% 개선"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250313084955</link>
-            <guid>https://zdnet.co.kr/view/?no=20250313084955</guid>
-            <pubDate>Thu, 13 Mar 2025 01:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대학과 기업이 챗GPT나 딥시크 등 초거대형 AI 모델 학습 비용을 5%정도 줄일 시뮬레이션 프레임워크를 개발하고, 이를 '깃허브'에 공개했다. KAIST(총장 이광형)는...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
