@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 21:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 22:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST, 내년 영국QS 대학평가서 제외당해]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318082617</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318082617</guid>
+            <pubDate>Tue, 18 Mar 2025 22:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST가 국제 대학평가 기관인 영국 QS으로부터 내년 대학평가 대상에서 제외한다는 징계 통보를 받은 것으로 확인됐다. 18일 교육계 및 과학기술계 등에 따르면 KAIST는 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2019/11/27/insight_XeMXGZau4zxz-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["AI 에이전트 시대 주도"…엔비디아, 추론 강화 돕는 SW 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318161053</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250319001453</guid>
             <pubDate>Tue, 18 Mar 2025 20:13:40 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 '피지컬 인공지능(AI)' 기술을 앞세워 로보틱스·자율주행·의료 산업 공략에 나선다. 시뮬레이션과 합성 데이터를 결합함으로써 AI가 물리적 환경에서 직접 행동하는 시...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/19/a1f50b70d57a28a564b00a3d3e1457ee-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK하이닉스, 엔비디아 연례 행사서 HBM4·SOCAMM 등 공개]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318180557</guid>
             <pubDate>Tue, 18 Mar 2025 09:14:30 GMT</pubDate>
             <content:encoded><![CDATA['홈플러스 기업회생 사태'를 두고 여야 의원들이 MBK 파트너스에 대한 압박 수위를 높이고 있다. 김병주 MBK 회장이 최근 사재출연 의지를 밝혔지만, 구체적인 규모와 시기에 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[휴일·명절 고속버스 취소 수수료율 오른다…출발 후 수수료 30%→50%]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318180821</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318180821</guid>
-            <pubDate>Tue, 18 Mar 2025 09:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 고속버스 이용 효율성을 높이기 위해 휴일과 명절 고속버스 승차권 취소 수수료율을 높인다. 국토교통부는 그동안 고속버스 취소 수수료는 365인 모두 같은 10%를 적용해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
