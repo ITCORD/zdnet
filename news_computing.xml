@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 12:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 13:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타의 AI, 훈련 없이도 사진·영상 이해…어떻게 가능?]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318221926</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318221926</guid>
+            <pubDate>Tue, 18 Mar 2025 13:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[대형 언어 모델(LLM), 훈련 없이 시각·청각 능력 발휘 메타 AI와 UC 버클리 연구진이 발표한 연구에 따르면, 대형 언어 모델(LLM)은 추가적인 훈련 없이도 이미지, 비...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK C&C, 디지털 ITS 덕에 웃었다…매출 전년比 8%, 영업익 24.3% '급성장']]></title>
             <link>https://zdnet.co.kr/view/?no=20250318183644</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318155948</guid>
             <pubDate>Tue, 18 Mar 2025 07:13:49 GMT</pubDate>
             <content:encoded><![CDATA[정보보안 소프트웨어 전문기업 휴네시온(대표 정동섭 290270)은 자사의 원격 유지보수 솔루션 'i-oneJTac'을 산하기관 및 지자체에 잇따라 공급했다고 18일 밝혔다. I...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["물리보안 산업 경쟁력 강화"···KISA, KIIA와 MOU]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318152136</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318152136</guid>
-            <pubDate>Tue, 18 Mar 2025 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이상중)은 한국영상정보연구조합(KIIA, 이사장 황정현)과 함께 국내 지능형 CCTV 산업 육성과 글로벌 기술 경쟁력 확보를 위한 업무협약(MO...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
