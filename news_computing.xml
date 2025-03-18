@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 19:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 20:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI 에이전트 시대 주도"…엔비디아, 추론 강화 돕는 SW 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318161053</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318161053</guid>
+            <pubDate>Tue, 18 Mar 2025 20:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 인공지능(AI) 에이전트 시대 본격화를 위한 기술 로드맵을 공개했다. AI 에이전트 개발·유지에 필요한 소프트웨어(SW) 기술을 비롯한 오픈소스 추론 모델 시리즈, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["손·발 달린 AI"…엔비디아, 로봇·자율주행 위한 '물리 AI' 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319001453</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319001453</guid>
+            <pubDate>Tue, 18 Mar 2025 20:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 '피지컬 인공지능(AI)' 기술을 앞세워 로보틱스·자율주행·의료 산업 공략에 나선다. 시뮬레이션과 합성 데이터를 결합함으로써 AI가 물리적 환경에서 직접 행동하는 시...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파수, IT인프라·공급망·CPS 포괄 원스톱 보안 취약점 진단 서비스 선봬]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318230953</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318150521</guid>
             <pubDate>Tue, 18 Mar 2025 08:17:48 GMT</pubDate>
             <content:encoded><![CDATA[중국 인공지능(AI) 스타트업이 만든 고성능 AI 제품 '딥시크(DeepSeek)'가 미국 오픈AI의 '챗GPT'보다 저렴한 비용으로 개발됐다는 소식이 세상을 놀라게 했다. 특...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클루커스, 위즈와 '맞손'…국내 클라우드 시장 '공략']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318160626</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318160626</guid>
-            <pubDate>Tue, 18 Mar 2025 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[클루커스가 글로벌 클라우드 기업과 협력해 국내 시장에서 영향력을 넓힌다. 데이터 주권과 컴플라이언스를 고려한 클라우드 활용 방안을 제시하며 기업들의 디지털 전환을 지원할 방침이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["딥시크보다 작고 더 강하다"…LG, 엔비디아 GTC서 '엑사원 딥'으로 AI 시장 재편]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318110021</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318110021</guid>
-            <pubDate>Tue, 18 Mar 2025 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[LG AI연구원이 추론 인공지능(AI) 모델을 오픈소스로 자체 개발해 고성능 AI 연구·개발 분야에서 글로벌 경쟁력을 증명했다. LG AI연구원은 18일 미국 캘리포니아주 새너...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
