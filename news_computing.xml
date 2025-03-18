@@ -4,11 +4,27 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 13:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 14:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[메타의 AI, 훈련 없이도 사진·영상 이해…어떻게 가능?]]></title>
+            <title><![CDATA[파수, IT인프라·공급망·CPS 포괄 원스톱 보안 취약점 진단 서비스 선봬]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318230953</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318230953</guid>
+            <pubDate>Tue, 18 Mar 2025 14:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[파수(대표 조규곤)가 IT시스템부터 공급망 애플리케이션, 사이버 물리 시스템(CPS), 운영기술(OT)을 아우르는 '원스톱 보안 취약점 진단 컨설팅 서비스'를 선보였다. 18일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔리빅스, 생성AI 관제시스템 'Gen AMS' 첫 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318225253</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318225253</guid>
+            <pubDate>Tue, 18 Mar 2025 14:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[인텔리빅스는 19일부터 21일까지 일산 킨텍스에서 열리는 보안 전시회 'SECON 2025'에 참가한다. 이번 전시에서 인텔리빅스는 15부스(135㎡) 규모의 부스를 운영하며,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI, 훈련 없이도 사진·영상 이해…메타 MILS 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318221926</link>
             <guid>https://zdnet.co.kr/view/?no=20250318221926</guid>
             <pubDate>Tue, 18 Mar 2025 13:22:49 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318110021</guid>
             <pubDate>Tue, 18 Mar 2025 08:17:48 GMT</pubDate>
             <content:encoded><![CDATA[LG AI연구원이 추론 인공지능(AI) 모델을 오픈소스로 자체 개발해 고성능 AI 연구·개발 분야에서 글로벌 경쟁력을 증명했다. LG AI연구원은 18일 미국 캘리포니아주 새너...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에브리존, 안티랜섬웨어 '화이트디펜더' 국정원 보안기능확인서 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318161451</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318161451</guid>
-            <pubDate>Tue, 18 Mar 2025 08:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[에브리존(대표 홍승균)은 자사가 독자 개발한 100% 시그니처리스 기반의 실시간 랜섬웨어 방어 솔루션 및 안티랜섬웨어 '화이트디펜더'가 국가정보원의 보안기능확인서 인증을 획득했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국정원 IT용역업체 보안 허점 경고···휴네시온 "우리 제품 쓰면 안전"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318155948</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318155948</guid>
-            <pubDate>Tue, 18 Mar 2025 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[정보보안 소프트웨어 전문기업 휴네시온(대표 정동섭 290270)은 자사의 원격 유지보수 솔루션 'i-oneJTac'을 산하기관 및 지자체에 잇따라 공급했다고 18일 밝혔다. I...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
