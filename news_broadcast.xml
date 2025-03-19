@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 08:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT 주가, 15년 만에 5만원 돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319170012</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319170012</guid>
+            <pubDate>Wed, 19 Mar 2025 08:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[KT 주가가 2010년 이후 15년 만에 종가 기준 5만원을 돌파했다. 저수익·저성장 사업을 정리하고, AI 중심으로 사업을 재편한 데다 분기배당 및 자사주 소각 등 주주가치 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이디스파워텔, 'SECON2025' 참가...최신 LTE 무전기 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250319140206</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250317172945</guid>
             <pubDate>Mon, 17 Mar 2025 09:15:20 GMT</pubDate>
             <content:encoded><![CDATA[지난해 유영상 SK텔레콤 대표는 30억8천300만원, 황현식 전 LG유플러스 대표는 19억9천200만원을 수령한 것으로 나타났다. 이는 각각 전년대비 49.29%, 13.18%...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["TV 방송 직후 OTT로...유료방송 '독점 가치' 붕괴"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250317163221</link>
-            <guid>https://zdnet.co.kr/view/?no=20250317163221</guid>
-            <pubDate>Mon, 17 Mar 2025 08:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[OTT 서비스 이용률은 급증하는 미디어 환경에서 방송 콘텐츠의 '독점 가치'가 급속히 하락하고 있다. 방송사들이 대부분의 콘텐츠를 방송 직후 OTT에 즉시 제공하면서 유료방송 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
