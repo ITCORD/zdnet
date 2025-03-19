@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 05:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中, AI 생성 콘텐츠 식별 표시 의무화... 9월부터 시행]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319151317</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319151317</guid>
+            <pubDate>Wed, 19 Mar 2025 06:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[중국 당국이 인공지능(AI) 생성 콘텐츠에 대한 식별 규정을 발표했다. 이 규정은 오는 9월부터 시행될 예정이며, AI로 생성된 콘텐츠에 명시적 표시와 숨겨진 표시를 의무화했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["AI로 가짜 잡았다"…마크비전-SJ그룹, 5년간 13만건 위조상품 제재]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319135730</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319135730</guid>
+            <pubDate>Wed, 19 Mar 2025 06:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[패션 브랜드 '캉골'의 운영사가 인공지능(AI) 기반 지적재산권(IP) 보호 기업 마크비전과의 협력을 통해 5년간 10만 건 이상의 위조상품과 무단판매를 제재하는데 성공했다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[당근머니로 24시간 ATM 출금...쿠콘, 'COATM' API 제공]]></title>
             <link>https://zdnet.co.kr/view/?no=20250319122521</link>
@@ -16,7 +32,7 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[엔비디아, 구글과 협력해 AI 판도 재편…옴니버스로 '피지컬 AI' 혁신한다]]></title>
+            <title><![CDATA[엔비디아, 구글과 손잡고 AI 판도 재편…옴니버스로 '피지컬 AI' 혁신]]></title>
             <link>https://zdnet.co.kr/view/?no=20250319112745</link>
             <guid>https://zdnet.co.kr/view/?no=20250319112745</guid>
             <pubDate>Wed, 19 Mar 2025 03:25:56 GMT</pubDate>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318175753</guid>
             <pubDate>Tue, 18 Mar 2025 23:12:48 GMT</pubDate>
             <content:encoded><![CDATA[삼성SDS를 시작으로 대기업 IT 계열사들의 주주총회 시즌이 본격 개막한 가운데 올해 수장으로 올라선 신임 대표들이 어떤 메시지를 내놓을 지 주목된다. 인공지능(AI) 시장 확...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 에이전트 시대 주도"…엔비디아, 추론 강화 돕는 SW 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318161053</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318161053</guid>
-            <pubDate>Tue, 18 Mar 2025 20:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 인공지능(AI) 에이전트 시대 본격화를 위한 기술 로드맵을 공개했다. AI 에이전트 개발·유지에 필요한 소프트웨어(SW) 기술을 비롯한 오픈소스 추론 모델 시리즈, ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["손·발 달린 AI"…엔비디아, 로봇·자율주행 위한 '물리 AI' 본격화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250319001453</link>
-            <guid>https://zdnet.co.kr/view/?no=20250319001453</guid>
-            <pubDate>Tue, 18 Mar 2025 20:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 '피지컬 인공지능(AI)' 기술을 앞세워 로보틱스·자율주행·의료 산업 공략에 나선다. 시뮬레이션과 합성 데이터를 결합함으로써 AI가 물리적 환경에서 직접 행동하는 시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
