@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 23:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 01:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 세계 최초 'HBM4' 12단 샘플 공급 시작]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319094651</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319094651</guid>
+            <pubDate>Wed, 19 Mar 2025 01:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 AI용 초고성능 D램 신제품인 HBM4 12단 샘플을 세계 최초로 주요 고객사들에 제공했다고 19일 밝혔다. SK하이닉스는 "HBM 시장을 이끌어온 기술 경쟁력과...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아, 루빈 울트라·파인만 AI칩 공개…"차세대 HBM 탑재"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250319080859</link>
+            <guid>https://zdnet.co.kr/view/?no=20250319080859</guid>
+            <pubDate>Wed, 19 Mar 2025 01:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 인공지능(AI) 반도체 산업의 주도권을 유지하기 위한 차세대 GPU를 추가로 공개했다. 오는 2027년 HBM4E(7세대 고대역폭메모리)를 탑재한 '루빈 울트라'를,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 엔비디아 연례 행사서 HBM4·SOCAMM 등 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250318165304</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250313072133</guid>
             <pubDate>Thu, 13 Mar 2025 01:00:19 GMT</pubDate>
             <content:encoded><![CDATA[인텔이 시스템반도체 업계 베테랑인 립부탄(Lip-Bu Tan) 전 케이던스 최고경영자(CEO)를 새로운 리더로 발탁했다. 지난해 말 팻 겔싱어 전 CEO가 사임한 지 약 3개월...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보스반도체, 유럽 자동차 OEM과 'ADAS 칩렛' 반도체 개발 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250312181901</link>
-            <guid>https://zdnet.co.kr/view/?no=20250312181901</guid>
-            <pubDate>Wed, 12 Mar 2025 21:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[보스반도체가 최근 유럽의 자동차 회사와 차세대 자율주행 시스템을 위한 ADAS(첨단 운전자 지원 시스템) 칩렛 반도체 개발 계약을 체결했다고 12일 밝혔다. 이번 협력을 통해 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보스반도체, 유럽 자동차 OEM과 'ADAS 칩렛' 반도체 개발 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250312181859</link>
-            <guid>https://zdnet.co.kr/view/?no=20250312181859</guid>
-            <pubDate>Wed, 12 Mar 2025 21:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[보스반도체가 최근 유럽의 자동차 회사와 차세대 자율주행 시스템을 위한 ADAS(첨단 운전자 지원 시스템) 칩렛 반도체 개발 계약을 체결했다고 12일 밝혔다. 이번 협력을 통해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
