@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 15:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["실력은 물론 태도까지 좋은 프리랜서 개발자 매칭"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250320234733</link>
+            <guid>https://zdnet.co.kr/view/?no=20250320234733</guid>
+            <pubDate>Thu, 20 Mar 2025 15:14:49 GMT</pubDate>
+            <content:encoded><![CDATA["태도(애터튜드)요? 매우 중요하죠. 이랜서는 개발자들의 애터튜드를 매우 중요하게 봅니다. 팀워크를 잘 이해하고 있고, 유연하게 고객 요구사항을 응대하며 일을 수행하는 능력을 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 조종사가 F-16 몬다…퀀텀에어로, KAI에 최첨단 무인 기술 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20250320121832</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250320135355</guid>
             <pubDate>Thu, 20 Mar 2025 05:13:29 GMT</pubDate>
             <content:encoded><![CDATA[인스웨이브시스템즈가 인공지능(AI) 에이전트와 대규모언어모델(LLM)을 앞세워 소프트웨어 개발의 패러다임을 근본적으로 전환하고, 고객사의 개발 비용 절감과 품질 향상을 실현하겠...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 아이온큐 "양자컴퓨팅, 이미 도입…현대차·에어버스도 활용"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250320115335</link>
-            <guid>https://zdnet.co.kr/view/?no=20250320115335</guid>
-            <pubDate>Thu, 20 Mar 2025 04:15:47 GMT</pubDate>
-            <content:encoded><![CDATA["양자컴퓨팅 도입은 현재 진행 중이며 산업 전반에서 활용이 점진적으로 확대되고 있습니다. 지난달 젠슨황 엔비디아 회장의 '양자컴퓨팅 30년' 발언은 맥락이 오해된 것으로, 이 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
