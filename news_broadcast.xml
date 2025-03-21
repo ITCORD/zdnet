@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 01:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 02:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT "클로드로 만든 텔코 LLM, 고객상담 효율성 높였다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250321101530</link>
+            <guid>https://zdnet.co.kr/view/?no=20250321101530</guid>
+            <pubDate>Fri, 21 Mar 2025 02:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[“앤트로픽 클로드를 파인튜닝한 텔코 LLM 도입으로 고객 상담 시 상담원이 더욱 효율적으로 상담에 필요한 정보를 찾을 수 있게 됐다.” 에릭 데이비스 SK텔레콤 AI테크콜라보레...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[친구추가 없이 쏟아지는 '카톡 광고'…"내가 동의했나요?"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250320172531</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250320095258</guid>
             <pubDate>Thu, 20 Mar 2025 02:22:18 GMT</pubDate>
             <content:encoded><![CDATA[KT가 한국전력, 서울대학교와 함께 전력산업 특화 AI 개발과 실증을 위한 업무협약(MOU)을 체결했다고 20일 밝혔다. 주요 협력 내용은 ▲'하이브리드 클라우드(Hybrid ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5G·6G 실내 불통 '안테나 필름'으로 해결…클레버로직·덕산넵코어스도 참여]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250320100645</link>
-            <guid>https://zdnet.co.kr/view/?no=20250320100645</guid>
-            <pubDate>Thu, 20 Mar 2025 02:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 5G와 6G의 단점인 건물내 통신 신호 손실 문제를 유리창용 안테나 필름으로 해결했다. 상용화까지는 시간이 걸릴 전망이지만, 국내 관련업체 2곳이 양산을 목표로 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

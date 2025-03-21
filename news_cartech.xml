@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 카테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 01:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 02:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 사이버트럭 4만6천대  리콜…출시 후 8번째]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250321105952</link>
+            <guid>https://zdnet.co.kr/view/?no=20250321105952</guid>
+            <pubDate>Fri, 21 Mar 2025 02:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[테슬라가 외장 패널 결함으로 전기 픽업트럭 사이버트럭 4만6천 대 가량을 리콜한다고 CNBC 등 외신들이 20일(이하 현지시간) 보도했다. 이번 리콜은 사이버트럭 출시 이후 8...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["현대차 ST1, 쉐보레 전기밴으로 美 간다"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250321090643</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250318110323</guid>
             <pubDate>Tue, 18 Mar 2025 02:25:28 GMT</pubDate>
             <content:encoded><![CDATA[현대자동차그룹이 독일 국제포럼디자인(International Forum Design)이 주관하는 '2025 iF 디자인 어워드(International Forum Design ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 가짜 벽 충돌 실험 논란…조작일까 아닐까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250318102116</link>
-            <guid>https://zdnet.co.kr/view/?no=20250318102116</guid>
-            <pubDate>Tue, 18 Mar 2025 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 테슬라의 첨단 운전자 보조 시스템 오토파일럿(Autopilot) 시스템을 활성화한 후 가짜 벽에 충돌시키는 테스트 영상이 화제가 되고 있다. 이에 일부 테슬라 팬들은 해당...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
