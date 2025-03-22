@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 03:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 04:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["폴더블 아이폰, 힌지에 액체 금속 채택…내구성 높인다"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250321230305</link>
+            <guid>https://zdnet.co.kr/view/?no=20250321230305</guid>
+            <pubDate>Sat, 22 Mar 2025 04:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 접는 디스플레이 내구성을 높이고 화면 주름을 줄이기 위해 폴더블 아이폰 힌지에 액체 금속 소재를 사용할 계획이라고 IT매체 맥루머스가 21일(현지시간) 보도했다. 애플 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2022/12/28/f182351371f70c548e08366a97f8bc32-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["메타, 세계 VR 시장 독식…작년 4분기 점유율 84%"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250321233756</link>
+            <guid>https://zdnet.co.kr/view/?no=20250321233756</guid>
+            <pubDate>Sat, 22 Mar 2025 04:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 작년 전 세계 가상현실(VR) 헤드셋 시장을 독식했다. 메타의 작년 4분기 점유율은 84%까지 늘었다는 분석이 나왔다. 22일 카운터포인트리서치의 최신 글로벌 확장현실(...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/21/7ef0871f200e4a29119a65c07ac5f1cb-290x182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 IT인재 일본 프로젝트에 투입···특별 혜택 줄 것"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250322123346</link>
+            <guid>https://zdnet.co.kr/view/?no=20250322123346</guid>
+            <pubDate>Sat, 22 Mar 2025 04:15:31 GMT</pubDate>
+            <content:encoded><![CDATA["현재 일본 내 50여개 기업 및 기관과 협력해 프로젝트를 준비 중입니다." 41만명의 프리랜서 개발자 전문가를 보유한 이랜서의 박우진 대표는 "일본 시장에 본격 진출한다"며 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["챗GPT, 노벨상 연구는 불가"… 생성형 AI의 과학적 한계, 뭐길래?]]></title>
             <link>https://zdnet.co.kr/view/?no=20250322103343</link>
             <guid>https://zdnet.co.kr/view/?no=20250322103343</guid>
             <pubDate>Sat, 22 Mar 2025 02:20:16 GMT</pubDate>
             <content:encoded><![CDATA[생성형 AI, 12분 vs 인간 23분: 빠르지만 창의력 부족한 과학 실험 생성형 인공지능(Generative AI, 이하 GenAI)이 인간처럼 과학적 발견을 할 수 있을지에...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/21/ai9d51e21f15d0e0a6f990334a5ad9fd77-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 퍼플렉시티, 틱톡 인수 추진…"알고리즘 전면 재구축"]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250322102940</guid>
             <pubDate>Sat, 22 Mar 2025 02:20:16 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 검색 분야 신흥 강자인 퍼플렉시티가 또 다시 틱톡 인수에 도전한다. 더버지에 따르면 퍼플렉시티는 21일(현지시간) 회사 공식 블로그를 통해 틱톡 인수 제안 사실...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/18/424c57a2e180a1adf29268ac92206e8e-290x182.png" length="0" type="image/png"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스페이스X, 9일만에 로켓 재사용…5일 단축 '신기록' [우주로 간다]]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250321232516</guid>
             <pubDate>Fri, 21 Mar 2025 16:16:09 GMT</pubDate>
             <content:encoded><![CDATA[위믹스 측이 지난 21일 미디엄을 통해 플레이 브릿지 서비스가 완전히 재개됐다고 공지했다. 이는 플랫폼 전반의 보안 강화 작업을 완료한 것에 이은 서비스 재개 소식이어서 눈길을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰으로 가구 움직여…로보톰, 전용 앱 출시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250321232142</link>
-            <guid>https://zdnet.co.kr/view/?no=20250321232142</guid>
-            <pubDate>Fri, 21 Mar 2025 15:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[로보톰은 스마트 홈 로보테리어 브랜드 스테이지핸즈가 자사 로보테리어 제어 앱을 출시했다고 21일 밝혔다. 스테이지핸즈 앱은 로보테리어 기술을 더욱 섬세하게 활용할 수 있도록 개...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코스모로보틱스, 청소년 재활로봇 '밤비니' 중국 CFDA 인증 획득]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250321231146</link>
-            <guid>https://zdnet.co.kr/view/?no=20250321231146</guid>
-            <pubDate>Fri, 21 Mar 2025 14:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[웨어러블 로봇 전문기업 코스모로보틱스는 청소년 재활용 로봇 '밤비니'가 최근 중국 국가식품약품감독관리총국(CFDA) 의료기기 인증을 획득했다고 21일 밝혔다. 밤비니는 선천성 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐렉소, 이그젝텍 '어깨 관절 임플란트' 국내 독점 판권 인수]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250321230524</link>
-            <guid>https://zdnet.co.kr/view/?no=20250321230524</guid>
-            <pubDate>Fri, 21 Mar 2025 14:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[의료로봇 전문기업 큐렉소는 최근 미국 이그젝텍 어깨 관절 임플란트의 국내 독점 판권 계약 인수를 완료했다고 21일 밝혔다. 현재 큐렉소는 이그젝텍과 국내 판권 양수도를 통한 독...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
