@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 전문가 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 02:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 03:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[황승진의 AI칼럼] 블룸버그GPT와 스탠포드 MUSK]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250322120640</link>
+            <guid>https://zdnet.co.kr/view/?no=20250322120640</guid>
+            <pubDate>Sat, 22 Mar 2025 03:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;블룸버그는 금융 및 비즈니스 정보, 뉴스 및 리서치를 제공하는 회사다. 금융정보 세계의 독보 위치를 활용해 블룸버그GPT라는 별도의 LLM 기초+응용 모델을 만들었다. 대부분의 지식을 기초 모델에 넣었다. 이 새로운 LLM은 금융 산업 내 정보를 자연어 처리(NLP) 할 수 있다. 이를 ‘분야별 LLM’ 혹은 ‘수직형(버티컬) LLM’이라 부른다. 이는 챗GPT 같은 일반 ‘수평형...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/02/08/5dbdc0e28f89a900a751e61df270a021.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고] 글로벌 스테이블코인 경쟁 가속화, 한국의 길을 묻다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250320105904</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Feb 2025 00:57:42 GMT</pubDate>
             <content:encoded><![CDATA[급격한 인공지능(AI) 시장 성장은 새로운 기회와 도전 과제를 동시에 가져왔다. 그 중 '보안'은 윤리와 콘텐츠 안전성, 사이버 공격 등&nbsp;AI 개발 과정에서 가장 우려되는 이슈 중 하나다. 또 최근 유명인사나 인플루언서의 모습을 실제처럼 위조하는 데 악용되는 딥페이크가 가장 큰 위험 요소로 떠오르고 있기도 하다.최신 생성형 AI 기술이 피싱과 랜섬웨어 공격에 활용되면서...]]></content:encoded>
             <enclosure url="https://image.zdnet.co.kr/2025/02/19/66d6b2bd9669e0c65449a8fa3df464db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 시대, ‘인간다움’ 정수 어떻게 지킬까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250216091228</link>
-            <guid>https://zdnet.co.kr/view/?no=20250216091228</guid>
-            <pubDate>Sun, 16 Feb 2025 01:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[한 유튜브에서 본 10만원대 통역기 리뷰 영상이 충격적이었다. 중국 선전에서 유통되는 이 기기가 보여준 AI 시대의 민낯은 우리 일상과 너무나 닮아있다. 130개 국어를 지원하는 이 통역기는 와이파이 없이도 완벽한 번역을 해낸다. 우리의 언어와 생각, 창작물이 이렇게 쉽게 변환되고, 요약되며, 재생산되는 시대다.업무 현장은 이미 AI의 손아귀에 있다. 회의와 잡담은 클로바와 다글로가 기록하고...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/02/16/1f09669219300550b485498e3dd4a9b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
