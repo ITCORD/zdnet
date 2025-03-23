@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 01:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 03:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 인스타그램 AI 댓글 생성 실험 통할까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250323111139</link>
+            <guid>https://zdnet.co.kr/view/?no=20250323111139</guid>
+            <pubDate>Sun, 23 Mar 2025 02:59:44 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 인스타그램 댓글 작성에 인공지능(AI) 기능을 도입했다. 그간 다양한 AI 기능을 자사 앱에 적용했지만 여론의 부정적인 평가를 받은 메타가 이번 실험에선 어떤 평가를 받...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["허깅페이스, 대기업 AI 독점 반대"…개방적 개발 정책 백악관 전달]]></title>
             <link>https://zdnet.co.kr/view/?no=20250322154355</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250320121832</guid>
             <pubDate>Thu, 20 Mar 2025 09:14:40 GMT</pubDate>
             <content:encoded><![CDATA[퀀텀에어로가 한국항공우주산업(KAI)과 손잡고 인공지능(AI) 파일럿 기술 개발을 가속화한다. 미국 방산 AI 선두 기업 쉴드AI와의 전략적 협력을 기반으로, 차세대 국군 무인...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAP "내달 국내 데이터센터 용량↑...'쥴' 한국어 추가"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250320174502</link>
-            <guid>https://zdnet.co.kr/view/?no=20250320174502</guid>
-            <pubDate>Thu, 20 Mar 2025 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[SAP가 국내 데이터센터 용량을 증설해 인공지능(AI) 에이전트 '쥴' 한국어 버전과 'SAP 비즈니스 데이터 클라우드(BDC)' 서비스를 내달 출시한다. 크리스찬 클라인 SA...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
