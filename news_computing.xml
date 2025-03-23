@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 23:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 01:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["허깅페이스, 대기업 AI 독점 반대"…개방적 개발 정책 백악관 전달]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250322154355</link>
+            <guid>https://zdnet.co.kr/view/?no=20250322154355</guid>
+            <pubDate>Sun, 23 Mar 2025 01:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 인공지능(AI) 플랫폼 허깅페이스가 대기업 중심으로 흐르는 인공지능(AI) 지원 정책 기조에 반하는 '개방적·협업적 AI 개발' 전략을 백악관에 공식 제안했다. 23일...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["AI 동료 손쉽게 생성"…오라클, AI 에이전트 스튜디오 출시]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250323083241</link>
+            <guid>https://zdnet.co.kr/view/?no=20250323083241</guid>
+            <pubDate>Sun, 23 Mar 2025 01:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[오라클이 업무 자동화에 특화된 인공지능(AI) 에이전트 개발 플랫폼을 공개해 기업 비즈니스 간소화에 나섰다. 오라클은 '퓨전 애플리케이션용 AI 에이전트 스튜디오'를 출시했다고...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유니온커뮤니티, SECON 2025서 생체인식 통합서버 솔루션 공개]]></title>
             <link>https://zdnet.co.kr/view/?no=20250323004854</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250320174502</guid>
             <pubDate>Thu, 20 Mar 2025 09:14:40 GMT</pubDate>
             <content:encoded><![CDATA[SAP가 국내 데이터센터 용량을 증설해 인공지능(AI) 에이전트 '쥴' 한국어 버전과 'SAP 비즈니스 데이터 클라우드(BDC)' 서비스를 내달 출시한다. 크리스찬 클라인 SA...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LSK 글로벌 PS, 오라클 손잡고 약물감시 '강화'…안전성 관리 효율성↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250320173808</link>
-            <guid>https://zdnet.co.kr/view/?no=20250320173808</guid>
-            <pubDate>Thu, 20 Mar 2025 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[LSK 글로벌 PS가 글로벌 약물감시 운영을 강화하기 위해 오라클 솔루션을 도입한다. 이번 조치를 통해 안전성 사례 관리의 효율성을 높이고 규제 요구 사항을 보다 신속하게 준수...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 개발 최대 장벽 GPU 인프라…KT클라우드가 내세우는 해결책은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250320154944</link>
-            <guid>https://zdnet.co.kr/view/?no=20250320154944</guid>
-            <pubDate>Thu, 20 Mar 2025 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[KT클라우드가 초거대 인공지능(AI) 구축에 드는 수천억원 이상의 초기 인프라 비용 문제를 해결하기 위해 '서비스형 GPU(GPUaaS)' 확산에 총력을 기울인다. 정미진 KT...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
