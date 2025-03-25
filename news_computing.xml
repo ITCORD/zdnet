@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 04:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 05:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라온시큐어, 건국대 디지털 입학증 구현]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325122004</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325122004</guid>
+            <pubDate>Tue, 25 Mar 2025 05:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[보안·인증 기업 라온시큐어는 25일 건국대에 디지털 배지 발급 시스템 '옴니원 배지'를 구현했다고 밝혔다. 건국대는 올해 신입생 3천400명에게 옴니원 배지로 입학증을 발급했다...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["보안 사고 한번 터지면 3분의1이 1개월 이상 지속"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250325115129</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325084151</guid>
             <pubDate>Tue, 25 Mar 2025 01:00:43 GMT</pubDate>
             <content:encoded><![CDATA[SK C&amp;C가 디지털 전환에 나선 하나은행을 고객사로 확보하며 금융 시장에서 주목 받고 있다. SK C&amp;C는 하나은행의 차세대 시스템 2단계 구축 사업인 '프로젝트 퍼스트 : ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지니언스, 인도에 글로벌 기술지원센터 개소]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325075006</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325075006</guid>
-            <pubDate>Mon, 24 Mar 2025 23:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 전문기업 지니언스(263860, 대표 이동범)가 글로벌 성장 전략 일환으로 인도 벵갈루루에 '글로벌 기술지원센터'를 개소하고 본격적인 운영에 나선다고 25일 밝혔다...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
