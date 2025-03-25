@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 07:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 08:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["네이버·카카오도 2시간 이상 먹통되면 이용자에 알려야"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325170710</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325170710</guid>
+            <pubDate>Tue, 25 Mar 2025 08:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로는 네이버, 카카오 등 부가통신 사업자가 제공하는 서비스가 2시간 이상 중단되면 이용자들에게 의무로 고지해야 한다. 방송통신위원회는 부가통신서비스 중단 시 사업자의 고지 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[홍범식, LGU+ 대표 선임..."AX중심 미래 성장동력 확보 집중"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250325095621</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250323091137</guid>
             <pubDate>Sun, 23 Mar 2025 01:04:17 GMT</pubDate>
             <content:encoded><![CDATA[KT가 새로운 AI 마스터 브랜드인 'K인텔리전스'를 선보인다고 23일 밝혔다. K인텔리전스는 KT와 대한민국을 상징하는 'K'에 '지능'이라는 뜻의 'intelligence'...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKB, 구로문화재단과 초등생 대상 방과후 교실 운영]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250323090542</link>
-            <guid>https://zdnet.co.kr/view/?no=20250323090542</guid>
-            <pubDate>Sun, 23 Mar 2025 01:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 구로문화재단, LOVE FNC와 함께 서울시 구로구 관내 초등학생 대상 'SKB 방과후 교실' 운영을 위한 업무협약을 맺었다고 23일 밝혔다. 지난 21일 오후...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
