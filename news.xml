@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 11:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 12:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 가짜 벽 충돌시험 '후속편' 등장...이번에는 사이버트럭]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325173012</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325173012</guid>
+            <pubDate>Tue, 25 Mar 2025 12:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[최근 테슬라의 첨단 운전자 보조 시스템 오토파일럿(Autopilot) 시스템을 활성화한 후 가짜 벽에 충돌시키는 테스트 영상이 화제가 됐다. 이 테스트는 카메라 기반의 테슬라 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/25/8064988ce89fe3abd648a76183c3588a.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[정부, 산불 특별재난지역 통신·유료방송 요금 감면]]></title>
             <link>https://zdnet.co.kr/view/?no=20250325201002</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250325200435</guid>
             <pubDate>Tue, 25 Mar 2025 11:12:04 GMT</pubDate>
             <content:encoded><![CDATA[유상임 과학기술정보통신부 장관은 25일 국민 안전과 현장 중심 민생 대응 일환으로 동서울우편집중국을 찾아 중대재해 예방을 위한 안전보건 관리체계 운용과 해빙기 재난안전 대비 현...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/25/65fe9ca422ad71880164f70750c15ddc-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산불 확산...방송통신재난 위기경보 '주의' 발령]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325171528</guid>
             <pubDate>Tue, 25 Mar 2025 09:14:09 GMT</pubDate>
             <content:encoded><![CDATA["이제 코딩을 줄이는 정도가 아니라 말로 하는 개발 시대를 준비해야 한다." 비아이매트릭스 배영근 대표는 25일 서울 양재동 엘타워에서 열린 '아우디(AUD) 데브 데이 202...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥핑소스-시즐, AI 스마트 공간 혁신 힘 모은다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325171309</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325171309</guid>
-            <pubDate>Tue, 25 Mar 2025 08:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[AI 리테일테크 기업 딥핑소스(대표 김태훈)와 지능형 스마트팩토리 솔루션 기업 시즐이 지난 24일 서울 강남구 딥핑소스 본사에서 전략적 업무협약(MOU)을 체결했다. 이번 협약...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
