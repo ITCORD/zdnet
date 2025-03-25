@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 08:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 09:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["이제는 말로 개발하는 시대를 준비해야 할 때"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325171528</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325171528</guid>
+            <pubDate>Tue, 25 Mar 2025 09:14:24 GMT</pubDate>
+            <content:encoded><![CDATA["이제 코딩을 줄이는 정도가 아니라 말로 하는 개발 시대를 준비해야 한다." 비아이매트릭스 배영근 대표는 25일 서울 양재동 엘타워에서 열린 '아우디(AUD) 데브 데이 202...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[ZD SW 투데이] 이안, AI 바우처 공급기업 선정 外]]></title>
             <link>https://zdnet.co.kr/view/?no=20250325165134</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325104616</guid>
             <pubDate>Tue, 25 Mar 2025 02:27:17 GMT</pubDate>
             <content:encoded><![CDATA[교보생명이 퇴직연금 청구 접수 업무에서 직원 대신 인공지능(AI)을 활용하기 시작했다. 사람이 일일이 확인하던 서류를 AI가 자동으로 분류하고 핵심 정보를 빠르게 추출해 업무 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 교통 혼잡 해결한다...'24시간 내 응답' 똑똑한 도로 설계]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325104426</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325104426</guid>
-            <pubDate>Tue, 25 Mar 2025 02:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[교통 계획에서 생성형 AI 활용의 혁신적 가능성 생성형 인공지능(GenAI)은 교통 계획 분야에 혁신적인 변화를 가져오고 있다. 특히 대규모 언어 모델(Large Languag...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
