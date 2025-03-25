@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 13:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 14:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[보안기업] 넷앤드 "접근제어·계정관리 통합서 '우뚝'···해외서 일 낼 것"]]></title>
+            <title><![CDATA[엔비디아, 7초만에 초고해상도 이미지 생성하는 신기술 발표]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325224832</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325224832</guid>
+            <pubDate>Tue, 25 Mar 2025 14:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[확산 모델의 품질과 7.7배 빠른 속도를 동시에 구현한 HART의 하이브리드 접근법 MIT와 NVIDIA 연구팀이 개발한 하이브리드 자기회귀 트랜스포머(HART)는 고해상도 이...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/25/ai7224be0431b89cf9513b030e64e0e637-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보안기업] 넷앤드 "접근제어·계정관리 통합  선도···해외서 일 낼 것"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250325221458</link>
             <guid>https://zdnet.co.kr/view/?no=20250325221458</guid>
             <pubDate>Tue, 25 Mar 2025 13:24:02 GMT</pubDate>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250325173012</guid>
             <pubDate>Tue, 25 Mar 2025 12:24:55 GMT</pubDate>
             <content:encoded><![CDATA[최근 테슬라의 첨단 운전자 보조 시스템 오토파일럿(Autopilot) 시스템을 활성화한 후 가짜 벽에 충돌시키는 테스트 영상이 화제가 됐다. 이 테스트는 카메라 기반의 테슬라 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/25/8064988ce89fe3abd648a76183c3588a.gif" length="0" type="image/gif"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부, 산불 특별재난지역 통신·유료방송 요금 감면]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325172107</guid>
             <pubDate>Tue, 25 Mar 2025 09:14:09 GMT</pubDate>
             <content:encoded><![CDATA[KMI한국의학연구소가 서울 종로구 저소득 가구의 틀니·임플란트 시술비 3천만원을 지원한다. KMI ESG위원회는 지난 24일 종로구청에서 종로구와 '2025년 취약계층 틀니·임...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 알고리즘, 안전성·신뢰성·공공성 확보해야”]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325172102</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325172102</guid>
-            <pubDate>Tue, 25 Mar 2025 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[국회 과학기술정보방송통신위원회 박민규 의원(더불어민주당)은 인공지능과 데이터 기반 기술의 급속한 발전에 따라 알고리즘의 안전성과 신뢰성, 공공성을 확보하기 위해 지능정보화 기본...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
