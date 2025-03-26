@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 02:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 03:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] "한 달 전부터 기다렸어요"…2년 만에 韓 온 MS CEO에 업계 관심 폭발]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250326112018</link>
+            <guid>https://zdnet.co.kr/view/?no=20250326112018</guid>
+            <pubDate>Wed, 26 Mar 2025 03:26:59 GMT</pubDate>
+            <content:encoded><![CDATA["사티아 나델라 마이크로소프트 대표의 인사이트를 직접 듣고 싶어서 한 달 전부터 회사 허락을 받고 참석했습니다. 오전 8시부터 기다리고 있는데 어떤 얘기를 들려줄지 기대가 큽니...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[최형두 의원 "2025 추경, AI 예산 2조 반영 추진"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250326112330</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325152248</guid>
             <pubDate>Tue, 25 Mar 2025 07:14:49 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부가 우리나라의 주소체계 'K-주소'를 세계에 전파하기 위해 나섰다. 행안부는 한국형 주소체계 도입을 희망하는 몽골 정부의 공식 요청을 받아 김민재 행안부 차관보를 단장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[F5, 엔비디아 솔루션으로 '엣지 AI' 최적화]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325145936</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325145936</guid>
-            <pubDate>Tue, 25 Mar 2025 07:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[F5가 제품 네트워크 기능을 강화해 엣지 인공지능(AI) 역량을 높였다. F5는 자사 클라우드 네이티브 네트워크 기능을 엔비디아 블루필드-3 데이터처리장치(DPU)에 배포한다고...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
