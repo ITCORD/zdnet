@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 23:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 01:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["양자컴퓨터 해킹 막아라"…SKB, 한전에 PQC 전용회선 상용화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325231450</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325231450</guid>
+            <pubDate>Wed, 26 Mar 2025 01:00:28 GMT</pubDate>
+            <content:encoded><![CDATA[SK브로드밴드가 양자내성암호(PQC, Post Quantum Cryptography) 전용회선을 첫 상용화하며 양자 보안 통신 시장 선점에 나섰다. 양자컴퓨터 상용화 시대를 앞...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 산불 특별재난지역 통신·유료방송 요금 감면]]></title>
             <link>https://zdnet.co.kr/view/?no=20250325201002</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250324102327</guid>
             <pubDate>Mon, 24 Mar 2025 02:59:25 GMT</pubDate>
             <content:encoded><![CDATA[홈쇼핑 생방송에서 화장품을 판매하며 욕설을 사용해 물의를 일으킨 방송인 정윤정 씨가 NS홈쇼핑으로 복귀했다. 24일 관련업계에 따르면 NS홈쇼핑은 정 씨는 지난 21일 저녁 7...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, 다음달 2일부터 가족 외 계정 공유 제한]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250324095743</link>
-            <guid>https://zdnet.co.kr/view/?no=20250324095743</guid>
-            <pubDate>Mon, 24 Mar 2025 01:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[티빙이 다음달 2일부터 가족 외 계정 공유를 제한하기로 했다. 최근 티빙은 이용자들에게 메일을 보내 다음달 2일부터 계정 공유 정책을 시행한다고 공지했다. 티빙은 "회원 계정은...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
