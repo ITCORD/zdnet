@@ -4,17 +4,9 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 07:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 08:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엔비디아, H20 칩에도 HBM3E 채택…SK하이닉스에 공급 요청]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250326112421</link>
-            <guid>https://zdnet.co.kr/view/?no=20250326112421</guid>
-            <pubDate>Wed, 26 Mar 2025 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 올해 엔비디아향 HBM3E(5세대 고대역폭메모리) 공급량을 확대할 수 있는 기회를 잡았다. 엔비디아가 최근 저가형 AI 가속기에 탑재되는 HBM 제품을 기존 HB...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[산업부, 반도체·배터리 등 24개 기업 사업재편 승인]]></title>
             <link>https://zdnet.co.kr/view/?no=20250326104959</link>
@@ -165,6 +157,14 @@
             <guid>https://zdnet.co.kr/view/?no=20250319080859</guid>
             <pubDate>Wed, 19 Mar 2025 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아가 인공지능(AI) 반도체 산업의 주도권을 유지하기 위한 차세대 GPU를 추가로 공개했다. 오는 2027년 HBM4E(7세대 고대역폭메모리)를 탑재한 '루빈 울트라'를,...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 엔비디아 연례 행사서 HBM4·SOCAMM 등 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250318165304</link>
+            <guid>https://zdnet.co.kr/view/?no=20250318165304</guid>
+            <pubDate>Wed, 26 Mar 2025 08:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스는 17일부터 21일(현지시간)까지 미국 새너제이에서 엔비디아가 주최하는 글로벌 AI 컨퍼런스인 'GTC 2025'에 참가해, 'Memory, Powering AI ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
