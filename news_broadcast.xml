@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘텐츠웨이브, 이헌 대표이사 신규 선임]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250327165008</link>
+            <guid>https://zdnet.co.kr/view/?no=20250327165008</guid>
+            <pubDate>Thu, 27 Mar 2025 09:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[웨이브가 이헌 웨이브 이사를 신규 대표로 선임했다. 이헌 대표는 SK텔레콤의 전략투자 담당, SK스퀘어 관리매니징 디렉터(MD) 등을 거친 투자 전략가로 꼽힌다. 콘텐츠웨이브가...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[영덕 방송보조국 전소...방송재난 위기경보 '경계' 상향]]></title>
             <link>https://zdnet.co.kr/view/?no=20250327154457</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325231450</guid>
             <pubDate>Wed, 26 Mar 2025 01:00:28 GMT</pubDate>
             <content:encoded><![CDATA[SK브로드밴드가 양자내성암호(PQC, Post Quantum Cryptography) 전용회선을 첫 상용화하며 양자 보안 통신 시장 선점에 나섰다. 양자컴퓨터 상용화 시대를 앞...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 산불 특별재난지역 통신·유료방송 요금 감면]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325201002</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325201002</guid>
-            <pubDate>Tue, 25 Mar 2025 11:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 21일부터 전국 동시다발적으로 발생한 대형 산불로 특별재난지역으로 선포된 울산광역시 울주군, 경상북도 의성군, 경상남도 산청군, 하동군에 대해 관련 법...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
