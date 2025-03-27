@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 03:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 04:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스 "D램 시장 호전·HBM 성장세 지속 전망"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250327115318</link>
+            <guid>https://zdnet.co.kr/view/?no=20250327115318</guid>
+            <pubDate>Thu, 27 Mar 2025 04:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[SK하이닉스가 AI를 중심으로 한 고부가 메모리 시장의 성장세를 자신했다. HBM(고대역폭메모리) 및 고용량 eSSD(기업용 SSD)는 글로벌 빅테크의 투자 확대와 맞물려 중장...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부, 반도체 생태계펀드 1200억원 추가조성…원전산업성장펀드 1천억원 신설]]></title>
             <link>https://zdnet.co.kr/view/?no=20250326175556</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250319094651</guid>
             <pubDate>Wed, 19 Mar 2025 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 AI용 초고성능 D램 신제품인 HBM4 12단 샘플을 세계 최초로 주요 고객사들에 제공했다고 19일 밝혔다. SK하이닉스는 "HBM 시장을 이끌어온 기술 경쟁력과...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 루빈 울트라·파인만 AI칩 공개…"차세대 HBM 탑재"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250319080859</link>
-            <guid>https://zdnet.co.kr/view/?no=20250319080859</guid>
-            <pubDate>Wed, 19 Mar 2025 01:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아가 인공지능(AI) 반도체 산업의 주도권을 유지하기 위한 차세대 GPU를 추가로 공개했다. 오는 2027년 HBM4E(7세대 고대역폭메모리)를 탑재한 '루빈 울트라'를,...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
