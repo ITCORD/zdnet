@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 인터넷</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 04:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 05:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, 경상·울산 산불 피해 복구 위해 성금 10억원 기부]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250327134135</link>
+            <guid>https://zdnet.co.kr/view/?no=20250327134135</guid>
+            <pubDate>Thu, 27 Mar 2025 05:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[네이버(대표 최수연)가 경상도 및 울산 지역에서 발생한 대형 산불 피해 복구를 위해 10억원의 성금을 기부했다고 27일 밝혔다. 구호 성금은 해피빈을 통해 전국재해구호협회에 전...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 이해진·물러난 김범수...네카오, 다른 패 꺼냈다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250326002555</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250325170152</guid>
             <pubDate>Tue, 25 Mar 2025 08:18:08 GMT</pubDate>
             <content:encoded><![CDATA[네이버는 네이버랩스, 네이버랩스 유럽, 네이버클라우드 등 '팀네이버'의 다양한 기술 조직이 발표한 연구 논문 14편이 컴퓨터비전 분야 세계적 학회 중 하나인 'CVPR(컴퓨터비...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Q&AI] 싱크홀 사고 대체 왜…AI로 원인 분석했더니]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250325160211</link>
-            <guid>https://zdnet.co.kr/view/?no=20250325160211</guid>
-            <pubDate>Tue, 25 Mar 2025 07:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[질문: 명일동에 싱크홀이 발생했는데, 사건 경위와 싱크홀이 생긴 이유를 정리해서 알려줘. 그록 답변: 2025년 3월 24일 서울 강동구 명일동에서 발생한 싱크홀 사건에 대해 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
