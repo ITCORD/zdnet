@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 23:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 01:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[립부 탄 인텔 CEO, 주주 대상 첫 메시지 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250328084046</link>
+            <guid>https://zdnet.co.kr/view/?no=20250328084046</guid>
+            <pubDate>Fri, 28 Mar 2025 01:00:20 GMT</pubDate>
+            <content:encoded><![CDATA[이달 중순 취임한 립부 탄(Lip-Bu Tan) 인텔 CEO가 27일(미국 현지시간) 주주 대상 연간 보고서를 통해 인텔 프로덕트와 인텔 파운드리 등 회사 양대 핵심 사업 부문...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한화세미텍, SK하이닉스에 210억 규모 HBM용 TC본더 추가 공급]]></title>
             <link>https://zdnet.co.kr/view/?no=20250327115413</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250319164504</guid>
             <pubDate>Wed, 19 Mar 2025 08:18:04 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 지난해 하반기 최선단 D램 공정 기반의 LPDDR(저전력 D램) 양산을 시작한 것으로 확인됐다. AI 서버가 주요 적용처로, 엔비디아 등 글로벌 빅테크 공략에 속...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EVG, MEMS 제조사에 차세대 'GEMINI' 웨이퍼 본딩 시스템 공급]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250319161926</link>
-            <guid>https://zdnet.co.kr/view/?no=20250319161926</guid>
-            <pubDate>Wed, 19 Mar 2025 08:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[EV그룹(EVG)은 300mm 웨이퍼용 차세대 GEMINI 자동화 생산 웨이퍼 본딩 시스템을 공개했다고 19일 밝혔다. HVM(대량양산) 웨이퍼 본딩의 글로벌 산업 표준을 기반...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
