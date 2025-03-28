@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 19:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 20:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한의약 교육 홈페이지 '한e캠퍼스' 3월25일 정식 오픈]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250325142519</link>
+            <guid>https://zdnet.co.kr/view/?no=20250325142519</guid>
+            <pubDate>Fri, 28 Mar 2025 20:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 한의약 분야 교육을 통해 전문인력양성을 도모할 수 있는 한의약 교육 홈페이지 '한e캠퍼스)'를 오픈했다. 한e캠퍼스는 건강돌봄사업, 한의표준임상진료지침, 연구방법론...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/28/d477b83b0f28e9f0d1e18d47be6509b0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 사이버트럭 닮은 '뉴 모델Y' 출시…5299만원부터]]></title>
             <link>https://zdnet.co.kr/view/?no=20250328232500</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250328212009</guid>
             <pubDate>Fri, 28 Mar 2025 12:23:58 GMT</pubDate>
             <content:encoded><![CDATA[질문: 챗GPT로 지브리 스타일 이미지 생성하는 게 화제인데, 무슨 일이야? 그록 답변: 최근 오픈AI가 챗GPT에 GPT-4o 모델을 기반으로 한 새로운 이미지 생성 기능을 ...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/28/aieb44f329d5700e6e731d58141ffff930-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[틸론, '2025 DAVEIT DAY' 개최···차세대 업무환경 제시]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250328171401</guid>
             <pubDate>Fri, 28 Mar 2025 08:18:04 GMT</pubDate>
             <content:encoded><![CDATA[◇과장급 전보 ▲마산자유무역지역관리원장 김태권...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해시키체인, '타이이' 해커톤 개최…"실제 금융 인프라 재정의할 때"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250328171208</link>
-            <guid>https://zdnet.co.kr/view/?no=20250328171208</guid>
-            <pubDate>Fri, 28 Mar 2025 08:18:04 GMT</pubDate>
-            <content:encoded><![CDATA["우리는 느리고 비싼 스위프트(SWIFT)가 싫다. 혁신적인 금융 인프라를 더 빠르고 효율적으로 만들고 싶다." 해시키의 자체 개발 레이어2 해시키체인은 28일 서울 삼성동에서...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
