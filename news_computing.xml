@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이커넥트, '파라솔' 출시···"알려지지 않은 보안 위협 사전 대응"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250329170720</link>
+            <guid>https://zdnet.co.kr/view/?no=20250329170720</guid>
+            <pubDate>Sat, 29 Mar 2025 08:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[엔드포인트 보안 솔루션 공급기업 제이커넥트(대표 정영미)는 사전에 알려지지 않은 위협을 차단하는 선천면역형 보안 솔루션 '파라솔'을 출시했다고 29일 밝혔다. 설치만 하면, 내...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주총 시즌 마감…중견 IT업계서 나온 주요 이슈는]]></title>
             <link>https://zdnet.co.kr/view/?no=20250329125202</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250328104037</guid>
             <pubDate>Fri, 28 Mar 2025 02:27:07 GMT</pubDate>
             <content:encoded><![CDATA[“금융 정보보호 및 개인정보보호 관리 체계(ISMS-P·Personal Information &amp; Information Security Management system) 인증을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[北 김정은, AI 자폭드론 참관…러 지원 가능성↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250328093028</link>
-            <guid>https://zdnet.co.kr/view/?no=20250328093028</guid>
-            <pubDate>Fri, 28 Mar 2025 02:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 인공지능(AI)을 탑재한 자폭 드론 생산 확대를 추진 중인 것으로 알려졌다. 28일 BBC 등 외신에 따르면 김정은 북한 국무위원장은 AI 기반 무기 체계를 본격화한 것...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
