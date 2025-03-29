@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 05:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 06:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡·두산·카카오 주목한 로봇…美 콘토로 176억원 투자 유치]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250329104115</link>
+            <guid>https://zdnet.co.kr/view/?no=20250329104115</guid>
+            <pubDate>Sat, 29 Mar 2025 06:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[창고 자동화 시스템 공급업체인 미국 콘토로로보틱스가 쿠팡과 두산, 카카오 등으로부터 투자를 받았다. 29일 업계에 따르면 콘토로는 최근 1천200만 달러(약 176억원) 규모 ...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/03/29/12173034ed58f0abf100c32cff8a14f0-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤오미, 포코 F7 시리즈 공개…프로 모델 4월 국내 출시]]></title>
             <link>https://zdnet.co.kr/view/?no=20250329111159</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250329125202</guid>
             <pubDate>Sat, 29 Mar 2025 05:12:13 GMT</pubDate>
             <content:encoded><![CDATA[국내 중견 IT 상장사들의 정기주주총회가 이달 말 잇따라 진행됐다. 전문가 임원을 사내이사로 선임하고 기업 아이덴티티를 재정립하는 한편 클라우드와 생성형 AI 사업 확대는 물론...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2024/11/27/79f3df36117600be935d3fcb32ccc199-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[1분건강] 외상성 뇌손상 경험 시 뇌졸중 위험 1.9배↑]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250328212009</guid>
             <pubDate>Fri, 28 Mar 2025 12:23:58 GMT</pubDate>
             <content:encoded><![CDATA[질문: 챗GPT로 지브리 스타일 이미지 생성하는 게 화제인데, 무슨 일이야? 그록 답변: 최근 오픈AI가 챗GPT에 GPT-4o 모델을 기반으로 한 새로운 이미지 생성 기능을 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틸론, '2025 DAVEIT DAY' 개최···차세대 업무환경 제시]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250328205703</link>
-            <guid>https://zdnet.co.kr/view/?no=20250328205703</guid>
-            <pubDate>Fri, 28 Mar 2025 12:23:58 GMT</pubDate>
-            <content:encoded><![CDATA["소프트웨어(SW)를 잘하는 회사가 AI도 잘한다는 걸 보여주겠습니다. 틸론은 최고 기술을 가진 회사가 아니라 대한민국에서 커스터마이징이 가장 뛰어난 회사입니다. 고객에 최정상...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
