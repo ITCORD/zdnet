@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 04:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 05:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주총 시즌 마감…중견 IT업계서 나온 주요 이슈는]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250329125202</link>
+            <guid>https://zdnet.co.kr/view/?no=20250329125202</guid>
+            <pubDate>Sat, 29 Mar 2025 05:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 중견 IT 상장사들의 정기주주총회가 이달 말 잇따라 진행됐다. 전문가 임원을 사내이사로 선임하고 기업 아이덴티티를 재정립하는 한편 클라우드와 생성형 AI 사업 확대는 물론...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["테슬라, 옵티머스 상용화 가속화"...로봇, 산업환경 바꿀까]]></title>
             <link>https://zdnet.co.kr/view/?no=20250329071824</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250328093028</guid>
             <pubDate>Fri, 28 Mar 2025 02:27:07 GMT</pubDate>
             <content:encoded><![CDATA[북한이 인공지능(AI)을 탑재한 자폭 드론 생산 확대를 추진 중인 것으로 알려졌다. 28일 BBC 등 외신에 따르면 김정은 북한 국무위원장은 AI 기반 무기 체계를 본격화한 것...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국은행, 네이버 AI 모델 '하이퍼클로바X' 도입한다…금융 특화 소버린AI 구축 확산]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250328094955</link>
-            <guid>https://zdnet.co.kr/view/?no=20250328094955</guid>
-            <pubDate>Fri, 28 Mar 2025 02:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[한국은행이 내부 업무에 활용할 생성형 인공지능(AI) 플랫폼 개발을 위해 네이버클라우드의 거대언어모델(LLM)인 '하이퍼클로바X'를 선택했다. 이를 계기로 금융 특화 '소버린A...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
