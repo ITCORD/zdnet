@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 01:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 02:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["테슬라, 옵티머스 상용화 가속화"...로봇, 산업환경 바꿀까]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250329071824</link>
+            <guid>https://zdnet.co.kr/view/?no=20250329071824</guid>
+            <pubDate>Sat, 29 Mar 2025 02:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[지난 26일(이하 현지시간) 미국 워싱턴 국회의사당에서 열린 '중국 공산당 전략 경쟁 특별위원회' 행사에 테슬라의 휴머노이드 로봇 '옵티머스'가 등장해 화제가 됐다. 미국 경제...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Q&AI] 챗GPT '지브리 풍' 이미지 생성 화제… 왜?]]></title>
             <link>https://zdnet.co.kr/view/?no=20250328212009</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250328094955</guid>
             <pubDate>Fri, 28 Mar 2025 02:27:07 GMT</pubDate>
             <content:encoded><![CDATA[한국은행이 내부 업무에 활용할 생성형 인공지능(AI) 플랫폼 개발을 위해 네이버클라우드의 거대언어모델(LLM)인 '하이퍼클로바X'를 선택했다. 이를 계기로 금융 특화 '소버린A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코헤시티-레드햇, 오픈시프트 보안 강화…랜섬웨어 대응↑]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250328100221</link>
-            <guid>https://zdnet.co.kr/view/?no=20250328100221</guid>
-            <pubDate>Fri, 28 Mar 2025 02:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[코헤시티가 레드햇과 협력해 오픈시프트 데이터 보호 역량을 강화한다. 코헤시티는 자사 데이터 클라우드에서 레드햇 오픈시프트 가상화를 지원한다고 28일 밝혔다. 이번 발표는 코헤시...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
