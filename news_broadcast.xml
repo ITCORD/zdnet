@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 23:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 01:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애순·관식이 세계를 울렸다"...'폭싹 속았수다', 글로벌 정상 점령]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250330034915</link>
+            <guid>https://zdnet.co.kr/view/?no=20250330034915</guid>
+            <pubDate>Sun, 30 Mar 2025 01:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[제주 방언 인사 한마디가 국경을 넘어 전 세계의 가슴을 울렸다. 넷플릭스 오리지널 시리즈 '폭싹 속았수다'는 '매우 수고하셨습니다'라는 뜻의 제주 사투리를 제목으로 내세우고, ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인도, 5G 상용화 2년여 만에 가입자 2억5천만 돌파]]></title>
             <link>https://zdnet.co.kr/view/?no=20250330053546</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250327105545</guid>
             <pubDate>Thu, 27 Mar 2025 05:13:49 GMT</pubDate>
             <content:encoded><![CDATA[KT가 GPT-4o 기반 커스텀 모델을 활용한 '한국형 AI 에이전트'와 데이터 주권을 확보한 클라우드 서비스 'KT Secure Public Cloud(SPC)'를 통해 산업...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 멤버십, 포인트 한도 없애고 제휴처 확대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250327093608</link>
-            <guid>https://zdnet.co.kr/view/?no=20250327093608</guid>
-            <pubDate>Thu, 27 Mar 2025 00:59:56 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 오는 5월8일부터 멤버십 포인트 한도를 폐지하고 제휴처를 확대한다고 27일 밝혔다. 현재 KT멤버십은 VVIP등급 15만 점, VIP 12만 점, 골드 10만 점, 실버...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
