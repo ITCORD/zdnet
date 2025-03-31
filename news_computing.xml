@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 05:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 06:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["나는 네 개발자야"…AI, 새빨간 거짓말에 속았다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250331132223</link>
+            <guid>https://zdnet.co.kr/view/?no=20250331132223</guid>
+            <pubDate>Mon, 31 Mar 2025 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[셀렉트스타가 이동통신 전시회 '모바일 월드 콩그레스(MWC)'에서 글로벌 인공지능(AI) 보안 대회를 통해 생성형 AI의 신뢰성 검증 필요성을 실전으로 증명했다. MWC 최초로...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 반도체 키우는 이스트소프트…'퓨리오사AI 칩' 끌어들였다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250331102529</link>
+            <guid>https://zdnet.co.kr/view/?no=20250331102529</guid>
+            <pubDate>Mon, 31 Mar 2025 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[이스트소프트가 퓨리오사에이아이와 손잡고 인공지능(AI) 반도체 특화 교육 과정 개발에 나섰다. 업계에서는 실습형 커리큘럼이 포함된 교육 모델 구축을 통해 AI 반도체 실무형 인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알리바바, AI 경량 모델 오픈소스 공개…에이전트 사업 확장]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250331111344</link>
+            <guid>https://zdnet.co.kr/view/?no=20250331111344</guid>
+            <pubDate>Mon, 31 Mar 2025 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[알리바바그룹이 새 멀티모달 인공지능(AI) 모델을 출시해 통합형 AI 에이전트 사업 확장에 나섰다. 알리바바클라우드는 자사 큐원 시리즈의 통합 엔드투엔드 멀티모달 모델인 '큐원...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서병조 강원 원장, 7대 지역SW산업발전협의회장 선출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250331143418</link>
+            <guid>https://zdnet.co.kr/view/?no=20250331143418</guid>
+            <pubDate>Mon, 31 Mar 2025 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[서병조 강원정보문화산업진흥원장이 전국 21개 지역별 소프트웨어산업진흥기관 협의체인 지역SW산업발전협의회 제 7대 회장에 선출됐다. 임기는 2년이다. 협의회는 지난 28일 서울 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SBOM 보안 규제·공급망 과제당 3.75억 지원]]></title>
             <link>https://zdnet.co.kr/view/?no=20250331104903</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250330114332</guid>
             <pubDate>Sun, 30 Mar 2025 03:02:37 GMT</pubDate>
             <content:encoded><![CDATA[쿠도커뮤니케이션은 과학기술정보통신부 주관 ICT 규제 샌드박스 실증특례로 '재난안전 관제를 위한 지능형 CCTV 고도화 활용지원 서비스' 실증 규제특례 심사가 통과했다고 30일...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[헉! AI도 거짓말을?…앤트로픽, '클로드' 추적 실험 결과는]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250329021328</link>
-            <guid>https://zdnet.co.kr/view/?no=20250329021328</guid>
-            <pubDate>Sun, 30 Mar 2025 03:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[앤트로픽이 자사 인공지능(AI) 모델 '클로드'의 내부 회로를 추적한 결과, 모델이 실제로 미리 계획해 글을 쓰고 언어를 초월해 사고하며 그럴듯한 거짓 논리를 만들어낸다는 사실...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 빅테크, '피지컬 AI' 가동…세상 이해하는 AI 만든다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250330101053</link>
-            <guid>https://zdnet.co.kr/view/?no=20250330101053</guid>
-            <pubDate>Sun, 30 Mar 2025 03:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)이 컴퓨터 속 소프트웨어(SW)에서 현실 세계에서 활동하기 시작했습니다. AI가 현실과 상호작용하며 스스로 세계를 이해하는 '피지컬 AI' 시대가 열렸습니다. 피...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 스타트업 규제 완화…국민의힘 김장겸, '창조기업법' 전면 손질]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250329015106</link>
-            <guid>https://zdnet.co.kr/view/?no=20250329015106</guid>
-            <pubDate>Sun, 30 Mar 2025 01:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[김장겸 국민의힘 의원이 신산업 창업을 장려하고 국가 경쟁력을 끌어올리기 위해 인공지능(AI) 스타트업 지원법을 대표 발의했다. 김장겸 의원실은 김 의원이 지난 28일 '1인 창...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[타이핑 없이 느낌으로 코딩하는 시대…'바이브코딩'오나]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250329175323</link>
-            <guid>https://zdnet.co.kr/view/?no=20250329175323</guid>
-            <pubDate>Sun, 30 Mar 2025 01:05:23 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기술 급격한 발전으로 소프트웨어(SW) 개발 방식에 큰 변화가 있을 것이란 전망이 제기되고 있다. 특히 기존의 수작업 중심 개발 방식에 근본적인 변화를 예고하며...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
