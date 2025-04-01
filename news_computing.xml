@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 11:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 12:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 거짓말을 배우면…강화학습으로 팀 성과 조작하는 방식]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250401202434</link>
+            <guid>https://zdnet.co.kr/view/?no=20250401202434</guid>
+            <pubDate>Tue, 01 Apr 2025 12:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[신뢰를 조작하는 적대적 AI: 팀 성과 최대 30% 저하시킨 연구 결과 인공지능(AI) 시스템이 의료나 형사 사법과 같은 중요한 영역에서 인간의 의사결정을 돕는 일이 늘어나면서...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[외산 CSP 공습 본격화…구글·MS 이어 AWS도 CSAP '하' 등급 획득]]></title>
             <link>https://zdnet.co.kr/view/?no=20250401173707</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250401095847</guid>
             <pubDate>Tue, 01 Apr 2025 03:09:10 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 클라우드 기술 행사인 아마존웹서비스(AWS) 서밋 서울의 부스 참가 비용이 해마다 상승하고 있다. 오랜 기간 행사에 참여해온 주요 파트너사들 늘어나는 비용 부담에 참...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더존비즈온, AX 전시·체험 공간 'ATEC' 개관… "AX 해답, 한곳에서 제공"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250401102541</link>
-            <guid>https://zdnet.co.kr/view/?no=20250401102541</guid>
-            <pubDate>Tue, 01 Apr 2025 03:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[더존비즈온(대표 김용우)이 기업 대상 디지털 전환 체험 공간 'DTEC'을 'AI전환 익스피리언스센터(ATEC)'으로 재편하고, 본격적인 AI 전환(AX) 지원에 나선다. 더존...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
