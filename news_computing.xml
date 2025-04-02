@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 15:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["익명성 없으면 데이터는 언제 터질지 모르는 시한폭탄"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250402235846</link>
+            <guid>https://zdnet.co.kr/view/?no=20250402235846</guid>
+            <pubDate>Wed, 02 Apr 2025 15:14:09 GMT</pubDate>
+            <content:encoded><![CDATA["익명성이 없다면 데이터는 언제 터질지 모르는 시한폭탄일 뿐입니다. 대한민국이 AI 강국과 데이터 강국이 되려면 국가익명정보 인증센터를 세워 익명정보를 활성화해야 합니다. 금모...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["산학연 최대 보안 축제"···'넷섹-KR 2025' 17일 개막]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402215618</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250402103842</guid>
             <pubDate>Wed, 02 Apr 2025 06:18:59 GMT</pubDate>
             <content:encoded><![CDATA[북한 IT 인력의 사이버 위협이 북미 뿐 아니라 유럽을 비롯한 전 세계로 확대되고 있다는 연구 결과가 나왔다. 글로벌 단속이 강화되는 가운데 북한은 위조 신원, 암호화폐, 가상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 어려운 클라우드 네이티브·AI 운영…글로벌 오픈소스 기업 수세의 지원방안은?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250402132403</link>
-            <guid>https://zdnet.co.kr/view/?no=20250402132403</guid>
-            <pubDate>Wed, 02 Apr 2025 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[수세가 최적의 오픈소스 기반 플랫폼을 앞세워 클라우드 네이티브와 생성형 AI 운영·관리에 어려움을 겪는 국내 금융권 대상 지원에 나선다. 수세의 베르너 크노블리히(Werner ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
