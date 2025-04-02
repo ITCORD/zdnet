@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 15:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 16:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["GPU 72장 돌려야 답 나온다"…엔비디아, AI 추론 '끝판왕' 내놔]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250401125737</link>
+            <guid>https://zdnet.co.kr/view/?no=20250401125737</guid>
+            <pubDate>Wed, 02 Apr 2025 16:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 복잡한 사고력 기반 AI 모델 확대에 맞춰 새로운 추론 성능 전략을 공개한다. 점점 더 많은 연산을 요구하는 AI 모델 등장에 따른 글로벌 평가 기준 변화에 선제 대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/04/01/fabb8142e19a14e7cf49610d3c59f6de-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["익명성 없으면 데이터는 언제 터질지 모르는 시한폭탄"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402235846</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250402235326</guid>
             <pubDate>Wed, 02 Apr 2025 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[순찰로봇 전문기업 도구공간은 한국관광공사가 주관하는 2025년 관광기업 혁신바우처 지원사업의 제공기업으로 선정됐다고 2일 밝혔다. 관광기업 혁신 바우처 지원사업은 공급기업의 특...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/04/02/53836387d66c8703f49f982c0fa08b9f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[60주년 대림비앤코, '대림바스'로 사명 변경]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250402180358</guid>
             <pubDate>Wed, 02 Apr 2025 10:14:36 GMT</pubDate>
             <content:encoded><![CDATA[아마존이 에이전트 인공지능(AI) 시장에 뛰어들며 웹 기반 자동화 기술 고도화에 나섰다. 기존 거대언어모델(LLM)이 대화 응답에 머물렀던 한계를 넘어서 사람을 대신해 실제 작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔트룩스, AWS 韓 상륙 첫날 LLM '루시아 2.5' 올렸다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250402175705</link>
-            <guid>https://zdnet.co.kr/view/?no=20250402175705</guid>
-            <pubDate>Wed, 02 Apr 2025 10:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[솔트룩스가 자사 거대언어모델(LLM)을 아마존웹서비스(AWS) 마켓플레이스를 통해 선보였다. 솔트룩스는 AWS 한국 마켓플레이스 정식 오픈에 맞춰 '루시아 2.5'를 아마존 머...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

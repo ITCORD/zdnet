@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 15:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 16:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["GPU 72장 돌려야 답 나온다"…엔비디아, AI 추론 '끝판왕' 내놔 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250401125737</link>
+            <guid>https://zdnet.co.kr/view/?no=20250401125737</guid>
+            <pubDate>Wed, 02 Apr 2025 16:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 복잡한 사고력 기반 AI 모델 확대에 맞춰 새로운 추론 성능 전략을 공개한다. 점점 더 많은 연산을 요구하는 AI 모델 등장에 따른 글로벌 평가 기준 변화에 선제 대...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/04/01/fabb8142e19a14e7cf49610d3c59f6de-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["익명성 없으면 데이터는 언제 터질지 모르는 시한폭탄" (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402235846</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250402235326</guid>
             <pubDate>Wed, 02 Apr 2025 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[순찰로봇 전문기업 도구공간은 한국관광공사가 주관하는 2025년 관광기업 혁신바우처 지원사업의 제공기업으로 선정됐다고 2일 밝혔다. 관광기업 혁신 바우처 지원사업은 공급기업의 특...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/04/02/53836387d66c8703f49f982c0fa08b9f-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[60주년 대림비앤코, '대림바스'로 사명 변경 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250402180358</guid>
             <pubDate>Wed, 02 Apr 2025 10:14:36 GMT</pubDate>
             <content:encoded><![CDATA[아마존이 에이전트 인공지능(AI) 시장에 뛰어들며 웹 기반 자동화 기술 고도화에 나섰다. 기존 거대언어모델(LLM)이 대화 응답에 머물렀던 한계를 넘어서 사람을 대신해 실제 작...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔트룩스, AWS 韓 상륙 첫날 LLM '루시아 2.5' 올렸다 (지디넷코리아 ─ 뉴스 ─ 최신 뉴스)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250402175705</link>
-            <guid>https://zdnet.co.kr/view/?no=20250402175705</guid>
-            <pubDate>Wed, 02 Apr 2025 10:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[솔트룩스가 자사 거대언어모델(LLM)을 아마존웹서비스(AWS) 마켓플레이스를 통해 선보였다. 솔트룩스는 AWS 한국 마켓플레이스 정식 오픈에 맞춰 '루시아 2.5'를 아마존 머...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -328,10 +328,18 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["GPU 72장 돌려야 답 나온다"…엔비디아, AI 추론 '끝판왕' 내놔 (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250401125737</link>
+            <guid>https://zdnet.co.kr/view/?no=20250401125737</guid>
+            <pubDate>Wed, 02 Apr 2025 16:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 복잡한 사고력 기반 AI 모델 확대에 맞춰 새로운 추론 성능 전략을 공개한다. 점점 더 많은 연산을 요구하는 AI 모델 등장에 따른 글로벌 평가 기준 변화에 선제 대...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA["익명성 없으면 데이터는 언제 터질지 모르는 시한폭탄" (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402235846</link>
             <guid>https://zdnet.co.kr/view/?no=20250402235846</guid>
-            <pubDate>Wed, 02 Apr 2025 15:14:09 GMT</pubDate>
+            <pubDate>Wed, 02 Apr 2025 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA["익명성이 없다면 데이터는 언제 터질지 모르는 시한폭탄일 뿐입니다. 대한민국이 AI 강국과 데이터 강국이 되려면 국가익명정보 인증센터를 세워 익명정보를 활성화해야 합니다. 금모...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -480,18 +488,10 @@
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[겉으론 평범한 유럽 개발자…알고보니 北 자금줄? (지디넷코리아 ─ 뉴스 ─ 컴퓨팅)]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250402103842</link>
-            <guid>https://zdnet.co.kr/view/?no=20250402103842</guid>
-            <pubDate>Wed, 02 Apr 2025 06:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[북한 IT 인력의 사이버 위협이 북미 뿐 아니라 유럽을 비롯한 전 세계로 확대되고 있다는 연구 결과가 나왔다. 글로벌 단속이 강화되는 가운데 북한은 위조 신원, 암호화폐, 가상...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[60주년 대림비앤코, '대림바스'로 사명 변경 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402234512</link>
             <guid>https://zdnet.co.kr/view/?no=20250402234512</guid>
-            <pubDate>Wed, 02 Apr 2025 15:14:15 GMT</pubDate>
+            <pubDate>Wed, 02 Apr 2025 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[국내 욕실 1위 기업 대림비앤코는 창립 60주년을 맞아 사명을 대림바스로 변경하고 새 기업 이미지(CI)를 공개했다고 2일 밝혔다. 대림바스는 1966년 요업센터로 출발해 대림...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -499,7 +499,7 @@
             <title><![CDATA[쿠쿠, 대한민국 가전대상 2관왕 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402230343</link>
             <guid>https://zdnet.co.kr/view/?no=20250402230343</guid>
-            <pubDate>Wed, 02 Apr 2025 15:14:15 GMT</pubDate>
+            <pubDate>Wed, 02 Apr 2025 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[종합생활가전 기업 쿠쿠는 '2025 대한민국 가전대상' 2개 부문에서 수상했다고 2일 밝혔다. 쿠쿠는 전기밥솥 부문 마스터셰프 사일런스와, 무선청소기 부문 파워클론으로 상을 받...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
@@ -507,7 +507,7 @@
             <title><![CDATA[교원웰스, 16cm 초슬림 직수정수기 출시 (지디넷코리아 ─ 뉴스 ─ 모바일)]]></title>
             <link>https://zdnet.co.kr/view/?no=20250402231710</link>
             <guid>https://zdnet.co.kr/view/?no=20250402231710</guid>
-            <pubDate>Wed, 02 Apr 2025 15:14:15 GMT</pubDate>
+            <pubDate>Wed, 02 Apr 2025 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[교원웰스는 냉온정수기 '슬림원'을 출시한다고 2일 밝혔다. 슬림원은 교원웰스가 4년 만에 새롭게 선보이는 직수형 냉온정수기 신제품이다. 사이즈는 물론, 성능과 정수 품질, 디자...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
