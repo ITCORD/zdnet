@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 09:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 10:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 인도의 AI 각성, 스타트업 중심 기술 주권 구축]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250403151249</link>
+            <guid>https://zdnet.co.kr/view/?no=20250403151249</guid>
+            <pubDate>Thu, 03 Apr 2025 10:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 인공지능(AI) 모델 '딥시크(DeepSeek)'의 등장은 글로벌 AI 지형에 커다란 충격을 주었고 이는 인도가 자국의 AI 전략을 근본적으로 재구성하는 계기가 됐다. ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['코드게이트 2025' 본선 진출팀 40개 팀 확정]]></title>
             <link>https://zdnet.co.kr/view/?no=20250403174512</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250403111201</guid>
             <pubDate>Thu, 03 Apr 2025 05:13:58 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 탄핵심판 선고를 앞두고 서울 종로구 일대 긴장감이 고조되면서, 인근에 위치한 주요 IT 기업들이 4일 하루 재택근무 체제로 전환한다. 3일 관련 업계에 따르면 한...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS "금융 특화 LLM 평가 도구, AI 도입 기준점 될 것"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250403091953</link>
-            <guid>https://zdnet.co.kr/view/?no=20250403091953</guid>
-            <pubDate>Thu, 03 Apr 2025 02:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[금융권에서도 생성형 AI에 대한 관심이 높아지고 있지만, 보안과 정확성 문제로 인해 실제 도입은 쉽지 않다. LG CNS는 이런 현실적인 장벽을 해결하기 위해, 금융 업무에 특...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
