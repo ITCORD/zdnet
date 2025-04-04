@@ -4,11 +4,19 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 04:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[외신, 尹 탄핵 긴급 타전..."한국, 60일 내 대선”]]></title>
+            <title><![CDATA[대통령 탄핵 인용에...웨이브, 동시접속자 18배 증가]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250404130654</link>
+            <guid>https://zdnet.co.kr/view/?no=20250404130654</guid>
+            <pubDate>Fri, 04 Apr 2025 05:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[헌법재판소가 윤석열 대통령을 파면한 직후에 지상파 3사 등 서비스를 제공하는 온라인동영상서비스(OTT) 웨이브의 동시 접속자가 급증했다. 4일 웨이브에 따르면 이날 선고 직전인...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[외신, 尹 탄핵 긴급 타전..."한국, 60일 내 대선"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250404120051</link>
             <guid>https://zdnet.co.kr/view/?no=20250404120051</guid>
             <pubDate>Fri, 04 Apr 2025 03:28:44 GMT</pubDate>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250401115541</guid>
             <pubDate>Tue, 01 Apr 2025 05:13:48 GMT</pubDate>
             <content:encoded><![CDATA['사이버레카'가 혐오와 조롱을 콘텐츠 삼아 왜곡된 미디어 생태계를 형성하고 있다는 지적이 나왔다. 현행법의 한계와 플랫폼 기업의 무책임, 그리고 대중의 피로까지 더해지며 피해는...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이상규 신임 정보통신정책연구원장 취임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250401115830</link>
-            <guid>https://zdnet.co.kr/view/?no=20250401115830</guid>
-            <pubDate>Tue, 01 Apr 2025 03:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[정보통신정책연구원(KISDI)은 1일 이상규 원장의 취임식을 열었다. 이상규 원장은 취임사를 통해 디지털화라는 4차 산업혁명을 넘어 AI화에 철저하게 대비해야 한다고 주문했다....]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
