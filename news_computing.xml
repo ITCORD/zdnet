@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 01:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 02:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 헌재 "비상계엄 선포, 실체적 절차 위반"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250404111607</link>
+            <guid>https://zdnet.co.kr/view/?no=20250404111607</guid>
+            <pubDate>Fri, 04 Apr 2025 02:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[헌재 "비상계엄 선포, 실체적 절차 위반"...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["美 영향력 낮추자"…유럽 클라우드 연합회, '트럼프 방지' 투자 추진]]></title>
             <link>https://zdnet.co.kr/view/?no=20250403172950</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250403144506</guid>
             <pubDate>Thu, 03 Apr 2025 06:19:01 GMT</pubDate>
             <content:encoded><![CDATA[기업교육 전문기업 휴넷(대표 조영탁)은 온·오프라인 교육을 통합해 설계 및 관리할 수 있는 LMS 솔루션 '러닝메이커(Learning Maker)'를 출시했다고 3일 밝혔다. ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코 "AI 위협도 AI로 대응"…'원 시스코' 전략으로 통합 보안 제공"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250403135712</link>
-            <guid>https://zdnet.co.kr/view/?no=20250403135712</guid>
-            <pubDate>Thu, 03 Apr 2025 06:19:01 GMT</pubDate>
-            <content:encoded><![CDATA["인공지능(AI)이 발전하면서 기존 보안 솔루션만으로 대응하기 어려운 시대가 왔습니다. 'AI 디펜스'는 빠르게 변화하는 보안 위협 환경 속에서도 AI 애플리케이션 개발과 배포...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
