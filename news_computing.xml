@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 10:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 11:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Q&AI] AI가 정리한 '尹 파면' 헌재 판결문]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250404192300</link>
+            <guid>https://zdnet.co.kr/view/?no=20250404192300</guid>
+            <pubDate>Fri, 04 Apr 2025 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[질문: 윤석열 대통령 파면에 대한 헌재의 판결문 자세히 정리해줘. 그록 답변: 2025년 4월 4일, 헌법재판소는 윤석열 대통령의 탄핵을 인용하며 대통령직에서 파면한다고 선고했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로크웰 오토메이션-AWS 맞손…AI·데이터로 공장 혁신 가속]]></title>
             <link>https://zdnet.co.kr/view/?no=20250404171132</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250403180757</guid>
             <pubDate>Fri, 04 Apr 2025 01:00:44 GMT</pubDate>
             <content:encoded><![CDATA["이제는 지식 탐색과 코드 자동화가 현실화될 정도로 인공지능(AI) 모델이 발전했습니다. 단순히 답을 잘하는 AI가 아니라 현실 데이터를 탐색하고 툴을 활용해 실제 작업을 수행...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기고] 인도의 AI 각성, 스타트업 중심 기술 주권 구축]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250403151249</link>
-            <guid>https://zdnet.co.kr/view/?no=20250403151249</guid>
-            <pubDate>Thu, 03 Apr 2025 10:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 인공지능(AI) 모델 '딥시크(DeepSeek)'의 등장은 글로벌 AI 지형에 커다란 충격을 주었고 이는 인도가 자국의 AI 전략을 근본적으로 재구성하는 계기가 됐다. ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
