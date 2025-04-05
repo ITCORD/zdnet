@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 22:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 23:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타링크 의존하던 우크라이나, 원웹 위성 대거 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250405180147</link>
+            <guid>https://zdnet.co.kr/view/?no=20250405180147</guid>
+            <pubDate>Sat, 05 Apr 2025 23:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나에서 일론 머스크의 '스타링크'에 의존하던 위성 인터넷 서비스에 새로운 경쟁자가 등장하고 있다. 프랑스 위성통신 기업 유텔샛(Eutelsat)이 독일 정부의 지원을 받...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["AI는 수단, 혁신이 목적"…AI혁신 정부조직체계 논의 부상]]></title>
             <link>https://zdnet.co.kr/view/?no=20250404185105</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250402150355</guid>
             <pubDate>Wed, 02 Apr 2025 06:18:53 GMT</pubDate>
             <content:encoded><![CDATA[통신사들이 최근 산불로 인한 특별재난지역 피해가구 대상으로 초고속인터넷을 해지하더라도 위약금을 받지 않기로 했다. 방송통신위원회는 KT, LG유플러스, SK브로드밴드 등 통신 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[송정수 전 RAPA 부회장, TEIN협력센터 사무총장 취임]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250402114516</link>
-            <guid>https://zdnet.co.kr/view/?no=20250402114516</guid>
-            <pubDate>Wed, 02 Apr 2025 02:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[송정수 전 한국전파진흥협회(RAPA) 상근부회장이 재단법인 '테인(TEIN) 협력센터' 사무총장에 1일 취임했다. TEIN(트랜스-유라시아 인포메이션 네트워크) 협력센터는 연구...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
