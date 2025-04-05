@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 06:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 07:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LBS테크, 서울시 무장애 지도 그린다]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250405154850</link>
+            <guid>https://zdnet.co.kr/view/?no=20250405154850</guid>
+            <pubDate>Sat, 05 Apr 2025 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[교통약자를 위한 보행환경 정보 수집 및 경로 제공 플랫폼을 제공하는 엘비에스테크(LBS테크 대표 이시완)는 지난 2일 서울 배리어프리맵 제작을 위해 서울시와 업무 협약을 체결했...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["생성형 AI가 몰고 온 봄"…지난달 스타트업 투자, 테크 플랫폼이 주도]]></title>
             <link>https://zdnet.co.kr/view/?no=20250405125047</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250404103416</guid>
             <pubDate>Fri, 04 Apr 2025 06:20:05 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 빅테크 클라우드 서비스 기업(CSP)들이 클라우드 보안인증(CSAP) 하등급을 취득하며 국내 공공 클라우드 시장 진출을 본격화하는 가운데, 미국 트럼프 행정부의 상호관세...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 딥마인드 "챗GPT는 아직 애기 수준"…왜?]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404135752</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404135752</guid>
-            <pubDate>Fri, 04 Apr 2025 05:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT는 시작에 불과했다: 구글 딥마인드가 밝힌 인공지능의 5단계 발전 로드맵 인공일반지능(Artificial General Intelligence, AGI)은 인간 수준 또...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
