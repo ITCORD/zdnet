@@ -4,16 +4,40 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 12:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 13:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국토부, K-UAM 지자체 시범사업 본격 지원]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406221458</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406221458</guid>
+            <pubDate>Sun, 06 Apr 2025 13:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[하늘은 나는 택시로 불리는 도심항공교통(UAM) 상용화를 차질없이 준비하기 위한 지역 시범사업 계획수립이 시작된다. 국토교통부는 '2025년 도심항공교통 지역시범사업 지원 공모...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2024/02/22/87b157c93111229967b1e5c10ecd8e4b-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지역냉난방 요금 부담 낮아진다…열 요금 구간 신설]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406220532</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406220532</guid>
+            <pubDate>Sun, 06 Apr 2025 13:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[지역냉난방 요금이 올해 기준사업자인 한국지역난방공사 요금의 98%를 시작으로 내년 97%, 2027년 95%로 단계적으로 낮아진다. 또 효율향상·안전관리 비용 지원범위도 확대된...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2023/05/09/7c7f2364e048f658621e2b31c5ac9dbc-290x182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['논알콜 맥주' 홍보 힘주는 오비맥주..."맥주 아닌, 맥주 맛 음료"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406131421</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406131421</guid>
+            <pubDate>Sun, 06 Apr 2025 13:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[오비맥주가 자사의 논알콜 제품인 '카스 0.0'을 파리올림픽에 이어 서울모빌리티쇼 참관객들에게 홍보하고 있다. 주류 업계의 논알콜 제품 마케팅 방식이 예전과 다른 기조가 될 수...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소액주주 연대 "MBK, 사방에 적…고려아연 경영권 확보 쉽지 않아"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250406185431</link>
             <guid>https://zdnet.co.kr/view/?no=20250406185431</guid>
             <pubDate>Sun, 06 Apr 2025 11:10:10 GMT</pubDate>
             <content:encoded><![CDATA[주주행동주의를 표방하는 소액주주 연대 플랫폼 헤이홀더는 지난 4일 '2025년 정기주주총회 결산'이라는 논평을 내고 MBK파트너스의 고려아연 경영권 인수 시도에 대해 ”홈플러스...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/03/14/54dcd5d3b20089499bf4df3ab3ebf42e-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국힘, 권영세·권성동 지도부 유임...7일 대선 선관위 구성]]></title>
@@ -21,7 +45,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250406184319</guid>
             <pubDate>Sun, 06 Apr 2025 10:14:02 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘이 권영세 비상대책위원장, 권성동 원내대표 등의 현 지도부 체제를 차기 대선까지 유지하기로 했다. 아울러 대선을 위한 선거관리위원회는 7일 구성키로 했다. 서지영 국민의...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/04/06/6ce7771335b70e925e711e3de393f6fa-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[사이버렉카 수사 대응 입법토론회 열린다]]></title>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250406111859</guid>
             <pubDate>Sun, 06 Apr 2025 03:00:23 GMT</pubDate>
             <content:encoded><![CDATA[중국 사이버 스파이 그룹이 패치 미적용 시스템을 노린 '엔데이' 공격을 활성화한 정황이 드러났다. 구글 맨디언트는 이반티와의 공동 조사를 통해 CVE-2025-22457 취약점...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[日 PC 제조사 '바이오', 미국서 '무관세 마케팅']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250406110306</link>
-            <guid>https://zdnet.co.kr/view/?no=20250406110306</guid>
-            <pubDate>Sun, 06 Apr 2025 03:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[도널드 트럼프 2기 행정부가 중국을 포함해 전세계 국가에 최소 10%, 최대 50% 이상의 상호 관세 부과에 나선 가운데 일본 PC 제조사 '바이오'(VAIO)가 무관세 마케팅...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+, 백석대와 '글로컬대학 30' 사업 AI 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250406103724</link>
-            <guid>https://zdnet.co.kr/view/?no=20250406103724</guid>
-            <pubDate>Sun, 06 Apr 2025 03:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 백석대학교와 협력해 '2025 글로컬대학 30' 사업의 핵심 기술 파트너로 참여하고, AI 인프라와 플랫폼 구축을 통한 대학의 디지털 혁신을 지원한다고 6일 밝혔...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울모빌리티쇼에 간 벨리곰…이벤트 풍성]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250406110933</link>
-            <guid>https://zdnet.co.kr/view/?no=20250406110933</guid>
-            <pubDate>Sun, 06 Apr 2025 03:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[롯데홈쇼핑(대표 김재겸)의 인기 캐릭터 '벨리곰'이 오는 13일까지 경기도 고양시 킨텍스에서 열리는 국내 최대 모빌리티 전시회 '2025 서울모빌리티쇼'에 참여한다. 롯데홈쇼핑...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
