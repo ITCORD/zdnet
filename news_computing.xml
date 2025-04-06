@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 01:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 03:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 해커, 패치 미적용 시스템 노려…"VPN 공격 활발"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406111859</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406111859</guid>
+            <pubDate>Sun, 06 Apr 2025 03:00:37 GMT</pubDate>
+            <content:encoded><![CDATA[중국 사이버 스파이 그룹이 패치 미적용 시스템을 노린 '엔데이' 공격을 활성화한 정황이 드러났다. 구글 맨디언트는 이반티와의 공동 조사를 통해 CVE-2025-22457 취약점...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, AI 모델로 고전 게임 '퀘이크 II' 재현]]></title>
             <link>https://zdnet.co.kr/view/?no=20250406093842</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250404143638</guid>
             <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[엔비디아와 짐바브웨 기업이 아프리카 지역 개발자들의 GPU 접근성 향상과 디지털 독립성 강화를 위해 아프리카 대륙 최초의 인공지능(AI) 데이터센터 건립을 추진한다. 4일 CN...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["쿠키런, 접속 폭주에도 끄떡없다"…데브시스터즈, 아카마이 클라우드 전격 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404111824</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404111824</guid>
-            <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[아카마이가 쿠키런 게임 서버를 글로벌 수준으로 끌어올린다. 전 세계 수억 명 사용자가 언제 어디서나 끊김 없는 플레이를 즐기게 될 전망이다. 아카마이코리아는 데브시스터즈가 아카...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
