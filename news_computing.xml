@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 04:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 05:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 오픈AI 상대 소송 본격화…내년 배심원 재판]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406120015</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406120015</guid>
+            <pubDate>Sun, 06 Apr 2025 05:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 오픈AI의 영리화 전환을 두고 제기한 소송이 내년 초 미국 법정서 다뤄진다. 5일 디인포메이션 보도에 따르면 미국 캘리포니아 북부지방법...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 해커, 패치 미적용 시스템 노려…"VPN 공격 활발"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250406111859</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250404155243</guid>
             <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA)는 한국자동차모빌리티산업협회(KAMA)와 모빌리티 소프트웨어(SW) 글로벌 경쟁력 확보를 위해 협력한다. KOSA는 경기도 고양시 킨텍스에서 KA...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 아프리카 최초 AI 데이터센터 건립…"디지털 독립성 강화"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404143638</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404143638</guid>
-            <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[엔비디아와 짐바브웨 기업이 아프리카 지역 개발자들의 GPU 접근성 향상과 디지털 독립성 강화를 위해 아프리카 대륙 최초의 인공지능(AI) 데이터센터 건립을 추진한다. 4일 CN...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
