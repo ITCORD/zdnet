@@ -4,9 +4,25 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 23:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 01:07:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, AI 모델로 고전 게임 '퀘이크 II' 재현]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406093842</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406093842</guid>
+            <pubDate>Sun, 06 Apr 2025 01:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 생성형 인공지능(AI) 기술만으로 고전 게임을 재현했다. 6일 더 버지 등 외신에 따르면 자체 AI 모델 '뮤즈'를 활용해 만든 '퀘이크 II' 데모 버...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["비용 줄이고 성능 높여"…메타, '라마 4' 공개로 딥시크 정면돌파]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250406083519</link>
+            <guid>https://zdnet.co.kr/view/?no=20250406083519</guid>
+            <pubDate>Sun, 06 Apr 2025 01:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 중국발 오픈소스 인공지능(AI) 모델 급부상에 대응하기 위해 새 AI 모델 시리즈 '라마 4'를 공개했다. 6일 테크크런치 등 외신에 따르면 메타는 멀티모달 기반 라마 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 추론 CoT 신뢰성, '빨간불'…사고과정 드러낸다더니 숨겼다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250405224150</link>
@@ -149,22 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250404111824</guid>
             <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[아카마이가 쿠키런 게임 서버를 글로벌 수준으로 끌어올린다. 전 세계 수억 명 사용자가 언제 어디서나 끊김 없는 플레이를 즐기게 될 전망이다. 아카마이코리아는 데브시스터즈가 아카...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 탄핵 만장일치… SW 업계, 디지털 정책 전면 전환 요구]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404120308</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404120308</guid>
-            <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[헌법재판소가 윤석열 대통령 탄핵심판에서 재판관 전원 일치 의견으로 파면을 선고했다. 이에 따라 곧바로 조기대선 국면에 접어들면서 60일 내에 새로운 행정부가 출범하게 됐다. 4...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] "자율주행 해킹 걱정 끝"···시옷, '서울모빌리티쇼'서 솔루션 소개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404145558</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404145558</guid>
-            <pubDate>Fri, 04 Apr 2025 06:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[“자율주행 자동차가 길을 달리는 모습을 상상해 보세요. 그런데 해커가 중간에 꼈어요. 차량인 것처럼 통신하네요. 분명히 사고 날 환경인데 '사고가 안 날 테니 이렇게 가라'고 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
