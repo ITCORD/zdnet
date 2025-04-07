@@ -4,9 +4,41 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 01:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 03:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깃허브, VS 코드에 '에이전트 모드' 전면 도입]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407112912</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407112912</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브가 인공지능(AI) 도구 '코파일럿'에 에이전트 기능을 도입해 개발 자동화를 업그레이드했다. 깃허브는 비주얼 스튜디오 코드 버전에 '에이전트 모드' 단계적 적용과 클라우드...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 허위정보·폭력성 자동 감지…MS, AI 보안 점검 도우미 공개]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407110225</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407110225</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 허위정보, 폭력성과 혐오 표현, 민감 정보 유출 등 인공지능(AI) 서비스 중 발생할 수 있는 위험 요소를 자동으로 점검하고 수치화하는 AI 도구를 선보...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[新 LLM 내놓은 메타, 벤치마크 모델 성능 조정 의혹…"일반 버전과 달라"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407103829</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407103829</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 새 인공지능(AI) 모델 성능 테스트에 사용한 모델과 실제 일반 버전이 다른 정황이 포착됐다. 7일 테크크런치에 따르면 메타가 챗봇 성능을 비교하는 'LM 아레나' 테스...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김연수 대표 "기본급 없이 성과만으로"… AI 승부수 본격화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407094930</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407094930</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[한글과컴퓨터(이하 한컴) 김연수 대표가 올해 AI 사업으로 성과를 거두는 원년으로 만들기 위해 직접 영업 전선에 뛰어들고 성과 중심의 인사 혁신을 단행하는 등 승부수를 띄운다....]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[머스크, 오픈AI 상대 소송 본격화…내년 배심원 재판]]></title>
             <link>https://zdnet.co.kr/view/?no=20250406120015</link>
@@ -133,38 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250404171132</guid>
             <pubDate>Fri, 04 Apr 2025 08:17:56 GMT</pubDate>
             <content:encoded><![CDATA[로크웰 오토메이션이 아마존웹서비스(AWS)와 전략적 파트너십을 체결하고 제조 산업의 디지털 전환(DX) 가속을 위한 협력에 나섰다. 로크웰 오토메이션은 번 파트너십을 통해 클라...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Q&AI] 美 관세 폭탄…韓 국민에 미칠 영향은]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404163817</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404163817</guid>
-            <pubDate>Fri, 04 Apr 2025 08:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[질문: 미국의 관세 정책이 한국의 일반 국민들에게 끼칠 영향을 분석해줘. 젠스파크 답변: 안녕하세요. 미국의 관세 정책이 한국의 일반 국민들에게 끼치는 영향에 대해 분석해 드리...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, 2024년 흑자 전환…AI MSP·해외 법인 성과]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404161342</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404161342</guid>
-            <pubDate>Fri, 04 Apr 2025 08:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[베스핀글로벌이 인공지능(AI) 클라우드서비스관리(MSP)와 해외 법인 확대 힘입어 연결 기준 영업이익 및 당기순이익 흑자 전환을 달성했다. 베스핀글로벌은 2024년 연결 재무제...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메가존클라우드-델, AI·하이브리드 클라우드 총판 계약]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404160240</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404160240</guid>
-            <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[메가존클라우드(대표 염동훈)가 델 테크놀로지스와 협력해 인공지능(AI) 및 하이브리드 클라우드 시장 공략을 본격화한다. 메가존클라우드는 델 테크놀로지스와 총판 계약을 체결하고 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOSA-한국자동차모빌리티산업협회, 글로벌 협력 맞손]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404155243</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404155243</guid>
-            <pubDate>Fri, 04 Apr 2025 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[한국소프트웨어산업협회(KOSA)는 한국자동차모빌리티산업협회(KAMA)와 모빌리티 소프트웨어(SW) 글로벌 경쟁력 확보를 위해 협력한다. KOSA는 경기도 고양시 킨텍스에서 KA...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
