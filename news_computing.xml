@@ -4,9 +4,33 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 06:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 07:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 직장인에게 스트레스 준다고?…600명 조사 결과 충격]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407154842</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407154842</guid>
+            <pubDate>Mon, 07 Apr 2025 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[직장 AI의 득과 실: 조직 내 AI 사용자 62.8%가 일자리 대체 우려해 대만의 국립 타이완 사범대학교 연구팀의 논문에 따르면, 인공지능(AI)이 조직 업무 흐름에 빠르게 ...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사람들은 왜 AI에 끌릴까?…영화로 본 인간과 AI의 애착]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407154204</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407154204</guid>
+            <pubDate>Mon, 07 Apr 2025 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[대인관계 기능 장애와 AI 인격화 인식: 인간-AI 애착의 두 가지 핵심 동인 생성형 AI 기술이 발전하면서 감정적 지원과 공감 기능을 갖춘 소셜 컴패니언 AI(SCAI)는 점...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트웰브랩스, 아마존 '베드록' 입성…韓 최초로 영상 AI 모델 공급]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407151125</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407151125</guid>
+            <pubDate>Mon, 07 Apr 2025 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[트웰브랩스가 아마존의 대표 인공지능(AI) 플랫폼에 입성한다. 세계 주요 파운데이션 모델 기업들과 어깨를 나란히 하며 글로벌 영상 AI 시장 주도권 확보에 나서는 모양새다. 트...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["전 세계 사용자 수 2위, 매출은 겨우 이정도?"…오픈AI, 印서 '공짜 성장'에 갇혔다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250407124609</link>
@@ -60,7 +84,7 @@
             <link>https://zdnet.co.kr/view/?no=20250407094930</link>
             <guid>https://zdnet.co.kr/view/?no=20250407094930</guid>
             <pubDate>Mon, 07 Apr 2025 03:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[한글과컴퓨터(이하 한컴) 김연수 대표가 올해 AI 사업으로 성과를 거두는 원년으로 만들기 위해 직접 영업 전선에 뛰어들고 성과 중심의 인사 혁신을 단행하는 등 승부수를 띄운다....]]></content:encoded>
+            <content:encoded><![CDATA[김연수 한글과컴퓨터 대표가 올해 AI 사업으로 성과를 거두는 원년으로 만들기 위해 직접 영업 전선에 뛰어들고 성과 중심의 인사 혁신을 단행하는 등 승부수를 띄운다. 한컴은 김 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
@@ -141,30 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250405124648</guid>
             <pubDate>Sat, 05 Apr 2025 05:14:07 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI)이 일상과 산업의 변화를 이끄는 원동력으로 주목받으며 인식의 온도차도 극명한 것으로 나타났다. 전문가들은 AI가 미래를 긍정적으로 바꿀 것이라 믿지만, 대중은 A...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 인프라 대안 나올까"…망고부스트, 엔비디아 넘은 추론 성과 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250405133053</link>
-            <guid>https://zdnet.co.kr/view/?no=20250405133053</guid>
-            <pubDate>Sat, 05 Apr 2025 05:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[망고부스트가 업계 표준 성능 테스트에서 인공지능(AI) 추론(inference) 분야의 신기록을 세우며 거대언어모델(LLM) 시대에 대응할 수 있는 새로운 기술적 대안을 제시했...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["정국 안정, AI 정책 새 출발"…尹 파면으로 추진력 회복 기대]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404164108</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404164108</guid>
-            <pubDate>Sat, 05 Apr 2025 00:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[헌법재판소가 윤석열 전 대통령의 탄핵을 인용하며 장기화된 정국 혼란이 마무리됐다. 업계는 인공지능(AI) 전략기술 정책의 추진 동력이 회복될 것으로 기대하고 있다. 5일 업계에...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정동영 "AI 가장 잘 쓰는 나라 만들겠다"…국회, FACE 전략 제안]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250404174432</link>
-            <guid>https://zdnet.co.kr/view/?no=20250404174432</guid>
-            <pubDate>Fri, 04 Apr 2025 23:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[국회가 대한민국을 '세계에서 인공지능(AI)을 가장 잘 쓰는 나라'로 만들기 위한 국가 전략 구상에 나선다. 정동영 더불어민주당 의원을 비롯한 여야 의원들이 AI 생태계 전반을...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
