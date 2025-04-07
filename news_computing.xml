@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 12:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 13:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금보원, 스마트폰 NFC 결제 정보를 가로채는 새로운 사이버 위협 경고]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407221515</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407221515</guid>
+            <pubDate>Mon, 07 Apr 2025 13:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 박상원)은 7일 NFC 결제 정보를 탈취해 부정결제와 무단 출금에 악용하는 새로운 사이버 위협이 확산되고 있다고 밝히며 금융회사와 금융소비자의 각별한 주의를 당...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스패로우, '블랙햇 아시아 2025' 참가···'스패로우 온디맨드'로 아세안 시장 정조준]]></title>
             <link>https://zdnet.co.kr/view/?no=20250407210435</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250407122659</guid>
             <pubDate>Mon, 07 Apr 2025 03:37:34 GMT</pubDate>
             <content:encoded><![CDATA[포시에스가 국내 클라우드 행사에 참여해 30년간 쌓은 전자문서·전자계약 기술력을 뽐냈다. 포시에스는 지난 3일 서울 양재동 엘타워에서 개최된 '2025 클라우드 컨퍼런스'에 참...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, VS 코드에 '에이전트 모드' 전면 도입]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250407112912</link>
-            <guid>https://zdnet.co.kr/view/?no=20250407112912</guid>
-            <pubDate>Mon, 07 Apr 2025 03:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[깃허브가 인공지능(AI) 도구 '코파일럿'에 에이전트 기능을 도입해 개발 자동화를 업그레이드했다. 깃허브는 비주얼 스튜디오 코드 버전에 '에이전트 모드' 단계적 적용과 클라우드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
