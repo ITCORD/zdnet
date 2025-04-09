@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 방송/통신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 05:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 한국문학번역원과 인재 양성 협력]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250409134429</link>
+            <guid>https://zdnet.co.kr/view/?no=20250409134429</guid>
+            <pubDate>Wed, 09 Apr 2025 05:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 영상자막 국내 인재 양성을 위한 한국문학번역원과의 협력을 이어간다. 넷플릭스는 지난해 한국문학번역원과 파트너십을 체결하고 시범 교육 프로그램을 운영하며 기존 영상 자...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ETRI, '빛'으로 AI 딥러닝 도전…그래핀 분산성 문제 해결]]></title>
             <link>https://zdnet.co.kr/view/?no=20250409103055</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250407114228</guid>
             <pubDate>Mon, 07 Apr 2025 03:00:42 GMT</pubDate>
             <content:encoded><![CDATA[저궤도 위성통신 연구개발(R&amp;D) 사업이 본격적으로 시작된다. 본격적인 위성통신 시대 준비와 함께 6G 통신 시대 필수 인프라를 갖추겠다는 뜻이다. 유상임 과학기술정보통신부 장...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, AI로 보이스피싱 막았다…2개월간 160억원 피해 예방]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250407102249</link>
-            <guid>https://zdnet.co.kr/view/?no=20250407102249</guid>
-            <pubDate>Mon, 07 Apr 2025 03:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 인공지능(AI) 기반 보이스피싱 탐지서비스 상용화 이후 두 달간의 운영 성과를 공개하며, AI 기술이 실질적인 보이스피싱 피해 예방에 기여하고 있음을 입증했다. KT는 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>

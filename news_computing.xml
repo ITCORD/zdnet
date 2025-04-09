@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 04:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 05:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 나무기술, '칵테일 버트' 공개…VM웨어 비용 부담 최소화]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250409115620</link>
+            <guid>https://zdnet.co.kr/view/?no=20250409115620</guid>
+            <pubDate>Wed, 09 Apr 2025 05:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[나무기술이 '칵테일 버트'를 앞세워 VM웨어 라이선스 비용 증가에 부담을 느끼는 고객을 겨냥한 윈백(Win-Back) 전략을 제시했다. 컨테이너와 가상머신(VM)을 하나의 플랫...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["국회는 A, 현장은 Z"…조국혁신당 AI특위, 정책 괴리 해소 나선다]]></title>
             <link>https://zdnet.co.kr/view/?no=20250409112051</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250408161646</guid>
             <pubDate>Tue, 08 Apr 2025 08:18:37 GMT</pubDate>
             <content:encoded><![CDATA[파이낸셜타임즈(FT)가 뉴엔AI를 2년 연속 '아시아·태평양 고성장 기업'으로 선정했다. 생성형 인공지능(AI) 기술력을 기반으로 한 회사의 글로벌 경쟁력이 공신력 있는 외신을...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 투자 확대하는 IBM, 데이터·인프라 기업 인수 '러시']]></title>
-            <link>https://zdnet.co.kr/view/?no=20250408162343</link>
-            <guid>https://zdnet.co.kr/view/?no=20250408162343</guid>
-            <pubDate>Tue, 08 Apr 2025 08:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[IBM이 인공지능(AI) 사업을 강화하기 위해 IT 영역별 특화된 기업들을 연이어 인수하고 있다. 8일 테크크런치에 따르면 IBM은 글로벌 데이터·AI 컨설팅 기업인 하코다(H...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
