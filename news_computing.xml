@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 11:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 12:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["AI, 업무 전반에 녹아든다"…구글, 인프라부터 에이전트까지 '기술 총동원']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250407154621</link>
+            <guid>https://zdnet.co.kr/view/?no=20250407154621</guid>
+            <pubDate>Wed, 09 Apr 2025 12:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글 클라우드가 인공지능(AI) 전 계층에 걸친 기술 청사진을 공개하며 업무 자동화를 넘어 AI 기반 기업 운영 방식 전반의 전환을 예고했다. 구글 클라우드는 최근 '구글 클라...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 혁신의 두 얼굴…알파고는 환경 살리고 제미나이는 편향 키운다?]]></title>
             <link>https://zdnet.co.kr/view/?no=20250409200828</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250409112051</guid>
             <pubDate>Wed, 09 Apr 2025 03:30:05 GMT</pubDate>
             <content:encoded><![CDATA[조국혁신당이 당내 인공지능(AI) 특별위원회를 발족하며 기술 주도권과 정책 실효성 확보에 나섰다. 탄핵 정국이 4개월 간 지속돼 AI 정책 공백 우려가 커지는 가운데 당 차원의...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프, AI 데이터센터 전력난에 '석탄 부활' 선언]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250409104227</link>
-            <guid>https://zdnet.co.kr/view/?no=20250409104227</guid>
-            <pubDate>Wed, 09 Apr 2025 02:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[미국 트럼프 행정부가 늘어나는 인공지능(AI) 데이터센터 전력 수요를 충족하기 위한 자원으로 석탄을 꼽아 환경단체로부터 비판을 받고 있다. 9일 악시오스 등 외신에 따르면 도널...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
