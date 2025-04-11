@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 03:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 04:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["1분짜리 AI 영상도 가능?"…엔비디아 TTT로 만든 '톰과 제리']]></title>
+            <link>https://zdnet.co.kr/view/?no=20250411131249</link>
+            <guid>https://zdnet.co.kr/view/?no=20250411131249</guid>
+            <pubDate>Fri, 11 Apr 2025 04:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[AI 영상의 한계는 20초? 'TTT'는 1분짜리 복잡한 이야기까지 가능했다 기존의 생성형 AI는 몇 초 길이의 단편 영상만 생성할 수 있었다. 오픈AI(OpenAI)의 소라(...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[챗GPT 다음은 '이것'?…구글 멀티모달 AI가 바꿀 로보틱스 혁명]]></title>
             <link>https://zdnet.co.kr/view/?no=20250411105705</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250410164843</guid>
             <pubDate>Thu, 10 Apr 2025 08:18:02 GMT</pubDate>
             <content:encoded><![CDATA[국내 주요 IT서비스 기업인 LG CNS가 클라우드와 인공지능(AI)을 중심으로 한 디지털 전환 흐름 속에서 본격적인 성장세를 예고하고 있다. 증권가에서도 산업 전환의 중심축으...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코헤시티-구글클라우드, AI 보안 솔루션 개발 협력]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250410164200</link>
-            <guid>https://zdnet.co.kr/view/?no=20250410164200</guid>
-            <pubDate>Thu, 10 Apr 2025 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[코헤시티가 구글클라우드와 파트너십을 확대해 사이버 보안 대응 높이기에 나섰다. 코헤시티는 구글클라우드와 손잡고 보안 제품 포트폴리오를 업그레이드한다고 10일 밝혔다. 우선 두 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
