@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 최신 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 21:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 22:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["가스레인지 삼발이 커버, 일산화탄소 중독 위험"]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250412175949</link>
+            <guid>https://zdnet.co.kr/view/?no=20250412175949</guid>
+            <pubDate>Sat, 12 Apr 2025 22:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[가스레인지에 삼발이 커버를 부착해 사용하면 일산화탄소(CO) 중독 우려가 있는 것으로 나타났다. 한국소비자원과 한국가스안전공사에 따르면 온라인에서 가스레인지 삼발이 커버 5종을...]]></content:encoded>
+            <enclosure url="https://image.zdnet.co.kr/2025/04/12/8fddb25254aff966ab28cd7908926e9e-290x182.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[관세 '핑퐁게임' 휘말린 테슬라, 새우등 신세]]></title>
             <link>https://zdnet.co.kr/view/?no=20250412234710</link>
@@ -21,7 +29,7 @@
             <guid>https://zdnet.co.kr/view/?no=20250412233012</guid>
             <pubDate>Sat, 12 Apr 2025 19:11:19 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 상호관세 부과 대상에서 스마트폰과 컴퓨터, 반도체 등 일부 품목을 제외했다고 블룸버그통신 등 외신이 12일 보도했다. 미국 국토안보부 산하 세관국경보호국은 11일(...]]></content:encoded>
-            <enclosure url="https://image.zdnet.co.kr/2025/01/23/d6ed4cd9cf942cb3d303c7df6f599bd8-290x182.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['나혼렙 SLC 2025', 첫 글로벌 챔피언십 성료…e스포츠 가능성 입증]]></title>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250411235026</guid>
             <pubDate>Sat, 12 Apr 2025 03:27:37 GMT</pubDate>
             <content:encoded><![CDATA[퀀티뉴엄(Quantinuum)이 양자컴퓨터를 활용해 위상수학 분야에서 난제로 꼽힌 매듭 이론(knot theory)을 양자 알고리즘으로 계산하는 데 성공했다. 이는 그동안 이론...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[만지고 주무르는 3D 홀로그램 나왔다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250412064101</link>
-            <guid>https://zdnet.co.kr/view/?no=20250412064101</guid>
-            <pubDate>Sat, 12 Apr 2025 03:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[공상과학 영화에서나 보던 미래형 홀로그램 기술이 현실로 다가왔다. 과학 전문 매체 라이브사이언스는 10일(현지시간), 사용자가 손으로 만지고 조작할 수 있는 3D 홀로그램 기술...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
