@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 02:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 03:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[처음으로 '진짜 문제' 푼 양자컴퓨터…매듭이론 계산 성공]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250411235026</link>
+            <guid>https://zdnet.co.kr/view/?no=20250411235026</guid>
+            <pubDate>Sat, 12 Apr 2025 03:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[퀀티뉴엄(Quantinuum)이 양자컴퓨터를 활용해 위상수학 분야에서 난제로 꼽힌 매듭 이론(knot theory)을 양자 알고리즘으로 계산하는 데 성공했다. 이는 그동안 이론...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI챗봇과 역할 놀이?…성적 대화 유출]]></title>
             <link>https://zdnet.co.kr/view/?no=20250412101333</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250411081042</guid>
             <pubDate>Fri, 11 Apr 2025 01:01:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈AI가 '챗GPT'의 기억력을 대폭 업데이트했다. 기존처럼 명령을 입력해야 정보를 기억하던 방식에서 벗어나 대화 중 중요한 내용을 인공지능(AI)이 스스로 저장·활용하도록 ...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GPT-4.5 '튜링 테스트' 통과…정말 사람과 똑 같을까]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250411091107</link>
-            <guid>https://zdnet.co.kr/view/?no=20250411091107</guid>
-            <pubDate>Fri, 11 Apr 2025 01:01:59 GMT</pubDate>
-            <content:encoded><![CDATA[“기계는 생각할 수 있는가?” 이제, 그 질문에 다시 답할 때입니다. 2025년, 인공지능(AI) 분야에 있어 역사적인 사건이 일어났습니다. 최신 AI 언어 모델 GPT-4.5...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
