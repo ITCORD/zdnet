@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 컴퓨팅</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Apr 2025 07:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 08:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈AI, 3번째 AI 에이전트 출시 앞둬]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250413161854</link>
+            <guid>https://zdnet.co.kr/view/?no=20250413161854</guid>
+            <pubDate>Sun, 13 Apr 2025 08:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[챗GPT 개발사인 오픈AI가 소프트웨어(SW) 엔지니어링을 대신할 수 있는 신규 AI 에이전트 출시를 시사했다. 13일 골드만삭스에 따르면 오픈AI는 세 번째 AI 에이전트 '...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생성형 AI 시대, 늘어나는 오픈소스 SW 도입…"보안·거버넌스 마련해야"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250413132908</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250411094017</guid>
             <pubDate>Fri, 11 Apr 2025 05:15:28 GMT</pubDate>
             <content:encoded><![CDATA[영국 정부가 인공지능(AI) 정책의 중심축을 '안전'에서 '기회'로 전환한 가운데 글로벌 AI 시장의 주도권을 다시 선점하기 위한 실리 중심 전략에 본격 시동을 걸고 있다. 이...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["AI로 30분 내 진화"…퀀텀에어로, 무인기 기반 산불 대응 혁신 나선다]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250411130004</link>
-            <guid>https://zdnet.co.kr/view/?no=20250411130004</guid>
-            <pubDate>Fri, 11 Apr 2025 05:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[퀀텀에어로가 인공지능(AI) 기반 무인항공시스템을 통한 산불 대응 체계의 전환을 시도하고 있다. 인력·헬기 중심의 기존 방식 한계를 넘는 기술 해법으로 초동 대응의 속도와 정확...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
