@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 05:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 06:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 원UI 8, 이렇게 나온다…스크린샷 유출]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250415133801</link>
+            <guid>https://zdnet.co.kr/view/?no=20250415133801</guid>
+            <pubDate>Tue, 15 Apr 2025 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 개발 중인 차세대 스마트폰 운영체제(OS) '원UI 8'의 스크린샷이 유출됐다고 인도 IT매체 스마트프릭스가 14일(현지시간) 보도했다. 해당 매체는 삼성 갤럭시Z폴...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[폴더블 아이폰, 화면 사양 나왔다…"폴더블 화면에 UDC 지원"]]></title>
             <link>https://zdnet.co.kr/view/?no=20250415080407</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250414094719</guid>
             <pubDate>Mon, 14 Apr 2025 01:04:34 GMT</pubDate>
             <content:encoded><![CDATA[한국엡손이 14일 카카오톡 챗봇을 이용한 인쇄 서비스 '엡손 프린톡'(PrinTalk)을 출시했다. 카카오톡 채널 '엡손 프린톡'을 추가한 후 클라우드 기반 인쇄 서비스 '엡손...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 새 비전 프로 개발 중…가볍고 저렴하다"]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250414074817</link>
-            <guid>https://zdnet.co.kr/view/?no=20250414074817</guid>
-            <pubDate>Mon, 14 Apr 2025 01:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 더 가볍고 저렴한 차기 비전 프로 헤드셋을 개발 중이라고 블룸버그 통신이 13일(현지시간) 보도했다. 블룸버그 마크 거먼은 파워온 뉴스레터를 통해 애플이 비전 프로 헤드...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
