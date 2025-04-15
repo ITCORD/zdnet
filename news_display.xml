@@ -4,9 +4,17 @@
         <title>지디넷코리아 ─ 뉴스 ─ 반도체/디스플레이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 23:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 01:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, 美에 AI 슈퍼컴 공급망 구축…삼성·SK도 대응 필요]]></title>
+            <link>https://zdnet.co.kr/view/?no=20250415083433</link>
+            <guid>https://zdnet.co.kr/view/?no=20250415083433</guid>
+            <pubDate>Tue, 15 Apr 2025 01:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[엔비디아가 향후 4년간 약 5천억 달러(한화 약 700조원)를 들여 미국에 AI 반도체·슈퍼컴퓨터 양산 공장을 짓는다. TSMC·암코·폭스콘 등 주요 협력사들과 전체적인 공급망...]]></content:encoded>
+            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 반도체 추가 관세 '초읽기'...年 23조원 수출 타격]]></title>
             <link>https://zdnet.co.kr/view/?no=20250414152421</link>
@@ -157,14 +165,6 @@
             <guid>https://zdnet.co.kr/view/?no=20250409140734</guid>
             <pubDate>Wed, 09 Apr 2025 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[SK하이닉스가 창립 42년만에 삼성전자의 D램 매출액을 추월한 것으로 나타났다. 올 1분기 시장 점유율은 36%로, HBM(고대역폭메모리) 부문에서 70%에 달하는 점유율을 차...]]></content:encoded>
-            <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디노티시아·한양대, AI양자화 평가 플랫폼 오픈소스로 공개]]></title>
-            <link>https://zdnet.co.kr/view/?no=20250408112935</link>
-            <guid>https://zdnet.co.kr/view/?no=20250408112935</guid>
-            <pubDate>Tue, 08 Apr 2025 05:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)·반도체 통합 솔루션 전문기업 디노티시아는 한양대학교 AIHA 연구실과 산학협력 연구를 통해 개발한 AI 양자화 알고리즘 평가 플랫폼, 'QLLM-INFER'를 ...]]></content:encoded>
             <enclosure url="https://zdnet.co.kr/images/default.png?ver=20220905" length="0" type="image/png"/>
         </item>
     </channel>
